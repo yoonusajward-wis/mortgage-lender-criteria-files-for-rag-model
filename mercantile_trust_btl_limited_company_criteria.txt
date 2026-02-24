@@ -1,0 +1,299 @@
+LENDER NAME: Mercantile Trust
+PRODUCT: BTL Limited Company
+
+# Mercantile Trust - Buy to Let (Limited Company) Lending Criteria
+**Source:** https://www.mercantiletrust.co.uk/intermediaries-hub/product-criteria-and-calculators#guides
+**PDF:** https://www.mercantiletrust.co.uk/media/w4qhycah/_btl-matrix-oct-v18.pdf
+**Last Updated:** October 2024 (v18 - 30 Oct 2025)
+
+**FOR INTERMEDIARY USE ONLY**
+
+**Note:** This is a Non Regulated Term Loans Guide covering Buy to Let mortgages for limited company applicants. Limited company applications are accepted with no rate loading and no SIC code requirement.
+
+---
+
+## Contact Details
+
+**Underwriters:**
+* Phone: 01923 280328 | 0800 032 5282
+* Email: uw@mercantiletrust.co.uk
+
+**Underwriting Manager:**
+* Phone: 01923 280112
+* Email: julie.meehan@mercantiletrust.co.uk
+
+**Referrals:**
+* Phone: 0800 032 5282
+* Email: referrals@mercantiletrust.co.uk
+
+**Submissions:**
+* Email: uw@mercantiletrust.co.uk
+
+**BDM:**
+* Phone: 07562 209858
+* Email: nina.kainth@mercantiletrust.co.uk
+
+**Internal BDM:**
+* Phone: 01923 280116
+* Email: vicky.osullivan@mercantiletrust.co.uk
+
+**Service Standards:**
+* Applications received before 3pm will be sent the update same day
+* Commission paid in 24 hours
+* Referrals responded to within 2 hours between 8am-5pm
+
+---
+
+## Overview
+
+Mercantile Trust offers Non Regulated Term Loans (Buy to Let mortgages) for limited company applicants. The lender provides flexible BTL products suitable for property investors, with products available for both personal and limited company applications.
+
+### Key Features
+
+* **Geographic Coverage:** England, Scotland, Wales and Northern Ireland
+* **Loan Range:** Borrow from £10,000 to £500,000 for any legal purpose
+* **Security:** 1st and 2nd charges up to 75% LTV
+* **Adverse Credit:** Accepted
+* **Limited Company Applications:** Accepted with no rate loading and no SIC code requirement
+* **Portfolio Landlords:** No background property stress testing for portfolio landlords
+* **Property Types:** Available on all rental properties including Holiday Lets, HMOs, MUFBs, and Student Lets
+* **Multiple Loans:** Up to 5 loans per applicant - Max £1 million
+* **Tenants:** DSS tenants welcome
+* **Property Cross Charging:** Available for the same product
+* **Exclusions:** No heavy refurb or development
+* **Consumer Buy to Lets:** Not accepted (please refer to the Unregulated BTL VS CBTL Guide)
+
+---
+
+## Interest Rates
+
+### 1st Charge Rates
+
+| Status | Max LTV | Net Loan Size | Variable Rate | 2yr Fixed | 3yr Fixed | 5yr Fixed | 5yr Fixed No ERCs |
+|--------|---------|---------------|---------------|-----------|------------|-----------|-------------------|
+| 0 | 75% | 10-500k | 11.90% | 10.90% | 10.80% | 10.69% | 11.19% |
+| 1 | 75% | 10-500k | 12.15% | 11.15% | 11.05% | 10.94% | 11.44% |
+| 2 | 70% | 10-250k | 12.40% | 11.40% | 11.30% | 11.19% | 11.69% |
+
+### 2nd Charge Rates
+
+| Status | Max LTV | Net Loan Size | Variable Rate | 2yr Fixed | 3yr Fixed | 5yr Fixed | 5yr Fixed No ERCs |
+|--------|---------|---------------|---------------|-----------|------------|-----------|-------------------|
+| 0 | 75% | 10-300k | 12.05% | 11.05% | 10.95% | 10.84% | 11.34% |
+| 1 | 75% | 10-300k | 12.30% | 11.30% | 11.20% | 11.09% | 11.59% |
+| 2 | 70% | 10-100k | 12.55% | 11.55% | 11.45% | 11.34% | 11.84% |
+
+### Loan Terms
+
+* **Term:** 36-300 months
+* **Exclusions:** Max 70% LTV in Northern Ireland with net loan of £150k
+* **Rate Loading:** No rate loading for limited company applications
+
+---
+
+## Fees, Costs and Commission
+
+### Lender Fees
+
+| Product | Lender Fee | Packaged* Completions | Legal Fee | Processing Fee | NCI/Field Connect | Commission We Pay |
+|---------|------------|----------------------|-----------|---------------|-------------------|-------------------|
+| All purchases, remortgages, and unencumbered £100k and over in EWS and NI | 3% | £999 added to lender fee | on request | £0 | £0 | 2% |
+| 2nd charges, remortgages and unencumbered under £100k in England, Wales and Scotland | 3% | £999 added to lender fee | £0 | £0 | £0 | 2% |
+| 2nd charges and unencumbered under £100k in Northern Ireland | 3% | £999 added to lender fee | £899 added to lender fee | £0 | £0 | 2% |
+
+*Packaged completions are where we liaise directly with the client and third parties for you. All you need to send us is a calculator, a signed application form, and submission form. We will take care of the rest.
+
+### Title Insurance
+
+Title insurance will speed up our side of the legal process. Typically used for auction finance. If selected, a fee will be added to the lender fee. The client will then have to cover all legal costs.
+
+* Loans under £300k: £699 will be added to the lender fee
+* Loans £300k and over: £999 will be added to the lender fee
+
+### Legal Representation
+
+* **Northern Ireland solicitors:** McCartan Turkington Breen
+* **England and Wales solicitors:** Veale Wasborough Vizards or Birketts
+* **Scottish solicitors:** Wilson McKendrick
+* **Field Connect:** Available for speedy document collection on request - fee is £78
+
+### Introducer Fees
+
+* Max 15% introducer fee (£10k max) calculated on the net loan
+
+---
+
+## Early Repayment Charges
+
+Our fixed rate ERC's are calculated on the net loan borrowed. A £245 discharge fee applies to all loans.
+
+| Product | Year 1 | Year 2 | Year 3 | Year 4 | Year 5 |
+|---------|--------|--------|--------|--------|--------|
+| Variable rate | 0% | 0% | 0% | 0% | 0% |
+| 2yr fixed rate | 2% | 1% | 0% | 0% | 0% |
+| 3yr fixed rate | 3% | 2% | 1% | 0% | 0% |
+| 5yr fixed rate | 5% | 4% | 3% | 2% | 1% |
+| 5yr fixed No ERC | 0% | 0% | 0% | 0% | 0% |
+
+* Fixed rates revert to the equivalent variable rate at the end of the fixed rate period
+* We accept unlimited overpayments without penalty
+
+---
+
+## Applicant & Affordability Criteria
+
+### Limited Company Requirements
+
+* **Directors:** Limited company applications - max 4 directors
+* **SIC Code:** No SIC code requirement
+* **Rate Loading:** No rate loading for limited company applications
+* **Applicant age:** 18 years to 85 years at term end (applies to directors/guarantors)
+* **ID Verification:** Nivo ID through Mercantile Trust app and full 3 year proof of UK residency required (for directors/guarantors)
+* **Portfolio Landlords:** Unlimited BTL properties in background accepted, no stress on portfolio
+* **Mortgage History:** 6 months' mortgage history required - we do not follow Together or CHL Mortgages
+* **Income Requirements:** No minimum or maximum income £ levels (unless a first time buyer/landlord)
+* **First Time Buyer/Landlord:** Minimum income £22,500 and max LTV 65%
+* **Tenant Restrictions:** Tenants must not be blood related to the applicant (Parents, grandparents, siblings or children)
+
+### Affordability
+
+* **DSCR:** 125% - affordability calculator includes 1% stress rate
+* **Rental Income:** Valid ASTs for BTLs plus latest bank statement to show rental income
+* **Rent Calculation:** Rent used will be the lowest from the AST, valuation or AVM. (Refer if you can provide market evidence) - except HMO, MUFBs, and Student Lets
+* **Income Sources:** BTL surplus and external income used inc. Self employed income and benefit/pension income
+* **Untenanted Properties:** Proof that 3 months' rental payments can be covered for untenanted property purchases or first charge light refurbishment
+
+---
+
+## Property Types
+
+### Standard Buy to Let
+
+Standard BTL criteria as outlined above.
+
+### HMO (House in Multiple Occupation)
+
+* License or application for HMOs to be provided if required
+* ASTs are required for all tenants. These can be either individual agreements or a joint AST covering all tenants
+* Valuation figure must be based on the residential value
+* Rent from the ASTs and bank statement will be used
+* No EPC Required
+
+### Holiday Lets
+
+* Must own their residence (applies to directors/guarantors)
+* We accept 100% of current yearly holiday income from a SA302 or accounts certificate but if owned less than a year we will accept 50% of projected income from a letting agent
+* Can use surplus income or personal income to support application
+* No EPC Required
+
+### MUFBs (Multi-Unit Freehold Blocks)
+
+* 1st and 2nd charge available
+* If over 4 units, please refer
+* All tenants will require an AST, and rent from the ASTs and bank statement will be used
+
+### Student Let
+
+* ASTs are required for all tenants. These can be either individual agreements or a joint AST covering all tenants
+* If the AST term is for university year the rent will be averaged over 12 months
+* All tenants will require an AST, and rent from the ASTs and bank statement will be used
+
+### Homeowner Business Loans (Secured on the main residence)
+
+* 2nd charge only
+* The majority of the loan must be for business purposes - evidence will be required
+* Min loan is £25k
+* No EPC Required
+
+---
+
+## Adverse Credit Criteria
+
+We apply adverse credit status units as follows:
+
+### Mortgage or Secured Loan (Maximum 1 on application)
+
+* 1 status unit per arrear in the last 12 months
+* **We ignore:** Part or late payments if they've been made in the same calendar month. Any outstanding arrears prior to the last 12 months, units will be calculated according to the monthly instalment
+
+### Defaults
+
+* 1 status unit per default (no maximum amount)
+* **We ignore:** Sums <£300. Satisfied sums <£3,000. All over 12 months old
+
+### CCJs
+
+* 1 status unit per CCJ (no maximum amount)
+* **We ignore:** Sums <£300. Satisfied sums <£3,000. All over 12 months old
+
+### 3 Down on Credit Cards, Unsecured Loans, Utilities
+
+* 1 unit per credit card, unsecured loan or utility
+* **We ignore:** Sums <£300, accounts that are currently 2 or fewer payments unpaid, irrelevant of the previous account conduct
+
+### Other
+
+* **We ignore:** Mail order and communications (mobile phone) missed payments. Discharged bankruptcies or settled IVAs that are over 3 years old
+
+**Note:** Adverse credit assessment applies to directors/guarantors of the limited company.
+
+---
+
+## Property & Valuation Criteria
+
+### Property Requirements
+
+* **Minimum Size:** Minimum of 30 square metres in a property - Except individual rooms in HMO, MUFBs, and Student Lets
+* **Property Value:** Minimum £75k property value
+* **LTV Calculation:** Lower of on the market value or purchase price used for LTV
+* **Ex-Council Flats/Maisonettes:** Maximum LTV for ex-council flats/maisonettes: LTV: 75% => £150k Val, 65% <£150k
+* **High Valued Properties:** Maximum LTV for high valued properties: LTV: 75% =<£1m, 70% £1-1.5m, 65% > £1.5m
+* **Freehold Flats:** Maximum 65% LTV on freehold flats
+* **Buildings Insurance:** Current buildings insurance policy required
+* **EPC:** EPC certificate required - Must be at least E
+* **Construction Types:** Most construction types generally accepted - no holiday villages or parks
+* **High Rise Flats:** If a flat is in a block with over 6 floors, please refer
+
+### Valuation Requirements
+
+**Full valuation always required for:**
+* Purchases
+* Self builds
+* Holiday lets
+* Ex council flat
+* Properties >£500k over 65% LTV for properties outside the M25
+* Properties >£750k over 65% LTV for properties inside the M25
+
+### Valuation Types by LTV
+
+| Loan to Value | Net Loan Size | Type of Valuation Acceptable |
+|---------------|---------------|------------------------------|
+| Less than or equal to 65% | up to and including £200k | *Hometrack AVM with a confidence level of at least 4.0 or a **driveby/full valuation by an approved valuer |
+| Greater than 65% but less than or equal to 70% | up to and including £150k | Hometrack AVM with a confidence level of at least 5.0 or a **full valuation by an approved valuer |
+| Greater than 70% but less than or equal to 75% | up to and including £100k | Hometrack AVM with a confidence level of at least 6.0 or a **full valuation by an approved valuer |
+
+*Hometrack AVM to be carried out by the Broker
+
+**Driveby or full valuations are to be instructed by Pure Panel Management, DM Hall or Gateway
+
+---
+
+## Common Sense Lending
+
+If your case falls just outside our criteria, please call or email us to discuss case exceptions.
+
+* Phone: 0800 035 5282
+* Email: referrals@mercantiletrust.co.uk
+
+---
+
+## Website
+
+www.mercantiletrust.co.uk
+
+Live Chat available
+
+### Calculators
+
+* **Buy to Let Mortgages Calculator:** Available for download from the intermediaries hub
+* **Calculator Link:** https://www.mercantiletrust.co.uk/intermediaries-hub/product-criteria-and-calculators#guides

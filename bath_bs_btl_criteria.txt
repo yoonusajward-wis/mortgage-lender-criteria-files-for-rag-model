@@ -1,0 +1,603 @@
+LENDER NAME: Bath Building Society
+PRODUCT: Buy to Let
+
+BATH BUILDING SOCIETY - BUY TO LET LENDING CRITERIA
+====================================================
+
+Source: https://www.bathbuildingsociety.co.uk/intermediaries/browse-general-information/buy-to-let-lending-criteria/
+Last Updated: Information updated daily via Criteria Hub
+
+================================================================================
+LOAN DETAILS
+================================================================================
+
+Minimum Loan Size:
+- £50,000 for standard Buy to Let applications
+- £75,000 for individual applications (Note: This may be a higher threshold for certain applications)
+- £100,000 for Limited Company Buy to Let (Note: Society is not currently lending to Limited Companies)
+
+Minimum Property Value:
+- £100,000 for standard Buy to Let lending
+
+Maximum Loan Size:
+- £500,000 at 80% Loan to Value (LTV)
+- £1,500,000 at 75% LTV
+- £2,000,000 at 70% LTV
+
+Maximum Lending Limit (Group/Lender):
+- Maximum exposure limit: £1,500,000 per borrower with the Society or within the group
+
+Loan Term:
+- Minimum: 5 years
+- Maximum: 40 years
+
+Repayment Methods:
+- Capital Repayment (Capital & Interest) - Acceptable
+- Interest Only - Acceptable
+
+================================================================================
+APPLICANT CRITERIA
+================================================================================
+
+Age Limits:
+- Minimum Age: 21 years at application
+- Maximum Age: No maximum age at the point of application
+- Maximum Age at End of Term: No maximum (affordability must be proven into retirement)
+- Maximum Age for Self Employed Borrowers: No Maximum (no maximum age for BTL borrowers)
+- Note: Affordability must be proven into retirement for all applicants
+
+Income Requirements:
+- Minimum Household Income: £20,000 per annum (after all personal debts/commitments)
+- Income must be at least £20,000 after commitments
+- For Portfolio Landlords: Minimum income £20,000 after all personal debts
+
+Residency:
+- Applicants must be UK residents
+- Minimum UK Address History: 3 years (36 months)
+- Electoral Register: Not being on electoral register is acceptable subject to explanation and proof of address
+
+First Time Buyers:
+- Not Acceptable - Bath Building Society does not accept Buy to Let applications from 'First Time Buyers'
+
+First Time Landlords:
+- Acceptable - Bath Building Society can potentially accept Buy to Let applications from 'First Time Landlords'
+
+Portfolio Landlords:
+- Accepted - Portfolio Landlords are defined as having 4 or more completed qualifying rental properties (mortgaged or unencumbered)
+- Qualifying properties include:
+  * Privately owned Buy to Let rental properties
+  * Company owned Buy to Let rental properties (where applicant has shareholding of more than 1%)
+  * Consent to Let properties
+  * Holiday Lets
+  * Single title multi unit properties are counted as one property
+- Portfolio Landlord Minimum Experience: No minimum experience requirement
+- Maximum LTV Across Whole Portfolio: 75% (refer to lender - indicates maximum LTV of all properties owned by applicants across their entire portfolio, including mortgages held with lender/group and all other mortgages with other lenders)
+- Maximum Aggregate Portfolio LTV (within group or lender): 75% (refer to lender - indicates maximum LTV of all properties owned by applicants that are mortgaged to them or their group)
+- Lender or Group Maximum Number of Mortgages: No maximum (whole portfolio must be self financing)
+
+Credit Reference Agencies:
+- Uses Equifax (manual underwriting)
+- Does not use Experian
+- Does not use Transunion (formerly Callcredit)
+- Credit Search: Full/hard footprint (not soft footprint)
+- Number of credit reference agencies used: 1 (Equifax only)
+- Credit Scoring: No - Manual underwriting applies (we credit search but not credit score)
+
+Maximum Number of Applicants:
+- Maximum: 4 applicants allowed on a Buy to Let mortgage application
+
+Minimum Landlord Experience:
+- No minimum experience requirement (Bath Building Society has no minimum experience requirement for applicants)
+
+Minimum Length of Time Employed:
+- No minimum (Bath Building Society has no minimum length of time applicants need to have been in continuous employment)
+- Note: The applicant cannot be in a probation period
+
+Returning to UK:
+- Returning to UK - Employed: Not Acceptable (will not accept applications from applicants who are returning to the UK and going straight into employment)
+- Returning to UK - Self-Employed: Not Acceptable (will not accept applications from applicants who are returning to the UK and going straight into self-employment)
+
+Maximum Debt to Income Ratio:
+- No Maximum (we don't have a maximum as long as it fits income multipliers and affordability)
+
+================================================================================
+PROPERTY CRITERIA
+================================================================================
+
+Property Construction:
+- Must be of standard construction
+- Non-standard construction properties not accepted
+
+Property Location:
+- England and Wales: Acceptable
+- Scotland: Acceptable (Mainland Scotland and specific islands)
+    * The Shetlands
+    * The Orkneys
+    * Arran
+    * Bute
+    * Skye
+    * Harris & Lewis
+    * Mull
+    * Islay
+- Note: Valuations can take longer to book in the Scottish Isles
+
+Property Types - Maximum LTV:
+- Houses/Bungalows (Standard): 80% LTV
+- Houses/Bungalows (New Build): 80% LTV
+- Flats/Maisonettes (Standard): 80% LTV
+- Flats/Maisonettes (New Build): 80% LTV
+
+Property Type Restrictions:
+- HMO (House of Multiple Occupation): Not Acceptable - Bath Building Society does not accept HMO applications
+- HMO Rental Valuation Assessment: Not Applicable (we do not accept HMO applications - Bath Building Society does not accept HMO applications)
+- Multi Unit Freehold (multiple properties on same title): Not Acceptable
+  * Multi Unit Freehold Maximum Number of Flats: Up to 3 flats in a Multi Unit Freehold
+- Ex Local Authority Houses/Bungalows: Acceptable (must be 75% privately owned, non-standard construction not accepted, flats not accepted)
+  * Ex Local Authority Flats: Not Acceptable (we don't lend on ex-local authority flats)
+  * Maximum Number of Storeys for Ex Local Authority Flats: Not applicable (we don't lend on ex-local authority flats)
+  * Minimum Percentage of Properties under Private Ownership on Ex-Local Authority Blocks of Flats: 75% (Bath Building Society requires a minimum of 75% under private ownership in a block of ex-local authority flats)
+- Flats Above Commercial Offices: Acceptable (refer to lender, case-by-case basis)
+- Flats Above Commercial Food Outlet: Refer to lender
+- Converted Office Premises: Not Acceptable (please note we do not lend on converted office premises)
+- Converted Churches: Potentially acceptable (flats converted from commercial premises are not considered)
+- Properties with Acreage: Acceptable (up to 6 acres max, as long as no commercial activity is taking place)
+- Properties at Auction: Acceptable
+- Grade 1 Listed Building: Acceptable (refer to lender, assessed on a case by case basis)
+- Grade 2 Listed Building: Acceptable (refer to lender, assessed on a case by case basis)
+- Basement Flat: Refer to lender
+- Studio Flat: Acceptable (Bath Building Society can lend on studio flats)
+  * Studio Flat Minimum Floor Area: 30 square meters (our minimum square metre requirement when lending on studio flats is 30 sqm)
+- Freehold Flats and Maisonettes: Not Acceptable (does not lend on freehold flats and maisonettes in England & Wales)
+- Coach House: Refer to lender
+- Ex MOD Properties: Acceptable (please refer to lender)
+- Maximum Number of Storeys for Flats: 6 storeys maximum (anything over 4 storeys needs to be lift served)
+
+Property Construction - Specific Types:
+- Flying Freehold: Acceptable (no more than 15% flying freehold, agreed on a case by case basis)
+- Mundic Block: Acceptable (subject to valuer's comments and petrographic test)
+- Cornish Construction: Not Acceptable
+- Timber Framed: Acceptable (Modern Timber Framed post 1970 acceptable but exterior wall must be brick/block/stone)
+  * Timber Framed (Post 1970): Acceptable (subject to a full structural warranty)
+  * Timber Framed (1900 to 1970): Acceptable (subject to a full structural warranty)
+  * Timber Framed (Pre 1900): Not Acceptable
+- 100% Timber Construction: Not Acceptable
+- Wholly Timbered: Not Acceptable
+- Concrete Construction: Acceptable (subject to valuer's comments)
+- Steel Framed: Acceptable (subject to valuer's comments, must be built post 1987)
+- No-Fines: Acceptable (subject to valuer's comments)
+- Easiform: Acceptable (subject to valuer's comments)
+- Insulating Concrete Form (ICF): Acceptable
+- Structural Insulated Panel Solutions (SIPs): Acceptable (subject to being BOPAS accredited)
+- Modern Method of Construction (MMC): Acceptable (subject to valuer's comments and being an accredited scheme)
+- Off Site Manufactured (MMC): Acceptable
+- British Iron and Steel Federation (BISF): Acceptable (must be built post 1987)
+- Repaired Prefabricated Reinforced Concrete: Acceptable (subject to valuer's comments)
+- Non Repaired Prefabricated Reinforced Concrete: Not Acceptable
+- Large Panel System (LPS): Not Acceptable
+- Single Skin: Not Acceptable
+- Thatched Roof: Acceptable (subject to valuer's comments)
+- Woolaway: Acceptable (if repaired with the benefit of NHBC or Zurich warranty)
+- Potton Homes: Acceptable
+- Converted Church: Acceptable
+- Dutch Barns: Not Acceptable
+- BOPAS Accreditation: May be required for non-standard construction where the construction type is acceptable
+- EWS1 Required: Yes - Required on properties with combustible cladding or materials on balconies (will not lend without EWS1 form)
+- Tower Block with Cladding: Acceptable (will require an EWS1 form)
+- Majority Flat Roof: Acceptable (reliant on valuer's comments, majority classified as anything over 50%)
+- Properties with Asbestos: Acceptable (assessed on a case by case basis)
+- Spray Foam Insulation: Acceptable (subject to valuer's comments)
+
+Property Issues:
+- Absentee Freeholder: Acceptable (providing solicitor confirms indemnity insurance would fully protect)
+- Section 106 Restrictive Covenant: Acceptable (subject to mortgagee in possession clause, refer to lender)
+- Properties Next to Commercial:
+  * Class A1 (shops and retail): Acceptable
+  * Class A2 (professional services): Acceptable
+  * Class A3 (food and drink): Not Acceptable
+  * Class A4 (drinking establishments): Not Acceptable
+- Overhead Power Lines: Acceptable (if the lines do not run directly over the property we can potentially consider a case)
+- Mine Shafts: Not Acceptable (will not lend on properties that are close to a mine shaft)
+- Japanese Knotweed: Not Acceptable (if Japanese Knotweed or any other invasive species is identified within 7 metres of the property, the application may be declined)
+- Property Needing Refurbishment Before Letting: Not Acceptable (will not consider a Buy to Let application where the property requires refurbishment before it can be Let)
+- Underpinned Within Last 10 Years: Refer to lender
+- Unadopted Roads: Acceptable
+- Shared Access or Shared Services: Acceptable (Bath Building Society can potentially consider a property with shared access or shared services)
+  * Note: CANNOT CONSIDER SHARED ACCESS WITH FAMILY MEMBERS
+- Overage Clause: Not Acceptable (will not consider a property with an Overage Clause)
+- Estate Rentcharges: Acceptable (can potentially consider lending on freehold properties where exists an estate charge for the general upkeep and maintenance of any shared areas)
+- Escalating Ground Rents: Not Acceptable (will not lend on leasehold properties where an escalating ground rent clause exists)
+- Maximum Ground Rent (as % of Property Value/Purchase Price): No Maximum (Bath Building Society has no maximum threshold percentage against the property value that the ground rent cannot exceed)
+- Energy Performance Rating (EPC) Rating 'F' or 'G': Not Acceptable (we do not accept Buy to Let mortgages on properties that have an EPC rating of 'F' or 'G')
+- Solar Panels: Acceptable (where the solar panels form part of the freehold of a building; where the solar panels are leased under an "airspace lease" the Solicitor will be required to ensure the lease does not negatively impact on our security)
+- Ownership of Adjoining Property (Related Transaction): Acceptable (refer to lender)
+
+Multi Unit Properties:
+- Minimum Floor Area per Unit: 30 square meters
+
+================================================================================
+TENANCY CRITERIA
+================================================================================
+
+Tenancy Type:
+- Must be Assured Shorthold Tenancy (AST)
+- Minimum Length of AST: 6 months minimum
+- Maximum Length of AST: No maximum (all property must be let under a standard AST)
+- Maximum Number of Tenants on AST: 4 tenants (Bath Building Society can consider applications where there are no more than 4 tenants on the Assured Shorthold Tenancy)
+
+DSS/Housing Benefit Tenants:
+- Acceptable by exception
+- Maximum LTV: 60%
+- Stress Tested: 150%
+
+Maximum Number of Students on Single AST:
+- 2 students allowed on a single AST
+
+Student Lets:
+- Acceptable - Bath Building Society can potentially allow applicants to Let their Buy to Let property to Students
+- Student Let Valuation: Not Acceptable (will not use the student Let rental valuation for affordability as opposed to the open market rental valuation)
+
+Tenants in Situ (Purchase Applications):
+- Acceptable - Bath Building Society can potentially accept situations on purchase applications where there is a tenant in situ
+- The tenant must be occupying the property on an AST
+
+Guaranteed Rental Schemes:
+- Not Acceptable - Bath Building Society will not consider applications where a Guaranteed Rental Scheme will be set up
+
+Other Tenant Types:
+- Asylum Seekers: Not Acceptable (will not consider applications where the property will be let to an Asylum seeker)
+- Corporate Lets/Company Lets: Not Acceptable (do not accept properties that are to be Let on a Corporate/Company Let basis)
+- Housing Association Lets: Not Acceptable (does not accept Housing Association tenants)
+- Protected Tenancies: Not Acceptable (will not consider applications where the tenant enjoys a 'Protected Tenancy')
+- Serviced Properties: Not Acceptable (will not consider applications where the property will be Let as a 'Serviced Property')
+- Third Party/Company (Sub-Letting): Not Acceptable (will not consider applications where the property will be Let to a third party who will in turn Sublet the property - sometimes referred to as 'Rent to Rent')
+- Multiple Tenancies: Acceptable (can potentially consider a Buy to Let application with multiple tenancies; applicants would have to choose from one of our HMO properties)
+- Letting Whole Property via AirBnB: Acceptable (allows borrowers to Let properties via AirBnB or similar on Holiday Let products only; would not accept this on BTL or MUFB plans)
+- Premium Lease Agreements: Not Acceptable (does not accept 'Premium Lease Agreements' where a prospective tenant is paying their rent as an advanced payment)
+
+================================================================================
+AFFORDABILITY AND RENTAL INCOME
+================================================================================
+
+Income Coverage Ratio (ICR) / Rental Coverage:
+
+Standard Buy to Let:
+- Basic Rate Taxpayer: Rent must cover a minimum of 125% of pay rate + 2% but must never be less than 5.5%
+- Higher Rate Taxpayer: Rent must cover a minimum of 145% of pay rate + 2% but must never be less than 5.5%
+- Note: If the interest rate is fixed for a period of 5 years or more, rent must cover 125%/145% of pay rate (without the +2%)
+
+Top-Slicing:
+- Not Permitted - Bath Building Society does not consider earned income in affordability assessment
+- Can Consider Earned Income in Rental Assessment (Topslicing): No (does not consider earned income in affordability assessment)
+- The use of any borrower's surplus income to subsidize a rental shortfall will NOT be considered
+
+Rental Valuation:
+- Cannot use valuer's rental estimate if higher than actual existing rent: Not acceptable
+- Cannot use actual existing rent when higher than valuer's estimate: Not acceptable
+
+================================================================================
+REPAYMENT AND TERM
+================================================================================
+
+Repayment Methods:
+- Capital Repayment (Capital & Interest): Acceptable
+- Interest Only: Acceptable
+
+Term:
+- Minimum Term: 5 years
+- Maximum Term: 40 years
+- Split Mortgage Terms: Acceptable (Bath Building Society can offer mortgages with split term durations)
+
+Overpayments:
+- Overpayment Facility: 20% of capital balance (as of 1st January) per calendar year without penalty
+- Overpayments exceeding 20% limit: Early repayment charges apply
+
+Early Repayment Charges:
+- For 5-year fixed products:
+  * Years 1-4: 3% of outstanding balance
+  * Year 5: 2% of outstanding balance
+  * Plus Closing Administration Fee: £100 (currently)
+
+================================================================================
+LIMITED COMPANY APPLICATIONS
+================================================================================
+
+Limited Company Buy to Let:
+- Not Currently Accepted - The Society is not currently lending to Limited Companies
+
+Note: The following information is provided for reference only (as the Society is not currently lending to Limited Companies):
+- Trading Limited Companies: Would require minimum 3 years trading if primary business is not property letting
+- Special Purpose Vehicle (SPV) Limited Companies: Would be acceptable from day one if formed solely for property letting
+- Personal Guarantees: Would be required from all Company Directors
+- Top-slicing: NOT permitted for Limited Company applications
+
+================================================================================
+FEES AND CHARGES
+================================================================================
+
+Product Fees:
+- Individual Applications: £999
+- Limited Company Applications: £1,499 (Note: Society is not currently lending to Limited Companies)
+
+Arrangement Fees:
+- Cannot be added to mortgage advance if it would exceed product LTV limits: Not allowed
+- Cannot be added to mortgage advance if it would exceed lending LTV limits: Not allowed
+
+Closing Administration Fee:
+- £100 (currently) - applies when fully repaying a 5-year fixed product
+
+================================================================================
+REPAYMENT AND TERM
+================================================================================
+
+Remortgage Waiting Period:
+- 6 months minimum ownership before remortgage application can be considered
+
+Remortgage Purposes - Maximum LTV:
+- Balance Swap (£4£ remortgage): 80% LTV
+- Buy Out (partner/borrower): 80% LTV
+- Gift Money: 80% maximum
+- Repay Residential Mortgage: 80% LTV
+- Home Improvements: 80% maximum
+- Buy to Let Purchase: 75% LTV maximum
+- Land Purchase: Refer to lender
+- Purchase Share of Freehold: Acceptable
+- Extending a Lease: Acceptable (Bath Building Society can potentially consider capital raising on a remortgage where the purpose of the funds is extending a lease)
+- School/Education Fees: Acceptable
+- Medical Expenses: Acceptable (Bath Building Society can potentially consider capital raising on a remortgage where the purpose of the funds is medical expenses)
+- Lifestyle (holidays, cars, non-essential spending etc): Not Acceptable (will not consider capital raising on a remortgage where the purpose of the funds is lifestyle)
+- Personal Investments (not property related): Not Acceptable (will not consider capital raising on a remortgage where the purpose of the funds is personal investments)
+- Debt Consolidation: Not Acceptable
+- Capital Raise for BTL (property not yet found): Not Acceptable
+- HMO Conversion Back to Standard Residence: Not Acceptable (will not consider a remortgage application where an existing HMO property will be converted to a standard residence)
+
+Back to Back Remortgages:
+- Customer Funded: Acceptable (providing original transaction is fully registered at Land Registry)
+- Inherited: Acceptable (providing original transaction is fully registered at Land Registry)
+- Bridging: Acceptable (providing original transaction is fully registered at Land Registry)
+
+Let to Buy:
+- Acceptable - Bath Building Society can potentially accept Let to Buy applications where looking to convert existing residential mortgage to Buy to Let mortgage
+- Must have an onward purchase
+
+Let to Move in with Family:
+- Not Acceptable (the applicant must be an owner-occupier; will not allow an applicant to remortgage their current residential property onto a Buy to Let mortgage and then move in with family as opposed to purchasing a new main residence)
+
+Sale and Rent Back:
+- Not Acceptable (does not accept 'Sale and Rent Back' transactions - where the vendor sells the property usually at a discount, remains in the property and pays a rent to the new owner)
+
+================================================================================
+ADVERSE CREDIT CRITERIA
+================================================================================
+
+CCJs (County Court Judgments):
+- Maximum Value (Satisfied): £500 (registered in last 3 years, satisfied at application)
+- Maximum Number (Satisfied): No maximum (but total value must not exceed £500)
+- Maximum Value (Unsatisfied): 0 (will not consider applicants with unsatisfied CCJs)
+- Maximum Number (Unsatisfied): 0 (will not consider applicants with unsatisfied CCJs)
+- CCJs registered over 36 months ago: Potentially ignored
+- CCJs registered 24-36 months ago: Potentially acceptable
+- CCJs registered 12-24 months ago: Potentially acceptable
+- CCJs registered 3-12 months ago: Potentially acceptable
+- CCJs registered in last 3 Months: Not Acceptable (will not consider applicants that have had CCJs registered in the past 3 months)
+
+Defaults:
+- Maximum Value (Satisfied): £2,500 (satisfied over 2 years)
+- Maximum Number (Satisfied): No maximum (but total value must not exceed £2,500)
+- Maximum Value (Unsatisfied): 0 (will not consider applicants with unsatisfied Defaults)
+- Maximum Number (Unsatisfied): 0 (will not consider applicants with unsatisfied Defaults)
+- Defaults registered over 36 months ago: Potentially ignored
+- Defaults registered 24-36 months ago: Potentially acceptable (max £2,500, satisfied over 2 years)
+- Defaults registered 12-24 months ago: Not Acceptable (will not consider applicants that have had Defaults registered more than 12 months ago and less than 24 months ago)
+- Defaults registered 3-12 months ago: Not Acceptable (will not consider applicants that have had Defaults registered more than 3 months ago and less than 12 months ago)
+- Defaults registered in last 3 Months: Not Acceptable (will not consider applicants that have had Defaults registered in the past 3 months)
+
+IVAs (Individual Voluntary Arrangements):
+- Acceptable if satisfied for over 3 years
+- Must have been registered over 4 years ago
+- Must have been satisfied for at least 3 years
+
+Debt Relief Orders:
+- Acceptable if applicant has been clear for at least 24 months
+
+Debt Management Plans:
+- Satisfied: Acceptable (must be satisfied for over 2 years)
+- Current/Unsatisfied: Not Acceptable
+
+Arrears:
+- Unsecured Arrears: Acceptable (maximum status 1 in last 2 years, must be satisfied for at least 12 months; Utilities & mobiles ignored up to £250)
+- Secured/Mortgage Arrears: Acceptable (maximum status 1 in last 2 years and must be satisfied for at least 12 months)
+- Maximum Unsecured Arrears in last 24 Months: 1 (maximum status 1, must be satisfied for at least 12 months)
+- Maximum Mortgage Arrears in last 24 Months: Not Acceptable (will not consider Buy to Let applicants with any mortgage arrears in the previous 24 months)
+- Utilities & Mobiles: Ignored up to £250
+- Mortgage Arrears: Not acceptable within last 36 months (3 years; will not consider applicants with any mortgage arrears on their credit file within the last 3 years)
+- Months Passed Where Mortgage Arrears Can Be Ignored: 36 months
+
+Late Payments (Not Missed):
+- Acceptable (maximum status 1 in last 2 years)
+
+Payday Loans:
+- Previous: Acceptable (must be clear for at least 12 months)
+- Current: Not Acceptable
+
+Unauthorized Overdraft Charges:
+- Not Acceptable - Bath Building Society does not accept applicants that have recently had unauthorized overdraft charges
+
+Financial Associates with Adverse:
+- Not Acceptable - Bath Building Society will not accept applicants that are financially associated with persons that have adverse credit
+
+Other Adverse Credit:
+- Discharged Bankrupt: Acceptable (can potentially accept a discharged bankrupt if the bankruptcy has been satisfied for over 3 years)
+- Arrangement to Pay: Not Acceptable (will not consider applicants that have an arrangement to pay registered on their credit file)
+- Criminal Convictions: Not Acceptable (does not accept applicants that have criminal convictions)
+- Previously Repossessed: Not Acceptable (does not accept applications from borrowers who have previously had a property repossessed)
+- Gambling (Recurring Transactions): Not Acceptable (will not consider applicants that have recurring gambling transactions)
+- Unemployed Applicants: Not Acceptable (will not consider Buy to Let applications for unemployed applicants)
+- Income Made Up Primarily of Benefits: Not Acceptable (will not accept applicants income that is made up primarily of benefits)
+- Non Owner Occupier: Not Acceptable (does not accept Buy to Let applications from 'Non Owner Occupiers')
+- Property Developers: Not Acceptable (does not accept Buy to Let applications from individuals they deem property developers)
+- Politically Exposed Persons: Not Acceptable (will not consider an applicant that is classed as a politically exposed person)
+
+================================================================================
+PROPERTY AND LEGAL CRITERIA
+================================================================================
+
+Deposit Sources:
+- Gift from Immediate Family: Acceptable
+- Gifted NOT from Immediate Family: Not Acceptable (does not accept gifts from friends, employer, cousin, etc.)
+- Loan from Immediate Family: Not Acceptable (unable to accept deposits where the source is a loan from immediate family)
+- Redundancy Payment: Acceptable (subject to this being from a previous employment, and current employment meeting our criteria)
+- Builders Deposit: Acceptable (providing the applicant puts the same amount of contribution in)
+- Concessionary: Acceptable (providing the correct amount of stamp duty is paid)
+- Mortgage on Additional Property: Acceptable
+- Originated Outside of EEA: Not Acceptable
+- Unsecured Loan: Not Acceptable
+- Limited Company Deposit (from applicant's other company): Not Acceptable (Society won't accept a deposit from another Ltd Company)
+
+Inter-family Sales:
+- No Discount: Acceptable (Bath Building Society can potentially consider an application from an inter-family sale with no discount being offered)
+- Undervalue Transactions: Not Acceptable
+
+Purchase Applications:
+- Properties Purchased at Auction: Acceptable
+- Existing Tenants Will Remain: Acceptable (tenant must be occupying property on an AST)
+- Purchase from Limited Company to Individual Name (Related Transaction): Acceptable (purchase would have to be "at arms length")
+
+Lending Against Uplifted Value Following Refurbishment:
+- Acceptable - Bath Building Society will use the uplifted value in this situation (refer to lender)
+
+Property Usage:
+- Agricultural Restrictions: Not Acceptable (does not lend on properties with agricultural restrictions)
+
+Legal Requirements:
+- No Search Indemnity Insurance (Purchases): Not Acceptable
+- No Search Indemnity Insurance (Remortgages): Not Acceptable
+- Private Local Authority Search (Purchases): Not Acceptable
+- Private Local Authority Search (Remortgages): Not Acceptable
+
+Leasehold Properties:
+- Minimum Remaining Lease at Application: 
+  * Interest Only: Must have a minimum of 80 years at end of the mortgage term
+  * Repayment: Must have a minimum of 50 years at end of the mortgage term
+  * Note: Lease must have 50 years left from the natural term end of the mortgage
+- Minimum Remaining Lease at End of Term:
+  * Interest Only: Must have a minimum of 80 years at end of the mortgage term
+  * Repayment: Must have a minimum of 50 years at end of the mortgage term
+- Leasehold Property where No Separate Management Company Exists: Not Acceptable (Bath Building Society will not lend on leasehold properties where no separate management company exists)
+
+================================================================================
+VISA AND RESIDENCY CRITERIA
+================================================================================
+
+Visa Holders:
+- Tier 1 Working Visa (Investors, Entrepreneurs, Talent): Not Acceptable
+- Tier 2 Working Visa (Long-term work visas): Not Acceptable
+- Family Visa (Spousal etc): Not Acceptable
+- Minimum Number of Months Remaining on Visa: Not applicable (will not consider an applicant on a visa)
+
+EU Nationals:
+- EU Nationals with 'Settled Status': Acceptable (does lend to EU Nationals with a 'settled status' under the EU Settlement Scheme)
+- EU Nationals with 'Pre-Settled Status': Acceptable (does lend to EU Nationals with a 'pre-settled status' under the EU Settlement Scheme)
+
+Foreign Nationals:
+- Foreign Nationals (with indefinite leave to remain): Acceptable (can consider applications from foreign nationals WITH indefinite leave to remain)
+- Foreign Nationals (WITHOUT indefinite leave to remain): Not Acceptable (does not accept applications from foreign nationals that do not have indefinite leave to remain)
+- Foreign Nationals (Living Overseas): Not Acceptable (does not lend to Foreign Nationals living overseas)
+
+Expats:
+- Expat Buy to Let: Not Acceptable (does not accept Expat Buy to Let business)
+- Expat Deposit Source Non-UK: Not Acceptable (will not consider expat applications where the source of deposit does not originate from the UK)
+- Expat UK Credit Profile Required: Not applicable (does not accept Ex-pat applications)
+- Expat Minimum Income: Not applicable (does not accept Ex-Pat applications)
+- Expat Regulated Buy to Let (Let to Family Member): Not Acceptable (does not accept Buy to Let mortgages from Expat applicants where the property will be Let to Family Member(s))
+- Expat: Holiday Lets: Not Acceptable (does not accept expat applications at this time)
+
+================================================================================
+OTHER CRITERIA
+================================================================================
+
+Regulated Buy to Let (Let to Family Member):
+- Acceptable - Bath Building Society can potentially accept 'Regulated Buy to Let' applications
+- Any rental income will be ignored and the application must pass the Society's standard affordability test
+
+Advisor Own Application:
+- Acceptable - Bath Building Society will accept applications from advisors applying for their own mortgage
+
+Sole Application Joint Proprietor:
+- Not Acceptable - Bath Building Society will not consider applications on a sole application joint proprietor basis
+
+Post Offer Changes:
+- Not Allowed - Bath Building Society does not allow post offer changes
+
+Mortgage Offer Validity:
+- Standard Offers: 6 months (180 days)
+- New Build Offers: 6 months (180 days)
+- Offer Extension: No (offers valid for 6 months; applications falling outside this period will need to be reassessed on products available at the time - refer to lender)
+
+Maximum Number of Mortgaged Buy to Let Properties:
+- No Maximum - Bath Building Society has no maximum limit to the number of Buy to Let mortgages applicants hold with other lenders
+
+Green Mortgage:
+- Not Acceptable - Bath Building Society is unable to consider a Green Mortgage buy to let application
+
+Sharia Compliant Mortgages:
+- Not Available - Bath Building Society does not offer Sharia compliant Buy to Let mortgages
+
+Holiday Lets:
+- Acceptable - Bath Building Society will accept Holiday Lets properties on specific Holiday Let products
+- Minimum Personal Income: £20,000.00 needed
+- Holiday Lets in Scotland: Will need to have a valid licence or undertake to obtain one on any new purchase
+- Holiday Let Sites: Not acceptable
+- Permission to Self Occupy Holiday Let Property: Acceptable (will allow borrowers to 'self occupy' their Holiday Let property up to 60 days a year)
+
+Converted Churches:
+- Potentially acceptable (however, flats converted from commercial premises are not considered)
+
+New Build Warranties (Acceptable):
+- NHBC Guarantee: Acceptable
+- Premier Guarantee Scheme: Acceptable
+- ICW: Acceptable
+- LABC: Acceptable
+- Professional Consultants Certificate: Acceptable
+- Checkmate (Castle 10): Acceptable
+- Buildzone: Acceptable
+- Zurich Municipal "New Build": Acceptable
+- AEDIS: Not Acceptable (Bath Building Society does not accept AEDIS as an acceptable new build warranty)
+- Building Life Plans: Refer to lender
+
+New Build Warranties (Not Acceptable):
+- CRL Management Ltd: Not Acceptable
+- Global Home Warranties: Not Acceptable
+- Protek: Not Acceptable
+- Q Assure Build: Not Acceptable
+
+Retrospective New Build Warranty: Refer to lender
+
+Other Important Criteria:
+- Consumer Buy to Let (CBTL): Acceptable (can potentially accept applicants classed as a 'Consumer Buy to Let (CBTL)' - often referred to as an accidental landlord)
+- Full Time Landlord: Acceptable (can potentially accept applications from 'Full Time Landlords' - typically an applicant whose main income source is from their rental income from property)
+- Portfolio Landlord Minimum Experience: No minimum experience requirement
+- Portable Mortgages: Yes (all Bath Building Society mortgages are full portable)
+- Offset Mortgages: No (does not offer offset mortgages)
+- Transitional Arrangements Offered: Yes (can potentially offer Buy to Let mortgages on a transitional arrangement basis as defined by the FCA under MCOB 11.8)
+- Contract Reassignment: Not Acceptable (does not accept applications where contract reassignment exists - where purchaser is looking to buy a new build property from a third party who has secured the property off plan and exchanged contracts but has not completed)
+- Power of Attorneys: Acceptable (can potentially consider an applicant from someone acting as a power of attorney)
+
+================================================================================
+VALUATIONS
+================================================================================
+
+Valuation Fees:
+- See Mortgage Valuation Fees on Bath Building Society website for full details
+
+================================================================================
+ADDITIONAL NOTES
+================================================================================
+
+- The information on this page is updated daily via Criteria Hub
+- All cases are manually underwritten
+- For any further questions about criteria, please contact the Intermediary team
+- To search for specific items in the Society's lending criteria, you can select Buy To Let or Residential criteria, then search the relevant category, filter by sub-category, or search by topic or keyword
+
+================================================================================
+END OF CRITERIA
+================================================================================

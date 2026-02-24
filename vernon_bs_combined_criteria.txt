@@ -1,0 +1,664 @@
+LENDER NAME: Vernon Building Society
+PRODUCT: Combined
+
+# The Vernon Building Society - Residential and Buy-to-Let Mortgage Criteria
+
+**Last Updated:** 2025
+**Source:** The Vernon Building Society
+**For Intermediaries Only**
+
+---
+
+## Document Information
+
+This document contains comprehensive lending criteria for The Vernon Building Society residential mortgages, buy-to-let mortgages, buy for uni, and other specialist products.
+
+**Contact:** intermediaries@thevernon.co.uk
+
+---
+
+## Table of Contents
+
+This guide contains 101 criteria sections organized by topic:
+
+
+### General Information
+
+1. GEOGRAPHICAL RESTRICTIONS
+2. SOLICITORS
+33. HOLIDAY LET - DOCUMENTATION
+56. SELF-BUILD - DOCUMENTATION
+59. DOCUMENTATION - ADDITIONAL DOCUMENTS
+
+### Credit and Eligibility
+
+3. IMPAIRED CREDIT HISTORY
+5. GUARANTOR MORTGAGES
+6. JOINT BORROWER SOLE PROPRIETOR
+
+### Residential Mortgages
+
+4. GIFTED DEPOSIT
+7. RESIDENTIAL - MINIMUM VALUATION
+8. RESIDENTIAL - MINIMUM LOAN AMOUNT
+9. RESIDENTIAL - MAXIMUM TERM
+10. RESIDENTIAL - MINIMUM TERM
+11. RESIDENTIAL - MAXIMUM APPLICANTS
+12. RESIDENTIAL - MAXIMUM LOAN AMOUNTS
+13. RESIDENTIAL - CAPITAL RAISING
+14. RESIDENTIAL - DEBT CONSOLIDATION
+
+### Buy-to-Let
+
+15. BUY TO LET - MINIMUM VALUATION
+16. BUY TO LET - MINIMUM LOAN AMOUNT
+17. BUY TO LET - MAXIMUM LOAN AMOUNT
+18. BUY TO LET - MAXIMUM TERM
+19. BUY TO LET - MINIMUM TERM
+20. BUY TO LET - MAX AGE AT TERM END
+21. BUY TO LET - MAXIMUM APPLICANTS
+22. BUY TO LET - DEBT CONSOLIDATION
+23. BUY TO LET - PARTIAL BUSINESS USE
+24. BUY TO LET - HMO
+25. BUY TO LET - PURPOSE
+26. BUY TO LET - MINIMUM AGE
+27. BUY TO LET - MINIMUM INCOME
+28. BUY TO LET - REGULATED
+29. BUY TO LET - MAXIMUM LTV
+30. BUY TO LET - TENANCY AGREEMENT
+31. BUY TO LET - PORTFOLIO LANDLORDS
+32. BUY TO LET - AFFORDABILITY
+
+### Buy for Uni
+
+34. BUY FOR UNI - MINIMUM VALUATION
+35. BUY FOR UNI - MINIMUM LOAN AMOUNT
+36. BUY FOR UNI - MAXIMUM TERM
+37. BUY FOR UNI - MINIMUM TERM
+38. BUY FOR UNI - MINIMUM AGE
+39. BUY FOR UNI - MAXIMUM APPLICANTS
+40. BUY FOR UNI - MAXIMUM LOAN AMOUNTS
+41. BUY FOR UNI - CAPITAL RAISING
+42. BUY FOR UNI - DEBT CONSOLIDATION
+43. BUY FOR UNI - MAXIMUM LTV
+44. BUY FOR UNI - BORROWERS
+45. BUY FOR UNI - PROPERTY
+46. BUY FOR UNI - ROOMS
+47. BUY FOR UNI - LODGERS
+48. BUY FOR UNI - AFFORDABILITY
+49. BUY FOR UNI - PURPOSE
+
+### Interest-Only
+
+50. INTEREST-ONLY - MAXIMUM LTV
+51. INTEREST-ONLY - REPAYMENT VEHICLES
+
+### Self-Build
+
+52. SELF-BUILD - MAXIMUM LTV
+53. SELF-BUILD - MAXIMUM LOAN AMOUNT
+54. SELF-BUILD - BUILD STAGES
+55. SELF-BUILD - STAGE RELEASES
+57. SELF-BUILD - COMMERCIAL USE
+58. SELF-BUILD - AFFORDABILITY
+
+### Property
+
+60. PROPERTY - AGE
+61. PROPERTY - TENURE
+62. PROPERTY - STUDIO FLATS
+63. PROPERTY - CONSTRUCTION TYPE
+64. PROPERTY - GENERALLY UNACCEPTABLE SECURITY
+65. PROPERTY - FLYING FREEHOLD
+66. PROPERTY - RIGHT TO BUY
+67. PROPERTY - EPC RATING
+
+### Employment and Income
+
+68. SELF-EMPLOYED - INCOME
+69. SELF-EMPLOYED - ACCEPTABLE ACCOUNTANCY BODIES
+70. SELF-EMPLOYED - LIMITED COMPANY DIRECTORS
+71. SELF-EMPLOYED - SUB-CONTRACTORS
+72. SELF-EMPLOYED - PROFESSIONAL CONTRACTORS
+73. EMPLOYMENT - MINIMUM EMPLOYMENT PERIOD
+74. EMPLOYMENT - PROBATION
+
+### Accepted Income
+
+75. ACCEPTED INCOME - SALARY
+76. ACCEPTED INCOME - GUARANTEED REGULAR INCOME
+77. ACCEPTED INCOME - CAR ALLOWANCE
+78. ACCEPTED INCOME - LARGE TOWN ALLOWANCE
+79. ACCEPTED INCOME - GUARANTEED SHIFT ALLOWANCE
+80. ACCEPTED INCOME - ZERO HOURS CONTRACTS
+81. ACCEPTED INCOME - AGENCY WORKERS
+82. ACCEPTED INCOME - SECONDARY EMPLOYMENT
+83. ACCEPTED INCOME - SEASONAL
+84. ACCEPTED INCOME - FIXED-TERM CONTRACTS
+85. ACCEPTED INCOME - MATERNITY PAY
+
+### Non-Guaranteed Income
+
+86. NON-GUARANTEED INCOME - REGULAR OVERTIME
+87. NON-GUARANTEED INCOME - BONUS
+88. NON-GUARANTEED INCOME - ALLOWANCES
+89. NON-GUARANTEED INCOME - NON-CONTRACTED SHIFT ALLOWANCE
+
+### Other Income
+
+90. OTHER INCOME - INVESTMENTS
+91. OTHER INCOME - INCAPACITY BENEFIT
+92. OTHER INCOME - INCOME SUPPORT
+93. OTHER INCOME - UNIVERSAL CREDIT
+94. OTHER INCOME - WORKING TAX CREDIT
+95. OTHER INCOME - CHILD TAX CREDIT
+96. OTHER INCOME - CHILD BENEFIT
+97. OTHER INCOME - FROM FAMILY LIVING IN PROPERTY BUT NOT ON MORTGAGE
+98. OTHER INCOME - INCOME FROM NON-FAMILY LODGER
+99. OTHER INCOME - PROPERTY RENTAL INCOME
+100. OTHER INCOME - PENSION
+101. OTHER INCOME - MAINTENANCE
+
+---
+
+## Geographical Restrictions
+
+Property to be used as security must be in England or Wales.
+
+## Solicitors
+
+The borrower’s solicitor can provide dual representation providing practice is at least a dual partnership and where Law Society guidelines permit joint representation. Solicitors acting for the Society must have professional qualifications and professional indemnity insurance of at least £1m (or the amount of the loan or higher).
+
+## Impaired Credit History
+
+The Vernon Building Society does not offer sub-prime lending and therefore applicants with any of the following impaired credit history cannot be accepted:
+
+- Secured loan account with a payment status of 3 or worse in the last 24 months
+- Unsecured loan account with a payment status of 3 or worse in the last 24 months
+- 1 or more County Court Judgments (CCJs) with a total value greater than £500 within the last 36 months
+- Subject to an Individual Voluntary Arrangement (IVA) or Administration Order within the last 36 months
+- Bankruptcy order or Scottish Sequestration in the last 36 months
+- Repossessions or voluntary repossessions within the last 5 years
+- Debt Relief Orders are equivalent to an IVA
+
+The society can consider applications where the impaired credit history (including defaults) is outside the above criteria. In such cases, the underwriters will assess the case using all relevant information including a full explanation for any adverse credit. In all cases, the enquiry should initially be referred to the Intermediary Sales Team at intermediaries@thevernon.co.uk. A Decision in Principle can only be obtained following a satisfactory credit report by the Society.
+
+## Gifted Deposit
+
+Accepted. A Signed Gift Declaration confirming that the gifted deposit is non-repayable is required.
+
+## Guarantor Mortgages
+
+Accepted. An affordability assessment must show that the borrower can meet at least 70% of the repayment. Minimum age – 25. Maximum age - <86 at the end of the mortgage term. Not available in use with Buy for Uni.
+
+## Joint Borrower Sole Proprietor
+
+Accepted where the proposed Joint Non-Owning Borrower is a close family member. Maximum age – 75. Split term available. Affordability Assessment must show the younger borrower can meet at least 50% of the mortgage payment. We require a plausible explanation as to how the youngest borrower will be able to take over the mortgage in the next 5-10 years.
+
+## Residential - Minimum Valuation
+
+£140,000.
+
+## Residential - Minimum Loan Amount
+
+New mortgage - £25,000. Further advance - £5,000
+
+## Residential - Maximum Term
+
+35 years (Capital & Interest). 25 years (Interest-Only). 25 years (part & part)
+
+## Residential - Minimum Term
+
+5 years.
+RESIDENTIAL - MAXIMUM AGE AT TERM END (OLDEST BORROWER)
+No maximum age (subject to LTV & term). For Interest-Only, must use Sale of Mortgaged Property/Downsizing as repayment vehicle.
+
+## Residential - Maximum Applicants
+
+Up to 4 applicants accepted.
+
+## Residential - Maximum Loan Amounts
+
+The Vernon Building Society offers different maximum loan amounts based on Loan-to-Value (LTV) ratios:
+For loans with less than 70% LTV, the maximum loan amount is £1.8 million.
+For loans with less than 80% LTV, the maximum loan amount is £1.0 million.
+For loans between 80-85% LTV, the maximum loan amount is £500,000.
+For loans between 85-90% LTV, the maximum loan amount is £450,000.
+For loans between 90-95% LTV, the maximum loan amount is £350,000.
+
+## Residential - Capital Raising
+
+Accepted for personal expenditure, acquisition of an asset or providing a cash gift.
+
+## Residential - Debt Consolidation
+
+Debt consolidation is accepted under specific conditions:
+The maximum loan amount for debt consolidation is £200,000.
+The maximum number of debts being consolidated must be 4 or fewer.
+The total value of debt being consolidated must not exceed £15,000.
+The value of other unsecured debts (not being consolidated) must not exceed £10,000.
+The Loan-to-Value ratio must be 80% or less.
+Debt consolidation will not be permitted for:
+
+- Repayment of personal or business taxation debts
+- Gambling debts
+- Settlement of debt arising from providing 'called upon' guarantee or surety against loss
+
+## Buy To Let - Minimum Valuation
+
+£140,000
+
+## Buy To Let - Minimum Loan Amount
+
+New lending £50,000. Further advance £5,000
+
+## Buy To Let - Maximum Loan Amount
+
+£1,800,000 (consolidated).
+
+## Buy To Let - Maximum Term
+
+35 years.
+
+## Buy To Let - Minimum Term
+
+5 years.
+
+## Buy To Let - Max Age At Term End
+
+80 years old. No maximum age where <=65% LTV and ICR met with no personal income required support affordability and applicant can demonstrate 3 rd party property management arrangements are in place
+
+## Buy To Let - Maximum Applicants
+
+Up to 4 applicants.
+
+## Buy To Let - Debt Consolidation
+
+Not accepted.
+
+## Buy To Let - Partial Business Use
+
+Accepted subject to: - Business/commercial use does not exceed 50% of floor area - Independent access to the residential area and (where deemed appropriate for letting use and/or saleability) with residential parking provision - Rent from residential area should be a minimum of 75% of the stressed ICR (on an Interest-Only basis)
+
+## Buy To Let - Hmo
+
+Please refer to Intermediary team.
+
+## Buy To Let - Purpose
+
+Loan purposes accepted: - Purchase - Re-mortgage - Capital Raising
+BUY TO LET - FIRST-TIME LANDLORD / EXPERIENCE
+For new entrants to the market, their knowledge and experience of the property and financial markets will be considered. Underwriters will assess all applicants to ensure competency.
+
+## Buy To Let - Minimum Age
+
+18 years old.
+
+## Buy To Let - Minimum Income
+
+No minimum income required. Rationale must be provided for how the mortgage and costs are to be maintained if there’s a shortfall/voids in rental income.
+
+## Buy To Let - Regulated
+
+Accepted but must fit residential affordability calculator, considering existing commitments/living costs.
+
+## Buy To Let - Maximum Ltv
+
+75% LTV - £1m 70% LTV £1.8m
+BUY TO LET - INTEREST COVERAGE RATIO (ICR)
+Interest Coverage Ratio (ICR) requirements vary by borrower type:
+For Buy-to-Let Personal (Basic Rate Taxpayer):
+
+- 125% at a stressed rate of 7.60% (or pay rate where 5 year fixed)
+
+For Buy-to-Let Personal (Higher Rate Taxpayer):
+
+- 145% at a stressed rate of 7.60% (or pay rate where 5 year fixed)
+
+For Buy-to-Let Limited Company:
+
+- 125% at a stressed rate of 7.60% (or pay rate where 5 year fixed)
+
+For Holiday Let Limited Company:
+
+- 145% at a stressed rate of 7.60% (or pay rate where 5 year fixed)
+
+For Holiday Let Personal:
+
+- 145% at a stressed rate of 7.60% (or pay rate where 5 year fixed)
+
+For Buy-to-Let Limited Company (HMO):
+
+- 150% at a stressed rate of 7.60% (or pay rate where 5 year fixed)
+
+For Buy-to-Let Personal (HMO) (Basic Rate Taxpayer):
+
+- 150% at a stressed rate of 7.60% (or pay rate where 5 year fixed)
+
+## Buy To Let - Tenancy Agreement
+
+Minimum AST of 6 months accepted.
+
+## Buy To Let - Portfolio Landlords
+
+Portfolios exceeding 4 properties will be subject to approval.
+
+## Buy To Let - Affordability
+
+In all cases, actual costs will be used to assess affordability assuming a stressed rate and future tax position. Other earned income can be considered – a full I/E would be required.
+
+## Holiday Let - Documentation
+
+A Holiday Letting Agent’s letter which confirms the projected High, Medium, and Low season weekly rental rates and the projected occupancy for each of these seasons. The letter should be appropriately composed from a holiday letting agent with competent knowledge of the property and its location and local market conditions. The last 2 years accounts showing income and expenditure generated from the holiday let.
+
+## Buy For Uni - Minimum Valuation
+
+£125,000.
+
+## Buy For Uni - Minimum Loan Amount
+
+£125,000.
+
+## Buy For Uni - Maximum Term
+
+25 years.
+
+## Buy For Uni - Minimum Term
+
+5 years.
+
+## Buy For Uni - Minimum Age
+
+18 years old.
+BUY FOR UNI - MAXIMUM AGE (STUDENT)
+<30 years old at application. Joint family borrowers - No maximum age – mortgage term to not extend beyond the earlier of : Selected Retirement date or Age 75 (i.e. term maturity before age 76)
+
+## Buy For Uni - Maximum Applicants
+
+Up to 4 applicants.
+
+## Buy For Uni - Maximum Loan Amounts
+
+£500,000. The maximum cash sum that can be accepted as collateral/additional security is limited to £80,000, with the maximum loan consequently being restricted to £400,000.
+
+## Buy For Uni - Capital Raising
+
+Not accepted.
+
+## Buy For Uni - Debt Consolidation
+
+Not accepted.
+
+## Buy For Uni - Maximum Ltv
+
+100%. Any LTV exceeding 80% will require additional security from a parent.
+
+## Buy For Uni - Borrowers
+
+The student will be a sole property owner but on a joint borrower basis. The joint borrower(s) (non-property owning) must be the parent(s) or step-parent(s) of the primary borrower. The youngest borrower (property owner) must be in full time higher education, with at least one year remaining on their university course. Details of the course must be disclosed.
+
+## Buy For Uni - Property
+
+The property must be within 10 miles of the University being studied at. Flats and HMOs are not acceptable.
+
+## Buy For Uni - Rooms
+
+Minimum 2 bedrooms. Maximum 4 bedrooms.
+
+## Buy For Uni - Lodgers
+
+Maximum of 3 lodgers accepted in addition to the applicant.
+
+## Buy For Uni - Affordability
+
+Affordability is based on the rental income. If the rental income does not fully support the loan, an affordability assessment will be conducted on the parental borrowers. Student maintenance grants can be included and considered as income.
+BUY FOR UNI - DEPOSIT / SECURITY
+No additional security is required below 80% LTV. A cash charge or a charge over the parental borrower’s property is required above 80% LTV. We will always take a first legal charge (mortgage) over the property being purchased. If cash is provided then this needs to be equivalent to the amount of loan that exceeds 80% of the value/price of the property being purchased If a charge over property is provided then this must be equivalent to the amount of loan that exceeds 75% of the value/price of the property being purchased
+
+## Buy For Uni - Purpose
+
+Purchase only accepted. Re-mortgage not accepted.
+
+## Interest-Only - Maximum Ltv
+
+Residential = 60% LTV. Buy to Let = 75% LTV. Buy for Uni =100% LTV Retirement Interest-Only = 50%. Part Capital & Interest and part Interest-Only = 80% (at least 50% of the total loan must be on Capital & Interest. If the LTV is 60% or below there is no minimum percentage requirement for Capital & Interest).
+
+## Interest-Only - Repayment Vehicles
+
+- Regular savings plan (current value must be at least 50% of the loan amount) - Sale of assets (subject to the current value being at least equal to the loan amount) - Periodic capital repayments (subject to minimum of 2 years history of bonus/dividend payments) - Sale of mortgaged property (where the property is valued at minimum £450k and there is a plausible downsize plan) The Society will review any proposed repayment plan for plausibility.
+RETIREMENT - ASSESSMENT CONSIDERATIONS: >10 YEARS TO RETIREMENT
+Period from retirement : >10 years to retirement and extends < 5 years beyond retirement. Proof of income : Evidence of pension contributions and a completed Lending into Retirement declaration. Underwriting approach : Affordability based on earned income.
+RETIREMENT - ASSESSMENT CONSIDERATIONS: <10 YEARS TO RETIREMENT
+Period from retirement : <10 years to retirement and/or the loan extends > 5 years beyond retirement. Proof of income : Evidence of pension income. Underwriting approach : Affordability based on lower of earned or pension income.
+RETIREMENT - ASSESSMENT CONSIDERATIONS: ALREADY IN RETIREMENT
+Period from retirement : Applicant already in retirement. Proof of income : Evidence of pension income. Underwriting approach : Based on pension income. Consideration given to whether index linked depending on circumstance.
+RETIREMENT - PRODUCT ELIGIBILITY FOR AGE 75 OR UNDER AT LOAN MATURITY
+Capital & Interest = Standard products. Interest-Only = Standard products.
+RETIREMENT - PRODUCT ELIGIBILITY FOR BETWEEN AGE 76-85 AT LOAN MATURITY
+Capital & Interest = Standard products. Interest-Only not using sale of mortgaged property as repayment vehicle = Standard products. Interest-Only using sale of mortgaged property as repayment vehicle = RIO products.
+RETIREMENT - PRODUCT ELIGIBILITY FOR AGE 85 OR ABOVE AT LOAN MATURITY
+Capital & Interest = Standard products (maximum term of 25 years and maximum LTV of 65%). Interest-Only not using sale of mortgaged property as repayment vehicle = Standard products (maximum term of 25 years and maximum LTV of 60%). Interest-Only using sale of mortgaged property as repayment vehicle = RIO products.
+RETIREMENT INTEREST-ONLY (RIO) - MINIMUM AGE
+55 years old.
+RETIREMENT INTEREST-ONLY (RIO) - MAXIMUM LTV
+50% LTV.
+
+## Self-Build - Maximum Ltv
+
+80% LTV.
+
+## Self-Build - Maximum Loan Amount
+
+£1,000,000 maximum for up to 80% LTV £1,800,000 maximum for up to 70% LTV Cases can be referred if the loan required is more than this limit.
+
+## Self-Build - Build Stages
+
+- Land (Maximum 75% of the total value) - Foundations - Wall plate level - Wind and water-tight - First fix and plastering - Second fix to completion
+
+## Self-Build - Stage Releases
+
+A maximum of 75% of the cost of the build is released at each stage. Stage payments are made in arrears. All new mortgage applications must be supported by a mortgage valuation report which confirms that the property to be built is suitable for our mortgage and estimates the final value. A re-inspection will be required at completion of the build. For stage releases, stage inspection and sign off by Construction Industry Council approved inspector (for warranty provider) or architects stage sign off.
+
+## Self-Build - Documentation
+
+- Plans and elevations - Detailed costings - Copy of planning permission - Copy of Building Regulation approval - Schedule of works including dates - Details of the structural warranty - Evidence of capital the applicant has available - Details of residence during the project (rent/mortgage/caravan etc.)
+
+## Self-Build - Commercial Use
+
+No more than 20% of the property may be for commercial use. Business rates are not payable. Properties above or adjacent to commercial premises may be considered, please refer to the Intermediary team.
+
+## Self-Build - Affordability
+
+Where funds are recognised as having been ringfenced and designated to cover monthly payment of mortgage/rental costs, and where applicable specific property costs (i.e. utilities, council tax, etc), these can be ignored for affordability. Maximum allowed for this purpose, up to £2,000 per month, for the duration of the expected build.
+DOCUMENTATION - PERSONAL I.D. / PROOF OF ADDRESS REQUIREMENTS
+We will carry out an electronic search against records held by a credit reference agency to verify name and address. To support this, we will require one identity document from the list below: - Current UK & EU passport - Current photo full or provisional driving licence - Current old style driving licence - Current firearms certificate - Current armed forces ID card - EU state ID card - Current UK disabled driver’s pass - Instrument of a court appointment - ID card issued by Electoral Roll Office for Northern Ireland - HMRC tax notification - Housing benefit notification* - Local authority tenancy agreement* - Council tax demand letter or statement* - Tax credit* - DWP state pension document* - Utility bill** - Current original bank/building society/credit union statement** - Current original credit/debit card statement** - Mortgage statement* *These documents must be dated in the past 12 months **These documents must be dated in the past 6 months
+DOCUMENTATION - PROOF OF INCOME / EXPENDITURE
+Documentary evidence will vary dependent upon the case. The affordability calculator will inform what is required for an individual case.
+
+## Documentation - Additional Documents
+
+- Customer into retirement declaration - ESIS - Affordability calculator - Proof of deposit - Evidence of repayment vehicle (Interest-Only) - Right to Buy notice - Building work estimates and planning permission approval - AST and lender approval to let (where Buy to Let exist) - Payment of fees
+
+## Property - Age
+
+No restriction on property age.
+
+## Property - Tenure
+
+Freehold accepted. Leasehold accepted (minimum of 50 years to remain at the end of the mortgage term).
+PROPERTY - FLATS / MAISONETTES
+Maximum of 6 storeys in the building (Anything over 4 storeys must have a lift). Discretion permitted up to properties with 10 floors subject to a minimum value of £250k outside London, £350k within London.
+
+## Property - Studio Flats
+
+Accepted subject to a minimum floor area of 39 square meters, in line with the Government issued Technical Housing Standards – Nationally Described Space Standard.
+PROPERTY - EWS1
+Buildings under 4 storeys do not require an EWS1 form. Buildings with 5-6 storeys may require an EWS1 form but only where a specific concern has been identified by the surveyor. Buildings over 18m (typically 6 storeys) will require an EWS1 form and this will be stated on the valuation report under notes for legal representative.
+
+## Property - Construction Type
+
+All standard construction types accepted (subject to satisfactory valuer’s comments and insurability. Non-standard construction should be referred to the Intermediary Team.
+
+## Property - Generally Unacceptable Security
+
+The following are considered unacceptable security and are generally not permitted. However, discretion may be given on non-standard construction types, subject to satisfactory valuer’s comments and insurability: - Listed under the Housing Defects Act - Agricultural restrictions - Shared Ownership - Properties which are solely for commercial use - Local authority flats and maisonettes - System built concrete construction - Steel clad properties - Pre 1990 steel frames properties - Pre 1970 timber frame properties - Prefabricated/(pre) reinforced/poured or shuttered concrete construction unconventionally clad i.e., not brick, concrete, or stone block - Easi-form construction - Pre 1970s no-fines concrete - Mundic block -High alumina cement -100% timber construction - Properties built on contaminated land - Mobile homes - Farms and small holdings - River boats
+
+## Property - Flying Freehold
+
+Discretion is permitted for Flying Freehold properties (subject to valuer’s comments and rights of access for essential / routine maintenance).
+
+## Property - Right To Buy
+
+Permitted 100% of concession price plus the addition of a product fee subject to: - Maximum 70% LTV - All applicants must be named on the Right to Buy papers - The applicant(s) must have been registered on the voters roll at the security for a minimum of 3 years - Local authority flats / maisonettes are not permitted
+
+## Property - Epc Rating
+
+We accept a minimum rating of E (Buy to Let only).
+
+## Self-Employed - Income
+
+We take the average of last two years net profit. We accept sole traders who have recently converted to a Limited Company. 1 year’s accounts as a Limited Company are required. Income should be evidenced by the latest 2 years tax calculation, HMRC tax year overview and latest years accounts. These should be prepared or certified by a qualified accountant.
+
+## Self-Employed - Acceptable Accountancy Bodies
+
+- A.C.A or F.C.A - A.C.A.S or F.C.A.S - A.C.C.A, F.C.C.A, A.A.P.A or F.A.P.A - A.C.M.A or F.C.M.A - A.C.P.A or F.C.P.A - M.A.A.T or F.M.A.A.T - A.A.I.A or F.A.I.A (Not FAIA [acad]) - C.T.A (Fellow), F.T.I.I (Fellow), C.T.A or A.T.I.I - A.F.A (Associate) or F.F.A (Fellow) - C.P.F.A - C.A
+
+## Self-Employed - Limited Company Directors
+
+Directors must have a shareholding of >20%, we accept an average of the last two years share of net profits and directors’ remuneration. Evidenced by two years audited accounts and tax computations.
+
+## Self-Employed - Sub-Contractors
+
+Minimum 18 months continuous service in the same type of employment with minimum 6 months remaining on current contract. We accept the gross value of the annual contract or an average of the last 3 months income. Discretion is permitted subject to minimum of 12 months contracting history where applicant was previously in permanent employment in the same field of work. CIS workers will be treated as self-employed.
+
+## Self-Employed - Professional Contractors
+
+Maximum LTV capped at 80%. Minimum of 4 weeks must remain in contract at time of offer or evidence of a further contract must be provided. Subject to a minimum of 24 months contracting history, evidenced by accounts (Discretion may be applied subject to minimum of 12 months contracting history where applicant was previously in permanent employment in the same field of work). Minimum calculated gross income of £75,000 per annum. Gross income is calculated based on the current contract daily rate (as evidenced by the current contract) x number of days worked x 46 weeks.
+
+## Employment - Minimum Employment Period
+
+Minimum 3 months with current employer. (Less can be considered by referral to Intermediary team). 12 months continuous employment required.
+
+## Employment - Probation
+
+We will need confirmation of the probation period from applicant’s employer before loan can be completed.
+
+## Accepted Income - Salary
+
+100% net income accepted. 3 months’ payslips and most recent P60 required. See individual affordability calculation for specific case requirement.
+
+## Accepted Income - Guaranteed Regular Income
+
+100% accepted. 3 months’ payslips and most recent P60 required. See individual affordability calculation for specific case requirement.
+
+## Accepted Income - Car Allowance
+
+100% accepted (3 months history required). 3 months’ payslips and most recent P60 required. See individual affordability calculation for specific case requirement.
+
+## Accepted Income - Large Town Allowance
+
+50% accepted. (100% can be accepted with 2 years consecutive P60s provided). 3 months’ payslips and most recent P60 required. See individual affordability calculation for specific case requirement.
+
+## Accepted Income - Guaranteed Shift Allowance
+
+50% accepted. 3 months’ payslips and most recent P60 required. See individual affordability calculation for specific case requirement.
+
+## Accepted Income - Zero Hours Contracts
+
+100% accepted. (minimum 12 months history required) 12 months’ payslips and most recent P60 required. See individual affordability calculation for specific case requirement.
+
+## Accepted Income - Agency Workers
+
+100% accepted (minimum 12 months history required). 3 months’ payslips and most recent P60 required. See individual affordability calculation for specific case requirement.
+
+## Accepted Income - Secondary Employment
+
+100% accepted if like primary employment (50% accepted if unlike primary employment, subject to 12 months in secondary employment). 3 months’ payslips and most recent P60 required. See individual affordability calculation for specific case requirement.
+
+## Accepted Income - Seasonal
+
+Accepted subject to a 3-year history provided (Up to 100% can be used with 3 years P60s provided). 3 months’ payslips and most recent P60 required. See individual affordability calculation for specific case requirement.
+
+## Accepted Income - Fixed-Term Contracts
+
+100% accepted (subject to minimum of 12 months history in same occupation provided). 3 months’ payslips and most recent P60 required. See individual affordability calculation for specific case requirement.
+
+## Accepted Income - Maternity Pay
+
+Not accepted as sole applicant unless returning to work before mortgage completion. 100% accepted as a secondary applicant (subject to applicant declaring intention to return to work within 3 months of completion and both applicants can evidence savings to cover this period until return to work). 3 months’ payslips and most recent P60 required. See individual affordability calculation for specific case requirement.
+
+## Non-Guaranteed Income - Regular Overtime
+
+50% as a secondary applicant (100% if 3 years history is provided, refer to Intermediary team). See individual affordability calculation for specific case requirement.
+
+## Non-Guaranteed Income - Bonus
+
+50% as a secondary applicant (100% if 3 years history is provided, refer to Intermediary team). See individual affordability calculation for specific case requirement.
+
+## Non-Guaranteed Income - Allowances
+
+50% as a secondary applicant (100% if 3 years history is provided, refer to Intermediary team). See individual affordability calculation for specific case requirement.
+
+## Non-Guaranteed Income - Non-Contracted Shift Allowance
+
+50% as a secondary applicant (100% if 3 years history is provided, refer to Intermediary team). See individual affordability calculation for specific case requirement.
+
+## Other Income - Investments
+
+50% accepted.
+
+## Other Income - Incapacity Benefit
+
+50% accepted if it has been received for a minimum of 6 months (Up to 100% can be accepted subject to DWP confirmation of indefinite payment).
+OTHER INCOME - EMPLOYMENT & SUPPORT ALLOWANCE
+50% accepted if it has been received for a minimum of 6 months (Up to 100% can be accepted subject to DWP confirmation of indefinite payment).
+
+## Other Income - Income Support
+
+Not accepted.
+
+## Other Income - Universal Credit
+
+Not accepted.
+
+## Other Income - Working Tax Credit
+
+50% accepted (subject to age of children).
+OTHER INCOME - CARER’S ALLOWANCE
+100% accepted (Track record and evidence of continuity provided).
+OTHER INCOME - FOSTER CARER’S ALLOWANCE
+50% accepted (Minimum 2 years track record).
+
+## Other Income - Child Tax Credit
+
+50% accepted (subject to age of children).
+
+## Other Income - Child Benefit
+
+50% accepted (subject to age of children).
+
+## Other Income - From Family Living In Property But Not On Mortgage
+
+Not accepted.
+
+## Other Income - Income From Non-Family Lodger
+
+50% accepted with minimum 3 months history (100% accepted with 2 years history).
+
+## Other Income - Property Rental Income
+
+Mortgaged property – property portfolio to be assessed under our Interest Coverage Ratio. Un-encumbered property - 80% of the tax computation accepted.
+
+## Other Income - Pension
+
+100% accepted.
+
+## Other Income - Maintenance
+
+50% accepted (100% subject to the court order remaining for minimum 5 years). Not accepted as the sole income for the application.
+
+---
+
+## Main URLs
+
+- mailto:intermediaries@thevernon.co.uk

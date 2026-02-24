@@ -1,0 +1,483 @@
+LENDER NAME: Leek Building Society
+PRODUCT: Residential
+
+================================================================================
+LEEK BUILDING SOCIETY - RESIDENTIAL LENDING CRITERIA
+================================================================================
+
+Source: https://www.leekbs.co.uk/intermediaries/residential-lending-criteria-a-z/
+Scraped: 2025-09-04 00:02:15
+
+Note: This document is for intermediary use only.
+
+Last Verified: Based on website content as of the file creation date
+
+================================================================================
+OVERVIEW
+================================================================================
+
+Our criteria is listed in alphabetical order to enable you to quickly find the information that you require.
+
+If you do need further information then please contact our team on 0808 281 9309
+
+================================================================================
+1. LOAN DETAILS
+================================================================================
+
+LOAN TYPE
+--------------------------------------------------------------------------------
+
+- Residential
+- Shared Ownership
+- Right to Buy
+- First time buyers
+- Interest only
+- Second Residential
+
+LOAN TO VALUE (LTV)
+--------------------------------------------------------------------------------
+
+- Capital Raising: 75% (max 30% of property value for debt consolidation)
+
+SECOND RESIDENTIAL PROPERTY LTV
+--------------------------------------------------------------------------------
+
+- Main residential mortgaged to the Society, second residential mortgaged to another lender: Main residence capped at 90% LTV
+- Main residential mortgaged to another lender, 2nd residence mortgaged to the Society: Second residence capped at 75% LTV
+- Both residences mortgaged to the Society, main residence capped at 90% LTV and second residence capped at 75% LTV
+
+MAXIMUM LOAN
+--------------------------------------------------------------------------------
+
+- 95%¹ - £500,000
+- 85% - £600,000
+- 80% - £750,000
+- 75% - £1,500,000 (£500,000 for capital raising)
+- Capital Raising: 75% max £500,000 (debt consolidations limited to 30% of property value)
+
+¹Applicants must have at least one (sole applicant) and two (joint applicants) active and satisfactory credit lines evident at the credit bureaux, excluding communications and mail order.
+
+Loan to Value restrictions apply where we are Lending in Retirement and Lending into Retirement, please see Maximum Age section for details.
+
+MINIMUM LOAN
+--------------------------------------------------------------------------------
+
+- £25,000.00
+
+MINIMUM/MAXIMUM TERM
+--------------------------------------------------------------------------------
+
+- 5 years - 40 years
+
+REPAYMENT TYPE
+--------------------------------------------------------------------------------
+
+- Repayment
+- Interest Only - up to 75% LTV. Where a loan is taken out on an interest only basis, confirmation and evidence of a credible repayment strategy for the repayment of the capital at the end of the term is required
+- Part & Part (Interest only element cannot exceed 75% LTV)
+
+================================================================================
+2. AGE REQUIREMENTS
+================================================================================
+
+MINIMUM AGE
+--------------------------------------------------------------------------------
+
+- 18
+
+MAXIMUM AGE
+--------------------------------------------------------------------------------
+
+- The term of the mortgage must not extend beyond the 85th birthday of the oldest applicant
+- Maximum age 85
+
+LENDING INTO RETIREMENT
+--------------------------------------------------------------------------------
+
+- Lending into Retirement is when either borrower is not currently reliant on a pension and will go beyond the sooner of their 70th birthday or stated expected retirement date before the end of the mortgage term
+- We offer 80% LTV for lending into retirement
+- Post retirement minimum income £20,000
+
+LENDING IN RETIREMENT
+--------------------------------------------------------------------------------
+
+- Lending in Retirement is when either borrower has stated they have retired or there is a reliance on the pension income to service the mortgage repayments at mortgage completion
+- We offer 70% LTV lending in retirement
+- Minimum income £20,000
+
+SHARED OWNERSHIP
+--------------------------------------------------------------------------------
+
+- Up to the earlier of the elected retirement date or 70th birthday
+
+================================================================================
+3. INCOME & AFFORDABILITY
+================================================================================
+
+AFFORDABILITY
+--------------------------------------------------------------------------------
+
+- Applications must pass the Society's affordability assessment with a surplus net disposable income
+
+INCOME - ACCEPTABLE INCOME TYPES
+--------------------------------------------------------------------------------
+
+INCOME TAKEN AT 100%
+- Basic annual income
+- Regular dividends
+- Occupational pension, private and state pension
+- SIPPS (Self-Invested Personal Pensions)
+- Car Allowance
+- Large Town Allowance
+- Housing allowances (police officers)
+- Placement Income received by Foster Carers
+- Teachers Learning Responsibilities (TLR)
+- Guaranteed Overtime
+- Guaranteed Bonuses
+- Guaranteed Shift Allowances
+
+INCOME TAKEN AT 50%
+- Regular overtime, Shift Allowances, Bonuses
+- Commission
+- Rental income (unencumbered/mortgage free property)
+- Maintenance confirmed by Court Order or 6 months track record
+- Secondary income (continuous 12 months)
+- Working Family Tax Credit
+- Income from Trust Funds/Investments – Evidence will be required via an Accountant or last 2 years HMRC Tax Calculations & Tax Overviews
+- Dividend income received, where the applicant is not a director of the company
+
+INCOME MULTIPLES
+--------------------------------------------------------------------------------
+
+- 4.49 x main income or 4.49 x joint income
+- We will allow up to 4 borrowers and will consider the two highest incomes only
+
+MINIMUM INCOME
+--------------------------------------------------------------------------------
+
+- Lending into retirement, minimum income £20,000 (single or joint)
+
+RETIREMENT INCOME
+--------------------------------------------------------------------------------
+
+- For lending in retirement there is a minimum income requirement of £20,000 and for lending into retirement there is a post retirement minimum income of £20,000
+- Loan to Value restrictions apply where we are Lending in Retirement and Lending into Retirement, please see Maximum Age section for details
+
+FOSTER PARENTS
+--------------------------------------------------------------------------------
+
+- Only the placement income / fee element of the statement, which excludes maintenance payments, payments in respect of travel, clothing, Christmas etc., can be taken into account for mortgage purposes
+
+MATERNITY/PATERNITY LEAVE
+--------------------------------------------------------------------------------
+
+- For the purpose of the affordability assessment, if income will be reduced whilst on maternity/paternity leave, this reduced income rather than the current income will be taken into account when calculating affordability
+- Where affordability cannot be proven during the maternity/paternity leave, this is acceptable subject to evidence of savings to cover any shortfall of income
+- A further affordability assessment will also be carried out to take into account the income following return to work if applicable. This affordability assessment will take into account any reduced hours and the proposed childcare costs if the applicant is returning to work
+
+INTEREST ONLY REPAYMENT VEHICLES
+--------------------------------------------------------------------------------
+
+INVESTMENT PLAN
+- Terms of acceptance: Must have maturity value at least equivalent to the loan amount
+- Production of the latest annual/bonus statement or forecast. The cost of the premiums is to be included in the Affordability Assessment
+
+OTHER ASSETS (PROPERTY/LAND)
+- Terms of Acceptance: These must be wholly owned by the applicant (with or without a mortgage), readily saleable and the equity in the property must be of equivalent current value to the proposed Interest Only loan amount
+- Evidential Requirements: To assess its current value a valuation will be arranged by the Society and paid for by the applicant(s)
+
+SAVINGS
+- Terms of Acceptance: These must be in an accessible account and have the potential to repay the mortgage based upon a reasonable rate of return
+- Evidential Requirements: Production of Account Book or Bond Statement. The cost of any contribution is to be included in the Affordability Assessment
+
+PENSION LUMP SUM
+- Terms of Acceptance: This must be equivalent to the amount of the Interest Only element of the loan
+- Evidential Requirements: Confirmation of the current value, and estimated final value of lump sum. The cost of any contribution is to be included in the Affordability Assessment
+
+================================================================================
+4. EMPLOYMENT & CONTRACTS
+================================================================================
+
+EMPLOYMENT
+--------------------------------------------------------------------------------
+
+- Applicants must be in permanent full or part time employment and continuously employed for the last six months
+- Applicants must not be under notice of termination of employment or notice of redundancy
+- We don't accept contractors employed through an umbrella company
+
+CONTRACTS (SHORT-TERM/FIXED-TERM)
+--------------------------------------------------------------------------------
+
+- Fixed-term contracts are acceptable where the applicant is currently on a 12 month contract and has at least 6 months remaining or evidence of a new/renewed 12 month contract must be provided, preferably in the same line of work
+- We don't accept contractors employed through an umbrella company
+
+ZERO HOURS CONTRACTS
+--------------------------------------------------------------------------------
+
+- Restricted to stable, skilled/semi-skilled industries where employment opportunities are stable – refer to the Society for acceptable industries
+- The applicant must have been employed in the same type of employment/industry for the last two years
+- We don't accept contractors employed through an umbrella company
+
+SELF EMPLOYMENT
+--------------------------------------------------------------------------------
+
+- Minimum trading period is 2 years
+- An average income over the last two years will be assessed or the latest income will be applied if lower
+
+Income is defined as:
+- Sole Traders and Partners - applicant's share of the net profit
+- Directors of limited companies (25% or greater shareholding) - applicant's salary/remuneration and dividends or net profit
+- We don't accept contractors employed through an umbrella company
+
+================================================================================
+5. CREDIT HISTORY
+================================================================================
+
+CCJs/DEFAULTS
+--------------------------------------------------------------------------------
+
+- CCJ's/Defaults with an aggregate total of £500 or less, registered over 3 years ago and satisfied for at least 6 months can be considered
+
+BANKRUPTCY
+--------------------------------------------------------------------------------
+
+- Discharged more than 6 years ago and no adverse credit within last 3 years will be considered on full application
+
+IVAs/TRUST DEED
+--------------------------------------------------------------------------------
+
+- Registered over 6 years ago, must have been completed over 3 years ago, no adverse credit within last 3 years and satisfactory explanation will be considered on full application
+
+REPOSSESSION
+--------------------------------------------------------------------------------
+
+- Repossession/voluntary surrender of property - not acceptable
+
+MISSED PAYMENTS
+--------------------------------------------------------------------------------
+
+- One missed payment on no more than one communication supplier, credit card, mail order or utility bill for no more than one month, can be considered providing the account has been brought up to date and a satisfactory explanation is provided
+
+OVER LIMIT POSITIONS
+--------------------------------------------------------------------------------
+
+- No more than one over limit position on credit cards or current accounts during the last 12 months, which should have now been rectified
+
+PAY DAY LOANS
+--------------------------------------------------------------------------------
+
+- Applicants who have taken out a pay day loan within the last three years are not acceptable
+
+================================================================================
+6. PROPERTY REQUIREMENTS
+================================================================================
+
+LOCATION
+--------------------------------------------------------------------------------
+
+- England (Including Isle of Wight) & Wales
+- Shared ownership properties in England only
+
+MINIMUM PROPERTY VALUE
+--------------------------------------------------------------------------------
+
+- £50,000
+
+PROPERTY - ACCEPTABLE SECURITY
+--------------------------------------------------------------------------------
+
+- Residential properties permanently affixed to land, which are not mentioned in the unacceptable security section, are suitable security for mortgage lending subject to confirmation from the valuation report
+
+PROPERTY - UNACCEPTABLE SECURITY
+--------------------------------------------------------------------------------
+
+- Non standard construction. This also includes Laing Easiform/Wimpey No Fines or similar construction types
+- System built properties registered under the Housing Defects Act 1984
+- Flying freeholds over 15%
+- Properties with residential restrictions
+- Properties without a kitchen, wc and bathroom
+- Properties with agricultural restrictions, farms and small holdings
+- Properties with more than 5 acres of land
+- Live/Work Units
+- Houses of Multiple Occupancy (HMO)
+- Properties adjacent to or above retail outlets including: Fast Food/Take Aways, Wine Bar/Bistro, Public Houses, Off Licence, Betting Shops, Dry Cleaners, Petrol Stations
+- Freehold Flats or Maisonettes
+- Ex-Local Authority/Housing Association Flats or Maisonettes
+- Flats in blocks with shared walkway access
+- Flats with cladding unless an EWS1 form is supplied which confirms that they are rated A1 or A2
+- Leasehold properties with less than 75 years remaining on the lease at the end of the mortgage term
+- Properties which have internal door locks
+- Properties which are owned by the current owner or current vendor for less than 6 months
+- Properties which are not ready for immediate occupation
+- Properties which are affected by progressive structural movement, dry rot, Japanese Knot Weed or contaminated land
+- Properties listed as defective under the 1984 & 1985 Housing Acts unless rebuilt to NHBC Standards and with appropriate guarantees
+- Properties in which High Alumina Cement has been used in the construction
+- Prefabricated buildings and unrepaired PRC constructions
+- Properties with an anticipated life span of less than 25 years beyond the end of the mortgage
+- Flats in blocks of more than 6 storeys, basements/underground parking count as 1 storey
+- Steel framed structures built prior to 2000
+- Studio flats where the LTV is greater than 75%
+- BTL properties with an EPC rating of F or G
+- Tyneside Flats i.e. criss-cross or cross-over leases
+
+PROPERTY EXTENSIONS
+--------------------------------------------------------------------------------
+
+- Where the customer is looking to extend the property, consideration will be given subject to a maximum LTV of 80% at the outset, based on the current property valuation
+
+TENURE
+--------------------------------------------------------------------------------
+
+- Freehold (houses only)
+- Leasehold properties must have at least 75 years remaining on the lease at the end of the mortgage term
+
+GROUND RENT
+--------------------------------------------------------------------------------
+
+- Ground Rent that exceeds £250 per annum outside London and £1000 per annum inside London is not acceptable
+
+EWS1
+--------------------------------------------------------------------------------
+
+- Where there are concerns about the external wall construction (cladding) for all flats then the valuer needs to obtain a EWS1 form which must be completed by a suitably qualified person, only options A1 and A2 are acceptable
+
+NEW BUILD WARRANTIES
+--------------------------------------------------------------------------------
+
+- Any property which has been built / converted within the last 10 years must hold an acceptable guarantee/certificate
+
+Acceptable guarantee/certificates include (This isn't an exhaustive list so please speak to our Intermediary team for any firms not quoted below):
+- NHBC Certificate
+- Zurich Municipal Policy
+- Protek Home Warranty
+- Premier Guarantee
+- Checkmate - Castle 10
+- Architects Completion Certificate
+- Build Zone
+- Local Authority Building Control (LABC New Home Warranty)
+- Building Life Plans
+- ICW
+- One Guarantee Ltd
+
+SOLAR PANELS
+--------------------------------------------------------------------------------
+
+- Solar panels will be considered subject to the Valuer's recommendations
+- Where the panels are leased, a copy of the lease documentation will be required for submission with the application for approval by the Society. The lease must contain agreement for removal of the panels, at no cost to the Society, should the Society take the property into possession
+
+================================================================================
+7. SPECIAL PRODUCTS & TYPES
+================================================================================
+
+FIRST TIME BUYERS
+--------------------------------------------------------------------------------
+
+- Yes - up to 95% LTV
+
+SECOND RESIDENTIAL PROPERTY
+--------------------------------------------------------------------------------
+
+Acceptable purpose for a 2nd residential property includes:
+- Holiday home
+- To live in during the week working away from the family home
+- To accommodate a dependent relative
+
+Second Residential loans are capped at 75% LTV
+
+SHARED OWNERSHIP
+--------------------------------------------------------------------------------
+
+- We only accept shared ownership properties in England for those eligible to take part in the scheme and who have the option to staircase until they own 100% of their home
+- Applicants Share to be between 25% and 75%
+- Min loan £25k max loan £500k
+- Lending into retirement is not permitted
+- Max 95% LTV of the purchase share
+- Concentration per development is restricted to 20% of the shared ownership properties
+- Capital and interest repayment method only
+
+RIGHT TO BUY
+--------------------------------------------------------------------------------
+
+- The Society may lend up to 100% of the purchase price with any fees being paid from the customer(s) own resources
+- Home improvements can be funded by the mortgage, subject to estimates and providing the Loan to Value does not exceed 85% of the improved value
+- Where LTV exceeds 80%, it is a requirement that the customer contributes at least 5%
+
+UNACCEPTABLE:
+- Ex-Local Authority flats
+- Right to Acquire applications
+
+================================================================================
+8. DEPOSIT & DEBT CONSOLIDATION
+================================================================================
+
+DEPOSIT
+--------------------------------------------------------------------------------
+
+- Personal savings
+- Non repayable gift from a family member
+- Sale/remortgage of existing property
+- Forces Help to Buy
+
+DEBT CONSOLIDATION
+--------------------------------------------------------------------------------
+
+- The maximum amount of capital raising for debt consolidation purposes is limited to 30% of the property value and up to 75% of the LTV
+- Allowed once in the lifetime of the mortgage
+
+================================================================================
+9. RESIDENCY & APPLICANTS
+================================================================================
+
+RESIDENCY
+--------------------------------------------------------------------------------
+
+- We only accept applicants in the UK or with settled status and or right to reside
+- Non UK or Non EU citizens must have been residing in the UK for the last 2 years and have non-conditional and permanent right to reside
+- Expatriates are not acceptable
+
+VISA
+--------------------------------------------------------------------------------
+
+- The Society doesn't currently accept anyone on a visa
+
+NUMBER OF APPLICANTS
+--------------------------------------------------------------------------------
+
+- Max 4 – we will consider the two highest incomes only
+
+================================================================================
+10. FEES
+================================================================================
+
+BROKER FEES
+--------------------------------------------------------------------------------
+
+- The amount of fee charged by the broker must not exceed 1.5% of the mortgage loan and £1,500. Anything over this figure will be reviewed on case submission and will be declined
+
+================================================================================
+11. UNACCEPTABLE LENDING
+================================================================================
+
+The following are not acceptable:
+
+- Remortgage applications where the applicant has not owned the property for six months
+- Capital raising for business or investment purposes or to fund living costs
+- Loans are not available for investment purposes
+- Purchase of land adjoining the Society's unless the land to be purchased is covered by the Society's charge
+- Applicants who have taken out a pay day loan within the last three years
+- Purchase/remortgage of a property owned by applicant's own business
+- Bridging finance
+- Foreign Currency Loans
+- Self-build
+- Lending to social landlords
+- Lifetime mortgages
+
+================================================================================
+12. CONTACT INFORMATION
+================================================================================
+
+For further information, please contact our team on 0808 281 9309
+
+Source: https://www.leekbs.co.uk/intermediaries/residential-lending-criteria-a-z/
+
+================================================================================

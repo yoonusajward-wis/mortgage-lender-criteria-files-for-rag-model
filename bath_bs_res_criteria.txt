@@ -1,0 +1,807 @@
+LENDER NAME: Bath Building Society
+PRODUCT: Residential
+
+BATH BUILDING SOCIETY - RESIDENTIAL LENDING CRITERIA
+====================================================
+
+Source: https://www.bathbuildingsociety.co.uk/intermediaries/browse-general-information/residential-lending-criteria/
+Last Updated: Information updated daily via Criteria Hub
+
+================================================================================
+LOAN DETAILS
+================================================================================
+
+Minimum Loan Size:
+- £50,000 for standard residential applications
+- Minimum Loan Size Retirement Interest Only (RIO): £50,000
+
+Maximum Loan Size:
+- £1,000,000 for standard residential applications
+- £300,000 for first time buyers (subject to product availability and LTV)
+- Maximum Loan Size Retirement Interest Only (RIO): £500,000
+
+Minimum Property Value:
+- £100,000 for standard residential applications
+- Minimum Property Value for Retirement Interest Only (RIO): £100,000
+
+Maximum LTV:
+- Houses/Bungalows (Standard): 95% LTV
+- Houses/Bungalows (New Build): 95% LTV
+- Flats/Maisonettes (Standard): 95% LTV
+- Flats/Maisonettes (New Build): 95% LTV
+- Retirement Interest Only (RIO) Balance Swap: 50% LTV
+- Retirement Interest Only (RIO) Capital Raising: 50% LTV
+- Holiday/Second Home: 80% maximum LTV (we will consider it on a case-by-case basis as a 2nd property for the customer's own use up to a maximum of 80% LTV)
+- Home for Dependant: 80% maximum LTV (Bath Building Society does lend on properties where the property usage is home for a dependant. Up to 80% LTV)
+- Right to Buy: 100% of discounted purchase price (see Right to Buy section below for full details)
+
+Loan Term:
+- Minimum Term: 5 years
+- Maximum Term: 40 years (for standard residential mortgages)
+- Maximum Term Retirement Interest Only (RIO): No Maximum (mortgage repayment date can be when the borrower dies or goes into care)
+- Self Build Maximum Term: 40 years
+
+Repayment Methods:
+- Capital Repayment (Capital & Interest): Acceptable
+- Interest Only: Acceptable
+- Retirement Interest Only (RIO): Available
+
+================================================================================
+APPLICANT CRITERIA
+================================================================================
+
+Age Limits:
+- Minimum Age at Application: 18 years
+- Maximum Age at Point of Application: 79 years (unless on the RIO product)
+- Maximum Age at End of Mortgage Term: 85 years
+- Maximum Age at End of Term for Non Contributory Applicant: 85 years
+- Maximum Age at Term End Without Pension Proof: 70 years (proof of pension income will be required after age 70 or the applicant's stated retirement age, whichever is lower)
+- Maximum Age for Self Employed Borrowers: 85 years (maximum retirement age is earlier of 70 or stated retirement age, beyond this retirement income will be assessed for affordability)
+- Interest Only Maximum Age at End of Term: 85 years (for the oldest applicant)
+
+Retirement Interest Only (RIO):
+- Minimum Age at Application: 55 years
+- Maximum Age at Application: No Maximum
+- Maximum Age at Term End: No Maximum (mortgage repayment date can be when the borrower dies or goes into care)
+
+Residency:
+- Minimum UK Address History: 36 months (Bath Building Society requires applicants to have been residents in the UK for at least 36 months)
+- Applicant Not on Electoral Register: Acceptable (subject to an explanation for not being on the electoral register and acceptable proof of address)
+
+EU Nationals:
+- EU Nationals with Pre-Settled Status: Acceptable (can potentially lend to EU Nationals with a 'pre-settled status' under the EU Settlement Scheme)
+- EU Nationals with Settled Status: Acceptable (can potentially lend to EU Nationals with a 'settled status' under the EU Settlement Scheme)
+
+Foreign Nationals:
+- Foreign Nationals (Living Overseas): Not Acceptable (does not lend to Foreign Nationals living overseas)
+- Foreign Nationals (WITHOUT indefinite leave to remain): Not Acceptable (does not accept applications from foreign nationals that DO NOT HAVE indefinite leave to remain)
+- Foreign Nationals (with indefinite leave to remain): Acceptable (can consider applications from foreign nationals WITH indefinite leave to remain)
+
+Expat Residential Mortgage:
+- Not Acceptable (does not accept residential applications from expat applicants)
+
+Visas:
+- Family Visa (Spousal etc): Not Acceptable (will not consider applicants that hold a family visa)
+- Minimum Number Months Remaining on Visa: Not Applicable (we do not lend to foreign nationals on a visa - Bath Building Society will not consider an applicant on a visa)
+- Working Visa (Tier 1 - Investors, entrepreneurs and talent visas): Not Acceptable (will not consider applicants that hold a 'Tier 1' working visa)
+- Working Visa (Tier 2 - Long-term work visas): Not Acceptable (will not consider applicants that hold a 'Tier 2' working visa)
+
+Advisor Own Application:
+- Acceptable - Bath Building Society will accept applications from advisors applying for their own mortgage
+
+Maximum Number of Applicants:
+- Maximum: 4 applicants allowed
+
+Maximum Number of Applicants Income Used for Affordability:
+- Maximum: 2 applicants (further income can be used at underwriter discretion)
+
+Credit Reference Agencies:
+- Number of Credit Reference Agencies Used: 1 (we underwrite all cases manually)
+- Credit Scoring: Manual underwriting (all cases are manually underwritten)
+
+Joint Borrower Sole Proprietor (JBSP):
+- Acceptable (now treated as JBSP - guarantors are now treated as JBSP)
+- Joint Application Sole Occupier: Acceptable (can potentially accept applications on a joint application sole occupier basis - where one applicant will NOT reside in the property)
+- Joint Application Sole Proprietor: Acceptable (can accept applications on a joint application sole proprietor basis - where only ONE applicant will OWN the property)
+- Sole Application Joint Proprietor: Not Acceptable (will not consider applications on a sole application joint proprietor basis - where a property will be jointly owned but only one person will be named on the mortgage)
+
+Guarantors:
+- Acceptable (now treated as JBSP)
+- Reverse Guarantor (younger applicant guarantor for older applicant): Acceptable (can potentially consider a reverse guarantor application)
+- Where Applicant Significant Income Growth is Not Expected: Acceptable (can potentially consider a guarantor application where significant income growth is not expected)
+
+First Time Buyers:
+- Maximum Loan Size: £300,000 (subject to product availability and LTV)
+- [Additional first time buyer specific criteria - see standard criteria which applies]
+
+================================================================================
+AFFORDABILITY ASSESSMENT
+================================================================================
+
+Items That Can Be Ignored:
+- Additional Voluntary Pension Contributions: Can Be Ignored
+- Charitable Donations: Can Be Ignored
+- Company Pension Contributions: Can Be Ignored
+- Private Healthcare Payments: Can Be Ignored
+- Sharesave Schemes: Can Be Ignored
+- Non Dependant Household Occupants: Can Be Ignored
+
+Items That Are NOT Ignored (Included in Affordability):
+- Child Care Vouchers: Not Ignored (will be included when assessing borrowers affordability)
+- Maintenance Payments: Not Ignored (will be included when assessing borrowers affordability)
+- School Fees: Not Ignored (will be included when assessing borrowers affordability)
+- Season Ticket Loans: Not Ignored (will be included when assessing borrowers affordability)
+- Student Loans: Not Ignored (will be included when assessing borrowers affordability)
+- Personal Borrowing for Self Employed Business Purposes: Not Ignored (will be included when assessing borrowers affordability)
+
+Assessment of Additional Residential Mortgages:
+- Monthly Payment or Outstanding Balance: Monthly Payment (Bath Building Society will use the monthly payment of any additional residential mortgages when assessing affordability as opposed to the outstanding balance. We will stress this monthly payment at 1.2% above their current rate)
+
+================================================================================
+INCOME TYPES
+================================================================================
+
+Employment Income:
+- Additional Duty Hours: Acceptable (can potentially consider Additional Duty Hours as an acceptable source of income. We will use 100% if guaranteed and 50% if regular but non guaranteed)
+- Additional Responsibility Allowance: Acceptable (can potentially accept additional responsibility allowance as an income type. Can accept if the employer confirms this is guaranteed and permanent)
+- Bonus (Annual): Acceptable (can potentially accept annual bonus as an income type. We will use 100% of guaranteed bonus/commission and 50% of regular but non guaranteed bonus/commission)
+- Bonus (Half Yearly): Acceptable (can potentially accept half yearly bonus as an income type. We will use 100% of guaranteed bonus/commission and 50% of regular but non guaranteed bonus/commission)
+- Bonus (Monthly): Acceptable (can potentially accept monthly bonus as an income type. We will use 100% of guaranteed bonus/commission and 50% of regular but not guaranteed bonus/commission)
+- Bonus (Quarterly): Acceptable (can potentially accept quarterly bonus as an income type. We will accept 100% of guaranteed bonus/commission or 50% of regular but not guaranteed bonus/commission)
+- Car Allowance: Acceptable (acceptable to Bath Building Society. We use 100% of car allowance)
+- Commission (Annual): Acceptable (can accept commission as an income type. We will accept 100% of guaranteed bonus/commission. 100% of average 2 years commission can be used where >2yr track record (3 required for credit repair) 50% if <2 yr track record, of annual figure, or latest 3 months)
+- Commission (Half Yearly): Acceptable (can accept commission as an income type. We will accept 100% of guaranteed bonus/commission. 100% of average 2 years commission can be used where >2yr track record (3 required for credit repair) 50% if <2 yr track record, of annual figure, or latest 3 months)
+- Commission (Monthly): Acceptable (can potentially accept monthly commission as an income type. We will accept 100% of guaranteed bonus/commission. 100% of average 2 years commission can be used where >2yr track record (3 required for credit repair) 50% if <2 yr track record, of annual figure, or latest 3 months)
+- Commission (Quarterly): Acceptable (can accept commission as an income type. We will accept 100% of guaranteed bonus/commission. 100% of average 2 years commission can be used where >2yr track record (3 required for credit repair) 50% if <2 yr track record, of annual figure, or latest 3 months)
+- Employers Housing Allowance: Not Acceptable (does not accept employers housing allowance as an income type)
+- Employers Mortgage Subsidy: Acceptable (does accept employers mortgage subsidy as an income type)
+- Employment Income from Family Business: Acceptable (can potentially accept employment income from a Family Business as an income type. Acceptable subject to company accountant confirming the income. Pay slips would need to match entries into their bank account. The society may also request full accounts)
+- Flight Pay: Acceptable (can potentially consider Flight Pay as an acceptable source of income - please refer to lender)
+- Foreign Currency: Not Acceptable (does not accept foreign currency as an income type)
+- Large Town Allowance: Acceptable (acceptable to Bath Building Society)
+- London Weighting: Acceptable (can potentially accept London weighting as an income type)
+- Mileage Allowance: Not Acceptable (does not accept mileage allowance as an acceptable source of income for affordability purposes)
+- Overtime (less than monthly): Acceptable (can potentially accept overtime (less than monthly) as an income type. We will accept 100% of guaranteed overtime and 50% of regular but non guaranteed overtime)
+- Overtime (weekly or monthly): Acceptable (can potentially accept weekly or monthly overtime as an income type. We will accept 100% of guaranteed overtime and 50% of regular but non guaranteed overtime)
+- Parental/Maternity leave pay (back to work salary): Acceptable (can potentially accept parental/maternity leave pay (back to work salary) as an income type. We can accept 100% of normal pay, subject to confirmation from employer regarding return to work salary. Will also need to see a level of savings in the background to support any shortfall of income throughout maternity)
+- Salary (paid cash in hand): Not Acceptable (does not accept salary paid in cash as an income type)
+- Second Job: Acceptable (up to 100% of income from a second job can be considered subject to sustainability by underwriting)
+- Shift Allowance: Acceptable (can potentially accept shift allowance as an income type. We will use 100% if guaranteed, or 50% if regular but non guaranteed)
+- Standby / Call Out: Acceptable (can potentially consider Standby / Call Out as an acceptable source of income - refer to lender)
+- Supply Teacher: Acceptable (can potentially accept Supply Teacher income - refer to lender. No set criteria on this)
+- Tronc Payments (Tips etc): Not Acceptable (does not consider tronc payments (tips etc) when assessing affordability)
+
+Employment Requirements:
+- Minimum Length of Time Employed: 12 months (12 months continuous employment required)
+- Minimum Length of Time in Current Job: 1 month (at least the first month's pay must be evidenced in the bank and first month's payslip. We do not accept income from applicants currently in probation, and the applicant must have 12 months continuous employment history)
+- Probationary Period: Acceptable (subject to condition within offer that probation has completed prior to drawdown)
+- Pending New Job Salary Accepted: Acceptable (subject to confirmation from employer and payslip prior to completion)
+- Pending Pay Rise Accepted: Acceptable (subject to confirmation from employer and payslip prior to completion)
+- Employed with Voluntary Breaks: Not Acceptable (will not consider income from an applicant who takes unpaid prolonged breaks from employment with their existing employer)
+- Zero Hours Contract Minimum Time in Position: 36 months (we will accept zero hours contracts providing they have a 3 year track record and they are still employed at the time of application)
+
+Self-Employed Income:
+- Net Profit (for sole traders and partnerships): Acceptable (can potentially accept net profits for sole traders and partnerships when assessing income. Must evidence 3 years accounts)
+- Limited Company Directors (Salary and Dividends): Acceptable (can potentially accept salary and dividends as the primary income used when assessing income from directors of a limited company. We require a minimum of 3 years accounts completed)
+- Limited Company Directors (Salary and Net Profits): Acceptable (can accept salary and net profits as the primary income used when assessing income from directors of a limited company. Must demonstrate at least 3 years accounts)
+- Limited Company Directors (Salary and Share of Net Profits AFTER CORPORATION TAX): Acceptable (can potentially accept salary and share of net profits AFTER CORPORATION TAX as the primary income used when assessing income from directors of a limited company)
+- Limited Company Directors (Salary and Share of Net Profits BEFORE CORPORATION TAX): Not Acceptable (does not use salary and share of net profits BEFORE CORPORATION TAX as the primary income used when assessing income from directors of a limited company)
+- Limited Company Retained Profits: Acceptable (can potentially accept retained profits as an acceptable source of income when assessing affordability)
+- Directors Loan Payback: Not Acceptable (does not accept payback of a directors loan as an income that can be used in our affordability assessment)
+
+Self-Employed Assessment Requirements:
+- Amount of Shareholding to be Considered Self Employed: 20% (20% shareholding required to be considered self-employed)
+- Accounts or Accountant Certificates where Accountant is not Chartered or Certified: Not Acceptable (does not accept accounts or accountants certificates from accountants that are not either 'Chartered' or 'Certified')
+- Can Use Projection as Latest Year: No (does not accept a projection for the latest years self employed figures for affordability purposes)
+- Declining Profits: Acceptable (can potentially accept income from self employed applicants where profits have declined year on year. The last 3 years profit should be used to justify income. Where profits are declining, this can be acceptable subject to Underwriter's discretion and a fully documented justification)
+- Latest Years Self Employed Figures for Affordability: Acceptable (can use the latest years self employed figures where justified by a trend. We will consider 2 years figures to justify lending on the latest year only. Contact your BDM)
+
+Contractor Income:
+- CIS Contractor: Acceptable (can potentially accept CIS contractors as an income type. Would be considered a sole trader and subject to standard policy)
+- Fixed Term Contract: Acceptable (we will consider fix term contracts where there is 24 months to run or a track record of 24 months and have at least 6 months to run)
+- IT Consultant: Acceptable (can potentially accept IT Consultant as an income type. Would need evidence of 3 years earnings as an IT Consultant)
+- Locum Doctor: Acceptable (can potentially accept Locum Doctor as an income type. We would treat as self employed, using an average of the last 2 years figures)
+- Sub Contractor: Acceptable (can potentially accept sub contractors as an income type. Would need evidence of 3 years of earnings)
+- Zero Hours Contract: Acceptable (can potentially accept zero hours contracts as an income type. Must have evidence of 3 years earnings)
+
+Contractor Income (Not Acceptable):
+- Agency Work: Not Acceptable (does not accept agency work as an income type)
+- Nursing Bank: Not Acceptable (does not accept nursing bank as an income type)
+- Piecework Contract: Not Acceptable (does not accept piecework contracts as an income type)
+- Probationary Contract: Not Acceptable (does not accept probationary contracts as an income type)
+- Rolling Contract: Not Acceptable (does not accept income from a rolling contract)
+- Seasonal Contract: Not Acceptable (does not accept seasonal contracts as an income type)
+- Short Term Renewable Contract: Not Acceptable (does not accept short term renewable contracts as an income type)
+- Temporary Contract: Not Acceptable (does not accept temporary contracts as an income type)
+- Umbrella Company: Not Acceptable (will not consider contractor income that is paid via an umbrella company)
+
+Contractor Assessment Requirements:
+- CIS Contractor Assessment: Treated as Self Employed (can potentially use income from CIS contractors but would treat the applicants as self-employed so would take an average on the last 2 years income)
+- Contractors Minimum Experience Requirement: 24 months (fixed term contracts required a minimum 24 months track record with a minimum of 6 months remaining)
+- Contractors Weekly Multiplier for Income Assessment: Treated as Self Employed (we would use an average of the last 2 years)
+- Contractors Minimum Income Requirement: £20,000 (Bath Building Society allows contractors, subject to 24 month history and minimum 6 months left to run)
+- Contractors Minimum Time Remaining: 6 months (Bath Building Society will consider contractors with 6 months to run. A 24 month contract history must be provided)
+
+Other Income:
+- Lodger Income: Acceptable (can accept lodger income as an income type providing it is shown on tax returns)
+- Maintenance (through the courts): Acceptable (100% used, subject to evidence it will continue for at least 5 years)
+- Maintenance (not through the courts): Acceptable (can consider maintenance not through the courts provided it is guaranteed for a minimum of 5 years and a CMS letter is evidenced. If there is a long standing informal arrangement and the child's age means it is viable to continue at least 5 years then we may consider the income as an exception but please refer on this basis at DIP)
+- Pension Income (Company): Acceptable (can potentially consider Company Pension as an acceptable source of income)
+- Pension Income (War Disablement): Acceptable (can potentially accept pension (war disablement) as an income type)
+- Pension Income (Private Pension): Acceptable (can potentially accept private pension as an income type)
+- Pension Income (Self Administered Drawdown Pension): Acceptable (can potentially consider self administered drawdown pension income. We will use 4% of the pension pot)
+- Pension Income (Self-invested Personal Pension - SIPPs): Acceptable (can potentially accept income from a Self-invested Personal Pension (SIPPs))
+- Pension Income (State Pension): Acceptable (can potentially accept state pension as an income type)
+- Pension Credit: Not Acceptable (does not accept pension credits as an income type)
+- Seafarer Income: Not Acceptable (will not consider Seafarer income as an allowable income type)
+- Stipend: Not Acceptable (does not accept stipends as an income type)
+- Income Protection/Permanent Health Insurance: Not Acceptable (will not accept Income protection/Permanent Health Insurance as an income type)
+
+================================================================================
+INCOME TYPES (CONTINUED)
+================================================================================
+
+Benefit Income - Acceptable:
+- Disability Living Allowance (DLA): Acceptable (provided that it's awarded for life and not the sole source of income)
+- Industrial Injuries Disablement Benefit: Acceptable (provided it is guaranteed for life)
+- Personal Independence Payment (PIP): Acceptable (100%, providing it's awarded for life and cannot be the sole source of income)
+
+Benefit Income - Not Acceptable:
+- Adoption Allowance: Not Acceptable
+- Attendance Allowance: Not Acceptable
+- Carers Allowance: Not Acceptable
+- Child Benefit: Not Acceptable (automatically included in the affordability)
+- Child Tax Credits: Not Acceptable
+- Constant Attendance Allowance: Not Acceptable
+- Employment and Support Allowance: Not Acceptable
+- Guardian Allowance: Not Acceptable
+- Universal Credit: Not Acceptable
+- Working Tax Credits: Not Acceptable
+
+Income Multiples:
+- Income Multiple (Single) Maximum: 5.0x (Income £0-£100k = 5 x income; Income £100k plus = 6 x income)
+- Income Multiple (Joint) Maximum: 5.0x (Income £0-£100k joint = 5 x income; Income £100k plus = 6 x income)
+- Note: Annual debt outgoings are first deducted from annual income for this calculation
+
+Minimum Income Requirements:
+- Minimum Income Requirement: £20,000 after deductions
+- Interest Only Minimum Income Requirement: £20,000 after deductions
+
+================================================================================
+ADVERSE CREDIT CRITERIA
+================================================================================
+
+CCJs (County Court Judgments):
+- CCJs registered in last 3 Months: Not Acceptable
+- CCJs registered between 3 to 12 Months: Not Acceptable (Bath Building Society will not consider applicants that have had CCJs registered more than 3 months ago and less than 12 months ago)
+- CCJs registered between 12 to 24 Months: Potentially Acceptable
+  * 95% LTV: Not acceptable
+  * 80% LTV (Standard residential): Maximum £500 registered in last 3 years, satisfied at application
+  * 70% LTV (Credit repair): Maximum £5,000 registered over 2 years
+- CCJs registered between 24 to 36 Months: Potentially Acceptable (Available up to 70% LTV - Maximum £5,000 registered over 2 years)
+- CCJs registered over 36 Months ago: Potentially Ignored (Available up to 70% LTV - Maximum £5,000 registered over 2 years)
+
+Arrears:
+- Secured/Mortgage Arrears: Acceptable
+  * 80% to 95% LTV: None accepted in the last 3 years
+  * 70% to 80% LTV: Maximum status 1 in the last 2 years and must be satisfied for at least 6 months
+  * Up to 70% LTV (Credit repair): Maximum status 2 in the last 2 years, and must be satisfied for at least 3 months
+- Unsecured Arrears: Acceptable
+  * 80% to 95% LTV: None accepted in the last 3 years
+  * 70% to 80% LTV: Maximum status 1 in the last 2 years (Utilities & mobiles ignored up to £250)
+  * Up to 70% LTV (Credit repair): Maximum status 2 in the last 2 years (Utilities & mobiles ignored up to £500)
+  * Note: Must be currently up to date on the credit search
+
+Arrangement to Pay:
+- Acceptable (Bath Building Society can potentially consider applicants that have an arrangement to pay registered on their credit file. Applicants would have to be clear for the last 12 months)
+
+Defaults:
+- Defaults registered in last 3 Months: Not Acceptable (will not consider applicants that have had Defaults registered in the past 3 months)
+- Defaults registered between 3 to 12 Months: Not Acceptable (will not consider applicants that have had Defaults registered more than 3 months ago and less than 12 months ago)
+- Defaults registered between 12 to 24 Months: Not Acceptable (will not consider applicants that have had Defaults registered more than 12 months ago and less than 24 months ago)
+- Defaults registered between 24 to 36 Months: Potentially Acceptable (Available up to 70% LTV - Maximum £5,000 registered over 2 years)
+- Defaults registered over 36 Months ago: Not Ignored (Available up to 80% LTV when satisfied 2 years. Available up to 70% LTV - Maximum £5,000 registered over 2 years)
+- Maximum Number of Defaults (Satisfied): 6 (80% to 95% LTV none accepted in the last 6 years. 70% to 80% LTV, Satisfied over 2 years. Up to 70% LTV, Maximum £5,000 registered over 2 years ago and still not satisfied. Subject to underwriter review. For any cases with multiple instances of adverse or other policy exceptions, please discuss with your BDM before placing the case with us)
+- Maximum Number of Defaults (Unsatisfied): 6 (Available up to 70% LTV - Maximum £5,000 registered over 2 years)
+- Maximum Value of Defaults (Satisfied): No Maximum (80% to 95% LTV none accepted in the last 6 years. 70% to 80% LTV, Satisfied over 2 years, up to 70% LTV, Maximum £5,000 registered over 2 years ago and still not satisfied)
+- Maximum Value of Defaults (Unsatisfied): £5,000 (Available up to 70% LTV - Maximum £5,000 registered over 2 years)
+
+IVAs (Individual Voluntary Arrangements):
+- Acceptable (80% to 95% LTV satisfied for 6 years. 70% to 80% LTV satisfied over 3 years, up to 70% LTV (Credit repair) satisfied for 2 years)
+- Years Satisfied: 3 years minimum (80% to 95% LTV satisfied for 6 years. 70% to 80% LTV satisfied over 3 years, up to 70% LTV (Credit repair) satisfied for 2 years)
+- Years Since Registered: 3 years minimum (80% to 95% LTV satisfied for 6 years. 70% to 80% LTV satisfied over 3 years, up to 70% LTV (Credit repair) satisfied for 2 years)
+- Note: An IVA usually stays on the credit file for 6 years from the date it was REGISTERED not from the date it was satisfied
+
+Debt Management Plans:
+- Satisfied: Acceptable (80% to 95% LTV none accepted in the last 6 years. 70% to 80% LTV, must be satisfied for over 2 years, up to 70% LTV (Credit repair), must be satisfied for over 1 year)
+- Current/Unsatisfied: Not Acceptable (does not accept applicants who have a current/unsatisfied debt management plan)
+
+Debt Relief Orders:
+- Satisfied: Acceptable (80% to 95% LTV none accepted in the last 6 years. 70% to 80% LTV, must be satisfied for over 2 years, up to 70% LTV, must be satisfied for over 1 year)
+- Note: None within the last 12 months
+
+Discharged Bankrupt:
+- Acceptable (80% to 95% LTV satisfied for 6 years. 70% to 80% LTV satisfied over 3 years, up to 70% LTV (Credit repair) satisfied for 2 years)
+
+Previously Repossessed:
+- Not Acceptable (does not accept applicants that have been previously repossessed)
+
+Late Payments (Not Missed):
+- Acceptable (can potentially accept applicants with previous 'Late Payments'. Maximum of 2 within the last 24 months)
+
+Payday Loans:
+- Previous: Acceptable (can accept applicants with previous payday loans as long as all payday loans have been satisfied for 12 months)
+- Current: Not Acceptable (does not accept applicants with a current payday loan)
+
+Debt Related:
+- Debt Being Repaid Fully or Partially Ignored: Yes (can ignore debts being repaid, subject to proof of funds)
+- Expiring Debt Can Be Partially or Fully Ignored: Yes (anything ending within 6 months or under can be ignored)
+
+Financial Associates with Adverse:
+- Not Acceptable (will not accept applicants that are financially associated with persons that have adverse credit)
+
+Maximum Debt to Income Ratio:
+- No Maximum (we don't have a maximum as long as it fits income multipliers and affordability)
+
+Gambling (Recurring Transactions):
+- Not Acceptable (will not consider applicants that have recurring gambling transactions)
+
+CIFAS:
+- Historic CIFAS Record: Not Acceptable (does not accept applicants that are named on the CIFAS register)
+
+Criminal Convictions:
+- Not Acceptable (does not accept applicants that have criminal convictions)
+
+Power of Attorney:
+- Acceptable (can potentially consider an applicant from someone acting as a power of attorney)
+
+Politically Exposed Persons:
+- Not Acceptable (will not consider an applicant that is classed as a politically exposed person)
+
+================================================================================
+FEES AND CHARGES
+================================================================================
+
+Arrangement Fees:
+- Can Be Added When Exceeding PRODUCT LTV Limits: No (Bath Building Society does not allow fees to be added where it means the product loan to value limits will be exceeded)
+- Can Be Added When Exceeding LENDING LTV Limits: No (Bath Building Society does not allow fees to be added where it means the lending loan to value limits will be exceeded)
+
+[Additional fee information to be extracted - see Tariff of Mortgage Fees for full details]
+
+================================================================================
+BACK TO BACK TRANSACTIONS
+================================================================================
+
+Back to Back Remortgages:
+- Customer Funded: Acceptable (subject to policy - Remortgages within 6 months of acquisition will be acceptable subject to: LTV based on original purchase price unless evidence of refurbishment or conversion is seen; The title must be fully registered with no pending applications; There must be a plausible explanation for the transaction)
+- Inherited: Acceptable (subject to same policy as above)
+- Bridging: Acceptable (subject to same policy as above)
+- Ported: Acceptable (subject to same policy as above)
+- Other: Acceptable (subject to same policy as above)
+
+Back to Back Purchases:
+- Part Exchange: Acceptable (Bath Building Society will accept back to back transactions on this basis)
+- Repossessed: Acceptable (Bath Building Society can potentially accept back to back purchases of this nature)
+- Other: Not Acceptable (Bath Building Society does not accept back to back purchases of this nature)
+
+Day 1 Remortgages:
+- Day 1 Remortgage (NOT inherited property): Acceptable (remortgages within 6 months of acquisition will be acceptable subject to: LTV based on original purchase price unless evidence of refurbishment or conversion is seen; The title must be fully registered with no pending applications before an application is made to us; There must be a plausible explanation for the transaction)
+- Day 1 Remortgage (if inherited property): Acceptable (subject to same policy as above)
+
+Non Simultaneous Sale and Purchase:
+- Acceptable (can potentially accept non simultaneous sale and purchase. Subject to circumstance, please refer)
+
+================================================================================
+CONCESSIONARY PURCHASES
+================================================================================
+
+- Concessionary Purchase (Family): Acceptable (providing the correct amount of stamp duty is paid)
+- Concessionary Purchase (Landlord): Acceptable (Bath Building Society can potentially accept this type of concessionary purchase - please refer the case with full details, agreed on a case by case basis)
+- Concessionary Purchase Where Giftor Will Remain: Not Acceptable (Bath Building Society does not accept the situation where it is a concessionary purchase where the giftor will remain an occupant of the property)
+
+================================================================================
+SPECIAL PRODUCTS
+================================================================================
+
+Buy for University (Student Mortgages):
+- Offered - Bath Building Society will accept Buy for University Mortgage enquiries on a referral basis only and will be sold in house by our Mortgage Consultants. We will pay a 0.2% referral fee on completion of the loan
+- Note: This mortgage is sold by our Mortgage Consultants only
+
+Retirement Interest Only (RIO):
+- Available - Bath Building Society offers Retirement Interest Only mortgages
+- Minimum Age at Application: 55 years
+- Maximum Age at Application: No Maximum
+- Maximum Age at Term End: No Maximum
+- Maximum Loan Size: £500,000
+- Maximum LTV (Balance Swap): 50% LTV
+- Maximum LTV (Capital Raising): 50% LTV
+- Minimum Equity Requirement: No minimum equity as downsizing isn't an acceptable repayment strategy. We will lend up to 50% of the property value
+- Lasting Power of Attorney (LPA) Required: No (will allow RIO without lasting power of attorney but it is offered with a higher interest rate)
+- Enhanced Terms Where Lasting Power of Attorney (LPA) Exists: Yes (can potentially offer better lending terms where a 'Lasting Power of Attorney' exists. We offer a better interest rate when lasting power of attorney is in place)
+
+RIO Joint Applicants First Death Affordability Assessment:
+- Benefit Income: Not Acceptable (won't consider benefit income as part of its ongoing affordability assessment)
+- Family Assistance: Not Acceptable (won't consider family assistance as part of its ongoing affordability assessment)
+- Investment Income: Not Acceptable (won't consider investment income as part of its ongoing affordability assessment)
+- Life Cover: Not Acceptable (won't consider projected proceeds of a life policy as part of its ongoing affordability assessment)
+- Other Non Provable Income: Not Acceptable (won't consider other non provable or guaranteed income as part of its ongoing affordability assessment)
+- Rental Income: Will be Considered (can potentially consider rental income as part of its ongoing affordability assessment)
+- Survivors Pension: Will be Considered (can potentially consider survivors pension income as part of its ongoing affordability assessment. For joint applications affordability will be calculated on the lower of the two applicants' income plus any spousal entitlement in the event of first death)
+
+Self Build:
+- Available - Bath Building Society offers self-build mortgages
+- Maximum Loan Size: £1,000,000 (£300,000 for first time buyers) subject to product availability and LTV
+- Can Use Own Conveyancer: Acceptable (allows applicants to use their own solicitor/conveyancer. Note: Bath Building Society offers self-build mortgages exclusively through Buildloan)
+- Maximum LTV against Valuation at Point of Stage Release: 95% (LTV cannot exceed 95% of the insured amount at the point of each stage release, to a maximum of 85% of the projected final value)
+- Maximum LTV of Estimated Final Value: 85% (LTV cannot exceed 85% of the projected final end value once the build is complete)
+- Maximum LTV on Land/Plot Value or Purchase Price: 95% (LTV cannot exceed 95% of the land/plot value or purchase price)
+- Concessionary Land Purchase: Acceptable (can potentially consider concessionary purchase self-build applications and use the concession as the deposit - providing the correct amount of stamp duty is paid)
+- Property Usage: Holiday/Second Home: Not Acceptable (will not consider self-build applications where the property use will be as a second/holiday home)
+- Building Regulations Approval Required Prior to Completion: Yes (requires applicants to have building regulations approval prior to completion)
+- Required Build Completion Time: 24 months (requires self-build projects to be completed within a 24 month time frame. We would expect builds to be completed within 2 years)
+- Retention Product Offered Upon Completion of Build: Yes (subject to product availability - can potentially offer a retention product to the applicant upon successful project completion)
+- Retention Retained Until Sign Off Following Build Completion: Yes (will usually hold a retention until completion and final sign off of the works)
+- Pure Interest Only Acceptable During the Build: Acceptable (can potentially accept pure interest only during the build phase of a self-build project - subject to product availability)
+- Note: All self build applications are to be submitted through Buildloan
+
+Help to Buy:
+- Help to Buy Equity Loan: Not Available (Bath Building Society does not take part in Help to Buy Equity Loan)
+- Help to Buy Wales: Not Acceptable (Bath Building Society does not offer the Help to Buy scheme)
+- Help to Buy Equity Loan Remortgage: Not Acceptable (does not accept remortgage applications where the Help to Buy Equity Loan will remain in place)
+- Help to Buy Equity Loan Remortgage with Capital Raising: Not Acceptable (does not accept remortgage applications where the Help to Buy Equity Loan will remain in place)
+- Remortgage Purpose: Repay Help to Buy: Acceptable (can consider remortgage applications with capital raising to repay a Help to Buy equity loan in full)
+
+Right to Buy:
+- Acceptable - Bath Building Society accepts Right to Buy applications
+- Maximum LTV (of discounted purchase price): 100% of purchase price accepted
+- Property Types: Houses and bungalows only (flats and maisonettes are unacceptable)
+- Maximum LTV: The lower of 75% of the valuation or 100% of purchase price
+- Location: England and Wales only (not available in Scotland)
+- All Existing Tenants: Must be a party to the mortgage application
+- Home Improvements Allowed: No (does not accept additional monies being raised at application for home improvements on right to buy applications)
+- Additional Lending Above Discounted Price: Not Acceptable (does not accept additional lending above the discounted price on right to buy applications)
+- Joint Application Sole Occupier: Not Acceptable (does not accept joint application sole occupier on right to buy applications)
+- Remortgage Within Pre-emption Period - Balance Swap: Acceptable (can potentially consider a right to buy remortgage balance swap application within the pre-emption period)
+- Remortgage Within Pre-emption Period - Capital Raising: Not Acceptable (will not consider a right to buy remortgage capital raising application within the pre-emption period)
+
+Shared Ownership:
+- Not Acceptable - Bath Building Society does not consider Shared Ownership applications
+- Remortgage Purpose: Shared Ownership Staircasing to 100% ownership: Acceptable (100% LTV - Bath Building Society does consider capital raising in order to staircase to 100%)
+
+Discount Market Scheme:
+- Not Acceptable (is unable to accept applications on the Discount Market Scheme)
+
+================================================================================
+MORTGAGE OFFERS
+================================================================================
+
+- Can Extend Mortgage Offer: No (Bath Building Society does not allow applicants to extend their mortgage offer. Refer to Lender)
+
+Mortgage Offer Validity:
+- Standard Offers: 6 months (180 days)
+- Standard Remortgages: 6 months (180 days)
+- New Build Offers: 6 months (180 days)
+- Note: If/when an offer does expire we will re-offer subject to re-assessment of the case and on whatever rates are applicable at the time
+
+================================================================================
+PROPERTY CRITERIA
+================================================================================
+
+Property Location:
+- England: Acceptable (Bath Building Society lends on properties in England)
+- Wales: Acceptable (Bath Building Society lends on properties in Wales)
+- Scotland: Acceptable (Bath Building Society lends on properties in mainland Scotland, and the following Scottish Isles: The Shetlands, The Orkneys, Arran, Bute, Skye, Harris & Lewis, Mull, Islay)
+
+Property Construction:
+- 100% Timber Construction: Not Acceptable (does not lend on 100% timber construction properties - this is NOT the same as timber-framed)
+- BOPAS Accreditation Required for Non-Standard Construction: Yes (may require BOPAS accreditation for non-standard construction where the construction type is acceptable to us)
+- British Iron and Steel Federation (BISF): Acceptable (can potentially lend on properties where the construction type is British Iron and Steel Federation (BISF) must be build post 1987)
+- Concrete Construction: Not Acceptable (does not lend on concrete construction properties)
+- Converted Church: Acceptable (can potentially consider an application on a converted church)
+- Cornish Construction: Not Acceptable (does not lend on cornish construction properties)
+- Dutch Barns: Not Acceptable (will not lend on Dutch Barn properties)
+- EWS1 Required on Properties with Combustible Cladding or Materials on Balconies: Yes (will not lend on properties with combustible cladding or materials on balconies without a EWS1 form)
+- Easiform: Acceptable (can potentially lend on easiform construction properties - subject to valuers comments)
+- Flying Freehold: Acceptable (accepts flying freehold up to a maximum gross floor area of 15%. Agreed on a case by case basis)
+- Insulating Concrete Form (ICF): Acceptable (can potentially lend on properties where the construction type is Insulating concrete form (ICF))
+- Large Panel System (LPS): Not Acceptable (will not lend on properties where the construction type is Large Panel System (LPS))
+- Majority Flat Roof: Acceptable (can potentially lend on properties where the roof is majority flat roof. We classify 'majority' as anything over 50% - subject to valuer's comments)
+- Timber Framed: Acceptable (can potentially lend on timber framed properties. Modern (post 1970) timber frame acceptable with brick/block/stone/render exterior. Pre-1970 can be considered, subject to a full structural survey)
+- Timber Framed (1900 to 1970): Acceptable (can potentially consider lending on properties that are a timber frame construction dating between 1900 to 1970 subject to a full structural survey)
+- Timber Framed (Post 1970): Acceptable (can potentially consider lending on properties that are a timber frame construction dated post 1970)
+- Timber Framed (Pre 1900): Not Acceptable (will not lend on properties that are a timber frame construction dating pre 1900)
+- Modern Method of Construction (MMC): Acceptable (can potentially lend on properties where the construction type is modern method of construction (MMC) - subject to valuers comments)
+- Modular and POD Construction: Not Acceptable (does not lend on properties where the construction type is modular and POD construction)
+- Mundic Block: Acceptable (can potentially lend on properties where the construction type is mundic block - subject to valuers comments and a petrographic test)
+- No-Fines: Acceptable (can potentially lend on properties where the construction type is no-fines - subject to valuers comments)
+- Non Repaired Prefabricated Reinforced Concrete: Not Acceptable (does not lend on properties that are constructed of non repaired prefabricated reinforced concrete)
+- Off Site Manufactured (MMC): Acceptable (can potentially lend on properties where the construction type is Off site manufactured (MMC))
+- Potton Homes: Acceptable (can potentially lend on a Potton Home property)
+- Repaired Prefabricated Reinforced Concrete: Acceptable (can potentially lend on properties that are constructed of repaired prefabricated reinforced concrete - subject to valuers comments)
+- Single Skin: Not Acceptable (will not lend on single skin properties)
+- Steel Framed: Acceptable (can potentially lend on properties built after 1987. Modern steel framed house must have BBA or WIMLAS certification)
+- Structural Insulated Panel Solutions (SIPs): Acceptable (can potentially lend on properties where the construction type is Structural Insulated Panel Solutions (SIPs). Subject to being BOPAS accredited)
+- Thatched Roof: Acceptable (can potentially lend on thatched roof properties - subject to valuer's comments)
+- Tower Block with Cladding: Acceptable (can potentially lend on flats in a tower block that has cladding. Will require an EWS1 form)
+- Wholly Timbered: Not Acceptable (will not lend on a wholly timbered property)
+- Woolaway: Acceptable (can potentially lend on a woolaway property - if repaired with the benefit of NHBC or Zurich warranty)
+
+Property Types:
+- Maximum Number of Storeys for Flats: 6 storeys maximum (anything over 4 storeys needs to be lift-served)
+- Maximum Number of Storeys Where No Lift is Present: 4 storeys (will only consider flats with no lift access up to 4 storeys)
+- Maximum Number of Storeys for Ex Local Authority Flats: 6 floors maximum with lift access, 4 with no lift access (at least 75% of the block must be privately owned for this to be acceptable)
+- Minimum Percentage of Properties under Private Ownership on Ex-Local Authority Blocks of Flats: 75% (requires a minimum of 75% under private ownership in a block of ex-local authority flats)
+- Ex Local Authority House/Bungalow: Acceptable (Bath Building Society lend on ex local authority houses and bungalows)
+- Ex Local Authority Flat/Maisonette: Acceptable (Bath Building Society lend on ex local authority flats or maisonettes. More than 75% of the block must be privately owned)
+- Commonhold Properties: Not Acceptable (does not lend on commonhold properties)
+
+New Build Warranties (Acceptable):
+- NHBC Guarantee: Acceptable
+- Premier Guarantee Scheme: Acceptable
+- ICW: Acceptable
+- LABC: Acceptable
+- Professional Consultants Certificate: Acceptable
+- Buildzone: Acceptable
+- Zurich Municipal "New Build": Acceptable
+
+New Build Warranties (Not Acceptable):
+- AEDIS: Not Acceptable
+- Build Assure: Not Acceptable
+- Building Life Plans: Not Acceptable
+- CRL Management Ltd: Not Acceptable
+- Checkmate (Castle 10): Not Acceptable
+- Global Home Warranties: Not Acceptable
+- Protek: Not Acceptable
+- Q Assure Build: Not Acceptable
+
+Retrospective New Build Warranty:
+- Not Acceptable (Bath Building Society can not consider retrospective new build warranties. These warranties were specifically not in place during the build phase but taken out at a later date following completion)
+
+New Build Purchased Off Plan:
+- Not Acceptable (will not consider an application for a new build purchase 'off plan')
+
+Leasehold Properties:
+- Minimum Remaining Lease at Application: 50 years (Interest Only must have a minimum of 80 years at the end of the mortgage term, repayment must have a minimum of 50 years)
+- Minimum Remaining Lease at End of Term: 50 years (unless the application is on I/O, if the case is I/O we would require 80 years left at the end of the mortgage term)
+- Maximum Ground Rent (as % of Property Value/Purchase Price): 0.1% (the maximum acceptable starting ground rent on all new build leasehold properties will be limited to 0.1 per cent of the property's value)
+- Escalating Ground Rents: Not Acceptable (will not lend on leasehold properties where an escalating ground rent clause exists)
+- Leasehold Property where No Separate Management Company Exists: Not Acceptable (will not lend on leasehold properties where no separate management company exists)
+
+Property Issues:
+- Estate Rentcharges: Acceptable (can potentially consider lending on freehold properties where exists an estate charge for the general upkeep and maintenance of any shared areas)
+- Escalating Ground Rents: Not Acceptable (will not lend on leasehold properties where an escalating ground rent clause exists)
+- Ex MOD Properties: Acceptable (can potentially consider an application on an ex MOD property - please refer to lender)
+- Properties with Asbestos: Acceptable (can potentially lend on properties where Asbestos is identified but will be assessed on a case by case basis)
+- Properties with Occupancy Restrictions: Acceptable (can potentially consider an application on a property with occupancy restrictions - please refer to the lender. We will likely put a LTV cap on the case)
+- Japanese Knotweed: Acceptable (if Japanese Knotweed or any other invasive species is identified within 7 meters of the property, the valuer will categorize the risk. Category A & B will require a specialist report but may still be accepted subject to a suitable eradication program being in a place with a member of the Property Care Association (PCA) with an insurance-backed warranty. Category C & D pose no risk and are acceptable under normal terms)
+- Overhead Power Lines: Acceptable (can potentially lend on properties that have overhead power lines running above them. If the line do not run directly over the property we can potentially consider a case)
+- Mine Shafts: Not Acceptable (will not lend on properties that are close to a mine shaft)
+- Contaminated Land: Not Acceptable (will not consider properties that are situated on contaminated land)
+- Next to Commercial Premises:
+  * Class A1 (shops and retail outlets): Acceptable (can potentially lend on properties that border class A1 commercial premises)
+  * Class A2 (professional services): Acceptable (can potentially lend on properties that border class A2 commercial premises)
+  * Class A3 (food and drink): Not Acceptable (will not lend on properties that border class A3 commercial premises)
+  * Class A4 (drinking establishments): Not Acceptable (will not lend on properties that border class A4 commercial premises)
+  * Class A5 (hot food and takeaway): Not Acceptable (will not lend on properties that border class A5 commercial premises)
+  * Class B (business and industrial): Not Acceptable (will not lend on properties that border class B commercial premises)
+  * Class C (hotels, hostels, dwelling houses): Not Acceptable (will not lend on properties that border class C commercial premises)
+  * Class D (non-residential institutions): Not Acceptable (will not lend on properties that border class D commercial premises)
+  * Sui Generis: Not Acceptable (will not lend on properties that border class 'Sui Generis' commercial premises)
+- Part Renovated (Is Habitable): Acceptable (can potentially lend on properties that have been part renovated that are likely to be considered habitable by a surveyor. Subject to valuers comments. If the applicants have their own fund to complete the renovation)
+- Part Renovated (Not Habitable): Not Acceptable (can't lend on properties that have been part renovated that are likely to be considered NOT habitable by a surveyor)
+- Underpinned within Last 10 Years: Not Acceptable (will not lend on properties that have been underpinned in the last 10 years)
+- Spray Foam Insulation: Not Acceptable (does not lend on properties with spray foam insulation - subject to valuer's comments)
+- Property with Self Contained Annex: Acceptable (acceptable to Bath Building Society subject to valuer's comments and stated use by applicants. Please note that we have a different valuation fee scale for properties with an annex)
+- Property with Annex where Annex will be Let: Acceptable (acceptable to Bath Building Society, subject to valuer's comments - income generated by annex will not be used for affordability. Please note that we have a different valuation fee scale for properties with an annex)
+- Property with Restrictive Covenant Section 106: Acceptable (can potentially lend on properties that have a section 106 restrictive covenant)
+- Property with Age Restrictions / Retirement Properties: Acceptable (over 55 to 65 acceptable. Maximum 60% LTV. Age 75 usually not accepted but speak to the BDM for further details)
+- Property Being Purchased at Auction: Acceptable (can consider an application where the property will be purchased at auction)
+- Unadopted Roads: Acceptable (can potentially consider a property with unadopted roads)
+
+Property Ownership:
+- Possessory Title: Not Acceptable (will not lend on properties that are subject to a possessory title)
+- Shared Access or Shared Services: Acceptable (can potentially consider a property with shared access or shared services. PLEASE NOTE WE CANNOT CONSIDER SHARED ACCESS WITH FAMILY MEMBERS)
+- Splitting of a Title Deed on Completion: Acceptable (can potentially consider an application where the splitting of a title deed will take place on completion)
+- Tenancy in Common with Unequal Shares: Not Acceptable (will not consider joint applications where the property ownership will be as tenancy in common with unequal shares)
+- Trust: Not Acceptable (will not lend on properties that are owned by a trust)
+
+Property Issues:
+- Overage Clause: Not Acceptable (will not consider a property with an Overage Clause)
+- Absentee Freeholder: [Note: BTL only - can consider a BTL application with an absentee freeholder providing the solicitor confirms indemnity insurance would fully protect]
+- Solar Panels: Acceptable (where the solar panels form part of the freehold of the building this will be acceptable. Where the solar panels are leased under an 'airspace lease' the Solicitor will be required to ensure the lease does not negatively impact on our security)
+
+Property Usage:
+- Live/Work Units: Not Acceptable (does not lend on properties that are deemed live/work units)
+- Mixed Use Residential / Commercial: Acceptable (can potentially lend on properties that have mixed use commercial/residential. Subject to underwriting. Please call to discuss specific case. Maximum 50% LTV)
+- Restricted Sale Price: Acceptable (can potentially consider applications on properties that have a restricted sale price clause. We can potentially consider these clauses if the restriction falls away if we had to take the property into repossession)
+- Agricultural Restrictions: Not Acceptable (does not lend on properties with agricultural restrictions)
+- Bed and Breakfast: Not Acceptable (will not lend on residential properties that will continue to be used as a B&B)
+- Empty Property (Unoccupied): Not Acceptable (will not lend on properties that are empty/unoccupied)
+
+Property Types (Additional):
+- Farmhouse (where farmhouse and land are contiguous): Acceptable (can potentially lend on farmhouses where farmhouse and land are contiguous - subject to no business use or agricultural restrictions on the land)
+- Flat Above Commercial Food Outlet: Not Acceptable (case by case basis we will look at. Fast food outlets, betting shops not acceptable. Other commercial outlets considered)
+- Flat Above Commercial Offices: Acceptable (can potentially lend on flats above commercial offices. Must be self-contained with private entrance and no access via external walkways. We will not lend above licensed premises, fast food outlets or betting shops)
+- Coach House: Acceptable (can potentially lend on coach houses)
+
+Retentions:
+- Minor Retentions Potentially Ignored: No (will not ignore small suggested retentions and if one is made a retention will be made regardless of retention amount)
+
+================================================================================
+REPAYMENT AND TERM
+================================================================================
+
+Interest Only:
+- Maximum LTV: 70% (considers interest only applications up to a maximum loan to value of 70%)
+- Minimum Equity Requirement: 30% (minimum equity requirement of 30% for interest only lending. If the repayment vehicle is sale of property, the minimum equity required is £200k or the price of a 2 bed terraced price within a 30 minute drive of the property - whichever is greater)
+- Minimum Income Requirement: £20,000 after deductions
+
+Interest Only Repayment Strategies (Acceptable):
+- Sale of Property: Acceptable
+- Sale of Other Property: Acceptable
+- Existing Endowment or ISA: Acceptable (acceptable by referral. For endowments; guaranteed death benefit must be at least the amount of the mortgage, and the mid-range maturity value must be projected to either equal or exceed the loan amount)
+- Pension Lump Sum: Acceptable (Defined Contribution schemes: Projected value of lump sum at retirement based on the mid-range projection rate must exceed the loan amount. Defined Benefit Schemes: Projection of value of lump sum at retirement must exceed the loan amount)
+- Other Assets: Acceptable (potentially accepts interest only where the repayment vehicle is sale of other assets - refer in all circumstances)
+
+Interest Only Repayment Strategies (Not Acceptable):
+- Annual Lump Sum Repayment: Not Acceptable (does not accept interest only where the repayment vehicle is annual lump sum repayments)
+
+Overpayment Facility:
+- Standard Overpayment: 20% without incurring any charges (subject to product availability)
+
+Portable Mortgages:
+- Portable Mortgages as Standard: Yes (Bath Building Society mortgages are portable as standard)
+
+Offset Mortgages:
+- Not Available (Bath Building Society does not offer offset mortgages)
+
+Split Mortgage Terms:
+- Allowed (Bath Building Society can offer mortgages with split term durations)
+
+Rent a Room / Lodgers:
+- Lodgers: Acceptable (our Rent a Room Mortgage is unique in that it allows an individual applicant to increase their borrowing by renting out a room. This is because we will take into account the increased income that the room rental provides and factor this in to increase the overall borrowing)
+- Consent to Let a Room (via AirBnB or similar): Not Acceptable (does not allow borrowers to Let a room in their main residence via AirBnB or similar)
+- Consent to Let, Tied Accommodation: Acceptable (can accept a situation where an applicant is in tied accommodation, wishes to purchase on a residential basis, Let the property and remain in the tied accommodation. Subject to situation, please refer before placing)
+
+Sports Professionals:
+- Acceptable (can potentially lend to applicants who are considered 'Sports Professionals' - subject to referral)
+
+Telecommunications Adverse Ignored:
+- Yes (can ignore mobile phone and utility arrears up to a max of £250 below 80% LTV and £500 below 70%)
+
+Transitional Arrangements:
+- Offered: Yes (can potentially offer mortgages on a transitional arrangement basis - please refer)
+
+Professional Landlord (Rent is Primary Source of Income):
+- Acceptable (can potentially accept professional landlords who wish to use rental income as their primary income source. Affordability would be based on an average of the latest 2-years full tax returns)
+
+Professional Gambler:
+- Not Acceptable (will not consider an application from a professional gambler)
+
+Inter-family Sales (No Discount):
+- Acceptable (can potentially consider an application from an inter-family sale with no discount being offered)
+
+Contract Reassignment:
+- Not Acceptable (does not accept applications where contract reassignment exists)
+
+Green Mortgage:
+- Not Acceptable (is unable to consider a Green Mortgage application)
+
+Family Assist 100% Mortgages:
+- Not Offered (will not consider Family assist 100% mortgages)
+
+Returning to UK:
+- Returning to UK - Employed: Not Acceptable (will not applications from applicants who are returning to the UK and going straight into employment)
+- Returning to UK - Self-Employed: Not Acceptable (will not accept applications from applicants who are returning to the UK and going straight into self-employment)
+
+Right to Acquire:
+- Not Acceptable (does not accept right to acquire applications)
+
+Unauthorized Overdraft Charges:
+- Not Acceptable (will not consider applicants that have unauthorized overdraft charges)
+
+================================================================================
+REMORTGAGE PURPOSES
+================================================================================
+
+Remortgage Purposes - Maximum LTV:
+- Balance Swap (£4£ remortgage): 70% LTV maximum
+- Buy Out (partner/borrower): 70% LTV
+- Buy to Let Purchase: 70% LTV maximum
+- Capital Raise for BTL (property not yet found): Not Acceptable (will not consider remortgage applications with capital raising for a BTL property where a property is not yet found)
+- Debt Consolidation: 70% LTV (subject to: No previous debt consolidation within the past three years; The total debt being consolidated should be no greater than 50% of their current income and no more than 1/3rd of their income if all credit cards (except where it can be evidenced the debts were accrued carrying out home improvements); No previous adverse and no policy exceptions)
+- Note: Loans for applicants who are trading down, retaining the same level of borrowing but taking equity to clear debt will be classified as debt consolidation. Advances will not be considered for clearing gambling debts, tax liabilities or mortgage arrears
+- Gift Money: 70% LTV (subject to product maximum)
+- Home Improvements: 70% LTV (subject to product maximum)
+- Land Purchase: Not Acceptable (will not consider remortgage applications with capital raising for 'Land Purchase')
+- Education/School Fees: Acceptable (can potentially consider capital raising on a remortgage where the purpose of the funds is education or school fees)
+- Medical Expenses: Acceptable (can potentially consider capital raising on a remortgage where the purpose of the funds is medical expenses)
+- Lifestyle (holidays, cars, non-essential spending etc): Acceptable (can potentially consider capital raising on a remortgage where the purpose of the funds is lifestyle)
+- Personal Investments (not property related): Not Acceptable (will not consider capital raising on a remortgage where the purpose of the funds is personal investments)
+- Extending a Lease: Acceptable (can potentially consider capital raising on a remortgage where the purpose of the funds is extending a lease)
+
+Remortgage Waiting Period:
+- 6 months minimum ownership before remortgage application can be considered
+
+Additional Remortgage Purposes:
+- Repay Help to Buy: Acceptable (can consider remortgage applications with capital raising to repay a Help to Buy equity loan in full)
+- Shared Ownership Staircasing to 100% ownership: 100% LTV (Bath Building Society does consider capital raising in order to staircase to 100%)
+- Purchase Share of Freehold: Acceptable (can potentially allow capital raising on a remortgage where the purpose is to purchase a share of the freehold)
+- Purchase Commercial Property: Not Acceptable (will not consider remortgage applications with capital raising to purchase a commercial property)
+- Purchase Overseas Property: Not Acceptable (will not consider remortgage applications with capital raising to purchase a property overseas)
+
+================================================================================
+DEPOSITS
+================================================================================
+
+Source of Deposit (Acceptable):
+- Gift From Immediate Family: Acceptable (can accept deposits where the source is gift from immediate family)
+- Builders Deposit: Acceptable (can accept this builders deposit. Acceptable providing the applicant puts the same amount of contribution in)
+- Concessionary: Acceptable (can accept this type of deposit. Stamp duty must be calculated on the full purchase price)
+- Mortgage on Additional Property: Acceptable (can potentially accept the deposit source where it's from the proceeds of a mortgage on additional property)
+- Redundancy Payment: Acceptable (can potentially accept a redundancy payment as an acceptable source of deposit - subject to them having a new job that meets our criteria at point of application)
+- Repayment of Ltd Company Directors Loan: Acceptable (can potentially accept the deposit source where it is the repayment of Ltd company directors loan)
+- Vendor Gifted: Acceptable (can potentially accept the deposit source where it's a vendor gifted deposit - underwriting referral required)
+
+Source of Deposit (Not Acceptable):
+- Cryptocurrency / Bitcoin: Not Acceptable (will not consider this type of deposit)
+- Equity Loan: Not Acceptable (will not consider this type of deposit)
+- Forces Help To Buy: Not Acceptable (does not accept Forces Help To Buy as a deposit source)
+- Gift from Occupier NOT Named on Mortgage: Not Acceptable (does not accept this type of deposit)
+- Gifted NOT from Immediate Family: Not Acceptable (does not accept this type of deposit)
+- Loan Repayable on Sale of Property: Not Acceptable (does not accept this type of deposit)
+- Loan from Immediate Family: Not Acceptable (is unable to accept deposits where the source is a loan from immediate family. It must be from the applicant's own funds, or a gift from immediate family)
+- Originated Outside of EEA: Not Acceptable (does not accept this type of deposit)
+- Unsecured Loan: Not Acceptable (does not accept this type of deposit)
+
+================================================================================
+LET TO BUY
+================================================================================
+
+Let to Buy (Existing Lender Consent to Let):
+- Acceptable (can potentially allow customers to Consent to Let their existing residential mortgage - subject to explanation, please refer)
+
+Let to Buy (Onward Purchase):
+- Acceptable (acceptable to Bath Building Society - indicates if we are potentially able to arrange the new residential mortgage where the existing residential mortgaged property is going to be Let with a different lender)
+
+Let to Buy (Remortgage Current Residential to Buy to Let):
+- Acceptable (can potentially accept Let to Buy applications where looking to convert the existing residential mortgage to a Buy to Let mortgage with us. For example, applicant wants to move out of their current residential mortgaged property, remortgage onto a buy to let and purchase a new residential property to live in. This criteria relates to converting the current residential onto a buy to let mortgage)
+
+================================================================================
+LEGAL REQUIREMENTS
+================================================================================
+
+No Search Indemnity Insurance:
+- Purchases: Not Acceptable (is unable to accept 'no-search indemnity insurance' for a purchase application)
+- Remortgages: Not Acceptable (is unable to accept 'no-search indemnity insurance' for a remortgage application)
+
+Private Local Authority Search:
+- Purchases: Not Acceptable (is unable to accept a private local authority search for a purchase application)
+- Remortgages: Not Acceptable (is unable to accept a private local authority search for a remortgage application)
+
+Undervalue Transactions:
+- Acceptable (can potentially accept applications where the transaction constitutes an undervalue transaction - please refer the case with full details. Agreed on a case by case basis)
+
+================================================================================
+VALUATIONS
+================================================================================
+
+Valuation Fees:
+- See Mortgage Valuation Fees on Bath Building Society website for full details
+- Self-Build: Valuation fee based on the estimated final value or land value
+
+Survey Types:
+- [Standard valuation and survey requirements - see website for full details]
+
+================================================================================
+ADDITIONAL NOTES
+================================================================================
+
+- The information on this page is updated daily via Criteria Hub
+- All cases are manually underwritten
+- For any further questions about criteria, please contact the Intermediary team
+- To search for specific items in the Society's lending criteria, you can select Residential or Buy To Let criteria, then search the relevant category, filter by sub-category, or search by topic or keyword
+
+================================================================================
+END OF CRITERIA
+================================================================================

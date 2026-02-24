@@ -1,0 +1,1088 @@
+LENDER NAME: Loughborough Building Society
+PRODUCT: Combined
+
+# The Loughborough Building Society - Combined Lending Criteria
+**Source:** https://www.theloughborough.co.uk/intermediaries/forms-and-guides/
+**PDF:** https://www.theloughborough.co.uk/wp-content/uploads/2025/10/Mortgage-Lending-Criteria-for-Intermediairies-December-2025-v2.pdf
+**Last Updated:** December 2025
+
+**FOR INTERMEDIARY USE ONLY**
+
+The Loughborough Building Society is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority. Financial Services Register number: 157258.
+
+**Contact:**
+* **Phone:** 01509 631953
+* **Email:** brokers@theloughborough.co.uk
+* **Broker Portal:** https://intermediary.mortgages.theloughborough.co.uk/#!/
+* **Website:** https://www.theloughborough.co.uk/intermediaries/
+* **Forms and Guides:** https://www.theloughborough.co.uk/intermediaries/forms-and-guides/
+
+---
+
+## Overview
+
+The Loughborough Building Society offers a range of specialist mortgage products designed to help borrowers who may not fit standard lending criteria. The Society provides flexible lending solutions including residential mortgages, Buy to Let, Shared Ownership, and specialist products for older borrowers and university students.
+
+### Key Features
+
+* **Up to 5.5x income multiples** - Available up to 95% LTV for residential mortgages
+* **No upper age limit** - Mortgages available up to 35 years regardless of applicant's age
+* **Flexible credit history** - May disregard certain resolved defaults and CCJs based on specific criteria
+* **Family Deposit Mortgage** - Allows family members to assist with deposits through cash security or collateral security
+* **Borrowing into Retirement** - Specialist product for older borrowers
+* **Buy for University** - Specialist product for university students
+
+---
+
+## General Lending Criteria
+
+### Applicant Requirements
+
+**Age:**
+* **Minimum age:** 18
+* **Maximum age:** 80 at the end of the mortgage term for general products
+* **Post age 80:** Borrowing in/into Retirement products apply
+* **Post age 70:** Borrowing in/into retirement criteria applies
+* No upper age limit for borrowers (subject to product criteria)
+
+**Residency:**
+* **UK Residency Requirement:** The applicant/s must have resided in the UK for the past three years
+* **HM Armed Forces personnel:** Who have been temporarily stationed abroad are deemed to have been resident in the UK during their period of overseas deployment
+
+**Non-UK Residents:**
+* We don't accept mortgage applications for non-UK residents
+* Requests from existing LBS members will be given consideration
+
+**Non-UK Nationals:**
+* Mortgage applications from non-UK nationals from EEA countries will only be considered where the applicant has permanent rights to reside in the UK, or Indefinite Leave to Remain (ILR) under the EU settlement scheme or has made a successful application for 'settled status' or has pre-settled status having been resident for 3 years
+
+**Dual Nationality:**
+* If an applicant has dual nationality they must have a British passport, or information from the Home Office to confirm they are a British national
+* In addition, if the applicant is not from an EEA country, appropriate documentation by way of a Biometric Residence Permit or Home Office letter to confirm permanent rights to reside, or Indefinite Leave to Remain or Enter, and permission to work should be provided
+* **We do not accept applicants on working Visas**
+
+**Credit History:**
+* The Loughborough Building Society provide a range of solutions for a variety of applications which have Adverse credit issues
+* Our adverse proposition falls into 4 categories:
+  * **Standard Residential** - up to 95% LTV
+  * **Near Prime** - up to 80% LTV
+  * **Credit Impaired** - up to 70% LTV
+  * **Credit Repair** - up to 70% LTV
+* Applicants that fall into these categories will only be eligible for specific products within those criteria
+
+**Adverse Credit Availability:**
+* **Near Prime/Credit Impaired/Credit Repair available for:** Standard Residential, Shared Ownership, Lending in Retirement and Buy to Let Applications (Product Dependent)
+* **Near Prime/Credit Impaired/Credit Repair NOT available for:** JBSP, Holiday Let, Buy for Uni, Discount Market Value, Family BTL, Family Assist and Self Build Mortgages
+
+**Debt Consolidation:**
+* For Debt consolidation, the maximum permitted Loan-to-Value (LTV) is 70% for Tier 3 impaired credit and Tier 4 credit repair cases
+* Affordability will be assessed including all current monthly commitments (whether they are being repaid or not)
+
+**Right to Buy/Right to Acquire:**
+* Right to Buy/Right to Acquire applicants must have a 30% deposit of the Discounted Purchase Price on Tier 3 Impaired credit and Tier 4 credit repair
+
+**Maximum Borrowers:**
+* Buy to Let: Maximum four borrowers per application
+* Other products: Standard requirements apply
+
+### Application Process
+
+* All residential applications must be submitted on an **advised basis**
+* Only 'advised' applications are accepted
+* Applications processed through broker portal or direct submission
+
+### Loan Terms
+
+* **Maximum term:** 40 years
+* **Borrowing into Retirement:** Up to 35 years regardless of applicant's age
+* No upper age limit for borrowers
+
+### Loan Size & LTV Limits
+
+* **Minimum loan:** £25,000
+* **Maximum loan:** £500,000 (for Borrowing into Retirement)
+* **Purchase or Remortgage:** Properties owned for less than six months considered on referral
+
+### Financing the Deposit
+
+**Minimum Deposit:**
+* All applicants are expected to provide a minimum 5% deposit out of their own savings or proceeds of sale
+
+**Acceptable Deposit Sources:**
+* **Sitting tenants purchasing under right to buy** - Acceptable
+* **Interest free loan or gift from relative** - Acceptable
+* **Purchase under value (special purchase price)** - Acceptable where there must be a relationship between buyer and seller (e.g. parent and child)
+* **Buy for Uni purchases** - Acceptable
+* **First Time Buyer Family Deposit mortgages** - Acceptable
+* **Sitting tenant purchasing under right to buy or right to acquire** - Acceptable provided the LTV is below 80%
+
+**Deposit Sources NOT Accepted:**
+* **Builders deposit** - Not accepted unless the applicant has paid a minimum 5% from their own funds. If the applicant is receiving a discount on the purchase price but there is no family relationship with the seller, a minimum 5% deposit of the agreed purchase price (not property value) is required (Right to Buy is excluded from this requirement)
+* **Vendor cash deposits** - Not accepted
+* **Personal loan or other credit** - Not accepted
+
+### Capital Raising
+
+**Capital Raising Maximum LTV by Purpose:**
+
+| **Capital Raising Reason** | **Maximum % LTV** |
+|---------------------------|-------------------|
+| Property related (i.e. home improvement - builders estimates required above 80%) | 95% |
+| Help to Buy Buyout | 90% |
+| Transfer of Ownership | 90% |
+| Deposit on or purchase of 2nd home, holiday home or Buy to Let | 80% |
+| Family reason (e.g. university fees, wedding, lifetime gift, bank of mum and dad) | 85% |
+| Capital injection into business (not permitted for borrowing in/into retirement) | 80% |
+| Debt consolidation | 80% |
+
+**Capital Raising Restrictions:**
+* Not available for Specialist Self-Employed or applicants currently in financial difficulty
+* Note: There is a broader range of acceptable reasons for borrowers aged 80 and over, although lower LTV limits may apply
+
+### Loan-to-Value (LTV)
+
+* **Up to 100% LTV** - Subject to a minimum deposit of 20% provided through:
+  * Cash security (family members deposit cash equal to 20% of property value into a designated savings account)
+  * Collateral security (legal charge on joint borrower's or guarantor's residential property)
+  * Combination of both
+* **Up to 95% LTV** - Available with income multiples up to 5.5x
+* **Up to 90% LTV** - Residential mortgages on flats
+* **Up to 80% LTV** - For Borrowing into Retirement if borrowers are under 70 at the start
+  * Buy to Let mortgages on flats
+  * Standard products for self-employed applicants (with minimum 18 months' accounts)
+* **Up to 75% LTV** - Interest Only mortgages (general)
+* **Up to 70% LTV** - For Borrowing into Retirement if borrowers are 70 or over at the start
+  * Interest Only mortgages (if using sale of mortgaged property as repayment strategy)
+
+### Security Options
+
+**Cash Security:**
+* Family members deposit cash equal to 20% of the property's value into a designated savings account with the Society
+
+**Collateral Security:**
+* Legal charge on the joint borrower's or guarantor's residential property
+* Combined existing mortgage balance and the Society's charge must not exceed 75% of the property's current valuation
+
+### Eligible Guarantors
+
+* **Primary:** Parents, step-parents, or grandparents
+* **May be considered:** Other close family members such as aunts, uncles, or siblings (upon referral)
+
+---
+
+## Product Types
+
+### Residential Mortgages
+
+**Income Multiples:**
+* Up to 5.5x income multiples available up to 95% LTV
+
+**Age Limits:**
+* No upper age limit
+* Mortgages can extend up to 40 years (maximum term)
+* Borrowing into Retirement: Up to 35 years regardless of applicant's age at application
+
+**Loan Amounts:**
+* Minimum: £25,000
+* Maximum: £500,000 (for Borrowing into Retirement)
+
+**Repayment Methods:**
+* **Capital and Interest** - Standard repayment mortgage
+* **Interest Only** - Allowed up to maximum 75% LTV (70% LTV if using sale of mortgaged property as repayment strategy)
+* **Combination** - Mix of capital and interest and interest only
+
+**Interest Only Repayment Strategies:**
+* Endowments
+* Cash lump sums from personal/occupational pension plans
+* Equity ISAs/PEPs
+* Unit trusts
+* Sale of the mortgaged property
+
+**Interest Only Requirements:**
+* Repayment vehicle must be in place for at least 12 months before application
+* **We require any such vehicle (Equity ISA/PEP, Unit Trust) to have a monthly contractual payment** and have been in place for 12 months before the application for the mortgage (evidence of such payments can be provided via bank statements or annual statements)
+* **We will require an illustration from the vehicle provider** of the projected future value at the end of the mortgage term based on assumed growth rates (2%, 4% and 6%)
+* Subject to minimum equity requirements based on property location
+
+**Interest Only Exclusions:**
+* Shared Ownership mortgages
+* First Homes Scheme mortgages
+* Residential impaired credit mortgages
+* Deposit guarantee loans
+
+**Interest Only Minimum Equity Requirements (by property location):**
+* **North (East & West), Yorkshire & Humberside:** £200,000
+  * Postcodes: BB, BD, BL, CA, CH, CW, DH, DL, FY, HD, HG, HU, HX, L, LA, LS, M, NE, OL, PR, SK, SR, TS, WA, WF, WN, YO
+* **Midlands (East & West) & Wales:** £225,000
+  * Postcodes: B, CO, CB, CF, CV, DE, DN, DY, HR, IP, LD, LE, LL, LN, NG, NN, NP, NR, PE, S, SA, ST, SY, TF, WR, WS, WV
+* **South (East & West):** £350,000
+  * Postcodes: AL, BA, BH, BN, BR, BS, CT, CM, CR, DA, DT, EN, EX, GL, GU, HA, HP, IG, KT, LU, ME, MK, OX, PL, PO, RG, RH, RM, SG, SL, SM, SN, SO, SP, SS, TA, TN, TQ, TR, TW, UB, WD
+* **London (within M25):** £500,000
+  * Postcodes: E, EC, N, NW, SE, SW, W, WC
+
+**Interest Only - Sale of Investment Property or Second Home:**
+* We will accept the sale of an investment property or second home in the UK, provided the equity in the property is currently sufficient enough to cover the amount being borrowed (ownership must be evidenced via land registry and value via Halifax Price Index)
+* Where a shortfall is identified, this element must be on either a capital and interest repayment basis or the shortfall made up by means of increasing the deposit
+* It is your clients' responsibility to ensure they have sufficient capital to repay the mortgage at the end of the term
+
+**Interest Only Repayment Strategies NOT Accepted:**
+* Conversion to repayment in the future
+* Cash ISA
+* Overpayments from income
+* Inheritance
+
+**Credit History:**
+* Flexible approach to credit history
+* May disregard certain resolved defaults and County Court Judgments (CCJs) based on specific criteria
+
+**Credit History Tiers:**
+* **Standard** - Standard credit history requirements
+* **Near Prime** - May be available for applicants with minor credit issues
+* **Credit Impaired (Tier 3)** - Available for Shared Ownership and residential impaired credit products
+* **Credit Repair (Tier 4)** - Available for Shared Ownership products
+
+### Buy for University
+
+**Overview:**
+* **The applicant must be a University student** with a minimum one year remaining of their University studies
+* **The Society will lend up to 100% of the purchase price** (or valuation whichever is lower) subject to a minimum deposit of 20% financed via:
+  * **Cash security** (held on deposit with the Society)
+  * **Collateral security** (a legal charge on the Guarantor's property)
+  * **Combination of both**
+* **The Society will accept applications for purchase only**
+* **We will accept Interest only and Capital and Interest (repayment) or a combination**
+* **Maximum term:** 7 years
+
+**Affordability Assessment:**
+* Affordability will be determined by the rental potential of the vacant rooms to be sufficient to meet the affordability requirements
+* Using 130% interest coverage ratio stressed at 5.5% or 2% above the product pay rate whichever is the higher
+* **No rental income from the assisted borrower should be assessed**
+* Family member(s) income can be assessed along with the rental potential of the property for the vacant rooms (see Joint borrower sole proprietor)
+
+**Security and Guarantors:**
+* **A joint borrower is required** and must be a parent, step-parent or grandparent
+* **Other close family members:** Such as Aunt, Uncle or sibling may be considered on referral
+* **If collateral security is used:** Then the current balance of any existing mortgage secured on collateral security property PLUS the Society's own charge for the deposit must not exceed 75% of the current valuation of the collateral security
+* **If a collateral charge is to be used:** Then the Society will only accept the joint borrowers main residential home
+* **We will not accept a collateral charge on:** A Buy to Let, second home or holiday home owned by the joint borrower
+
+### Borrowing in and into Retirement
+
+**Overview:**
+Applications for Borrowing into/in Retirement products will only be accepted from applicants who are already over the age of 80, or whose required mortgage term will take them beyond age 80.
+
+**The Applicant:**
+* For joint applications if the definition applies to only one of the applicants, then eligibility for a mainstream product will need to be considered taking into account whether affordability relies on the income of the older applicant
+* Joint applicants are eligible for the entire product range (subject to criteria) in cases where:
+  * There is no reliance on the income of the older borrower and the term does not take the younger borrower beyond age 80
+* **Reduced maximum LTV limits apply to older borrowers:**
+  * Up to age 70 at the end of the mortgage term - Max 95% LTV
+  * Up to age 70 at the start of the mortgage term and under 80 years old at end of term - Max 80% LTV
+  * Over age 70 at the start of mortgage term and under 80 years old at the end of term - Max 70% LTV
+  * 80 years and over at end of the mortgage term – Max 70% LTV
+* **Maximum two borrowers per application**
+* **We will NOT accept applications where a Power of Attorney is already active** (i.e. where the PoA wants to arrange a mortgage on behalf of the donor, we would decline)
+* **Capital raising accepted for some purposes** - Maximum % LTV limits apply depending on the specified reason – please refer to lender
+* **For all applications Independent Legal Advice will be required**
+
+**Borrowing Ability:**
+* Where the proposed mortgage term is likely to exceed our assumed applicant retirement age of 70, the ability to continue to pay the mortgage on the applicant(s) pension income must be assessed
+* We will use state pension plus any personal/occupational pension income, to cover the remaining mortgage balance at retirement age
+* **Applicants must be in receipt of:** Employed, self-employed, personal or occupation pension income
+* **Applicants who will be wholly reliant on state pension and benefits only will not be accepted**
+* If working after the age of 70, the type of employment will need to reflect their ability to work beyond that age
+* **Absolute maximum income multiples of 3.5 times** for applicants already in retirement, or beyond age 80 (joint or single, income multiples will be used to cap the maximum borrowing potential of the applicant(s) even if the financial statement assessment indicates a higher lending potential)
+
+**Loan Amounts:**
+* Minimum: £25,000
+* Maximum: £500,000
+
+**Repayment Options:**
+* Interest-only
+* Repayment basis
+
+**Property Location:**
+* Available for properties in mainland England and Wales
+
+### Buy to Let Mortgages
+
+**Overview:**
+Buy to Let criteria as per residential with the following exceptions:
+
+**Applicant Requirements:**
+* **We will accept applicants who have no previous mortgage experience** (i.e. first time buyers/first time landlords) excluding Family BTL where applicants must be current owner occupiers of their own residential property with a mortgage or have previously had mortgages for which evidence can be obtained (consideration will be given to applicants who are co-habiting with a partner in a mortgaged property)
+* **Regulated Buy to Let are accepted:** We will lend to landlords who have close family members as a tenant (i.e. the applicants current or ex-spouse or civil partner, parent, sibling, child, grandparent, grandchild, step relative or in law)
+* **We will NOT lend where the application is in the name of a non-individual** (i.e. a Company, Trust or Partnership)
+* **We will NOT lend for Sale and Rent back scenarios or distressed sales**
+* **Maximum four borrowers per application**
+* **Minimum age:** 25
+* **Maximum age:** 80 (at the end of the mortgage term)
+* **Minimum income for the applicant:** £25,000pa. Joint applicants using combined income to achieve the minimum £25,000 may be considered by referral
+
+**Property Criteria:**
+* Excludes Houses in Multiple Occupation (HMO)
+* Requires Assured Shorthold Tenancy agreements of 6 to 12 months
+* Flats accepted up to 80% LTV in England and Wales
+
+**Employment History:**
+* Self-employed applicants: Need three years of accounts
+* Employed applicants: Considered regardless of employment term
+
+**Repayment Methods:**
+* Capital and Interest
+* Interest Only
+* Combination of both
+* The Society considers that the sale of the property at the end of the mortgage term is an acceptable repayment strategy
+
+**Affordability:**
+* Rental income assessment required
+* **Interest coverage ratio:** Must meet 125% (Basic Rate Taxpayers) or 145% (Higher Rate Taxpayers) of the monthly mortgage payment based on interest only
+* This is based on the gross rent receivable and is stressed at the product rate plus 2% or 5.5% whichever is higher
+
+### Holiday Let Mortgages
+
+**Overview:**
+Specialist product for holiday let properties.
+
+**Property Use:**
+* Maximum 60 days for applicant(s) own use per year
+* Not intended for long-term lets
+* Maximum continuous let: 12 weeks
+
+**Rental Assessment:**
+* Rental assessment required from a local agent
+* Rental coverage set at 130% regardless of applicant(s) tax position
+
+**Management Requirements:**
+* Holiday lettings management company must be in place
+* Letting must be managed via a reputable Holiday Letting Company
+
+**Property Requirements:**
+* Property must not have restrictive covenants on use
+* Specialist buildings insurance required
+
+**Applicant Restrictions:**
+* Portfolio landlords not accepted for Holiday Buy to Let
+* Holiday lets included in total lettable properties for portfolio landlord purposes
+
+**Criteria:**
+* Specific criteria apply
+* Refer to full criteria document for details
+
+### Shared Ownership Mortgages
+
+**Overview:**
+* Only from Housing Associations where the Lease is based on the government April 2015 Model Lease
+* **Minimum purchase:** 25% of the property
+* **We will only accept Capital and Interest** - We do not accept Interest Only or a combination
+
+**Product Options:**
+* **5-Year Fixed:** 5.85%
+* **2-Year Fixed:** 6.10%
+* **Impaired Credit (Tier 3) 2-Year Fixed:** 6.55%
+* **Credit Repair (Tier 4) 2-Year Fixed:** 7.15%
+
+**Property Criteria:**
+* **Flats/Apartments:** New Build apartments/flats/maisonettes will be considered for Shared Ownership up to a maximum 80% LTV of the share being purchased and established purpose built or conversions may be considered subject to a maximum of 90% LTV of the share being purchased
+* **Applications will not be accepted on properties with re-sale restrictions or clauses**
+
+**Remortgages:**
+* Re-mortgages are only accepted if the lease includes the mortgage protection clause
+* Applications may be considered on referral for re-mortgage purposes for:
+  * Straight swaps
+  * Stair-casing
+  * Additional borrowing for home improvements/essential repairs
+  * Transfers of equity where written consent has been obtained from the Housing Association
+
+### Right to Buy and Right to Acquire
+
+**Overview:**
+* **Maximum loan:** 100% of discounted purchase price
+* **If after the RTB or RTA discount is applied the LTV based on the property value is above 80%:** The applicants will be required to put down a minimum 5% of the discounted purchase price as per financing the deposit section
+* **Additional borrowing for home improvements:** Not available
+* **The RTB is usually restricted to the official tenants** who must also be party to the mortgage
+* **A copy of the RTB letter should be obtained**
+
+**Remortgage:**
+* Remortgage of a RTB property within the 5 year pre-emption period can be considered if there is no additional monies being raised
+* The second charge will be subject to a Deed of Postponement at extra cost to the applicant/s (unless there is only 12 months of the discount period remaining in which case no Deed of Postponement will apply)
+
+**Property Restrictions:**
+* **Right to Buy/Right to Acquire Flats:** Not acceptable
+* **If the LTV is below 80%:** The Society will consider lending up to 100% of the discounted purchase price
+
+### First-Time Buyer Mortgages
+
+**Product Options:**
+* **Joint Borrower Sole Proprietor & Deposit Guarantee 5-Year Fixed:** 6.25%
+* **Shared Ownership 5-Year Fixed:** 5.85%
+* **5-Year Fixed:** 5.89%
+
+### Second Homes/Holiday Homes (Borrowers own residential use only)
+
+**Overview:**
+* **Maximum LTV of 80%** although reduced maximum LTV limits apply to older borrowers (see Borrowing in and into Retirement in section 6 for more information)
+* **Maximum income multiples of 4.5 times apply** although reduced maximum income multiples apply to older borrowers (see Borrowing in and into Retirement in section 6 for more information)
+* **Available on Capital and Interest, Interest Only or a combination**
+* **Properties with restrictive occupancy will not be accepted**
+* **Affordability assessment will be based on the ability to meet the costs of running both properties**
+
+### Joint Borrower Sole Proprietor (JBSP)
+
+**Overview:**
+A joint borrower sole proprietor mortgage (JBSP) allows additional people (non-owning joint borrowers) to be added to a mortgage while only the owner-occupier(s) (proprietors) are named on the deeds and therefore on the proprietorship register.
+
+The non-owning joint borrower will be 'jointly and severally' responsible for the mortgage payments and for obliging by the terms and conditions of the mortgage. The Society's obligations in terms of responsible lending are the same as for all parties to the mortgage.
+
+**Acceptable Reasons for JBSP:**
+* The application must be for the owner occupiers main residential home and they must reside in the mortgaged property
+* It enables the owner-occupier (proprietor(s)) to maximise their mortgage borrowing capability by combining incomes a non-owning joint borrower but retaining sole ownership of their property
+* May be used in cases where the proprietor(s) independent income derived from employment, self-employment &/or pension sources is not enough to support the required level of borrowing without assistance
+
+**Acceptable Supporting Joint Borrowers – Non-Occupying Parties:**
+* Due to the level of financial commitment involved, only immediate family members are eligible to act as supporting joint borrowers who do not occupy the property
+* **Acceptable relationships include:**
+  * Son(s) or Daughter(s)
+  * Parent(s) or Step-Parent(s)
+  * Grandparent(s)
+* **Other family members:** Such as uncles, aunts, siblings, and step-siblings, may be considered on a case-by-case basis at the discretion of the underwriter
+* **All non-owning, supporting borrowers must:**
+  * Be residents of the UK
+  * Have permanent rights to reside in the UK
+  * Have resided in the UK continuously for the past three years
+* Additionally, such borrowers must currently hold or have previously held a mortgage in their own name
+* Consideration may also be given to those who are cohabiting with a partner in a mortgaged property
+
+**Acceptable Supporting Joint Borrowers – Occupying Parties:**
+* Occupying supporting borrowers who are first-time buyers or home movers are acceptable, provided they will reside in the mortgaged property and are cohabiting with their partner
+
+**For all applications Independent Legal Advice will be required**
+
+**Affordability:**
+
+**a) Owner-occupier:**
+* The owner-occupier must have independent employed, self-employed and/or pension income and must be able to cover a minimum of 25% of the loan amount based on income multiples
+* The income and expenditure assessment is carried out on the owner-occupier as per current affordability test for standard residential applications to calculate the shortfall in the stressed payment amount based on capital and interest repayment
+* The overall income and expenditure assessment can include the income from all borrowers (max. 4)
+
+**b) Non-owning joint borrowers:**
+* The non-owning joint borrower will need to demonstrate a reliable level of income from an acceptable and verifiable source sufficient to meet the value of the shortfall in the owner-occupier's income, having first taken into account their own financial commitments
+* The affordability test must cover all expenditure including any existing mortgages held by the non-owning joint borrower
+
+**Credit History:**
+* As per section 1 of this document for both proprietor and non-owning joint borrower(s)
+
+**Maximum number of parties to the loan:**
+* Up to 2 owner occupiers and up to 2 non-owning borrowers on a JBSP mortgage (up to 4 people in total will appear on the mortgage)
+
+**Minimum and maximum age:**
+* The minimum age at the start and the maximum age at the end of a JBSP mortgage term as per section 1 of this document, and this applies to all parties (i.e. non-owning joint borrower(s) and owner occupier(s))
+
+**Maximum % LTV:**
+* As current criteria, this depends on age of the oldest borrower (proprietor and non-owning joint borrower) at the end of the mortgage term (product dependent):
+  * **Up to 70 years old:** Maximum 95% LTV
+  * **70 – 80 years old:** Maximum 80% LTV
+  * **Over 80 years old:** Maximum 70% LTV
+
+**Mortgage type:**
+* Available for purchase and re-mortgage
+
+**Repayment type:**
+* **Capital & interest only**
+* Interest only and part & part are permitted for retired owner occupiers and subject to requirements set out in the Underwriting criteria for Lending in/into Retirement
+
+**Acceptable types of lending include:**
+* First and next time buyers
+* Borrowing in/into Retirement
+* First Time Buyer Family Deposit
+* Buy for University
+* All for purchase and re-mortgage
+
+**Excluded product types include:**
+* Buy-to-let
+* Shared ownership
+* Self-build
+* Specialist self-employed (where there are less than 2 years accounts)
+* Joint borrowers who would be categorised as specialist self-employed (where there are less than 2 years accounts) are not permitted
+
+**Acceptable property types:**
+* Standard criteria applies (contact 01509 631953 for more information)
+
+**Independent legal advice:**
+* All parties to the mortgage must obtain independent legal advice so that they are aware of their responsibilities and rights and what might be involved should there be a change in circumstances and the non-owning joint borrower wants to have their name removed from the mortgage at some future date
+* This will be a condition of the mortgage offer
+
+### Homes England – First Homes Scheme
+
+**Overview:**
+We will accept applicants under the First Homes scheme. The property can be:
+* A new home built by a developer
+* A property being purchased/remortgaged which was originally purchased as part of the scheme
+
+**Qualification Requirements:**
+* Applicant must be able to provide an 'Authority to Proceed and Eligibility certificate'
+* A deposit of 5% of the discounted purchase price
+
+**Additional Criteria:**
+* We will only accept **Capital and Interest repayment mortgage** - We do not accept Interest Only or a combination
+* Available on **houses only** - Flats/Apartments & Maisonettes are not permitted
+* Applications may be considered for remortgage purposes for:
+  * Straight swops
+  * Home improvements
+  * Transfers of equity where written consent has been obtained from the Local authority including confirmation of the current value and percentage discount the borrower originally received
+
+**Property Value Limits:**
+* Under the First Homes scheme the property cannot cost more than £250,000 (£420,000 in London) after the discount has been applied
+
+### Discount Market Value (DMV) Scheme
+
+**Overview:**
+We will accept applicants under a DMV scheme. The property can be:
+* A new home built by a developer
+* A home purchased from someone else who originally bought it as part of the scheme
+
+**Qualification Requirements:**
+* The local authority may also set some eligibility conditions
+* The applicant must have submitted an application for the First Homes/DMV scheme to the local authority and received back an 'Authority to Proceed' and Eligibility certificate, which the Society will require a copy of
+
+**The Loan - Purchases:**
+* The minimum mortgage advance amount is the equivalent of 50% of the discounted purchase price
+* The maximum LTV is 95% of the discounted purchase price
+
+**Remortgages & Further Advances:**
+* We will accept Remortgage and Further Advance applications for the following purposes:
+  * Straight swaps (like for like remortgage)
+  * Capital raising may be considered for the following reasons:
+    * Home improvements
+    * Transfer of ownership (i.e. to buy a party out)
+* Other purposes may be considered at the Underwriters discretion
+* All applications (including Further Borrowing) will require written agreement from the Local Authority (Authority to Proceed (ATP) and Eligibility Certificate) and confirmation of the current value and percentage discount the borrower originally received
+
+**Repayment Methods:**
+* We will only accept **Capital and Interest**
+* Interest only or a combination is NOT permissible
+
+**Property:**
+* Available on **houses only** - Flats/apartments & maisonettes are not permitted
+
+**Section 106:**
+To be eligible for an LBS DMV mortgage, the S106 Agreement would need to include at least one of the following clauses:
+* Property eligibility restrictions to be reviewed or removed no longer than 3 months from the date of decision to sell, with no restriction on marketing for sale at all after 6 months
+* A Mortgagee Exclusion clause would apply immediately on possession and would continue in force for successors in title to the mortgage ensuring that all successors also are free from the relevant restrictions and the above cascade mechanism is in place for the borrower
+* The restrictions only apply to the lender and borrower on the first transaction and is subsequently dis-applied to any future transactions
+
+The Society would require the Solicitor acting for the purchaser to confirm that a suitable S106 Agreement was in place
+
+---
+
+## Family Deposit Mortgage
+
+**Overview:**
+* **The applicant must be a first or second time buyer**
+* **The applicant must satisfy standard affordability requirements** and be able to make the mortgage payments in their own right (up to 25% if Joint Borrower Sole Proprietor)
+* **We will only accept Capital and Interest** - We do not accept Interest Only or a combination
+* **Applications are acceptable for purchase or re-mortgage** of the applicants residential home and the application may be supported by a deposit guarantee, a joint borrower guarantee or both
+
+**Loan Details:**
+* The Society will lend up to 100% of the purchase price (or valuation whichever is lower) subject to a minimum deposit of 20% financed via:
+  * **Cash security** (held on deposit with the Society)
+  * **Collateral security** (a legal charge on the joint borrowers/guarantors property)
+  * **Combination of both**
+
+**Eligible Family Members:**
+* **The joint borrower/guarantor must be:** A parent, step-parent or grandparent
+* **Other close family members:** Such as Aunt, Uncle or sibling may be considered on referral
+
+**Collateral Security Requirements:**
+* If collateral security is used, then the current balance of any existing mortgage secured on the collateral property PLUS the Society's own charge for the deposit must not exceed 75% of the current valuation of the collateral property
+* If a collateral charge is to be used, then the Society will only accept the joint borrower/guarantor main residential home
+* **We will not accept a collateral charge on:** A Buy to Let, second home or holiday home owned by the Joint borrower/guarantor
+
+---
+
+## Income & Affordability
+
+### Income Assessment
+
+* We will assess an applicant/s borrowing ability using an affordability calculation based on their income, commitments and expenditure
+* This will confirm the maximum amount we will be prepared to lend
+* **For applications with more than two applicants:** The first two incomes ONLY will be assessed
+* **Employed Income:** The affordability calculator will automatically apply deductions to gross income, based on tax bands and NI contributions to calculate the net income
+* **Income multiples:** Will be used to cap the maximum borrowing potential of an applicant even if the financial statement assessment indicates a high lending potential
+* **Maximum income multiples:** 4.5 times (Joint or Single), subject to product maximums
+* **Income multiples for Borrowing in/into Retirement:** 3.5 times (Joint or Single) apply where the applicant is aged 80 years or older
+* **5.5x Income – Product Specific (Standard Residential):**
+  * Enhanced income multiples of 5.5x (Joint or Single) are permissible for high earners for specific products only and subject to:
+    * Minimum level of income: £50,000pa sole borrower / £75,000pa joint borrowers
+    * Self-employed applicants require a minimum of 2 years accounts
+
+### Assessable Income Types
+
+**Primary Income:**
+* Primary income is defined as basic salary, net profit from a sole trading business or partnership, or salary and dividends from a Company Director with a 25% shareholding
+
+**Employed Income:**
+
+| **Income Type** | **Amount** | **Conditions** |
+|---------------|-----------|----------------|
+| Overtime/Commission/Shift Allowances/Bonuses | 100% (Guaranteed) | Must be the exact same amount on the last 3 payslips |
+| Overtime/Commission/Shift Allowances/Bonuses | 75% (Below 80% LTV) ** | Must show on each of the last 3 months payslips (annualised average assessed) |
+| Overtime/Commission/Shift Allowances/Bonuses | 50% (Above 80% LTV) | Must show on each of the last 3 months payslips (annualised average assessed) |
+| Commission | 75% (below 80% LTV) ** | Evidence of annualised amount to be submitted |
+| Commission | 50% (above 80% LTV) | Evidence of annualised amount to be submitted |
+| Car Allowance | 100% | |
+| Maintenance | 50% | If NOT by court order |
+| Maintenance | 100% | Subject to CSA/court order |
+| Large town (London) allowance | 100% | |
+| Mortgage/housing subsidy | 100% | |
+| Secondary employment | 100% | Due regard given to the nature of the work, the total number of working hours and the feasibility of this being sustained. Subject to a minimum six months in this employment |
+
+** Note: Shared Ownership up to 95% LTV we will assess 75% of overtime/bonus and commission
+
+**Self-Employed Income:**
+
+| **Status** | **Assessment** |
+|-----------|---------------|
+| **Sole Trader** | 100% of the last year net profit unless showing a reduction, then average at least two years net profit* |
+| **Partnership** | 100% of their share of the net profit unless showing a reduction, then average at least two years net profit* |
+| **Director of a Limited Company** | 100% of applicant's salary & any Dividends taken (provided there is a net profit). Consideration can be given to assessing 100% of the applicant's share of the net profit (after dividends have been paid) plus salary and Dividends for those businesses with minimal/no stock or cash dependencies e.g. service business, providing the net profit is sustainable* |
+
+* If there is a reduction of more than 15% then an explanation is required, and the case will be referred
+
+**Benefits:**
+* **In all circumstances benefit income must not exceed more than 50% of total income**
+
+| **Benefit** | **% Accessible** |
+|-----------|-----------------|
+| Universal Credit (UC) | 100 |
+| Child Benefit | 100 |
+| Working Tax Credit (WTC) | 50 |
+| Child Tax Credit (CTC) | 50 |
+| Personal independence Payment (PIP) | 50 |
+| Disability Living Allowance (DLA) | 50 |
+| Attendance Allowance (AA) | 100 |
+| Constant Attendance Allowance (CAA) | 100 |
+| Job Seekers Allowance (JSA) | 100 |
+| Employment & Support Allowance (ESA) | 50 |
+| Pension Credit (PC) | 100 |
+| Adult Disability Payment (ADP) | 50 |
+| Carers Allowance (CA) | 100 |
+
+**Note:** We will not accept the Housing Benefit Element of the Universal Credit Claim. Please refer to the Universal Credit Calculator on our website to determine income we would assess within the Universal Credit Claim
+
+**Miscellaneous Income:**
+
+| **Income Type** | **% taken for assessment** |
+|---------------|--------------------------|
+| Pensions (state, Personal, Occupational) – evidence required | 100% |
+| Investment/Trust Income – evidence required: if guaranteed | 100% |
+| Investment/Trust Income – evidence required: if NOT guaranteed | 50% |
+| Bursary – evidence required | 100% |
+| Foster Carers | We do not assess Foster Carers income |
+| BTL rental income*: if 2 or less properties | 50% of evidenced income |
+| BTL rental income*: if 3 or more properties | 100% of evidenced income |
+| Other household income – evidence required | 50% |
+
+* Income from BTL(s) will be profit declared for tax evidenced from last two years SA302s or accounts submitted by suitably qualified accountant
+
+**Other Household Income:**
+* Where it can be evidenced this income is verified and sustainable, examples of this type of income may be:
+  * A partner not named on the mortgage but living in the property and contributing to the household income (max. 70% LTV applies)
+  * A lodger or tenant under the rent a room scheme
+
+**Contractor:**
+* Treated as self-employed for affordability purposes
+* An umbrella company, or PAYE umbrella, is a company that self-employed contractors can join as an alternative to setting up (and working through) their own limited company
+* The umbrella acts as an intermediary between the applicant and their recruitment agency
+* The Umbrella company deals with administration (like accountancy and taxes) and also handles payroll
+* Contractors paid via an umbrella, payroll service company, are acceptable (where the Umbrella company deducts full tax and NI)
+* The contractor must have a fixed term contract with a minimum of 6 months until expiry and have worked in the same profession for a minimum of 1 year
+* Income to be assessed as for employed applicants. We will assess the last 3 months payslips averaged and multiply by 52
+
+**Sub-contractor:**
+* If the applicant has been working for one sole company and has done so for the last 6 months or more, we can treat as employed by the company i.e. assessing 100% of gross annualised income from last 3 months payslips or employer's reference
+
+**Zero Hours Contracts:**
+* Provided the employee has worked for a minimum of 6 consecutive months with the same employer on a zero hours contract with no more than two weeks void of work, the average income per week over the previous six months can be assessed
+
+### Employment Status
+
+**Employed:**
+* Employed applicants are required to provide 12 months employment history
+* **Applicants previously in education/vocational training:** Who have not completed 6 months in the role, or have a contract of employment to start in the next 3 months, are acceptable for the following occupations:
+  * Medical Doctor
+  * Medical consultant/Surgeon
+  * Anaesthetist
+  * Optometrist
+  * Solicitor
+  * Barrister
+  * Dentist
+  * Vet
+  * Pilot
+  * Accountant
+* **Less than one year's employment history:** Is permissible provided that the applicant was previously in full time education/vocational training and minimum 6 months in role
+* **Pieceworkers:** Must have been in their current job for at least a year
+* **Probationary period:** If an applicant is in a probationary period, there are no additional requirements provided that the applicant can provide a minimum of two years employment history and/or stability of employment (e.g. consistency of type of employment or no more than two other employers in the last two years)
+* **Permanent staff:** The applicant must be on the permanent staff (i.e. not a temporary position)
+* Buy to Let: Considered regardless of employment term
+
+**Self-Employed:**
+* **Sole Trader/Partnership:** Must have been trading a minimum of 2 years, with completed accounts available to verify
+* **Director of a Limited Company:** Company must have been incorporated for the last 2 years
+* A qualified accountant (ACCA, CIMA, CIPFA, ICAEW, CIT or FCCA) must provide details for the last two trading years
+* Where the business has been trading for less than three years, at least two years accounts should be provided plus a projection for year three will be required from the accountant. Three years SA302s can be accepted
+* If the accountant is not a member of one of the bodies stated above, additional verification of taxable income should be obtained from the Inland Revenue – three years SA302s
+* Where the latest information is based on draft accounts, the accountant should confirm that, to the best of his/her knowledge, no material changes are likely
+* **Standard products:** Minimum 18 months' accounts required, up to maximum 80% LTV
+* **Buy to Let:** Three years of accounts required
+* **1 year's self-employed (Maximum LTV 80%):**
+  * **Sole Trader:** Must have been trading a minimum of 12 months, with completed accounts available
+  * **Partnership:** Must have been trading a minimum of 12 months, with completed accounts available
+  * **Director of a Limited Company:** Company must have been incorporated for the last 12 months, with completed accounts available
+  * Applicants must be able to demonstrate a history of work in a similar industry (line of work) or have recently qualified in the profession or skilled trade
+  * A qualified accountant (FCCA, ACCA, CIMA, CIPFA, ICAEW or CIT) or registered auditor to provide details for the 1st years trading
+  * If the accountant is not a member of one of the above bodies, additional verification of taxable income should be obtained from the Inland Revenue – SA302s
+  * If the business has been trading for a minimum of 18 months a projection of net profit, prepared by a qualified accountant (as above) or registered auditor, for the 2nd year may be considered at the Underwriters discretion
+
+**Fixed Term Contracts:**
+* Employees on a fixed term contract with a minimum of six months until expiry are acceptable, provided they are professionals (i.e. excludes unskilled, manual, clerical workers) and have worked in the same profession for a minimum of one year
+
+**Temporary/Agency Workers:**
+* Income from temporary employment may be taken into consideration where the applicant has a continuous work history of similar employment over a 12-month period and can evidence regular earnings for the last six months (if the Temporary/Agency work has a fixed end date see Fixed Term Contracts)
+
+**Secondary Employment:**
+* 100% of Secondary Employment income will be taken where earnings can be evidenced from this source for the last six months
+* Due regard given to the nature of the work, the total number of working hours and the feasibility of this being sustained
+
+**Maternity / Paternity Leave:**
+* Where it is known that an applicant is, or will be, on maternity / paternity leave, the following information is needed:
+  * Anticipated return to work date and whether returning on a full time/part time basis
+  * Maternity / paternity income whilst off work (weeks at full pay/90% pay/SMP) and any savings provisions in place whilst on reduced pay
+  * Payslip prior to maternity leave showing normal income
+* We will assess the 'anticipated' return to work salary
+
+### Commitments & Expenditure
+
+* The affordability calculator will ask for all monthly commitments and household expenditure
+* The household expenditure should be based on the property to be mortgaged
+
+**Loans and Credit Cards:**
+* We will deduct as a monthly commitment any loan or credit card payments (including student loans) where there is an outstanding term of 6 months or more
+* We will use 3% of the outstanding balances on any/all credit card and mail order accounts as the monthly commitment figure
+
+**Payday Loans:**
+* Provided the applicant(s) do not have a reliance on short term credit the case should be acceptable
+* An explanation as to why the payday loan was taken out must be provided
+* If there is evidence of a reliance on short term credit (e.g. numerous repeated loans in the last 12 months, with other credit repayment issues or bank account conduct issues), we will not accept an application
+* Also see Credit History section for payday loan criteria by credit tier
+
+**Ground rent/Services charges – Leasehold properties:**
+* Where the proposed security is leasehold and there will be service and/or maintenance charges, such a charge is to be treated as a commitment when assessing affordability
+* The applicant will need to provide details of any such charges
+
+**Gambling:**
+* Consideration should be given to expenditure to gambling (e.g. amount being placed each week/month), and any impact on the customer's management of finances (e.g. missed payments or exceeding overdraft etc.)
+* Please Refer to Lender for guidance
+
+**Other Financial Commitments:**
+* All regular financial commitments considered
+* Full affordability assessment conducted
+* All income and expenditure considered
+* Stress testing applied where appropriate
+
+---
+
+## Property Criteria
+
+### Property Location
+
+* **Borrowing into Retirement:** Mainland England and Wales
+* **Other products:** Properties must be in mainland England & Wales
+
+### Property Tenure
+
+* **Freehold** - Acceptable
+* **Leasehold** - Acceptable
+* **Leasehold Requirements:**
+  * If leasehold, the minimum required unexpired term on a lease must be at least 85 years from commencement of the mortgage
+  * Maximum ground rent is £250 pa (£1,000 in London)
+  * If ground rent exceeds this limit, Forfeiture of Lease Insurance is required
+
+### Property Types
+
+**Acceptable Properties:**
+* Properties must be in mainland England & Wales and of traditional construction (e.g. brick and tile)
+* **Timber framed construction:** May be considered if brick clad
+* **Wimpey 'no fines' and Easy Form:** Can be considered subject to a satisfactory valuation
+* **New build:**
+  * New build houses are acceptable up to 95% LTV (we do not accept builders' deposits unless the applicant has paid a minimum of 5% from their own funds)
+  * New build flats /apartments/maisonettes for owner occupiers and BTL applications considered up to a maximum of 80% LTV
+  * **New build warranties:** We accept NHBC, Premier Guarantee, Building Lifeplans Limited (BLP, and Allianz Guarantee), Buildzone, LABC (New Home Warranty), Protek, Checkmate Castle 10 and One Guarantee. Other warranty policies are not acceptable
+* **Properties with flying freeholds:** Up to a maximum 25% of floor area
+* **Self-build:** Acceptable
+* **Flats / Apartments / Maisonettes for owner occupation:**
+  * Maximum of 5 floors, if our security is above the 2nd floor, the apartment must be serviced by a lift
+  * Up to a maximum of 80% LTV (90% available in the East Midlands only)
+  * Subject to the valuer confirming the security is 'readily resaleable'
+  * External balcony / open deck access to individual flats is unacceptable
+  * Flats above lockup garages are not acceptable
+  * No Studio or Ex-RTB
+  * Above commercial premises will be considered via referral
+* Subject to valuation and standard property criteria
+
+**Unacceptable Properties:**
+* **Pre-fabricated properties** - Not acceptable
+* **Steel framed properties** - Not acceptable
+* **Timber framed/timber clad properties** - Not acceptable (unless brick clad)
+* **Flat roofed houses** - Not acceptable
+* **Any construction covered by Housing Defect legislation:** Such as high alumina cement; prefabricated reinforced concrete; large panel system
+* **Ex-local authority & housing association (ex-public sector) flats** - Not acceptable
+* **Second homes / holiday homes** - Not accepted (except for Second Homes/Holiday Homes product)
+* **Shared equity** - Not acceptable
+
+**Buy to Let:**
+* Excludes Houses in Multiple Occupation (HMO)
+* Requires Assured Shorthold Tenancy agreements (6 to 12 months)
+
+**Solar Panels:**
+* **Houses fitted with solar panels:** Are acceptable, provided that adequate insurance is in place to cover any damage caused to the property by the solar panels, solicitors to confirm
+* **For re-mortgage applications on houses with solar panels:** These must have been fitted under a lease agreement, solicitors to confirm
+
+### Valuations
+
+* All properties are subject to a physical valuation
+* These are instructed via a panel management company and encompass a variety of national surveying firms
+* Valuation fees apply
+
+---
+
+## Credit History
+
+### Approach
+
+* Flexible approach to credit history
+* May disregard certain resolved defaults and County Court Judgments (CCJs) based on specific criteria
+* Each case assessed individually
+* Credit history considered as part of overall assessment
+
+### Credit Tiers - Detailed Criteria
+
+**Standard Residential (up to 95% LTV):**
+
+| **Credit Issue** | **Criteria** |
+|----------------|-------------|
+| **Defaults (Service Agreements)** | We will accept missed payments with any status or defaults that are satisfied or unsatisfied on Telecommunications, Mail Orders, Utility's, Bank Accounts and Car Insurance |
+| **Defaults (Revolving Credit)** | We will accept missed payments with any status and defaults provided they have been up to date and satisfied 6 months prior to application on Credit Cards and Store Cards. Status 1 outstanding also acceptable at application |
+| **Defaults (Fixed Payments)** | Missed payments in the last 2 years and have not exceeded status 2 acceptable provided the up to date in last 6 months on Personal Loans, HPI, Unsecured Loans and Lease Agreements. Status 1 outstanding also acceptable at application |
+| **Mortgage Payments or Secured Payments** | Missed/Late payments not exceeding a status 2 in the last 2 years and up to date 6 months prior to application |
+| **CCJs** | No more than 3 CCJ's of less than £500.00 in Total and satisfied 3 months prior to application |
+| **IVA/DMP** | Must have been registered and satisfied 3 years before application |
+| **Bankruptcy** | Must be minimum 4 years Discharged before application |
+| **Repossession** | Must have been registered and satisfied 3 years before application |
+| **Pay day loans** | No more than 1 in the last 12 months |
+
+**Near Prime (up to 80% LTV):**
+
+| **Credit Issue** | **Criteria** |
+|----------------|-------------|
+| **Defaults (Service Agreements)** | N/A |
+| **Defaults (Revolving Credit)** | We will accept missed payments with any status and defaults provided they have been up to date and satisfied prior to application on Credit Cards and Store Cards |
+| **Defaults (Fixed Payments)** | Missed payments in last 2 years and have not exceeded status 2 acceptable provided the up to date prior to application Personal Loans, HPI, Unsecured Loans and Lease Agreements |
+| **Mortgage Payments or Secured Payments** | Missed/Late payments not exceeding a status 2 in the last 2 years and up to date at application |
+| **CCJs** | Any number of CCJ's of less than £500.00 in total either satisfied or unsatisfied |
+| **IVA/DMP** | Must have been registered and satisfied 3 years before application |
+| **Bankruptcy** | Must be minimum 3 years Discharged |
+| **Repossession** | Must have been registered and satisfied 3 years before application |
+| **Pay day loans** | No more than 2-3 in the last 12 months (no missed payments) |
+
+**Credit Impaired (up to 70% LTV):**
+
+| **Credit Issue** | **Criteria** |
+|----------------|-------------|
+| **Defaults (Service Agreements)** | N/A |
+| **Defaults (Revolving Credit)** | We will accept missed payments with any status and defaults unsatisfied at application on Credit Cards and Store Cards |
+| **Defaults (Fixed Payments)** | Missed Payments of 2 months or more within the last 2 years and satisfied or not satisfied. Defaults satisfied within the last 2 years or unsatisfied at application. Personal Loans, HPI, Unsecured Loans and Lease Agreements |
+| **Mortgage Payments or Secured Payments** | Missed/Late payments exceeding a status 3 in the last 2 years and up to date 6 months prior to application |
+| **CCJs** | Any number of CCJ's with a total combined amount of £500.00 to £5000.00 either satisfied before application or unsatisfied. (none registered in the last 12 months) |
+| **IVA/DMP** | IVA's and DMP's must have been registered over 2 years ago and conducted satisfactory for 2 years prior to application |
+| **Bankruptcy** | Must be a minimum of 2 years Discharged before application |
+| **Repossession** | Must have been registered and satisfied 3 years before application |
+| **Pay day loans** | More than 3 in the last 12 months (no missed payments) |
+
+**Credit Repair (up to 70% LTV):**
+
+| **Credit Issue** | **Criteria** |
+|----------------|-------------|
+| **Defaults (Service Agreements)** | N/A |
+| **Defaults (Revolving Credit)** | N/A |
+| **Defaults (Fixed Payments)** | N/A |
+| **Mortgage Payments or Secured Payments** | Missed/Late payments exceeding a status 3 in the last 2 years and up to date at application |
+| **CCJs** | Any number of CCJ's with a total combined amount of more than £5000.00 either satisfied before application or unsatisfied. (none registered in the last 6 months) |
+| **IVA/DMP** | IVA's and DMP's must have been registered over 6 months ago and conducted satisfactory for 6 months before application |
+| **Bankruptcy** | Must be discharged before application |
+| **Repossession** | Satisfied over 2 years before application. Any debt remaining from previous repossession must have discharged a minimum of 3 months before application |
+| **Pay day loans** | More than 3 in the last 12 months (no missed payments) (alongside other credit repair) |
+
+**Residential Impaired Credit:**
+* Specific products available
+* Interest Only excluded for residential impaired credit mortgages
+
+---
+
+## Second Mortgages
+
+### Let to Buy
+
+**Overview:**
+New residential mortgages can be considered where the customer is, for example, upsizing or relocating with their job. We need to be satisfied that the existing mortgages will be converted to a permanent letting agreement.
+
+**Requirements:**
+* **Consent to let confirmation:** In writing, from the existing lender or a copy of the LTB re-mortgage offer from the new lender
+* **Rental coverage:** 125% (Basic Rate Tax Payers) or 145% (Higher Rate Tax Payers) of the mortgage commitment (based on a notional 5.5% interest rate)
+* This calculation must include any additional capital raising for deposit funds
+* If the rental coverage is less than 125% (Basic Rate Tax Payers) or 145% (Higher Rate Tax Payers), any shortfall will be annualised and deducted from income before applying our income multiples to new residential mortgages
+* No surplus rental income will be assessed
+* **Professional letting agents letter:** Confirming the potential rental income
+* **Where the existing property has little equity or is in negative equity:** We may not be able to assist, and the case should be referred to us before submission
+
+### Residential Applicants with Other Properties
+
+**Applicants must be current owner-occupiers:**
+* For us to consider proceeding where there are any other mortgages in the background
+* We may consider an application where the customer is temporarily living with family or renting, due to work commitments and they still own their ex-residential property
+* We must be totally satisfied that our security will be the customer's main permanent residence
+* We may require proof of deposit for the new purchase
+
+**Existing residential property up for sale:**
+* Where the customer/s have, for example, their existing residential property up for sale, but may not have sold by the time they complete on the new purchase
+* We will treat the existing mortgage payment as a monthly commitment
+* Where the existing matrimonial or dependent relative(s) mortgage is to remain, we must be satisfied that the new residential property to be purchased is for the customer/s own use
+* We will assess the existing mortgage as a monthly commitment
+
+**Existing Buy-to-Let properties in the background:**
+* **Applicants must be current owner-occupiers**
+* **Professional landlords:** Will be considered and treated as self-employed and we require 2 years' accounts and/or tax assessments. They will be required to complete an Assets and liabilities statement
+* **For Non-Professional landlords:** We will consider treating the BTL mortgages as self-financing, subject to:
+  * Rental coverage of 125% (Basic Rate Tax Payers) or 145% (Higher Rate Tax Payers) of the mortgage commitment (based on a notional 5.5% interest rate). This calculation must include any additional capital raising for deposit funds
+  * If the rental coverage is less than 125% (Basic Rate Tax Payers) or 145% (Higher Rate Tax Payers), any shortfall will be taken into account in the affordability calculation
+  * Proof of rental income and mortgage payment/s on the most recent bank statement/s
+  * Consent to let will be required or proof the mortgage is on a BTL basis (BTL mortgage statement)
+
+---
+
+## Application Process
+
+### Broker Portal
+
+* **Portal:** https://intermediary.mortgages.theloughborough.co.uk/#!/
+* Online application and case management
+* Access to product information and calculators
+
+### Supporting Documentation
+
+**Evidence of Income:**
+
+**Employed Applicants:**
+* Last three months' pay slips – main occupation
+* Last six months' pay slips – secondary occupation/income
+
+**Self-Employed Applicants (directors/partners of Limited Co. with 20%+ shareholding):**
+* Last two years audited accounts or Inland Revenue SA302s
+
+**Non-Borrowing Occupants:**
+* Confirmation is required of the relationship and the period of co-habiting, plus the last three months documentary evidence of household income contribution (e.g. bank statements)
+
+**Holiday Let:**
+* Confirmation of the average annual rental potential of the property is required from a local letting agent
+
+**Other Income Verification:**
+* Bank statements
+* P60 forms
+* Other income verification as required
+
+**Affordability Assessment:**
+* Full affordability assessment conducted
+* All income and expenditure considered
+* Documentation required to support assessment
+
+**ID:**
+* Current signed UK or EU Passport
+* Current UK Photo card Driving License (full or provisional)
+* Current UK Paper Driving License (full only)
+* National Identity Card (non-UK nationals)
+* Firearms Certificate or Shotgun License
+* Identity Card issued by the Electoral Office for Northern Ireland
+
+**Proof of Address:**
+* It is assumed that proof of address will be verified by the electoral roll search we undertake. If verification doesn't occur, you'll be asked to submit one of the following documents:
+  * Current council tax statement or demand letter – no more than 12 months old
+  * Current bank statement or credit/debit card statement issued by a regulated firm in the UK, EU or equivalent jurisdiction – no more than three months old
+  * Utility bill – no more than three months old
+  * Current (old style) full driving license
+  * Recent evidence of entitlement to a state or local authority-funded benefit (including housing benefit and council tax benefit), tax credit, pension, educational or other grant for Northern Ireland
+  * Instrument of a court appointment (such as liquidator, or grant of probate)
+
+**Note:** We can't use the same document to check the applicant's ID and their address. (If you can't provide any of the above documents, please contact brokers@theloughborough.co.uk)
+
+We reserve the right to carry out any further checks of the applicant's identity and address if we think we need to do so in order to comply with our legal obligations.
+
+**Additional Requirements:**
+
+**Maintenance by Court Order:**
+* A copy of the court order must be obtained and the last 3 months bank statements confirming receipt of the maintenance amount outlined in the order
+
+**Maintenance with No Court Order:**
+* Last six months bank statements confirming the amount of maintenance declared is paid monthly
+
+**Other Requirements:**
+* Property details and valuation
+* Credit checks
+* Additional forms as required (e.g., Interest Only Declaration, Gifted Deposit Form)
+* Refer to full criteria document for complete list
+
+### Forms Available
+
+* Mortgage Application Form
+* Customer Support Needs Form
+* Interest Only Declaration Form
+* Mortgage Gifted Deposit and/or Equity Form
+* Customer Declaration and Direct Debit Mandate
+* Adult Occupier Form
+* BTL Property Portfolio Form
+
+---
+
+## Additional Information
+
+### Service Levels
+
+* Dedicated intermediary support team
+* Contact available via phone or email
+* Broker portal for case management
+
+### Calculators
+
+* Affordability calculators available
+* Product calculators available
+* Access via broker portal and website
+
+### Product Guides
+
+* **Intermediary Products at a Glance:** Available as PDF download
+* **Lending Criteria for Intermediaries:** Available as PDF download (December 2025 v2)
+* **Valuation Fees:** Available on website
+
+---
+
+## Notes
+
+* All criteria are subject to individual assessment
+* The Society reserves the right to decline applications that do not meet lending criteria
+* Product availability and rates are subject to change
+* For the most up-to-date information, refer to the latest PDF criteria document or contact the intermediary team
+
+---
+
+**Document Version:** December 2025 v2
+**Source PDF:** Mortgage Lending Criteria for Intermediaries - December 2025 v2
+

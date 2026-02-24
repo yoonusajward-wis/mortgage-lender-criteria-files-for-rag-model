@@ -1,0 +1,935 @@
+LENDER NAME: Lendinvest
+PRODUCT: Buy to Let
+
+================================================================================
+LENDINVEST - BUY TO LET MORTGAGES CRITERIA
+================================================================================
+
+Source: https://docs.lendinvest.com/web/public-pdfs/btl-resources/btl-lending-criteria.pdf
+Last Updated: 24/06/2025
+
+Note: This document is for intermediaries only. Lending criteria and property requirements for our Buy-to-Let products.
+
+Last Verified: Based on PDF content as of the file creation date
+
+================================================================================
+OVERVIEW
+================================================================================
+
+Welcome to our Buy-to-Let lending criteria. Inside you will find the essential requirements before we lend to your clients.
+
+There is information to help you through the application process and contact details for our experienced Business Development Managers.
+
+Our Buy-to-Let products are available through intermediaries only and this document should be used by them.
+
+KEY FEATURES
+--------------------------------------------------------------------------------
+
+- Interest coverage ratio (ICR) assessed at pay rate for our 5-year fixed-rate products utilising the Market Rental valuation
+- Title Insurance applied to standard property and small House in Multiple Occupation (HMO) remortgage cases and separate representation purchase cases (subject to qualification)
+- Flexible underwriting for portfolio landlords, for portfolios of 20+ properties or over £3m – please refer to your BDM
+- Support for providing property portfolio information. This can be in any form, provided it details the minimum required information
+- Easy-to-use online Mortgages Portal
+- Use of Open Banking
+- Access to underwriters
+
+================================================================================
+1. INTEREST COVERAGE RATIO (ICR) AND ASSESSMENT RATES
+================================================================================
+
+ICR REQUIREMENTS BY APPLICANT TYPE
+--------------------------------------------------------------------------------
+
+| Applicant | Single properties | HMO/MUFB |
+|---|---|---|
+| Basic-rate taxpayer (20%) | 125% | 130% |
+| Limited company or LLP | 125% | 130% |
+| Higher-rate taxpayer (40%) | 145% | 145% |
+| Additional-rate taxpayer (45%) | 145% | 145% |
+
+APPLICATION SUBMISSION REQUIREMENTS
+--------------------------------------------------------------------------------
+
+Applications and all related documents must be submitted through our online portal.
+
+At the time of submission an application must be accompanied by the following:
+
+1. Payment of the non-refundable application fee and where appropriate the valuation fee
+2. A full portfolio schedule (for portfolio landlords)
+3. The latest tax year's SA302 tax assessment and tax overview for each applicant
+4. Evidence of deposit, if the case is a purchase transaction
+5. Bank statement from the account the direct debit will be drawn from
+6. If permission is given by the applicant, ideally we would like permission for Open Banking
+
+Detailed submission guidance is available on the LendInvest website.
+
+================================================================================
+2. GENERAL REQUIREMENTS
+================================================================================
+
+MAXIMUM LOAN/LOAN TO VALUE (LTV)
+--------------------------------------------------------------------------------
+
+Based upon the lower of the purchase price or market value. If the security property was purchased within the last 6 months, we will normally lend on the original purchase price.
+
+| LTV | Up to £2M | Up to £2M | Up to £2M | Up to £1.5M | Up to £1M |
+|---|---|---|---|---|---|
+| **TERM** | 7-30 years | 55% | 65% | 70% | 75% | 80% |
+| **PROPERTY TYPE** | | | | | | |
+| Standard | Residential only property | £2M | £2M | £2M | £1.5M | £1M |
+| Small HMO | | £2M | £2M | £2M | £1.5M | £1M |
+| Large HMO | | £2M | £2M | £2M | | £1M |
+| Small MUFB | | £2M | £2M | £2M | £1.5M | |
+| Large MUFB | | £2M | £2M | £2M | | £1M |
+
+MINIMUM LOAN SIZE
+--------------------------------------------------------------------------------
+
+- £50,000
+
+REGIONS
+--------------------------------------------------------------------------------
+
+- England, Wales and Scotland
+
+PROPERTY SECURITY
+--------------------------------------------------------------------------------
+
+- First charge only
+
+REPAYMENT
+--------------------------------------------------------------------------------
+
+- Interest only
+
+PAYMENT METHOD
+--------------------------------------------------------------------------------
+
+- Direct debit only
+
+LOAN PURPOSE
+--------------------------------------------------------------------------------
+
+- Our loans can be used to purchase or remortgage
+- If remortgaging, a valid explanation is required if the property has been owned for less than 6 months, unless this is a transition from another of our products
+- Remortgaging from existing Bridging Finance will be considered
+- We permit additional capital raising but it must be fully declared and explained
+
+DEPOSIT
+--------------------------------------------------------------------------------
+
+- On all purchase cases the source of deposit must be disclosed and must have originated from within the UK
+- We will request evidence of the deposit
+- If a limited company is purchasing the property from individual director(s) – and the full share capital of the limited company is in exactly the same name as the property – then the existing equity is acceptable as the deposit in the form of a director's loan account
+
+GIFTED DEPOSIT - PERSONAL APPLICATIONS
+--------------------------------------------------------------------------------
+
+- Gifted deposits are acceptable excluding First Time Landlords (FTL)
+- A FTL will require a minimum 10% contribution from personal funds
+- Gifted deposits can only be accepted from an immediate relative, full details of whom must be disclosed
+- The identification of the person(s) gifting the deposit must be satisfactorily established
+- Appropriate deed of gift indemnity insurance will be required
+- Only on-shore funds may be used
+- Inter-family sales: A 10% personal contribution is required
+
+GIFTED DEPOSIT - LIMITED COMPANIES
+--------------------------------------------------------------------------------
+
+Acceptable without a customer contribution when the following are in place and verified:
+
+- Directors loan
+- Intercompany loans
+- Business savings
+- Inter-family sales: A 10% personal contribution is required
+
+OFFERS
+--------------------------------------------------------------------------------
+
+- Buy-to-Let offers remain valid for 90 days from the date of the formal offer
+- If an offer needs to be reissued after expiry this may alter the amount of the loan and be subject to additional underwriting
+
+================================================================================
+3. INDIVIDUAL BORROWER REQUIREMENTS
+================================================================================
+
+MAX NUMBER OF APPLICANTS
+--------------------------------------------------------------------------------
+
+- 2
+
+MINIMUM AGE
+--------------------------------------------------------------------------------
+
+- 21
+
+MAXIMUM AGE
+--------------------------------------------------------------------------------
+
+- 85 (at end of term)
+
+ADDRESS VERIFICATION
+--------------------------------------------------------------------------------
+
+- An electronic verification check will be done through Equifax
+- If this check fails, you will need to supply a certified utility bill, bank statement or tax demand dated within the last 3 months
+- We can accept a drivers licence if it isn't being used as ID verification
+
+DIRECT DEBT MANDATE VERIFICATION
+--------------------------------------------------------------------------------
+
+- If we are unable to verify the applicant's bank account we will require a bank statement or bank 'Welcome Letter' dated in the last three months confirming the account details
+
+EMPLOYMENT
+--------------------------------------------------------------------------------
+
+- The underwriter can apply discretion to the minimum time in the current job, taking into account employment history, probation status and proposed exit
+- Applicants/shareholders/directors should be registered for UK tax and sources of income should be within the UK
+
+IDENTITY VERIFICATION
+--------------------------------------------------------------------------------
+
+- We will ask the borrower to verify their identity via the Jumio platform. They will be required to take and upload a selfie and a photo of their identification
+- If this check fails, you will need to follow the instructions from our Identity Documents list
+
+MORTGAGE HISTORY
+--------------------------------------------------------------------------------
+
+- Where a 36-month mortgage history is not available on the credit searches we will require mortgage statements to verify satisfactory conduct
+- We can check these manually or through Open Banking, if permission is given by the applicant
+
+MARGINAL TAX RATE
+--------------------------------------------------------------------------------
+
+- All borrowers must disclose details of their marginal tax rate to enable the correct ICR to be applied
+
+INCOME VERIFICATION
+--------------------------------------------------------------------------------
+
+- Applicants are required to demonstrate they have sufficient income to cover their full personal and Buy-to-Let expenditure, including any potential property void periods
+- This can be done manually or through Open Banking, if permission is given by the applicant
+- Your underwriter will advise you if this is necessary
+
+Acceptable income evidence should be one (or a combination) of the following:
+- Latest 3 months' payslip
+- Latest SA302 (HMRC) tax assessment and tax overview
+- Latest Signed Accounts
+
+First Time Landlords, defined as being landlords with less than 12 months experience, are required to demonstrate a minimum income of £30,000 and must own residential property for at least 6 months.
+
+SECTOR EXPERIENCE
+--------------------------------------------------------------------------------
+
+EXPERIENCED LANDLORD – STANDARD RESIDENTIAL
+- A borrower will be defined as an experienced Landlord if at least one party to the loan has held at least 1 or more BTL properties for at least 12 months
+
+FIRST TIME LANDLORDS
+- Loans up to a maximum of 80% LTV subject to the following criteria:
+  - No missed mortgage payments
+  - Must own residential property for at least 6 months
+  - Minimum income £30,000
+  - No adverse credit
+  - Property types that are acceptable - single residential properties, Small HMOs and Small MUFBs
+  - Property types that are not acceptable - student lets, Large HMOs, Large MUFBs and Holiday Lets
+
+(For sector experience with regard to HMOs, please see HMO/MUFB criteria section)
+
+================================================================================
+4. CREDIT PROFILE REQUIREMENTS
+================================================================================
+
+TIER 1 - INDIVIDUAL CREDIT PROFILE
+--------------------------------------------------------------------------------
+
+RESIDENTIAL STATUS
+- Must have 3-year residential history and a permanent right to reside in the UK
+
+DEFAULTS (UNSECURED FACILITIES)
+- None in 5 years
+
+BANKRUPTCY/INDIVIDUAL VOLUNTARY ARRANGEMENT
+- None
+
+COUNTY COURT JUDGMENTS (CCJS)
+- None in 3 years. All CCJs regardless of amount and date must be satisfied
+
+REPOSSESSION
+- None
+
+DEBT MANAGEMENT PROGRAMME
+- None
+
+MISSED MORTGAGE/SECURED PAYMENTS
+- None in 3 years
+
+UNSECURED ARREARS (COMMS NOT INCLUDED)
+- No more than worst status 2 in the past 3 years
+
+CRIMINAL CONVICTIONS
+- If an applicant has declared a minor driving offence, the application can proceed
+- A conviction other than that classed as a dishonesty offence can be considered at the underwriter's discretion if the rehabilitation period has expired
+
+PAYMENT HOLIDAYS
+- We will consider these on a case by case basis, however for us to consider, it will be mandatory for the client to inform us upfront and that the customer authorises access to Open Banking
+
+TIER 1 - CORPORATE CREDIT PROFILE
+--------------------------------------------------------------------------------
+
+RESIDENTIAL STATUS
+- Must have 3-year residential history and a permanent right to reside in the UK
+
+DEFAULTS (UNSECURED FACILITIES)
+- None in 5 years
+
+COUNTY COURT JUDGMENTS (CCJS)
+- None in 3 years. All CCJs regardless of amount and date must be satisfied
+
+MISSED MORTGAGE/SECURED PAYMENTS
+- None in 3 years
+
+UNSECURED ARREARS (COMMS NOT INCLUDED)
+- No more than worst status 2 in the past 3 years
+
+REPOSSESSION
+- None
+
+DEBT MANAGEMENT PROGRAMME
+- None
+
+BANKRUPTCY
+- None
+
+ADMINISTRATIONS/LIQUIDATIONS/RECEIVERSHIP
+- None in 6 years
+
+PAYMENT HOLIDAYS
+- We will consider these on a case by case basis, however for us to consider, it will be mandatory for the client to inform us upfront and that the customer authorises access to Open Banking
+
+TIER 2 - INDIVIDUAL CREDIT PROFILE
+--------------------------------------------------------------------------------
+
+RESIDENTIAL STATUS
+- Must have 3-year residential history and a permanent right to reside in the UK
+
+DEFAULTS
+- None in the last 12 months, 2 in the last 24 months
+
+COUNTY COURT JUDGMENTS (CCJS)
+- Nil (1 year history)
+- One (2 year history up to a maximum value of £5,000 which must be satisfied prior to loan completion). All CCJs regardless of amount and date must be satisfied
+
+REPOSSESSION
+- None
+
+DEBT MANAGEMENT PROGRAMME
+- None
+
+MISSED MORTGAGE/SECURED PAYMENTS
+- None in the last 12 months, 1 in the last 36 months
+
+UNSECURED ARREARS
+- Not counted
+
+BANKRUPTCY/IVA
+- None
+
+CRIMINAL CONVICTIONS
+- If an applicant has declared a minor driving offence, the application can proceed
+- A conviction other than that classed as a dishonesty offence can be considered at the underwriter's discretion if the rehabilitation period has expired
+
+PAYMENT HOLIDAYS
+- We will consider these on a case by case basis, however for us to consider, it will be mandatory for the client to inform us upfront and that the customer authorises access to Open Banking
+
+TIER 2 - CORPORATE CREDIT PROFILE
+--------------------------------------------------------------------------------
+
+DEFAULTS (UNSECURED FACILITIES)
+- None in the last 12 months, 2 in the last 24 months
+
+COUNTY COURT JUDGMENTS (CCJS)
+- Nil (1 year history)
+- One (2 year history up to a maximum value of £5,000 which must be satisfied prior to loan completion). All CCJs regardless of amount and date must be satisfied
+
+MISSED MORTGAGE/SECURED PAYMENTS
+- None in the last 12 months, 1 in the last 36 months
+
+UNSECURED ARREARS
+- Not counted
+
+REPOSSESSION
+- None
+
+DEBT MANAGEMENT PROGRAMME
+- None
+
+BANKRUPTCY
+- None
+
+CRIMINAL CONVICTIONS
+- Not permitted unless relating to motoring offences. Other minor offences may be considered at the underwriter's discretion
+
+ADMINISTRATIONS/LIQUIDATIONS/RECEIVERSHIP
+- None in 6 years
+
+PAYMENT HOLIDAYS
+- We will consider these on a case by case basis, however for us to consider, it will be mandatory for the client to inform us upfront and that the customer authorises access to Open Banking
+
+================================================================================
+5. CORPORATE BORROWER REQUIREMENTS
+================================================================================
+
+COMPANY ORIGIN
+--------------------------------------------------------------------------------
+
+- Only UK Limited Companies and UK Limited Liability Partnerships (LLP) are permitted
+- SIC code must relate to property management, investment or development
+- New SPVs are accepted, however no trading businesses
+- Purchase of company share capital to acquire property is not accepted
+
+MAX NUMBER OF DIRECTORS
+--------------------------------------------------------------------------------
+
+- Maximum number of 4 directors/shareholders/members
+- LLP members must be designated
+
+PERSONAL GUARANTEES
+--------------------------------------------------------------------------------
+
+- Full personal guarantees are required from all directors and shareholders who own at least 25% of the equity in the company
+- Where there is a shareholder with less than 25% shareholding – or a director who can be defined as having a significant controlling role in the business – we will require personal guarantees and these officers to be added to the application
+
+MULTIPLE APPLICATIONS
+--------------------------------------------------------------------------------
+
+- Where multiple applications are made by the same corporate borrower each loan must be in the exact same company name
+- We reserve the right to require a debenture and floating charge at the underwriter's discretion based upon our total aggregated exposure
+- Where individual director(s) have interests and make applications the exposure to LendInvest must be carefully considered and will be an underwriters decision as to whether a debenture/floating charge is required
+
+GUARANTOR/DIRECTOR INCOME
+--------------------------------------------------------------------------------
+
+- Director/shareholder maximum age: When there is one applicant, maximum age at the end of term is 85. When there are multiple applicants, maximum age is 95 provided there is a second applicant providing a personal guarantee who is 85 years at the end of the term
+
+LEGAL ADVICE
+--------------------------------------------------------------------------------
+
+- Any applicants via a UK limited company or UK LLP will be assessed on the basis of the strength of the director(s) as if they were applying for lending facilities on a personal basis
+- A condition of any offer to these entities will be personal guarantors or third-party security providers seeking independent legal advice
+- In certain cases, we may accept a waiver letter in respect of the independent legal advice from a borrower who is also providing a personal guarantee
+
+TRANSFERS OF OWNERSHIP
+--------------------------------------------------------------------------------
+
+- Any transfer of ownership or equity will be treated as a purchase (NOT remortgage) of the new freehold/leasehold title. This includes cases involving title splits
+- In all cases we will append an Offer Condition to seek confirmation that all borrowing parties have obtained their own taxation advice from a qualified accountant
+
+INDIVIDUAL TO CORPORATE
+--------------------------------------------------------------------------------
+
+- The existing equity is acceptable as the deposit in the form of a Director's Loan Account
+- A transfer at undervalue (including nil value) may be considered, subject to underwriting, only where the current ownership of the property is in exactly the same name as the legal ownership of the company purchasing the asset
+- For incorporation application(s), where the property is held in personal name(s) and mirrors (exactly) with the same ownership of the SPV, we accept the issuing of shares
+- Separate legal representation will be required. Applicants will be liable to pay their own costs
+- Does not qualify for any 'free' legals incentive that may be offered from time to time
+
+CORPORATE TO CORPORATE (INCLUDING A LLP/SPV)
+--------------------------------------------------------------------------------
+
+- The existing equity is acceptable as the deposit in the form of a Director's Loan Account
+- Any transfer of ownership from company to company (including LLP or SPV) must be a purchase at full market value
+- Issuing new company shares to purchase a property is NOT accepted
+- Separate legal representation will be required. Applicants will be liable to pay their own costs
+- Does not qualify for any 'free' legals incentive that may be offered from time to time
+
+TRUSTS
+--------------------------------------------------------------------------------
+
+- LendInvest will not lend to trusts or overseas-registered companies
+
+TITLE SPLITS
+--------------------------------------------------------------------------------
+
+1. Separate legal representation
+2. Underwriter agreement necessary
+3. Normally treated as a purchase
+4. Property must be suitable legally and physically
+5. Charges on part security are not acceptable
+6. Transfers are at full market value
+
+================================================================================
+6. PORTFOLIO LANDLORD REQUIREMENTS
+================================================================================
+
+DEFINITION
+--------------------------------------------------------------------------------
+
+- We define portfolio landlords as borrowers who have 4 or more mortgaged buy-to-let properties
+- There is no limit on the number of properties held or mortgaged by a portfolio landlord with other lenders
+- Properties owned abroad, and their details, will not be included within the portfolio calculations
+
+REQUIRED INFORMATION
+--------------------------------------------------------------------------------
+
+When the application is made we must see:
+
+- Full details of the existing portfolio, including; address, purchase date, mortgage lender, balance outstanding, monthly mortgage payment, rental income, current value, and the current assured shorthold tenancies (ASTs) in place including term and start date
+- An outline of the borrower's experience in the buy-to-let or HMO market. We will reconcile and review payment history for the portfolio against credit data where available
+
+IDENTITY VERIFICATION
+--------------------------------------------------------------------------------
+
+- If you are submitting a portfolio landlord case, just upload their property portfolio spreadsheet to our online portal and we will do the rest
+- If you are making multiple applications for the same client, applications may be duplicated within the Broker Portal
+- If you have another case for the same client within 6 months, we will simplify the underwriting process, with no need for a new portfolio assessment
+
+PORTFOLIO ASSESSMENT
+--------------------------------------------------------------------------------
+
+We will assess the overall portfolio at a notional rate of 5.5% and will apply the following approach:
+
+| ICR | Approach |
+|---|---|
+| Above 125% | The case can proceed without the need for any additional affordability checks |
+| Between 125% and 100% | If the total portfolio LTV < 65%, the case can proceed without the need for any additional affordability checks.<br><br>If the total portfolio LTV > 65%, additional checks for affordability will be carried out.<br><br>Further assessment should include at least one of the following and should be detailed clearly within the lending rationale:<br>• Review Open Banking or an Assets and Liabilities Statement or Company House accounts or at least the last three months bank statements<br>• A client interview |
+
+================================================================================
+7. PROPERTY TYPES
+================================================================================
+
+ACCEPTABLE PROPERTY TYPES
+--------------------------------------------------------------------------------
+
+- Houses
+- Flats
+- Maisonettes
+- Apartments
+- HMOs
+- New-build houses and flats
+- MUFB
+- Flats in blocks up to 5 storeys
+- High-rise flats up to 10 storeys (by referral to your BDM only) - Subject to market conditions and they must have a lift if over 4 storeys (accepted in Greater London only)
+- Ex-local authority flats considered - If in a privately owned block
+- HMO flats (up to 6 beds)
+- New-Build Small HMOs let to students (up to 10 rooms) - Student Let HMOs in Scotland (only acceptable near main universities which would include: University of Stirling, University of Dundee, Heriot-Watt University, University of Strathclyde, University of Aberdeen, University of St Andrews, University of Glasgow and University of Edinburgh)
+- Studio flats (within Greater London but must have min 30sqm)
+- Flats with balcony or deck access - Subject to underwriting and valuers comments, the LTV may be restricted to 70% if the case proceeds
+- Properties adjacent to or opposite a public house/social club/places of worship - Subject to underwriting and valuers comments, the LTV may be restricted to 70% if the case proceeds
+- Basement flats (including new builds) (only acceptable in London and Edinburgh) - Subject to underwriting and valuers comments, the LTV may be restricted to 70% if the case proceeds
+- Flats in blocks up to 5 storeys (must have a lift if 4 storeys or higher)
+- MUFB combined with HMO - Subject to underwriting and valuers comments, the LTV may be restricted to 70% if the case proceeds
+- Holiday Lets - Subject to criteria
+
+UNACCEPTABLE PROPERTY TYPES
+--------------------------------------------------------------------------------
+
+- Properties above, or adjacent to fast food outlets or petrol stations
+- Properties in isolated rural locations
+- Properties where the borrower is effectively both the freeholder and leaseholder unless we have a charge over both
+- Shared ownership
+- Studio flats (outside Greater London)
+- Freehold flats and freehold maisonettes
+- Tyneside/crisscross leasehold
+- Flats over 18 metres with Cladding unless newly built where work commenced after 1/1/19
+- Properties located next door/adjacent to the applicant's residential property unless we have a portfolio landlord
+- Ex-MOD flats outside Greater London
+- Properties that contain a flying freehold greater than 15% of the total property area
+- Properties in over 1 acre of land
+- Single dwelling with a substantially flat roof where the valuer does not confirm as suitable security
+- Properties in a designated fracking area
+- MUFB leasehold flats
+- Back to Back/Sub Sales
+- Property with inherent structural defects e.g. Properties built using high alumina cement, mundic block or other defective materials
+- Any form of non-standard construction (we can consider the following Concrete Construction, Wimpey no Fines, Laing Easiform and Timber framed houses – subject to being built after 1970 with brick, reconstituted stone or rendered block work)
+- Properties with agricultural usage or other planning restrictions
+- Grade 1 listed properties
+- Pre-Cast Reinforced Concrete (PRC)
+- Mobile homes and houseboats
+- Commercial property
+
+================================================================================
+8. PROPERTY CRITERIA
+================================================================================
+
+TENURE
+--------------------------------------------------------------------------------
+
+- Freehold houses only. Leasehold houses can be considered on a case-by-case basis
+- Leasehold flats and maisonettes must have at least 65 years remaining on the lease at the end of the term
+- Commonhold is not accepted
+- Freehold flats/maisonettes (except former feudal flats) are acceptable in Scotland
+
+TENANCY
+--------------------------------------------------------------------------------
+
+- Single, assured shorthold tenancy (AST) up to 1 year or a corporate let for a longer period at the underwriter's discretion
+- All tenancies must be to occupiers who will be in residence for the full period of the AST or corporate let
+
+GROUND RENT
+--------------------------------------------------------------------------------
+
+- If, during the term of the mortgage, the ground rent charge is (or will) exceed £1,000 p.a. in London or £250 p.a. outside of London, we will be unable to proceed with the application
+
+TENANT TYPES
+--------------------------------------------------------------------------------
+
+- We will not lend where a property is being used for owner occupation as this would be a regulated transaction
+- The property must be tenanted by a third party (family members are not permitted)
+- Where the borrower is a corporate entity, the property must not be tenanted by any Director, Shareholder, Guarantor, Employee nor any person related to them
+
+VALUATION
+--------------------------------------------------------------------------------
+
+- Any property we are considering should be lettable in its current condition
+- Properties that are likely to have poor demand from tenants due to their current condition, location or other factors, including poor maintenance or management of common areas, will not normally be acceptable
+- Properties that are likely to have average demand from tenants due to their current condition, location or other factors, including poor maintenance or management of common areas, we may restrict LTV to 70%
+- We reserve the right to accept or decline any individual property
+- The property must comply with the current Energy Performance Certificate Regulation, and have a minimum rating of E, unless there is an applicable exemption
+
+MINIMUM VALUATION
+--------------------------------------------------------------------------------
+
+- £150,000 in London (excl. rest of UK)
+- £75,000 UK (excl. London)
+
+CONCENTRATION LIMIT
+--------------------------------------------------------------------------------
+
+BLOCK CONCENTRATION LEVEL
+- LendInvest cannot finance more than 75% or 5 units in a single block of flats
+- These limits relate to LendInvest's exposure and not to any individual borrower
+
+================================================================================
+9. HMO/MUFB CRITERIA
+================================================================================
+
+HMO DEFINITION
+--------------------------------------------------------------------------------
+
+- You must have a licence if you're renting out a large HMO in England or Wales
+- Your property is defined as a large HMO if all of the following apply:
+  - It is rented to 5 or more people who form more than 1 household
+  - Some or all tenants share toilet, bathroom or kitchen facilities
+  - At least 1 tenant pays rent (or their employer pays it for them)
+
+HMO LICENCE
+--------------------------------------------------------------------------------
+
+- In England & Wales a HMO is defined as a property rented out by at least 3 people who are not from 1 'household' (e.g. a family) but share facilities such as the bathroom and kitchen
+
+SECTOR EXPERIENCE
+--------------------------------------------------------------------------------
+
+- First time landlord please see Individual borrower requirements section
+- Experienced landlords who have 1 or more BTLs (held for at least 12 months)
+- For Small HMOs, Student Lets will be considered
+- For Large HMOs, at least one party to the loan should have a minimum of 12 months experience managing a similar size HMO property including at least 2 years BTL experience
+- Small MUFBs are acceptable for first time landlords
+- Large MUFB cases, a minimum of 12 months experience managing a similar property or the equivalent number of other tenancies in the background for over a year. If the Large MUFB experience is less than 12 months, a minimum of 2 other BTL properties must be owned for a minimum of 12 months
+
+VALUATION
+--------------------------------------------------------------------------------
+
+- For HMOs of up to 6 bedrooms, the valuation is based upon the vacant possession comparable value only and not the investment yield. Retypes are not accepted
+- Large HMOs are typically valued upon rental yield
+- Small HMOs in an Article 4 area can be valued on a rental yield basis where there have been changes made to the layout to accommodate multiple tenants
+- On submission of the application you must confirm this or we will value on a standard basis
+
+RETYPES OF VALUATION REPORTS
+--------------------------------------------------------------------------------
+
+- Re-types can be considered by exception provided we are satisfied with the explanation as to why the previous deal did not complete
+
+MINIMUM VALUATION
+--------------------------------------------------------------------------------
+
+- £250,000 in London (excl. rest of the UK)
+- £100,000 for rest of UK (excl. London)
+
+LICENSING (EXISTING HMOS)
+--------------------------------------------------------------------------------
+
+- Properties being refinanced that are operating as a HMO must have all appropriate licences in place at the time of application, if applicable
+
+LICENSING (NEW HMOS)
+--------------------------------------------------------------------------------
+
+- The property must meet all local authority licensing requirements prior to funds release
+- The borrower must obtain a HMO license, when required, to operate within 90 days of completion
+
+PROPERTY
+--------------------------------------------------------------------------------
+
+- In an area where a clear demand exists
+- Maximum number of letting rooms in any one HMO property cannot exceed 15
+- Max units for MUFB is 10
+- Valuation fees by arrangement
+
+================================================================================
+10. HOLIDAY LET/AIRBNB CRITERIA
+================================================================================
+
+- ICR based on single AST rental income
+- Valued as a single dwelling house
+- There can be no title restrictions
+- Min income of £30k
+- Must meet our acceptable property type criteria
+- Customer must own 1 or more BTL or Holiday Let Property (with one having been held for more than 12 months)
+- Must meet Tier 1 criteria
+- No HMOs/MUFBs can be considered
+- Max 5 bedroom house
+- Standard ICR rates
+- Max LTV 75%
+- Max Loan amount £750k
+
+================================================================================
+11. EXPAT CRITERIA
+================================================================================
+
+EXPAT BORROWERS
+--------------------------------------------------------------------------------
+
+- UK national living abroad
+- Must have a minimum income across the application of £50,000
+- Retired applicants accepted
+- Must provide proof of income (in English), employment and correspondence address
+- Identification will require certification via Notary Public
+
+ALL BORROWERS
+--------------------------------------------------------------------------------
+
+- Must have a UK credit footprint from a UK address within the last 3 years. They must also hold current revolving credit accounts
+- None of the borrowers can be a first time landlord
+
+PROPERTY
+--------------------------------------------------------------------------------
+
+- Standard, HMO and MUFB properties are accepted
+- Holiday Lets are not accepted
+
+GENERAL
+--------------------------------------------------------------------------------
+
+- Max LTV 75%
+- Special Purpose Vehicles (SPVs), limited companies and limited liability partnerships are accepted. Individuals are not accepted
+- Receipt of rental income and Contractual Monthly Subscriptions (CMS) payments must come via a UK bank account in all cases
+- Standard interest coverage ratios (ICR)
+- Other standard product criteria must be met
+- Managing agent details are required if available, otherwise a plan for remote management will be needed
+
+RESTRICTED COUNTRIES
+--------------------------------------------------------------------------------
+
+Expat Buy-to-Let applications are not acceptable from borrowers residing in a restricted list of countries, these include, but are not limited to:
+
+1. Afghanistan
+2. Angola
+3. Belarus
+4. Benin
+5. Bosnia and Herzegovina
+6. Burundi
+7. Cambodia
+8. Cameroon
+9. Cape Verde
+10. Central African Republic
+11. Chad
+12. Congo
+13. Democratic Republic of the Congo
+14. Equatorial Guinea
+15. Eritrea
+16. Ethiopia
+17. Guinea Bissau
+18. Haiti
+19. Iran
+20. Iraq
+21. Kenya
+22. Korea, North
+23. Laos
+24. Lebanon
+25. Liberia
+26. Libya
+27. Madagascar
+28. Mali
+29. Mozambique
+30. Myanmar
+31. Nicaragua
+32. Russia
+33. Sierra Leone
+34. Somalia
+35. South Sudan
+36. Sri Lanka
+37. Sudan
+38. Syria
+39. Tajikistan
+40. Tunisia
+41. Turkmenistan
+42. Ukraine
+43. Vanuatu
+44. Venezuela
+45. Vietnam
+46. Yemen
+47. Zambia
+48. Zimbabwe
+
+================================================================================
+12. APPLICATION PROCESS
+================================================================================
+
+All applications must be made through our online portal.
+
+1. START YOUR APPLICATION
+--------------------------------------------------------------------------------
+
+- To make an application, log in to our online portal and fill in the basic case details to generate a decision in principle (DIP)
+
+2. DECISION IN PRINCIPLE ISSUED
+--------------------------------------------------------------------------------
+
+- We will issue you with a DIP immediately, based on the information and credit detail you've entered
+- We do not undertake a full credit search at this stage
+
+3. APPLICATION SUBMITTED
+--------------------------------------------------------------------------------
+
+- After receiving your DIP, continue to complete and submit a full mortgage application
+
+4. FEES PAID
+--------------------------------------------------------------------------------
+
+- Once we've received the submitted application, a task will be raised on the online portal for you to pay the non-refundable application fee and where appropriate the valuation fee
+- For properties that are outside of our valuation fee scale, like larger HMO properties, we will obtain relevant valuation quotes
+
+You also need to upload the following documents to the online portal to accompany the signed application:
+
+- A full portfolio schedule (for portfolio landlords)
+- We will ask the borrower to verify their identity via the Jumio platform. If this check fails, you will need to follow the instructions from our Identity Documents list
+- Evidence of the deposit, if the case is a purchase transaction
+
+We cannot progress your case until you pay the applicable application/valuation fees and upload the above documents.
+
+5. INITIAL DUE DILIGENCE AND VALUATION INSTRUCTED
+--------------------------------------------------------------------------------
+
+- Once you've paid the appropriate fees, we will carry out our initial due diligence, including identification checks and credit searches on all applicants
+- At the same time, the applicant(s) will receive an email from our digital identity verification partner, Jumio, with instructions on how to verify their identity. They should complete this as soon as possible
+- We will also instruct the valuation. We do this prior to fully underwriting the application because the valuation report is a key part of our risk assessment
+- Where multiple applications have been made for the same borrower, we will undertake a more in-depth initial assessment prior to instructing the valuation
+
+6. VALUATION RECEIVED
+--------------------------------------------------------------------------------
+
+- Your case manager will then complete a file assessment to ensure that we've received all the documents we've requested from you
+- If the property or rental valuation is lower than expected, we will ask you to confirm that the borrower is happy to proceed with the lower maximum loan amount
+
+7. UNDERWRITING VALUATION
+--------------------------------------------------------------------------------
+
+- Once you've uploaded all the requested information and completed all outstanding tasks on the online portal, we will pass the case to one of our underwriters for review
+- The underwriter may ask for further information or evidence before we can approve your case
+
+8. OFFER SIGNED AND LEGALS INSTRUCTED
+--------------------------------------------------------------------------------
+
+- If the borrower has opted for dual legal representation, our solicitor will act for both us and the borrower
+- If the borrower has opted for separate representation, our solicitor will act for us and will liaise with the solicitor acting for the borrower
+- On separate representation case the firm of solicitors acting for the client must be registered with the Law Society and has a minimum of 3 SRA approved managers. If a solicitor has 2 SRA approved managers but are accredited with the Law Society's Conveyancing Quality Scheme (CQS) this is also acceptable
+- If the security in Scotland is in Scotland, LendInvest may consider dual or separate representation. However, the solicitors office must have a minimum of 2 partners
+
+================================================================================
+13. PACKAGING REQUIREMENTS
+================================================================================
+
+For packaging to succeed, we need all of the relevant information so our underwriters can properly assess the application.
+
+In certain areas, such as viewing Proof of Income and Proof of Deposit, we can use Open Banking to speed up the underwriting process if your client gives us secure access to the relevant bank accounts.
+
+This is a full list of the areas we need covered and the required information so we can package your application quickly and accurately.
+
+FOR ALL APPLICATIONS
+--------------------------------------------------------------------------------
+
+Whether it is a remortgage or purchase application, all of this information will be necessary:
+
+PORTFOLIO
+- The following details for all of an applicant's BTL properties, which include any other LTD companies they have:
+  - The individual mortgage balances
+  - The monthly payments
+  - The value of the property
+  - The monthly rental income
+  - The current lender
+  - What type of property it is (HMO, flat etc); and
+  - The number of bedrooms
+
+PROOF OF INCOME
+- The latest tax calculation (SA302) along with the tax year overview page for self-employed applicants and corporate applications
+- Sometimes we can assess proof of income through Open Banking, if we are provided access to the relevant bank account
+
+COMPANY STRUCTURE
+- All shareholders (25% or more) and any director that plays an active part in running the company would need to be on the application and the SIC code that relates, or is due to be changed to property
+- If a holding company is involved this should be referred to a BDM before submission
+
+FOR PURCHASE APPLICATIONS
+--------------------------------------------------------------------------------
+
+PROOF OF DEPOSIT
+- Deposits from savings: We will need to see the previous 3 months of bank statements. We can assess proof of deposit from savings through Open Banking, if we are provided access to the relevant bank account
+- Deposits from gifts: bank statements demonstrating a build-up of funds from the person gifting the funds, a letter from the person gifting the money confirming relationship, that they won't have an interest in the property and that they're aware we'll keep their documents on file. We will also need a certified ID from the person gifting
+
+FOR REMORTGAGE APPLICATIONS
+--------------------------------------------------------------------------------
+
+TR1 AND SCHEDULE OF WORKS
+- If the property has been purchased within the last 6 months and is being remortgaged at a value above the purchase price
+
+Further documents and evidence may be requested subject to underwriting.
+
+================================================================================
+14. CONTACT INFORMATION
+================================================================================
+
+BUSINESS DEVELOPMENT MANAGERS
+--------------------------------------------------------------------------------
+
+| Name | Role | Email | Phone |
+|---|---|---|---|
+| Nigel Robbins | National Account Manager | nigel.robbins@lendinvest.com | +44 (0)7771 087 904 |
+| Waqar Khan | North West BDM | waqar.khan@lendinvest.com | +44 (0)7503 632 686 |
+| Abby Challen | London and Home Counties BDM | abigail.challen@lendinvest.com | +44 (0)7826 199 499 |
+| Rod McPherson | Scotland BDM | rod.mcpherson@lendinvest.com | +44 (0)7741 886 457 |
+| Paige Archer | East London BDM | paige.archer@lendinvest.com | +44 (0)7771 758 837 |
+| James Hamblin | South BDM | james.hamblin@lendinvest.com | +44 (0)7741 587 232 |
+| Shane Wallace | East of England BDM | shane.wallace@lendinvest.com | +44 (0)7741 656 555 |
+| Ed Appleby | North East and Yorkshire BDM | ed.appleby@lendinvest.com | +44 (0)7713 110 624 |
+| Ryan Best | South West and South Wales BDM | ryan.best@lendinvest.com | +44 (0)7780 862 596 |
+
+SALES DESK
+--------------------------------------------------------------------------------
+
+- You can contact our central Sales Desk between 9am-5.30pm, Monday to Friday, by calling 020 3836 1837 or emailing them at btlsales@lendinvest.com
+
+ENQUIRIES
+--------------------------------------------------------------------------------
+
+Buy-to-Let
+- Email: btlsales@lendinvest.com
+- Phone: 020 3836 1837
+
+UNDERWRITING/CASE MANAGEMENT
+--------------------------------------------------------------------------------
+
+Buy-to-Let pre offer
+- Email: btlops@lendinvest.com
+- Phone: +44 (0)20 3905 9464
+
+Buy-to-Let post offer
+- Email: btlcompletion@lendinvest.com
+- Phone: +44 (0)20 3846 6874
+
+LOAN SERVICING
+--------------------------------------------------------------------------------
+
+- Email: servicing@loans.lendinvest.com
+- Phone: +44 (0)20 3846 6880
+
+Source: https://docs.lendinvest.com/web/public-pdfs/btl-resources/btl-lending-criteria.pdf
+
+================================================================================

@@ -1,0 +1,1270 @@
+LENDER NAME: Accord Mortgages
+PRODUCT: Buy to Let
+
+# Accord Mortgages - Buy to Let Lending Criteria
+**Source:** https://www.accordmortgages.com/btl/criteria
+**Last Updated:** 2025
+
+**FOR INTERMEDIARY USE ONLY**
+
+This website is for use by authorised intermediaries only and should not be relied upon by anyone else.
+
+---
+
+## Applicant
+
+# Income and top slicing
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/income-and-top-slicing](https://www.accordmortgages.com/btl/criteria/income-and-top-slicing)
+
+### Page contents
+
+[Top slicing](#top-slicing)
+[Salaried income](#salaried-income)
+[Umbrella company income](#umbrella-company-income)
+[Self employed/partnership/limited liability partnership income](#self-employedpartnershiplimited-liability-partnership-income)
+[Salaried directors income](#salaried-directors-income)
+[Day rate contractors income](#day-rate-contractors-income)
+[Fixed term contracts income](#fixed-term-contracts-income)
+[Zero hours contracts income](#zero-hours-contracts-income)
+[Retirement income](#retirement-income)
+[Foreign income](#foreign-income)
+[Maternity income](#maternity-income)
+[Maintenance payments income](#maintenance-payments-income)
+[Investment income](#investment-income)
+[Benefits](#benefits)
+[Foster care income](#foster-care-income)
+[Special guardianship](#special-guardianship)
+[Locum income](#locum-income)
+[Cryptocurrency income](#cryptocurrency-income)
+[Allowances](#allowances)
+[Deductions from income](#deductions-from-income)
+[Sports professionals](#sports-professionals)
+
+## Top slicing
+
+We may be able to use surplus personal income (top slicing) to cover a rental shortfall when we assess affordability for a BTL loan.
+
+**In order for your application to qualify for top slicing the following criteria should be met:**
+  * Where surplus earned income is being used to cover any rental shortfall (Top Slicing) customers must reside at the same address.
+  * For single and joint applicants, the minimum income (not from rental properties) is £50,000.
+  * The interest coverage ratio based on rental income only must be greater than or equal to 100% and less than the minimum required ICR threshold for the application as set out in this policy
+  * Maximum LTV of 75%
+
+**Top slicing is not allowed in these cases:**
+  * Lending to first time landlords (For an application to be classed as a First Time Landlord, all applicants, at the time of application, do not own a property that they have let out for more than 12 months)
+  * Lending where the security is a new build property
+  * Let To Buy applications
+  * Capital raising for unsecured debt consolidation or to cover other personal expenditure (e.g. Car Purchase, Holiday, School fees, Gift to relative).
+
+To see a breakdown of the types of income we accept and the evidence required, please see our [income and top slicing criteria page](https://www.accordmortgages.com/btl/criteria/income-and-top-slicing).
+
+## Salaried income
+
+**Main income**
+Employment must be permanent
+There is no minimum time in current employment
+100% of gross basic salary accepted.
+
+**Second Job Income**
+100% can be accepted
+Employment must be permanent and sustainable.
+
+**Probationary period**
+All probationary periods can be disregarded.
+
+**Bonus and overtime**
+We accept 60% of sustainable overtime and bonus as long as the total amount doesn't exceed the basic income.
+
+**Commission**
+We accept 60% of sustainable commission, if the amount does not exceed basic salary.
+
+**Confirmed pay increase**
+Pay increases are acceptable and must be confirmed by the employer. Increases must be within a reasonable time frame and will be reviewed by your underwriter.
+
+**Future employment**
+Income can be used as part of the affordability assessment as long as the employment is to start within the next 3 months and this can be evidenced of a signed contract. The future employment must meet all other standard employment criteria.
+
+**Evidence Required**
+  * For 75% LTV and below, we require the latest payslip plus corresponding bank statement.
+  * For above 75%, we'll need the latest 3 payslips, plus a corresponding bank statement showing the salary credit for just the latest payslip.
+
+## Umbrella company income
+
+Applications may be considered where a two-year track record of this type of income can be demonstrated.
+
+**Evidence Required**
+  * A letter from the umbrella company confirming the total amount earned during the last two years and the potential income in the next year.
+
+## Self employed/partnership/limited liability partnership income
+
+For affordability purposes we will use the average of the last two years net profits or the latest year, whichever is lower.
+
+**Evidence Required**
+  * A two year track record of income is required to accept self employed income.
+
+## Salaried directors income
+
+Salaried directors are treated for income purposes as employed applicants.
+
+**Evidence Required**
+  * **Salaried directors with less than 25% shareholding**
+    Treated for income purposes as employed applicants and the same evidence of income is required as employed applicants.
+  * **Salaried directors with more than 25% shareholding**
+    Latest full month personal bank statement. We'll also write to your client's accountant for confirmation of income. If the accountant is not on our list of recognised accountants or your client doesn't have an accountant, we'll require the latest 2 years SA302s.
+  * **Limited company directors with more than 25% Shareholding or less than 25% where income is derived from dividends**
+    Latest full month personal bank statement and latest full month business bank statement. We'll also write to your client's accountant for confirmation of income. If the accountant is not on our list of recognised accountants or your client doesn't have an accountant, we'll require the latest 2 years SA302s.
+
+## Day rate contractors income
+
+Day rate contractors are acceptable for lending purposes if the following criteria is met:
+  * Contracts must relate solely to the applicant
+  * Up to 2 contracts can be considered subject to sustainability
+  * Minimum 6 months track record of contract work
+  * A maximum of 46 weeks income used from the current contract
+  * Minimum income £300 per day or £50,000 per year
+
+Please note umbrella company deductions will need to be taken into account when calculating affordability.
+
+**Evidence Required**
+  * Current and previous contract (s) covering at least 6 months.
+  * If no previous contract is available and current contract started less than 12 months ago, previous industry experience and pay should be evidenced via P60's/ employment contract.
+  * If less than 2 months remaining on current contract, evidence of contract extension or new contract is required.
+
+## Fixed term contracts income
+
+Can be accepted provided that at least 12 months of a contract are remaining, or where there's a track record of income from contract work.
+
+**Evidence Required**
+  * A copy of the current contract
+  * A copy of the most recent bank statement
+  * To obtain a 12 month track record of contracts or p60s can be used (where <12 months remains on current contract)
+  * If <2 months remaining on current contract then evidence of contract renewal/new contract is required
+  * 75% LTV - latest payslip
+  * Above 75% LTV - latest 3 payslips
+  * Umbrella: Latest 3 months payslips/invoices and latest 3 months personal bank statements.
+
+## Zero hours contracts income
+
+Applicants who are on a zero hour contract will be accepted provided they have a minimum of 12 months evidence of sustainable earning on a zero hour contract basis, and fall into one of the following occupations:
+  * NHS Bank nurses and locums
+  * Non-NHS Bank nurses
+  * Care Home Workers
+  * Supermarket Workers
+  * HGV Drivers
+  * Retained/On-Call Firefighters
+  * Armed Forces Reserves
+  * Supply Teachers
+
+**Evidence Required**
+  * Your clients last 3 payslips plus the bank statement showing the salary credit from your most recent payslip
+  * Copy of their current contract (excluding NHS Bank work)
+  * Copy of their latest P60.
+
+## Retirement income
+
+If the applicant is within 15 years of retirement, details of post retirement income is needed. We will use the private pension/annuity income or current salary, whichever is the lower, to calculate the maximum lending.
+
+**Evidence Required**
+  * Please note we may require a retirement strategy to detail how the applicant plans to meet their mortgage commitments, if the retirement income is not sufficient to meet mortgage repayments.
+
+## Foreign income
+
+Accord Mortgages does not offer any loans which would be deemed as foreign currency.
+
+This means that no foreign income or assets can be used for affordability or repayment strategy purposes.
+
+We define foreign income as:
+  * Any income received by the customer which does not originate in pounds sterling
+
+We define foreign assets as:
+  * Properties outside of the UK
+  * Assets e.g. property, investments, pensions; which would yield monetary values which are not based in pounds sterling
+
+## Maternity income
+
+We will need confirmation from the applicant of their intentions to return to work including any future increase in expenditure (child care costs).
+
+**Evidence Required**
+  * We will also require evidence of pre-maternity income.
+
+## Maintenance payments income
+
+Where a customer is receiving maintenance payments, this income can be used within affordability assessment however the following must apply;
+  * The customer has other income to support the lending.
+  * Maximum 50% of the income to be used in the calculation.
+  * The maintenance must have a minimum of 2 years remaining.
+
+**Evidence Required**
+
+Informal agreement
+  * The latest 3 months bank statements to show evidence of the maintenance income.
+
+Formal agreement (optional alternative)
+  * CSA agreement, court order, solicitors letter or consent order
+  * The latest bank statement to show evidence of the income.
+
+## Investment income
+
+The nature of the investment will be reviewed by an underwriter and may be acceptable where there is a 2 year track record, however the income cannot be derived from rental properties.
+
+## Benefits
+
+**We can accept 100% of the following benefits:**
+  * Widows pension
+  * Retirement pension
+  * War widows pension
+  * War disablement pension
+  * Child Benefit
+  * Foster carers
+  * Special Guardianship
+
+**We can also accept 60% of the following benefits:**
+  * Disability living allowance (DLA)
+  * Personal independence payment (PIP)
+  * NI Contributions based Employment Support Allowance (ESA)
+  * Carer's allowance (CA)
+  * Industrial injuries disablement benefit (IIDB)
+  * Scottish Child Disability Payment (CDP)
+
+**Evidence Required**
+  * The award letter will be required to evidence this income along with bank statements.
+  * Bank statements will be required to evidence the last 3 benefit credits. Where Employment and support allowance is utilised, we will require a copy of the award letter and the latest bank statement evidencing the benefit credit.
+
+## Foster care income
+
+100% of foster care income can be used within the affordability calculation.
+
+**Evidence Required**
+  * Bank statements to evidence that the allowance is being paid for each child
+  * Letter to confirm children in care, how long in care, how long care is intended to be provided for and how much the customer will receive for each child and a breakdown of the allowance. The letter must be on letter headed paper from the fostering agency/local authority
+  * Respite Foster Carers will usually provide care on an ad-hoc basis. For this type of income, we would require a letter from the foster care agency or local authority confirming what income they have received so far in the that tax year and also confirmation of income that has been received in the last 2 years.
+  * Foster carers are classed as self-employed and have to complete a tax return to the Inland Revenue (See self-employed income section)
+
+## Special guardianship
+
+100% of special guardianship income can be used within the affordability calculation.
+
+**Evidence Required**
+  * If using basic allowance, this can be evidenced through a bank statement confirming the income along with child benefit credit.
+  * If receiving any further payments, please provide a letter from the local authority or agency confirming the Guardianship, weekly payments and any further income the guardian is entitled to, we also require an end date for this income.
+
+## Locum income
+
+60% of sustainable variable income from self employed locums (excluding bank nursing) is acceptable where they have a minimum of 6 months history as a locum.
+
+**Evidence Required**
+  * 6 months invoices or payslips and latest 3 months personal bank statements.
+
+## Cryptocurrency income
+
+We cannot accept income derived from cryptocurrency as a source of income.
+
+## Allowances
+
+100% of the following allowances accepted:
+  * Car
+  * Shift
+  * Rent
+  * Standby
+  * Call out
+  * Weighting/large Town
+  * Housing allowance
+  * Payments made in lieu of benefits
+  * Band enhancements
+
+## Deductions from income
+
+The following outgoings must be declared:
+  * Monthly repayment cost of any HP agreements or loans, (including student loans)
+  * Credit card balances
+  * Monthly costs of childcare, nursery or school fees
+  * Monthly cost of IVA
+  * Monthly cost of other significant outgoings. These are outgoings that the applicant/s could or would not stop paying if they needed to reduce expenditure
+  * Monthly cost of mortgage payments that do not meet self-financing rules (see existing mortgages)
+  * Monthly cost of maintenance payments
+  * The monthly costs of all debts which will remain in place on completion of the mortgage are included as a deduction within affordability
+  * Any credit cards to remain in place on completion of the mortgage are included as a deduction with 3% of the total credit balance being taken
+  * Monthly costs of any mortgage payments that do not meet the self-financing rules or are not going to be let out
+  * Overdraft - 3% deduction of the highest overdrawn balance
+  * Monthly costs of any property charges - ground rent/service charge/estate rent charge(s)
+  * Monthly costs of any other significant outgoings including running costs of second properties.
+
+You need to tell us if the applicants are aware their income will reduce at any time in the future. Some examples may include:
+  * Loss or reduction of overtime or bonus
+  * Notice of redundancy
+  * Planned reduction in working hours
+  * End of contract working
+
+Any financial dependants that reside within the same household will also be included within the affordability assessment.
+
+## Sports professionals
+
+100% of income can be used subject to income being sustainable.
+
+All cases will require underwriter assessment.
+
+**Evidence Required**
+  * Details of contractual income for the last 3 years
+  * Where income is based on competition wins, sponsorship, evidence of the last 3 years earnings should be obtained through contracts, self-assessment documents, and or accounts.
+  * Details of pension provisions
+  * Details of injury insurance.
+
+---
+
+# Deposit
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/deposit](https://www.accordmortgages.com/btl/criteria/deposit)
+
+### Page contents
+
+[Acceptable deposit sources](#acceptable-deposit-sources)
+[Unacceptable deposit sources](#unacceptable-deposit-sources)
+
+## Acceptable deposit sources
+
+Acceptable Deposits:
+  * Consumer Buy To Let (CBTL)
+  * Savings
+  * Release of equity
+  * Deposit incentive scheme for non-new build properties (providing the amount is deducted from the purchase price). Where deposit funds are held in an applicant's savings/bank account - evidence of this must be obtained.
+  * Gifted deposit from a family member: cash gifts towards the purchase of a property can be accepted if the individual providing the gift is a family member. By family, we mean a relation by blood or law or if you are in a relationship and co-habiting.
+
+## Unacceptable deposit sources
+
+Non-Acceptable Deposits:
+  * Builders/vendors deposits
+  * Gift from non family member
+  * Crypocurrency
+  * Gift of equity from family (concessionary purchase).
+
+---
+
+# Age
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/age](https://www.accordmortgages.com/btl/criteria/age)
+
+### Page contents
+
+[Age](#age)
+
+## Age
+
+* Minimum age 18
+* Maximum age of 75 at the time of application
+* Maximum age cannot exceed the applicants 86th birthday at the end of the mortgage term
+
+---
+
+# Adverse Credit
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/adverse-credit](https://www.accordmortgages.com/btl/criteria/adverse-credit)
+
+### Page contents
+
+[Bankruptcy and sequestration](#bankruptcy-and-sequestration)
+[CCJs, defaults and missed payments](#ccjs-defaults-and-missed-payments)
+[Individual voluntary arrangements (IVA), debt management plans (DMP) and trust deeds](#individual-voluntary-arrangements-iva-debt-management-plans-dmp-and-trust-deeds)
+[Repossessions](#repossessions)
+[Payday loans](#payday-loans)
+
+## Bankruptcy and sequestration
+
+* We do not accept undischarged bankruptcies.
+* The bankruptcy/sequestration must have been discharged.
+* Discharged for a minimum of 6 years.
+* The credit search must confirm that the order is discharged or;
+  * A copy of the discharge certificate is required.
+
+## CCJs, defaults and missed payments
+
+**Missed payments;**
+
+* No missed payments in the last 24 months on any accounts (secured and unsecured)
+
+**CCJS and Defaults;**
+
+* Not allowed if any are present in the last 6 years (Registered or Satisfied)
+
+## Individual voluntary arrangements (IVA), debt management plans (DMP) and trust deeds
+
+**IVA**
+IVA will be considered if:
+
+* Satisfied, with no other adverse record present on the account.
+* Satisfied for a minimum of 6 years.
+* The applicant(s) must provide a copy of the IVA or trust deed document or statement or letter produced by an insolvency practitioner (IP) to confirm the agreed monthly payment arrangement, satisfactory conduct and final payment date where appropriate.
+* We cannot accept IVA with unsatisfactory conduct.
+* Evidence is needed to confirm this has been satisfied.
+
+**DMP**
+DMP will be considered if:
+
+* None registered within the last 6 years.
+* Satisfied or end date evidenced.
+* The applicant(s) must provide a copy of the DMP document or statement or letter to confirm the agreed monthly payment arrangement, satisfactory conduct and final payment date where appropriate.
+* We cannot accept DMPs with unsatisfactory conduct.
+* Evidence is required to confirm this has been satisfied.
+
+## Repossessions
+
+All repossessions should be declared and normally there should be no history of a repossession, either voluntary or enforced.
+
+We do not accept applications where the repossession date is within the last 6 years.
+
+## Payday loans
+
+Payday loans can be accepted as long as they have been settled at least 12 months ago. A defaulted pay day loan in the last 36 months is unacceptable.
+
+---
+
+# Portfolio landlord
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/portfolio-landlord](https://www.accordmortgages.com/btl/criteria/portfolio-landlord)
+
+### Page contents
+
+[Portfolio landlord definition](#portfolio-landlord-definition)
+[Portfolio lending limits](#portfolio-lending-limits)
+[Background BTL portfolio](#background-btl-portfolio)
+
+## Portfolio landlord definition
+
+**Definition of a Portfolio landlord**
+
+* Portfolio landlords will be defined as those having 4 or more mortgaged BTL properties.
+* The definition is applicable at application level not applicant level. Therefore for 2 landlords applying together, the total number of their individual and joint mortgaged properties will be taken into account.
+* We'll include other applications currently 'In-flight' with Accord and other lenders to determine the total number of mortgaged BTL properties.
+
+Examples:
+
+| Scenario                                                                                                                           | Portolio landlord? |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| 1 | App 1 and 2 have 3 BTL properties in joint names and App 1 has another in sole name                                            | Yes                |
+| 2 | App 1 and 2 have 2 BTL properties in joint names                                                                                  | No                 |
+| 3 | App 1 and 2 have 4 BTL mortgages held in joint names and are remortgaging one of these to Accord                                 | Yes                |
+| 4 | App 1 and 2 have 2 BTL mortgages in joint names. They're applying to us to purchase another property and they have an 'in-flight' application with another lender | Yes                |
+| 5 | App 1 and 2 have 5 BTL properties in joint names, 2 are unencumbered. Applicants are looking to raise funds with Accord on one of the unencumbered properties. | Yes                |
+| 6 | App 1 and 2 have 3 BTL properties in joint names which are unencumbered. They're applying to us to purchase another property.  | No                 |
+
+We'll assess the financial strength and competency of a portfolio landlord by taking into consideration their experience in the buy-to-let market, their full property portfolio and any outstanding mortgages along with their assets and liabilities.
+
+Our existing rental calculations will apply for new borrowing. All background properties must collectively meet a minimum rental calculation of 145% interest coverage ratio (ICR) at a stressed rate of 5.0%.
+
+In addition to our standard criteria, portfolio landlords will be required to supply details of any applications currently being processed with other lenders and complete an assets statement. We'll also ask these landlords if they anticipate any financial changes or changes in circumstances which could impact the affordability of their portfolio.
+
+## Portfolio lending limits
+
+**Maximum portfolio lending**
+Maximum Group BTL exposure to an individual is £1,000,000 for a first time landlord and £3,000,000 for an experienced landlord.
+
+Maximum total exposure - no limit to the total number of properties (max. 10 with mortgages).
+
+Maximum number of Group BTL loans is 3 for first time landlords and 5 for experienced landlords.
+
+**Maximum properties in portfolio**
+We do not have a maximum number of properties allowed in a portfolio. However, no more than 10 properties in the portfolio can be mortgaged.
+
+**Is there a maximum LTV applied on individual units in the portfolio?**
+We won't assess the LTV on any portfolio properties, only the new loan being applied for. We'll look at LTVs in respect of the overall quality of an application.
+
+**Maximum LTV on portfolio**
+We don't assess the LTV at portfolio level.
+
+**Are inflight applications included in the total allowable number of portfolio properties?**
+No, we only count inflight applications when assessing whether the applicant is a portfolio landlord or not. Inflight applications will not count towards the total number of properties you are allowed and won't be included in our rental calculation.
+
+## Background BTL portfolio
+
+All background properties must collectively meet a minimum rental calculation of 145% interest coverage ratio (ICR) at a stressed rate of 5.0%.
+
+**How we assess coverage**
+When reviewing a BTL portfolio we do individually assess properties, but where an individual property in the portfolio doesn't meet the 145% rule, but other properties in the portfolio would cover the shortfall, we do consider the portfolio as a whole.
+
+Examples:
+
+#### Strong Portfolio
+
+| Property 1            | Property 2            | Property 3            | Property 4            | Property 5            |
+| --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
+| Self-financing 150%   | Self-financing 146%   | Self-financing 148%   | Self-financing 140%   | Self-financing 167%   |
+
+Whilst property 4 is not meeting the 145% rule, collectively the remaining properties are self-financing by 153%.
+
+This is sufficient to cover the shortfall, pulling up the portfolio collectively to 150%.
+
+#### Weak Portfolio
+
+| Property 1            | Property 2            | Property 3            |
+| --------------------- | --------------------- | --------------------- |
+| Self-financing 145%   | Self-financing 137%   | Self-financing 148%   |
+
+The portfolio as a whole is not meeting the 145% rule, and whilst one property is above the required 145%, this is not by a substantial amount.
+
+---
+
+# First time landlord
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/first-time-landlord](https://www.accordmortgages.com/btl/criteria/first-time-landlord)
+
+### Page contents
+
+[First time landlord criteria](#first-time-landlord-criteria)
+
+## First time landlord criteria
+
+We are able to accept applications from first time landlords up to a maximum loan to value of 80%
+
+At least one applicant must own the residential property in which they reside - However applications may still be considered so please contact your BDM.
+
+Top slicing is not permitted when lending to first time landlords.
+
+For an application to be classed as a first time landlord, all applicants do not, at the time of application, own a property that they have let out for more than 12 months.
+
+---
+
+# Accidental landlord
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/accidental-landlord](https://www.accordmortgages.com/btl/criteria/accidental-landlord)
+
+### Page contents
+
+[Consumer buy to let](#consumer-buy-to-let)
+
+## Consumer buy to let
+
+For more information please visit our [consumer buy to let page](https://www.accordmortgages.com/btl/tools-and-guides/consumer-btl).
+
+---
+
+# Let to Buy
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/let-to-buy](https://www.accordmortgages.com/btl/criteria/let-to-buy)
+
+### Page contents
+
+[Let to buy](#let-to-buy)
+
+## Let to buy
+
+The following information is required:
+
+* Confirmation of the new correspondence address.
+* Prior to completion, a copy of the mortgage offer for the new property (where applicable).
+* Where there isn't a mortgage, the solicitor must confirm the details of the new property.
+* The remortgage and the purchase must be completed simultaneously.
+
+---
+
+# Foreign nationals
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/foreign-nationals](https://www.accordmortgages.com/btl/criteria/foreign-nationals)
+
+### Page contents
+
+[Loan and LTV limits for foreign nationals](#loan-and-ltv-limits-for-foreign-nationals)
+[Credit checks](#credit-checks)
+
+## Loan and LTV limits for foreign nationals
+
+All applicants must be resident in the UK at the time of application.
+
+**EU citizens**
+Customers whose nationality is not British or Irish must provide evidence that they have either indefinite leave to remain or right to reside, via a passport (showing stamp), EU settlement scheme share code or confirmation from the Home Office – LTV limit restrictions are in place for customers without indefinite leave to remain or pre-settled.
+
+**European Economic Area**
+Applicants from countries, which are members of the European Economic Area, can also be accepted within normal lending criteria.
+
+These include: Iceland, Liechtenstein, Norway and Switzerland.
+
+**Indefinite leave to remain**
+Evidence of indefinite leave is required for over 75% LTV lending. This should be evidenced either by a stamp in the applicant's passport, or by a letter from the Home Office.
+
+**Settled/pre-settled status**
+Evidence of settled/pre-settled status is required. The share code, which is provided as part of the EU Settlement Scheme, should be provided.
+
+**Joint applications where one applicant has indefinite leave to remain**
+Where at least one applicant on a joint application has indefinite leave to remain or is a British citizen then we can now offer up to 75% LTV lending subject to standard product and eligibility criteria. If both applicants have indefinite leave to remain, pre-settled/settled status or British citizenship we can consider up to max 80% LTV.
+
+**No settled/pre-settled status or indefinite leave to remain not granted**
+This is acceptable at a maximum LTV of 75%.
+All applicants must have evidence that they can currently reside in the UK e.g. immigration documentation or passport stamp.
+
+## Credit checks
+
+A credit search will be conducted on every customer.
+The last 3 years residency of a customer must be verified, credit searched and sufficient to ensure an appropriate understanding of residency and credit history.
+All applicants must be resident in the UK at the time of application.
+
+We will complete checks using electoral roll and credit search data, where we cannot verify the customers address history electronically, the underwriter reserves the right to request additional documentation.
+
+---
+
+# Number of borrowers
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/number-of-borrowers](https://www.accordmortgages.com/btl/criteria/number-of-borrowers)
+
+### Page contents
+
+[Number of borrowers](#number-of-borrowers)
+
+## Number of borrowers
+
+**Maximum number of borrowers**
+Up to two borrowers are allowed on a mortgage loan.
+
+---
+
+# Inter-family and Inheritance
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/inter-family-inheritance](https://www.accordmortgages.com/btl/criteria/inter-family-inheritance)
+
+### Page contents
+
+[Inter-family purchase](#inter-family-purchase)
+[Inherited properties](#inherited-properties)
+[Overriding interest](#overriding-interest)
+
+## Inter-family purchase
+
+At the time of application the customer must have owned the property for a minimum of 6 months. There is no minimum period of ownership when a property has been inherited.
+
+## Inherited properties
+
+There is no minimum period of ownership when a property has been inherited.
+
+## Overriding interest
+
+We will not consider applications where:
+
+* The property is being sold by a family member at a discounted price.
+* A previous owner retains an interest in the security.
+* Any tenant retains or may acquire an overriding interest in the property.
+
+---
+
+# Unacceptable applicants
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/unacceptable-applicants](https://www.accordmortgages.com/btl/criteria/unacceptable-applicants)
+
+### Page contents
+
+[Unacceptable applicants](#unacceptable-applicants)
+
+## Unacceptable applicants
+
+We only accept applications from private individuals; we cannot accept applications from the following:
+
+* Investment groups/investor clubs (or where a finders fee exists)
+* Applicants with diplomatic immunity
+* Applications made on behalf of limited Companies
+* Applications made on behalf of partnerships
+* Applications made on behalf of Limited Liability Partnerships
+* Property developers
+* Guarantors
+
+---
+
+## Loan and rental
+
+# Loan limits
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/loan-limits](https://www.accordmortgages.com/btl/criteria/loan-limits)
+
+### Page contents
+
+[Min/max loan term](#minmax-loan-term)
+[Loan and LTV limits](#loan-and-ltv-limits)
+[Portfolio lending limits](#portfolio-lending-limits)
+[Exposure limits](#exposure-limits)
+[Loan and LTV limits for foreign nationals](#loan-and-ltv-limits-for-foreign-nationals)
+[Pre offer/offer validity](#pre-offeroffer-validity)
+
+## Min/max loan term
+
+The maximum loan term is 40 years
+The minimum loan term is 5 years.
+
+This applies to new business and remortgaging.
+
+For product transfers, the minimum term remaining on the mortgage in order to take a product is dependent on the products available at the time and the term remaining on the mortgage.
+
+## Loan and LTV limits
+
+The following table outlines our current loan limits for both Interest only and repayment (capital and interest):
+
+| Borrower type                                     | Loan up to £500k                                           | £500k - £1m | Flats | Houses |
+| ------------------------------------------------- | ---------------------------------------------------------- | ----------- | ----- | ------ |
+| First time landlords                              | 80% (Excl. unsecured debt consolidation)                   | 75%         | 75%   | 75%    |
+| Existing landlords                                | 80% (Excl. unsecured debt consolidation)                   | 75%         | 75%   | 75%    |
+
+## Portfolio lending limits
+
+**Maximum portfolio lending**
+Maximum Group BTL exposure to an individual is £1,000,000 for a first time landlord and £3,000,000 for an experienced landlord.
+
+Maximum total exposure - no limit to the total number of properties (max. 10 with mortgages).
+
+Maximum number of Group BTL loans is 3 for first time landlords and 5 for experienced landlords.
+
+**Maximum properties in portfolio**
+We do not have a maximum number of properties allowed in a portfolio. However, no more than 10 properties in the portfolio can be mortgaged.
+
+**Is there a maximum LTV applied on individual units in the portfolio?**
+We won't assess the LTV on any portfolio properties, only the new loan being applied for. We'll look at LTVs in respect of the overall quality of an application.
+
+**Maximum LTV on portfolio**
+We don't assess the LTV at portfolio level.
+
+**Are inflight applications included in the total allowable number of portfolio properties?**
+No, we only count inflight applications when assessing whether the applicant is a portfolio landlord or not. Inflight applications will not count towards the total number of properties you are allowed and won't be included in our rental calculation.
+
+## Exposure limits
+
+Maximum exposure to any block of flats or development is limited to 25%.
+A maximum of 1 flat/unit will be acceptable as security in all buildings made up of 4 or less flats/units. The 25% exposure limit will also continue to apply for blocks greater than 4.
+
+## Loan and LTV limits for foreign nationals
+
+All applicants must be resident in the UK at the time of application.
+
+**EU citizens**
+Customers whose nationality is not British or Irish must provide evidence that they have either indefinite leave to remain or right to reside, via a passport (showing stamp), EU settlement scheme share code or confirmation from the Home Office – LTV limit restrictions are in place for customers without indefinite leave to remain or pre-settled.
+
+**European Economic Area**
+Applicants from countries, which are members of the European Economic Area, can also be accepted within normal lending criteria.
+
+These include: Iceland, Liechtenstein, Norway and Switzerland.
+
+**Indefinite leave to remain**
+Evidence of indefinite leave is required for over 75% LTV lending. This should be evidenced either by a stamp in the applicant's passport, or by a letter from the Home Office.
+
+**Settled/pre-settled status**
+Evidence of settled/pre-settled status is required. The share code, which is provided as part of the EU Settlement Scheme, should be provided.
+
+**Joint applications where one applicant has indefinite leave to remain**
+Where at least one applicant on a joint application has indefinite leave to remain or is a British citizen then we can now offer up to 75% LTV lending subject to standard product and eligibility criteria. If both applicants have indefinite leave to remain, pre-settled/settled status or British citizenship we can consider up to max 80% LTV.
+
+**No settled/pre-settled status or indefinite leave to remain not granted**
+This is acceptable at a maximum LTV of 75%.
+All applicants must have evidence that they can currently reside in the UK e.g. immigration documentation or passport stamp.
+
+## Pre offer/offer validity
+
+| Standard                                          | Expiry Point                                               |
+| ------------------------------------------------- | ---------------------------------------------------------- |
+| Mortgage Offer                                    | 6 months (+10 working days, subject to approval to extend) |
+| New Build Mortgage Offer                          | 6 months (plus additional 6 months)                        |
+| AIP                                               | 90 days                                                    |
+| Application and supporting verification documents | 90 days                                                    |
+| Valuation                                         | 90 days                                                    |
+
+---
+
+# Rental coverage
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/rental-coverage](https://www.accordmortgages.com/btl/criteria/rental-coverage)
+
+### Page contents
+
+[Rental coverage](#rental-coverage)
+[Rental valuation](#rental-valuation)
+[Top slicing](#top-slicing)
+
+## Rental coverage
+
+Please use the [rental calculator](https://www.accordmortgages.com/btl/rental-calculator) to check the rental coverage you need before you submit an application. Our Interest coverage ratio (ICR) is calculated based on property tenure, mortgage type and term. The rental figure is based on an unfurnished property and must be confirmed by the valuer.
+To calculate the maximum borrowing available, we take the lower of the rent received or how much a valuer thinks the property will rent for.
+We apply different ICRs dependant on circumstances, these are as follows:
+
+| Applicant Tax rate                                | Product term | ICR   | ICR Rate                                          | ICR   | ICR Rate                                          |
+| ------------------------------------------------- | ------------ | ----- | ------------------------------------------------- | ----- | ------------------------------------------------- |
+| Basic rate*                                       | < 5 years    | 125%  | The higher of 5.5% or product rate +2.0%         | 125%  | The higher of 5.5% or product rate +1.0%         |
+| Basic rate*                                       | >= 5 years   | 125%  | The higher of 4.75% or product rate +1.0%          | 125%  | The higher of 4.75% or product rate +1.0%         |
+| Higher rate**                                     | < 5 years    | 145%  | The higher of 5.5% or product rate +2.0%           | 145%  | The higher of 5.5% or product rate +1.0%           |
+| Higher rate**                                     | >= 5 years   | 145%  | The higher of 4.75% or product rate +1.0%          | 145%  | The higher of 4.75% or product rate +1.0%          |
+
+*Basic rate taxpayer: Where all applicants on the application have a taxable income of no more than £50,271 in England and Wales/£43,663 in Scotland AND are basic rate taxpayers or pay 0% tax after completion of the application.
+**Higher Rate Taxpayer: Applications where at least 1 applicant has a taxable income greater than £50,271 in England and Wales/£43,663 in Scotland and/or those which are higher rate taxpayers or additional rate taxpayers after completion of the application.
+
+## Rental valuation
+
+The rental value figure must be on an unfurnished gross monthly basis on an Assured Short hold tenancy for 6 months or on a proper tenancy if the rent is over £100,000 pa (equivalents in Scotland and Wales). There must be good demand for rental property in the area concerned.
+
+## Top slicing
+
+We may be able to use surplus personal income (top slicing) to cover a rental shortfall when we assess affordability for a BTL loan.
+
+**In order for your application to qualify for top slicing the following criteria should be met:**
+* Where surplus earned income is being used to cover any rental shortfall (Top Slicing) customers must reside at the same address.
+* For single and joint applicants, the minimum income (not from rental properties) is £50,000.
+* The interest coverage ratio based on rental income only must be greater than or equal to 100% and less than the minimum required ICR threshold for the application as set out in this policy
+* Maximum LTV of 75%
+
+**Top slicing is not allowed in these cases:**
+* Lending to first time landlords (For an application to be classed as a First Time Landlord, all applicants, at the time of application, do not own a property that they have let out for more than 12 months)
+* Lending where the security is a new build property
+* Let To Buy applications
+* Capital raising for unsecured debt consolidation or to cover other personal expenditure (e.g. Car Purchase, Holiday, School fees, Gift to relative).
+
+To see a breakdown of the types of income we accept and the evidence required, please see our [income and top slicing criteria page](https://www.accordmortgages.com/btl/criteria/income-and-top-slicing).
+
+---
+
+# Tenancy limits
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/tenancy-limits](https://www.accordmortgages.com/btl/criteria/tenancy-limits)
+
+### Page contents
+
+[Length of tenancies](#length-of-tenancies)
+[Number of tenants](#number-of-tenants)
+
+## Length of tenancies
+
+We allow landlords to offer tenancies of up to 3 years in length. Minimum length of tenancy required is 6 months.
+
+## Number of tenants
+
+Maximum of 4 individuals on a single tenancy agreement (max 2 in Scotland).
+
+---
+
+# Interest only
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/interest-only](https://www.accordmortgages.com/btl/criteria/interest-only)
+
+### Page contents
+
+[Interest only repayment](#interest-only-repayment)
+[Repayment methods](#repayment-methods)
+[Loan and LTV limits](#loan-and-ltv-limits)
+
+## Interest only repayment
+
+For interest only lending, the method of repayment of the loan is assumed to be sale of property at the term end.
+
+The proposed repayment vehicle or repayment strategy must be declared at time of application.
+
+## Repayment methods
+
+Interest only or repayment (capital and interest) methods are acceptable but not a combination of both.
+
+## Loan and LTV limits
+
+The following table outlines our current loan limits for both Interest only and repayment (capital and interest):
+
+| Borrower type                                     | Loan up to £500k                                           | £500k - £1m | Flats | Houses |
+| ------------------------------------------------- | ---------------------------------------------------------- | ----------- | ----- | ------ |
+| First time landlords                              | 80% (Excl. unsecured debt consolidation)                   | 75%         | 75%   | 75%    |
+| Existing landlords                                | 80% (Excl. unsecured debt consolidation)                   | 75%         | 75%   | 75%    |
+
+---
+
+# Remortgaging
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/remortgaging](https://www.accordmortgages.com/btl/criteria/remortgaging)
+
+### Page contents
+
+[Loan purposes for remortgaging](#loan-purposes-for-remortgaging)
+
+## Loan purposes for remortgaging
+
+For all remortgages the property must have been owned by the applicant(s) for a minimum of six months.
+
+**Acceptable loan purposes:**
+For capital-raising remortgages the following are permitted:
+
+* Debt consolidation BTL criteria [https://www.accordmortgages.com/btl/criteria/debt-consolidation]
+* School fees
+* Holidays/cars
+* Purchasing another property
+* BTL business purposes
+* Home Improvements
+
+Please note there are specific restrictions for top slicing cases. [https://www.accordmortgages.com/btl/criteria/rental-coverage#top-slicing]
+
+---
+
+# Additional lending
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/additional-lending](https://www.accordmortgages.com/btl/criteria/additional-lending)
+
+### Page contents
+
+[Additional lending](#additional-lending)
+
+## Additional lending
+
+We do not offer further advances for existing BTL mortgages.
+
+---
+
+# Portability
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/portability](https://www.accordmortgages.com/btl/criteria/portability)
+
+### Page contents
+
+[Portability](#portability)
+
+## Portability
+
+Accord BTL mortgages are not portable.
+
+---
+
+# Consumer BTL
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/consumer-btl](https://www.accordmortgages.com/btl/criteria/consumer-btl)
+
+### Page contents
+
+[Consumer buy to let](#consumer-buy-to-let)
+
+## Consumer buy to let
+
+For more information please visit our [consumer buy to let page](https://www.accordmortgages.com/btl/tools-and-guides/consumer-btl).
+
+---
+
+# Debt consolidation
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/debt-consolidation](https://www.accordmortgages.com/btl/criteria/debt-consolidation)
+
+### Page contents
+
+[Debt consolidation](#debt-consolidation)
+
+## Debt consolidation
+
+When capital raising for the purpose of debt consolidation (either secured or unsecured debts) the following applies:
+
+* Maximum LTV of 75%
+* Maximum of £50,000 of unsecured debts can be consolidated onto the mortgage
+* Maximum of 10 debts to be repaid (this can be a combination of both secured & unsecured)
+* Unlimited secured debts (against any property, i.e. primary residence, buy to let, second home), providing the above max 10 debt rule is still not exceeded
+
+---
+
+# UNACCEPTABLE LOAN PURPOSES
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/unacceptable-loan-purposes](https://www.accordmortgages.com/btl/criteria/unacceptable-loan-purposes)
+
+### Page contents
+
+[Unacceptable loan purposes](#unacceptable-loan-purposes)
+
+## Unacceptable loan purposes
+
+**Unacceptable loan purposes:**
+The following loan purposes are unacceptable:
+
+* Non BTL business purposes
+* Guarantor supported mortgage
+* Right to Buy/Acquire
+* Shared ownership or equity
+* Sheltered Housing Schemes/retirement villages for elderly
+* Lifetime mortgages
+* Bridging loans
+* Government Homebuy
+* Tenants incentive
+* Regulated BTL (family tenants)
+* Concessionary purchase
+* Gambling
+* Personal business use
+* Unsecured debt consolidation where the LTV is >75%
+* Payment of tax liabilities
+* Office conversions
+
+---
+
+## Property
+
+# Property specifics
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/property-specifics](https://www.accordmortgages.com/btl/criteria/property-specifics)
+
+### Page contents
+
+[Location](#location)
+[Unacceptable properties for lending](#unacceptable-properties-for-lending)
+[Tenure](#tenure)
+[Property above or below commercial](#property-above-or-below-commercial)
+[Energy performance certificate](#energy-performance-certificate)
+[Solar panels](#solar-panels)
+[Cladding](#cladding)
+[Japanese knotweed](#japanese-knotweed)
+[Minimum property value](#minimum-property-value)
+[Reports and retentions](#reports-and-retentions)
+[Exposure limits](#exposure-limits)
+[Buildings insurance](#buildings-insurance)
+[Inter-family purchase](#inter-family-purchase)
+[Inherited properties](#inherited-properties)
+[Overriding interest](#overriding-interest)
+[Flying freehold](#flying-freehold)
+[Steel framed properties](#steel-framed-properties)
+[Mundic](#mundic)
+
+## Location
+
+Accord BTL do not lend on properties in the following locations:
+
+* Northern Ireland
+* Channel Islands
+* Isle of Man
+
+## Unacceptable properties for lending
+
+**Back to back sub sales**
+Where the transaction is a purchase, the property must have been owned for a minimum of six months by the vendor conveying the property to the applicant.
+
+**Flats/Maisonettes**
+Must be self-contained with private facilities and have direct access to the highway via covered common parts.
+
+**Unacceptable Property Types**
+The following are unacceptable property types:
+
+* Properties with planning/occupancy restrictions
+* Property owned for less than 12 months by the seller
+* Properties with restrictions in place that would affect future resale valuer and whether the property is desirable in a rental market.
+* Properties with more than two kitchens
+* Properties with more than four bedrooms
+* Properties with no internal bathroom, kitchen or W.C.
+* Social Housing Shared Ownership/Right to Buy
+* Properties with an internal area of less than 35m2
+* HMO's (Houses of Multiple Occupancy)
+* Freehold flats and maisonettes
+* Properties with locks to internal doors
+* MOD flats
+* Two storey properties where one storey comprises a commercial unit
+* Property liable to be subject to clearance or compulsory purchase order
+* Properties (flats) where the landlord is resident in one of the units (Resident landlord)
+* Live/work units
+* Properties with cross leases, e.g. Tyneside flats
+* Isolated rural properties with restricted access and services
+* Residential property divided into bed sitting rooms and with no communal areas
+* Studio flats
+* Sheltered accommodation
+* Timeshare accommodation
+* Holiday homes
+* Dwellings of totally timber construction i.e. not clad with brick, stone etc., including log cabin/chalet construction types
+* Partially built property
+* Any property comprising more than one dwelling unit (including properties with granny flats/annexes and properties with a self-contained basement)
+* Properties with the benefit of land with planning permission
+* Properties with spray foam insulation / sealed roofs used including those where it was used and subsequently removed
+* Office to residential conversion.
+
+This list is not exhaustive and all property must be supported by the comments of the valuer.
+
+## Tenure
+
+Acceptable Tenure: Freehold and leasehold in England and Wales (freehold flats are not acceptable)
+Acceptable Tenure in Scotland: Absolute and Outright Ownership (houses and flats)
+
+**Leasehold and ground rent**
+
+* There should be at least 85 years unexpired lease remaining at the start of the mortgage application.
+* There cannot be a provision that the lease is forfeit if the lessee becomes bankrupt.
+* Any new leases from 30th June 2022 must not charge more than a nominal amount for ground rent, such as £1 annually - this includes voluntarily extended leases.
+* Maximum initial ground rent to be no higher than £1,000 per annum
+* Ground rent reviews to be a minimum of 21 years from commencement of the lease, and at no more frequent intervals thereafter
+* Increases in ground rent, at review, must be limited to no more than the higher of:
+  * a doubling of the rent payable immediately prior to the review or,
+  * a figure increased in accordance with the percentage change in RPI/CPI over the previous review period
+
+**Freehold - Estate rent-charge/freehold service charge**
+
+Maximum initial estate rent-charge/service charge be no higher than £500 per annum in present value and must be no more than double every 25 years.
+
+## Property above or below commercial
+
+These properties must meet the following:
+
+* Have at least 3 storeys in the block of flats (to include commercial premises) - our property can be on any floor
+* The valuer must confirm there is consistent and reliable demand for the property and the commercial element is acceptable.
+* Any flats that exceed 4 storeys must have adequate lift arrangements.
+
+## Energy performance certificate
+
+In order for a property to be deemed as acceptable security, it must have a minimum Energy Performance Rating of E, unless the property has a valid exemption.
+
+A valuation report will only be returned if the property has a valid EPC with a rating of A – E. If the valuation has an EPC below E and does not have a valid exemption, the property is deemed unsuitable for our security and the application will be declined. To find whether a property in England or Wales has a valid exemption, the property can be checked on the [GOV.UK PRS exemptions register](https://prsregister.beis.gov.uk/NdsBeisUi/register-search-exemptions).
+
+## Solar panels
+
+Solar panels are acceptable subject to a satisfactory valuation being returned. Please note some restrictions may apply to solar panels that were previously installed free of charge and have certain lease restrictions, please contact our support team or your business development manager for queries of this nature.
+
+## Cladding
+
+Where the valuer has requested an EWS1 form due to the cladding being present on the property the following guidance will apply.
+A completed EWS1 form will be required from a member of a relevant professional body, along with a covering letter on headed paper which will confirm they are suitably qualified. This will then be assessed by our underwriters.
+If an EWS1 form is not available for a new build property a letter from the developer can now be accepted. This is subject to the letter being on a headed letter with the developer's company details clearly present. The letter must confirm that the property is being built in accordance with the Building (Amendment) Regulations SI 2018/1230 and/or, that there are no materials included in the building of the flats that would cause an EWS1 form to be unsuitable.
+
+## Japanese knotweed
+
+If Japanese knotweed is present at the property, the valuer must confirm what category/stage the knotweed is at and the following rules must be applied;
+
+Category A and B – The property may be considered as acceptable for mortgage purposes, subject to an inspection by a suitably qualified remediation specialist and commitment shown to the commencement of any recommended works under an insurance backed Japanese Knotweed Management Plan
+Category C and D – Acceptable to lend
+
+If the valuer identifies a heavy stand of Japanese knotweed on neighbouring land (eg very close to the boundary) that may present a threat, the subject property should be declined.
+
+## Minimum property value
+
+The minimum property valuation is £75,000 (in current condition). The property must be suitable for immediate letting at the time of valuation.
+
+The minimum property valuation for new build properties is £100,000.
+
+## Reports and retentions
+
+Where a valuer requests specialist reports, such reports will be referred to the valuer for analysis and comment prior to any offer being issued. No funds will be released until the property has been confirmed as suitable for lending.
+
+Accord BTL will not hold any retentions for works to be completed. The property must be suitable for immediate letting at the time of the valuers inspection.
+
+## Exposure limits
+
+Maximum exposure to any block of flats or development is limited to 25%.
+A maximum of 1 flat/unit will be acceptable as security in all buildings made up of 4 or less flats/units. The 25% exposure limit will also continue to apply for blocks greater than 4.
+
+## Buildings insurance
+
+Suitable buildings insurance must be in place at completion (remortgage) or at exchange (purchase). The insurer must be aware that the property is to be let. Our interest must be noted in the policy.
+
+## Inter-family purchase
+
+At the time of application the customer must have owned the property for a minimum of 6 months. There is no minimum period of ownership when a property has been inherited.
+
+## Inherited properties
+
+There is no minimum period of ownership when a property has been inherited.
+
+## Overriding interest
+
+We will not consider applications where:
+
+* The property is being sold by a family member at a discounted price.
+* A previous owner retains an interest in the security.
+* Any tenant retains or may acquire an overriding interest in the property.
+
+## Flying freehold
+
+Flying Freehold is only acceptable where it is 15% or less of the whole property footprint.
+
+## Steel framed properties
+
+An Intrusive Structural Report (in accordance with BRE113) must be obtained on all pre-1980 Steel.
+
+## Mundic
+
+Mundic Properties are of concrete block construction, often found in Cornwall and Devon. Concrete deteriorates and in the worst cases the property may need to be demolished.
+
+If a test is required by the valuer this must be obtained before mortgage offer. We consider the gradings as follows:
+A - Acceptable
+A/B - Should be referred to the valuer to check it doesn't affect his valuation
+B and below - Not acceptable
+
+---
+
+# Valuations
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/valuations](https://www.accordmortgages.com/btl/criteria/valuations)
+
+### Page contents
+
+[Valuation](#valuation)
+[Reports and retentions](#reports-and-retentions)
+[Minimum property value](#minimum-property-value)
+[Rental valuation](#rental-valuation)
+
+## Valuation
+
+A standard valuation must be completed on all BTL properties.
+
+The only acceptable valuation type is an internal inspection by a panel valuer. Transcripts are not permitted.
+
+## Reports and retentions
+
+Where a valuer requests specialist reports, such reports will be referred to the valuer for analysis and comment prior to any offer being issued. No funds will be released until the property has been confirmed as suitable for lending.
+
+Accord BTL will not hold any retentions for works to be completed. The property must be suitable for immediate letting at the time of the valuers inspection.
+
+## Minimum property value
+
+The minimum property valuation is £75,000 (in current condition). The property must be suitable for immediate letting at the time of valuation.
+
+The minimum property valuation for new build properties is £100,000.
+
+## Rental valuation
+
+The rental value figure must be on an unfurnished gross monthly basis on an Assured Short hold tenancy for 6 months or on a proper tenancy if the rent is over £100,000 pa (equivalents in Scotland and Wales). There must be good demand for rental property in the area concerned.
+
+---
+
+# New build
+
+**Main URL:** [https://www.accordmortgages.com/btl/criteria/new-build](https://www.accordmortgages.com/btl/criteria/new-build)
+
+### Page contents
+
+[Acceptable incentives for new builds](#acceptable-incentives-for-new-builds)
+[Acceptable warranties for new builds](#acceptable-warranties-for-new-builds)
+[Pre offer/offer validity](#pre-offeroffer-validity)
+
+## Acceptable incentives for new builds
+
+Acceptable builders incentives:
+
+* For houses and bungalows: the maximum allowable builder's incentive is 5%. If the total value of incentives exceeds 5% of the purchase price, the difference should be deducted from the purchase price and LTV calculated on the lower figure
+* For flats and maisonettes: where the builder's incentive is cash back or deposit paid, this is not acceptable unless the full incentive is deducted from the purchase price to calculate the loan to value. Any other incentives must not exceed 5%
+
+## Acceptable warranties for new builds
+
+Acceptable new build warranties are:
+
+* NHBC
+* Premier Guarantee
+* LABC
+* Building Life Plans (BLP)
+* Build-Zone
+* Checkmate/Castle 10 (nb. where out buildings such as a detached garage are also being constructed an endorsement to include these in cover is required)
+* Build Assure
+* Global Home Warranties
+* The Q Policy for residential properties
+* The Q Policy for bespoke properties
+* Protek
+* Advantage (Insurer: Elite Insurance Company). (There must be no more than 10 units in any continuous structure)
+* International Construction Warranties (ICW)
+* Ark Residential New Build Latent Defects Insurance. (Where a detached garage/outbuilding has been constructed at the same time as the main building the policy must include an endorsement confirming cover for the detached garage/out building)
+* Aedis (nb. There must be no more than 20 units in the structure)
+* One Guarantee
+* CRL new build 10-year structural defects insurance policy for residential property**
+
+** New properties where the insurer is International General Insurance Company (UK) Ltd and Ark have signed the final certificate. Please see the final paragraph on the final certificate which will confirm Ark details and the fact they are signing on behalf of the insurers: Acceptable.
+
+**Modern Methods of Construction (MMC)**
+
+Many different types of construction are now being designed and developed employing off-site manufacture. These often have a timber or a light gauge steel frame, with a variety of claddings. These properties are acceptable once we have a satisfactory report from the valuer confirming their saleability and demand.
+
+Ideally, the property should be approved under (BOPAS) Buildoffsite Property Assurance Scheme which means that it has passed a 60 year durability assessment and has a 12 year structural warranty.
+
+Acceptability will be reviewed by the Group's valuers based upon:
+
+* Planning/Building Regulation compliance
+ or Professional Consultants Certificate in standard CML format
+* Eligibility for buildings insurance cover on normal terms
+* Acceptability to other mainstream lenders
+* 60 years minimum design life assessment tested by a British accredited body (i.e. BBA or BRE)
+* Satisfactory construction standards, site and valuation.
+
+## Pre offer/offer validity
+
+| Standard                                          | Expiry Point                                               |
+| ------------------------------------------------- | ---------------------------------------------------------- |
+| Mortgage Offer                                    | 6 months (+10 working days, subject to approval to extend) |
+| New Build Mortgage Offer                          | 6 months (plus additional 6 months)                        |
+| AIP                                               | 90 days                                                    |
+| Application and supporting verification documents | 90 days                                                    |
+| Valuation                                         | 90 days                                                    |
+

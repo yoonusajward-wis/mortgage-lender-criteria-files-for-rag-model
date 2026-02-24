@@ -1,0 +1,822 @@
+LENDER NAME: Buckinghamshire Building Society
+PRODUCT: Residential
+
+BUCKINGHAMSHIRE BUILDING SOCIETY - RESIDENTIAL CRITERIA (COMPLETE)
+================================================================================
+
+Extracted on: 2025-09-09 18:16:45
+Source: https://www.bucksbs.co.uk/intermediaries/criteria/residential/
+Total sections: 14
+Total criteria items: 122
+
+OVERVIEW
+----------------------------------------
+This file contains the complete residential criteria for Buckinghamshire Building Society.
+Each section includes detailed criteria information extracted from the website.
+
+CONTACT INFORMATION
+----------------------------------------
+Phone: 01494 879500
+Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+Saturday 9.15am to 12.00pm
+Sunday CLOSED
+
+SECTIONS INCLUDED
+----------------------------------------
+1. Adverse Credit (13 criteria items)
+2. Applicant Eligibility (11 criteria items)
+3. New Build (6 criteria items)
+4. Property Eligibility (17 criteria items)
+5. Retirement Interest Only (8 criteria items)
+6. Other (7 criteria items)
+7. Credit Commitments (5 criteria items)
+8. Deposit (7 criteria items)
+9. Employment (14 criteria items)
+10. Income Affordability (12 criteria items)
+11. Interest Only (4 criteria items)
+12. Jbsp (6 criteria items)
+13. Lending Schemes (5 criteria items)
+14. Mortgage Features (7 criteria items)
+
+
+================================================================================
+SECTION 1: ADVERSE CREDIT
+URL: https://www.bucksbs.co.uk/intermediaries/criteria/residential/adverse-credit/
+Criteria Items: 13
+================================================================================
+
+# Adverse Credit
+
+## Bankruptcy / Sequestration
+
+Everyday Residential: Applicants must be discharged for at least 5 years Credit Revive: Can consider if discharged for at least 3 years Credit Restore: Can consider once discharged The client should have had no further adverse credit issues since bankruptcy. For an application of this type the deposit will need to be evidenced from the clients own funds. If deposit is to be gifted, please refer to your Key Account Manager.
+
+## County Court Judgements (CCJs)
+
+CCJs are assessed on total value rather than number of occurrences. Everyday Residential: Up to £100 outstanding in total in the last 3 years (none registered in the last 2 years) Credit Revive: Up to £500 outstanding in total in the last 3 years (none registered in the last 2 years) Credit Restore: More than £500 outstanding in the last 3 years considered
+
+## CCJs: Parking Fines
+
+Everyday Residential: Up to £500 Credit Revive: Up to £500 Credit Restore: More than £500 outstanding in last 3 years
+
+## Debt Management Plan (DMP)
+
+Everyday Residential: None registered in the last 3 years Credit Revive: None registered in the last 3 years Credit Restore: Underwriter discretion
+
+## Debt Relief Order (DRO)
+
+Everyday Residential: Applicants must be discharged for at least 5 years Credit Revive: Can consider if discharged for at least 3 years Credit Restore: Can consider once discharged The client should have had no further adverse since the DRO. For an application of this type the deposit will need to be evidenced from the clients own funds. If deposit is to be gifted, please refer to your Key Account Manager.
+
+## Defaults: HP, Credit Cards & Unsecured Loans
+
+Everyday Residential: None registered in the last 2 years Credit Revive: None registered in the last 2 years Credit Restore: Underwriter Discretion
+
+## Defaults: Utilities & Communications
+
+Defaults are assessed on total value rather than number of occurrences. Everyday Residential: Up to £250 registered in the last 2 years Credit Revive & Credit Restore: Underwriter discretion
+
+## Individual Voluntary Agreement (IVA)
+
+Everyday Residential: Satisfied / Discharged for 5 years (No adverse since) Credit Revive: Satisfied / Discharged for 3 years (No adverse since) Credit Restore: Must be satisfied on completion (capital raising to repay IVA may be considered, please refer to your Key Account Manager) For an application of this type the deposit will need to be evidenced from the clients own funds. If deposit is to be gifted, please refer to your Key Account Manager.
+
+## Missed/Late Payment: Mail Order
+
+Everyday Residential and Credit Revive: We allow a status 2 missed in the last 2 years. Credit Restore: Status 3 or more in last 2 years.
+
+## Missed/Late Payments: Utilities & Communications
+
+We will consider applications involving missed or late payments on utility bills and communications accounts providing that these accounts haven't defaulted. If the account is in default, please see our default criteria.
+
+## Mortgage Arrears
+
+Everyday Residential: No missed payments in the last 2 years Credit Revive: Up to a Status 2 in the last 2 years (none in the last year) Credit Restore: Status 3 or more in the last 2 years
+
+## Rent Arrears
+
+We will consider applications that involve rent arrears, provided that there is justifiable reasons.
+
+## Repossession
+
+Applications will not be accepted where either applicant has previously had a property repossessed.
+
+
+## Contact Information
+
+Phone: 01494 879500
+
+Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+
+Saturday 9.15am to 12.00pm
+
+Sunday CLOSED
+
+
+
+================================================================================
+SECTION 2: APPLICANT ELIGIBILITY
+URL: https://www.bucksbs.co.uk/intermediaries/criteria/residential/applicant-eligibility/
+Criteria Items: 11
+================================================================================
+
+# Applicant Eligibility
+
+## Age at Application
+
+The minimum age at application is 18 years old. There is no maximum age, but individual circumstances will be taken into account to ensure affordability.
+
+## Age at End of Term
+
+There is no maximum age, but individual circumstances will be taken into account to ensure affordability. We will consider active working income up to the age of 75 with no need to provide proof of a pension. Beyond this we require proof of retirement income.
+
+## Applicant Retired at Application
+
+We can consider applications where either one or both of the applicants are already retired. If the affordability is reliant on pension income, then we will stress on sole affordability for joint applications.
+
+## Couple Application in Sole Name
+
+We are unable to consider an application from a couple looking to purchase a property just in one person’s name. We may be able to accept an application from a couple looking to remortgage a property currently in a sole name. Please discuss with your Key Account Manager before submitting an application.
+
+## Criminal Record & Convictions
+
+The Society will not consider applications where a conviction exists, unless it has been spent under the Rehabilitation of Offenders Act 1974. Similarly, the Society will not consider any applicant convicted of a financial crime or fraud or any similar actual or pending conviction.
+
+## Existing Mortgage Customers
+
+We have a specific range of retention products for existing mortgage customers. Please speak to your Key Account Manager for more information.
+
+## Limited Companies
+
+We do not accept applications from Limited Companies on our residential product range.
+
+## Maximum Number of Applicants
+
+We will consider a maximum of 4 applicants.
+
+## Power of Attorney
+
+We will accept an application from a person who has been appointed with a Power of Attorney to act on the applicant's behalf.
+
+## Residency
+
+For British Citizens that have permanent right to reside in the UK, there is no minimum period of residency in the UK prior to application. For example, no minimum time for returning ExPats to the UK. There may be an LTV restriction for recently returning ExPats, please discuss with your Key Account Manager. Applicants with Settled Status under the EU Settlement Scheme are treated as having indefinite leave to remain. Applicants with Pre-Settled, Spousal, Work or Skilled Visa Status can be considered under the following conditions: Applicants must be able to demonstrate that they have lived and worked in the UK for 2-3 years. Evidence of status to be provided in the form of the email certificate provided by the home office. Must be standard credit. Must have demonstrable evidence that the whole deposit has been saved i.e. no gifted deposit or undeclared income. The visa MUST state that they are permitted to work in the UK.
+
+## Trusts & Trustees
+
+We do not accept applications from Trusts or Trustees.
+
+
+## Contact Information
+
+Phone: 01494 879500
+
+Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+
+Saturday 9.15am to 12.00pm
+
+Sunday CLOSED
+
+
+
+================================================================================
+SECTION 3: NEW BUILD
+URL: https://www.bucksbs.co.uk/intermediaries/criteria/residential/new-build/
+Criteria Items: 6
+================================================================================
+
+# New Build
+
+## Builder Gifted Deposit
+
+We will accept a gifted cash deposit subject to the Society's solicitors forwarding prior to completion a fully completed Gift Declaration signed by the Donor(s).
+
+## Builder Part Exchange
+
+Please refer to your Key Account Manager with the property details to discuss.
+
+## New Build Properties
+
+We will accept applications for new build properties, please see our current product range for details. The maximum number of floors for new build flats is 6.
+
+## New Build Warranty
+
+The Society will accept the following new build warranties: NHBC Premier Guarantee Build Zone LABC (New Home Warranty) Building Lifeplans Limited (BLP, Allianz Guarantee) Build Assure and International Construction Warranties Protek Checkmate/Castle 10 The Q Policy ABC+ Ark 10 year Structural Defects Insurance AEDIS Warranties Ltd ICW Advantage Global Home Warranties One Guarantee
+
+## Purchase Off Plan
+
+We will consider applications for new build properties purchased off plan.
+
+## Sales Incentives
+
+We will accept new build sales incentives providing they meet the requirements as outlined in the BSA Handbook.
+
+
+## Contact Information
+
+Phone: 01494 879500
+
+Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+
+Saturday 9.15am to 12.00pm
+
+Sunday CLOSED
+
+
+
+================================================================================
+SECTION 4: PROPERTY ELIGIBILITY
+URL: https://www.bucksbs.co.uk/intermediaries/criteria/residential/property-eligibility/
+Criteria Items: 17
+================================================================================
+
+# Property Eligibility
+
+## Agricultural Ties
+
+Properties with agricultural restrictive covenants or where planning restrictions limit occupancy to members of the local agricultural community (agricultural or otherwise) are considered on their merits up to 50% LTV.
+
+## Auction Purchases
+
+We will accept applications for auction purchases and also consider day one remortgages.
+
+## Composite Cladding
+
+For properties with composite cladding we require an EWS1 form: Category A1 & A2 are acceptable Category B1 each case will be individually assessed Category B3 would currently be unacceptable to the Society
+
+## Ex-Local Authority Properties
+
+We accept applications for ex-local authority houses and flats. Ex-local authority flats must be a maximum of 4 storeys.
+
+## Flats Above Commercial
+
+Apartments in a city or town centre location that are in prime locations, readily marketable are likely to be acceptable. However, above a commercial / retail in secondary positions e.g. just outside a city or town centre or above a suburban shopping parade are unlikely to be acceptable, nor those above a commercial/retail usage which could limit demand / saleability due to noise, cooking odours or unsociable trading hours (for example hot food takeaway, cafe, off licence, dry cleaners etc...) To be acceptable, the block must be at least 3 stories tall including the commercial unit at the ground floor level. In every case the Valuer should confirm that there is constant and reliable demand for such properties.
+
+## Flats - Number of Floors
+
+Please note we cannot lend on blocks with more than 6 storeys ( or 4 storeys if Ex-Local Authority)
+
+## Flat Roofs
+
+Properties with flat roofs are considered on an individual basis and so require the valuer to advise on the impact on security, property resale ability, additional maintenance costs of flat mineral felt covered roofs and the limited life expectancy of certain covering materials. If this covers more than 10% of the total roof area, refer to you Key Account Manager before submitting an application.
+
+## Freehold Flats
+
+We will not accept applications for freehold flats.
+
+## Garden / Basement Flats
+
+Garden / basement flats may be considered where there are adequate levels of natural ventilation and light together with a reliable and constant demand in locality.
+
+## Ground Rent
+
+Typically we may not lend if escalation exceeds RPI or if initial charges exceed £1,000 per year in London or £250 outside of London.
+
+## Japanese Knotweed
+
+If Japanese Knotweed is noted, valuers MUST advise which category the plant falls into. In case of Category 3 and 4, reports will be required with the recommendation that a contractor is used that is a member of the Property Care Association (PCA), or the Invasive Non-Native Specialist Association (INNSA). A full report and detailed treatment plan will be required an a full retention will be held until the first part of the treatment programme has been undertaken.
+
+## Leasehold Term
+
+The Society requires a minimum unexpired period of 85 years at the time of purchase and at least 50 years unexpired lease remaining after the expected redemption date. We may consider a shorter period if the lease is being extended simultaneously with the mortgage application.
+
+## Non-Standard Construction
+
+The Society require the valuer to advise on the impact on the security, property resale ability, additional maintenance costs and insurance implications in order to inform the underwriting decision. Please refer to your Key Account Manager with details of the property before submitting an application.
+
+## Purchase Adjoining Property
+
+We will consider an application to purchase an adjoining property. Please refer to your Key Account Manager before submitting an application.
+
+## Restrictive Covenant
+
+We may be able to consider an application for a property where there is a Restrictive Covenant. Please contact your Key Account Manager to discuss.
+
+## Solar Panels
+
+We will consider an application where solar panels are present. Please discuss with your Key Account Manager before submitting an application.
+
+## Studio Apartments
+
+All flats/apartments including Studios must have a minimum SQM of 35
+
+
+## Contact Information
+
+Phone: 01494 879500
+
+Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+
+Saturday 9.15am to 12.00pm
+
+Sunday CLOSED
+
+
+
+================================================================================
+SECTION 5: RETIREMENT INTEREST ONLY
+URL: https://www.bucksbs.co.uk/intermediaries/criteria/residential/retirement-interest-only/
+Criteria Items: 8
+================================================================================
+
+# Retirement Interest Only
+
+## Age at Application
+
+The minimum age to apply for one of our Retirement Interest Only products is 55. If the application is joint, both applicants must be at least 55 years of age.
+
+## Equity Requirements
+
+We have no minimum equity requirements on our RIO range.
+
+## Income Requirement
+
+Whilst we don't stipulate a minimum income, the applicant(s) must meet individual affordability criteria using pension or non earned income.
+
+## Lasting Power of Attorney
+
+The Society recommends that you consider the benefits of setting up a lasting power of attorney in respect of this mortgage.
+
+## Maximum Loan
+
+The maximum loan on our Retirement Interest Only range is £750,000.
+
+## Minimum Loan
+
+The minimum loan on our Retirement Interest Only range is £25,000.
+
+## Repayment Strategies
+
+For our Retirement Interest Only mortgages, Sale of Property is the only acceptable repayment method.
+
+## Term Length
+
+Our Retirment Interest Only mortgages are intended as lifetime products.
+
+
+## Contact Information
+
+Phone: 01494 879500
+
+Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+
+Saturday 9.15am to 12.00pm
+
+Sunday CLOSED
+
+
+
+================================================================================
+SECTION 6: OTHER
+URL: https://www.bucksbs.co.uk/intermediaries/criteria/residential/other/
+Criteria Items: 7
+================================================================================
+
+# Other
+
+## Back to Back Purchase
+
+We will consider an application from an applicant purchasing a property that the current vendor has owned for less than 6 months. We will also consider a day one remortgage.
+
+## Credit Referencing Agency
+
+We generally use TransUnion and Experian.
+
+## Credit Report Footprint
+
+At Decision in Principle (DIP) stage we leave a soft footprint on your credit file.
+
+## Credit Search or Credit Score
+
+We manually underwrite all of our cases and undertake credit searches, a credit score isn't used.
+
+## Rent a Room / Lodgers
+
+We can consider this on a case by case basis, please refer to your Key Account Manager. We are unable to use this income for affordability purposes.
+
+## Solicitors
+
+We use LMS Panel Management, All solicitors need to be approved by LMS.
+
+## Valuation Company
+
+We use Gateway.
+
+
+## Contact Information
+
+Phone: 01494 879500
+
+Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+
+Saturday 9.15am to 12.00pm
+
+Sunday CLOSED
+
+
+
+================================================================================
+SECTION 7: CREDIT COMMITMENTS
+URL: https://www.bucksbs.co.uk/intermediaries/criteria/residential/credit-commitments/
+Criteria Items: 5
+================================================================================
+
+# Credit Commitments
+
+## Commitments to be Repaid on Completion
+
+We may be able to disregard credit commitments that are going to be repaid on completion, although we will require evidence of repayment.
+
+## Commitments < 3 Months Remaining
+
+Where a credit commitment has less than 3 months to run, it may be ignored.
+
+## Credit Card Balances
+
+Credit and store cards should be deducted based on minimum acceptable payments (but not less than 3%) using the balance outstanding at the time of application.
+
+## Overdraft Conduct
+
+Use of an authorised overdraft is fine. If an applicant has had unauthorised overdraft issues, please speak to your Key Account Manager to discuss.
+
+## Pay Day Loans
+
+Everyday Residential: Maximum of 1 in the last 2 years Credit Revive & Credit Restore: Additional pay day loans may be considered at undrewriter discretion
+
+
+## Contact Information
+
+Phone: 01494 879500
+
+Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+
+Saturday 9.15am to 12.00pm
+
+Sunday CLOSED
+
+
+
+================================================================================
+SECTION 8: DEPOSIT
+URL: https://www.bucksbs.co.uk/intermediaries/criteria/residential/deposit/
+Criteria Items: 7
+================================================================================
+
+# Deposit
+
+## Concessionary Purchase
+
+We will not accept an application for a concessionary purchase, deed of gift, inter-family transaction or other purchase type which doesn't involve an actual deposit being paid. The only exception to this is our Family Assist product which allows a parent or grandparent to assist their child with a deposit by placing a collateral charge on their own property. Speak to your Key Account Manager for more details.
+
+## Deposit from a Limited Company
+
+We can accept deposits with dividends drawn from a limited company by Director/s applicant/s (100% shareholder/s), however, we cannot accept deposits transferred directly from other companies (intercompany loans).
+
+## Deposit from Outside of the UK
+
+We don't currently consider deposits originating from outside of the UK.
+
+## Family Gifted Deposit
+
+The Society will accept Gifted Deposits. In all cases, the Donor should have a direct link to the borrower, with acceptable options as follows: Children, Parents / Step-parents, Grandparents, Aunts & Uncles, Siblings. This must be a true gift where the giver has no right over the property and the amount isn't expected to be repaid.
+
+## Gifted Equity
+
+If sold at full market value, we can consider gifted equity from family no deposit contribution from client. We can also consider gifted equity from the landlord with a minimum 5% deposit contribution from the client.
+
+## Proof of Deposit
+
+We will require evidence of the source of any deposit, including an explanation of how the deposit was accumulated (for example, bank statements showing regular deposits).
+
+## Vendor Gifted Deposit
+
+We will consider a vendor gifted deposit.
+
+
+## Contact Information
+
+Phone: 01494 879500
+
+Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+
+Saturday 9.15am to 12.00pm
+
+Sunday CLOSED
+
+
+
+================================================================================
+SECTION 9: EMPLOYMENT
+URL: https://www.bucksbs.co.uk/intermediaries/criteria/residential/employment/
+Criteria Items: 14
+================================================================================
+
+# Employment
+
+## Agency Workers
+
+If one applicant has a full time PAYE income, we can use up to 50% of zero hours / agency income from applicant two, as verified by bank statements or tax returns over the last 12 months.
+
+## Cabin Crew
+
+We accept applications from airline cabin crew / flight attendants
+
+## Contract Workers
+
+Applicant must have been contracting for at least 7 months with at least one contract renewed (or second contract in place).
+
+## Family Business
+
+If an applicant currently works for their family business, please refer to your Key Account Manager to discuss.
+
+## Nursing Bank Staff
+
+We accept applications from nursing bank staff. Please discuss with your Key Account Manager to clarify if we would be able to use 50% or 100% as that is dependant on a number of additional factors.
+
+## Pending Future Employment
+
+An application can be made with a copy of the contract, however we would need to see at least one payslip and bank statement showing the salary credit before completion. Any probationary period would also need to be passed. These would be a condition of the offer We would also need to understand previous employment history to ensure we have the 12 months continuous employment required, otherwise we would need to wait until the applicant had completed three months in the new role.
+
+## Probationary Period
+
+An application can be made during the probationary period, however any probationary period would also need to be passed before completion.
+
+## Professional Sports People
+
+We may be able to consider an application from a professional sports person. Please discuss with your Key Account Manager before submitting an application.
+
+## Self Employed
+
+For self employed applicants (or directors with at least 20% shareholding), we will use the average income as evidenced by the last 2 years accounts. Consideration will be given to trends and health of the business.
+
+## Short Term Renewable Contracts
+
+Short term renewable contracts are considered where the applicant has a history of such contracts in the same line of work.
+
+## Subcontractors
+
+We accept applications from Subcontractors.
+
+## Temporary Work
+
+Can be considered if the work has been undertaken for a period of 12 months or more prior to mortgage application.
+
+## Umbrella Companies
+
+Applications are accepted from self employed applicants who work under an umbrella company.
+
+## Zero Hours Contracts
+
+If one applicant has a full time PAYE income, we can use up to 50% of zero hours / agency income from applicant two, as verified by bank statements or tax returns over the last 12 months.
+
+
+## Contact Information
+
+Phone: 01494 879500
+
+Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+
+Saturday 9.15am to 12.00pm
+
+Sunday CLOSED
+
+
+
+================================================================================
+SECTION 10: INCOME AFFORDABILITY
+URL: https://www.bucksbs.co.uk/intermediaries/criteria/residential/income-affordability/
+Criteria Items: 12
+================================================================================
+
+# Income Affordability
+
+## Benefits
+
+Income from benefits will be assessed on a case-by-case basis. we only accept benefits that are to be received for life and received by the applicant (not for a dependent). For more information, please discuss with your Key Account Manager.
+
+## Bonus
+
+50% of bonus received in the last year can be used in the affordability assessment (underwriter has discretion to use a higher proportion of average bonus if there is a long term track record).
+
+## Car Allowance
+
+Up to 100% of allowance can be considered subject to proof that it's a regular source of income.
+
+## Minimum Income
+
+We don't have a specific minimum income policy, although the application must pass our affordability checks.
+
+## Overtime
+
+Commission and overtime can be considered up to 100% subject to the length of time in role, occupation and must be able to demonstrate a consistent track record of receiving commission or overtime. Please consult your Key Account Manager for further clarification or guidance applicable to your situation
+
+## Other Income
+
+Please refer any unusual income sources to your Key Account Manager before submitting an application.
+
+## Private Pension
+
+We can accept 100% of private pension income for affordability purposes.
+
+## Rental Income
+
+The underwriter has discretion to take account of a proportion of evidenced buy to let rental income.
+
+## Second Job
+
+Income from a second job can be considered subject to the role being worked concurrently for 12 months.
+
+## Shift Allowance
+
+Shift allowance can be considered subject to proof that it's a regular source of income.
+
+## Stipend
+
+Stipend income can be used as an acceptable source of secondary income for affordability purposes.
+
+## Town Allowance
+
+Up to 100% of allowance can be considered subject to proof that it's a regular source of income.
+
+
+## Contact Information
+
+Phone: 01494 879500
+
+Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+
+Saturday 9.15am to 12.00pm
+
+Sunday CLOSED
+
+
+
+================================================================================
+SECTION 11: INTEREST ONLY
+URL: https://www.bucksbs.co.uk/intermediaries/criteria/residential/interest-only/
+Criteria Items: 4
+================================================================================
+
+# Interest Only
+
+## Acceptable Repayment Strategies
+
+Acceptable with the following repayment strategies: Pension Stocks and Shares ISA Endowment Policy Stocks and Shares Other Investments (subject to valuation and volatility assessment) Sale of Second Property
+
+## Downsizing as a Repayment Strategy
+
+Where sale of property is the repayment vehicle: 1 Bedroom: Please refer 2 Bedrooms: 40% LTV 3 Bedrooms: 50% LTV 4+ bedrooms: 60% LTV
+
+## Minimum Equity Requirement
+
+Our minimum equity requirement for interest only lending is £135,000
+
+## Part & Part
+
+Applications for loans on a Part & Part basis (interest only and repayment) are acceptable.
+
+
+## Contact Information
+
+Phone: 01494 879500
+
+Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+
+Saturday 9.15am to 12.00pm
+
+Sunday CLOSED
+
+
+
+================================================================================
+SECTION 12: JBSP
+URL: https://www.bucksbs.co.uk/intermediaries/criteria/residential/jbsp/
+Criteria Items: 6
+================================================================================
+
+# Jbsp
+
+## Overview
+
+Where a FTB has the assistance of an Immediate Family Member who would be joint borrower on the mortgage, to help with affordability, but not on the title deeds and therefore does not have any ownership rights to the property. The joint borrower cannot reside at the property. Non FTB considered. It is required that all applicants take advice about the tax implications of the way the mortgage finance and property ownership will be structured. All borrowers will be jointly and individually liable for the mortgage.
+
+## Age at Application
+
+The minimum age at application is 18 years old. There is no maximum age, but individual circumstances will be taken into account to ensure affordability.
+
+## Maximum Loan to Value
+
+The maximum LTV is product dependant, but never more than a maximum of 90% including any added fees.
+
+## Maximum Number of Applicants
+
+We will consider a maximum of 4 applicants.
+
+## Reverse JBSP
+
+Works based on the same principle as our standard JBSP mortgage but for adult children supporting their parents mortgage in retirement. Term is based on child’s age.
+
+## Term
+
+Term can be considered on buyers age if we are able to assess that they will be able to afford the mortgage in their own right within 5 years. (ie. trainee professionals, future promotion pending, self employed with a young business, child care costs diminishing etc.)
+
+
+## Contact Information
+
+Phone: 01494 879500
+
+Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+
+Saturday 9.15am to 12.00pm
+
+Sunday CLOSED
+
+
+
+================================================================================
+SECTION 13: LENDING SCHEMES
+URL: https://www.bucksbs.co.uk/intermediaries/criteria/residential/lending-schemes/
+Criteria Items: 5
+================================================================================
+
+# Lending Schemes
+
+## Consumer Buy to Let
+
+We accept Consumer Buy to Let applications, please refer to the buy to let section for more details.
+
+## Let to Buy
+
+We will consider lending across both properties, based on affordability.
+
+## Regulated Buy to Let
+
+We have a specific Regulated BTL scheme available, contact your Key Account Manager for further details.
+
+## Right to Buy
+
+We do not currently accept applications under the Right to Buy scheme.
+
+## Voluntary Right to Buy (Housing Association)
+
+We do not currently accept applications under the Voluntary Right to Buy scheme.
+
+
+## Contact Information
+
+Phone: 01494 879500
+
+Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+
+Saturday 9.15am to 12.00pm
+
+Sunday CLOSED
+
+
+
+================================================================================
+SECTION 14: MORTGAGE FEATURES
+URL: https://www.bucksbs.co.uk/intermediaries/criteria/residential/mortgage-features/
+Criteria Items: 7
+================================================================================
+
+# Mortgage Features
+
+## Foreign Currency Lending
+
+We don't currently offer foreign currency mortgage lending.
+
+## Loan Amount
+
+The minimum loan amount is £50,000. For RIO products, the minimum loan is £25,000. The maximum loan amount is dependant on the product chosen.
+
+## Maximum Term
+
+The maximum term available is 40 years. This is the same for full repayment, interest only and part and part.
+
+## Overpayment Facility
+
+During the early repayment charge period, lump sum overpayments up to 10% of the capital balance per annum may be made without attracting an early repayment charge. Should the total of lump sum overpayment exceed 10% within this period, the excess will attract an early repayment charge. Once the early repayment charge period has ended, overpayments can be made at any time. If an overpayment of £500 or more is made, we will recalculate the monthly payment the following month.
+
+## Payment Holiday
+
+We don't currently allow payment holidays, however if a customer is struggling with their repayments, we urge them to contact us as soon as possible.
+
+## Porting
+
+Porting may be allowed depending on product selected, please see individual product details for more details.
+
+## Property Value
+
+We have a minimum property value of £75,000.
+
+
+## Contact Information
+
+Phone: 01494 879500
+
+Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+
+Saturday 9.15am to 12.00pm
+
+Sunday CLOSED
+
+

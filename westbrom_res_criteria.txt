@@ -1,0 +1,1055 @@
+LENDER NAME: Westbrom
+PRODUCT: Residential
+
+# Lending and Security Guidelines 
+
+## Intermediary Use Only
+
+Last updated: October 2025
+
+This document provides guidance for mortgage intermediaries on the areas the West Brom will consider as part of its mortgage underwriting processes.
+
+In addition to the guidelines set out in this document, the West Brom also applies a number of proprietary credit assessment tools, the outcome of which may result in a case being declined despite appearing to fit within the guidelines set out in this document.
+
+The West Brom retains the right to change its underwriting policy at any time and without necessarily updating these guidelines. However, the West Brom will endeavour to ensure the guidelines set out in this document represent the Society's current approach to lending.
+
+In the event of any clarification being required please contact your Business Development Manager (BDM). Prior to submission of supporting documentation please contact the BDM for clarification of any items or policy which may require further investigation to ensure cases are processed in a timely manner.
+
+---
+
+## Maximum Loan To Value
+
+**Maximum Loan To Value:**
+- As specified within the product literature
+- LTVs are based on the lower of the Purchase Price or Valuation
+- Fees may be added to the loan subject to product criteria
+- Maximum LTVs are dependent on products and restrictions
+
+## Maximum Agreeable Monetary Loan Limits
+
+**Purchase, Remortgage:**
+- As specified within the product literature
+
+## Minimum Monetary Loan Limits
+
+**Purchase, Remortgage:**
+- Subject to product minimum loan limits
+
+## Mortgage Types
+
+**Purchase:**
+- Permitted
+
+**Remortgage:**
+- Permitted where the refinance will occur 9 months after the original purchase date of the security (registered proprietorship). The maximum LTV is 90% unless otherwise specified below
+- Subject to purpose qualification:
+  - Straight debt up-lift
+  - Home improvements
+  - Repayment in full of equity loan
+  - Debt consolidation up to £15,000 (Maximum LTV 80%)
+  - Business purposes (Maximum LTV 75%). No new ventures permitted
+  - Car purchase/Wedding expenses/Holiday
+  - Repayment of first charge mortgage(s) in addition to main residence
+  - The following capital raising purposes are excluded:
+    - Payment of gambling debts
+    - Payment of taxes
+
+The Society deems debt consolidation as 'unsecured debt becoming secured debt (this includes PCP). Any debts being consolidated should be included in the affordability assessment in order to provide comfort of affordability in an instance where the debt is not repaid.
+
+Where funds are raised which aren't for the benefit of all parties to the mortgage, the borrowers must obtain independent legal advice and sign a declaration to confirm this has been done.
+
+**Bridging Finance:**
+- Not permitted
+
+## Mortgage Terms
+
+**Minimum Term:**
+- 5 years
+
+**Sub sales:**
+- Permitted unless:
+  - The owner/registered proprietor has been registered for less than 6 months or
+  - The person selling to the borrower is not the owner or registered proprietor. Unless the seller is:
+    - A personal representative of the registered proprietor, or
+    - An institutional mortgage exercising its power of sale, or
+    - A receiver, trustee-in-bankruptcy, or liquidator, or
+    - A developer or builder selling a property acquired under a part-exchange scheme
+  - The subsequent sale of a property owned for a short period of time has been identified as a sign of money laundering and/or mortgage fraud and/or tax avoidance
+
+**Maximum Term:**
+- 40 years (Capital Repayment) and 25 years (Interest Only)
+- An appropriate mortgage term is established subject to consideration of:
+  - Applicant's declared retirement age, where the agreed term will fall outside of retirement age or the loan is considered affordable based on post-retirement income.
+  - Repayment vehicle
+  - Remaining lease term and the valuer's comments on suitability of the property as security for lending
+  - Product specification
+  - Applies to all mortgage applicants
+
+**Capital & Interest Repayment Method:**
+- Maximum ≤ 95% LTV
+- Maximum Term: 40 years
+
+**Interest Only Repayment Method:**
+- Maximum 60% LTV
+- Maximum term: 25 years
+
+**Part & Part Combined Repayment Method:**
+- Not permitted
+
+## Repayment Vehicle
+
+**Endowment Policy:**
+- The evidenced current or projected value at maturity must be equal or greater than the proposed loan amount or account exposure
+- Projections should be based on the lower or middle growth rates, as deemed appropriate to comply with responsible lending
+- The general expectation is that the latest annual statement is required and must be no more than 15 months old
+- The name on the policy must match the names(s) shown on the application
+- Not permitted where the maturity date of the Endowment Policy is later than the end date of the mortgage
+
+**Pension Provision:**
+- The evidenced current or estimated pension tax free lump sum must have a value equal to or greater than the proposed loan amount or account exposure
+- The general expectation is that evidence must be no more than 15 months old
+- Projections should be based on the lower or middle growth rates, as deemed appropriate to comply with responsible lending
+
+**Investment & Savings Plan (including ISA's):**
+- Permitted
+- The value of the plan must have at least 50% of the requested 'interest only' amount with a plausible investment strategy being demonstrated to cover the full value
+- The latest statement from the provider is required as evidence and must not be more than 12 months old
+- Must be administered by an FCA regulated Financial Services firm
+- All beneficiaries of the repayment vehicle must match the name(s) on the application
+
+**Sale of the Mortgaged Property:**
+- Permitted
+- Minimum equity should be the higher of £200,000 or the output of our [Regional Equity Finder](https://wbfi.co.uk) (available on wbfi.co.uk) for the area the applicant(s) intend to downsize to
+
+**Sale of other Property:**
+- Permitted
+- Subject to equity in other UK property is sufficient to repay the interest only part of the mortgage after any mortgage(s) on the other property has been repaid. Excludes commercial properties
+- Evidence required from valuation and latest mortgage statement
+- Subject to the property being owned solely by one or more of the applicant(s) (confirmation of ownership must be evidenced)
+
+## Lending Schemes
+
+**Government Right to Buy:**
+- Not currently available
+
+**Shared Ownership:**
+- Permitted, subject to product availability
+- Up to 95% LTV based on the borrowers share for houses (Including New Build)
+- Up to 85% LTV based on the borrowers share for flats (Including New Build)
+- Maximum share of the property to be purchased – 75% (available for houses and flats)
+- Capital repayment only
+- Additional borrowing may only be considered for the purchase of additional share of the property (in increments equal to or above 5%), up to 80% LTV by way of a further advance.
+- Rental payments are calculated at 120% of the current rental figure. Please only enter 100% of the current monthly rental figure within the affordability assessment
+- Applications are permitted where either a 6 April 2010 or newer model lease is in place
+- Section 106 permitted:
+  - Restriction on the resale of the property only where the Scheme Provider has an option to buy back the customer's share at full market value for a period of no more than 3 months. The Society must then be able to staircase to 100% and sell the property on the open market at its full market value and no further restrictions may apply
+  - The mortgagee protection provisions in the lease must be unaffected by any restrictions
+  - The Residential Surveying Panel Manager must confirm that the restriction has no impact on the value of the security
+
+Please visit the [Shared Ownership section of our website](https://[www.westbrom.co.uk](https://www.westbrom.co.uk)/intermediaries/products/shared-ownership) for additional information prior to submission.
+
+**Shared Equity:**
+- Permitted, subject to product availability
+- Maximum LTV 75% subject to a minimum 5% being provided independently from the scheme
+- Additional borrowing may only be considered for the purchase of additional equity of the property
+- Capital Repayment only
+- Maximum term: 35 years
+- Further advance or remortgage applications to repay the equity loan are permitted, as it will no longer be considered as Shared Equity
+- Transfer of equity is permitted subject to prior agreement from [Homes England](https://www.gov.uk/government/organisations/homes-england)
+
+**Tenants Incentive Scheme:**
+- Not permitted
+
+**Ministry of Defence Homes:**
+- Not permitted
+
+**Purchase from Own Company:**
+- Not permitted
+
+**Key Workers Scheme:**
+- Not permitted
+
+**Lodgers/Rent a Room Scheme:**
+- Not permitted
+
+## Minimum Age Requirements
+
+**Minimum Age:**
+- One applicant must be aged 21 years
+- No applicant can be under 18 years.
+
+## Maximum Age Requirements
+
+**All Applicants:**
+
+**Capital & Interest:**
+- Loan to be repaid by applicant's 75th Birthday
+
+**Interest Only:**
+- Loan to be repaid by applicant's 70th Birthday
+
+Subject to affordability including assessment of evidenced post-retirement income if beyond applicant's declared retirement age
+
+**First Time Buyers:**
+- Permitted
+- A first time buyer application is defined where none of the applicant(s) have had a mortgage (Owner Occupied, Buy to Let or Let to Buy) within the last 3 years
+
+**Next Time Buyers:**
+- Permitted
+
+## Applicant Type
+
+**Nationality:**
+
+**British and Northern Irish Citizens in the UK:**
+- 3 years residency in the UK required
+
+**Indefinite Leave to Remain (ILR) & Indefinite Leave to Enter (ILE):**
+- Gives the right to live, work and study in the UK for as long as required and the ability to apply for benefits
+
+**EU settlement scheme:**
+- Established to enable EU, EEA, and Swiss Citizens resident in the UK by 31 December 2020 (and their family members) to get the immigration status they need to live, work, study, and access benefits in the UK after 30 June 2021
+
+**Settled Status:**
+- Rights to live and work in the UK permanently
+- 3 years residency in the UK required
+- Share Code required
+
+**Pre-settled status:**
+- Rights to live and work in the UK for a limited period of 5 years (settled status can then be applied for)
+- 3 years residency in the UK required
+- Maximum 75% LTV
+- Share code required
+
+**Visa's:**
+
+**Tier 1 – Entrepreneur:**
+- Not permitted
+
+**Tier 2 – Skilled workers:**
+- 3 years residency in the UK required
+- Maximum 75% LTV
+
+**Tier 3 – Low skilled worker:**
+- Not permitted
+
+**Tier 4 – Student:**
+- Not permitted
+
+**Tier 5 – Temporary worker:**
+- Not permitted
+
+**Visa – consideration should be given to:**
+- Length of time in the UK and future;
+- Length and type of employment;
+- Restrictions on employment and length of stay in the UK.
+
+**BNO Visa:**
+- Hong Kong (British Nationals Overseas). BN(O) status is a form of British nationality created for people from Hong Kong so they could retain a form of British nationality and a connection to the UK after the handover to China in 1997 in line with the Sino-British Joint Declaration.
+- 3 years residency in the UK required
+- Maximum 75% LTV
+- Applicants must not hold any level of diplomatic immunity.
+
+**Armed Forces Personnel:**
+Applications will be accepted from:
+- UK Armed Forces Personnel who are currently stationed in the UK or overseas who wish to purchase or re-mortgage a property that is intended to their main residence either immediately or in the future.
+- Where the property is not to be the applicant's immediate main residence it is acceptable for:
+  - The property to be occupied by the applicant's spouse/partner and children; and
+  - The property to be let on an Assured Shorthold Tenancy basis.
+
+**Guarantor:**
+- Not permitted
+
+**Married / Cohabiting couples:**
+Sole applications for married/cohabiting couples where both wish to reside at the property potentially permitted, subject to the following:
+- If the non-applicant has adverse credit and / or are financially linked to the applicant, this will not be acceptable.
+- On a purchase application, the non-applicant must not be providing any part of the deposit.
+- On a remortgage application, the non-applicant must not have previously had any ownership of the property.
+- The person(s) named on the mortgage must match the title deeds.
+- If the non-applicant is dependent on the applicant, then they must be declared as an adult dependent. If the non-applicant is not a dependent, then they must be included on the application as an adult occupier. They must also be keyed as an occupier and will be required to sign a Consent to Mortgage form.
+
+## Employment Type
+
+**Employed - Permanent (including in probation):**
+- Permitted
+- Subject to at least 12 months' continuous declared employment history and at least three months with current employer
+- Separate gaps in employment of up to three months, at any one time, are considered acceptable within the 12 month period
+- Professional occupations are permitted if less than 12 months' continuous employment or less than three months with current employer. Please refer to the Intermediary Sales and Support team for further information
+
+**Employed - Piece Work:**
+- Permitted
+- Must evidence that applicant has been employed on a similar basis for a minimum of 12 months
+- Income to be based on an average of the last 12 months
+
+**Employed - Commission Only:**
+- Not permitted
+
+**Employed - Temporary/Zero hours/Agency Contract:**
+- Permitted
+- Subject to evidence of 12 months' employment on this basis
+- Income to be based on an average of the last 12 months' earnings
+- Applications from 'professional' occupations (e.g. doctor, teacher etc.) for the first time will be considered. This will include a qualified tradesperson where there is clear future earning potential.
+
+**Employed - Seasonal Contract:**
+- Not permitted
+
+**Employed - Fixed Term Contract:**
+- Permitted
+- Subject to 12 months' continuous fixed term contract employment within the same skill set
+- New fixed term contract replacing an employed position held in the same skill set
+- Applications from 'professional' occupations (e.g. doctor, teacher etc. and qualified tradespeople where there is clear future earning potential) permitted where they are entering their first fixed term contract, with no requirement for the 12 month fixed term contract history
+- A minimum of 6 months remaining on the current contract
+
+**Employed - Family Business:**
+- Permitted
+- Subject to income being verified by latest 3 months' payslips and bank statements showing individual salary credits
+
+**Employed - Parental leave:**
+- Permitted
+- Subject to the applicant declaring their intention to return to work
+- Affordability should take into consideration future childcare costs and the addition of a child dependant
+- Income may not be considered where the applicant does not declare they will be returning to work
+
+**Employed - Multiple Employment:**
+- Permitted
+- Subject to the income and hours worked being sustainable over the term of the mortgage
+- Secondary employments outside of the applicants' primary occupation limited to 50% of the income
+- Where an applicant(s) has multiple employers whilst working within the same skill set we may consider 100% of income and this will be counted as one job
+- A maximum of 2 jobs is allowable
+
+**Self Employed:**
+- Permitted
+- Self-employed is defined as a Sole Trader, Partner in a Partnership, LLP or where a ≥ 25% shareholding is held in a Limited Company
+
+**Sole trader or Partner in a Partnership:**
+- Subject to the business trading for a minimum of 2 years and where 2 years' finalised accounting information is available
+- Income used will be the lower of the latest finalised years or an average of the last 2 years' share of net profit
+
+**Limited Liability Partnership (LLP):**
+- Permitted subject to the business trading for a minimum of 2 years and where 2 years' finalised account information is available
+- Income used will be the lower of the last 2 years' share of net profit
+- May permit less than 2 years, where an applicant has recently joined an LLP providing the business has been trading for at least 2 years
+
+**Limited Company:**
+- Permitted subject to the business trading for a minimum of 2 years and where 2 years' finalised account information is available
+- Income will be the lower of the latest finalised years or an average of the last 2 years' salary or dividend
+- May permit less than 2 years' trading where a sole trader or partnership has changed to Limited Company status providing the business as a sole trader/partnership has been trading for at least 2 years
+
+**Construction Industry Scheme (CIS):**
+- Permitted subject to:
+  - 2 year track record of sub-contracting under CIS
+  - Income used will be the lower of the latest finalised years or an average of the last 2 years' share of net profit
+
+**Umbrella Company:**
+- Permitted subject to:
+  - 2 year track record of accounting/income information from within the same skill set.
+  - Income used will be the lower of either the latest finalised accounting/income or an average of the last 2 years.
+  - Payslips, latest years P60 & contract may be used for the assessment of income received via an umbrella company, where the applicant receives employed benefits, and the umbrella company pays the applicant's Tax and National Insurance. Details of previous history may be requested dependent on the length of the current contract.
+
+## Income Multiples
+
+**Income multiple/ LTI:**
+- 4.5 x income where allowable income is <£50,000 p.a.
+- 5 x income where allowable income is >£50,000 and <£75,000 p.a.
+- 5.75 x income where allowable income is >£75,000 p.a.
+- Multiples above 4.5 x will be capped at 90% LTV
+
+## Affordability
+
+**Affordability Assessment:**
+- An affordability assessment based on a Capital & Interest repayment method, is required in all instances to support the authorisation of an Offer of Loan
+- An affordability assessment is considered because of net applicant income and household expenditure
+- A "household" is considered to be anyone who will be resident in the security property as their main residence and has a financial dependency on the applicant(s)
+- A dependant child is defined as a child who is residing in the security as their main home and ≤ 16 years of age
+- A dependant adult is defined as anyone who is 17 or older and is residing in the security as their main home and is unable to independently support themselves financially
+- The Society declines to accept a further application from a sole applicant where they have previously been party to a joint application which failed the affordability assessment
+
+**Allowable Income:**
+- Only income which is allowable under policy and evidenced should be used to assess affordability
+- Income from non-applicants cannot be used to assess affordability
+- Non-Sterling income not permitted
+
+## Income Type
+
+**Basic:**
+- Permitted
+- 100% of gross basic salary
+
+**Overtime, Bonus & Commission:**
+- Permitted
+- 75% of monthly overtime, bonus, and commission (where supported by latest 3 months' payslips and P60)
+- 50% of regular overtime, bonus and commission paid less than monthly
+- 50% of dividend income where shareholding is <25% and is related to the applicant's occupation
+- Subject to additional income not exceeding 100% of gross basic salary
+
+The general expectation is that overtime, bonus, and commission must have been received for a minimum of 12 months.
+
+**Shift Allowance & Call Out Expenses:**
+- Permitted
+- 100% of permanent contractual shift allowance
+- Subject to additional Income not exceeding 100% of Gross Basic Salary.
+
+**Car and Fuel Allowance:**
+- Permitted
+- 100% where evidenced and contractual
+- Subject to additional Income not exceeding 100% of Gross Basic Salary.
+
+**Large Town Allowance:**
+- Permitted
+- 100% where evidenced and contractual
+- Subject to additional Income not exceeding 100% of Gross Basic Salary.
+
+**Travel or Petrol Expenses:**
+- Not permitted
+
+**Universal Credit:**
+- Standard allowance: 100% where evidenced from the award letter that the applicant has a primary source of income (employed/self-employed – this will show in the take-home pay section of the award letter).
+- Child element: This should be deducted from the monthly payment and not included for mortgage affordability purposes.
+- Housing element: This should be deducted from the monthly payment and not included for mortgage affordability purposes.
+- Evidence required: Universal credit statement must include a full breakdown of income received and the name of the statement must match the application.
+
+**Family Allowance:**
+- Not permitted
+
+**Attendance Allowance:**
+- Not permitted
+
+**Carer's Allowance:**
+- Not permitted
+
+**Foster Carer's Allowance:**
+- Permitted
+- A letter from the Foster Agency confirming:
+  - The total income paid for each of the last 2 years
+  - That income is likely to continue at the same level for the foreseeable future
+  - Income assessed as lower of the average of the last 2 years or the current year
+  - The children in foster care of the applicants must be keyed as dependants
+
+**Guardians allowance:**
+- Permitted subject to:
+  - Being received regularly and is a secondary income (50% can be used)
+  - Children under the age of 18 who are financially dependent on the applicant are treated as dependents
+  - Allowance can only be used for children under the age of 12 years
+  - Latest 3 months bank statement showing the amount paid by the local authority.
+  - Confirmation that the allowance is ongoing and how long it will continue.
+
+**Disability Living Allowance:**
+- Not permitted
+
+**Incapacity Benefit:**
+- Not permitted
+
+**Income Support:**
+- Not permitted
+
+**Maintenance:**
+- Permitted
+- Where evidenced and considered sustainable
+- Maximum LTV 80% where only income source
+- Child maintenance can be considered where the child is 11 years of age or under.
+
+**Bursary/Stipend:**
+- Permitted
+- Where supported and evidenced
+
+**Bank Nursing/Supply Teachers:**
+- Permitted
+
+**Earned Pension:**
+- Permitted
+- Up to 100% of earned pension where evidenced
+
+**State Pension:**
+- Permitted
+- Up to 100% of state pension where evidenced
+
+**Property Rental Income:**
+- Permitted
+- 50% of the rental income from an unencumbered Buy to Let or Let to Buy property maybe considered within the affordability assessment. Professional landlords (defined by 4 or more properties) may declare a secondary income, derived from business accounts or SA302, (ensuring the costs used to calculate the Relief for Finance Costs is deducted from the Profit from land and property figure) received from rental income which will be subject to standard self-employed criteria
+
+**Lodger Rental Income:**
+- Not permitted
+
+**Investment Income:**
+- Not permitted
+
+**Self-Employed Income:**
+- Permitted.
+- Income is limited to the lower of the average of the last 2 years or the current year
+
+## Expenditure Type
+
+(based on monthly expenditure, used in affordability assessment)
+
+**Council Tax:**
+- Actual or expected council tax
+
+**Insurance payments & Contributions:**
+- A deduction covering:
+  - Buildings and contents insurance premiums; and
+  - Those termed as essential by the borrower, for example Life Insurance and protection or pension contributions
+
+**Dependent Maintenance/Childcare costs:**
+- A deduction covering:
+  - Child maintenance, CSA
+  - Nursery, school, college, and university fees
+
+**Food & Non Alcoholic Drink:**
+- Average expenditure on food and non-alcoholic drink
+
+**Travel & Transport:**
+- A deduction covering:
+  - Essential and non-essential travel
+  - Petrol and car parking
+  - Car tax, car insurance and car maintenance
+  - Public transport costs
+
+**Housing, fuel, power, and communication:**
+- A deduction covering:
+  - Water, gas, electricity, and other heating
+  - Telephone – landline and mobile
+  - T.V. licence
+  - T.V. and internet packages
+  - Ground rent and service charges
+
+**Other Expenditure:**
+- A deduction covering:
+  - Clothing, footwear, health
+
+**Credit /store cards and mail order:**
+- Declare all balances on credit/store cards and mail order accounts. Please indicate which items will be repaid at completion
+- Consider 3% of balance(s) as a deduction where not to be repaid prior to the release of funds
+
+**Loan/Hire Purchase Agreements:**
+- Declare all monthly payment(s) where not to be repaid prior to release of funds
+
+**Outstanding Residential Owner Occupier Mortgage:**
+- Declare any other mortgage debt which will not be repaid prior to release of funds
+
+**Outstanding Buy to Let Mortgage:**
+- Declare any Buy to Let or Let to Buy address, mortgage balance and the monthly payment which will not be repaid prior to the release of funds. However, a property with a mortgage is considered self-financing if the gross rent covers the current mortgage payment. If there is a shortfall it must be added as a cost in the affordability calculation
+
+## Impaired Credit
+
+**Credit Searches:**
+- A credit search is performed on all applicants
+
+**Payday loans:**
+- Not permitted where active or taken out within the last 12 months.
+
+**Debt Relief order (DRO):**
+- Not permitted where an applicant has been subject to a debt relief order which has been discharged for < 3 years.
+
+**Debt Management Plan (DMP):**
+- Not permitted where started in the last 3 years.
+- Where the DMP has been managed for over 3 years we can consider subject to:
+  - The individual circumstances being fully considered (i.e. reason for the plan and associated previous adverse which led to the DMP) and;
+  - Being well managed, i.e. reasonable payments being made monthly to satisfy the DMP.
+
+**Impaired Credit History (ICH):**
+- Not permitted where:
+  - Arrears on a current or previous secured or unsecured loan within the last 2 years, where the cumulative amount overdue at any point reached three or more monthly payments
+  - An applicant has had one or more CCJs registered within the last 3 years, either satisfied or unsatisfied, with a total value greater than £500
+  - An applicant has been subject to an IVA within the last 3 years
+  - An applicant has been subject to a bankruptcy which has been discharged for less than 3 years
+
+**Repossession:**
+- Not permitted where the applicant has had a property repossessed within the last 6 years
+
+## Deposit Type
+
+**Equity:**
+- Permitted
+- Includes sale of existing property and release of equity from another property
+
+**Gifted:**
+- Permitted where from a close family member
+- Confirmation of the sum being 'non-repayable' must be evidenced unless:
+  - Protected by a Deed of Trust (or similar) or
+  - Registered as a second charge
+- Gift not acceptable where:
+  - Provided by the vendor (unless an acceptable new build incentive from the builder/developer);
+  - Provided by someone who is intending to reside in the property
+
+**Other Gifts:**
+- Not permitted
+
+**Deed of Gift and Transfer at Undervalue:**
+- Permitted
+- Subject to evidential requirements
+- LTV for mortgage purposes must be based on the lower of the price paid or the property valuation (borrower must provide at least 5% deposit).
+
+**Savings:**
+- Permitted
+- Evidence of savings is required
+- Savings should be in the applicant's name.
+
+**Builder's Incentive:**
+- Permitted
+- Subject to a maximum of 5% cash/financial incentives (deposit, cashback, legal fees/stamp duty etc) based on the security value/purchase price. (Non-cash/financial incentives are not included in the 5%, for example, white goods, floor coverings, integrated lighting and turfing etc., (those that are considered to be forming part of the property at valuation/purchase).
+- The appointed Society surveyor must be aware of all incentives to allow accurate reflection within the valuation provided as detailed in the disclosure of incentives form.
+- Incentives of over 5% are treated as a reduction in purchase price for maximum mortgage and LTV requirements.
+- Borrower is required to provide a minimum of 5% deposit in addition to the builder's incentive.
+
+**Vendor's Incentive:**
+- Not Permitted
+
+**Forces Help to Buy:**
+- Permitted subject to:
+  - Borrower providing a minimum of 5% deposit (in addition to FHTB);
+  - Maximum is either 50% of the applicants salary or £25,000;
+  - FHTB advance not being secured by a second charge on the property; and
+  - Monthly repayment and mandatory insurance as confirmed on the Personal Information Note must be included within the affordability assessment.
+
+## Processing Evidence
+
+**Residential History:**
+- Applicants must declare address history for last 3 years
+- Evidence of residency must be provided at current address
+- Evidence may be electronically provided by:
+  - One active Voters Roll record and one active CAIS record (excluding communication supplier and mail order records) at current address; or
+  - Two active CAIS records (excluding communication supplier and mail order records) at current address
+- Where electronic identification is not possible, please refer to the ['how to submit business guide'](https://[www.westbrom.co.uk](https://www.westbrom.co.uk)/intermediaries) for a detailed list of our requirements
+
+**Bank Statement:**
+Where requested evidence of the latest full calendar month main bank statement at least, for all applicants is required
+
+**Mortgage Statement:**
+Evidence of satisfactory mortgage payment conduct
+
+**Rent Reference:**
+- Not Required
+
+**Other Income Confirmation:**
+Evidence of all supporting approved income is required
+
+**Employment Confirmation:**
+Ways in which income can be evidenced include but are not restricted to:
+- Last full month's payslip
+- Latest 3 months' payslip and P60 (required if overtime/commission/bonus or other income(s) are being used for affordability)
+
+**Self-Employment Confirmation:**
+Evidence of self-employed income by:
+- Latest 2 years' HMRC tax year calculations plus the tax overview documentation
+- Accountants certificate covering the most recent 2 years' accounting period and/or
+- Latest 2 years' accounts from a suitably qualified accountant
+- CIS vouchers
+- Payslips, latest years P60 & contract may be used for the assessment of income received via an umbrella company, where the applicant receives employed benefits, and the umbrella company pays the applicant's Tax and National Insurance. Details of previous history may be requested dependent on the length of the current contract.
+- In all instances the latest 3 months' business bank statements are required, which must clearly demonstrate trading/turnover is currently being maintained at a level sufficient to support the income being used within the affordability assessment
+- Where the accounting period end on the provided set of personal income/net profit figures is older than 3 months, the last 3 months' business trading bank statements should be obtained and considered
+
+Please note:
+- The above information is for guidance purposes and further income evidence may be requested, if required.
+
+**Conveyancer Panel Management:**
+
+**Dual Representation:**
+- A panel solicitor or licensed conveyancer will represent the Society and the applicant within the legal transaction. Costs to be borne by the applicant
+- The Conveyancing Panel will be managed centrally by LMS
+
+**Separate Representation:**
+- Not Permitted
+
+**Form of Valuation:**
+A Form of Security Valuation to have been assessed and evidenced on all offered new advance applications
+
+**Offer Validity:**
+- Offers are valid for 6 months from the date of the offer
+- New build offers are valid for 9 months from the data of the offer
+
+## Residential Security Policy
+
+**First Mortgage Valuation Valuation Options:**
+An applicant may choose one of the following forms of valuation:
+- Standard Valuation Report (Mortgage Valuation Report);
+- Home Buyers Valuation Report (RICS Home Survey (Level 2));
+- Full Structural Valuation Report (RICS Home Survey (Level 3)).
+
+**Security Value & Condition:**
+
+**House, Bungalow:**
+- Minimum Value £70,000
+- Maximum 95% LTV for new build; and
+- Maximum 95% LTV for non-new build
+
+**Flat or Maisonette:**
+- Minimum Value £70,000
+
+**Minimum Retention Value:**
+- Retentions are not made for amounts less than £5,000
+
+**Specialist Reports Requirement:**
+Where the valuer requests a specialist report, all reports should be provided by an approved contractor and evidenced accordingly
+
+**Property Demand:**
+Permitted subject to the valuer confirming the property is suitable security for our Mortgage including:
+- Where there is good demand and the property is likely to rise and fall in line with the general market conditions
+- The location, environmental factors or individual features of the property may cause the value to perform better than market conditions
+
+**Security Demand:**
+
+**England:**
+- Permitted
+- Isle of Man and Channel Islands are not permitted
+
+**Wales:**
+- Permitted
+
+**Scotland:**
+- Not permitted
+
+**Northern Ireland:**
+- Not permitted
+
+**Ireland:**
+- Not permitted
+
+**Security Tenure:**
+
+**Freehold:**
+- Permitted where security is not a flat or maisonette
+- Coach house
+
+**Flying Freehold:**
+- Permitted providing no more than 15% (measured against the total floor areas of the building) of the property is affected and where security is not a flat or maisonette
+
+**Leasehold:**
+- For Capital and Interest, the lease must have at least 60 years left at the end of the mortgage term
+- Coach house
+
+**Commonhold:**
+- Not permitted
+
+**Feuhold:**
+- Not permitted
+
+**Minimum Accommodation Requirement:**
+- Minimum requirements – internal toilet, bathroom, kitchen
+
+**Minimum Utilities Requirement:**
+- Permitted where mains service connections exist
+- May consider where septic tank or private utilities exists
+
+**Proximity To Japanese Knotweed:**
+- Permitted – Subject to surveyor comments on management categories and severity in line with [RICS guidance](https://www.rics.org/), if deemed:
+
+**Category A or B:**
+- Considered subject to an inspection by a remediation specialist who is a member of a recognised trade body and the completion of any recommended works under a Japanese Knotweed Management Plan
+- A retention for the costs of any works must be made, or held in an escrow or a Bond pay scheme and released to the specialist as required
+
+**Category C or D:**
+- Permitted
+
+**Proximity to Mine or Adit:**
+Permitted:
+- Where mine or adit is more than 20m from the subject property.
+- Subject property is not in an open or former cask site (if applicable).
+- Where the mine entry interpretive report result is 'suitable – not at risk' (if applicable).
+
+Subject to valuer support:
+- Where mine or adit is within 20m of the subject property.
+- Where the subject property is in an open or former cask site (if applicable).
+- Where the mine entry interpretive report result is 'suitable – not at risk' (if applicable).
+- Where the mine entry interpretive report result is 'suitable – possible adverse' (if applicable).
+
+Not permitted:
+- Where the mine entry interpretive report result is 'not suitable – within area likely to be affected.'
+
+**Proximity to Flood Risk Area:**
+Permitted:
+- Where a property is in a flood risk area, the property will be acceptable security subject to the valuer confirming no adverse marketability and that the property is suitable for mortgage;
+- and subject to buildings insurance available on standard terms and conditions or property covered by flood Re scheme.
+
+**Ground rent:**
+Permitted Subject to:
+- Maximum 0.2% of the property value.
+- Maximum 0.1% of new build property value (0.15% may be considered with justification).
+- An AST indemnity is required if during the term of the mortgage, the ground rent charge is (or will) exceed £250 (£1,000 in London).
+- The amount and terms of any periodic increase are clearly stated and comply with the following requirement:
+  - RPI linked;
+  - Ground rent increases no more frequently than every 10 years;
+  - Doubling or fixed amount increase;
+  - Ground rent increases no more frequently than every 20 years.
+
+Where a conveyancer establishes that an escalation of the ground rent could affect the valuation figure this should be referred to the original Valuer for their consideration.
+
+**Estate rent charge:**
+Permitted where any of the following apply:
+- The agreement must specifically prohibit the collector/recipient of the rent charge from being able to create a lease over the property
+- The agreement includes a mortgage protection clause, which requires the rent charge owner to give a mortgagee at least 2 months' notice prior to any enforcement action being taken by the owner of the estate rent charge
+- The owner of the rent charge is a management company comprising of the residents, who are the shareholders of a private freehold development
+
+In addition:
+- The current annual amount payable under any rent charge must not exceed £500 in present value
+- Where a conveyancer considers that an escalation of the estate rent charge could affect the valuation figure this should be referred to the original valuer for their consideration
+
+**Service charge:**
+Where a conveyancer identifies that the landlord or managing agent foresees any significant increase in the level of the service charge in the reasonably foreseeable future this should be referred to the Society's In-House Lawyer and the original valuer for consideration
+
+**Minimum New Build Requirement:**
+- Permitted
+- New build is defined as a property that has been completed or converted in the last 24 months, or on first occupation
+- Maximum 75% LTV for flats/maisonettes
+- Maximum 95% LTV for other builds
+- Completion within 12 months of application
+- New build/Shared Ownership lending within a specific development is restricted to:
+  - Maximum 25% exposure within a development
+  - Maximum 25% may be flats/maisonettes of the securities accepted
+  - Maximum 25% of flats per block
+  - Maximum of 25% of Shared Ownership proportion of a development
+- Qualified Architect supervised new builds permitted where an acceptable building warranty is available
+- Off plan purchases permitted where completion complies with standard Offer of Loan and Valuation validity period
+- Acceptable new build warranties:
+  - NHBC
+  - Premier Guarantee
+  - Building Life Plans underwritten by Allianz Global
+  - LABC New Build Warranty
+  - Checkmate Castle 10
+  - Buildzone
+  - Q Assure Build
+  - Global Home Warranties
+  - Protek (subject to the Society interest being noted on the individual policy)
+  - Home Proof
+  - One Guarantee
+  - Advantage
+
+**Self/Custom Build:**
+- Not Permitted
+
+**Spray Foam:**
+- Where spray foam is present it should be removed prior to an offer of loan being made.
+- A specialist should remove the spray foam and the property should have a second independent review (2 stage approach)
+
+**Solar/Photovoltaic (PV) Panels:**
+- Permitted:
+  - Where valuer is satisfied that the solar/PV panels have no impact on the structural integrity of the property.
+  - Solar/PV panels owned outright or leased are acceptable providing they meet the requirements set out in [UK Finance Lenders' Handbook](https://lendershandbook.ukfinance.org.uk/).
+
+**Flat / Maisonette:**
+- Permitted
+- New build: Maximum 75% LTV
+- Non-new build: Maximum 85% LTV
+- Restricted to 25% of a development
+- Flats < 5 storeys subject to acceptable property type, valuation, and LTV (number of storeys assessed from ground level)
+- All flats in blocks of more than 4 storeys require lift access (number of storeys assessed from ground level)
+- Flats with deck access are not permitted
+- The block complies with the Society's policy on mixed use
+- Flats with cladding/balconies permitted subject to:
+  - Valuer follows the latest [RICS guidance notes](https://www.rics.org/news-insights/current-topics-campaigns/fire-safety/cladding-external-wall-system-ews-faqs) to inform if an EWS1 is required;
+  - Where an EWS1 is required only categories A1, A2 and B1 are permitted; and
+  - Flats converted from commercial/office blocks acceptable subject to valuation
+- Full valuation (no desktop or AVM)
+
+**Studio flats:**
+- Permitted
+- Maximum 75% LTV
+- Restriction of 25% of a development
+- Minimum floor area of 30 square meters
+- Flats with cladding/balconies permitted subject to:
+  - Valuer follows the latest [RICS guidance notes](https://www.rics.org/news-insights/current-topics-campaigns/fire-safety/cladding-external-wall-system-ews-faqs) to inform if an EWS1 is required;
+  - Where an EWS1 is required only categories A1, A2 and B1 are permitted; and
+  - Full valuation (no desktop or AVM)
+
+**Back to Back build formation:**
+- Post 1980 properties permitted.
+
+**Coach House:**
+- Permitted, subject to 85% LTV
+- New build 75% LTV
+
+**Holiday and Second Homes:**
+- Permitted
+- Maximum 85% LTV
+- The property must be for the exclusive use of applicants and freely marketable
+- Please note, an applicant purchasing another property where it will be their main residence, is not treated as a second home
+- Not permitted:
+  - Where the property is to be occupied by the applicant(s) and/or applicants family and friends as a main residence
+  - Where property is to be let for commercial gain
+
+**Security Above or adjacent to Commercial Premises:**
+- Permitted
+- Flat/maisonette maximum 75% LTV and minimum value of £150,000
+- Subject to restriction of maximum 25% of a development
+- Excluding commercial premises that have an adverse impact on security valuation
+- The property to act as the Society's security must have an independent access. Those that are accessed via the commercial premises are not permitted
+- The following commercial uses are not permitted:
+  - A3 – restaurant and café
+  - A4 - drinking establishment
+  - A5 – hot food takeaway
+  - Sui Generis – commercial of its own kind e.g. scrap yard, petrol station, night club, launderette
+
+**Partial business/commercial use:**
+- Permitted subject to:
+  - the property does not attract business rates
+  - no modification is necessary to support the saleability of the property
+
+**Security Type:**
+- Not Permitted, examples of affected properties:
+  - Farms and smallholdings
+  - Grade 1 Listed Buildings
+  - Agricultural tie or Restricted properties
+  - Freehold flats and maisonettes including coach house flats
+  - Live / Work Units
+  - Mobile Homes / River boats
+  - Properties with 10 or more acres of land
+  - Purchase of land
+  - Low cost housing/restricted resale covenant schemes
+  - Sheltered housing and properties with restricted age for the occupants
+  - Holiday Lets
+  - Deck access flats
+  - Flats converted from former office, industrial buildings
+  - Properties with asbestos
+
+Security Restrictions:
+- Permitted for Shared Ownership only
+- Restriction on the resale of the property only where the scheme provider has an option to buy back the customer's share at full market value for a period of no more than 3 months. The Society must then be able to staircase to 100% and sell the property on the open market at its full market value and no further restrictions may apply
+- The mortgagee protection provisions in the lease must be unaffected by any restrictions
+- The Residential Surveying Manager must confirm that the restriction has no impact on the value of the security
+- Not permitted:
+  - Agricultural tie or restricted properties
+  - Sheltered housing and properties with restricted age for the occupants
+  - Low cost housing/restricted resale covenant scheme (other than detailed above)
+
+Modern Methods of Construction (MMC)
+
+The following MMC construction types are considered generally acceptable subject to satisfactory valuation:
+
+- ICF – Insulated Concrete Forms:
+  - Permitted:
+    - With an accredited external cladding.
+  - Subject to:
+    - Suitable accreditation;
+    - Local authority approvals;
+    - NHBC or similar ten-year new build warranty;
+    - BBA/BRE certificates (frame and claddings); and
+    - Relevant recognised warranty.
+
+- SIPS – Structured Insulated Panel
+  - Permitted:
+    - With a predominantly masonry outer leaf.
+  - Subject to:
+    - Suitable accreditation;
+    - Local authority approvals;
+    - NHBC or similar ten-year new build warranty;
+    - BBA/BRE certificates (frame and claddings); and
+    - Relevant recognised Warranty.
+
+- Volumetric/Modular e.g. factory manufactured units assembled on-site
+  - Permitted:
+  - Subject to:
+    - Relevant recognised Warranty.
+
+Roof type:
+- Pitched roofs covered with tiles or slates (including artificial slates), or thatched
+- Flat roofs clad with copper, lead, zinc, asphalt are considered acceptable as are other modern materials which carry a minimum 25 year guarantee
+- Mineral felt flat roofs tend to have a shorter lifespan and are acceptable for dormers or extensions but not where they form 100% of the total roof area
+
+Timber Frame:
+- Permitted:
+  - Post 1965 timber frame external skin is predominantly masonry or an acceptable accredited external cladding.
+- Not permitted:
+  - Pre 1965 timber framed properties
+  - Timber frame with timber outer leaf
+
+Steel Frame:
+- Permitted
+- Post 1990 steel frame
+- Pre 1990 subject to Valuer comments; and
+- Subject to Full Structural Survey
+
+The following are examples of pre 1990 affected properties:
+- Atholl
+- B.I.S.F
+- Crane
+- Cussins
+- Levett Cartwright
+- Roften
+- Denniss-Wild
+- Thorncliffe
+- Dorlonco
+- Trusteel MK 1 and MK 2
+- Telford 5M
+- Howard
+- Keyhouse uUnibuilt
+- Steane
+- Asbestos Clad Birmingham Housing
+
+Modern Steel Frame
+- Permitted
+- With a predominantly masonry outer leaf
+- Subject to:
+  - BOPAS or similar accreditation
+  - Local authority approvals
+  - NHBC or similar 10 year new build warranty
+  - BBA/BRE certificates (frame and cladding)
+
+Concrete Frame:
+- Permitted
+- Subject to valuer confirming suitable security and subject to property passing appropriate checks to confirm structural integrity
+- Examples of permitted properties:
+  - Wimpey No-Fines;
+  - Laing Easiform post 1945;
+  - Cross Wall construction (where structural walls are not PRC or LPS);
+  - Mundic Block; and
+  - Bryants
+- Not permitted:
+  - Examples of affected properties: Reema Hollow Panel.
+
+Prefabricated Concrete System
+
+Prefabricated concrete properties will be considered where:
+- Supported by the valuer, and
+- Repaired under an approved scheme, and
+- Where the immediately adjacent property has also been repaired
+
+- To be acceptable there must be either a PRC Home Limited certificate or confirmation by a civil or structural engineer that the repair scheme was licenced by PRC Homes Limited prior to its demise in September 1996 (retrospective certificates are not permitted).
+- Examples of affected properties:
+  - Airey;
+  - Boot Beaucrete;
+  - Cornish Unit;
+  - Dorran;
+  - Dyke;
+  - Gregory;
+  - Myton;
+  - Newland;
+  - Orlit;
+  - Parkinson Frame;
+  - Schindler and Hawkesley SHS;
+  - Stendt;
+  - Stonecrate;
+  - Tarran;
+  - Underdown;
+  - Unity and Butterley;
+  - Waller;
+  - Wates;
+  - Wessex;
+  - Winget;
+  - Wollaway;
+  - Hamish Cross; and
+  - Stour Smith Boswell
+
+Oak Frame
+- Consideration on an individual basis with support from Residential Surveying Panel Manager
+
+# Definitions
+
+| ADV | : | Advance |
+| --- | --- | --- |
+| BTL | : | Buy to Let |
+| CAIS | : | Credit Account Information Sharing |
+| CCJ | : | County Court Judgment |
+| CII | : | Consumer Indebtedness Index |
+| COMM | : | Commission |
+| KFI | : | Key Facts Illustration |
+| LTV | : | Loan to Value |
+| RMC | : | Regulated Mortgage Contract |
+
+---
+
+This information is for the use of professional intermediaries only. It is not a consumer advertisement and should not be displayed as such or handed out to the public. Criteria is subject to change, please check before submitting applications.
+
+Head Office: 2 Providence Place, West Bromwich B70 8AF
+
+[www.westbrom.co.uk](https://www.westbrom.co.uk)
+
+Calls and electronic communications may be monitored and/or recorded for your security and may be used for training purposes. Your confidentiality will be maintained. The West Brom is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority. Register No: 104877. 'the West Brom' and 'the West Brom for intermediaries' are trading names of West Bromwich Building Society.

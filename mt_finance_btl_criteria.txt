@@ -1,0 +1,477 @@
+LENDER NAME: Mt Finance
+PRODUCT: Buy to Let
+
+================================================================================
+MT FINANCE - BUY TO LET LENDING CRITERIA
+================================================================================
+
+Source: https://www.mt-finance.com/partner/useful-documentation/
+
+Note: This document is for professional intermediaries only. MT Finance's buy-to-let guide covers the borrower, the loan, the property, how to meet your BDM, and how to submit business. Buy to let mortgages for business purposes are not regulated by the Financial Conduct Authority and you will not have any of the protections that the Financial Conduct Authority offers in respect of regulated mortgage contracts or consumer buy to let mortgages.
+
+Last Verified: Based on website content as of the file creation date
+
+================================================================================
+OVERVIEW
+================================================================================
+
+This document contains comprehensive buy to let lending criteria covering all aspects of mortgage applications from MT Finance, including:
+
+- Standard residential buy to let properties
+- Houses of Multiple Occupation (HMO)
+- Multi-Unit Freehold Blocks (MUFB)
+- Semi-commercial properties
+- Holiday lets
+- New build properties
+- Limited company and individual borrowers
+- Expat borrowers
+
+MT Finance offers flexible lending criteria with tiered credit policies, competitive rates, and comprehensive product range for both individual and corporate borrowers.
+
+**Company Information:**
+
+M T Finance Limited (No.06622832), MTF NE Limited (No.11594291), MTF (NH) Limited (No.12089238), MTF (LE) Limited (No.13677667) and MTF (ZE) Limited (15099854) are wholly owned subsidiaries of MT Finance Group Limited (No.12393228) registered in England & Wales.
+
+MTF (NH) Limited is authorised and regulated by The Financial Conduct Authority (FRN: 925115).
+
+**Contact Information:**
+- Phone: 0203 051 2331
+- BTL Email: btl@mt-finance.com
+- Intermediary Portal: www.mt-finance.com/partner
+
+================================================================================
+
+## Product Information
+
+### Interest Coverage Ratio (ICR) Requirements
+
+The minimum amount of rental cover (ICR) is dependent on the applicant's income tax band (highest tax band on joint applications) at the rates shown below:
+- **Basic rate taxpayers**: 125%
+- **Higher and additional rate taxpayers**: 140% (2-year fixed) / 125% (5-year fixed)
+- **Limited Company / LLP**: 125%
+
+### Interest Calculation Rate
+
+- **2-year fixed rate**: Affordability calculated on the greater of pay rate plus 2% or 100% at BOE plus 5% (minimum 5.50%)
+- **5-year fixed rate**: Affordability calculated on pay rate
+
+### Key Product Features
+
+- Available for both Individual and Corporate borrowers
+- For lending against houses, leasehold flats, maisonettes and new build properties
+- Product fees can be added to the loan over and above the maximum loan limits
+- A non-refundable application fee of £185 applies, unless otherwise stated
+- Purchase and Remortgage applications
+- Maximum Loan: £3,000,000 subject to loan to value limits (restricted to £2,000,000 for Tier 2 products)
+- Holiday Let not available for Tier 2 borrowers
+
+### Product Codes and Rates
+
+**2 Year Fixed - Tier 1**
+- Max LTV: 75%
+- Initial Rate: 2.99% (Product Code: STD-2757-010) or 3.99% (Product Code: STD2-5757-003) or 5.45% (Product Code: STD-275-022)
+- Fee: 7% or 5% or 2%
+- ICR: 125% / 140%
+- ERC: 2% in year 1, 2% in year 2
+- Revert Rate: 9% (BBR + 5%)
+
+**2 Year Fixed - Tier 2**
+- Max LTV: 75%
+- Initial Rate: 3.65% (Product Code: STD2-2757-003) or 6.15% (Product Code: STD-275-003)
+- Fee: 7% or 2%
+- ICR: 125% / 140%
+- ERC: 2% in year 1, 2% in year 2
+- Revert Rate: 9% (BBR + 5%)
+
+**5 Year Fixed - Tier 1**
+- Max LTV: 75%
+- Initial Rate: 4.65% (Product Code: STD-5757-015) or 5.00% (Product Code: STD-5755-038) or 5.05% (Product Code: STD2-5757-003) or 4.74% (Product Code: STD2-2755-003)
+- Fee: 7% or 5%
+- ICR: 125%
+- ERC: 5% in year 1, 4% in year 2, 4% in year 3, 3% in year 4, 2% in year 5
+- Revert Rate: 9% (BBR + 5%)
+
+**5 Year Fixed - Tier 2**
+- Max LTV: 75%
+- Initial Rate: 6.90% (Product Code: STD-275-003)
+- Fee: 2%
+- ICR: 125%
+- ERC: 2% in year 1, 2% in year 2
+- Revert Rate: 9% (BBR + 5%)
+
+### Expat Borrowers
+
+**Key Features:**
+- Available for Individual and Corporate borrowers
+- UK citizens with an active UK credit footprint only
+- Purchase and Remortgage applications
+- Lending against houses, leasehold flats, new build properties, maisonettes, HMOs and MUFBs
+- Maximum Loan: £3,000,000 subject to loan to value and property limits
+- Product fees can be added to the loan over and above the maximum loan limits
+- A non-refundable application fee of £185 applies, unless otherwise stated
+- Not available for Tier 2 borrowers
+
+**5 Year Fixed - Expat**
+- Max LTV: 70%
+- Initial Rate: 5.15% (Product Code: EXP-5705-003) or 5.75% (Product Code: EXP-570-003)
+- Fee: 5% or 2%
+- ICR: 125%
+- ERC: 5% in year 1, 4% in year 2, 4% in year 3, 3% in year 4, 2% in year 5
+- Revert Rate: 9% (BBR + 5%)
+
+## The Borrower
+
+Up to four applicants are acceptable for both company and individual applications. The minimum age is 21 for a primary applicant, though 18 is acceptable as a secondary applicant; Independent Legal Advice (ILA) is required for any applicant under 21. The maximum age is 85 for a primary applicant, and up to 95 as a secondary applicant; ILA is required for all applicants over 70. First-time buyers and first-time landlords are both acceptable. The minimum personal income is £15,000 per annum.&#x20;
+
+Credit policy is tiered. MT Finance considers credit score as part of the manual underwriting process, generally requiring applicants to have a score of average or above for both Tier 1 and Tier 2.
+
+**Tier 1 Credit Criteria:**
+- **CCJs/Defaults**: No CCJs or defaults (unsatisfied or satisfied) to exceed £500 in the last 36 months
+- **Secured Arrears**: No more than a status 2 in the last 36 months
+- **Unsecured Arrears**: No more than a status 2 in the last 36 months
+- **Payday Loans**: None showing in the last 12 months
+- **Debt Management Plans**: None registered in the last 36 months
+- **Bankruptcy, Repossession, IVAs and Administration Orders**: None registered in the last 72 months
+- **Arrangement to Pay**: None registered in the last 36 months
+
+**Tier 2 Credit Criteria:**
+- **CCJs/Defaults**: No CCJs or defaults (unsatisfied or satisfied) to exceed £5,000 in the last 36 months
+- **Secured Arrears**: No more than a status 2 in the last 24 months, and a status 3 in the last 36 months
+- **Unsecured Arrears**: Not counted
+- **Payday Loans**: None showing in the last 12 months
+- **Debt Management Plans**: None registered in the last 36 months
+- **Bankruptcy, Repossession, IVAs and Administration Orders**: None registered in the last 72 months
+- **Arrangement to Pay**: None registered in the last 36 months
+
+Adverse credit rules apply to the company applicant and all guarantors.
+
+MT Finance imposes no limit on the number of loans an investor can hold with other lenders. Limited companies or LLPs must be registered in England and Wales before offer and may be an SPV or a trading company. For limited companies, guarantors must include all directors and all shareholders with more than a 25% controlling interest; collectively, limited company guarantors must hold at least 60% controlling interest; guarantees are “joint and several”. For LLPs, guarantors include all designated members/general partners and any members with management rights per the LLP agreement, and LLP guarantors must own 100% of the company. All guarantors must be individual directors, shareholders, members, or a connected company, and all must take ILA before entering the transaction.&#x20;
+
+Employment status requires a full 12-month history in employment or self-employment, and at least one applicant must be a UK taxpayer and either employed, self-employed, a contractor, or retired. All applicants must have resided in the UK for the past three years (excluding expats) and must have permanent rights to remain. Portfolio landlords must supply a portfolio schedule, undergo validation of the existing portfolio, keep maximum portfolio leverage to 80% LTV, and demonstrate aggregate portfolio affordability such that gross annual rental income equals or exceeds 125% of aggregate annual mortgage interest-only payments at a stressed rate of 5.00%.&#x20;
+
+Expatriate lending is available only for Tier 1 borrowers up to 70% LTV and only to UK citizens residing in EEA or FATF member countries; requirements include holding a UK bank account, having an active UK credit footprint, and minimum income of £15,000 (or equivalent).&#x20;
+
+## The Loan
+
+MT Finance takes a first legal charge over the security. The term is from 5 to 35 years. Loan sizes range from £25,001 up to £3,000,000 (capped at £2,000,000 on Tier 2). For purchases, lending is against the lower of purchase price or current valuation. For remortgages, £-for-£ remortgages and capital raising for any legal purpose is allowed except for consolidating debts with unsatisfactory conduct (including arrears on secured or unsecured lending, service charges or ground rent), and tax liabilities can only be considered (such as IHT or CGT) where there’s no indication of financial stress. Let-to-buy and remortgages within six months of purchase can be considered on referral.&#x20;
+
+Deposits can come from lawful sources such as savings, investments, pensions, inheritance, sale or remortgage of property, dividends, and family gifts from immediate family (including step in-law relations). A builder’s deposit of up to 5% is acceptable provided there’s no rental guarantee or interest charged over the security. Company funding of deposits can include director loans, partner loans, shareholder equity, or inter-company loans on referral. Repayment can be capital & interest or interest-only.&#x20;
+
+Affordability uses an ICR framework. For 2-year fixes, affordability is assessed at the greater of pay rate + 2% or Bank of England base rate plus 5% (100% base), whereas 5-year fixes are assessed at pay rate. ICR thresholds are: 125% for basic rate taxpayers and for limited company/LLP borrowers on both 2- and 5-year fixes; 140% for higher and additional-rate taxpayers on 2-year fixes (dropping to 125% for 5-year fixes).&#x20;
+
+Maximum LTV and loan vary by property type and tier. For standard properties, up to £1.5m is available at 80% LTV (both tiers); £1.5m–£2m at 75% LTV (both tiers); and £2m–£3m at 75% LTV (Tier 1 only). Small HMOs are up to £2m at 80% LTV (Tier 1) or 75% (Tier 2); large HMOs up to £2m at 75% (Tier 1) or 70% (Tier 2). Small MUFBs are up to £3m at 75% (Tier 1) or 70% (Tier 2); large MUFBs up to £3m at 75% (Tier 1) or 70% (Tier 2). Semi-commercial is up to £2.5m at 75% LTV (Tier 1 only). MT Finance also applies total obligor exposure caps: in Tier 1, up to £1.5m exposure at 80% LTV, £1.5m–£3m at 75%, and £3m–£7.5m at 70%; in Tier 2, up to £1.5m at 80%, £1.5m–£2.5m at 75%, and £2.5m–£5m at 70%.&#x20;
+
+## The Property
+
+Lending is in England and Wales only.
+
+**Minimum Property Values:**
+- Standard residential: £50,000
+- Properties above/adjacent to commercial: £100,000
+- Ex-Local Authority/MOD properties: £150,000 in London & South East, £75,000 elsewhere
+- HMO/MUFBs: £150,000 within London & South East, £100,000 elsewhere
+
+**Tenure:**
+- Freehold houses and leasehold property are acceptable
+- Minimum lease: At least 75 years remaining at application
+
+**Listed Property:**
+- Grade II listed properties are acceptable
+- Grade I or Grade II* listed properties are unacceptable
+
+**Minimum Size:**
+- Minimum internal area: 28 sqm
+
+**Energy Performance Certificate (EPC):**
+- All security properties are required to have a minimum EPC rating of E
+
+**Property Exposure:**
+- Property exposure within a block is limited to the greater of 20% or two units for blocks over four units
+- For blocks of flats of four units or fewer, up to 100% exposure is considered within the block
+
+**Acceptable Tenancies:**
+Tenancies of up to 36 months are acceptable. Acceptable tenancy types include:
+- ASTs/Occupation Contracts (Wales)
+- Student lets
+- Single or multiple ASTs
+- Corporate lets up to five years
+- Short-term lets including Airbnb and serviced apartments, provided there are no restrictions preventing standard AST renting
+
+**Holiday Lets:**
+- Available on Tier 1 only
+- Where no planning/usage restrictions exist
+- The property is not on a holiday park or park home
+- Demand for private sale and rental is suitable
+- Holiday-let income is always assessed on a residential tenancy basis (AST methodology)
+
+**New Build Properties:**
+- New-build houses and flats are acceptable up to 75% LTV
+- Maximum loan: £2,000,000
+- Requires an acceptable UK Finance-listed warranty or a Professional Consultants Certificate
+
+Converted self-contained flats are acceptable up to 80% LTV with maximum loan of £1.5m; studio flats are acceptable if self-contained with their own bathroom; high-rise blocks over six storeys are acceptable with good marketability and rental demand (lifts required over five storeys); and cladded properties can be considered subject to valuer’s comments and EWS1 ratings A1, A2, or B1. Properties above or adjacent to commercial premises are accepted up to 75% LTV (maximum £2,000,000) subject to valuer comfort on marketability and no materially adverse proximity impacts.&#x20;
+
+For HMOs, at least one applicant must have at least 12 months of property investment experience. Maximum LTV is 80% and maximum loan £2,000,000, with up to 15 bedrooms on referral (Tier 1 only). Small HMOs are up to six rooms with no complex structure and let to no more than six unrelated individuals; if room sizes permit more than one person, the share must be a related individual. Large HMOs are six to fifteen rooms with complex structures, sui generis planning, or smaller HMOs where planning allows shared lets such that unrelated individuals exceed the room total. For MUFBs, at least one applicant must have 12 months’ investment experience; maximum LTV is 75%, maximum loan £3,000,000 (or £700,000 if more than four units), Tier 2 is available only on small MUFBs, all units must be self-contained, and exposure limits apply. Semi-commercial is Tier 1 only, up to 40% commercial element, subject to positive valuer commentary on saleability and marketability of the residential. Ex-Local Authority/MOD is acceptable to 75% LTV (flats to 70% LTV), balcony/deck access may be acceptable subject to valuer comments, and low private ownership levels are restricted to 60% LTV subject to demand and saleability.&#x20;
+
+**Acceptable Construction Types:**
+MT Finance can consider any construction/roof types where the valuer confirms the property is suitable security for mortgage purposes, subject to it meeting the property criteria and not being on the Unacceptable Property/Construction List.
+
+MT Finance considers a property to be of standard construction if it is built of stone, concrete block and/or brick with either solid or cavity walls that consist of an inner and outer skin. The outer skin will usually be of stone, brick or block. The roof will be of slate, tile, thatch or felt.
+
+- Modern Methods of Construction are acceptable (subject to valuer's comments)
+- Timber-framed construction is only acceptable with an external brick skin or where BOPAS-approved
+- Flat roofs are acceptable. 100% flat roofs are only acceptable if a modern method is used, or the security property is a block of flats (subject to valuer's comments)
+
+**Unacceptable Construction Types:**
+- Prefabricated reinforced concrete construction (PRC) - refer if works undertaken, valuer's positive comments and guarantee in place
+- Concrete block construction designated Mundic
+- Mundic block materials
+- Properties of High Alumina Cement
+- Properties of 100% timber construction
+- Any property designated defective under the Housing Act
+- Properties under 10 years' old without an acceptable structural defects warranty
+- Wimpey No Fines if the property is a flat
+- Flats of Large Panel System (LPS) construction
+
+**Unacceptable Property Types:**
+- Freehold flats/maisonettes
+- Non-HMO properties with more than eight bedrooms
+- Properties with an EPC rating lower than E
+- Properties with multiple kitchens where the valuer states it negatively impacts re-saleability
+- Properties with shared services unless part of a House in Multiple Occupation or an MUFB of 2-4 units, in a converted house and not required by planning to separate
+- Properties with more than 10 acres
+- Working farms or properties with agricultural restrictions/farms/small holdings
+- Properties with continuing structural movement, or movement that requires monitoring
+- Underpinned properties where no guarantees are available
+- Grade I & Grade II* listed buildings
+- Live/work units
+- Properties affected by dry rot or unmanageable Japanese knotweed
+- House boats/caravans/park homes/mobile homes
+- Monkey puzzle style houses
+- Properties with any form of restrictive covenants that materially adversely affect the value of the property or its future marketability (e.g., retirement homes)
+- Affordable housing/Shared ownership
+- Landlocked/Ransom Strip properties
+- Uninsurable properties
+- Properties with outstanding enforcement notices or Government grants
+- Properties with flying freehold greater than 20%
+- Unregistered land (excl. Properties subject to first registration at Land Registry - New Build)
+- Purpose-built student accommodation/HMOs
+- Properties where relevant parts do not meet the Minimum Room Size standards
+- Semi-Commercial Properties where the commercial element is greater than 40%
+
+## House of Multiple Occupancy (HMO)
+
+### Limited HMO Offering (November 2025)
+
+**Special Promotion:** MT Finance is running a limited HMO offer throughout November 2025 until the end of the year. Contact your BDM for specific details on this promotional offering.
+
+### HMO Product Information
+
+**Key Features:**
+- Available for Individual and Corporate borrowers
+- UK citizens with an active UK credit footprint only
+- Purchase and Remortgage applications
+- Lending against HMO properties
+- Maximum Loan: £3,000,000 subject to loan to value and property limits
+
+**HMO Requirements:**
+- At least one applicant must have at least 12 months of property investment experience
+- Maximum LTV: 80% (Tier 1) or 75% (Tier 2) for small HMOs; 75% (Tier 1) or 70% (Tier 2) for large HMOs
+- Maximum loan: £2,000,000
+- Up to 15 bedrooms on referral (Tier 1 only)
+
+**Small HMOs:**
+- Up to six rooms with no complex structure
+- Let to no more than six unrelated individuals
+- If room sizes permit more than one person, the share must be a related individual
+
+**Large HMOs:**
+- Six to fifteen rooms with complex structures
+- Sui generis planning, or smaller HMOs where planning allows shared lets such that unrelated individuals exceed the room total
+
+## Multi-Unit Freehold Blocks (MUFB)
+
+### MUFB Product Information
+
+**Key Features:**
+- Available for Individual and Corporate borrowers
+- UK citizens with an active UK credit footprint only
+- Purchase and Remortgage applications
+- Lending against MUFB properties
+- Maximum Loan: £3,000,000 subject to loan to value and property limits (or £700,000 if more than four units)
+
+**MUFB Requirements:**
+- At least one applicant must have 12 months' investment experience
+- Maximum LTV: 75% (Tier 1) or 70% (Tier 2) for small MUFBs; 75% (Tier 1) or 70% (Tier 2) for large MUFBs
+- Maximum loan: £3,000,000 (or £700,000 if more than four units)
+- Tier 2 is available only on small MUFBs
+- All units must be self-contained
+- Exposure limits apply
+
+## Semi-Commercial
+
+### Semi-Commercial Product Information
+
+**Key Features:**
+- Available for Individual and Corporate borrowers
+- UK citizens with an active UK credit footprint only
+- Purchase and Remortgage applications
+- Lending against semi-commercial properties
+- Maximum Loan: £2,500,000 subject to loan to value and property limits
+- Tier 1 only
+
+**Semi-Commercial Requirements:**
+- Up to 40% commercial element
+- Subject to positive valuer commentary on saleability and marketability of the residential
+- Maximum LTV: 75%
+- Maximum loan: £2,500,000
+
+## Supporting Document Requirements
+
+Intermediaries should ensure all required documentation is provided at the full mortgage application stage. Key documents typically required include:
+
+**For Individual Applicants:**
+- Proof of identity and address
+- Proof of income (payslips, P60, SA302, accounts as applicable)
+- Bank statements (typically 3-6 months)
+- Portfolio schedule (if applicable)
+- Proof of deposit (if required)
+
+**For Limited Company/LLP Applicants:**
+- Company registration documents
+- Accounts or financial statements
+- Proof of guarantor income
+- Guarantor identification documents
+- Independent Legal Advice confirmation for guarantors
+
+**Property-Related:**
+- Valuation report
+- Property details and specifications
+- EPC certificate
+- Tenancy agreements (where applicable)
+- HMO licence (where applicable)
+
+**Additional Documents:**
+- Gifted deposit declaration (if applicable)
+- Builder's deposit documentation (if applicable)
+- Portfolio validation documents (for portfolio landlords)
+
+A comprehensive Property Portfolio Form is available to record investment portfolio details. This should be completed for all portfolio landlord applications.
+
+## Your BDM and Submissions
+
+### Business Development Managers
+
+**Nigel Robbins** - National Account Manager
+- 07943150225
+- nigel@mt-finance.com
+- With a strong background in building relationships and supporting key accounts, Nigel is focused on strengthening partnerships and delivering value to brokers.
+
+**Alex Taylor** - Business Development Manager - Mortgages
+- 07507717182
+- alext@mt-finance.com
+- Previously served as the BTL Broker Relationship Manager, now focuses on Commercial Mortgage products and BTL solutions.
+
+**David Kingham** - BDM for London & South East
+- 07460753466
+- david@mt-finance.com
+- Started as an NBE in 2019, progressed to senior underwriter for regulated bridging, now excels in business development.
+
+**Joe Grace** - Senior BDM for London & South East
+- 07309718034
+- joe@mt-finance.com
+- Originally joined in 2019 as a New Business Executive, has in-depth knowledge of operations and processes.
+
+**Richard Sherman** - Senior BDM for South West & South Wales
+- 07366 144697
+- richard@mt-finance.com
+- Joined in 2018 with over 10 years' experience. Previously worked as a mortgage broker, providing unique understanding of broker operations.
+
+**Chris Parr** - Senior BDM for Midlands & North
+- 07367 358020
+- chris@mt-finance.com
+- Over 17 years' experience in the industry. Joined the team in 2020, supporting brokers in Midlands, Northern England and North Wales.
+
+### Submission Process
+
+Intermediaries can submit and manage cases via the intermediary portal at [www.mt-finance.com/partner](https://www.mt-finance.com/partner). The portal allows you to:
+- Submit new cases
+- Manage existing applications
+- Access documentation requirements
+- Track application progress
+
+Alternatively, you can call the BTL team at 0203 051 2331 or email [btl@mt-finance.com](mailto:btl@mt-finance.com) to discuss your case prior to submission.
+
+### Available Documentation
+
+MT Finance provides several useful documents:
+
+**Buy-to-Let Documents:**
+- **BTL Product Guide**: Latest rates and key criteria for buy-to-let mortgage products
+- **Limited HMO Offering**: Special promotional offer details (November 2025)
+- **Semi-Commercial Product Guide**: Latest rates and key criteria for semi-commercial mortgage products
+- **Buy-to-Let Criteria Guide**: Detailed lending, borrower, and property criteria
+- **Supporting Documents**: Outline of documents required for BTL mortgage applications
+- **Buy-to-Let USP Factsheet**: Highlights how MT Finance stands out from other BTL lenders
+- **Buy-to-Let Enquiry Form**: Form to review cases before keying the Decision in Principle (DIP)
+- **Property Portfolio Form**: Spreadsheet to record investment portfolio details
+
+**Additional Resources:**
+- **MT Finance Solicitor Panel**: Approved panel of solicitors for dual representation
+
+All documentation is available from the MT Finance Partner Documentation page: [https://www.mt-finance.com/partner/useful-documentation/](https://www.mt-finance.com/partner/useful-documentation/)
+
+### Buy-to-Let Unique Selling Points (USP)
+
+MT Finance differentiates itself in the BTL market through several key advantages:
+
+- **Hands-on and effortless approach**: Dedicated support throughout the application process
+- **Flexible lending criteria**: Accommodating various borrower profiles and property types
+- **Comprehensive product range**: Standard residential, HMO, MUFB, and semi-commercial options
+- **Experienced team**: BDMs with extensive industry knowledge and broker-focused service
+- **Efficient processing**: Streamlined application and underwriting processes
+- **Competitive rates**: Tiered products to suit different borrower profiles
+- **Portfolio landlord support**: Specialized criteria and support for portfolio investors
+
+### Solicitor Panel
+
+MT Finance maintains an approved panel of solicitors for dual representation. Using a panel solicitor can:
+- Speed up the process
+- Reduce costs for applicants
+- Ensure compliance with MT Finance requirements
+
+The MT Finance Solicitor Panel list is available for download from the useful documentation page.
+
+### Company Information
+
+**Registered Entities:**
+M T Finance Limited (No.06622832), MTF NE Limited (No.11594291), MTF (NH) Limited (No.12089238), MTF (LE) Limited (No.13677667) and MTF (ZE) Limited (15099854) are wholly owned subsidiaries of MT Finance Group Limited (No.12393228) registered in England & Wales.
+
+**Registered Office:**
+Ground Floor Cooper House, 316 Regents Park Road, London, N3 2JX
+
+**Head Office:**
+The Broadgate Tower, 20 Primrose Street, London, EC2A 2EW
+
+**Regulatory Status:**
+MTF (NH) Limited is authorised and regulated by The Financial Conduct Authority (FRN: 925115).
+
+**Important Notice:**
+For borrowers, borrowing through MT Finance Limited or any of the group owned subsidiaries, this involves entering into a mortgage contract secured against property. Your property is at risk if you fail to make payments on a mortgage contract. Borrowing through MTF (NH) Limited involves entering into a mortgage contract secured against property. Your property may be repossessed if you do not repay your mortgage in full.
+
+### Contact Information
+
+**General Enquiries:**
+- Phone: 0203 051 2331
+- Email: [enquiries@mt-finance.com](mailto:enquiries@mt-finance.com)
+
+**BTL Specific:**
+- Email: [btl@mt-finance.com](mailto:btl@mt-finance.com)
+
+**Marketing:**
+- Email: [marketing@mt-finance.com](mailto:marketing@mt-finance.com)
+
+**Intermediary Portal:**
+- Website: [www.mt-finance.com/partner](https://www.mt-finance.com/partner)
+
+---

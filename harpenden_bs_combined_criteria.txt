@@ -1,0 +1,397 @@
+LENDER NAME: Harpenden Building Society
+PRODUCT: Combined
+
+================================================================================
+HARPENDEN BUILDING SOCIETY - RESIDENTIAL AND BUY-TO-LET LENDING CRITERIA
+================================================================================
+
+Residential & BTL Source:
+
+Residential: https://www.harpendenbs.co.uk/intermediaries-mortgage-range/residential-mortgages-criteria/
+
+BTL & Specialist: PDF effective 22 Sep 2025.
+
+Document: Lending Criteria Guidelines
+Effective from: 22 September 2025
+
+Note: This document is for intermediary use only. For use by authorised intermediaries only.
+
+Last Verified: Based on PDF and website content as of effective date above.
+
+================================================================================
+OVERVIEW
+================================================================================
+
+Harpenden Building Society is a specialist lender addressing complex incomes and unusual property types. Key features include:
+
+- Loans up to 6× income (subject to affordability)
+- Interest only lending up to £3.5 million at 70% LTV for certain residential cases
+- No upper age limit on borrowers (residential) and manual underwriting of all cases on their merits
+- Lending available for: Residential (owner-occupied), Lending into Retirement, Holiday Lets, Second Homes, Buy-to-Let, Self-Build ranges
+
+================================================================================
+RESIDENTIAL MORTGAGES
+================================================================================
+
+RESIDENTIAL – STANDARD
+--------------------------------------------------------------------------------
+
+| Criteria | Details |
+|----------|---------|
+| **Minimum Loan** | £150,000 |
+| **Maximum Loan** | £1,250,000 |
+| **Maximum LTV** | Up to 75% (for repayment or interest only/part & part) – subject to underwriting; see large loan thresholds below |
+| **Loan Term** | Up to 35 years |
+| **Description** | Loans for house purchase, remortgage or release of equity, where the property will be occupied by the borrower as their primary residence. Up to four applicants may be considered |
+
+RESIDENTIAL – LARGE LOAN
+--------------------------------------------------------------------------------
+
+| Criteria | Details |
+|----------|---------|
+| **Minimum Loan** | £1,250,001 |
+| **Maximum Loan** | £3,500,000 |
+| **Maximum LTV** | - For standard large loans: Repayment 85% / Interest Only 75% / Part & Part 75% for smaller large-loan band<br>- For the larger band (up to £3.5m): Repayment 75% / Interest Only 75% / Part & Part 75% |
+| **Loan Term** | Up to 35 years |
+
+RESIDENTIAL – IN & INTO RETIREMENT
+--------------------------------------------------------------------------------
+
+| Criteria | Details |
+|----------|---------|
+| **Minimum Loan** | £150,000 |
+| **Maximum Loan** | £3,500,000 |
+| **Maximum LTV** | Into Retirement: 75%<br>In Retirement (applicant already retired or >75 years at start): 70% |
+| **Loan Term** | Up to 35 years |
+| **Description** | For applicants where any borrower is already retired or is above age 75 at the start of the mortgage. Property to be owner-occupied by borrower as their primary residence. Up to four applicants considered |
+
+================================================================================
+BUY-TO-LET (BTL) MORTGAGES
+================================================================================
+
+BUY-TO-LET – STANDARD
+--------------------------------------------------------------------------------
+
+| Criteria | Details |
+|----------|---------|
+| **Minimum Loan** | £150,000 |
+| **Maximum Loan** | £2,000,000 |
+| **Maximum LTV** | Up to 75% (Repayment or Interest Only/Part & Part) |
+| **Loan Term** | 1 to 25 years |
+| **Purpose** | Purchase, remortgage or release of equity from property held as an investment in personal names, where the rental income from the property services the loan |
+| **Tenancy Requirements** | Assured shorthold tenancies (minimum six months, maximum three years) |
+| **Property / Applicant Requirements** | - Houses in multiple occupation (HMO) are not accepted<br>- Minimum income of £30,000 or net assets of £500,000<br>- No portfolio landlords (personal names) and property rental cover assessment on holistic basis<br>- Limited appetite for new‐build flats outside local area (South East England), especially in city centres<br>- Max exposure £2m or 5 properties (of which a maximum of 3 are mortgaged) |
+
+================================================================================
+SPECIALIST MORTGAGES
+================================================================================
+
+RESIDENTIAL – SECOND HOME
+--------------------------------------------------------------------------------
+
+| Criteria | Details |
+|----------|---------|
+| **Minimum Loan** | £150,000 |
+| **Maximum Loan** | £1,250,000 |
+| **Maximum LTV** | Repayment up to 75% / Interest Only/Part & Part up to 75% |
+| **Loan Term** | Up to 25 years |
+| **Description** | For holiday homes, second homes or pied-à-terre. Up to four applicants considered |
+
+HOLIDAY LET
+--------------------------------------------------------------------------------
+
+| Criteria | Details |
+|----------|---------|
+| **Minimum Loan** | £1,250,001 |
+| **Maximum Loan** | £2,000,000 |
+| **Maximum LTV** | Interest Only/Part & Part up to 75% |
+| **Loan Term** | 1 to 25 years |
+| **Description** | Property held in personal names used for short-term letting. 90 days personal usage per annum allowed. Airbnb and properties above commercial units considered. Top slicing permitted |
+
+SELF-BUILD
+--------------------------------------------------------------------------------
+
+| Criteria | Details |
+|----------|---------|
+| **Minimum Loan** | £150,000 |
+| **Maximum Loan** | £2,000,000 |
+| **Maximum LTV** | Up to 75% for standard cases; where applicant retired or >75 years at start: up to 70%. Professional project oversight (Architect, QS, Project Manager or experienced contractor) may allow up to 75% LTV |
+| **Loan Term** | 5 to 35 years |
+| **Description & Additional Requirements** | - Small developments only: maximum three properties, one of which to be subsequent main residence<br>- Conversion/refurbishment projects (houses converted into flats or vice-versa) considered<br>- Drawdowns against re-valuations by HBS's valuer<br>- Agreed reductions from plot sales subject to re-valuations<br>- Detailed specification must be provided<br>- Detailed residential planning consent must be granted for new build<br>- Residential development appraisal to be obtained and Society's own solicitor to act |
+
+================================================================================
+INTEREST ONLY REPAYMENT STRATEGY
+================================================================================
+
+The following strategies for interest only can be considered:
+
+SALE OF OWNER-OCCUPIED PROPERTY
+--------------------------------------------------------------------------------
+- Minimum equity: £150,000
+- Maximum LTV: 75%
+
+SALE OF HBS SECURITY PROPERTY (LET/2ND HOME)
+--------------------------------------------------------------------------------
+- Maximum LTV: 75%
+- Only acceptable where the security property is a BTL or Second/Holiday Home
+
+SALE OF ADDITIONAL PROPERTY (NON-HBS SECURITY)
+--------------------------------------------------------------------------------
+- Maximum LTV: 75%
+- Minimum equity on HBS security: £150,000
+- Current equity in additional property must be sufficient to repay HBS mortgage; LTV on additional property under 50% and equity exceeds £150,000; property located in an area with a track record of strong demand/values
+
+OVERPAYMENTS FROM INCOME & BONUSES
+--------------------------------------------------------------------------------
+- Maximum LTV: 75%
+- Minimum equity: £150,000
+
+INVESTMENT
+--------------------------------------------------------------------------------
+- Maximum 70% of current value if a lump sum invested in equities
+- 100% of current value if savings in cash ISA or bank/building society savings account
+- Maximum 70% of projected end value if regular investments/savings for at least the last 12 months
+
+INHERITANCE
+--------------------------------------------------------------------------------
+- Probate already granted
+- Maximum LTV: 75%
+- Minimum equity: £150,000
+
+CONVERT TO REPAYMENT
+--------------------------------------------------------------------------------
+- Minimum equity: £150,000
+- Maximum LTV: 75%
+- Available for Self-Build only
+
+ENDOWMENT
+--------------------------------------------------------------------------------
+- With-profits policy: up to 75% of current surrender value
+- Unit-linked policy: up to 50% of current surrender value
+- Endowment policy within 10 years of maturity
+- Assignment of policy required
+
+PENSION LUMP SUM
+--------------------------------------------------------------------------------
+- Minimum age: 55 years
+- Pension fund minimum value: £500,000
+- Maximum loan: 75% of the allowable lump sum
+
+================================================================================
+INCOME
+================================================================================
+
+Types of income acceptable (subject to evidence):
+
+EMPLOYED APPLICANTS
+--------------------------------------------------------------------------------
+- Three months' payslips and P60
+- Two most recent P60s for any bonus payments, overtime or allowances
+
+SELF-EMPLOYED
+--------------------------------------------------------------------------------
+- Three most recent tax calculations and corresponding HMRC tax overviews OR business accounts for the last three years OR accounts certificate confirming latest trading year (within last 18 months)
+- Business plan / explanation required if business has not been established three years, is developing or results fluctuate
+
+CONTRACTOR
+--------------------------------------------------------------------------------
+- 12 months contracting is usually required but less can be considered if experienced. Minimum three months' contract remaining
+- Affordability based on five days/46 weeks
+
+LENDING INTO RETIREMENT & RETIRED APPLICANTS
+--------------------------------------------------------------------------------
+- Recent pension projections required (for Into Retirement)
+- Pension statement or P60 for each individual pension
+
+MAINTENANCE
+--------------------------------------------------------------------------------
+- Copy of signed Court Order OR six months bank statements demonstrating income, along with letter confirming informal arrangement by the person paying maintenance
+
+INVESTMENT AND SAVINGS INCOME
+--------------------------------------------------------------------------------
+- Three most recent tax calculations & HMRC overviews
+- Savings/investment statements over last 12 months and bank statements for last three months
+
+RENTAL INCOME
+--------------------------------------------------------------------------------
+- Three most recent tax calculations & HMRC overviews
+- Assured Shorthold Tenancy agreement
+
+FUTURE LET
+--------------------------------------------------------------------------------
+- Confirmation from Society's valuer regarding anticipated rental income (for proposed security property)
+- Appraisal letter from local letting agent
+
+TRUST INCOME
+--------------------------------------------------------------------------------
+- Legal document and last three months' bank statements
+
+================================================================================
+AFFORDABILITY
+================================================================================
+
+Income multiples will be used as part of the initial assessment.
+
+Detailed income & expenditure analysis will be carried out once full application is received.
+
+The Society will consider:
+
+- Applicant's income net of income tax & national insurance
+- Committed expenditure, essential expenditure and basic quality-of-living costs
+- Affordability across the term at Society's Stress Test Rate
+- Future changes to income & expenditure
+- Up to four applicants may be considered
+
+================================================================================
+FINANCIAL STATEMENTS / INFORMATION
+================================================================================
+
+CURRENT BANK ACCOUNT
+--------------------------------------------------------------------------------
+- If assets above £500,000: most recent three months bank statements for main account
+- If assets below £500,000: most recent one month bank statement for main account
+
+ASSETS
+--------------------------------------------------------------------------------
+- Savings, investments, ISAs/PEPs, unit/investment trusts/OEICs, shares, pension funds, business assets – recent statement or valuation required
+
+================================================================================
+RESIDENTIAL STATUS
+================================================================================
+
+For tenants: a statement for the last 12 months showing all rental payments is required.
+
+================================================================================
+IMPAIRED CREDIT
+================================================================================
+
+The Society accepts applications for residential owner-occupied mortgages where a credit history exists under certain thresholds.
+
+Examples:
+
+LEVEL 1
+--------------------------------------------------------------------------------
+- Defaults/CCJs combined value up to £2,000 (satisfied at least 12 months)
+
+LEVEL 2
+--------------------------------------------------------------------------------
+- Defaults/CCJs combined value up to £5,000 (satisfied on application)
+
+ARREARS (SECURED & UNSECURED)
+--------------------------------------------------------------------------------
+- Maximum 3 missed payments within last 2 years – no more than 1 loan and must be up to date on application
+
+FOR ALL OTHER PRODUCT AREAS
+--------------------------------------------------------------------------------
+
+The Society generally does not accept applications from:
+
+- Any applicant with CCJs totalling more than £500 in the past three years
+- Any applicant who has had serious arrears (90+ days) on a mortgage or loan in the past two years
+- Any applicant who has been subject to an IVA or Bankruptcy Order in the last three years. Note: After 12 months from discharge, IVA cases may be considered
+- Any applicant who has had a property repossessed within the last six years
+- Any applicant who has had an active payday loan within the last 12 months
+
+================================================================================
+PROPERTY TYPE
+================================================================================
+
+ACCEPTABLE
+--------------------------------------------------------------------------------
+- Conventional construction: brick/tile/stone/slate
+- Flats – converted or purpose built
+
+NOT ACCEPTABLE
+--------------------------------------------------------------------------------
+- Concrete/steel-framed houses, properties where high-alumina cement used, pre-cast reinforced concrete houses designated as defective under Housing Act 1985
+- Freehold studio or bedsit flats
+- Multiple occupancy property (except where specified by product or if HMO) – HMO's not accepted for BTL
+- Houseboats or any property that the Society's valuer does not consider suitable as security
+
+================================================================================
+TENURE
+================================================================================
+
+ACCEPTABLE
+--------------------------------------------------------------------------------
+- Freehold
+- Leasehold (must have at least 50 years remaining at the end of the mortgage term) – check with valuer/solicitor
+- Share of freehold
+
+================================================================================
+DEPOSITS
+================================================================================
+
+- Savings from any source
+- Equity from residential or other properties
+
+GIFTED DEPOSIT
+--------------------------------------------------------------------------------
+- Up-to-date savings statements
+- From immediate family
+- Letter from solicitor confirming amount
+- Written confirmation of the gift
+
+================================================================================
+ADDITIONAL BORROWING
+================================================================================
+
+Available across multiple purposes:
+
+- Residential owner-occupied
+- Buy to Let
+- Corporate Let
+- Let to Buy / Consumer BTL
+- Residential Development / Self Build
+
+================================================================================
+SOLICITORS
+================================================================================
+
+If a borrower wishes to use a firm with fewer than three principals, the Society will instruct its own solicitors to act on its behalf. For all Self-Build applications the Society's solicitors will act on its behalf.
+
+================================================================================
+CONTACT INFORMATION
+================================================================================
+
+BUSINESS DEVELOPMENT TEAM
+--------------------------------------------------------------------------------
+
+**Telephone:** 01582 463133 – Option 1
+
+**Email:** brokerteam@harpendenbs.co.uk
+
+**Team Members:**
+- Jean Errington – Business Development Manager
+- Chelsea Pordage – Business Development Manager
+- Vanessa Hunt – Key Account Manager
+
+MORTGAGE PROCESSING TEAM
+--------------------------------------------------------------------------------
+
+**Direct Line:** 01582 463133
+
+**Email:** newbusiness@harpendenbs.co.uk
+
+**Address:**
+Mardall House, 9-11 Vaughan Road, Harpenden, Hertfordshire AL5 4HU
+
+**Head Office:**
+Same address. Tel: 01582 765411. Email: brokerteam@harpendenbs.co.uk. Website: www.harpendenbs.co.uk
+
+================================================================================
+IMPORTANT NOTES
+================================================================================
+
+This document reflects the Society's current approach to mortgage lending (as at Effective Date above).
+
+The document is available on the Society's website.
+
+All applications remain subject to the Society's full manual underwriting and credit search, which may result in an application being declined even if it meets the stated criteria.
+
+**Regulatory Information:**
+Authorised by the Prudential Regulation Authority (PRA) and regulated by the Financial Conduct Authority (FCA) and PRA. Firm Reference Number: 157260.
+
+Mortgage products are regulated by the FCA except Buy-to-Lets (excluding CBTL) and development to sell/let.
+
+================================================================================

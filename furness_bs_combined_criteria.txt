@@ -1,0 +1,724 @@
+LENDER NAME: Furness Building Society
+PRODUCT: Combined
+
+================================================================================
+FURNESS BUILDING SOCIETY - COMBINED LENDING CRITERIA
+================================================================================
+
+Source:
+- Main Lending Criteria: https://www.furnessbs.co.uk/intermediaries/lending-criteria
+- Buy-to-Let Mortgages: https://www.furnessbs.co.uk/intermediaries/buy-to-let-mortgages
+
+Note: This document is for intermediary use only. The content on this website is for Mortgage Professionals only.
+
+Last Verified: Based on website content as of the file creation date
+
+================================================================================
+TABLE OF CONTENTS
+================================================================================
+
+GENERAL CRITERIA (APPLIES TO BOTH RESIDENTIAL AND BTL)
+1. Interim criteria
+2. Acceptable property types
+3. Acceptable income
+4. Acceptable Deposits
+5. Acceptable warranty providers
+6. Adverse Credit History
+7. Affordability calculator
+8. Age of applicants
+9. Capital raising
+10. Concessionary Purchases/Gifted Equity
+11. Contractors
+12. Debt consolidation
+13. Fixed term contracts
+14. Geographical Restrictions
+15. Heartland definition
+16. Help to Buy – repaying the HTB loan in full
+17. Interest-only and repayment types
+18. Joint Borrower Sole Proprietor
+19. Lending criteria where loan exceeds 80% LTV
+20. Lending into retirement
+21. Loan to income
+22. LTV and maximum loan sizes
+23. LTV by Property Type
+24. Maternity/Paternity Leave
+25. Minimum and maximum term
+26. Modern Methods of Construction
+27. New Build Incentives
+28. Own New Scheme
+29. Payday Loans
+30. Probation periods
+31. Residency
+32. Right to Buy/Right to Acquire
+33. Section 106/Affordable Housing
+34. Self Build Mortgages
+35. Self-employed income
+36. Short-term lending
+37. Stepped Rates/What are Stepped Rates?
+38. Valuation fees
+
+BUY TO LET SPECIFIC CRITERIA
+39. Buy to Let Definitions Guide
+40. Buy-to-Let/Consumer Buy-to-Let
+41. Capital Raising - Buy to Let/Holiday Let
+42. Holiday-Let criteria (England, Scotland and Wales)
+43. Holiday-Let criteria (Scotland)
+44. Portfolio landlords
+45. Regulated Buy-to-Let
+
+CONTACT INFORMATION
+46. Get in touch
+
+================================================================================
+GENERAL CRITERIA (APPLIES TO BOTH RESIDENTIAL AND BTL)
+================================================================================
+
+INTERIM CRITERIA
+--------------------------------------------------------------------------------
+
+Income criteria changes and pipeline update
+
+Employed applicants
+- Now that the furlough scheme has ended we will consider applicants who have been on furlough provided that they have been back in full time employment for at least 1 full month.
+
+Self-employed applicants
+- For self-employed applicants, those who can prove consistent and sustainable profit throughout 2020 and 2021, will be assessed in line with our standard self employed criteria. If the Society deems a business has been (or is likely to be) adversely affected by Covid-19, we reserve the right to reduce the assessable income used.
+- We will require 3 months of business bank account statements in addition to our usual supporting document requirements for all self-employed applicants. Management accounts may also be requested if deemed necessary.
+
+Pipeline applications - pre-offer
+We will contact brokers to confirm the following:
+- The applicant still wishes to proceed with their mortgage application.
+- If there has been a significant change in the customer(s) income since the submission of the application. If there has been a significant change we will request confirmation of the relevant details.
+
+Pipeline applications - post offer
+- If the applicant has received an offer from the Society we will not proactively request information about any changes in customer's circumstances, however, if there are any significant changes then we would request that we are notified to ensure we continue to lend responsibly.
+
+ACCEPTABLE PROPERTY TYPES
+--------------------------------------------------------------------------------
+
+We accept the following:
+- Freehold/leasehold houses
+- Leasehold flats
+- New build houses
+- Modern methods of construction
+- Ex-local authority houses
+- Buy-to-Let and Holiday-let properties
+- Holiday/second residential homes
+
+We don't accept:
+- Freehold flats
+- Ex-local authority flats
+- Tower block flats
+- Land for rent
+- Properties of non-standard construction
+- Properties that fall under 'House of Multiple Occupation' legislation
+- Commercial properties
+- Student letting properties
+- Properties defined as being of defective construction
+- Properties where the element of flying freehold is over 20%
+- Ground rent which exceeds £250pa (£1000pa in London) or is 'escalating'
+
+On referral we will consider:
+- New build flats
+- Flat roofed properties (subject to valuer comments)
+- Flats above commercial (no food/hospitality related business)
+
+If you are not sure whether we will consider the type of property in question, please contact us on 0800 988 1561 or email furness.intermediaries@furness-bs.co.uk.
+
+ACCEPTABLE INCOME
+--------------------------------------------------------------------------------
+
+| Income Type | Percentage Accepted |
+|---|---|
+| Basic Salary | 100% |
+| Regular guaranteed bonus, regular allowances eg. shift, car, housing, London allowance | 100% |
+| Regular non-guaranteed additional income eg. overtime, bonus, commission, shift enhancements | 50% |
+| Working/Child Tax Credits (child under 12 years) | 50% |
+| Pension – state, personal, occupational scheme | 100% |
+| SIPP's (even if undrawn, applicant must be 55 years plus) | 5% of the fund value per annum |
+| Profit from unencumbered background buy to let/holiday lets (minimum of 2 years tax returns) | 50% |
+| Maintenance (by court order – child under 12 years) | 50% (non court ordered maintenance may be considered on referral) |
+| Income from second jobs | On referral |
+| Universal Credit/Child Benefit | Not acceptable |
+| Zero hours contracts | Not acceptable |
+| Foster Carer Income | Not acceptable |
+| Bursary/Stipend Income | Not acceptable |
+
+ACCEPTABLE DEPOSITS
+--------------------------------------------------------------------------------
+
+- Deposits are acceptable from savings, equity or gift from close family.
+- Where the deposit is a gift from a close family member it must be from the UK and not repayable.
+- We may consider deposits raised via dividends taken from retained profit in a Ltd Company as long as the applicant has 100% shareholding and the accounts show sufficient funds are available and withdrawing the funds will not be detrimental to the business as confirmed by the accountant.
+- Directors loans are not acceptable for a deposit.
+
+ACCEPTABLE WARRANTY PROVIDERS
+--------------------------------------------------------------------------------
+
+Furness will accept the following warranties in lieu of certification by a professional consultant (Architect, etc):
+- NHBC certificate
+- Premier Guarantee
+- Build zone
+- LABC New Home Warranty, (only in respect of individual new-build houses, NOT larger developments of houses or blocks of flats).
+- Checkmate
+- Protek
+- ICW
+- Advantage (ACHI)
+- Suitably qualified professional consultants certificate (PCC). Consultant must have professional indemnity insurance with a minimum limit of £1 million and should have one of the qualifications below:
+  - RIBA
+  - M/FRICS
+  - MCIAT
+  - MCABE FCABE
+  - MICE/FICE
+  - MIStructE Or FI StructE
+
+ADVERSE CREDIT HISTORY
+--------------------------------------------------------------------------------
+
+We won't consider applications from applicants who have in the past 3 years:
+- CCJ's or defaults totalling more than £500
+- Subject to an IVA, DMP or bankruptcy order
+- More than 1 instance of a status 3 on an unsecured credit agreement or more than 5 instances of a status 1 on an unsecured credit agreement
+- Have any unsatisfied CCJ's or defaults
+- More than 1 missed/late mortgage or secured loan payment
+
+CCJ's and defaults in isolation and under £150 may be considered on referral – contact the BDM team 0800 988 1561 option 1.
+
+AFFORDABILITY CALCULATOR
+--------------------------------------------------------------------------------
+
+Please note the following:
+- Our affordability calculator will assess affordability of the case purely based on the information you input.
+- The Society does not use an automated affordability model.
+- All applications are manually underwritten by our experienced underwriters.
+- 3 months bank statements must be supplied with the application.
+- The stated expenditure will be reviewed in conjunction with the bank statements and /or with statistical data as appropriate.
+- Where the stated expenditure does not reflect that shown on the bank statements or appears otherwise unrealistic you will be asked to submit revised expenditure details.
+- A case will be declined where affordability cannot be proven based on realistic expenditure.
+
+You are strongly recommended to thoroughly verify the stated expenditure as delays may occur or the case may be declined where the information provided is deemed inaccurate.
+
+AGE OF APPLICANTS
+--------------------------------------------------------------------------------
+
+- The minimum age is 18. The mortgage term should end before the eldest applicant reaches their 80th birthday.
+- However, where the term exceeds either of the borrowers expected retirement age or 70 years, whichever is the soonest, evidence of retirement income must be provided. Affordability will be based on the retirement income alone
+- If your client is already retired the maximum LTV we can consider is 70%.
+- If the mortgage term takes the applicant(s) into retirement then the maximum LTV we can consider is 80%.
+- This is based on the oldest applicant's age on their next birthday.
+
+CAPITAL RAISING
+--------------------------------------------------------------------------------
+
+We will consider a number of reasons for capital raising including:
+- Home improvements
+- Further education fees
+- Purchase of other properties (residential, buy to let, holiday let) must be a simultaneous completion
+- Holidays
+- New car
+- Debt consolidation - max £40K - see separate criteria for this
+- Purchase of equity following divorce/separation
+- Assist close family with deposit funds for a property purchase
+
+We will not consider capital raising for payment of a tax bill or for business purposes or to replace cash savings or gifts
+
+CONCESSIONARY PURCHASES/GIFTED EQUITY
+--------------------------------------------------------------------------------
+
+- We will accept concessionary purchases (below market value) or gifted equity (full market value with the equity as the deposit).
+- Must be from close family or landlord.
+- The discount must be a true gift and not subject to repayment, retained interest or future clawback provision.
+- If between a tenant and a landlord then the tenant must have rented the property for at least 12 months under an AST.
+
+CONTRACTORS
+--------------------------------------------------------------------------------
+
+When assessing cases for contract workers the following criteria will apply:
+- For new employers, the contract must be for a minimum period of 12 months and have at least 6 months remaining at the time of application.
+- For existing employers, the current contract must have been renewed at least once and have at least 6 months remaining at the time of application.
+- The maximum LTV will be 80%.
+- Full details of the applicants work history for the previous 2 years should be provided (this could be in the form of a CV). The applicant must have been in the same type of employment for the past 2 years.
+- Copies of contract(s) covering the last 2 years must be provided and must not show any significant breaks in employment.
+- A previous employer's reference will be requested if the applicant has been employed (PAYE) within the last 2 years.
+- The Society's standard income criteria will be used to assess the applicants' income. Day rate x5 x46 = annual income.
+
+DEBT CONSOLIDATION
+--------------------------------------------------------------------------------
+
+- The maximum amount that will be considered for debt consolidation is £40,000.
+- The maximum overall LTV is 80%.
+
+FIXED TERM CONTRACTS
+--------------------------------------------------------------------------------
+
+- Applicants who are on fixed term contracts within professional occupations (doctors, solicitors, teachers etc) are generally acceptable – provided they can evidence a 2 year track record in the same line of work. The current contract should have at least 6 months remaining – unless employer confirmation has been obtained that indicates the contract will be renewed for a period not less than 6 months.
+- Applicants working in other occupations/fields of work – or who cannot evidence the required track record - should be referred to a Senior Underwriter– so that the case can be assessed on its individual merits.
+- Applications over 80% will need to be referred to and agreed by the Society's mortgage indemnity insurers - or a Senior Underwriter under delegated approval authority.
+
+GEOGRAPHICAL RESTRICTIONS
+--------------------------------------------------------------------------------
+
+- We will consider lending in England, Wales and mainland Scotland
+- Accepted Islands: Anglesey (Wales), Isle of Wight (England), Isle of Skye (Scotland)
+- Re-types are accepted on purchases in Scotland. Re-types need to be arranged through our panel valuers.
+
+Acceptable re-type firms are:
+- DM Hall
+- J & E Shepherd
+- David Adamson & Partners Ltd
+- Dixon Heaney Keen Kennedy Ltd
+- Hardies LLP
+- Samuel & Partners
+- SJ Omand Chartered Surveyors
+
+HEARTLAND DEFINITION
+--------------------------------------------------------------------------------
+
+- The Society's 'Heartland' covers postcodes LA, CA, PR and FY. We have specific products available to these areas.
+
+HELP TO BUY – REPAYING THE HTB LOAN IN FULL
+--------------------------------------------------------------------------------
+
+Are your clients repaying their HTB loan in full?
+
+Here's what your clients need to know:
+
+1. Get a surveyor's valuation report – this must be from a RICS certified surveyor and is payable by the clients themselves and must be sent to HTB customer services within 5 working days of the survey date.
+
+There is criteria for the survey:
+- Surveyor must be RICS qualified and registered and MRICS or FRICS
+- Be independent of any estate agent
+- Not be related or known to you
+- Inspect the inside of the property
+- Provide at least 3 comparable properties and sale prices within the last 12 months – they must be like for like homes in type, size, age and within 2 miles of the property that is being inspected
+- Provide bespoke market commentary and reference how the comparable properties provided justify the determination of market value
+
+2. Find a conveyancer and instruct them – we have a large solicitor panel and to find out if they are on this please call 0800 988 1561 option 2.
+
+3. Complete the Equity Loan Repayment Application Form – available on www.gov.uk
+
+4. Pay the administration fee of £200 via HTB customer services by bank transfer, online, debit card or cheque
+
+5. Receive a redemption letter – this will be issued when HTB customer services have received:
+- The RICS valuation report
+- The completed application form
+- The administration fee of £200
+
+**IMPORTANT**
+
+Please also note that even though your clients require an independent RICS valuation we will conduct our own survey/valuation and will be guided by this only as a lender.
+
+INTEREST-ONLY AND REPAYMENT TYPES
+--------------------------------------------------------------------------------
+
+We will accept:
+- Capital and Interest.
+- Interest-only (see repayment strategies below).
+- Part C&I and part interest-only (using interest-only repayment strategies below).
+
+Owner-occupied residential interest-only mortgages: Standard repayment strategies
+For repayment vehicles with regular premium endowment policy or equity PEP/ISA:
+- The maximum LTV is 70%.
+- The repayment strategy must have been established for at least 3 years.
+- Satisfactory evidence of the repayment strategy must be provided e.g. statement/projection of the maturity value at the end of the proposed mortgage term.
+
+The applicants should confirm that the proposed repayment strategy is on track by indicating on the application form.
+
+Owner-occupied residential interest-only mortgages: "Non-standard" repayment strategies
+Potentially suitable "non-standard" repayment strategies are:
+- Sale of other properties
+- Collective investments
+- Downsizing
+- Use of a pension fund
+- The maximum LTV is 60%
+
+Satisfactory evidence of the repayment strategy must be provided as follows:
+- Collective investments – the most recent investment statement must be provided and the plan must have been established for at least 3 years.
+- Sale of other properties - the applicant must confirm the full address and postcode and satisfactory evidence of the current property value. Satisfactory evidence may be a recent or historic valuation of the property relating to the original purchase. The current value of the property to be used as a repayment strategy should be at least equal to the balance of the proposed interest-only mortgage.
+- Sale of other land - by referral.
+- Sale of subject property (downsizing) - The applicants must demonstrate that a suitable property is in their target market to enable them to downsize. The minimum equity required at the time of application is £300,000 – unless the property is located in the Society's Heartland, where the minimum equity requirement is £225,000. The 'Heartland' is located in the Lake District and Northwest, postcodes included in this definition are CA, LA, FY, PR. **The maximum age for an applicant(s) is 69 years using this strategy.**
+- Use of pension scheme lump sum. The pension plan must have been in place for at least 10 years at the time of application (or suitable evidence supplied that the previous pension plans were in place during this time). A projection of the value of the pension plan must be provided and it must equate to at least four times the mortgage amount based on the low projection rate.
+
+A statement of Assets and Liabilities must be provided by the applicant in order that the reasonability of the strategy can be ascertained.
+
+JOINT BORROWER SOLE PROPRIETOR
+--------------------------------------------------------------------------------
+
+- The Society can offer mortgages on a Joint Borrower Sole Proprietor basis where one of the joint borrowers is not going to be a co-owner, ie. they will not be named on the title deeds. This is usually where a parent(s) wishes to assist a child purchasing a home, siblings will be considered on referral.
+- All applications will need to meet the Society's current lending criteria.
+
+It is important that applicants are fully aware of the following important additional requirements:
+- **The supporting borrower will need to seek separate and independent legal advice as part of the conveyancing process.**
+- **All borrowers must sign the mortgage deed.**
+- **Release of one of the borrowers from the mortgage will require approval from the Society and be based on the mortgage being affordable by the remaining parties. Any legal costs incurred will be the responsibility of the borrowers.**
+- **The supporting borrower cannot reside in the property.**
+- **We expect the supporting borrower to have a minimum income of £50,000 pa**
+
+LENDING CRITERIA WHERE LOAN EXCEEDS 80% LTV
+--------------------------------------------------------------------------------
+
+- Repayment basis only.
+- Evidence of address history to be provided for the last three years residence (unless on Voters Roll for 3 years).
+- 3 months bank statements – never exceeded overdraft limit/ no returned items.
+- Permanent employment 6 months with the same employer (both applicants).
+- Previous two years' employment history should be declared
+- Last 12 months employment history proven
+- Unencumbered deposit. We will also accept gifted deposits from immediate family ie the borrower's spouse, civil partner, parents, grandparents, siblings, children and grandchildren. It must be confirmed that the funds are a genuine gift and non-repayable.
+- Self-employed – 2 years accounts – not more than 12 months old, Sole trader/partner applicants may produce 2 years SA302 tax assessments and corresponding tax overview documents to evidence income, providing the income evidenced is stable or rising.
+
+LENDING INTO RETIREMENT
+--------------------------------------------------------------------------------
+
+- Where the term exceeds either of the borrowers expected retirement age or 70 years old, whichever is the soonest, evidence of retirement income must be provided.
+- If your client is already retired the maximum loan to value we can consider is 70%. If the mortgage term will end after your client's retirement age, the maximum loan to value we can consider is 80%. This is based on the oldest applicant's age.
+
+LOAN TO INCOME
+--------------------------------------------------------------------------------
+
+- The maximum loan is normally 4.5 x the borrowers' total income less the annual cost of any credit commitments on loans up to 95% LTV. All applications are subject to an affordability assessment.
+
+LTV AND MAXIMUM LOAN SIZES
+--------------------------------------------------------------------------------
+
+- We accept up to 95% LTV across mainland England, Wales and Scotland, on Islands connected to the mainland by a bridge and on the Isle of Wight.
+- Minimum loan £30,000
+- Maximum loan £1,000,000 (higher by negotiation)
+
+Maximum loan limits are subject to the following LTV brackets:
+- Max LTV of 95% loans up to £500k
+- Max LTV of 90% loans up to £750k
+- Max LTV of 80% loans up to £800k
+- Max LTV of 70% loans up to £900k
+- Max LTV of 65% loans up to £1m
+
+LTV BY PROPERTY TYPE
+--------------------------------------------------------------------------------
+
+| Acceptable Security Type | Maximum LTV |
+|---|---|
+| Private dwelling houses | 95% |
+| New build houses | 95% |
+| Purpose-built flats/masionettes (up to 4 storeys) | 90% |
+| Converted flats/maisonettes and Heritable flats in Scotland (up to 4 storeys) | 80% |
+| New build flats (non-city centre) | 75% |
+| New build city centre flats - considered on referral only | 75% |
+| Second residential/holiday homes for personal use | 75% |
+| Buy to Let | 80% (Portfolio landlords max is 75%) |
+| Holiday Lets | 75% |
+| Short term lending | 60% |
+
+Additional information:
+- Flats should have a minimum internal floor area of 35 sq. metres (Houses and Bungalows 50 sq. metres). Studio flats are not acceptable.
+- Flats/maisonettes with uncontrolled deck access are not acceptable
+- Properties with flat roofs will be subject to a satisfactory valuation. A mortgage condition confirming adequate management/maintenance may also be needed.
+- Definition of New Build: Constructed less than 3 years earlier or previously unoccupied
+- Leasehold requirement: Remaining lease term should be 85 years at commencement of the mortgage and/or 55 years at the end of the mortgage term
+- Acreage guidance: Residential: 5 acres maximum. Holiday Lets/BTL: 2 acres maximum
+
+MATERNITY/PATERNITY LEAVE
+--------------------------------------------------------------------------------
+
+We generally accept applicants who are on maternity leave subject to the following:
+- In all cases a 'Return to work' letter is required which must confirm the expected return to work date, the terms on which the applicant will return confirming if the hours and pay will change.
+- If we are being asked to base our assessment on the return to work income then we will require a copy of the original employer letter to the applicant which confirms a breakdown of the income during the leave period and proof of background savings to cover any shortfall of income during this time.
+- If the above cannot be provided then affordability will be based on SMP/SPP only.
+- Sole applications and where the return to work is more than 26 weeks away should be referred to the BDM team.
+- Future child care costs must be factored in to affordability.
+
+MINIMUM AND MAXIMUM TERM
+--------------------------------------------------------------------------------
+
+- Minimum 5 years and maximum of 40 years
+- Must be repaid by oldest applicants 80th birthday (see age section above if either applicants' age exceeds the stated retirement age or age 70 years). Note, we use the age next birthday.
+
+MODERN METHODS OF CONSTRUCTION
+--------------------------------------------------------------------------------
+
+We will consider properties constructed using MMC - in addition to traditional methods of construction. The following construction types are generally considered acceptable – subject to the valuer confirming the security to be readily saleable and mortgageable via the valuation report.
+- Traditional cavity wall – brick/block/stone
+- Modern timber frame – with outer skin of either brick/block, brick slip, modern render board (minimum 50% masonry required), timber cladding (minimum 50% masonry required)
+- Green oak frame – outer skin as above
+- Modern steel frame (post 1989) – must carry a suitable Agrement Board Certificate and any relevant new build guarantees
+- Pitched roof – slate/tile/metal (usually Zinc or Steel)/thatch
+- Flat roof – metal (usually Zinc, Copper, Steel)
+
+NEW BUILD INCENTIVES
+--------------------------------------------------------------------------------
+
+- We allow Builders gifted deposits up to 5% of the purchase price – the applicant(s) must also contribute 5% as a deposit from savings or close family gift. Maximum LTV is 90% where a BGD is involved.
+- Other financial incentives (cashbacks, stamp duty, legal costs) are allowed up to 5% of the purchase price and the maximum LTV is 95% (houses only).
+
+OWN NEW SCHEME
+--------------------------------------------------------------------------------
+
+- We have launched a new range of products within the 'Own New' scheme, designed to help both first time buyers and existing homeowners purchase a new property with a reduced interest rate.
+- The rate is reduced as the developer pays 'Own New' an incentive, for example 5% of a property value. This is then paid to us – and in return – a reduced rate (over the initial product term) is provided to the customer.
+- We have specific products available for 'Own New' and they can only be used for new build properties on specific 'Own New' sites. All brokers must be registered with 'Own New' and approved to advise on this scheme.
+
+PAYDAY LOANS
+--------------------------------------------------------------------------------
+
+We will consider applicants who have used payday loan facilities:
+- None are allowed within the last 12 months
+- A maximum of 2 in the last 3 years
+- The use of payday loans are viewed in relation to the overall credit history of the applicant and the affordability of the application.
+
+PROBATION PERIODS
+--------------------------------------------------------------------------------
+
+- The Society will consider applicants currently in a probationary period – provided an acceptable track record can be established. The applicant would need to have been with their previous employer for at least 12 months. There must with no gap between positions - and both the new and previous role must be in the same line of work. Previous income/employment would need to be evidenced.
+- Basic income should only be used for income multiples and affordability.
+- Minimum income £20,000.
+- For applicants employed within the Police Force – with a 2 year probationary period – we can consider provided they are at least 12 months into the role.
+
+The following should be referred to a Senior Underwriter:
+- Applications over 80% LTV
+- Where an applicant has been in their new role for less than 3 months
+
+RESIDENCY
+--------------------------------------------------------------------------------
+
+- We require all applicants to have permanent right to reside in the UK. For EU Nationals, applicants must have been resident in the UK for a minimum of 5 years and have fully settled status.
+
+RIGHT TO BUY/RIGHT TO ACQUIRE
+--------------------------------------------------------------------------------
+
+- We consider both Right to Buy and Right to Acquire applications (houses only).
+- We will lend up to 100% of the discounted purchase price.
+- The mortgage applicants must be named on the Right to Buy Notice (Section 125)
+
+SECTION 106/AFFORDABLE HOUSING
+--------------------------------------------------------------------------------
+
+- We consider Section 106 and Affordable Housing applications on a residential basis only.
+- We require sight of the deed that details the occupancy restrictions and eligibility criteria to ensure this is not too onerous and a Mortgagee in Possession clause and Mortgagee Protection clause is stated on the deed.
+
+SELF BUILD MORTGAGES
+--------------------------------------------------------------------------------
+
+- We offer self build and renovation mortgages through our partner, Buildstore/Buildloan. Please contact them on 0345 223 4447 enquiries@buildloan.co.uk
+- We don't offer self build mortgages directly.
+
+SELF-EMPLOYED INCOME
+--------------------------------------------------------------------------------
+
+- Limited Company Directors – we will assess on share of profit before taxation plus salary. Must be above 25% shareholding (below this we will class as 'employed').
+- We require 2 years full accounts, the latest year no more than 12 months old.
+- Sole Traders – income to be evidenced by 2 years full accounts or 2 years SA302 tax statements and tax overviews.
+- Partnerships – income to be evidenced by 2 years full accounts or 2 years SA302 tax statements and tax overviews
+- LLP's – income to be evidenced by 2 years full accounts or 2 years SA302 tax statements.
+- We use the net monthly income for affordability using https://listentotaxman.com
+
+SHORT-TERM LENDING
+--------------------------------------------------------------------------------
+
+- This product is designed for applicants who wish to facilitate a purchase before their existing home is sold, other similar scenarios considered but not where development finance or commercial lending would be more appropriate
+- Available for mortgages that will be repaid within 2 years, the maximum term is therefore 2 years. The product is ERC free.
+- If interest only is required, a satisfactory repayment strategy must be in place. For short-term lending products sale of property may be an acceptable strategy. Please refer to the "Repayments Types" criteria for further information on acceptable repayment strategies.
+- The Society's standard lending criteria will apply including a full affordability assessment.
+- Short-term lending products are standard mortgage products. Monthly repayments will be required throughout the term of the mortgage - interest will not be rolled up. Repayments are available on the capital and interest repayment basis or interest only subject to an acceptable repayment strategy (see above).
+- Maximum LTV is 60% - cross charging may be an option, speak to a BDM about this
+- Affordability must be proven taking into account all household expenditure and 2 households if applicable.
+
+STEPPED RATES/WHAT ARE STEPPED RATES?
+--------------------------------------------------------------------------------
+
+- As of Friday 26th May, the structure of the Society's 2 year and 3 year new lending products has changed. They will no longer immediately revert to the Society's Mortgage Variable Rate (MVR), after the initial rate ends. Instead, following the initial rate, the products will now have a variable period at MVR minus 1.49% before reverting to MVR 5 years after the start of the mortgage.
+- Retention products and 5 year fixed rates remain unchanged.
+
+VALUATION FEES
+--------------------------------------------------------------------------------
+
+| Purchase price not exceeding | Mortgage Valuation Report | Home Buyers Report | Building Survey |
+|---|---|---|---|
+| £50,000 | £135 | £380 | £655.80 |
+| £100,000 | £155 | £380 | £655.80 |
+| £150,000 | £185 | £435 | £721.80 |
+| £200,000 | £220 | £495 | £784.20 |
+| £250,000 | £250 | £570 | £845.40 |
+| £300,000 | £275 | £620 | £875.40 |
+| £350,000 | £300 | £680 | £943.80 |
+| £400,000 | £325 | £745 | £937.80 |
+| £450,000 | £360 | £810 | £1,044.60 |
+| £500,000 | £395 | £885 | £1,073.40 |
+| £600,000 | £505 | £910 | £1,193.40 |
+| £700,000 | £580 | £950 | £1,307.40 |
+| £800,000 | £655 | £1,030 | £1,423.80 |
+| £900,000 | £720 | £1,105 | £1,539.00 |
+| £1,000,000 | £805 | £1,280 | £1,666.20 |
+| £1,200,000 | £970 | £1,485 | £2,124.60 |
+| £1,400,000 | £1,125 | £1,680 | £2,225.40 |
+| £1,600,000 | £1,255 | £1,870 | £2,659.80 |
+| £1,800,000 | £1,405 | £2,060 | £2,766.60 |
+| £2,000,000 | £1,555 | £2,255 | £2,823.00 |
+| £2,200,000 | £1,705 | £2,450 | |
+| £2,400,000 | £1,855 | £2,645 | |
+| £2,600,000 | £2,000 | £2,835 | |
+| £2,800,000 | £2,155 | £3,030 | |
+| £3,000,000 | £2,300 | £3,225 | |
+
+**Please note that there is a free valuation package available on standard remortgages. This includes a basic valuation up to a maximum fee of £2,300 or £3m value.**
+
+================================================================================
+BUY TO LET SPECIFIC CRITERIA
+================================================================================
+
+BUY TO LET DEFINITIONS GUIDE
+--------------------------------------------------------------------------------
+
+**Unregulated BTL** - a property bought with the intention to let under an AST. AST must be between the tenant and landlord (applicant) and a minimum of 6 months, maximum 12 months.
+
+**Consumer BTL** - a property that was once the applicants own residence or an inherited property where the primary intention was not to let the property on an AST 'accidental landlords'.
+- Exception to above - where the property has been let under an AST for 12 months minimum or where the applicant owns background buy to let/holiday let property – in these cases we would class as an 'unregulated' BTL.
+
+**Regulated (family) BTL** - a property let to a close family member – parent, grandparent, sibling, grandchild, child – other family members such as cousins etc do not qualify and in these cases we would class as an 'unregulated' BTL. No rental income, even if paid, will be factored in to our affordability assessment.
+
+BUY-TO-LET/CONSUMER BUY-TO-LET
+--------------------------------------------------------------------------------
+
+All applications are fully assessed with a focus on affordability, based on the applicant's full financial circumstances and also taking into account letting costs, taxation of rental profits and their own personal income and expenditure including any other mortgages held.
+
+**Important:** We do not apply an Interest Coverage Calculation (ICR) when assessing a new Buy-to-Let application, although the gross anticipated rent should be at least 125% of the interest charges at the initial pay rate.
+
+- Assessment of overall affordability is based on ALL mortgages (both current and proposed).
+- The rent achievable/received must be at least 125% of the mortgage payment at the pay/product rate
+- Buy-to-Let mortgages are considered on properties in mainland UK.
+- The maximum LTV is 80% subject to product limit (must include fees).
+- Interest-only and capital and interest will be considered.
+- The minimum mortgage amount is £50,000 (refer for lower amounts).
+- The minimum valuation for Buy-to-Let mortgages is £75,000.
+- Please note that we do not accept applications that include Debt Consolidation for Buy-to-Let remortgages.
+- Minimum EPC rating must be 'C' for 80% LTV applications
+
+**The following criteria should be met:**
+- The application form should be fully completed and all information and evidence should be obtained in the same way as a residential mortgage application.
+- The applicant(s) must have a total earned income of at least £20,000 pa.
+- The applicant(s) should own and occupy their own home. There are limited exceptions to this subject to a referral to the BDM team on 0800 988 1561.
+- Any other mortgage payments e.g. residential mortgage should be included as outgoings on the budget planner.
+- The security will be valued on a vacant possession basis.
+- The Society will only accept properties that are let, or are to be let on an Assured Shorthold Tenancy of between six and twelve months duration.
+- A statement of Assets and Liabilities is required.
+- 3 months of satisfactory bank statements are required.
+- If there are other existing Buy-to-Let properties, we will require:
+  - Copies of the current Tenancy Agreements.
+  - Latest annual mortgage statements.
+- Applications will be accepted on new-build flats subject to valuer comments on the block in which they are located. All applications on new-build flats are subject to referral to a senior underwriter.
+- There may be occasions where the applicant's overall indebtedness is considered too high based on their financial circumstances.
+
+CAPITAL RAISING - BUY TO LET/HOLIDAY LET
+--------------------------------------------------------------------------------
+
+**We will allow capital raising for:**
+- Home improvements
+- Purchase of property (simultaneous completion)
+- Repayment of bridging loan used to purchase the property
+
+**We will not lend for:**
+- Debt consolidation
+- Repaying relatives/friends or replacing savings/cash
+
+HOLIDAY-LET CRITERIA (ENGLAND, SCOTLAND AND WALES)
+--------------------------------------------------------------------------------
+
+**Important for Holiday Lets in Scotland.** Please note that the Society is currently unable to accept purchase applications for Holiday Let properties in Scotland. Remortgage applications can be taken but a copy of the Short Term Letting Licence needs to be provided at application (prior to offer) as part of our supporting document requirements.
+
+- Maximum LTV 75%.
+- Interest-only or repayment basis considered.
+- The applicants must own their own home.
+- Rent received must be at least 125% of the monthly mortgage payment at the initial product pay rate, using a holiday let rental assessment.
+- Total applicants' earned income should be at least £30,000.
+- Applications are underwritten on a "full status" basis.
+- Affordability fully assessed using net earned income plus 50% of actual /anticipated gross rent (either actual amount received or anticipated rent as advised by a specialised Holiday-Let agent) less all personal outgoings and the proposed new mortgage payment including an allowance for rate rises.
+- Maximum of 4 Holiday-Let mortgages per borrower.
+- Where the applicant also holds Buy-to-Let properties, the maximum permitted exposure with the Society will be £750,000 and 5 properties and in total 10 properties and £2m (including any exposure with the Society).
+- 3 months satisfactory bank statements to be provided.
+- A satisfactory statement of Assets & Liabilities to be provided.
+- Available mainland UK including Scotland and the Isle of Skye.
+- Minimum valuation £125,000.
+- Minimum advance £50,000.
+- No occupancy restrictions to apply to the security property, no holiday parks or developments. Maximum 2 acres of and 6 bedrooms.
+- Applicants can have up to 90 days personal use each year.
+- Must have a minimum EPC rating of 'E'
+
+HOLIDAY-LET CRITERIA (SCOTLAND)
+--------------------------------------------------------------------------------
+
+**Important for Holiday Lets in Scotland.** Please note that the Society is currently unable to accept purchase applications for Holiday Let properties in Scotland. Remortgage applications can be taken but a copy of the **Short Term Letting Licence** needs to be provided at application (prior to offer) as part of our supporting document requirements.
+
+- Maximum LTV 75%.
+- Interest-only or repayment basis considered.
+- The applicants must own their own home. Rent must be at least 125% of the interest payable at the initial product pay rate.
+- Total applicants' earned income should be at least £30,000.
+- Applications are underwritten on a "full status" basis.
+- Affordability fully assessed using net earned income plus 50% of actual /anticipated gross rent (either actual amount received or anticipated rent as advised by a specialised Holiday-Let agent) less all personal outgoings and the proposed new mortgage payment including an allowance for rate rises.
+- Maximum of 4 Holiday-Let mortgages per borrower.
+- Where the applicant also holds Buy-to-Let properties, the maximum permitted exposure with the Society will be £750,000 and 5 properties and in total 10 properties and £2m (including any exposure with the Society).
+- 3 months satisfactory bank statements to be provided.
+- A satisfactory statement of Assets & Liabilities to be provided.
+- Available mainland UK.
+- Minimum valuation £125,000.
+- Minimum advance £50,000.
+- No occupancy restrictions to apply to the security.
+- Applicants can have up to 90 days personal use each year.
+- Must have a minimum EPC rating of 'E'
+
+PORTFOLIO LANDLORDS
+--------------------------------------------------------------------------------
+
+**What is a portfolio landlord?**
+A portfolio landlord is defined as someone with 4 or more Buy-to-Let properties, irrespective of which lender(s) the properties are mortgaged with. It is the 4th and further properties that will be assessed using our updated criteria.
+
+**Why are they assessed differently?**
+As a lender, we recognise that, in an economic downturn, the impact on someone with multiple properties could be greater than someone with a single property. Hence we assess across the full portfolio rather than the property the mortgage is being applied for. Although at Furness we have had portfolio landlord criteria in place for several years, in Sept 2017 the Prudential Regulation Authority introduced industry-wide guidelines for lenders and as a result, we have made further updates to our criteria.
+
+**Are the products and pricing different?**
+Portfolio landlords can apply for any of our standard Buy-to-Let products which are available up to 75% LTV. There is a maximum of 4 Holiday-Let properties (with a Furness Building Society Mortgage) in each portfolio.
+
+**Do I have to submit additional forms and information?**
+As well as providing scanned copies of documents such as tenancy agreements, all applicants will also need to complete an Assets and Liabilities statement, which you can find on our forms and resources page.
+
+**What are your portfolio landlord specific criteria?**
+
+| Criteria | Requirement |
+|---|---|
+| Maximum LTV per property | 75% LTV |
+| Maximum LTV across a portfolio | 65% LTV |
+| Minimum rental coverage across a portfolio | 140% of mortgage interest at pay rate |
+| BTL experience required | 2 years experience as a BTL Landlord |
+| Minimum income | £40,000 (excluding rental income) |
+| Maximum BTL lending with the society | £750,000 and/or 5 mortgages |
+| Maximum overall customer BTL borrowing | £2m mortgages/10 mortgaged properties |
+| Application requirements | Normal disclosure of personal financial circumstances and completion of an Assets and Liabilities Statement. In some cases we may also request a business plan and cashflow statement to be provided |
+
+REGULATED BUY-TO-LET
+--------------------------------------------------------------------------------
+
+- We will consider applications on a regulated Buy-to-Let product specifically for letting to family members.
+- We will not currently consider applications from adult children (sons and/or daughters) purchasing their parents' current residence and then renting it back.
+- Regulated Buy-to-Let applications are considered strictly on an affordability basis. Any rental income received will not be factored into our affordability assessment. We obtain the AST to ensure that if the property converted to a traditional buy to let the gross rent would be at least equal to 125% of the monthly interest payment at the initial pay rate).
+- Regulated Buy-to-Let applications are assessed in the same way as a standard residential mortgage. The Society stresses the mortgage repayment in order to assess the affordability of the loan in relation to the clients existing outgoings and factoring in the new Buy-to-Let.
+- The stated expenditure will be reviewed in conjunction with the bank statements and/or with statistical data, as appropriate. Applications will be declined where affordability cannot be proven on realistic expenditure.
+- The Society will consider applications on an Interest only or repayment basis.
+- Where the property is let to a family member without an AST the tenant(s) will be required to sign the age 17+ waiver form
+
+================================================================================
+CONTACT INFORMATION
+================================================================================
+
+GET IN TOUCH
+--------------------------------------------------------------------------------
+
+Call us: 0800 988 1561
+
+BDM contacts: Get in touch with our team directly
+- Visit: https://www.furnessbs.co.uk/intermediaries/contacts-bdms/
+
+LinkedIn: Stay connected with our latest updates
+- Visit: https://www.linkedin.com/showcase/furnessbs-for-intermediaries/
+
+Twitter: Follow us for intermediary news
+- Visit: https://twitter.com/FurnessFI
+
+Email: furness.intermediaries@furness-bs.co.uk
+
+================================================================================

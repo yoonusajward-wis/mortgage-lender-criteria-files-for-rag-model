@@ -1,0 +1,403 @@
+LENDER NAME: Mansfield Building Society
+PRODUCT: Residential
+
+================================================================================
+MANSFIELD BUILDING SOCIETY - RESIDENTIAL MORTGAGES CRITERIA
+================================================================================
+
+Source: https://www.mansfieldbs.co.uk/intermediaries/criteria-search-a-z/
+Scraped: 2025-09-08 14:07:44
+
+Note: This document is for intermediary use only. This file contains information extracted from the Mansfield Building Society website. Detailed criteria are available via the Criteria Search A-Z page and PDF guides referenced below.
+
+Last Verified: Based on website content as of the file creation date
+
+================================================================================
+OVERVIEW
+================================================================================
+
+Mansfield Building Society offers a flexible approach to residential mortgage lending with products available up to 95% LTV.
+
+All mortgage applications are assessed on a case by case basis by our mortgage team without the use of automated credit scoring systems. We can also accommodate a range of complex credit criteria.
+
+RESIDENTIAL PRODUCT TYPES
+--------------------------------------------------------------------------------
+
+- House Purchase
+- Remortgage
+- Versatility
+- Credit Repair
+- Shared Ownership
+- Product Transfers
+
+================================================================================
+1. HOUSE PURCHASE
+================================================================================
+
+OVERVIEW
+--------------------------------------------------------------------------------
+
+At Mansfield Building Society, we're proud to support house purchase with a flexible approach.
+
+Our lending options up to 95% LTV include the following criteria options:
+- Multiple applicants
+- Gifted family deposits
+- Joint Borrower Sole Proprietor
+- Right to Buy and discounted purchases from a landlord or family member
+
+Applicants are considered with little or no credit history or who may have failed credit scores with other lenders. Soft footprint credit searches conducted and there is no automated credit scoring.
+
+PRODUCTS AVAILABLE
+--------------------------------------------------------------------------------
+
+2 Year Fixed Rate – DIX286
+- Term: 2 years
+- Initial Rate: 6.45%
+- Overall Cost For Comparison: 8.3% APRC
+- Max LTV: Over 80% and up to 90%
+- Early Repayment Charge: 2% in Year 1, 1% in Year 2
+- Product Fees: £199 Application Fee, £800 Completion Fee
+
+2 Year Discounted Variable Rate – DID180
+- Term: 2 years
+- Initial Rate: 5.25% variable
+- Overall Cost For Comparison: 8.1% APRC
+- Max LTV: over 80% and up to 90%
+- Early Repayment Charge: 2% in Year 1, 1% in Year 2
+- Product Fees: £199 application fee, £800 completion fee
+
+2 Year Discounted Variable Rate – DID179
+- Term: 2 years
+- Initial Rate: 4.75% variable
+- Overall Cost For Comparison: 7.3% APRC
+- Max LTV: 80%
+- Early Repayment Charge: nil
+- Product Fees: £199 application fee, £1,800 completion fee
+
+2 Year Discounted Variable Rate – DID178
+- Term: 2 years
+- Initial Rate: 4.55% variable
+- Overall Cost For Comparison: 7.1% APRC
+- Max LTV: Up to 80%
+- Early Repayment Charge: 2% in Year 1, 1% in Year 2
+- Product Fees: £199 application fee, £800 completion fee
+
+House Purchase Only 2 Year Fixed Rate – DIX287
+- Term: 2 years
+- Initial Rate: 6.75%
+- Overall Cost For Comparison: 8.3% APRC
+- Max LTV: Over 90% and up to 95%
+- Early Repayment Charge: 2% in Year 1, 1% in Year 2
+- Product Fees: £199 Application Fee, No Completion Fee
+
+2 Year Fixed Rate – DIX285
+- Term: 2 years
+- Initial Rate: 5.99%
+- Overall Cost For Comparison: 8.3% APRC
+- Max LTV: 80%
+- Early Repayment Charge: 2% in Year 1, 1% in Year 2
+- Product Fees: £199 Application Fee, £800 Completion Fee
+
+2 Year Discounted Variable Rate House Purchase Only – DID181
+- Term: 2 years
+- Initial Rate: 5.49% variable
+- Overall Cost For Comparison: 8.1% APRC
+- Max LTV: over 90% and up to 95%
+- Early Repayment Charge: 2% in year one, followed by 1% in year two
+- Product Fees: £199 Application Fee, No Completion Fee
+
+================================================================================
+2. REMORTGAGE
+================================================================================
+
+OVERVIEW
+--------------------------------------------------------------------------------
+
+Our residential remortgage lending is available on properties in England, Wales and Scotland (subject to postcode restrictions in Scotland).
+
+We can offer remortgage with capital raising and debt consolidation up to 90% LTV with a maximum loan size of £400,000. Capital raising can be used to help borrowers with a range of options:
+- To fund home improvements
+- To gift a loved one a deposit on a house
+- To transfer equity following a relationship breakdown
+
+Our capital raising and debt consolidation lending is available with our flexible and versatile criteria such as later life lending and interest only, including property downsizing as the repayment strategy.
+
+PRODUCTS AVAILABLE
+--------------------------------------------------------------------------------
+
+2 Year Fixed Rate – DIX286
+- Term: 2 years
+- Initial Rate: 6.45%
+- Overall Cost For Comparison: 8.3% APRC
+- Max LTV: Over 80% and up to 90%
+- Early Repayment Charge: 2% in Year 1, 1% in Year 2
+- Product Fees: £199 Application Fee, £800 Completion Fee
+
+2 Year Discounted Variable Rate – DID180
+- Term: 2 years
+- Initial Rate: 5.25% variable
+- Overall Cost For Comparison: 8.1% APRC
+- Max LTV: over 80% and up to 90%
+- Early Repayment Charge: 2% in Year 1, 1% in Year 2
+- Product Fees: £199 application fee, £800 completion fee
+
+2 Year Discounted Variable Rate – DID179
+- Term: 2 years
+- Initial Rate: 4.75% variable
+- Overall Cost For Comparison: 7.3% APRC
+- Max LTV: 80%
+- Early Repayment Charge: nil
+- Product Fees: £199 application fee, £1,800 completion fee
+
+2 Year Discounted Variable Rate – DID178
+- Term: 2 years
+- Initial Rate: 4.55% variable
+- Overall Cost For Comparison: 7.1% APRC
+- Max LTV: Up to 80%
+- Early Repayment Charge: 2% in Year 1, 1% in Year 2
+- Product Fees: £199 application fee, £800 completion fee
+
+2 Year Fixed Rate – DIX285
+- Term: 2 years
+- Initial Rate: 5.99%
+- Overall Cost For Comparison: 8.3% APRC
+- Max LTV: 80%
+- Early Repayment Charge: 2% in Year 1, 1% in Year 2
+- Product Fees: £199 Application Fee, £800 Completion Fee
+
+================================================================================
+3. PRODUCT TRANSFERS
+================================================================================
+
+OVERVIEW
+--------------------------------------------------------------------------------
+
+We're pleased to accept product transfers from intermediaries acting on behalf of existing residential borrowers.
+
+PRODUCTS AVAILABLE
+--------------------------------------------------------------------------------
+
+Shared Ownership 3 Year Fixed Rate – SX-10P
+- Term: 3 Years
+- Initial Rate: 5.75%
+- Overall Cost For Comparison: 7.8% APRC
+- Max LTV: 95% of the share owned, 75% property value
+- Early Repayment Charge: 3% in Year 1, 2% in Year 2, 1% in Year 3
+- Product Fees: None
+
+Versatility – 2 Year Discounted Variable Rate – CPDR05
+- Term: 2 Years
+- Initial Rate: 5.79% Variable
+- Overall Cost For Comparison: 8.1% APRC
+- Max LTV: 85%
+- Early Repayment Charge: 2% in Year 1, 1% in Year 2
+- Product Fees: None
+
+Versatility – 2 Year Fixed Rate – CPXR10
+- Term: 2 Years
+- Initial Rate: 6.49%
+- Overall Cost For Comparison: 8.2% APRC
+- Max LTV: 85%
+- Early Repayment Charge: 2% in Year 1, 1% in Year 2
+- Product Fees: None
+
+Residential 3 Year Discounted Variable Rate – DID78A
+- Term: 3 Years
+- Initial Rate: 5.43% Variable
+- Overall Cost For Comparison: 7.8% APRC
+- Max LTV: Over 85% and up to 95%
+- Early Repayment Charge: 3% in Year 1, 2% in Year 2, 1% in Year 3
+- Product Fees: None
+
+Residential Discounted Variable Rate For Mortgage Term – DID80A
+- Term: Duration of the mortgage term
+- Initial Rate: 6.55% Variable
+- Overall Cost For Comparison: 6.8% APRC
+- Max LTV: 95%
+- Early Repayment Charge: None
+- Product Fees: None
+
+Residential 3 Year Discounted Variable Rate – DID82A
+- Term: 3 Years
+- Initial Rate: 4.50% Variable
+- Overall Cost For Comparison: 7.6% APRC
+- Max LTV: 85%
+- Early Repayment Charge: 3% in Year 1, 2% in Year 2, 1% in Year 3
+- Product Fees: None
+
+Residential 3 Year Fixed Rate – DIX64A
+- Term: 3 Years
+- Initial Rate: 5.85%
+- Overall Cost For Comparison: 8.0% APRC
+- Max LTV: Over 85% and up to 95%
+- Early Repayment Charge: 3% in Year 1, 2% in Year 2, 1% in Year 3
+- Product Fees: None
+
+Residential 2 Year Fixed Rate – DIX66A
+- Term: 2 Years
+- Initial Rate: 5.39%
+- Overall Cost For Comparison: 8.1% APRC
+- Max LTV: 85%
+- Early Repayment Charge: 2% in Year 1, 1% in Year 2
+- Product Fees: None
+
+Residential 3 Year Fixed Rate – DIX75A
+- Term: 3 Years
+- Initial Rate: 5.35%
+- Overall Cost For Comparison: 7.8% APRC
+- Max LTV: 85%
+- Early Repayment Charge: 3% in Year 1, 2% in Year 2, 1% in Year 3
+- Product Fees: None
+
+================================================================================
+4. SHARED OWNERSHIP
+================================================================================
+
+OVERVIEW
+--------------------------------------------------------------------------------
+
+Our shared ownership mortgages are available up to 95% share (75% LTV).
+
+================================================================================
+5. VERSATILITY
+================================================================================
+
+OVERVIEW
+--------------------------------------------------------------------------------
+
+Versatility products are available for residential mortgages.
+
+================================================================================
+6. CREDIT REPAIR
+================================================================================
+
+OVERVIEW
+--------------------------------------------------------------------------------
+
+Credit Repair mortgages are available. We can accommodate a range of complex credit criteria. Please refer to the Specialist Lending Criteria guide for more information.
+
+================================================================================
+7. PRODUCT DEFINITIONS
+================================================================================
+
+INITIAL RATE
+--------------------------------------------------------------------------------
+
+The Initial Rate is the rate available during the initial term of the mortgage. Once the initial rate term has expired, the mortgage will either revert to our Standard Variable Rate (SVR), or a follow-on rate that is a discount off our SVR. Our SVR is set by us and is currently 8.49%, as a variable rate it may go up or down. Our follow-on rate is 1.74% below our SVR (currently 6.75% variable) and will go up or down with changes to our SVR. 
+
+OVERALL COST FOR COMPARISON
+--------------------------------------------------------------------------------
+
+The Overall Cost for Comparison is given as the Annual Percentage Rate of Charge (APRC) and includes all charges incurred relating to the mortgage. The APRC is intended to help you as a borrower compare the interest rates on different products. 
+
+MAX LTV
+--------------------------------------------------------------------------------
+
+Like all other mortgage lenders, we will allow you to borrow against a proportion of the overall property value. This is known as Loan to Value (LTV) and is expressed as a percentage. For example, if you want to purchase a property at £100,000 and you would like to borrow £85,000, then you will need a mortgage available at 85% Loan to Value (LTV). The available LTV can vary depending upon the type of mortgage. Shared Ownership mortgages will offer two percentages under LTV - the proportion of the property value and the proportion of the share being purchased. 
+
+================================================================================
+8. FEES
+================================================================================
+
+APPLICATION FEES
+--------------------------------------------------------------------------------
+
+- £199 Application Fee (non-refundable and payable at the point of application)
+
+COMPLETION FEES
+--------------------------------------------------------------------------------
+
+- Completion fees vary by product (ranging from £0 to £1,800)
+- The Completion Fee can be paid before completion or added to the loan
+- If the Completion Fee is added to the loan amount, interest will be charged on the amount of the fee and this will be reflected in the monthly repayment over the term of the mortgage
+
+COMPLETION FEE ILLUSTRATIVE EXAMPLE
+--------------------------------------------------------------------------------
+
+A £1,000 Completion Fee added to the loan amount would increase in value over the term of the mortgage:
+
+| Fee Amount | Rate | Value of the fee with interest at 10 years | Value of the fee with interest at 15 years | Value of the fee with interest at 25 years |
+|---|---|---|---|---|
+| £1,000 | 8.29% | £1,829.00 | £2,243.50 | £3,072.50 |
+
+================================================================================
+9. DETAILED CRITERIA
+================================================================================
+
+NOTE
+--------------------------------------------------------------------------------
+
+Detailed lending criteria are available via the Criteria Search A-Z page on the Mansfield Building Society website. The criteria search allows you to search for specific criteria topics alphabetically.
+
+CRITERIA SEARCH
+--------------------------------------------------------------------------------
+
+Source: https://www.mansfieldbs.co.uk/intermediaries/criteria-search-a-z/
+
+The criteria search page provides detailed information on all lending criteria topics organized alphabetically.
+
+PDF GUIDES AND DOCUMENTS
+--------------------------------------------------------------------------------
+
+The following PDF guides and documents are available for download:
+
+PRODUCT AND CRITERIA GUIDES
+- Residential Mortgages General Information
+- Buy to Let Mortgages General Information
+- Credit Repair and Versatility Criteria Guide
+- Case Study – Lending into Retirement
+
+ENQUIRY AND APPLICATION SUPPORT
+- Online Portal Help Guide
+- Decision in Principle Request Form
+- ESIS request form
+- Residential Mortgage Application Form
+- Supporting Documentation Checklist
+- Product Transfer Authority Form
+- Interest Only Property Downsizing Declaration
+- Tariff of Fees and Charges
+- Mortgage Valuation Fees
+- Packaging Checklist
+
+CONSUMER DUTY FAIR VALUE ASSESSMENTS
+- First Time Buyers
+- Home Movers
+- Remortgages
+- Lending into Retirement
+- Further Borrowing
+- Self-Build
+- Shared Ownership
+- Versatility
+- Credit Repair
+
+All guides and documents can be accessed via the Guides and Downloads page: https://www.mansfieldbs.co.uk/intermediaries/guides-and-downloads/
+
+================================================================================
+10. CONTACT INFORMATION
+================================================================================
+
+BROKER SUPPORT TEAM
+--------------------------------------------------------------------------------
+
+- Tel: 01623 676360
+- Email: brokers@mansfieldbs.co.uk
+
+USEFUL LINKS
+--------------------------------------------------------------------------------
+
+- Residential Affordability Calculator: https://www.mansfieldbs.co.uk/intermediaries/affordability-calculator/
+- Enquire Online: https://www.mansfieldbs.co.uk/broker-contact/
+- Broker Portal: https://portal.mansfieldbs.co.uk/Account/Login
+- Guides and Downloads: https://www.mansfieldbs.co.uk/intermediaries/guides-and-downloads/
+- Enquiry Support: https://www.mansfieldbs.co.uk/intermediaries/enquiry-support/
+- Making an Application: https://www.mansfieldbs.co.uk/intermediaries/making-an-application/
+- Mortgage Credit Criteria: https://www.mansfieldbs.co.uk/credit-repair-mortgages/
+
+COMPANY INFORMATION
+--------------------------------------------------------------------------------
+
+The Mansfield Building Society is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority. Reference number 206049. Member of the Building Societies Association. 
+
+Source: https://www.mansfieldbs.co.uk/intermediaries/criteria-search-a-z/
+
+================================================================================

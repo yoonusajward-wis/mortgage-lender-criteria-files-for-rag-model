@@ -1,0 +1,1226 @@
+LENDER NAME: Atom Bank
+PRODUCT: Residential
+
+# Atom Bank - Residential Mortgage Lending Criteria
+
+**Source:** [https://www.atombank.co.uk/intermediaries/residential/lending-criteria/](https://www.atombank.co.uk/intermediaries/residential/lending-criteria/)
+**Last Updated:** 2025
+
+**FOR INTERMEDIARY USE ONLY**
+
+This website is for **residential intermediaries** only.
+
+Atom bank plc is authorised by the Prudential Regulation Authority (PRA) and regulated by the Financial Conduct Authority and the PRA. Our Financial Services Register number is 661960.
+
+**Contact:** [Contact us](https://www.atombank.co.uk/intermediaries/residential/contact-us/) | [Intermediary Support Team](https://www.atombank.co.uk/intermediaries/residential/contact-us/)
+
+**Note:** We take a common sense approach to lending and remortgaging, doing all that we can to help your customer buy their ideal home.
+
+---
+
+## Applies to all
+
+### Address history
+
+All applicants must have, and be able to evidence, a three year address history.
+
+All applicants must have been resident in the UK for at least the last three years.
+
+The only exception to this is where the applicant is in the British Armed Forces and has a current BFPO address, along with a three year - or UK address history. See BFPO section for more information.
+
+### Affordability and Income Multiples
+
+Before you submit any application we recommend using our affordability calculator. This will provide you with a predicted borrowing figure for your clients, based on their personal circumstances.
+
+We use a comprehensive affordability calculation which takes into account the applicant's levels of income and expenditure, but will always be subject to a maximum loan amount of:
+
+| Employment type | Income bracket | Maximum LTV | Maximum loan-to-income (LTI) ratio |
+| --- | --- | --- | --- |
+| Employed | Up to £60,000 | 95% | 4.49 |
+| Employed | £60,001 - £74,999 | 90% | 5.5 |
+| Employed | £60,001 - £74,999 | 95% | 4.49 |
+| Employed | £75,000 or above | 90% | 6.0 |
+| Employed | £75,000 or above | 95% | 5.5 |
+| Self-employed | Over 75k (single income) Over 100k (joint income) | 90% | 5.5 |
+| Self-employed | Up to 75k (single income) Up to 100k (joint income) | 90% | 4.49 |
+
+#### Expenditure
+
+The applicants will need to provide accurate expenditure information including:
+
+* Any credit commitments; note credit cards and overdrafts will be taken at 3% of balance
+* Basic essential expenditure (childcare, food, laundry, utilities, telephone, council tax, buildings insurance, ground rent/service charges, essential travel)
+* Average quality of living costs (clothing, household goods, personal goods, basic recreation)
+
+Where an existing fixed term credit facility has less than six months to run then we'll normally disregard that, however this still needs to be keyed onto the application.
+
+All information supplied will be cross-referenced against the applicant's credit bureau record and proof of income to verify that everything's been declared and that the figures are accurate.
+
+### Age
+
+For a residential mortgage, applicants need to be:
+
+* at least 18 years old when applying;
+* no more than 80 years old when the mortgage ends.
+
+### Applicants living outside the UK
+
+The only applications we'll consider from those living outside the UK are from British Armed Forces personnel that are currently stationed abroad with a BFPO address.
+
+### Assignable contracts
+
+We don't currently accept applications for mortgages against assignable contracts.
+
+### Back to back transactions
+
+We don't currently accept applications for mortgages against back to back transactions.
+
+### Background Buy to Let (BTL)
+
+If an applicant has existing BTL mortgages that will continue on completion of the new residential mortgage both the BTL mortgage payment and the related rental income will be captured. These values will be used in the calculation of affordability as follows:
+
+* 100% of mortgage payment will be included in Committed Monthly Expenditure; and
+* 70% of rental income will be included in Income
+
+If an applicant receives rental income from an unencumbered property, 70% of the rental income will be included in Income. Please key all mortgage payments and rental income into the affordability calculator to ensure you get the best indication of what we could offer.
+
+We can't consider future or speculative rental income.
+
+If a background property is under temporary consent to let, we may carry out additional checks or request additional supporting evidence for the application. We may also need to ignore any rental income to reach a final lending decision.
+
+### Bridging loans
+
+We don't currently accept applications for mortgages to be used as bridging loans.
+
+### Buy To Let (BTL)
+
+We don't currently offer BTL.
+
+### Concessionary Purchase
+
+Where there is a discounted purchase or purchase at undervalue e.g. a purchase from a family member or landlord, the maximum loan amount will be limited to the purchase price but LTV will be based on the full value of the property.
+
+### Contractors / Non-permanent employments
+
+We can consider certain forms of non-permanent employment or temporary contracts as equivalent to permanent employment. We will consider applications in either of the acceptable categories subject to the provision of the following information:
+
+* Previous contract history
+* Length of time with current employer
+* If the contract has been renewed before
+* Remaining term of the current contract
+* The prospects of renewal/ obtaining alternative employment in the same type of work at a similar salary
+* Whether the contract is connected to a specific project.
+
+#### Professional contractors e.g. IT, business consultancy, project management
+
+Our contractor policy is designed to recognise a hybrid employment type that sits between Permanent Employment and Self-Employment for professional individuals.
+
+**Applicant Criteria:**
+
+* Minimum day rate £250 or minimum annual income is £50,000
+* Evidence that such temporary contracts have produced a regular income flow over at least one year, either through a single contract or a combination of contracts (with less than two months 'downtime' between each)
+* Must have a minimum of one years previous employment in same field (which they could evidence by way of previous P60)
+* Applicant must supply their annual income figure and their day rate
+* We will assess annual income as the lower of day rate x5 x46 and supplied annual income. The assessed value will be used in calculation of FDI
+
+If the above criteria cannot be satisfied then contract workers will be treated as self-employed therefore two years' accounts or two years' HMRC self-assessments (SA302s or Online Tax Calculations) will be required to evidence income.
+
+#### Bank or supply contracts e.g. bank nursing, supply teaching, etc.
+
+We recognise employment where qualified professionals are engaged in irregular working patterns, especially key workers, and will accept income from these workers based on the following criteria:
+
+* Minimum annual income is £20,000
+* Employment directly or via an agency are both acceptable
+* Evidence can be shown that such temporary contracts have produced a regular income flow over at least one year, either through a single contract or a combination of contracts (with less than two months 'downtime' between each)
+* Must have a minimum of one years previous employment in same field (which they could evidence by way of previous P60)
+* Applicant must supply their annual income figure. Where an applicant has contract income in addition to salaried income in the same field (e.g. nursing overtime) the applicant can be considered as employed and the total income can be used in calculation of FDI
+
+#### Zero hour contracts and agency workers
+
+We recognises employment where qualified professionals are engaged in irregular working patterns and zero hour contracts, and will accept income from these workers based on the following criteria:
+
+* Minimum time in current employment 24 months
+* Last month's payslip and last 2 P60s
+* Eligible income will be the average of the last 2 years income evidenced by P60, unless the latest P60 figure is lower or the annualised YTD figure from the latest payslip is lower then the lower figure will apply.
+
+#### Fixed Term Contract
+
+We recognise employment where qualified professionals take on shorter, defined employment contracts and will accept income from these workers based on the following criteria:
+
+* Minimum £25k annual income
+* Minimum 12 months contracting experience, unless there is less than 6 months remaining on the current contract in which case minimum 24 months contracting experience will be required
+* Minimum 12 months experience in a similar field
+* Latest month's payslip and last P60 will be required as proof of income.
+
+If none of the above criteria can be satisfied then contract workers will be treated as self-employed therefore two years' accounts or two years' HMRC self-assessments (SA302s or Online Tax Calculations) will have to be provided to evidence income.
+
+#### Construction Industry Scheme (CIS)
+
+Those working under the CIS will be treated as self-employed, and therefore two years' accounts or two years' HMRC self-assessments (SA302s or Online Tax Calculations) will have to be provided.
+
+### Conveyancing
+
+Every mortgage application with Atom will have the legal work for the transaction completed by one of the conveyancing firms who make up our residential legal panel.
+
+#### Fees Assisted Products
+
+For applications on fees assisted products, the firm that completes the legal work is determined by our panel manager, LMS, who will allocate the case to a panel firm based on the type of application, the location of the property and a number of other factors. We are unable to influence or dictate which firm is allocated to an application.
+
+Please note that the fees assisted legal work covers basic legal fees only, and any additional or non-standard work will be subject to charge, payable by the applicant(s).
+
+You can view a list of the most common additional legal fees [here](https://www.atombank.co.uk/~/documents/residential/lms-price-list-june-2025.pdf).
+
+#### Non-Fees Assisted Products
+
+For applications on non-fees assisted products, the customer(s) will be able to select a conveyancing firm from our general legal panel, operated by LMS. Any costs associated with the conveyancing will need to be negotiated directly between the customer and the selected firm.
+
+You will be able to make your selection at the point of application, via a search tool using the Name, Town or Postcode of the firm.
+
+If the preferred firm is not on the our panel, they can apply to be added via [LMS conveyancer zone](https://www.lmsuk.com/ConveyancerZone/lenderpanels/apply). Providing the firm meets our panel criteria, LMS will add them to our panel on receipt of the relevant panel application documentation. Please note that until a firm is successfully added to the panel, the application cannot be submitted using that firm and you should wait until they have been approved, do not submit the case by selecting a different conveyancer if you do not intend to complete with that firm. When a firm is selected at application, they will be instructed immediately and automatically on application submission. The acting conveyancing firm can only be changed in exceptional circumstances.
+
+If the preferred firm is not on the our panel, and is not eligible to join, then the customer(s) may select another firm from the Conveyancing Panel.
+
+#### Separate Representation
+
+We are currently unable to accept separate representation on all residential mortgage applications. We're constantly reviewing this and will keep you informed with any changes.
+
+To understand the fees associated with conveyancing, please view our price list, and see the conveyancing fees leaflets in the additional borrowing / capital raising section of our lending criteria.
+
+### Debt consolidation
+
+We will allow capital raising for debt consolidation up to 90% LTV for Prime products and 85% LTV for Near Prime products. For existing customers, please refer to our further advance criteria. Please contact us if you're not sure if your customer is eligible.
+
+All existing debts must be declared when applying for the mortgage and will be taken into consideration when assessing affordability.
+
+Debt consolidation is not permitted on Right to Buy applications.
+
+### Debt to Income Ratio (DTI)
+
+Where the customer is currently highly indebted, further checks on affordability will be carried out.
+
+The applicant's unsecured debt to income ratio will be calculated as the total monthly payments to unsecured credit commitments / net monthly income.
+
+Where current DTI is more than or equal to 50% the application will be declined.
+
+### Decision in Principle (DIP)
+
+Our DIP facility is available on our [intermediary portal](https://intermediary.msoportal.atombank.co.uk/#/).
+
+The DIP provides a preliminary agreement that the applicant meets our main lending and affordability criteria. It will detail how much we may lend, is valid for 13 weeks and is subject to:
+
+* A full check against our lending and affordability criteria
+* The receipt of a full and satisfactory property valuation
+* The supplemental information being approved in order to progress to a mortgage offer
+
+Completing a DIP will place an enquiry footprint (a soft footprint) on the applicant's credit file.
+
+A DIP is not a guarantee of the overall acceptability of the mortgage application. Each application is subject to final approval by our underwriting or mortgage processing team, who will carefully assess all applicant information together with supporting documentation and evidence concerning both the applicants and the property.
+
+On submission of the Full Mortgage Application, an updated credit bureau report will be requested and a "hard" credit search footprint will be applied to the customer's credit file. Please note that any significant changes to the customer's credit record, including changes in credit account performance and increases in credit commitments may impact the overall lending decision and/ or maximum loan amount available.
+
+### Dependents
+
+For affordability, any persons who are dependent on the applicant(s) but who are not named on the mortgage must be entered as a dependent on the application.
+
+An adult dependent can be defined as:
+
+* A husband, wife, partner or civil partner who relies either entirely or almost entirely on an applicant for financial support and is not named on the mortgage
+* A relative such as a parent or grandparent who relies either entirely or almost entirely on an applicant for financial support and is not named on the mortgage
+* Where the adult dependent is named on the mortgage application, they should not be input as a dependent as they will already be factored into the affordability calculation
+
+Any child (aged under 17) who is dependent on the applicant(s) should be declared on the application as a "dependent child".
+
+### Deposit
+
+The deposit for any purchase should typically come from the applicant(s) own resources. We don't accept monies from secured/ unsecured loans as deposits with the exception of equity released from an existing property, e.g. in a let to buy application.
+
+**Unacceptable deposit sources include, but is not limited to:**
+
+* Money raised via a secured loan (including Help to Buy)
+* Money raised by an unsecured loan
+* Vendor cash deposits
+* Directors loans
+
+We'll accept a gifted deposit where:
+
+* No interest in the property is claimed by the third party, and,
+* The donor has not and will not live in the property
+* The gift is not to be repaid
+* A gifted deposit form has been submitted to the conveyancer.
+
+As part of the conveyancing process, the gift donor(s) will be required to complete a standard gifted deposit form as provided by the conveyancer. This will include an enquiry as to the source of funds.
+
+For residential applications, we might ask for proof of deposit, for example if a first time buyer is looking to put down an unusually large deposit.
+
+### Employment
+
+#### Employed Applicants
+
+Applicants must provide a 24 months employment history, and will be expected to have a minimum 12 months in employment. A minimum one month will be required in their current role, supported by at least one payslip from their current employer and must be considered a permanent employee. Employment references may be requested.
+
+If the applicant has been employed for less than 24 months, they will need to provide details of their employment history within this time.
+
+We can lend to applicants currently in a probation period subject to the following criteria:
+
+* For primary earners i.e. the lead applicant, the following will apply:
+  * If the applicant has been employed in their current role for less than six months regardless of them being in a probationary period or not, we will require:
+    * 12 months continuous employment in the previous role
+    * A minimum provision of the first full month's payslip in the new role.
+  * If the applicant has been in their current role for more than six months, normal criteria will apply.
+* For secondary applicants the following will apply:
+  * If the applicant has been employed in their current role for less than three months regardless of them being in a probationary period or not, we will require:
+    * 12 months continuous employment in the previous role
+    * A minimum provision of the first month's payslip in the new role.
+
+#### Pay rises and job offers
+
+Where a pay rise is due to take effect within one month of application it can be considered subject to the provision of a letter from the applicant's employer (we'll accept a letter addressed to the applicant from the employer as confirmation). If the applicant works for a family business future pay rises cannot be considered. Employment references may be requested.
+
+Job offers cannot be considered.
+
+For Contractors and Self Employed applicants, please see the relevant section of our lending criteria.
+
+### Energy Performance Certificate (EPC) rating
+
+We don't currently apply any restriction on the minimum EPC rating of a property that's subject to a residential mortgage.
+
+### Expatriates
+
+We don't currently lend to British expatriates, as applicants must have have been resident in the UK for at least the last 3 years in order for us to consider lending.
+
+The only exception to this is where the applicant is currently in the British Armed Forces with a BFPO address, and where the last three years' addresses are either UK addresses or BFPO addresses.
+
+### First time buyers (FTB)
+
+We define a FTB as someone who has never previously held a residential or BTL mortgage in the UK.
+
+All applicants must meet our definition of a FTB, to apply for a FTB product.
+
+### Fixed term leave from work
+
+#### For parental leave (including maternity, paternity, adoption)
+
+* Applicant to advise of their intention to return to work and return to work date and salary,
+* The advised return to work salary will be used in our affordability assessment, this can be evidence from last pay slip received before leave commenced. Household numbers to include new child(ren),
+* Estimated future childcare costs to be included in outgoings
+* Where the intended leave period is greater than 6 months we will require evidence of savings to cover payments
+* If intended leave period is 9 months we require proof of a minimum savings amount of 3 x monthly instalment
+* If intended leave period is 12 months we require proof of a minimum savings amount of 6 x monthly instalment
+
+#### For other fixed term leave (eg career break or sabbatical)
+
+* Applicant to advise intention to return to work and return to work date and salary.
+* Employers reference to confirm return to work details.
+* Details of leave income. If the leave period is unpaid we will require evidence of savings to cover any loss of income
+* If unpaid leave period is 3 months we will require proof of a minimum savings amount of 3 x monthly net income.
+* If unpaid leave period is 6 months we will require proof of a minimum savings amount of 6 x monthly net income.
+
+### Foreign nationals
+
+All foreign nationals must have been resident in the UK for a minimum of 3 years and have unrestricted rights to live and work in the UK. This must be demonstrated by a UK residency permit, passport Visa stamp, written confirmation from the UK Border Agency or similar organisation, or, in the case of EU/Swiss nationals, the share code to allow assessment of pre-settled or settled status via the government website. Irish citizens are automatically assumed to have unrestricted rights to live and work in the UK after 3 years residence under the terms of the Common Travel Area arrangement.
+
+Joint applications where one of the applicants does not have unrestricted rights to live and work in the UK are only acceptable where that applicant has been in the UK for at least 3 years and where their income is not required to support the mortgage*. In these circumstances, the mortgage must be affordable only using the income of the applicant who does have unrestricted rights to live and work in the UK.
+
+*Keying tip: income must be input as £0.
+
+### Home improvements
+
+We allow capital raising for home improvements up to 95% LTV for Prime products and 85% LTV for Near Prime products. For existing customers, please refer to our further advance criteria. Please contact us if you're not sure if your customer is eligible.
+
+We're unable to lend on the future value of a property, so all lending will be based on the current value of the property.
+
+### Identification
+
+As we're a digital bank, we'll always attempt to electronically identify and verify customers (ID&V) using the information provided by Credit Reference Agencies.
+
+Where we're unable to do this, we'll need to see the following documents (exactly what we need will be advised as part of our automated Decision in Principle):
+
+| Personal ID (government issued document with a photograph) | Address ID |
+| --- | --- |
+| Current Passport | Current UK (photo card/old paper style) driving licence |
+| Current UK or EEA photo card driving licence | Statement dated within last three months from a UK authorised financial services firm. We will accept full statements printed from the internet but not screen prints |
+| Firearms certificate or shotgun licence | Building Society passbook |
+| Identity card issued by the Electoral Office for Northern Ireland | Utility bill (not mobile phone) dated within last three months. We will accept full statements printed from the internet but not screen prints |
+| | Recent evidence of entitlement to a state or local authority funded benefit (including housing benefit and council tax benefit), tax credit, pension, educational or other grant |
+| | Local authority council tax statement or demand for payment |
+| | Recent correspondence (dated within last three months) from HMRC |
+| | Residence permit issued by Home Office |
+
+### Income types and verification
+
+All applications will be subject to verification of income.
+
+Please ensure the main earner is entered as applicant 1 when keying the case.
+
+As a digital bank, we may, in certain cases, use information held at the credit bureau to verify income. If we are able to do this, we won't ask for any income verification on the DIP.
+
+When you have completed the DIP you will find a list of requirements unique to the case generated in our broker portal.
+
+In this table you'll find the types of income we accept and the percentage used to assess affordability and standard evidence required. Where possible we'll verify the applicant's income with the credit bureau so you won't have to send us any supporting documents.
+
+If we can't do this we reserve the right to request further evidence if deemed necessary, such as bank statements or formal ID. Where bank statements are requested they must show income and expenditure across a full month.
+
+| Income type | Percentage allowed | Minimum evidence required |
+| --- | --- | --- |
+| Basic salary | 100% | Latest months payslip |
+| Area allowance | 100% | Latest months payslip |
+| Car allowance | 100% | Latest months payslip |
+| Shift allowance | 100% | Latest months payslip |
+| Housing allowance from employer | 100% | Employment contract and three months payslips |
+| Guaranteed bonus/overtime/commission | 70% | The lower of the average of the last three payslips annualised or the year to date on latest payslip. Must show evidence of relevant split between salary, overtime, bonus and commission. |
+| Non-guaranteed bonus/overtime/commission | 70% (of the last 12 month average) | The lower of the average of the last three payslips annualised or the year to date on latest payslip. Must show evidence of relevant split between salary, overtime, bonus and commission. |
+| Sole Trader net profits | 100% (average of last two years' net profit or latest year only if lower). | At least one of the following: Two years' SA302s, Tax calculations combined with tax year overviews, Last two years' accounts, Accountant's* certificate. We may also require the most recent business and personal bank statements. |
+| Partnership share of net profits | 100% (average of last two years' net profit or latest year only if lower). | At least one of the following: Two years' SA302s, Last two years' accounts, Accountant's* certificate. We may also require the most recent business and personal bank statements. |
+| Limited Company Director's share of pre-tax profit | 100% (average of last two years' net profit or latest year only if lower). | Two years' company accounts or Accountant's certificate* |
+| Limited Company Director's salary | 100% (average of last two years' net profit or latest year only if lower). | Two years' company accounts or Accountant's certificate* |
+| Limited Liability Partnership (LLP) income | 100% (average of last two years' net profit or latest year only if lower). | Two years' company accounts. Where the appointment is too recent to be shown in the accounts, income can be validated by a letter from the managing partner confirming the applicant's partnership share and income for the most recent financial period. |
+| Pension/annuities | 100% | An annual statement of pension/annuity on retirement or latest pension payslip. Please note, we do not accept pension income as a sole income, the applicant must still be employed. |
+| Personal Independence Payment, formally Disability allowance (for self) | 100% | A letter from the DWP to confirm current entitlement |
+| Second job salary | 100% (where a minimum income 12 month record can be evidenced) or 70% | As per above requirements for primary job |
+| Investment income | 70% | Most recent Savings/Investment Account statement, must be dated within the last 12 months |
+| Rental income | 70% (100% of mortgage payment will be included in Committed Monthly Expenditure and 70% of rental income will be included in income). | Last month's bank statement showing rental income credits or current AST agreement. ARLA letters detailing potential rental income are not acceptable. |
+| Maintenance | 70% | A copy of maintenance agreement, CSA assessment or written private agreement evidenced by the latest three months bank statements |
+| Working family tax credits | Not accepted | N/A |
+| Child benefit and child tax credits | Not accepted | N/A |
+| Other DWP benefits | Not accepted | N/A |
+| Rent a room | Not accepted | N/A |
+| Dividends | Not accepted | N/A |
+
+* Accountants certificate - if you want us to apply for an accountant's certificate, rather than sending in accounts, then please email mortgageprocessing@atombank.co.uk with your request.
+
+#### Bonus, commission and overtime (monthly and quarterly)
+
+For all monthly and quarterly bonuses, commission and overtime, we'll take the lower of the annualised average from the last three months' payslips, or, the year to date figure on the most recent payslip. We may also request the applicant's P60.
+
+#### Bonus, commission and overtime (annual)
+
+We'll take annual bonus and commission into consideration if the applicant can evidence receipt via payslip from their current employer. Annual bonuses that do not meet this criteria will not be used in affordability checks.
+
+### Interest only/ part and part
+
+We don't currently lend for interest only/ part and part mortgages.
+
+### Joint mortgages
+
+We're happy to accept joint mortgage applications with a maximum of two applicants for residential mortgages.
+
+### Lending decision appeals
+
+When we make underwriting decisions, our process is fair, impartial and responsible, but we also understand that in some cases, new information can become available that might change our decision.
+
+We're happy to review our lending decisions where new, supporting information (that wasn't available at the time of decision) is provided. If this is the case and you'd like to appeal a lending decision, [please contact our dedicated Intermediary Support team or your BDM](https://www.atombank.co.uk/intermediaries/residential/contact-us/).
+
+### Lending into retirement
+
+We define retirement age as the lower of the applicant's stated retirement age or age 70 years.
+
+Where the application term extends beyond an applicant's retirement age, and where retirement is within 10 years of the application date then we'll assess mortgage affordability based on the post retirement income.
+
+When we are assessing lending into retirement cases where the applicants are more than 10 years from retirement, we require evidence that reasonable provision has been made and that there is evidence of client behaviour to support themselves into retirement. An example of this would be a track record of paying into a pension for a number of years at a level that would suggest an element of planning has taken place. We would also expect the broker to have fully discussed and assessed the clients lending into retirement plans and be able to provide suitable evidence to support such applications.
+
+**Please note, pension commitment does not need to be keyed into the application.**
+
+### Let to buy
+
+Where a customer has consent to let from their lender for their current property, and are seeking a mortgage from us for their new main residence then their application will be subject to normal policy LTV restrictions.
+
+The income and expenditure related to the background property will be assessed in line with our background BTL policy.
+
+### Lifetime mortgages
+
+We're not currently accepting applications for lifetime mortgages.
+
+### London and South East
+
+We'll allow a higher maximum LTV for some properties located in London and the South East:
+
+| Property type | Max LTV for London & South East properties | Max LTV for properties located in the rest of the UK |
+| --- | --- | --- |
+| Flats and apartments (second-hand) | 95% | 90% |
+| New build houses | 95% | 90% |
+| New build flats | 90% | 80% |
+
+All other associated Prime/Near Prime criteria must be met.
+
+Flats and new build flats and houses located within the following postcode prefixes are eligible for the new LTV uplift:
+
+| Greater London | South East |
+| --- | --- |
+| SM, W, NW, KT, EC, RM, E, SE, WC, HA, WD, EN, DA, BR, UB, CR, SW, TW, IG, N | BN, RH, RG, SG, CT, SL, AL, OX, PO, TN, HP, SO, MK, ME, LU, GU |
+
+If you are unsure on the maximum LTV available for your client, please contact your BDM.
+
+### Minimum income
+
+For residential mortgages, the main applicant's minimum income is £16,000.
+
+### Near Prime to Prime product transfers
+
+Existing Near Prime customers will be eligible for a Prime product upon maturity if they meet the below criteria (in addition to our standard product transfer criteria):
+
+* No defaults in the last 12 months
+* No current arrears
+* No current IVA or insolvency proceedings
+* No more than two instances of bounced direct debit mortgage payments in the last 12 months.
+
+### New build
+
+A new build property is classed as any property being occupied and/or sold for the first time on the open market in its current state. This includes brand new property, redeveloped residential property or converted property (from non-residential use). The property build, redevelopment or conversion will usually have been completed within the last 12 months. The property must have been previously unoccupied. The property must be sold by the builder or developer.
+
+We'll only provide mortgage finance for new build properties if the property will be fully completed within 12 months of our first mortgage offer.
+
+For new build properties located outside of London and the South East, the maximum LTV levels are:
+
+* New build house 90%.
+* New build flat/apartment 80%.
+
+For properties located in London and the South East, the maximum LTV levels are:
+
+* New build house 95%
+* New build flat/apartment 90%.
+
+For more information, head to the London and South East section on this page.
+
+All new build/converted properties that are less than 10 years old must have appropriate planning permission, as well as an acceptable 10 year structural buildings defects warranty backed by:
+
+* NHBC
+* Premier Guarantee
+* Building Life Plans
+* Building Zone
+* LABC New Home Warranty
+* Advantage
+* Aedis
+* Checkmate Warranty
+* Construction Register Limited
+* HAPM
+* ICW (International Construction Warranties)
+* Q Assure
+* Zurich Municipal (no longer offered for new property sales)
+* One Guarantee
+* Global Homes
+* Ark Residential
+* ABC+ Warrantee
+* A professional consultant's certificate from a suitable architect/surveyor (they need to be corporate members of the Royal Institute of British Architects or Royal Institution of Chartered Surveyors and have the appropriate professional indemnity insurance).
+
+If the new build property doesn't have a warranty then the application will be declined.
+
+Builders' cash incentives also need to be declared at the point of sale, and this can be done via the UK Finance Declaration of Incentives form. We will accept a maximum of 5% without affecting lending. Anything above this will be deducted from the lower of purchase price or valuation and the max LTV rebased on this figure.
+
+### Non-simultaneous sale and purchase
+
+Where an existing property is for sale but won't be sold before the new mortgage completes, the existing mortgage payment, basic utilities and council tax must be included in the affordability calculation. In this case, it's expected that the customer(s) will move into the new property within one month of completion.
+
+* The customer(s) will move into the new property within one month of completion.
+
+### Offers
+
+Our offer validity period for all residential mortgage products is 180 days. For new builds, offers can be extended for another 180 days, subject to reassessment.
+
+If the mortgage offer has expired but the application is still proceeding, we have a 15 day grace period following offer expiry. Please contact us before the offer expiry date to notify us that the application is still proceeding. Failure to do this will result in the application being cancelled without the possibility of reinstatement. The Certificate of Title (COT) must be provided and the mortgage must complete within the grace period.
+
+If we have been made aware that the case is still to proceed, it will be subject to re-underwriting and may require new case requirements and/or valuation before we can make a new offer. Please note that the original mortgage product selected may not be available.
+
+### Other occupiers
+
+Family members and individuals over the age of 17 who aren't party to the mortgage, but intend to live in the property, need to sign our standard Deed of Consent form.
+
+If the individual who plans to live in the property provides a lump sum towards the purchase, or is currently named/ previously named on the title they must be included on the application.
+
+### Overseas employment
+
+We do not offer mortgages to UK nationals who are resident and working overseas, including those intending to return to the UK in the near future. However, where an applicant is currently resident in the UK but works overseas (e.g. offshore oil workers) and is paid in UK sterling into a UK bank account which can be evidenced by a payslip, we can consider lending.
+
+### Porting
+
+We won't consider an application to port the mortgage until at least six months after completion, unless the customer's circumstances are exceptional. These applications are subject to full lending criteria at the time of porting.
+
+For non-simultaneous porting, from redemption of the existing mortgage, you have 90 days to complete on the new mortgage.
+
+Further information relating to porting can be viewed in the mortgage terms and conditions in the customer's Vault area of their Atom bank app.
+
+Please contact our TBDMs to discuss Porting cases before submitting an application. They're available Monday to Friday, from 9am to 5pm, on [0333 399 0055](tel:03333990055) (select option one to speak to our TBDMs) or residentialsupport@atombank.co.uk.
+
+### Product switches
+
+To apply for a product switch on behalf of your customer, please contact our Intermediary Support Team on [0333 399 0055](tel:03333990055) and select option 2. You can apply for a product switch on behalf of your customer up to 6 months before their fixed rate ends.
+
+Customers may choose to switch mortgage product either:
+
+* During the initial fixed rate period of their mortgage deal, which will mean that the customer will need to pay any applicable ERCs; or
+* At the end of the initial fixed rate period of their mortgage deal when no ERC will be applicable
+
+### Property construction
+
+The property to be mortgaged should be of standard construction type. For example:
+
+**Walls:**
+* Cavity outer walls of brick/ reconstituted stone with inner walls of brick or block
+* Cavity outer walls of brick/ reconstituted stone/ blocks rendered with inner walls of brick or block
+* Timber framed property with outer walls of brick/ reconstituted stone, built in 1980 or after
+* Timber framed property with rendered outer walls of brick/ reconstituted stone/ block, built in 1980 or after
+* Solid stone
+
+**Roof:**
+* Tile (concrete)
+* Slate
+* Thatch (reed or straw)
+* Felt, asphalt
+* Copper
+* Lead
+
+We might also accept some properties built using alternative techniques, so please speak to your BDM or TBDM to confirm if the construction method is acceptable before applying.
+
+In all cases, we must receive a satisfactory valuation report.
+
+### Property location
+
+We're happy to lend against properties in England, Wales, Scotland and Northern Ireland.
+
+However there may be some additional restrictions to property located on remote Scottish islands due to restricted demand. If this affects the application, please speak to your BDM or TBDM first to discuss the suitability of the property before applying.
+
+We don't currently lend on properties outside the UK including the Isle of Man and the Channel Islands.
+
+### Property types
+
+We'll consider lending on standard property and construction types. In addition we may consider the following types of property, subject to additional checks and a manual underwriting assessment:
+
+* Flats located five storeys or more above the ground (excluding ex-local authority)
+* Flats above commercial premises - in addition to normal criteria acceptability will depend on:
+  * Nearby commercial activities. If any commercial activities in the block are likely to cause a nuisance - noise, smell or unsocial hours - we may not be prepared to lend on the flat
+  * Access. Some flats over commercial premises have poor access, which may involve passing through the business area, exiting yards containing commercial refuse, or using poorly maintained external stairs. If any of these factors apply we might not be prepared to lend
+* Studio flats may be considered if they're located in a prestigious development or location where their desirability and saleability can be confirmed by the valuer.
+* Freehold flats where
+  * There are reciprocating lease/freehold arrangements (such as Tyneside Flat).
+  * They are subject to the Tenements (Scotland) Act 2004
+* Flying freeholds where this makes up less than 15% of the property where the conveyancer can confirm that subject to confirmation that adequate rights of support and mutually enforceable repairing covenants exist.
+* Properties with over 10 acres (40,000m2) of land will be considered provided the following information is provided at application stage:
+  * Full details of the living accommodation
+  * Total area of land
+  * Current and intended use of the land
+  * Number, size, and proposed use of any outbuildings
+  * Occupation of the applicant(s)
+  * Details of any restrictions on the land or property
+
+Please note: the property won't be acceptable if it's subject to any agricultural restrictions, or if the applicants intend to use the land for any agricultural or business purposes.
+
+* Properties with granny flats/annexes where the acting solicitor confirms that the granny flat or annex will have vacant possession upon completion
+* Right to Buy where the applicants currently live in the property and can supply their Right to Buy papers
+* Warden assisted dwellings
+* Residential properties including rooms used for rental purposes (e.g. Airbnb where only a portion of the property is let)
+* Modern Timber framed properties
+* Section 106 planning restrictions can be considered depending on the exact nature of the restriction
+  * Where the restriction imposes developer obligations, for example, inclusion of public amenities, this will be acceptable subject to our conveyancer confirming that the restrictions have been met or that acceptable covenants that they will be met are in place.
+  * Where there is a restriction on remarketing of the property e.g. Affordable Housing Schemes or Local Ownership Schemes this will be acceptable provided there is a Mortgagee Exclusion Clause.
+  * Where the restriction limits usage of the property e.g. agricultural ties this will not be acceptable.
+
+#### Unacceptable property types
+
+Unfortunately we're unable to consider mortgage applications associated with the following types of property (please note that this isn't an exhaustive list):
+
+* Commercial premises - either full or partial, including live/work units
+* High rise ex local authority flats (five storeys or more)
+* Freehold flats (excluding those noted above)
+* Flats with private balcony access (will be considered on an individual basis)
+* Flats with deck access
+* Flats that aren't self-contained or without independent access
+* Isolated rural properties with restricted access and limited services
+* Bedsits
+* Static caravans
+* Mobile homes
+* River boats
+* Farms
+* Purchase of land
+* Entirely timber constructed properties. e.g. log cabins
+* Pre-cast reinforced concrete construction (unless improved to building regulation standards and confirmed so by a structural engineer)
+* Flying freeholds greater than 15%
+* Grade I listed buildings (may be considered on an individual basis subject to valuers comments)
+* Partially built properties
+* Properties with no kitchen or bathroom - unless being installed by applicants
+* Properties with a restricted occupancy clause, e.g. if they can only be occupied for a maximum of 11 months in any one year
+* Timeshare accommodation
+* Properties where material environmental hazards are revealed by environmental searches;
+* Properties where there's ongoing structural movement
+* Properties where saleability may be adversely affected by an unsatisfactory mining search;
+* Properties excluded from full buildings insurance
+* Properties affected by planning restrictions or by local planning issues
+* Properties liable to be subject to clearance or compulsory purchase order
+* Properties subject to third party interest
+* Any property deemed unsuitable security by the valuer
+
+Before applying it's always worth double checking the suitability of the property with our Intermediary Support team.
+
+### Property value / purchase price
+
+The minimum and maximum purchase prices that we're willing to lend against are:
+
+| | Purchase Price |
+| --- | --- |
+| Minimum | Maximum (subject to max. LTV) |
+| Residential | £50,000* | £3,500,000 |
+
+*Please note where the property is located within the M25 and the property value is less than £100,000 then the application will be subject to additional scrutiny by an underwriter.
+
+### Remortgage
+
+When looking to remortgage with us there are a couple of things to consider:
+
+* The property must have been owned and occupied by the applicants for at least six months
+* The applicant can look to borrow the same amount or less as the existing mortgage, or an increased amount including an element of capital raising
+
+If you need to alter the title deeds as part of a remortgage application, there may be legal costs involved and we always recommend that customers take independent legal advice. Please see Transfer of Equity.
+
+### Repayment Types
+
+#### Interest-only
+
+We don't currently offer full interest-only lending.
+
+#### Capital and Interest
+
+Acceptable for all mortgages.
+
+#### Part and Part
+
+(Capital and interest / interest-only) not currently available.
+
+### Retentions
+
+We currently don't offer mortgage retentions, we simply base our lending on the current value of the property.
+
+### Right to Buy
+
+We're happy to accept Right to Buy applications as long as they meet our standard mortgage lending criteria.
+
+What you need to know and provide:
+
+* The maximum loan amount will be limited to the purchase price but LTV will be based on the full value of the property
+* We don't allow capital raising for debt consolidation
+* All applicants must currently live in the property
+* You'll need to supply us with the applicant's Right to Buy/Acquire papers detailing the discounted price and confirming their eligibility
+* We also require a landlord's reference or evidence of rent payments.
+
+If an applicant receives housing benefit this can't be used as income to support the mortgage as the benefit won't continue once the mortgage has completed.
+
+### Second charges
+
+We'll only consider allowing second charges to remain, or to be registered on residential mortgages if:
+
+* We are granted the first legal charge over the property;
+* The applicant(s) completes the appropriate Deed of Priority / Deed of Postponement / Ranking Agreement form
+
+### Second home and holiday homes
+
+We're happy to consider mortgages for a second home or holiday home, providing:
+
+* The applicant demonstrates they can support both mortgages that are outstanding at the time of completion
+* They prove they can afford the cost of running two homes
+* The property is predominantly for the applicant's own use, however short term occupation by family and friends will be acceptable
+* The property is not to be sublet
+
+The maximum loan to value we'll offer for this kind of purchase is 75%.
+
+### Security
+
+A first legal charge (or equivalent) will be required over all property in England and Wales and over all outright/ Scottish ownership property in Scotland.
+
+If a customer has more than one mortgage with us, the standard Mortgage Conditions will include an 'All Monies Clause' which secures on the subject property any other debt that may be due to us, whether under this loan or any other lending facility.
+
+### Self-build
+
+We don't currently accept applications for mortgages against self-build properties.
+
+### Self-employment
+
+If an applicant has more than a 20% shareholding in the business they work for, we'll treat them as self-employed, but if their shareholding is 20% or under, we'll class them as employed.
+
+Applicants who own a franchise or have a partnership interest in a business will be assessed as self-employed, as will sub-contractors who derive income from more than one contract. In all cases, we may seek references from their accountants.
+
+We require applicants to have been self-employed for a minimum of two years and for the business to have been profitable throughout that time.
+
+The maximum LTV for self-employed applicants is 90% for Prime and Near Prime products.
+
+Income for affordability is taken as follows:
+
+#### Sole traders
+
+For sole traders, we'll accept 100% of their net profits to assess affordability, as long as they can evidence income with one of the following:
+
+* Two years' SA302s or tax calculations combined with tax year overviews
+* Last two years' accounts
+* Accountant's certificate
+
+We will assess income by taking the average of the last two years' net profit or latest year only (if lower).
+
+#### Partnerships
+
+For applicants who share responsibility for their business in a partnership, we'll accept 100% of their share of net profit to assess affordability, as long as they can evidence income with one of the following:
+
+* Two years' SA302s or tax calculations combined with tax year overviews
+* Last two years' accounts
+* Accountant's certificate.
+
+We will assess income by taking the average of the last two years' net profit or latest year only (if lower).
+
+#### Limited company directors
+
+For limited company directors, we'll accept 100% of their share of pre-tax profit and 100% of their annual salary to assess affordability, as long as they can evidence income with two years' company accounts or Accountant's certificate.
+
+We will assess income by taking the average of the last two years' net profit or latest year only (if lower).
+
+**Keying tip:** we do not consider dividends for affordability purposes and they should not be declared on the application.
+
+#### Limited Liability Partnership (LLP)
+
+For partners within an LLP, we'll accept 100% of their share of pre-tax profit and 100% of their annual salary to assess affordability, as long as they can evidence the following:
+
+* Two years' company accounts or Accountant's certificate*
+* Average of the last two years' pre-tax profit or latest year only (if lower).
+
+Where the appointment is too recent to be shown in the accounts, income can be validated by a letter from the managing partner confirming the applicant's partnership share and income for the most recent financial period.
+
+#### Construction Industry Scheme (CIS) contractors
+
+CIS Contractors will be treated as self-employed. Therefore, two years' accounts or two years' HMRC self-assessments (SA302s or Online Tax Calculations) will have to be provided to evidence income.
+
+*Accountants certificate - if you want us to apply for an accountant's certificate, rather than sending in accounts, then please email mortgageprocessing@atombank.co.uk with your request.
+
+### Shared equity
+
+We don't currently accept applications for shared equity.
+
+### Shared ownership
+
+We don't currently lend on shared ownership properties unless the customer is purchasing the final share. In this scenario we may be able to lend as a new purchase.
+
+### Sheltered housing schemes / retirement villages (Resi)
+
+We can consider applications for residential properties in sheltered housing schemes or retirement villages.
+
+The maximum LTV available on these is 75%, and the full property lease and restrictive covenants must be approved by our solicitors and valuers.
+
+### Solar panels
+
+We will consider properties with solar panels where the applicant(s) are funding the purchase of panels themselves or via additional borrowing, providing they are doing so without creating any long term lease arrangement with the panel provider. A condition will be attached to the offer of advance that lending is subject to the appropriate planning permission and consents being in place.
+
+We will not lend on a property where the panel provider is supplying and fitting panels free of charge, is taking income from the grid tariff scheme and is creating a long term lease against the roof and roof air space.
+
+### Specialist reports
+
+In certain situations the valuer might request a specialist property report prior to the mortgage being offered.
+
+When this happens, we will ask the customer to arrange for the appropriate report to be completed and we'll forward to the original valuer for comment. The customer will be responsible for covering the cost of the report and for ensuring that the person completing the report holds the qualifications required by us. Please be aware that providing a specialist report does not guarantee that the property will be acceptable to us as security.
+
+Where the valuer requests a structural engineer's report the customer must ensure that the individual completing the report is a member of either the Institute of Structural Engineers ([www.istructe.org.uk](http://www.istructe.org.uk)) or the Institute of Civil Engineers ([www.ice.org.uk](http://www.ice.org.uk)). They must also hold one of the following qualifications:
+
+* Structural Engineer (M.I.C.E, F.I.C.E, M.I. Struct E or F.I Struct E.)
+* Chartered Building Surveyor (M.R.I.C.S. or F.R.I.C.S.)
+* Corporate Building/Corporate Structural Engineer (M.A.S.I., F.A.S.I, MBEng., FBEng., M.C.I.O.B. or F.C.I.O.B.)
+
+All other specialist reports need to be prepared by a reputable firm (please refer to valuer for guidance if in any doubt). Some examples of the types of report that our valuer might request, and the qualifications the individual completing the report must hold are listed below:
+
+* **Cavity wall tie:**
+  * Member of the Federation of Master Builders or Member of the British Wall Tie Association
+  * Members of the Wall Tie Installers Federation
+  * Property Care Association (PCA)
+* **Damp & Timber**
+  * Property Care Association (PCA)
+  * Chartered Building Surveyor (MRICS/FRICS)
+  * Member of the Institute of Chartered Engineers or Member of the Institute of Structural Engineers
+* **Drainage**
+  * Specialist contractor with review/recommendations by a Member of the Institute of Chartered or Structural Engineers
+* **Electrical**
+  * Member of the Institute of Electrical Engineers
+  * Member of the National Inspection Council for Electrical Installation Contractors.
+  * Certified by one of the following bodies:
+    * BRE Certification Ltd
+    * ELECSA Limited
+    * NAPIT Certification Ltd
+    * NICEIC Group Limited
+    * British Standards Institution
+* **Gas and central heating**
+  * Gas Safe registered
+* **Japanese Knotweed**
+  * Property Care Association (PCA) – Invasive Weeds
+* **Tree / Arboriculturalist**
+  * Structural Engineer
+  * Professional Member of the Arboricultural Association
+
+### Sub-sale transactions [RESI]
+
+We don't currently accept applications for sub-sale property transactions.
+
+### Tenure
+
+We welcome applications for properties with the following tenure:
+
+* Freehold houses (England and Wales)
+* Outright Ownership (Scotland)
+* Leasehold properties*, provided that:
+  * the lease has at least 80 years unexpired term at outset of mortgage and 50 years unexpired term at expiry of mortgage.
+  * ground rent is no more than 0.2% of the property value;
+  * ground rent escalation frequency is 10 years or more; and
+  * ground rent escalation is in line with Retail Price Index (RPI).
+
+We're unable to lend on commonhold properties, and any applications for these will be declined.
+
+### Term
+
+The minimum term we offer is two years or the length of the product selected, whichever is the greater.
+
+The maximum term available is 40 years.
+
+### The Atom bank app
+
+**Remember**
+
+We're a whole bank packed into an app. So to get a mortgage with us, each applicant will need:
+
+* Their own compatible device [(see supported devices and operating systems here)](https://www.atombank.co.uk/help/faqs)
+* The Atom bank app
+* Their own unique email address
+* Their own unique mobile number
+
+A mortgage code will be issued to each applicant by email / SMS. They will need this to access information about their mortgage in the app.
+
+The app can be downloaded at any time during the application process. We recommend that this happens at the point of DIP, but **it must be downloaded (and terms and conditions of the offer accepted) by all applicants before the conveyancer can request funds for completion. Failure to do so will result in the mortgage not being able to complete.**
+
+### Transfer of Equity (ToE)
+
+We can accept applications where a party is being added or removed from the existing mortgage. All such applications will be subject to normal lending criteria.
+
+Existing customers may request a ToE on their mortgaged property to add a new party to, or remove an existing party from, the mortgage, after they have had their mortgage for six months. In this instance you'll need to add the relevant background details on the customer's file. Conveyancing fees will be payable by the customer in ToE cases and we will require evidence that affected parties have had independent legal advice.
+
+A party being added to a mortgage will be treated as a new mortgage applicant and require full evaluation against our lending criteria and must have been a resident/ occupier in the property for at least six months prior to application.
+
+A party being removed from the mortgage must have vacated the property prior to completion.
+
+### Unacceptable loan types
+
+We won't lend against the following types of property transaction:
+
+* Lifetime mortgages
+* Bridging loans
+* Assignable contracts
+* Back to back transactions
+* Self build
+* Sub-sale transactions
+* BTL
+* Shared Ownership
+* Interest Only/Part and Part
+
+### Valuation appeals
+
+Our panel of regional valuers is highly experienced and we're very confident that the valuation they provide will be an accurate reflection of its true market value.
+
+This means we're unable to accept any appeals against the valuation of the property.
+
+If your client has an unusual property or you have any other concerns then [please contact our dedicated Intermediary Support team or your BDM.](https://www.atombank.co.uk/intermediaries/residential/contact-us/)
+
+### Valuation fees
+
+If a physical valuation report is required, we work to the following mortgage valuation fee scale. (Please note that upgrade fees apply to non-fees assisted products only. For fees assisted products a fixed upgrade fee applies to the standard mortgage valuation report fee of £190 for a homebuyers report, or £670 for a building survey):
+
+Please note, where an AVM (automated valuation model) has already been successful, a physical valuation/homebuyers report will not be available.
+
+| Purchase price/ est. value up to | Mortgage valuation report | Homebuyers report | Building survey |
+| --- | --- | --- | --- |
+| £100,000 | £155 | £345 | £825 |
+| £150,000 | £185 | £375 | £855 |
+| £200,000 | £220 | £410 | £890 |
+| £250,000 | £280 | £440 | £920 |
+| £300,000 | £280 | £470 | £950 |
+| £350,000 | £350 | £495 | £975 |
+| £400,000 | £350 | £535 | £1015 |
+| £450,000 | £425 | £570 | £1050 |
+| £500,000 | £425 | £585 | £1065 |
+| £550,000 | £500 | £645 | £1125 |
+| £600,000 | £500 | £645 | £1125 |
+| £650,000 | £600 | £695 | £1175 |
+| £700,000 | £600 | £695 | £1175 |
+| £750,000 | £600 | £775 | £1255 |
+| £800,000 | £700 | £775 | £1255 |
+| £850,000 | £700 | £815 | £1295 |
+| £900,000 | £700 | £815 | £1295 |
+| £1,000,000 | £770 | £875 | £1355 |
+| Over £1,000,000 | Available on request | Available on request | Available on request |
+
+### Valuations
+
+Every property used as security requires a valuation.
+
+For some remortgage applications, where the application meets our criteria, we may use an automated valuation model (AVM) to determine the value of the property.
+
+You'll know an AVM has taken place when there isn't a valuation report listed in the "documents required" section within MSO.
+
+However where an AVM is not possible and a physical valuation is needed we'll ask a valuer from our approved panel to complete an internal and external inspection of the property. This basic valuation assesses the suitability of the property for mortgage purposes only. While it's instructed by us and is purely for our use, copies will be sent to both the applicant and the conveyancer.
+
+For customers who'd prefer a more detailed valuation report, we can instruct the valuer to complete one for the customer's behalf, to be paid by the customer (alongside any physical valuation that we might instruct). There are two types the valuer can offer:
+
+1. **Homebuyer Report:** This is an internal and external inspection of the property. The report provides an account of the property's condition and highlights any problems using a traffic lights rating system. It'll include advice on defects that may affect the value of the property with comments on repairs and ongoing maintenance.
+2. **Building Survey:** This is an in depth analysis of the property's condition. It includes advice on defects, repairs and maintenance options, and should be considered essential for larger or older properties, or if the applicant is planning major works.
+
+More information on the types of survey available can be found on the RICS website.
+
+Please note, where an AVM has already been successful, Homebuyers Reports and Building Surveys are not available.
+
+Please be aware we are unable to accept:
+
+* challenges to valuations
+* any requests to add new valuers to panel.
+
+All valuations are valid for 180 days from the date of inspection. If the valuation expires before the offer, the customer may need to pay for a new one.
+
+---
+
+## Prime
+
+### Additional borrowing / capital raising
+
+Where a customer is remortgaging to Atom bank and wants to borrow extra funds it should be allowed, up to standard LTV limits and within the context of our current product offering, providing we're happy with the purpose of the loan and the application meets our affordability criteria.
+
+Examples of acceptable loan purposes include (but are not limited to):
+
+* Structural/non-structural home improvements
+* Repayment of a Help to Buy equity loan (should be input into the system as "repay second charge")
+* Buying final share in shared ownership
+* Buying the freehold or a new extended lease
+* Buying land to extend the current property
+* Purchasing another property. Please note that details of the property will be required (as we do not accept applications for speculative property purchase) including, but not limited to:
+  * Property address
+  * Confirmed mortgage costs (if applicable)
+  * Forecast rental income (if applicable)
+* Buying a car, caravan, or boat
+* Paying off a second charge
+* Debt consolidation (except for Right to Buy)
+* Buying out joint borrower (transfer of equity)
+* Paying for school fees or childcare
+* Paying for holidays
+
+We'll complete a reasonability assessment based on the amount and purpose of the additional borrowing and may seek additional evidence for the borrowing or, in some circumstances, we might not be able to lend.
+
+We won't allow additional borrowing or the option to raise capital for the following (non-exhaustive list of) reasons:
+
+* Purchase of another property where a sale is yet to be agreed
+* Purchase of another property at auction
+* Purchase of a timeshare property
+* Payment of a tax bill
+* Business purposes
+* The purchase of stocks and shares
+* Currency speculation
+
+If you are unsure whether we'll accept the purpose of borrowing, [please contact our dedicated Intermediary Support team.](https://www.atombank.co.uk/intermediaries/residential/contact-us/)
+
+In all cases we will appoint a conveyancer to act on our behalf.
+
+Where the product selected is fees assisted, the conveyancer will be automatically allocated from our restricted panel. The "fees assisted" element of the product covers the base legal fees only and excludes disbursements and any additional fees. The customer will have to pay the cost of any additional fees. These will be confirmed to the customer by the conveyancer. Below is a non-exhaustive list of circumstances that would incur additional legal fees:
+
+* Where a party is being added or removed from the current mortgage (transfer of equity);
+* Where a second or subsequent charge is registered against the property:
+* Where the property is leasehold
+* Where the customer is buying the final share of a shared ownership agreement or repaying their Help to Buy equity loan in full*. Please be aware that they may also incur extra costs in this process, for example - valuations for the agent's purposes
+* Where the property is currently free of debt or any other financial liability
+
+### Adverse credit history [Resi]
+
+All applicants will go through credit reference checks, so we recommend that your client reviews their credit file in advance of completing their application to make sure all of the information is correct.
+
+Applications with more than one instance of adverse credit history will be declined. Adverse credit may limit LTV to 85%, please discuss your case with a TBDM for more information on how adverse credit may affect your customer's application.
+
+We may be prepared to consider applicants with single, isolated and minor instances of adverse credit history, and where likelihood of recurrence is assessed as low, in line with the table below:
+
+| Adverse credit found | Policy |
+| --- | --- |
+| Bankruptcy/Sequestration | Must have been registered more than six years ago and discharged. |
+| County Court Judgements (CCJs) | No CCJs allowed within last 12 months<br>Where the value of any unsatisfied CCJ exceeds £500, the application will be declined<br>Where there has been more than one CCJ registered in the last six years, the application will be declined<br>Where a CCJ (satisfied or unsatisfied) has been registered in the last three years with a value greater than £500, the application will be declined<br>Applicants with any satisfied or unsatisfied CCJ registered in the last three years with a value of £500 or less may be considered up to 85% LTV, subject to additional affordability checks. |
+| Defaults | No defaults allowed within the last 36 months<br>Where there are two or more defaults on a credit file, the application will be declined<br>Where there is one unsatisfied default greater than £500, this will result in a decline. |
+| Individual Voluntary Arrangements (IVA) / Trust Deed | Must have been registered over six years ago and discharged. |
+| Mortgage / secured loan arrears (by this we mean any instance where agreed repayments to the account are made later than their due date) | Any missed payments on a mortgage or secured loan, in the last 12 months, will result in a decline. |
+| Arrears on an unsecured loan or hire purchase (by this we mean any instance where agreed repayments to the account are made later than their due date) | Account must currently be up to date<br>Where account has been a maximum of one month in arrears in the last 12 months, the application may be considered where this is an isolated incident and subject to satisfactory credit score |
+| Arrears on a credit card, store card, mail order, communications accounts, or exceeding an authorised overdraft limit (by this we mean any instance where agreed repayments to the account are made later than their due date, where an overdraft balance has been greater than the overdraft limit or where cheques, direct debits and standing orders have been bounced to keep an account in order) | Account must currently be up to date<br>Where account has been a maximum of two month in arrears, the application may be considered where this is an isolated incident and subject to satisfactory credit score |
+| Repossession | Where this has occurred more than six years ago the application may be considered where this is an isolated incident and subject to satisfactory credit score. |
+| Debt Management Plan (DMP) | Considered, in cases where other adverse criteria is met. |
+
+### Consent to Let (CTL)
+
+Unless your customer's Mortgage Offer states otherwise, the property must be their main residence and should not be let or sublet without our permission.
+
+They can ask for CTL at any time if they want to let out some or all of the property. We'd usually expect this to be a minimum of six months after completion but we'll base our decision on the customer's personal circumstances and our current lending criteria at the time.
+
+We may need to complete a rental valuation on the property, which your customer may have to pay for. Please view our price list for further information.
+
+### Credit scoring
+
+All mortgage applications are credit scored. To determine the score, we use a combination of the customer's application data and credit bureau data to help us to build a clearer picture of the applicant's finances.
+
+We use TransUnion to inform our credit searches.
+
+If the applicant can't satisfy our minimum mortgage score, then the application will be declined.
+
+### Further advance (called additional borrowing in customer communications)
+
+For your information, we call further advances 'additional borrowing' in our customer communications (including their T&Cs and documentation).
+
+Any request for a further advance will be subject to our current product offering and our lending criteria at the time of application, and will be subject to an affordability assessment. For our latest further advance rates and products, please contact our TBDM team.
+
+A further advance won't be permitted within six months of completion of the original mortgage, where there have been, or are any arrears on the current mortgage account or where a second charge is held on the property. All applications will be subject to our standard maximum LTV levels and a minimum loan amount of £25,001.
+
+**Examples of acceptable loan purposes include:**
+
+* Structural/ non-structural home improvements
+* Buying a car, caravan or boat
+* Buying furniture, electrical or white goods
+* Paying for school fees or childcare
+* Paying for holidays
+* Paying for weddings
+* Debt consolidation (except for right to buy)
+
+**Examples of unacceptable loan purposes include (but are not limited to):**
+
+* Buying a building plot
+* Buying land to extend the security
+* Purchase of another property
+* Purchase of a timeshare property
+* Business purposes
+* Purchase of stocks & shares
+* Currency speculation
+* Payment of a tax bill
+* Pay off a second charge
+* Buying the freehold or new extended lease
+* Buying a share in a freehold
+* Buying additional/ final share in shared ownership.
+
+In some circumstances there may be additional legal costs to be paid. Our further advance products come with a free basic valuation, any upgrade to this will carry a cost. Where possible we'll use an Automatic Valuation Model (AVM).
+
+Please contact our TBDMs to discuss further advance cases before submitting an application. They're available Monday to Friday, from 9am to 5pm, on [0333 399 0055](tel:03333990055) (select option one to speak to our TBDMs) or residentialsupport@atombank.co.uk.
+
+### Loan to Affordability (LTA) limits
+
+Where the customer is considered to be of higher risk through a combination of the requested LTV, LTA and their underlying mortgage credit score, then the loan amount available will be restricted to 95% of the maximum amount generated in affordability calculations.
+
+For example, where the maximum loan shows as £160,000 only £152,000 will be available.
+
+### Loan To Value (LTV) limits
+
+The maximum residential LTV percentage depends on the loan amount and type of borrowing, employment type and products available.
+
+| LTV (%) | Max loan amount (£) |
+| --- | --- |
+| 0-75 | 2,000,000 |
+| 75-85 | 1,000,000 |
+| 85-95 | 750,000 |
+
+| Loan type / Property type / Applicant type | Max LTV |
+| --- | --- |
+| House purchase / Remortgage 1 | 95% |
+| First-Time Buyers | 95% |
+| Self-employed applicants | 90% |
+| Flats and apartments purchase / Remortgage 1 | 90% |
+| New build houses 2 | 90% |
+| New build flats 2 | 80% |
+| Concessionary purchase | 95% of full market value |
+| Right to buy | 95% of full market value (or 90% LTV for flats and self-employed applicants) |
+| Non-UK national applicants resident in the UK for less than three years | Not accepted |
+| UK nationals with less than 3 years UK address history<br>Where they have been working overseas in a similar role to their current employment,<br>and they have at least 12 months UK address history, standard criteria will apply | Not accepted |
+| Second home / holiday homes | 75% |
+| Sheltered housing schemes / Retirement villages for elderly | 75% |
+
+1 Existing customers who are porting or requesting a product transfer may still borrow with a max LTV of 95% for new purchase or remortgage of houses and 90% for new purchase or remortgage of flats. We will allow an increased LTV of up to 95% LTV for flats and apartments located in London and the South East. Please head to the London and South East section on this page for more information.
+
+2 Existing customers who are porting or requesting a product transfer may still borrow with a max LTV of 90% for new build houses and 80% for new build flats. We will allow an increased LTV of up to 95% LTV for new build houses and 90% for new build flats, for properties located in London and the South East. Please head to the London and South East section on this page for more information.
+
+### Residential minimum and maximum loan sizes - Prime
+
+| Type | Minimum loan | Maximum loan (subject to LTV maxima) |
+| --- | --- | --- |
+| Purchase/remortgage | £50,000 | £2,000,000 |
+| Further advance | £25,001 | £2,000,000 |
+
+### Short term loans / payday lending
+
+Short term loans are sometimes associated with customers in financial difficulty or with very limited disposable income on a month to month basis.
+
+If an applicant has opened any short term loans within the last 12 months, the application will be declined.
+
+---
+
+## Near Prime
+
+### CCJs
+
+| History (date registered) | Value |
+| --- | --- |
+| 0 in the last 12 months<br>Maximum of 4 in total | Satisfied in full or have a total combined current value of £1,000 or less, per applicant. |
+
+CCJs are assessed independently from defaults.
+
+### Defaults
+
+| History (date registered) | Value |
+| --- | --- |
+| 0 in the last 12 months<br>4 in 13-24 months<br>Unlimited over 24 months | Satisfied in full or have a total combined current value of £2,500 or less, per applicant.<br>Additional owed amount of £500 of unsatisfied defaults for mail order, communications and utilities. |
+
+Defaults are assessed independently from CCJs.
+
+### Loan to value (LTV) limits
+
+All loan and property types for Near Prime mortgages have a maximum LTV limit of 90%.
+
+The maximum residential LTV percentage depends on the loan amount and type of borrowing, employment type and products available.
+
+| Loan type / property type / applicant type | Max LTV |
+| --- | --- |
+| Concessionary purchase | 90% of full market value |
+| Right to buy | 90% of full market value |
+| House purchase / remortgage | 90% |
+| First-time buyers | 90% |
+| Self-employed applicants | 90% |
+| Flats and apartments purchase / remortgage | 90% |
+| New build houses | 90% |
+| New build flats* | 80% |
+| Non-UK national applicants resident in the UK for less than three years | Not accepted |
+
+*We will allow up to 90% for new build flats, for properties based in London and the South East. Please head to the London and South East section on this page for more information.
+
+### Mortgage arrears
+
+| History |
+| --- |
+| 0 in the last 12 months<br>No more than two missed payments on a mortgage in the last 24 months<br>No limit if over 24 months |
+
+Applicants must be up to date at the point of application and be **clear for the last 12 months.**
+
+### Other events
+
+| Type | Criteria |
+| --- | --- |
+| **Bankruptcy** | Must have been registered over six years ago and discharged. |
+| **IVA** | Must have been registered over six years ago and discharged. |
+| **Debt Management Plan (DMP)** | Considered, in cases where other adverse criteria is met |
+
+### Residential minimum and maximum loan sizes - Near Prime
+
+| Type | Minimum loan | Maximum loan (subject to LTV maxima) |
+| --- | --- | --- |
+| Purchase/remortgage | £50,000 | £750,000 |
+
+### Unsecured arrears
+
+| History |
+| --- |
+| Maximum status of two in the last 12 months per account<br>No limit if over 12 months. |
+
+Includes all credit items, including but not limited to; credit cards, unsecured loans, mail order, utilities.
+
+Applicants must be up to date at the point of application.
+
+---
+
+**FOR INTERMEDIARY USE ONLY**
+
+"Atom bank" and "Atom" are trading names of Atom bank plc, a company registered in England and Wales with company number 08632552. Registered office: The Pattern Shop, Sussex Street, Newcastle upon Tyne, NE1 3PD.
+
+Atom bank plc is authorised by the Prudential Regulation Authority (PRA) and regulated by the Financial Conduct Authority and the PRA. Our Financial Services Register number is 661960.
+
+**Contact:** [Contact us](https://www.atombank.co.uk/intermediaries/residential/contact-us/) | [Intermediary Support Team](https://www.atombank.co.uk/intermediaries/residential/contact-us/)
+
+---

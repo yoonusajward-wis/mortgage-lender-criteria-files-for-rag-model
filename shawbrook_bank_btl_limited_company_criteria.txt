@@ -1,0 +1,744 @@
+LENDER NAME: Shawbrook Bank
+PRODUCT: BTL Limited Company
+
+# Shawbrook Bank - Buy to Let (Limited Company) Lending Criteria
+**Source:** https://www.shawbrook.co.uk/property-brokers/buy-to-let-mortgages/
+**PDF:** https://www.shawbrook.co.uk/media/bjrdgoyj/btl-lending-criteria.pdf
+**Last Updated:** 2025
+
+**FOR INTERMEDIARY USE ONLY**
+
+Shawbrook Bank Limited is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (Financial Services Register number: 204574).
+
+**Contact:**
+* **Broker Portal (BrokerHub):** https://commercial.shawbrook.co.uk/BrokerHub/
+* **Website:** https://www.shawbrook.co.uk/property-brokers/
+* **Documents:** https://www.shawbrook.co.uk/property-brokers/help/documents/
+* **Contact Us:** https://www.shawbrook.co.uk/property-brokers/contact-us/
+* **Make an Enquiry:** https://www.shawbrook.co.uk/property-brokers/buy-to-let-mortgages/enquiry/
+* **Get a Quote:** Available via broker portal
+
+**Registered Office:**
+Lutea House, Warley Hill Business Park, The Drive, Great Warley, Brentwood, Essex, CM13 3BE
+
+---
+
+## Overview
+
+Shawbrook Bank offers Buy to Let (BTL) mortgages for limited companies, including Special Purpose Vehicles (SPVs) and trading companies. The Bank provides flexible BTL products suitable for professional property landlords and investors growing their portfolios, with products designed specifically for the current property landscape.
+
+### Key Features
+
+* **Award-winning lender** - NACFB's Buy-to-Let Lender of the Year 2021-2024
+* **Auto-decisioning** - Available on simple Buy-to-Let cases (SB1)
+* **Specialist underwriting** - For more complex Buy-to-Let cases (SB2)
+* **Wide range of property types** - Including large portfolios, blocks of flats, and investment-grade HMOs
+* **Supports new entrants to seasoned professionals** - Including limited companies, SPVs, SIPP borrowers, and trusts
+* **Flexible finance solutions** - Tailored to client needs
+* **Limited personal guarantees** - 25% per application
+
+---
+
+## General Lending Criteria
+
+### Where We Lend
+
+* **Location:** England, Scotland, Wales
+* **Unacceptable Locations:**
+  * Security located in the AB (Aberdeen) postcode area
+  * Security located in the FY 1-4 (Blackpool) postcode area
+  * Purpose Built Student Accommodation, Multi Unit Freehold Block or Large HMOs located in postcode areas CV1-CV8 (Coventry)
+
+### Loan-to-Value (LTV)
+
+* **Maximum LTV:** Up to 75% LTV available (subject to affordability)
+* **Interest-only:** Available up to 75% LTV (subject to affordability)
+
+### Loan Amounts
+
+* **Minimum loan amount:** £40,000
+* **Maximum loan amount (single asset):** £5,000,000
+* **Maximum aggregated exposure:** £35,000,000 (subject to single asset exposure being limited to £5,000,000)
+* **Large loans:** Dedicated team offering premium case management service for loans over £5 million
+* **SIPP and Trust borrowers:** Subject to £1 million minimum loan size (SB2 products)
+
+### Loan Terms
+
+* **Minimum term:** 3 years
+* **Maximum term:** 30 years
+* **Rate types:** Variable and fixed rates available
+* **Fixed rate terms:** 2, 3, 5, and 10 years available
+* **Variable rates:** Inclusive of Shawbrook Base Rate (SBR)
+* **Shawbrook Base Rate (SBR):** Subject to a minimum floor of 0.75%. Current SBR is 3.75% (as of 19 Dec 2025)
+* **Repayment:** Interest-only and capital repayment options are available
+
+### Interest Rates
+
+* **Rates from:** 4.64%
+* **Arrangement fees:** Product choices with 2%, 3%, or 5% arrangement fees and corresponding rates
+* **Rate structure:** Lower arrangement fees correspond to higher interest rates, and vice versa
+
+---
+
+## Applicant Requirements
+
+### Company Types
+
+* **Limited companies** - UK-registered limited companies
+* **Special Purpose Vehicles (SPVs)** - Non-trading companies established for holding and letting residential investment properties
+* **Trading companies** - Companies engaged in trading activities
+* **SIPP borrowers** - Self-Invested Personal Pension schemes (subject to £1m min. loan size, SB2 products)
+* **Trust borrowers** - Trust structures (subject to £1m min. loan size, SB2 products)
+* **First-time landlords** - Accepted
+* **Portfolio landlords** - Accepted (no maximum portfolio size restrictions)
+* **New entrants to seasoned professionals** - Supported
+
+### Company Structure
+
+* **UK-registered limited company** - Must be registered in the UK
+* **Corporate shareholding** - Maximum of 1 layer of corporate shareholding (SB1 products)
+* **SB1 product rules:** Available for UK registered limited companies with a maximum of 4 UK based ultimate beneficial owners (UBO's) and 1 layer of corporate shareholding only
+* **SB2 product rules:** Available for more complex company ownership structures including those with any offshore entities or trusts
+* **Unlimited properties** - No maximum number of properties, units, or guarantors on single application (SB2 products)
+* **Complex structures** - Considered on a case-by-case basis (SB2 products)
+
+### Personal Guarantees
+
+* **As a minimum, a personal guarantee equal to 25% of the gross loan or £50,000** (whichever is higher and subject to a maximum 100% of the loan size) will be required from all directors where they have 25% or more shareholding
+* **Any shareholders holding less than 25% share of the company** - Do not have to appear on the application
+* **Corporate borrowers must provide personal guarantees** from all shareholders holding more than 25% of shares
+* **If company has fewer than four directors or shareholders:** All must be included in the mortgage application
+* **For company applications where shareholding is owned by another company:** It will be necessary to trace back the ultimate beneficial owners and obtain the relevant personal guarantees
+* **No maximum number of guarantors** - On single application (SB2 products)
+
+### Age Requirements
+
+* **Minimum age:** 21 years (for directors/guarantors)
+* **Maximum age:** 80 years at the time of application (for directors/guarantors)
+* **Applicants aged 70 years or older** - Must have a clear succession plan in place to demonstrate the ongoing serviceability of the loan
+* **Application compliance** - The application will be policy & criteria compliant where at least one party meets the above age requirements
+
+### Residency Requirements
+
+* **UK-registered company** - Must be registered in the UK
+* **Directors/Guarantors** - Standard residency requirements apply
+
+### Income Requirements
+
+* **No specified minimum income** - Subject to affordability assessment
+* **Rental income** - Must meet Debt Service Cover Ratio (DSCR) requirements
+* **Company income** - May be considered for trading companies
+* **Financial standing** - Company should demonstrate financial stability and ability to meet mortgage repayments
+
+### Trading History
+
+* **Trading history beneficial** - While a trading history is beneficial, newly established companies may also be considered
+* **Newly established companies** - May be considered (subject to assessment)
+
+### Credit History
+
+**SB1 Products Credit Criteria (for directors/guarantors):**
+* **County Court Judgements:** None in the past 12 months
+* **Mortgage/Secured loan payments:** None in the last 12 months
+* **Defaults (excluding utilities):** No unsatisfied or satisfied in the last 12 months
+* **Unsecured Borrowing (excluding utilities & comms):** Maximum 1 missed in the last 6 months
+* **Bankruptcy/CVA/IVA:** None registered. No repossessions
+* **CIFAS:** No adverse fraud data
+* **Business Credit Profile:** No history of receivership, administration order, winding up petition, creditors or compulsory liquidation, disqualified director within the last 72 months (extends to associated companies within the same industry)
+
+**SB2 & SRE Products Credit Criteria (for directors/guarantors):**
+* **County Court Judgements:** Maximum £5k & satisfied in the last 3 years. No unsatisfied in the last 24 months. Satisfied in the last 12 months considered by exception. Large (>£5,000) historic considered by exception
+* **Mortgage/Secured loan payments:** None in the past 12 months. Maximum of 1 missed in the last 2 years. None missed in last 12 months. No unpaid historic arrears
+* **Defaults (excluding utilities):** No unsatisfied >£100 in last 24 months
+* **Unsecured Borrowing (excluding utilities & comms):** No more than 3 instances of arrears or arrangements to pay in last 12 months
+* **Bankruptcy/CVA/IVA:** Discharged for at least 12 months
+* **CIFAS:** No adverse fraud data
+* **Business Credit Profile:** No history of receivership, administration order, winding up petition, creditors or compulsory liquidation, disqualified director within the last 36 months (extends to associated companies within the same industry)
+
+---
+
+## Property Criteria
+
+### Property Location
+
+* **Location:** England, Scotland, Wales
+* **Unacceptable Locations:**
+  * Security located in the AB (Aberdeen) postcode area
+  * Security located in the FY 1-4 (Blackpool) postcode area
+  * Purpose Built Student Accommodation, Multi Unit Freehold Block or Large HMOs located in postcode areas CV1-CV8 (Coventry)
+
+### Property Types
+
+**Acceptable Properties:**
+* **Standard buy to let properties** - Single unit residential properties
+* **Houses in Multiple Occupation (HMOs)** - Small HMOs and investment-grade HMOs accepted
+* **Multi-Unit Freehold Blocks (MUFBs)** - Accepted
+* **Blocks of flats** - Accepted
+* **Large portfolios** - Multiple properties considered
+* **Student accommodation** - Considered (SB2 products)
+* **Serviced Accommodation** - Acceptable (SB1 products)
+* **Larger residential property** - Portfolios, HMOs and MUFBs over 10 units (SB2 products)
+* Subject to valuation and standard property criteria
+
+**Property Valuation:**
+* **AVMs available** - Up to 75% LTV for single houses and flats (subject to criteria)
+* **Investment valuations** - Available on HMOs (subject to valuation guidance)
+* **Single unit residential property and small HMOs** - Valued on bricks & mortar basis (supported by evidence of HMO rental income) may qualify for AVM
+* **Larger portfolio loans** - AVMs available for up to 10 units or, on a larger portfolio loan, for up to 75% of the security properties (SB2 products)
+
+**Minimum Property Size:**
+* **Minimum residential unit size:** 30 square metres
+* When lending on blocks of flats, if individual flats are less than 30 square metres, aggregated individual values cannot be used, only the investment block value can be used
+
+### Energy Performance Certificate (EPC)
+
+* **We only lend on properties with an A-E rating**
+* **Where the property is currently rated D or E:** The property owner will be asked to consider improvements to the property to raise the EPC rating to A-C as part of their ongoing maintenance
+* **EPC Ratings in Scotland:** EPC ratings below an E on Scottish securities are acceptable if the "Comparative Assessment" section of the certificate confirms the equivalent rating according to the England & Wales methodology is between A-E
+
+**Energy Efficiency Discount:**
+* Properties with an EPC rating of at least 'C' are eligible for a discount on the arrangement fee
+* **Discount rates:**
+  * **A rating:** 0.60% discount
+  * **B rating:** 0.45% discount
+  * **C rating:** 0.25% discount
+* **Example:** If a 3% arrangement fee is applicable, client would be charged 2.55% for a property with an EPC rating of 'B'
+* **Partial refund available:** Making energy efficient improvements during the lifetime of the mortgage that result in a new EPC of at least 'C' means eligibility for a partial refund of the arrangement fee (applicable only to new Buy-to-Let mortgages completed on and after 6 May 2022)
+* **EPC certificate cost refund:** Up to £100 refunded for the new EPC certificate
+
+---
+
+## Rental Income & Affordability
+
+### Debt Service Cover Ratio (DSCR) - Affordability
+
+**The loan must meet the minimum debt service cover ratios (DSCR) to confirm affordability:**
+
+**5-year fixed rate on 5 years or more:**
+* Loan is stressed using the product pay rate
+* DSCR cover required as below
+
+**All variable rate term loans and fixed rate up to 5 years:**
+* BTL loans are stressed using the product pay rate plus 2%
+* Subject to a minimum 5.5%
+* DSCR cover required as below
+
+**DSCR Requirements by Property Type:**
+
+**BTL, Multi-Unit Blocks, Serviced Accommodation & Portfolios:**
+* **Personal application:** 140% (Stress rate = Product Pay Rate or Product Pay Rate plus 2% for variable/short fixed)
+* **Ltd company application:** 125% (Stress rate = Product Pay Rate or Product Pay Rate plus 2% for variable/short fixed)
+
+**Co-Living:**
+* **Personal application:** 150% (Stress rate = Product Pay Rate or Product Pay Rate plus 2% for variable/short fixed)
+* **Ltd company application:** 150% (Stress rate = Product Pay Rate or Product Pay Rate plus 2% for variable/short fixed)
+
+**HMO & HMO Portfolios:**
+* **Personal application:** 165% (Stress rate = Product Pay Rate or Product Pay Rate plus 2% for variable/short fixed)
+* **Ltd company application:** 130% (Stress rate = Product Pay Rate or Product Pay Rate plus 2% for variable/short fixed)
+
+**Affordability Assessment - Security Type:**
+
+**Single Residential (Flat/House):**
+* **What we accept:** Valuer confirmation
+* **What we use:** Market rental
+
+**Multi-Unit Block:**
+* **What we accept:** Valuer confirmation or Passing rental
+* **What we use:** Whichever is the lower
+
+**HMO:**
+* **What we accept:** Valuer confirmation or evidence of passing rental (AVM)
+* **What we use:** Adjusted Gross Rental (AGR) - considers the operating cost that the landlord will incur being:
+  * Utility Bills / Council Tax
+  * Maintenance costs (The costs the valuer believes are correct for the building due to age and condition)
+  * Management costs
+
+**Serviced Accommodation (up to 10 units):**
+* **What we accept:** Valuer confirmation AST Market Rental
+* **What we use:** Market rent on an AST basis
+
+**Serviced Accommodation (>10 units):**
+* **Currently Trading:** Last 2 years accounts
+* **Start Up:** 2 years forecast
+* **What we use:** We will always calculate the maximum loan using the market rent on an AST basis but for larger assets we will require some evidence of the cashflow on a short-term lettings basis
+
+**Vacant Units:**
+* Are acceptable if the property is a multi-unit block or large HMO and the DSCR is not met based on the received rental, we would like to understand how the client intends to service the loan before tenants are found
+
+**Capital and Interest:**
+* Loan amounts will be calculated on an interest only basis
+* C & I option is also available where requested, subject to evidence of supporting income to cover the difference between the C&I payment and any shortfall in the cover ratio for the product. The evidence can be surplus seen from the portfolio schedule
+
+### Portfolio Landlords
+
+**Portfolio Landlord (4+ properties):**
+* **Definition:** A customer with four or more mortgaged buy to let properties either jointly or separately owned
+* **Enhanced checks required** in addition to the standard application requirements
+
+**Portfolio Schedule Requirements:**
+* **Evaluation** that the outside portfolio is geared no higher than 75% LTV
+* **Affordability check** to ensure the portfolio can meet a stressed interest rate at 6.5% with a minimum 125% cover
+
+**Business Bank Statements:**
+* **Review rental streams** and ensure enough cash flow is evidenced
+* **For Landlords with 4-9 properties:** Instead of requesting Bank Statements, we may be able to verify cashflow automatically. If data is not available, then Business Bank Statements will be required
+
+**Assets and Liabilities Form:**
+* **Understanding of outside financial position** required
+
+**Non-Portfolio Landlord (1-3 properties):**
+* **Definition:** A customer with no more than 3 mortgaged properties either with Shawbrook or other borrowing entities
+* **Standard application requirements** with no portfolio check required
+* **If the credit search shows more mortgages than declared:** An explanation as to why will be required
+
+**Unlimited properties** - No maximum number of properties, units, or guarantors on single application (SB2 products)
+
+### Top Slicing
+
+**Top Slicing Criteria:**
+* **Acceptable to support:** Purchases or refinance and capital raising to purchase another property
+* **Not acceptable for:** Capital raising for unsecured debt consolidation or to cover other personal expenditure (e.g., Car Purchase, Holiday, School fees, Gift to relative)
+* **All cases must meet:** A minimum standard ICR of 110%
+* **An income and expenditure form** must be completed
+* **Portfolio Landlords:** Standard outside portfolio stress test to apply with any surplus added to income or shortfall deducted from income. This should be evidenced on SA302s/accounts and bank statements
+
+**Top Slicing Not Acceptable:**
+* Where the customer is a developer (Either an "out of the ground" developer or carrying out large scale conversions – e.g. converting an office into residential)
+* For a portfolio landlord where they have more than 10 financed rental properties (both with Shawbrook and/or external Lenders)
+
+**Acceptable Supplementary Income:**
+* Basic annual salary
+* Income from self-employment
+* Private or Company Pension, verified by P60
+* To be verified by SA302, Certified accounts, 3-months payslips in conjunction with bank statements to confirm
+
+**Expenses to be deducted:**
+* Credit commitments including all mortgages (which should be stressed), credit cards, finance agreements and loans
+* Essential living costs – to include food, utilities, council tax, phone bills, ground rent, service charge, essential travel, and childcare
+* The declared amounts should be checked against available sources such as bank statements and credit search data
+
+---
+
+## Product Types
+
+### SB1 Specialist Buy-to-Let Products
+
+**SB1 Credit History Criteria:**
+* SB1 credit history criteria applies
+* Designed for simpler Buy-to-Let cases
+* Auto-decisioning available on simple cases
+
+**SB1 Product Highlights:**
+* **Limited Company borrowers** - Maximum of 1 layer of corporate shareholding
+* **Up to 10 properties** - With AVMs available for individual houses and flats
+* **Investment valuations** - Available on HMOs (where appropriate)
+* **Serviced Accommodation** - Acceptable
+* **Top Slicing** - Acceptable
+* **Ex-Pats** - Acceptable
+* **Existing customer discount** - 0.25% off arrangement fee
+
+**SB1 Product Ranges:**
+
+**SB1: £50k to £150k**
+* **65% LTV:** Variable rates from 8.80% (2% fee) to 7.90% (5% fee), Fixed rates from 6.54% (2% fee, 2-year) to 6.59% (5% fee, 10-year)
+* **75% LTV:** Variable rates from 9.00% (2% fee) to 8.30% (5% fee), Fixed rates from 6.64% (2% fee, 2-year) to 6.99% (5% fee, 10-year)
+
+**SB1: £150k to £1m**
+* **65% LTV:** Variable rates from 7.80% (2% fee) to 6.90% (5% fee), Fixed rates from 6.04% (2% fee, 2-year) to 6.39% (5% fee, 10-year)
+* **75% LTV:** Variable rates from 8.00% (2% fee) to 7.20% (5% fee), Fixed rates from 6.14% (2% fee, 2-year) to 6.49% (5% fee, 10-year)
+
+**SB1 HMO & MUFB: £50k to £250k**
+* **65% LTV:** Variable rates from 8.80% (2% fee) to 7.90% (5% fee), Fixed rates from 6.74% (2% fee, 2-year) to 7.09% (5% fee, 10-year)
+* **75% LTV:** Variable rates from 9.00% (2% fee) to 8.10% (5% fee), Fixed rates from 6.84% (2% fee, 2-year) to 7.19% (5% fee, 10-year)
+
+**SB1 HMO & MUFB: £250k to £1m**
+* **65% LTV:** Variable rates from 7.80% (2% fee) to 6.90% (5% fee), Fixed rates from 6.34% (2% fee, 2-year) to 6.69% (5% fee, 10-year)
+* **75% LTV:** Variable rates from 8.00% (2% fee) to 7.10% (5% fee), Fixed rates from 6.44% (2% fee, 2-year) to 6.79% (5% fee, 10-year)
+
+### SB2 Complex Buy-to-Let
+
+**SB2 Product Highlights:**
+* **Underwritten by expert team** - For complex residential Buy-to-Let, blocks of flats, and student accommodation
+* **Complex applicant types** - Trusts and pensions considered (subject to £1m min. loan size)
+* **Unlimited properties** - No maximum number of properties, units, or guarantors on single application
+* **Larger residential property** - Portfolios, HMOs and MUFBs over 10 units
+* **AVMs available** - For up to 10 units or, on a larger portfolio loan, for up to 75% of the security properties
+* **Complex transactions** - Including incorporations, social housing, and share purchases
+* **Loans up to £5m** - With no maximum number of properties, units, or guarantors
+* **SIPP and Trust borrowers** - Considered (subject to £1m min. loan size)
+* **Existing customer discount** - 0.25% off arrangement fee
+
+**SB2 Product Ranges:**
+
+**SB2: £50k to £250k**
+* **65% LTV:** Variable rates from 8.80% (2% fee) to 7.90% (5% fee), Fixed rates from 6.89% (2% fee, 2-year) to 7.24% (5% fee, 10-year)
+* **75% LTV:** Variable rates from 9.00% (2% fee) to 8.10% (5% fee), Fixed rates from 6.99% (2% fee, 2-year) to 7.34% (5% fee, 10-year)
+
+**SB2: £250k to £1m**
+* **65% LTV:** Variable rates from 7.80% (2% fee) to 6.90% (5% fee), Fixed rates from 6.64% (2% fee, 2-year) to 6.99% (5% fee, 10-year)
+* **75% LTV:** Variable rates from 8.00% (2% fee) to 7.10% (5% fee), Fixed rates from 6.74% (2% fee, 2-year) to 7.09% (5% fee, 10-year)
+
+**Large Loans Buy-to-Let: £1m to £5m**
+* **65% LTV:** Variable rates from 7.15% (2% fee) to 6.25% (5% fee), Fixed rates from 6.49% (2% fee, 2-year) to 6.84% (5% fee, 10-year)
+* **75% LTV:** Variable rates from 7.35% (2% fee) to 6.45% (5% fee), Fixed rates from 6.59% (2% fee, 2-year) to 6.94% (5% fee, 10-year)
+
+### Structured Buy-to-Let Products
+
+**Structured Buy-to-Let Product Highlights:**
+* **Designed specifically for larger, more complex deals** - Loans from £5m to £50m
+* **Premium case management service** - Dedicated Relationship Manager
+* **Tailored loan structuring and pricing** - Available
+* **Stabilisation loans** - Considered
+* **Commercial property with short WAULTs** - Considered
+* **Loans up to £50m** - Maximum loan amount
+
+**Structured Real Estate Over £5m:**
+* **65% LTV:** Variable rates from 7.15% (2% fee) to 6.25% (5% fee), Fixed rates from 6.14% (2% fee, 2-year) to 6.49% (5% fee, 10-year)
+* **75% LTV:** Variable rates from 7.35% (2% fee) to 6.45% (5% fee), Fixed rates from 6.44% (2% fee, 2-year) to 6.79% (5% fee, 10-year)
+
+**Structured Real Estate Service:**
+* **Premium 1-2-1 case management service** - For loans between £5m - £50m
+* **Dedicated Relationship Manager** - Personalised service
+* **Tailored loan structuring** - Ability to structure the funding package around client's unique needs
+* **Personalised experience** - For larger, complex deals
+
+---
+
+## Repayment Methods
+
+### Available Repayment Types
+
+* **Interest Only** - Interest-only payments available up to 75% LTV (subject to affordability)
+* **Capital and Interest** - May be available (subject to product terms)
+
+### Capital Raising
+
+* **Capital Raise:** Considered for any legal purpose
+* **Capital raises of more than £150,000** or when more than 50% equity is being removed that are not in keeping with profile should have a satisfactory explanation
+* **Ex-pats:** Can be considered if funds are being used for a further purchase of a UK asset
+* **Repaying a bridge:** Acceptable when the bridge was used to complete works or an auction purchase. In other scenarios we will need to understand the reason bridging finance was used
+
+**To complete works:**
+* **Minor works** (Décor/internal fittings/general upkeep etc) to the security property are permitted where the value and structural integrity of the building will not be compromised
+
+### Deposit Sources
+
+**Acceptable Deposit Sources:**
+* **Personal Savings** - Evidence of build-up of funds required
+* **Gift** - Acceptable subject to evidence that the third party will hold no interest on the security
+* **Directors Loan** - Acceptable subject to transfer at full MV
+* **Additional Borrowing** - Details of the loan offer should be obtained for an assessment to be made on affordability
+* **Bounce Back Loans** - Are an acceptable form of deposit with supporting evidence of funds within bank statements. These are subject to the loan being used for the benefit of the business
+
+**Not Acceptable:**
+* **Vendor Deposits** - Not acceptable
+* **Builders Incentives** - LTV reduced by 5%
+* **Mini-Bonds** - Not acceptable
+
+---
+
+## Experience Requirements
+
+**Property Type Experience:**
+
+**Residential:**
+* **Experienced Landlords:** Accepted
+* **First-time Landlords:** First-time landlords are acceptable, but the client cannot be a first-time property buyer
+
+**Small HMOs & MUFBs (maximum 6 units):**
+* **Experienced Landlords:** Accepted
+* **First-time Landlords:** First-time landlords are acceptable, but the client cannot be a first-time property buyer
+
+**Large MUFB (7+ units):**
+* **12 months BTL experience** required
+
+**Large HMOs:**
+* **12 months experience** of managing a similar sized HMO or similar number of rooms managed across multiple HMOs
+* **Not Applicable** for first-time landlords
+
+**Bridging loans:**
+* When the clients have completed a successful bridging loan with Shawbrook
+
+**Portfolio Landlords:**
+* **Successful track record** of owning relevant properties in the same sector
+
+---
+
+## Application Types
+
+### Purchase
+
+* **First-time landlords** - Accepted (but cannot be a first-time property buyer)
+* **Experienced landlords** - Accepted
+* **Portfolio landlords** - Accepted
+* **New build BTL** - May be considered (subject to warranty requirements)
+* **Purchase Price:** The maximum loan is calculated against the lower of the purchase price or valuation
+
+**Undervalue Purchase:**
+* **Acceptable when:** The difference in purchase price and market value is within 20% and the seller is unrelated to our customer
+* **If difference is over 20%:** Further investigation will be required
+* **If evidence of stressed position of seller:** We cannot proceed
+* **Family related transfers** at nil or below market value are acceptable with an acceptable explanation for the transaction with evidence that the family member is not in a distressed financial situation. We will require:
+  * Mortgage history/credit search (at our discretion)
+  * Letter of no interest
+  * Clear bankruptcy search against outgoing owner
+  * Declaration of Solvency
+  * Indemnity policy
+* **Transfers from associated Ltd companies** at less than market value are unacceptable
+* **Increase in value since vendor purchased:** For purchases where there has been a substantial increase in value since purchase, we require a written explanation which should be referred to the valuer for comment and validation
+* **Option to purchase agreement:** When there is evidence of an option to purchase agreement and we can understand the reason for the purchase price being less than the Market value we can consider lending against the higher figure
+
+### Remortgage
+
+* **Remortgage Period:** No minimum length since time of purchase
+* **Remortgage with capital raising** - Available (subject to specific criteria)
+* **Remortgage without capital raising** - Available
+* **Product transfers** - Available for existing customers
+
+### Incorporations of BTL Portfolios
+
+* **Acceptable on SB2 product only**
+* Loans where SDLT & CGT Relief is being claimed
+
+**Requirements:**
+1. **A minimum of 6 BTL properties owned** (for MUFBs we consider each unit in the block as one property and HMOs are considered as one property)
+2. **The borrower to be a UK based company** and the guarantor(s) reside in the UK for tax purposes
+3. **Letter from a recognised Accountant** (CTA, ACA, ACCA, CIMA, ICAEW etc) confirming the following (as a minimum):
+   * Confirmation they are comfortable that a Business exists
+   * Confirmation they have provided tax advice to the customers named on the application
+
+**In addition to the above, the following documents are required:**
+
+**Any 1 of these documents required:**
+* 2 years partnership accounts
+* Evidence of the partnership paying tax on rental income for at least 2 years
+* Any HMRC correspondence confirming partnership or registration
+
+**OR any 2 of these documents required:**
+* A partnership agreement available dated 2 years ago or more
+* Partnership bank statements dated 2 years ago or more
+* 2 years evidence of joint payment of tax on rental income
+
+**Beneficial Interest Company Trusts ('BICT'):**
+* We do not support these types of transactions. However, if the BICT is being unwound as part of the incorporation we can support, subject to provision of the correct partnership documents as listed above
+
+### Share Purchase
+
+* **Acceptable on SB2 product only**
+* **Shawbrook will only lend directly to the target company** (the company being purchased) to refinance the target company's indebtedness
+* **The balance sheet of the target company must be strong**
+* **SIC code of the target company** must relate to property management, investment or development (no trading business')
+* **Simple company structure only** (no more than 2 layers, no offshore links)
+* **The purchase price of the company shareholding** must be the same as the market value of the properties
+* **Full title investigation required**
+* **The Borrower is to be fully advised with separate legal representation**
+
+### Complex Transactions
+
+* **Social housing** - Considered (SB2 products, subject to specific criteria)
+
+### Product Transfer & Shawbrook Refinance
+
+**Product Transfer:**
+* When customer's fixed rate is ending and they wish to secure a new fixed rate with no additional borrowing or changes to the contractual term
+* **Eligibility:** Must have no missed Shawbrook mortgage payments within the last 12 months
+* Product Transfer rates available
+
+**Shawbrook Refinance:**
+* For when customer's fixed rate is ending and they wish to capital raise or make contractual changes to the loan
+* Product Transfer & Shawbrook Refinance Lending Criteria available
+
+---
+
+## Fees
+
+* **Arrangement fees:** 2%, 3%, or 5% (varies by product and rate selected)
+* **Valuation fees:** Apply as standard (varies by property value and type)
+* **Early repayment charges:** Apply during fixed rate period (varies by product)
+* **Product transfer fees:** May apply (refer to product-specific terms)
+* **Pexa Fee:** £24 (including VAT) - May apply
+* **Electronic Banking Fee:** £30 (including VAT) - May apply
+* **Energy Efficiency Discount:** Available for properties with EPC rating of at least C (reduces arrangement fee)
+* **Existing customer discount:** 0.25% off arrangement fee (for SB1 and SB2 products)
+
+---
+
+## Application Process
+
+### BrokerHub Portal
+
+* **Portal:** https://commercial.shawbrook.co.uk/BrokerHub/
+* Online application and case management
+* Access to product information and calculators
+* Auto-decisioning available on simple cases (SB1)
+
+### Supporting Documentation
+
+Standard BTL mortgage application documentation required, including:
+
+**Company Documentation:**
+* **Company registration documents** - Certificate of Incorporation, Articles of Association
+* **Company accounts** - Latest accounts, management accounts (if applicable)
+* **Directors and shareholders information** - List of directors, shareholders, shareholdings
+* **Personal guarantees** - Required from all directors and significant shareholders (25% per application)
+
+**Income Documentation:**
+* **Rental income:** Tenancy agreements, bank statements showing rental income
+* **Company income:** Company accounts, bank statements (for trading companies)
+* **Financial standing:** Evidence of company's ability to meet mortgage repayments
+
+**Identification:**
+* **Company identification:** Company registration documents
+* **Director/Shareholder identification:** Proof of identity (passport or driving licence) for all directors and significant shareholders
+* **Proof of address:** Utility bills, bank statements for all directors and significant shareholders
+
+**Property Documentation:**
+* Property details and valuation
+* **Rental assessment** - Required (from appropriate sources)
+* **Tenancy agreement** - For existing tenancies (if applicable)
+* **EPC certificate** - Required (if applicable)
+* New build warranty (if applicable)
+* Leasehold documentation (if applicable)
+
+**Other Documentation:**
+* Credit checks (performed by Bank on directors/guarantors and company)
+* Portfolio landlord documentation (if applicable - portfolio details, rental income from all properties)
+* Additional forms as required
+
+### Valuation Requirements
+
+* **Valuation required** - For all properties
+* **Valuation types** - Desktop, drive-by, full valuation, or AVM (as determined by Bank)
+* **AVMs available** - Up to 75% LTV for single houses and flats (subject to criteria)
+* **Investment valuations** - Available on HMOs (subject to valuation guidance)
+* **Larger portfolio loans** - AVMs available for up to 10 units or, on a larger portfolio loan, for up to 75% of the security properties (SB2 products)
+* **Valuation fees** - Apply as standard (varies by property value and type)
+* **Down valuations** - May affect loan amount or require additional deposit
+
+### Non-Represented Legal Service
+
+* **Available for refinance cases** - Subject to criteria
+* May reduce legal costs for refinance applications
+
+### Forms Available
+
+* Application forms available via BrokerHub portal
+* Documentation checklist available
+* Personal guarantee forms required
+* Product Transfer forms available
+* Additional forms as required
+
+---
+
+## Additional Information
+
+### Calculators
+
+* **Affordability calculator** - Available via BrokerHub portal
+* **Mortgage calculator** - Available via intermediaries portal
+* **Rental calculator** - For ICR calculations
+* Access via broker portal and website
+
+### Product Guides
+
+* **Buy-to-Let Product Guide:** Available as PDF download
+* **Buy-to-Let Lending Criteria:** Available as PDF download
+* **Product Transfer Product Guide & Criteria:** Available as PDF download
+* **Broker Guidance for Product Transfers:** Available as PDF download
+* **Your guide to case applications:** Available as PDF download
+
+### Downloads
+
+* All documents and applications available via documents page
+* If additional documents needed, contact the intermediaries team
+
+### Useful Links
+
+* **News & Case Studies:** https://www.shawbrook.co.uk/property-brokers/news-case-studies/
+* **Insights Hub:** https://www.shawbrook.co.uk/property-brokers/insights/
+* **Case Studies:** 
+  * Bespoke £9m investment facility delivered for large multi-unit freehold block
+  * Buy-to-Let remortgage in 37 hours
+  * Limited company remortgage in just 28 working days (First UK bank to utilise PEXA's digital conveyancing platform)
+
+### Large Loans Service
+
+* **Dedicated team** - Offering premium case management service for loans over £5 million
+* **Dedicated Relationship Manager** - For larger loans
+* **Tailored loan structuring** - Bespoke solutions for complex cases
+
+### Structured Real Estate Service
+
+* **Premium 1-2-1 case management service** - For loans between £5m - £50m
+* **Dedicated Relationship Manager** - Personalised service for larger, complex deals
+* **Tailored loan structuring** - Ability to structure the funding package around client's unique needs
+* **Stabilisation loans** - Considered
+* **Commercial property with short WAULTs** - Considered
+* **Personalised experience** - For larger, complex deals
+
+---
+
+## Criteria by Product - Summary Table
+
+**This table provides a quick reference for key criteria across different property types:**
+
+| Criteria | Single Residential | Small HMO | Large HMO | MUFB | Serviced Accommodation |
+|----------|-------------------|-----------|-----------|------|----------------------|
+| **Loan** | | | | | |
+| Minimum Loan | £40,000 | £40,000 | £40,000 | £40,000 | £40,000 |
+| Maximum Loan (single asset) | £5,000,000 | £5,000,000 | £5,000,000 | N/A | N/A |
+| Maximum Exposure | £35,000,000 (aggregated) | | | | |
+| Minimum Term | 3 Years | | | | |
+| Maximum Term | 30 Years | | | | |
+| Repayment Method | Interest only and capital repayment options available | | | | |
+| Maximum LTV | 75% | 75% | 75% | 75% | 75% |
+| **Customer** | | | | | |
+| Age | Minimum 21 years, Maximum 80 years at start of mortgage. Applicants aged 70+ must have succession plan | | | | |
+| Type | Limited Companies, SPVs, Trading Companies, Trusts (£1m min), SIPPS (£1m min) | | | | |
+| Personal Guarantees | 25% or £50,000 (whichever is higher) from directors with 25%+ shareholding | | | | |
+| Credit Status | Refer to main document for SB1 vs SB2/SRE product variations | | | | |
+| **Security** | | | | | |
+| Charge | 1st legal charge over the security offered | | | | |
+| Location | England, Wales, and Scotland | | | | |
+| Tenure | Freehold and Feuhold (Scotland) acceptable. Leasehold with minimum 50 years remaining | | | | |
+| Minimum Size | Residential unit size of 30 Sqm | | | | |
+| Works Allowed | Minor works (Décor/internal fittings/general upkeep) permitted where value and structural integrity not compromised | | | | |
+| Valuation Method | Open Market Value confirmed by surveyor or AVM | Single dwelling value (if minimal conversion works) or yield-based investment valuation (if extensively adapted) | Yield-based investment valuation (Sui Generis planning required) | Blocks up to 10: Aggregated individual values (if sales within 12 months). Blocks 11+: Investment block value | Blocks up to 10: Aggregated individual values (if sales within 12 months). Blocks 11+: Investment block value |
+| Affordability Method | Valuer to confirm gross market rental | Valuer to confirm adjusted gross rental | Valuer to confirm adjusted gross rental | Lower of Valuer confirmation or Passing rental | Valuer to confirm gross market rental on AST basis |
+| DSCR (England & Wales) | 125% LTD Co | 130% Ltd Co | 130% Ltd Co | 125% LTD Co | 125% LTD Co |
+| **Submission Documents** | | | | | |
+| Up to £1.25m | Application Form, Portfolio Schedule (Portfolio landlord), Asset and Liabilities (Portfolio landlord), 3 months bank statements (Portfolio Landlord), Background to first Purchase (First-time Landlords), ID, Proof of deposit (Purchase), Redemption statement (Refinance) | Application Form, Portfolio Schedule, Asset and Liabilities, 3 months bank statements, HMO Licence (refinance), ID, Proof of deposit, Redemption statement | Application Form, Portfolio Schedule, Asset and Liabilities, 3 months bank statements, HMO Licence (refinance), ID, Proof of deposit, Redemption statement | Application Form, Portfolio Schedule, Asset and Liabilities, 3 months bank statements, ID, Proof of deposit, Redemption statement | Application Form, Portfolio Schedule, Asset and Liabilities, 3 months bank statements, Buildings Insurance to cover short term lettings, ID, Proof of deposit, Redemption statement |
+| Over £1.25m | All of above, plus: Client interview, Accounts for the company we are lending to | | | | |
+| Conditions (All) | ID, Proof of deposit (Purchase), Redemption statement (Refinance) | | | | |
+
+**Note:** Refer to main document sections for detailed criteria, product variations (SB1 vs SB2/SRE), and specific requirements.
+
+---
+
+## Notes
+
+* **Transparent lending criteria** - Shawbrook is transparent with lending criteria, so brokers know where they stand when submitting a case
+* **If client does not meet all conditions** - Applications may still be considered
+* All criteria are subject to individual assessment
+* The Bank reserves the right to decline applications that do not meet lending criteria
+* Product availability and rates are subject to change
+* For the most up-to-date information, refer to the latest Buy-to-Let Lending Criteria PDF or contact the intermediaries team
+* **Limited Company BTL only** - This criteria applies to limited companies, SPVs, trading companies, SIPP borrowers, and trusts
+* Auto-decisioning available on simple Buy-to-Let cases (SB1)
+* Specialist underwriting team handles more complex cases (SB2)
+* Personal guarantees limited to 25% per application
+* Maximum of 1 layer of corporate shareholding for SB1 products
+* Unlimited properties, units, or guarantors on single application for SB2 products
+* SIPP and Trust borrowers subject to £1 million minimum loan size (SB2 products)
+* Shawbrook Base Rate (SBR) is subject to a minimum floor of 0.75%
+* Variable rates are inclusive of Shawbrook Base Rate
+* NACFB's Buy-to-Let Lender of the Year 2021-2024
+
+---
+
+**Document Version:** 2025
+**Source PDF:** Buy-to-Let Lending Criteria
+**Website:** https://www.shawbrook.co.uk/property-brokers/buy-to-let-mortgages/
+**Product Type:** Buy to Let - Limited Company (SPVs, Trading Companies, SIPP Borrowers, Trusts)
+

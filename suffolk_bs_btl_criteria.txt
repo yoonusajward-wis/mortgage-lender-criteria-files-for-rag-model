@@ -1,0 +1,522 @@
+LENDER NAME: Suffolk Building Society
+PRODUCT: Buy to Let
+
+# Suffolk Building Society - Buy-to-Let and Holiday Let Mortgage Lending Criteria
+
+**Last Updated:** 2025
+**Source:** Suffolk Building Society Intermediaries Website
+**For Intermediaries Only**
+
+---
+
+## Document Information
+
+This document contains comprehensive buy-to-let and holiday let lending criteria for Suffolk Building Society.
+
+**Website:** https://www.suffolkforintermediaries.co.uk/lending-criteria/?type=btl
+
+---
+
+## Table of Contents
+
+This guide contains 67 criteria sections organized by topic:
+
+
+### General Information
+
+2. Applicant
+40. Maximum Loan
+41. Maximum LTV
+42. Maximum Term
+43. Minimum Income
+44. Minimum Property Value
+45. Minimum Term
+47. Mortgage Offers
+52. Overpayment Facility
+54. Portability
+59. Property Location
+
+### Applicant Requirements
+
+13. CIFAS
+17. Credit Reference Agency Used
+18. Criminal Convictions
+
+### Affordability and Income
+
+10. BTL ICR Calculation
+35. Income Made up Primarily of Benefits
+66. Topslicing
+
+### Credit History
+
+5. Arrangements
+6. Arrears
+8. Bankruptcy
+11. CCJs
+19. Debt Management Plans
+20. Debt Relief Order (DRO)
+21. Defaults
+36. Individual Voluntary Arrangements (IVA)
+46. Missed Payments
+53. Payday Loans
+56. Private Local Authority Searches
+
+### Deposits
+
+15. Concessionary Purchase
+22. Deposits
+
+### Loan Details
+
+4. Arrangement Fees
+7. Back to Back Transactions
+12. Changes to Application Post Offer
+61. Remortgage or Additional Borrowing Purpose
+
+### Property Types
+
+9. Basement Flats
+14. Coach House
+25. EWS1 Requirements
+26. Ex-Local Authority
+29. Flats & Apartments
+33. Grade 1 & 2 Listed Buildings
+50. Next to Commercial
+57. Properties Needing Refurbishment
+62. Restrictions
+64. Solar Panels
+
+### Tenancy and Letting
+
+3. Applications with Sitting Tenants
+23. DWP / Housing Benefit Tenants
+58. Property Let Via Airbnb (Holiday Let)
+65. Tenancy
+
+### Special Products
+
+16. Consumer BTL
+27. Expat
+28. First-Time Buyer BTL
+34. Holiday Let
+37. Joint Borrower Sole Proprietor (JBSP)
+38. Let to Buy
+39. Let to Rent
+48. Moving in with Family
+51. Non Owner Occupier BTL
+60. Regulated BTL
+
+### Nationality and Residency
+
+24. EU Nationals with Pre-settled Status
+30. Foreign Nationals with Indefinite Leave to Remain
+31. Foreign Nationals with Settled Status
+32. Foreign Nationals Without Indefinite Leave to Remain
+63. Returning to UK – Employed
+67. Visas
+
+### Landlord Types
+
+55. Portfolio Landlords
+
+### Other
+
+49. New Build Warranties
+
+### Other Criteria
+
+1. Actual Rent vs. Valuer’s Rent
+
+---
+
+## Actual Rent vs. Valuer’s Rent
+
+* We will **not** use the current rent received from the current tenant for affordability assessment **when it exceeds the valuer’s estimate**.
+
+## Applicant
+
+* **Minimum age:** 18 at application.
+* **No maximum age** at the end of the mortgage term.
+* **Maximum applicants:** 2.
+
+## Applications with Sitting Tenants
+
+* We can potentially accept cases of this nature. We can help where there is a sitting tenant as long as their tenancy agreement was a standard ASTA and they are not a tenant on any kind of Protected Tenancy basis.
+* **Please speak to our Business Development Team.**
+
+## Arrangement Fees
+
+* Can be **added to the loan**, **above the maximum LTV** as long as the **overall loan fits within the ICR calculation**.
+
+## Arrangements
+
+* **Up to 75% LTV.**
+* **Must have been satisfied 3 years.**
+
+## Arrears
+
+* We can consider **historic arrears** – **no arrears in the last 3 years**.
+
+## Back to Back Transactions
+
+* Property **must have been owned for 6 months** before we can accept a **remortgage** application.
+
+## Bankruptcy
+
+* Must have been **discharged for more than 3 years**.
+* **Maximum 75% LTV.**
+* **No further court orders** must have been registered.
+
+## Basement Flats
+
+* We can potentially lend on a **basement flat**. **Please refer** the property to our **Business Development Team**.
+* **Maximum of 10 storeys**, including the basement flat.
+
+## BTL ICR Calculation
+
+* **Non-UK taxpayers:** **125%** of the stressed mortgage payment (either **pay rate + 2%** (Min **5.5%**) **or** the **5-year rate**).
+* **Basic rate taxpayers:** **125%** of the stressed mortgage payment (either **pay rate + 2%** (Min **5.5%**) **or** the **5-year rate**).
+* **Higher or additional rate taxpayers:** **145%** of the stressed mortgage payment (either **pay rate + 2%** (Min **5.5%**) **or** the **5-year rate**).
+* **Joint application:** we use the **worst case scenario**.
+
+## CCJs
+
+* We can **ignore CCJs** that have been **satisfied for more than 12 months**.
+* **Refer to our Business Development Team** on cases with: **more than 1 CCJ** or **CCJs over £1,000 up to 80% LTV**.
+
+## Changes to Application Post Offer
+
+* We can potentially allow **post-offer changes**; subject to **another underwrite** and potentially an **additional admin fee** (case by case).
+* **Please contact our Business Development Team.**
+
+## CIFAS
+
+* We can consider customers **registered on the CIFAS register**. **Please refer** these cases.
+
+## Coach House
+
+* We can consider **coach houses** but will need to determine if the property is **freehold or leasehold**, and if there is an element of **flying freehold**.
+
+## Concessionary Purchase
+
+* Treated as a **transaction under value**.
+* Applicants must provide a **deposit in line with our products** (e.g., **80% LTV**).
+
+## Consumer BTL
+
+* We can accept applications classed as **Consumer Buy to Let (CBTL)**.
+* **They are treated the same as standard BTL applications.**
+
+## Credit Reference Agency Used
+
+* **TransUnion.**
+
+## Criminal Convictions
+
+* The conviction must be **spent** and **cannot be monetary related** (fraud, money laundering etc.).
+* The applicant must be able to obtain **home insurance on standard terms**.
+
+## Debt Management Plans
+
+* Must have been **satisfied for 3 years**.
+* **Maximum 75% LTV.**
+
+## Debt Relief Order (DRO)
+
+* **Up to 75% LTV.**
+* Must have been **satisfied 3 years**.
+
+## Defaults
+
+* We can **ignore defaults** that have been **satisfied for more than 12 months**.
+* **Refer to our helpdesk** on cases with: **more than 1 default** or **defaults over £1,000 up to 80% LTV** and **over £500 above 80% LTV**.
+
+## Deposits
+
+* **Gifted deposit** accepted for **UK applicants** (must be from **immediate family members**).
+* **Gifted deposits are not accepted for Expat applications.**
+* **Source of funds outside of the UK:** we can consider **expat applications** where the source of the deposit **does not originate from the UK**. It must originate from the **country that the applicant is domiciled in** and the **funds must be in the UK prior to completion**.
+* **Vendor-paid deposits:** in some circumstances, vendors may pay the deposit for the applicant, **maximum 5%**. Acceptable where it is a **developer** paying the deposit as part of its **marketing activity** and where the **valuer confirms the full valuation** of the property. For a **small independent builder** we require **written confirmation** that paying the deposit is part of its marketing activity. The **applicant must also provide a 15% deposit**.
+* **Capital raising on another property:** we can consider, but the **funds cannot have originated from us**.
+
+## DWP / Housing Benefit Tenants
+
+* **We can consider.** Please contact the **Business Development Team** to discuss further.
+
+## EU Nationals with Pre-settled Status
+
+* We can potentially lend to **EU, EEA (including Iceland, Norway and Liechtenstein)** and **Swiss** citizens if clients **evidence successful pre-settled status**.
+* Must have been in the **UK for 12 months**.
+* Must have **valid UK work permit/visa**, with **12 months remaining**.
+* Must work in one of the following sectors: **Education, Healthcare, Finance & Banking, IT, Legal, Marketing Professionals, Science Research & Development, Energy Sector and Construction Industry Professionals (Not Trades)** e.g., **Architects**.
+
+## EWS1 Requirements
+
+* **EWS1 forms are required.**
+* We will **not** lend on properties with **combustible cladding** or **materials on balconies** **without** an EWS1 form.
+* **A1, A2 and B1** are acceptable, subject to **valuer’s comments**.
+* **Maximum 10 storeys.**
+* **EWS1 forms issued by Tri Fire Ltd will not be accepted.**
+
+## Ex-Local Authority
+
+* **Houses/bungalows:** **accepted**.
+* **Flats/maisonettes:** **not accepted**.
+
+## Expat
+
+* **Expat BTL & Holiday Let:** accepted **up to 80% LTV**.
+* Where an applicant is an Expat, the **UK taxpayer status** will be used to determine the **ICR required**.
+* **Self-Employed** applicants are **not accepted** for Expat applications.
+* **Most countries and currencies** are acceptable for Expat BTL & Expat Holiday Let (**excluding any UN sanctioned or war-torn areas**).
+* **Regulated BTL:** due to full affordability assessment, applicants must be paid in one of the following currencies: **Sterling, Euro, Swiss Franc, Norwegian Krone, US Dollar, Canadian Dollar, Singapore Dollar, Hong Kong Dollar, UAE Dirham, Kuwaiti Dinar, Qatari Riyal, New Zealand Dollar, Danish Krone, Swedish Krona, Saudi Riyal**.
+* **Minimum income:** **£25,000 UK£ equivalent**.
+* **UK bank account:** Expat applicants **must hold** a UK bank account.
+* **Address history:** **3 years** (UK or abroad).
+
+## First-Time Buyer BTL
+
+* We accept BTL applications from **First Time Buyers** for both **Expat and UK-based** applicants.
+* **Standard BTL:** rent must cover the loan using our **ICR assessments**; we also conduct an **affordability check** (precautionary) alongside the ICR assessment.
+* **Expat BTL:** rent must cover the loan using our ICR assessment and **underwriter approval** will be required. An **affordability assessment outside of this would not apply**.
+
+## Flats & Apartments
+
+* **Maximum 80% LTV for New Build Flats.**
+* **80% LTV for standard flats.**
+* **Maximum 10 storeys.**
+* **Lift required if over 5 storeys.**
+* **Ex-local authority flats not accepted.**
+* **Minimum lease 85 years** upon application.
+* **Flats above commercial** are accepted (subject to **suitable commercial nearby**) – **please contact the Business Development Team**.
+
+## Foreign Nationals with Indefinite Leave to Remain
+
+* **Accepted on standard criteria.**
+
+## Foreign Nationals with Settled Status
+
+* We can potentially lend to **EU Nationals** with a **settled status** under the **EU Settlement Scheme**.
+
+## Foreign Nationals Without Indefinite Leave to Remain
+
+* **Maximum 80% LTV.**
+* We can potentially lend to **EU, EEA (including Iceland, Norway and Liechtenstein)** and **Swiss** citizens if clients **evidence successful pre-settled status**.
+* Must have been in the **UK for 12 months**.
+* Must have **valid UK work permit/visa**, with **12 months** remaining.
+* Must work in one of the following sectors: **Education, Healthcare, Finance & Banking, IT, Legal, Marketing Professionals, Science Research & Development, Energy Sector and Construction Industry Professionals (Not Trades)** e.g., **Architects**.
+
+## Grade 1 & 2 Listed Buildings
+
+* We can potentially lend on properties that are **Grade 1 or 2 Listed**; **subject to valuer’s comments**.
+
+## Holiday Let
+
+* **Accepted** – **maximum 80% LTV (product dependent)**.
+* **Minimum income:** **£25,000**.
+* Must be an **owner occupier** – *(Owner occupier not required for Expat applications).*
+* **Affordability:** based on **average of low, medium & high seasons × 30 weeks** (can be **35 weeks** if let for the last **2 years** on a holiday-let basis by the applicants). Divide by **12** to obtain **average monthly rental**, then apply **standard ICR calculations**.
+* **Airbnb / other letting options:** accepted; **lettings agent letter** required to provide **known or anticipated letting value** (not Airbnb).
+* **Letting agent letters** required to provide the **known or anticipated rental income**.
+* **Personal use:** up to **60 days** permitted.
+### Holiday Let Calculation
+* **Average of High, Mid and Low weekly seasonal Rent**, **multiplied by 30 weeks**, **divided by 12** to get a **monthly rental** figure, then through the **buy to let calculator**.
+
+## Income Made up Primarily of Benefits
+
+* We can potentially accept applicants whose income is **primarily benefits**.
+* Note: some income is **only taken at 50% or not at all**, and the applicant must meet **minimum £25,000 per annum**.
+
+## Individual Voluntary Arrangements (IVA)
+
+* **Up to 75% LTV.**
+* Must have been **satisfied 3 years**.
+
+## Joint Borrower Sole Proprietor (JBSP)
+
+* We can accept **JBSP on BTL** for **UK and Expat** applicants.
+* **UK:** maximum **4 applicants**.
+* **Expat:** maximum **2 applicants**.
+* **Relationship:** joint borrower(s) should be **close family relative(s)**.
+* **Deposit:** on JBSP UK and Expat cases, we will allow **any of the applicants** to provide the deposit (including the **non-proprietor**).
+* If the **non proprietor is gifting the deposit** they **cannot reside** in the property.
+* *We’re unable to offer **fee assisted legals** on joint borrower sole proprietor applications.*
+
+## Let to Buy
+
+* **Accepted.**
+
+## Let to Rent
+
+* We can consider where an applicant is looking to **let out their existing residential home** and **move into rented accommodation** – please **contact our Business Development Team**.
+
+## Maximum Loan
+
+* **£1 million.**
+* For larger loans, **please contact our Business Development Team**.
+
+## Maximum LTV
+
+* **Maximum 80% LTV** for **BTL and Holiday Let.**
+* (**Repeated statement confirmed**: Maximum 80% LTV for **BTL & Holiday Let** applications.)
+
+## Maximum Term
+
+* **30 years.**
+
+## Minimum Income
+
+* **Minimum £25,000** for **UK and Expat** applicants (if joint, **one applicant must earn a minimum £25,000**).
+
+## Minimum Property Value
+
+* **£100,000.**
+
+## Minimum Term
+
+* **6 years.**
+
+## Missed Payments
+
+* There **cannot** be any **missed payments in the last 12 months**.
+
+## Mortgage Offers
+
+* **Standard offer validity – 6 months.**
+* **New Build offer validity – 6 months.**
+* Mortgage offers **can be extended** – **please contact us** if an extension is required.
+
+## Moving in with Family
+
+* We can potentially consider a **BTL remortgage** where the property is **currently the applicant’s main residence** but **will now be let** and the applicant will be **moving in with family**.
+
+## New Build Warranties
+
+* **Acceptable New Build Warranties:**
+**NHBS Guarantee; Premier Guarantee Scheme; Building Life Plans; Build-Zone (includes BuildCare); Checkmate (Castle 10); ICW; LABC; Professional Consultants Certificate (see full list below).**
+* **Acceptable Professional Consultants Certificate:**
+**Architects certificate accepted.** Where supervised by a **qualified person**, the Conveyancer must ensure the Supervisor is a member of one of:
+* **Royal Institute of Chartered Surveyors (FRICS or MRICS)**
+* **Institute of Structural Engineers (F.I.Struct.E or M.I.Struct.E)**
+* **Chartered Institute of Building (FCIOB or MCIOB)**
+* **Architectural and Surveying Institute (FASI or MASI)**
+* **Association of Building Engineers (FB.Eng or MB.Eng)**
+* **Chartered Institute of Architectural Technologists**
+* **Architect registered with the Architects Registration Board (ARB)** (Must be registered with ARB even if also a member of another institution, e.g., **RIBA**)
+* **Institute of Civil Engineers (FICE or MICE)**
+**Note:** The Conveyancer must obtain a copy of their **Professional Indemnity insurance** and must ensure that the policy provides **cover for a period of not less than six years**.
+
+## Next to Commercial
+
+* We can potentially accept. **Please contact our Business Development Team** to discuss.
+
+## Non Owner Occupier BTL
+
+* We can potentially accept BTL applications from **Non Owner Occupiers**. **Please contact our Business Development Team**.
+* **Holiday Let** applications would need to be **owner occupiers** for us to be able to lend.
+
+## Overpayment Facility
+
+* **Fee-free overpayments up to 50%** of the **original loan** (subject to product availability).
+
+## Payday Loans
+
+* **Please refer** details to **Business Development Team**, including **frequency, value and time period** of payday loans being used.
+
+## Portability
+
+* The majority of our mortgages are **portable as standard** (please check **product criteria**).
+
+## Portfolio Landlords
+
+* We’re **unable to accept** applications from **portfolio landlords**.
+* Applicants can have a **maximum of 3 properties** (including properties held in a **limited company**).
+* This includes **unencumbered** as well as **mortgaged** properties.
+* *(Repeated confirmation of the same rule applies.)*
+* **Applicants over 75** will need to seek **Independent Legal Advice** to ensure they understand the implications of the mortgage contract and potential issues of lending into later life on benefits and in the event of needing long-term care.
+
+## Private Local Authority Searches
+
+* We can potentially accept a **private local authority search**, subject to:
+* A **suitably qualified search agent** carries out the personal search and has **indemnity insurance** that adequately protects us **or** the **search insurance policy** adequately protects us.
+* The **Solicitor** must confirm that the **title is good and marketable**.
+* Personal searches are subject to the search firm **subscribing to the Search Code** monitored by the **Property Code Compliance Board**.
+
+## Properties Needing Refurbishment
+
+* We can consider a **BTL application** where the property **requires refurbishment** before it is let.
+* **LTV** will be based on **current property value**.
+* **Notes:**
+* **Detailed costings/quotes** requested at application.
+* Property must be in a **liveable/mortgageable condition** on application.
+* Only **non-structural works** permitted.
+* **Savings** must be evidenced to cover the **first 6 months of mortgage payments**.
+* **Please contact our Business Development Team** to discuss further.
+
+## Property Let Via Airbnb (Holiday Let)
+
+* We can accept **holiday let** applications where the property will be let via **Airbnb or other letting options**.
+* Properties marketed via Airbnb will be subject to our **existing rental coverage assessment**, requiring a **lettings agent** (**not Airbnb**) to provide the **known or anticipated letting value**, exactly the same as a standard holiday let.
+
+## Property Location
+
+* We will lend throughout **England & Wales**.
+
+## Regulated BTL
+
+* **Acceptable** for **UK and Expat** applicants.
+* We will carry out a **full affordability assessment** instead of a rental calculation.
+* See **Expat section** for acceptable currencies for **Regulated BTL**.
+
+## Remortgage or Additional Borrowing Purpose
+
+* **Home improvements – accepted.**
+* **Purchase of BTL or Holiday Let – accepted** (≤ **80%**: no simultaneous completion; **> 80%**: simultaneous completion required).
+* **Purchase property in Limited company** – must be an **SPV** and all applicants must be **named directors and shareholders**.
+* **Repay help to buy and let the property – accepted.**
+* **Buy out another party – accepted.**
+* **Debt consolidation – not accepted.**
+* **Extending a lease – accepted.**
+* **Raising money to gift – accepted** (**£100,000 or over** need to be **referred**).
+* **Paying off residential mortgage – accepted.**
+* **HMO conversion back to standard property – potentially can accept** (contact BDM).
+* **Medical expenses – we can consider** (contact BDM).
+* **School Fees – we can consider** (contact BDM).
+
+## Restrictions
+
+* We may be able to accept properties with **agricultural restrictions** – **maximum 50% LTV**. **Please contact our Business Development Team.**
+
+## Returning to UK – Employed
+
+* We can potentially consider applications from applicants **returning to the UK** and going straight into **employment with the same company**.
+* **Please contact the Business Development Team** (case by case).
+
+## Solar Panels
+
+* **Accepted** – if **leased**, must have the **mortgage lender repossession break clause** in the contract.
+
+## Tenancy
+
+* **Assured Shorthold Tenancy.**
+* **Maximum 36 months AST.**
+* **Minimum 6 months AST.**
+* **Maximum 4 individuals** accepted on a tenancy.
+* The property must still be let via a **standard ASTA agreement** and **not** be classed as an **HMO**.
+* We can accept up to **4 individuals**, **providing they are a family unit**. If they are **unrelated professionals** then **maximum 3 individuals** on the tenancy.
+
+## Topslicing
+
+* **Not accepted currently.**
+
+## Visas
+
+* We can potentially consider applicants that hold a **Family Visa** – **please discuss** with our **Business Development Team**.
+* We can potentially consider applicants that hold a **Skilled worker Visa (previously Tier 2 Visa)**. Because of the potential short-term nature of residency, the applicant(s) should be of a **professional standing** and working in one of the following sectors: **Education, Healthcare, Finance & Banking, IT, Legal, Marketing Professionals, Science Research & Development, Energy Sector and Construction Industry Professionals (Not Trades)** e.g., **Architects**.
+
+---
+
+## Main URLs
+
+- https://www.suffolkforintermediaries.co.uk/lending-criteria/?type=btl

@@ -1,0 +1,821 @@
+LENDER NAME: HSBC
+PRODUCT: Buy to Let
+
+# HSBC UK for Intermediaries - Buy-to-Let Mortgage Lending Criteria
+
+**Source:** [HSBC UK for Intermediaries - Buy-to-Let Criteria](https://intermediaries.hsbc.co.uk/criteria/?tab=buy-to-let)
+
+**Last Updated:** 2025
+**Version:** Comprehensive Buy-to-Let Lending Criteria Guide
+
+This website is for the use of FCA authorised mortgage **intermediaries only**.
+
+This document contains comprehensive buy-to-let mortgage lending criteria covering all topics from the HSBC UK for Intermediaries website.
+
+## What has changed?
+
+### September 2025
+
+No changes
+
+### August 2025
+
+LTI update and Changes to Interest only policy
+
+### July 2025
+
+No changes
+
+## Popular searches
+
+* Income from self-employment
+* Foreign nationals
+* Overseas customers
+* Buy to Lets in background
+* Second property
+
+## Criteria Sections
+
+This document contains comprehensive buy-to-let mortgage lending criteria organized by the following main categories:
+
+* **Applicant** - Requirements and criteria related to mortgage applicants
+* **Borrowing** - Lending limits, affordability, and borrowing-related policies
+* **Existing borrowers** - Services and options for existing HSBC mortgage customers
+* **Income** - Income assessment, verification, and acceptable income types
+* **Product** - Mortgage products, terms, and product-specific criteria
+* **Packaging requirements** - Documentation and packaging requirements
+* **Property** - Property types, construction, location, and property-related requirements
+
+The criteria sections below are organized according to the website structure:
+
+## Applicant
+
+### Age
+
+The minimum age for Buy to Let and Let to Buy mortgage applicants is 18.
+
+For Income Cover Ratio (ICR) assessments there is no maximum age.
+
+### Eligibility
+
+No more than three UK BTL mortgaged properties can be held at any one time
+
+We do not accept applications where we consider the applicant to be a portfolio landlord
+
+We do not accept applications for Commercial Buy to Let
+
+Applications from UK residents must have at least one applicant with a minimum basic income of £25,000 per year (excluding rental income). 60% of variable income is now accepted towards minimum income requirements.
+
+Key the application using only basic income, if variable income is required to support affordability, please contact our Broker Support Helpdesk to add this on. [https://intermediaries.hsbc.co.uk/broker-support/]
+
+For applications with one or more non-UK residents (these will be treated as an International BTL application), at least one applicant must evidence a minimum basic income of £75,000. Variable income is not accepted for non-UK residents.
+
+For applications from UK residents (not an International BTL application), at least one applicant must be an owner occupier of a residential property for a minimum of six months, either owned outright or subject to an existing residential mortgage.
+
+If the property is unencumbered, clear notes should be added to the application to confirm the customers owner occupier status
+
+Maximum loan to value amounts as follows:
+
+80% for up to and including £400k (only applicable on properties with an EPC rating of A-C)
+
+75% up to and including £1m
+
+60% up to and including £2m
+
+60% LTV for maximum £50,000 additional borrowing required to consolidate debt
+
+The property is not a House in Multiple Occupation (HMO)
+
+The property must have a minimum Energy Performance Certificate (EPC) of E or above to be acceptable for mortgage lending. The energy rating will be determined during the property valuation.
+
+### Foreign nationals
+
+Please note that this policy also applies to a joint application where one or both customer(s) is a foreign national.
+
+**Foreign Nationals resident in the UK**
+
+**EU Settlement Scheme**
+
+Customers will be required to provide evidence of their status under the Settlement Scheme to support their mortgage application. This can be obtained from the GOV.UK website. [https://www.gov.uk/settled-status-eu-citizens-families]
+
+Please provide the customers share code in the notes section of the application, as we will require this to complete the assessment.
+
+Please choose the option 'Prove my immigration status' (do not use 'Prove my right to work')
+
+The EU settlement scheme provides two statuses:
+
+Settled – this allows a permanent stay in the UK
+
+Pre-settled – this allows a stay in the UK for 5 years before a new application is required
+
+**Foreign national criteria**
+
+For customers with Settled status, Indefinite Leave to Remain, Indefinite Leave to Enter, Right of Abode, Republic of Ireland National, holder of a Republic of Ireland passport or were granted a Pre-settled Status under the EU Settlement Scheme, we will process applications submitted to our standard buy to let lending criteria. Please note that when completing an application for customers, who meet this criteria, please answer 'yes' to the question "does the applicant have settled status or indefinite leave to remain in the UK"?
+
+Applications from foreign nationals with diplomatic immunity are outside policy and should be declined. This does not apply to internal transfers/ additional borrowing requests where we already hold the existing security.
+
+For customers without Indefinite Leave to Remain, Indefinite Leave to Enter, Right of Abode or no Pre-settled status, we will process applications if they meet our foreign criteria as detailed below:
+
+All applicant(s) have lived in the UK 12 months or more | Any applicant(s) have lived in the UK less than 12 months
+
+The customer must evidence that they have lived in the UK for a minimum of 12 months at point of application. | Minimum income of GBP75,000 (excluding all variable income). For joint applications, at least one
+
+Minimum income of GBP75,000 (excluding all variable income). For joint applications, at least one | The customer(s) must provide a CRA report from their previous country of residence.
+
+The customer(s) must provide the latest 3 months statements and 3 months' payslips | The customer(s) must provide the latest 3 months statements and 3 months' payslips
+
+Maximum LTV of 75 per cent for mortgage borrowing | Maximum LTV of 75 per cent for mortgage borrowing
+
+Borrowing cannot be used for Debt Consolidation | Borrowing cannot be used for Debt Consolidation
+
+Deposit is funded from the customer's own resources, ie personal savings. Gifts are not acceptable, unless they are in addition to the 25 per cent deposit provided from the applicants own resources | Deposit is funded from the customer's own resources, ie personal savings. Gifts are not acceptable, unless they are in addition to the 25 per cent deposit provided from the applicants own resources
+
+Please note: The government is moving all Biometric Residency Permits online from January 2025 and so in advance of this, recently issued residency permits have a generic expiry date of 31st Dec 2024. The actual visa granted may have a longer expiry date which can be evidenced by a letter from UK visas and immigration.
+
+For evidential requirements of UK residency, please refer to our Foreign National Criteria on our Residential criteria page. [https://intermediaries.hsbc.co.uk/criteria/?tab=residential]
+
+Please refer to Evidential Documents Matrix (559KB, PDF)Ext for evidence requirements. [https://intermediaries.hsbc.co.uk/pdfs/Evidential_Documents_Matrix.pdf]
+
+### Number of applicants
+
+The maximum number of applicants is 2.
+
+Please note, the borrowing must be in the same name(s) as the ownership for all Buy to Let and Let to Buy applications with HSBC UK.
+
+### Overseas customers
+
+When submitting an application for a non-UK resident, please ensure you enter the full mobile telephone number, including the international country code.
+
+Rates for Buy to let applications differ between UK residents and non-UK residents.
+
+**Overseas Policy**
+
+For all international applications, any outstanding credit commitments must be included. A Credit Reference Agency (CRA) report dated within the last 90 days is also required.
+
+for customers living at their current address for less than 6 months, a report is required based on their previous address
+
+for customers living at their current address for more than 6 months, a report is required based on their current address
+
+Credit Bureau reports in a foreign language must be translated by a recognised translation service.
+
+For further information, please see the Country Specific Credit Bureau Matrix. [https://intermediaries.hsbc.co.uk/pdfs/Country_Specific_Credit_Bureau_Matrix.pdf]
+
+Please note, we can accept document translations from a UK based translation company, provided we can verify them via their website. When submitting foreign language documents, please provide English translations as well as the original documents.
+
+If the customer meets the following criteria and is resident in an approved country, applications can be submitted outside of the policy below.
+
+The customer is in the British Armed Forces
+
+The customer is a UK national or a foreign national with indefinite leave to remain/enter in the UK, and is relocating/moving back to the UK within 6 months of the application. The customer must provide documentary evidence of their move to the UK, e.g. letter from employer.
+
+The customer is a UK national, classes themselves as living in the UK and we are satisfied by this as they meet the following:
+
+working overseas on a temporary or short-term basis e.g. on secondment - these customers will have an end date and will be returning to the UK. The end date must be evidenced within the evidential documentation provided.
+
+OR travels as part of their job
+
+OR is working and living overseas on a regular or part-time basis e.g. place of work is based overseas.
+
+If the customer is on a permanent contract overseas and does not return to the UK regularly, this would class as a non-UK resident.
+
+Please note: In order to meet the above exception criteria, these customers must hold and be able to verify their own UK address, and this must be their main correspondence address.
+
+We are not able to accept applications from customers living in a non-approved country. Please refer to the approved country guidance listed below.
+
+If the customer moves to a different country after taking a mortgage with HSBC, this may affect their ability to borrow additional money in the future.
+
+UK and foreign nationals who are not UK residents can apply for a mortgage subject to meeting the following criteria:
+
+They must evidence a minimum income of £75,000 per annum (excluding bonus, commission, overtime and rental income). For joint applications at least one applicant must meet this criteria.
+
+They must be able to speak proficient English.
+
+Maximum LTV of 75% for mortgage borrowing and additional lending.
+
+If you intend to capitalise a booking fee then the loan amount plus the added fee must remain within the LTV restrictions stated above.
+
+The above maximum LTV also only applies where the total loan size is not exceeded.
+
+Please refer to the Loan section for further information on LTV limits. [https://intermediaries.hsbc.co.uk/criteria/?tab=buy-to-let]
+
+Additional lending cannot be used for debt consolidation
+
+Deposit is funded from the customer's own resources. Gifts and builder's cash backs are not acceptable, unless they are in addition to the 25% deposit provided from the applicants own resources
+
+They must hold a UK bank account to service the mortgage
+
+Foreign national customers who have lived in the UK for less than 12 months will also be required to provide a credit reference agency report from their previous country of residence, dated within the last 90 days.
+
+HSBC UK is authorised and regulated by UK regulators, and governed by UK law. Following the guidance below ensures that we remain compliant with relevant cross-border regulations and local laws applicable in other countries.
+
+The following guidance applies to both where a customer is living, and where they are physically present. Please apply the guidance to any application where the customer is located / resident in a country other than the UK at point of application.
+
+Only approved countries and regions are listed below – any countries and regions not listed are 'not approved'. If the customer does not meet the criteria in the guidance below, or the Country/Region is not on the list, you cannot proceed with the application.
+
+Country/Region | Can we provide mortgage facilities? | Guidance*
+
+*Please note that where a country specific requirement is 'customer is an existing Group HSBC customer', this is defined as a customer who has an existing HSBC Group relationship with either a balance greater than GBP1,000 which has been open six months or longer; or a salary-fed HSBC Group bank account which has been open six months or longer
+
+Australia | Yes | Residents of Australia can apply for a UK mortgage provided the following guidance is adhered to:
+
+Customers must not be physically located in Australia if providing advice, i.e. this means that if the customer is physically located in Australia, you can proceed with a BTL application, but not a residential application while they are in Australia. You can proceed with a residential application if the customer visits the UK.
+
+Documents cannot be sent to, or signed in, a HSBC branch in Australia
+
+Egypt | Yes | Proceed with application provided all other relevant criteria are met
+
+Guernsey | Yes | Proceed with application provided all other relevant criteria are met
+
+Hong Kong | Yes | Proceed with application provided all other relevant criteria are met
+
+Isle of Man | Yes | Proceed with application provided all other relevant criteria are met
+
+Jersey | Yes | Proceed with application provided all other relevant criteria are met
+
+Malaysia | Yes | Proceed with application provided all other relevant criteria are met
+
+Philippines | Yes | Proceed with application provided all other relevant criteria are met
+
+Qatar | Yes | Prospects / customers must be existing to bank customers and ensure that all criteria have been met prior to proceeding with an application.
+
+Singapore | Yes | Proceed with application provided all other relevant criteria are met
+
+Switzerland | Yes | Proceed with application provided all other relevant criteria are met
+
+Taiwan | Yes | A record of the customer's request must be kept on file.
+
+Proceed with application provided all other relevant criteria are met
+
+UAE | Yes | This includes Abu Dhabi, Ajman, Dubai, Fujairah, Ras al-Khaimah, Sharjah and Umm al-Quwain.
+
+Residents of the UAE without UAE nationality can apply for a UK mortgage provided that all other relevant criteria have been met.
+
+Customers with UAE nationality must also meet the following criteria:
+
+Annual income must be at least 1 million AED annually (or equivalent in an approved currency)
+
+Net equity / assets must be valued at a minimum of 5 million AED (or equivalent in an approved currency)
+
+The customer must declare that they have adequate knowledge and experience to evaluate the risks and benefits of entering into a mortgage with HSBC UK.
+
+The customer must provide documentary evidence of income and assets, and adherence to all three criteria must be recorded in notes.
+
+United States of America (USA) | Yes | Please refer to the US Persons Policy and ensure that all criteria have been met prior to proceeding with an application.
+
+If the customer is not a US person, proceed with the application provided that all other relevant criteria have been met.
+
+For more information, please see the Foreign currency income section. [https://intermediaries.hsbc.co.uk/criteria/?tab=buy-to-let]
+
+### Portfolio landlords
+
+The bank does not provide Buy to Let mortgage facilities where it has been evidenced that a customer is a Portfolio Landlord.
+
+A Portfolio Landlord is a person(s) with:
+
+Four or more Buy to let UK mortgaged properties in aggregate* at the end of the application
+
+Purchase applications will be acceptable if the customer currently has no more than 2 Buy to Let mortgaged properties.
+
+Non-purchase applications will be acceptable if the customer currently has no more than 3 Buy to Let mortgaged properties.
+
+*Please note, for joint applications the 'aggregate' would be the combined number of BTL's held by both applicants on the mortgage.
+
+This includes properties owned via a Limited Company or Holding Company.
+
+The maximum Buy to let lending held with HSBC UK is capped at £2m.
+
+### Tenant
+
+HSBC accepts all tenant types except where the tenant is related to the landlord as we do not provide regulated mortgages in this respect.
+
+The tenant must be an individual, and Houses in Multiple Occupation (HMO) for example student lets, holiday lets and sub-letting are all excluded.
+
+### Type of buy to let property
+
+We define a Consumer Buy to Let as:
+
+A property that wasn't / isn't being initially purchased for a specific purpose of renting (e.g previous home / inherited property / accidental landlord)
+
+We define an Investment Buy to Let as:
+
+A property that is being purchased / was originally purchased for the specific purposes of renting.
+
+## Borrowing
+
+### Affordability
+
+#### Affordability Assessment - Interest Only and Capital Repayment
+
+Top Slicing applications can be submitted without completing an Income Cover Ratio (ICR) assessment, however we recommend our Buy to let calculatorExt is used in the first instance to assess whether Top Slicing is required to meet affordability. [https://intermediaries.hsbc.co.uk/calculators/]
+
+In addition to rental income coverage, we will assess personal income when making a lending decision.
+
+Consideration will be given to your customer's personal commitments so to ensure that the lending remains sustainable in the event of tenancy voids, or where maintenance/repair costs have been incurred.
+
+The application may be declined if we determine that there is insufficient disposable income to support the borrowing, or if the overall exposure is too high.
+
+Any applications which do not meet affordability criteria using rental income only, can be assessed using Top Slicing policy (where the applicant is a higher rate taxpayer).
+
+#### Income Cover Ratio (ICR) assessment
+
+For basic rate tax payers, we will assess affordability based on the annual rental income, which must be equal to or greater than 125% of the annual Buy to Let mortgage payments, calculated at the stressed rate or product rate, whichever is higher. This takes into account potential future interest rate rises.
+
+Please note that when working out whether a basic or high rate taxpayer, total income should be considered. This should include rental income that is currently being received along with 75% of any proposed new property rental income (if a BTL Purchase application).
+
+For higher rate tax payers, we will assess affordability based on the annual rental income, which must be equal to or greater than 145% of the annual Buy to Let mortgage payments, calculated at the stressed rate or product rate, whichever is higher.
+
+For joint applicants, both applicants need to be a basic rate tax payer to achieve a stressed rate of 125%, otherwise 145% will be applied if one applicant is a basic rate tax payer and the other applicant a higher rate tax payer.
+
+For applications from non-UK residents, we will assess affordability based on the annual rental income, which must be equal to or greater than 145% of the annual Buy to Let mortgage payments, calculated at the stressed rate or product rate, whichever is higher.
+
+A further check is also required to ensure that the rental payment is sufficient to cover the mortgage payment on a capital repayment basis.
+
+#### Top Slicing
+
+Top Slicing assessment (higher rate taxpayers only) – Domestic Buy to let applications only (not available for Let to buy or international Buy to let applications):
+
+Minimum income requirement of £50,000 p.a. (excluding rental income). At least one applicant must meet this criteria
+
+Maximum of 75% LTV
+
+Annual rental income must be equal to or greater than 110% of the annual Buy to let mortgage payments, calculated at the stressed rate or product rate, whichever is higher
+
+A further check will be made to ensure that the rental payment is sufficient to cover the mortgage payment
+
+Personal disposable income can be used in addition to rental income to make up the shortall to 145% (background rental income cannot be used in the disposable income calculation)
+
+For any background Buy to let properties that are owned, the overall rental income (for the background properties) must be 145% of the background mortgage payments (using stress rate of 5.5%)
+
+Where the applicant is less than 5 years from their anticipated retirement age or age 70 (whichever is sooner), the annual rental income must be equal to or greater than 140% of the interest only element of the annual BTL mortgage payment, calculated at the stressed rate or product rate whichever is higher.
+
+Where the applicant is less than 10 years from their anticipated retirement age or age 70 (whichever is sooner), the annual rental income must be equal to or greater than 125% of the interest only element of the annual BTL mortgage payment, calculated at the stressed rate or product rate whichever is higher.
+
+#### Stressed Rate
+
+Buy to Let stressed rate is currently:
+
+Loan type | UK Residents LTV 75% or less | UK Residents Over 75% LTV | Non-UK Residents
+
+All applications on a 5 year fixed rate | Product Rate + 1% or 4.9% (whichever is higher) | Product Rate + 1.15% or 5.7% (whichever is higher) | Product Rate + 1.05% or 5.35% (whichever is higher)
+
+Like for like remortgage on a 2 year fixed rate | Product Rate + 1.1% or 5.05% (whichever is higher) | Product Rate + 1.25% or 6.15% (whichever is higher) | Product Rate + 1.15% or 5.55% (whichever is higher)
+
+All other applications on a 2 year fixed rate | Product Rate + 2% or 5.5% (whichever is higher) | Product Rate + 2% or 6.15% (whichever is higher) | Product Rate + 2% or 5.55% (whichever is higher)
+
+All applications on a Tracker rate | Product Rate + 2% or 5.9% (whichever is higher) | N/A | Product Rate + 2% or 6.35% (whichever is higher)
+
+Please refer to the Buy to Let calculatorExt which will provide guidance as to whether the rental income is sufficient coverage for a full mortgage application. [https://intermediaries.hsbc.co.uk/calculators/]
+
+A Professional Valuation is mandatory for all Buy to Let applications, which will be used to confirm the expected monthly rental income and the demand for rental property in the specified location.
+
+### Let to buy
+
+We will accept applications to convert a UK residential mortgage, held with another UK lender, to an HSBC UK Buy to Let mortgage via our Let to buy journey.
+
+Let to buy exclusions:
+
+Not available for Unencumbered properties
+
+Top Slicing not permitted.
+
+Let to buy mortgages are available to applicant(s) seeking to remortgage their existing residential property to a Buy to Let mortgage, for the purpose of purchasing another residential property.
+
+The current UK residential mortgage must be held with another lender not HSBC UK.
+
+Let to buy affordability criteria is the same as Buy to Let criteria.
+
+It is essential that Let to buy applications are keyed correctly by selecting 'Let to buy' as the 'Nature of Loan' on the Broker platform. Any cases keyed incorrectly as Buy to Let, will need to be rekeyed.
+
+For all Let to buy applications there is a requirement to provide evidence of the new Residential mortgage payment. For example, a quotation, a Decision/Agreement in Principle, or a Mortgage Offer document where this amount is shown.
+
+If the onward Residential purchase is being submitted with HSBC UK, please add notes on both Let to buy and Residential applications to advise they are linked. There is no specific order in which these applications need to be keyed/submitted, but we would expect both applications to be completed at a similar time to be able to cross reference.
+
+Please ensure that you have correctly included the new Let to buy mortgage payment in the onward Residential purchase application. Do not duplicate the existing Residential mortgage payment that will cease once the new Let to buy mortgage is in place.
+
+We will not treat the onward residential as a Second property where the current residential property is being converted to a Let to buy, therefore it is not subject to the 80% LTV cap (standard LTV limits apply).
+
+The future rental income from the Let to buy can also be utilised within the onward Residential purchase application. Please note this does not apply to unencumbered properties.
+
+This can be evidenced from the valuation report if the Let to buy application is with HSBC UK, or a letter from the Association of Rental Letting Agents (ARLA) if the Let to buy application is with another lender.
+
+## Income
+
+For sole applications from UK residents, the minimum basic income is £25,000 p.a. (this can include variable income but would exclude rental and benefit income). For overseas customers, the minimum basic income is £75,000 p.a. (excluding variable and rental income).
+
+For joint applications, at least one applicant must meet this criteria.
+
+Please key the application only using basic income. If variable income is required to support affordability, please contact the Broker Support Helpdesk to add this to the application. [https://intermediaries.hsbc.co.uk/broker-support/]
+
+Evidence of employed and variable income must be provided in line with the Residential lending criteria. [https://intermediaries.hsbc.co.uk/criteria/?tab=residential]
+
+For self-employed applications pleased provide the Latest years finalised accounts or Latest years Tax Calculation* and corresponding Tax Year Overview
+
+*Tax Calculation can be an online print out from HMRC website, an SA302 or the computation produced by the customer's accountant using commercial software and submitted to HMRC. [https://www.gov.uk/log-in-file-self-assessment-tax-return]
+
+Please note, for Limited Company Directors with a shareholding of 25% or more, we will require the most recent finalised financial accounts, the latest of which must be dated within the last 18 months.
+
+For income in a foreign currency other than GBP, the amount should be converted using an appropriate currency conversion tool and input the gross income in GBP into the application.
+
+All existing Buy to Let rental income will be verified for new Buy to Let applications using the latest months bank statement or latest years' SA100/SA105.
+
+## Product
+
+### Energy Efficient Homes
+
+EEH products are available for Purchase and Remortgage applications up to £2million, and where the property has an Energy Performance Certificate rating of A or B.
+
+Please refer to the product finder for our current range. [https://intermediaries.hsbc.co.uk/products/]
+
+To check an EPC rating, please refer to the Government website: find an energy certificate. [https://www.gov.uk/find-energy-certificate]
+
+A PEA rated property will be a new build property, PEA certificates are provided by the Developer.
+
+If the PEA certificate has limited address information please also provide the Plot Reservation form for the property (also provided by the Developer).
+
+### Loan
+
+**Minimum loan**
+
+For Buy to Let mortgages, the minimum loan is £25,000
+
+For Buy to Let Additional Borrowing applications, the minimum loan is £10,000
+
+**Maximum loan**
+
+For Buy to Let mortgages and Additional Borrowing applications, the maximum loan amount is restricted by the following LTV (Interest Only and Capital Repayment):
+
+Application Type | Loan Type / Size | LTV percent
+
+Mortgage / Home Loan | Capital Repayment / Interest Only |
+
+Up to and including £400k (only applicable on properties with an EPC rating of A-C) | 80
+
+Up to and including £1m | 75
+
+Up to and including £2m | 60
+
+Up to £50k (Home loan for debt consolidation) | 60
+
+The LTV is calculated using either the purchase price or the Professional Valuation of the property, whichever is lower.
+
+HSBC UK accepts financial incentives up to 5% of the purchase price without impacting the LTV.
+
+Any amount above 5% must be deducted from the purchase price.
+
+Non-financial incentives do not need to be deducted from the purchase price and will not impact the LTV.
+
+The total lending on Buy to Let mortgaged properties should not exceed £2m across all lenders.
+
+For HSBC UK Intermediary applications, capitalised product fees are not included in the LTV calculation.
+
+This means that the fee can be added to the loan and exceed the LTV loan size threshold, provided it does not exceed a maximum of 80% LTV
+
+### Repayment type
+
+Buy to Let mortgages are available on either a capital repayment or an interest-only basis.
+
+We accept sale of the BTL property as a repayment plan.
+
+For further information on other repayment strategies see Interest Only Repayment Plans. [https://intermediaries.hsbc.co.uk/criteria/?tab=buy-to-let]
+
+### Standard variable rate
+
+The HSBC UK Standard Variable Rate is currently 7.50%
+
+### Term
+
+For all applications (including Additional borrowing and Unencumbered) on both Interest Only and Capital Repayment, the minimum mortgage term is 5 years (60 months) and the maximum term is 40 years (480 months).
+
+## Packaging Requirements
+
+**Income from employment**
+
+Evidence of employed income must be provided in line with the Residential lending criteria
+
+**Income from self-employment**
+
+For self-employed applications pleased provide the Latest years finalised accounts or Latest years Tax Calculation* and corresponding Tax Year Overview
+
+*Tax Calculation can be an online print out from HMRC website, an SA302 or the computation produced by the customer's accountant using commercial software and submitted to HMRC. [https://www.gov.uk/log-in-file-self-assessment-tax-return]
+
+No further income verification / validation is required for self-employed applicants beyond the above.
+
+For income in a foreign currency other than GBP, the amount should be converted using an appropriate currency conversion tool and input the gross income in GBP into the application.
+
+**Documentation**
+
+To evidence rental income on background buy to let properties, you must provide one month's bank statement(s) dated within the last 35 days for all non-HSBC accounts to which rental income is paid.
+
+OR
+
+The latest year's tax return (SA100 including SA105)
+
+For customers who have their current property in either Northern Ireland or Scotland, we require a mortgage statement to evidence their owner occupier status.
+
+## Property
+
+### Buy to let vacant possession
+
+**Remortgage applications**
+
+For Buy to let Remortgage applications, the property can be either vacant or tenanted at the time of application. Where the property is already subject to an existing tenancy, which will remain in place following completion, we will lend where the tenancy is an Assured Shorthold Tenancy (England) a Standard Contract (Wales) or on a non-rent controlled tenancy (Northern Ireland) Or is a private residential tenancy for properties located in Scotland and meets the following criteria:
+
+The tenant must be an individual (by definition in the FCA handbook)
+
+The property must be occupied as the tenant's principal home
+
+The tenancy must be dated on or after 28 February 1997 and must not be one that can become an Assured Tenancy.
+
+**Purchase applications**
+
+For Buy to let Purchase applications, vacant possession is required.
+
+### Energy Performance Certificate (EPC)
+
+A valid and up-to-date Energy Performance Certificate (EPC) is required for all properties with a minimum acceptable rating of 'E' and above. A rating of 'F' or 'G' will deem the property unsuitable for mortgage lending.
+
+Where the LTV is over 75%, a valid and up-to-date Energy Performance Certificate (EPC) is required for all properties with a minimum acceptable rating of 'C' and above.
+
+### Property types
+
+For criteria on specific property types, please see the residential criteria section. [https://intermediaries.hsbc.co.uk/criteria/?tab=buy-to-let]
+
+### Security
+
+**First legal charge**
+
+A first legal charge (in Scotland, a first ranking standard security) over the property is/will be held. We do not provide second charge (second ranking) mortgages.
+
+**Purchase applications**
+
+For Buy to Let purchase applications, we require the property to have vacant possession.
+
+### Insurance
+
+Buildings insurance for a minimum of the full reinstatement value must be taken out or be held and remain in place during the term of the mortgage.
+
+### Tenancy types
+
+The property must only be let under an Assured Shorthold Tenancy (England) a Standard Contract (Wales) or on a non-rent controlled tenancy (Northern Ireland) where the rental income is less than or equal to GBP100,000 per annum for a maximum period of three years, or a company let agreement for a maximum period of 12 months.
+
+Properties located in Scotland can be let under a private residential tenancy.
+
+Company let agreements are acceptable in England and Wales, but not acceptable for properties located in Scotland (regardless of where the company is incorporated).
+
+Houses in Multiple Occupation (HMO) for example student lets, holiday lets and sub-letting are all excluded.
+
+In the case of a Buy to Let purchase the property must have vacant possession.
+
+All Buy to Let leasehold properties must have more than 35 years remaining after completion of term of the mortgage. If this criteria is met, however the unexpired term at the outset has less than 85 years remaining, this will always be subject to the valuer's opinion. The valuer must be satisfied that there is a market for any property taking the lease term into consideration.
+
+For more details refer to the Property section of our Residential lending criteria. [https://intermediaries.hsbc.co.uk/criteria/?tab=residential]
+
+### Tenure
+
+All Buy to Let leasehold properties must have more than 50 years remaining after completion of term of the mortgage. If this criteria is met, however the unexpired term at the outset has less than 85 years remaining, this will always be subject to the valuer's opinion. The valuer must be satisfied that there is a market for any property taking the lease term into consideration.
+
+For more details refer to the Property section of our Residential lending criteria. [https://intermediaries.hsbc.co.uk/criteria/?tab=residential]
+
+### Valuations
+
+A Professional Valuation (PV) must be completed for all Buy to Let applications (Automated Valuations/Managed Desktop Valuations cannot be used to support Buy to Let mortgage borrowing)
+
+All valuations and mortgage offers are valid for 6 months.
+
+The minimum acceptable property valuation amount is £75,000
+
+The property must have a minimum Energy Performance Certificate (EPC) of E or above to be acceptable for mortgage lending. The energy rating will be determined during the property valuation.
+
+**Down valued property value**
+
+Where a property is down valued, an appeal can be raised if the figure provided by the valuer is lower than the expected property value by 20% or more, and the LTV, rate or lending amount has been impacted.
+
+E.g. Expected purchase price is £100k but the physical valuation returns a figure of £80k. If the property down valuation does not fall within the 20% tolerance, an appeal cannot be raised.
+
+The appeal must be received in a written format and all minimum criteria detailed below is mandatory. If the criteria is not fulfilled the appeal will not be progressed.
+
+Minimum Accepted Criteria:
+
+Evidence of a minimum 3 properties sold within the last 6 months, of the same property type, number of bedrooms, gross floor area and ideally in the same post code area (within a 1-mile radius)
+
+Details of any home improvements or key information that could justify an increased figure
+
+Property address and postcode (including house number)
+
+Property type and number of bedrooms
+
+Description/comments
+
+Date sold and sale price
+
+Unacceptable Evidence:
+
+Estate Agents Market appraisal/opinion - this is an Estate Agents personal opinion of what they could market the property for, there is no obligation or guarantee that the figure will be achieved as a realised sale
+
+Independent survey - this is completed for the customer's own purposes and doesn't take into consideration the bank's Policies and Lending Criteria
+
+Properties that are currently on the market or sold subject to contract - until a sale is complete, they are not considered as suitable evidence
+
+Please note that a valuation is carried out for the banks mortgage lending purposes only.
+
+If an acceptable Managed Desktop Valuation (MDV) has been completed which is suitable for our lending purposes, even if the property has been valued less than expected, a Physical Valuation (PV) will not be undertaken.
+
+We will only complete a subsequent Physical Valuation (PV) if the property has been valued less than expected, and it affects the amount of lending and/or the LTV rates available.
+
+**Down valued rental income**
+
+An appeal can be raised if the rental figure provided by the valuer is lower than the expected rental income by 20% or more and there is an effect on the amount of borrowing or LTV interest rate.
+
+The appeal must be received in a written format and all minimum criteria detailed below is mandatory. If the criteria is not fulfilled, the appeal will not be progressed.
+
+Minimum Accepted Criteria:
+
+Evidence of a least 3 unfurnished properties rented out at the time of the valuation, similar to and in the locality of the subject property.
+
+A customer having an existing or prospective tenant who has agreed to pay more than the local average, cannot be accepted as comparable evidence, as this is not a true reflection of the local rental market. HSBC UK will only use the valuation provided by the surveyor to make a risk based lending decision, we will not rely on rent agreed by a specific tenant.
+
+## Existing borrowers
+
+### Deceased Customers
+
+**Product Switch** - If a joint mortgage where one of the parties has passed away, you are able to complete a product switch for the remaining customer who is the surviving borrower, while the mortgage is still in joint names.
+
+Please ensure that the customer has already notified HSBC UK Mortgage Service Centre of their deceased partner.
+
+### Overpayments
+
+Access our calculators to find out how a regular or lump sum overpayment could reduce the term and interest paid on the mortgage. [https://intermediaries.hsbc.co.uk/calculators/]
+
+Lump sum and overpayments can be made at any time to our lifetime tracker mortgages.
+
+Our fixed rate and discount mortgages have an annual overpayment allowance equivalent to 10% of the principal mortgage balance at drawdown, or at the start of a new rate switch.
+
+Overpayments can be made by lump sum reductions and/or additional ad-hoc payments credited direct to the mortgage.
+
+The monthly payments will remain the same unless the customer asks us to recalculate them on their reduced mortgage balance.
+
+Alternatively, the customer can set up a flexible overpayment arrangement.
+
+If they choose this method, we will collect the overpayment in with the existing direct debit payment.
+
+The arrangement can be set up for a specific period or until further notice, your customer will need to make sure the monthly overpayments will not exceed their annual allowance in any one period.
+
+When the current rate changes, the customer will need to review the arrangement again as the standard monthly payments and allowance will be reset.
+
+At the end of the flexible overpayment arrangement the standard monthly payments will automatically be reset.
+
+This is the same if there is a change to the monthly payment date, rate or an amendment to the overpayment arrangement to a different amount.
+
+The recalculation will take into account previous overpayments, as it is calculated on the principal mortgage balance, the current interest rate and the remaining mortgage term.
+
+If a new flexible overpayment arrangement is put in place, or when the current overpayment arrangement ends, the bank will acknowledge this with a letter to the customers to confirm the new payments being collected.
+
+The overpayment allowance is reset annually on the anniversary of the drawdown, or at the start of the new rate following a switch.
+
+If your customer switches rates before this anniversary date, a new overpayment will commence from the date the new rate begins and will be calculated by using 10% of the mortgage balance at this time.
+
+An overpayment allowance is not transferable to the next overpayment period, therefore any allowance not utilised will be forfeited.
+
+The Early Repayment Charge (ERC) will only be applied to the mortgage if the customer was to exceed the overpayment allowance in any one annual period.
+
+This applies to an overpayment made by lump sum payments, ad-hoc payments or on a monthly overpayment arrangement.
+
+We cannot amend or set up the overpayment arrangement if the mortgage is in the billing cycle, this means 5 working days prior to the monthly mortgage payment being collected.
+
+If you wish to cancel this arrangement, you will need to do so at least 7 working days before the payment is due.
+
+By making overpayments, the customer will benefit from an interest saving immediately as interest is charged daily.
+
+The term of the mortgage may be reduced which can result in the loan being repaid earlier.
+
+This will only be achieved if overpayments are continually made throughout the original mortgage term.
+
+If monthly payments are reset, they are calculated over the original mortgage term/remaining term.
+
+Any projected savings as a result of overpayments are subject to change.
+
+The projections are not guaranteed as they are based on the current interest rate, the overpayments against the existing monthly payments, and the remaining term.
+
+All of these factors will change.
+
+Any changes to the interest rate, payment date, or if the overpayment arrangement stops will result in the standard payments being recalculated over the original term.
+
+We will revert to a standard monthly payment (minimum payment) following these changes.
+
+If the annual overpayment allowance is set in a leap year, the allowance will not commence on drawdown or amendment, and will instead reset the following working day.
+
+Online banking customers can view their overpayment allowance by using the overpayment screen on their mortgage account.
+
+This shows the annual allowance amount, the start and end dates for the current period and the allowance balance remaining if overpayments have been paid.
+
+### Placing an application / Cancelling a case
+
+**Submitting an Additional Borrowing, Porting or Product Switch application**
+
+To commence an Additional Borrowing, Porting or Product Switch application, select 'Existing customer' from the broker portal after logging in.
+
+For Additional Borrowing and Product Switch applications you will need to accept the customer offer document on behalf of your client to ensure the application completes.
+
+For Porting applications, receipt of the Certificate of Title (COT) auto-triggers the offer acceptance, so you do not have to manually accept it for this type of application.
+
+For further information about applications for existing HSBC UK mortgage customers, please take a look at our Frequently Asked Questions. [https://intermediaries.hsbc.co.uk/help/faqs]
+
+**Cancelling a case**
+
+For all application types you must inform us if you wish to cancel the case.
+
+Many of our processes in the application journey are now automated, therefore the case may reach completion if you do not advise us that it should be cancelled.
+
+For Product Switch applications only: On the Broker Platform, enter the application reference and use the 'Cancel application' option.
+
+For all other application types, please call our Broker Support Team on 0345 6005847 (Monday – Friday 9am to 5pm) if you wish to cancel a submitted application.
+
+For all Application types where a booking fee has already been paid, this will be refunded within 48 hours.
+
+### Porting
+
+You can complete a Porting application request on behalf of your customer under the following circumstances:
+
+**Porting Eligibility**
+
+Your customer is an existing HSBC UK mortgage customer
+
+Your customer is on a Fixed Rate, Term Tracker or Lifetime Tracker
+
+The eligible rate will need to have at least 6 months remaining
+
+The sale and purchase will be completed simultaneously
+
+If your customer is looking to port their current product, they will need to be aware of the following exclusions which will result in their application not proceeding:
+
+**Porting Exclusions**
+
+Any account in arrears
+
+More than six existing loan parts
+
+More than two applicants
+
+Porting a HSBC closed secured loan
+
+Equity buy-out (EBO)
+
+Marital Disputes
+
+Where there is an existing application in progress (this will include a product switch application)
+
+**Further Information**
+
+For the total borrowing amount, a procuration fee of 0.4% residential and 0.5% BTL will be paid for the new lending upon completion.
+
+You will be able to complete Simultaneous Porting applications, where the existing HSBC mortgage must be repaid simultaneously with the drawdown of the new application.
+
+As a Porting application is an onward purchase you can also apply to amend details (subject to meeting eligibility criteria) such as loan term, repayment type, add on an applicant (as long as no more than 2 applicants in total) etc.
+
+### Product switching
+
+When completing a Product Switch application on behalf of your client you will need to accept the customer offer document to ensure the application completes.
+
+You can complete a product switch on behalf of your client under the following circumstances:
+
+**Product Switch Eligibility**
+
+Your client is an existing HSBC UK mortgage customer
+
+Your client is on a Fixed Rate, Term Tracker, Lifetime Tracker or Standard Variable Rate
+
+If a joint mortgage where one of the parties has passed away, you are able to complete a product switch for the remaining customer who is the surviving borrower, while the mortgage is still in joint names.
+
+Please ensure that the customer has already notified HSBC UK Mortgage Service Centre of their deceased partner.
+
+If your client is looking to switch their current product, they will need to be aware of the following exclusions which will result in their application not proceeding:
+
+**Product Switch Exclusions**
+
+Any account in arrears
+
+Any account with consent to let
+
+Where there is a product switch application already in progress
+
+More than six loan parts
+
+More than two applicants
+
+Any additional changes to the mortgage (i.e. change of term)
+
+More than 2 loan parts tracking at different currencies.
+
+**Further Information**
+
+For every product switch, a procuration fee of 0.2% will be paid
+
+A product switch application can be made up to 90 days in advance
+
+Your customer can select their preferred product transfer date within the 90 days
+
+Your customer can exit their current mortgage deal early, subject to any Early Repayment Charges.
+
+The new interest amount will be calculated from the date the new rate is applied. HSBC UK will review the available options, and provide support to the customer.
+
+To cancel an existing case use the 'Cancel application' option on the Broker Platform

@@ -1,0 +1,534 @@
+LENDER NAME: Lendinvest
+PRODUCT: Residential
+
+================================================================================
+LENDINVEST - RESIDENTIAL MORTGAGES CRITERIA
+================================================================================
+
+Source: https://docs.lendinvest.com/web/public-pdfs/resi-mortgages/criteria-guide.pdf
+Last Updated: 24/06/2025
+
+Note: This document is for intermediaries only. Lending criteria and property requirements for our Residential Mortgages products.
+
+Last Verified: Based on PDF content as of the file creation date
+
+================================================================================
+OVERVIEW
+================================================================================
+
+Welcome to our Residential Mortgages lending criteria. Inside you will find the essential requirements to be considered before we lend to your clients.
+
+Inside you will find information relating to our lending and product criteria, as well as guidance on our application process and contact details for our experienced Business Development Managers.
+
+Our Residential Mortgages products are available through intermediaries only and this document should be used only by them.
+
+================================================================================
+1. APPLICANT CRITERIA
+================================================================================
+
+APPLICANT DETAILS
+--------------------------------------------------------------------------------
+
+MINIMUM AGE
+- The minimum age at application is 21
+
+MAXIMUM AGE
+- The maximum age limit at the end of the term of the loan is 75 years old
+- Applicants wanting to borrow beyond age 70 must not be older than 55 years of age at time of application
+
+MAXIMUM NUMBER OF INDIVIDUAL APPLICANTS
+- 2
+
+INDIVIDUAL BORROWER REQUIREMENTS
+- Must be a UK resident and have been resident in the UK for the last 3 years, or have a current UK credit profile and permanent right to reside in the UK
+
+FIRST TIME BUYERS
+- Yes – subject to product eligibility and the Applicant not being credit impaired
+
+ALLOWABLE ADVERSE
+--------------------------------------------------------------------------------
+
+| | Premier | Advantage | Progress | Support |
+|---|---|---|---|---|
+| **Max LTV** | 90% | 90% | 85% | 85% |
+| **Unsecured Credit Arrears** | 0 in 24 months | 0 in 3 months, 2 in 24 months | 0 in 3 months | Not considered (excludes Status 6 and any defaults) |
+| **Defaults (Registered Date)*** | 48 months or more | 24 months or more<br>(Max £500 if registered in last 36 months) | 24 months or more | 12 months or more |
+| **Unsatisfied Defaults** | N/A | N/A | N/A | Max £5,000<br>(if registered 48 months ago or more) |
+| **Secured Loan/ Mortgage Arrears** | 0 in 48 months | 0 in 24 months | 0 in 24 months | 0 in 6 months (excludes Status 6 and any defaults) |
+| **Satisfied CCJs*** | N/A | Up to £2,000<br>(Max £500 if registered in last 36) | Up to £2,000 | Up to £5,000 |
+| **Unsatisfied CCJs** | N/A | N/A | N/A | Max £500 |
+| **Debt Management Plans/ Arrangements** | N/A | 24 months or more | 24 months or more | Accepted where performing |
+| **Bankruptcy/ IVA** | N/A | N/A | N/A | 0 in 72 months |
+| **Pay Day Loans** | 0 in 36 months | 0 in 36 months | 0 in 36 months | Closed 12 months ago or more |
+
+*All satisfied comms/utilities under £250 ignored (per applicant). All defaults must be satisfied.
+
+**Worst status for Secured and Unsecured Arrears
+
+NOTES
+- Qualified Professional options available on Premier and Advantage products
+- Key Worker options available on Premier, Advantage and Progress products
+
+================================================================================
+2. INCOME
+================================================================================
+
+Evidence is required.
+
+INCOME EVIDENCE
+--------------------------------------------------------------------------------
+
+| Income type | Weighting considered | Income evidence required |
+|---|---|---|
+| **Employed** | 100% | • Last 3 months OR 8 weeks consecutive payslips<br>• Most recent P60<br>• Latest 3 month bank statements/Open Banking showing salary |
+| **Bonus/commission** | Up to 100% | • Last 3 months OR 8 weeks consecutive payslips showing bonus/commission payments<br>• Most recent P60 supporting consistent bonus/commission |
+| **Regular Overtime** | Up to 100% | • Last 3 months OR 8 weeks consecutive payslips showing overtime payments<br>• Most recent P60 supporting consistent overtime |
+| **Self Employed - Sole Trader** | 100% | • 2 years SA302's and tax year overviews where available OR 1 years SA302's and tax year overviews with 1 years trading history<br>• Latest 3 months business bank statements<br>• Latest 3 months bank statements/ Open Banking showing salary |
+| **Self Employed - Partnership** | 100% | • 2 years SA302's and tax year overviews where available OR 1 years SA302's and tax year overviews with 1 years trading history<br>• Latest 3 months business bank statements<br>• Latest 3 months bank statements/ Open Banking showing salary |
+| **Self Employed - Limited Company** | 100% | • 2 years accounts where available OR 1 years company accounts where they have been filed in the last 9 months<br>*Note all accounts provided MUST be signed by a qualified accountant*<br>• 2 years SA302's and tax year overviews where available OR 1 years SA302's and tax year overviews with 1 years trading history<br>• Latest 3 months business bank statements<br>• Latest 3 months bank statements/ Open Banking showing salary/dividends |
+| **Dividends from LTD Company** | 100% | • See Self- Employed income requirements<br>• Dividends must not exceed the net profit.<br>• Net profit can be considered where the applicant is a sole shareholder |
+| **Zero Hours Contract** | >12 months history - up to 100%<br><12 months history - 50% | • Last 3 months OR 8 weeks consecutive payslips<br>• Most recent P60<br>• Latest 3 month bank statements/Open Banking showing salary |
+| **Contractor** | 100% | • Last 3 months OR 8 weeks consecutive payslips<br>• Latest 3 months consecutive umbrella company payslips (if applicable) - income considered net of umbrella company deductions<br>• Current and previous contractual agreement<br>• Latest 3 months bank statements/ Open Banking showing salary |
+| **CIS Contractor** | 100% | • Last 3 months OR 8 weeks consecutive payslips<br>• Latest 3 months consecutive umbrella company payslips (if applicable) - income considered net of umbrella company deductions<br>• Current and previous contractual agreement if available<br>• Latest 3 months bank statements/ Open Banking showing salary |
+| **Profit from UK property** | 100% | • See Self- Employed requirements<br>*Please note relief from finance costs will be deducted from Profit from UK Land & Property* |
+| **Pension Income** | 100% | Latest 2 years' annual pension statement |
+| **Regular Trust or Investment Income** | 100% | Latest 2 years' evidence of income/entitlement |
+| **Other Income** | Up to 100% | • Child Benefit, subject to age of children<br>• Universal Credit - Award letter required<br>• PIP/DLA - Award letter required<br>• Court Ordered Maintenance - Court order required |
+| | 50% | • Non-Court Ordered Maintenance<br>*For all 'Other Income' 3 months bank statements are required to show credits* |
+
+LTI RATIO
+--------------------------------------------------------------------------------
+
+- Increased Income Multiple on all credit based products for higher earners (>£65k for single Applicants, >£100k for Joint Applicants) based on affordability. Moving from traditional 4.49x to 4.99x
+- Key Worker Applicants considered for higher Income Multiple based on affordability. Moving from traditional 4.49x to 5.49x
+- Qualified Professional applicants considered for higher Income Multiple based on affordability. Moving from traditional 4.49x to 6.49x
+- Only one applicant needs to be a Key Worker or Qualified Professional to be eligible for these products
+
+ACCEPTABLE ACCOUNTANT QUALIFICATIONS
+--------------------------------------------------------------------------------
+
+| Organisation | Acceptable Qualification |
+|---|---|
+| Institute of Certified Accountants in E&W | ACA FCA ICA |
+| Institute of Certified Accountants in Scotland | CA |
+| Association of Chartered Certified Accountants Inc. Association of Authorised Public Accountants | ACCA FCCA AAPA FAPA |
+| Chartered Institute of Management Accountants | ACMA FCMA CIMA |
+| Association of Accounting Technicians | AAT |
+| Association of International Accountants | AIA |
+| International Finance and Administration Qualification | IFA |
+| Chartered Institute of Public Finance & Accountancy | CIPFA |
+| Chartered Institute of Taxation | CTA CTTA |
+| Institute of Financial Accountants | AFA FFA |
+| Institute of Certified Bookkeepers | ICB |
+
+================================================================================
+3. AFFORDABILITY CALCULATION
+================================================================================
+
+All borrowers must pass an affordability assessment based on their verified income and expenditure and this may include an interest rate stress test.
+
+For acceptable Income sources – please see Income section.
+
+MONTHLY CREDIT EXPENDITURE
+--------------------------------------------------------------------------------
+
+Credit expenditure is categorised under committed expenditure and the following should be included within the affordability assessment.
+
+- Repayment on Fixed Term Loans and Hire Purchase
+- Total Revolving Credit Balances (Credit Cards, Overdrafts, Flexible Credit)
+- Buy Now Pay Later
+
+*Please ensure all credit is keyed at application submission and declare whether it is to be repaid*
+
+OTHER REGULAR COMMITMENTS
+--------------------------------------------------------------------------------
+
+TOTAL ESSENTIAL HOUSEHOLD EXPENSES
+- Food
+- Maintenance and utilities
+- Transport
+- Basic recreation
+- Clothing and footwear
+
+NON-ESSENTIAL EXPENSES
+- All other expenditure items such as hotel stays, holidays, car purchases and restaurant meals
+
+COMMITTED EXPENSES
+- Student loan payments
+- School fees and Childcare
+- Maintenance and child support
+- Insurance (House, Car, Health)
+- Service charges and ground rent
+- Pension Contributions
+- Debt Management Plans
+- Other Regular Payments
+
+LENDING INTO RETIREMENT
+--------------------------------------------------------------------------------
+
+- Will be considered beyond state pension age/ stated retirement age dependant on type of employment and current pension contributions
+- Otherwise lend to the current applicable state pension age/ stated retirement age
+
+================================================================================
+4. LOAN CRITERIA
+================================================================================
+
+MAXIMUM LTV
+--------------------------------------------------------------------------------
+
+- 90%
+
+MAXIMUM TERM
+--------------------------------------------------------------------------------
+
+- 40 years
+
+MINIMUM TERM
+--------------------------------------------------------------------------------
+
+- 7 years
+
+MINIMUM LOAN
+--------------------------------------------------------------------------------
+
+- £50,000
+
+MAXIMUM LOAN
+--------------------------------------------------------------------------------
+
+- £1,500,000
+
+LOAN PURPOSE
+--------------------------------------------------------------------------------
+
+- Purchase and Remortgage applications
+
+REPAYMENT
+--------------------------------------------------------------------------------
+
+- Capital & Interest, Interest Only and Part and Part Repayment
+- Interest Only, and the Interest Only element of Part & Part, is restricted to a maximum of 70% of the LTV, Part & Part restricted to a maximum of 75% LTV
+
+MINIMUM INCOME FOR INTEREST ONLY APPLICATIONS
+--------------------------------------------------------------------------------
+
+- Individual borrower £50,000
+- Joint borrowers £75,000
+- Sale of current property can be considered
+
+================================================================================
+5. DEPOSIT CRITERIA
+================================================================================
+
+OFFER VALIDITY
+--------------------------------------------------------------------------------
+
+- Offers are valid for 3 months
+- Where a new build is not practically complete or is purchased off plan at application, an offer is valid for 6 months
+
+DEPOSIT
+--------------------------------------------------------------------------------
+
+- For all purchase applications details and evidence of the cash deposit must be provided
+
+EVIDENCE OF DEPOSIT
+--------------------------------------------------------------------------------
+
+- Applicants savings
+- Capital raising remortgage
+- Inheritance
+- Gifted deposits are acceptable. Gifted deposits can only be accepted from an immediate relative, full details of whom must be disclosed
+  - The identification of the person(s) gifting the deposit must be satisfactorily established
+  - Appropriate deed of gift indemnity insurance will be required
+  - Only on-shore funds may be used
+- Vendor Deposits – LendInvest will not accept a vendor's deposit
+
+================================================================================
+6. PROPERTY CRITERIA
+================================================================================
+
+GENERAL CRITERIA
+--------------------------------------------------------------------------------
+
+NEW BUILD DEFINITION
+- A property is considered a new build if the applicant is the first occupant of the property. LendInvest will accept subject to being suitable security
+- LTV for new build houses is restricted to 85%, and for flats it is 75%
+
+HOLIDAY HOMES
+- Holiday homes are not acceptable
+
+MINIMUM PROPERTY VALUE
+- £150,000 – London (excludes rest of the UK)
+- £75,000 - UK (excludes London)
+
+LOCATIONS CONSIDERED
+- England, Wales and Scotland
+
+RETENTIONS
+- LendInvest does not offer retentions
+
+ACCEPTABLE PROPERTY
+--------------------------------------------------------------------------------
+
+| Houses | Flats |
+|---|---|
+| Properties considered (subject to review) | |
+| Grade One & Two listed properties | Properties in zone 1 or 2 central London |
+| Properties of 100% timber construction | Ex-Local Authority/Ex-MOD flats and maisonettes |
+| Properties containing Mundic Block or other defective materials | Flats that have access from a balcony or open-decking |
+| Properties with a Thatched Roof including Wheat Reed Roof & Straw Roof | Studio flats |
+| Basement flats | Isolated, rural properties |
+| High rise flats outside central London (upward of 5 storeys/18 meters) | Properties with land in excess of 3 acres |
+| Maisonettes | |
+| | Flats in blocks over 10 storeys in Greater London subject to valuer's commentary (must have a lift if over 4 storeys) |
+
+UNACCEPTABLE PROPERTY
+--------------------------------------------------------------------------------
+
+The following properties are generally unacceptable:
+
+- Properties designated as defective
+- Properties considered uninhabitable
+- Floor areas less than 30sqm
+- Any property with a limited market appeal e.g. professional riding stables
+- Commercial properties or properties with commercial/part-commercial use
+- Prefabricated reinforced concrete (repaired or not)
+- Land
+- Properties/land determined as unacceptable security
+- Holiday park homes
+- Properties less than 10 years old without either an NHBC certificate, Architects Certificate, or equivalent 10 year warranty as confirmed by LendInvest solicitors
+- Vacant rest/retirement homes/care homes
+- Live/work units
+- Properties not wholly owned by the borrower. For example where equity is being retained by a builder/developer, housing association or third party
+- Properties with Large Panel Systems
+- Properties identified as having dry rot
+- Properties in areas known, or suspected to be subject to high or extreme flood risk, coastal erosion risk, structural /subsidence issues, contaminated land, or Electromagnetic Fields (EMF's)
+- Properties with an asbestos roof
+- Freehold flats/maisonettes (unless the borrower owns the freehold of the whole building, subject to leases to any other flats in the building)
+- Shared Ownership (unless purchasing final tranche with a view to owning 100% share, and subject to valuer's comments)
+
+PROPERTY CHARACTERISTICS
+--------------------------------------------------------------------------------
+
+TIMBER FRAMED CONSTRUCTION
+- Yes subject to being built after 1970 with brick, reconstituted stone or rendered block work
+
+FLYING FREEHOLDS
+- Provided the flying freehold does not exceed 15% of the total security then this will be considered subject to valuer comments
+
+JAPANESE KNOTWEED
+- LendInvest will consider Category C and D subject to valuer comments
+
+SOLAR PANELS
+- Will be considered subject to valuer comments
+
+ACCEPTABLE & UNACCEPTABLE TENURE
+--------------------------------------------------------------------------------
+
+ACCEPTABLE TENURE
+- Freehold houses/Absolute Ownership
+- Leasehold flats, and maisonettes with not less than 65 years remaining on the lease after the term of mortgage
+- Lease extensions will be considered
+- Commonhold
+
+UNACCEPTABLE TENURE
+- Freehold flats and freehold maisonettes Tyneside/crisscross leasehold
+- Leasehold properties with less than 65 years remaining on the lease after the term of the mortgage
+
+================================================================================
+7. INTEREST ONLY REPAYMENT STRATEGY
+================================================================================
+
+For our interest only new purchases, remortgages and part and part lending, the following eligibility criteria will apply:
+
+- 70% LTV with a repayment vehicle
+- 75% LTV part & part
+
+| Repayment vehicle | Evidence requirements |
+|---|---|
+| UK investment portfolio – stocks/ investments and shares | Statement of assets (dated within last 3 months) |
+| Cash and term deposits | Statement of assets (dated within last 3 months) |
+| Full endowment policies | Projection statements (dated within the last 12 months) |
+| Pension | Projection statements (dated within the last 12 months) |
+| Sale of additional property | Property details, confirmation of ownership, evidence of outstanding mortgage debt |
+
+================================================================================
+8. REPAYMENT AND OVERPAYMENT
+================================================================================
+
+- Lump sum payments or regular overpayments can be made at any point during the term of this mortgage
+
+- Where overpayments are made during a period in which early repayment charges apply to a loan, overpayments of up to 10% of the original loan amount can be made in any 12 month period, commencing on the drawdown of the loan and ending on the anniversary of that date (the overpayment allowance) without incurring an Early Repayment Charge
+
+- Any unutilised overpayment allowance will be applied to the loan at full redemption when calculating the Early Repayment Charge
+
+- An Early Repayment Charge will be charged for any overpayments made in excess of the overpayment allowance
+
+================================================================================
+9. VALUATION
+================================================================================
+
+- Properties that are likely to have poor demand due to their current condition, location or other factors, including poor maintenance or management of common areas, will not normally be acceptable
+- Properties that are likely to have average demand due to their current condition, location or other factors, including poor maintenance or management of common areas may be restricted to 70% LTV
+
+- We reserve the right to accept or decline any individual property
+
+- The property must comply with the current Energy Performance Certificate Regulation
+
+================================================================================
+10. PRODUCT INFORMATION
+================================================================================
+
+QUALIFIED PROFESSIONAL DEFINED
+--------------------------------------------------------------------------------
+
+- Accountant
+- Architect
+- Actuary
+- Vet
+- Doctor
+- Pilot
+- Dentist
+- Engineer
+- Pharmacist
+- Optician
+- Lawyer
+- Psychologists
+- Surveyor
+
+KEY WORKERS DEFINED
+--------------------------------------------------------------------------------
+
+| Sector | Examples |
+|---|---|
+| **Frontline Health and Care Services (Agency Workers Considered)** | NHS clinicians (e.g. nurses, paramedics etc.)<br>NHS- Non-Clinical Staff - Systems Analyst, Biological Scientist, Porter, Admin<br>Care Home Workers<br>Nursing Assistants (Non-NHS)<br>Physician Associate |
+| **Emergency Services, MoD and UKPS (Including Support Staff)** | Police<br>Firefighter<br>Paramedics<br>Armed Forces (Army, Navy, RAF)<br>Prison Officer/Prisoner Custody Officer |
+| **Education and Childcare** | Nursery Staff<br>Teaching Staff (including Teaching Assistants and University Lecturers)<br>Social Workers |
+
+================================================================================
+11. PACKAGING REQUIREMENTS
+================================================================================
+
+Once the valuation fee is paid, if applicable the case will be referred to an Underwriter for review.
+
+Please upload the supporting documentation as quickly as possible to help us speed up the underwriting process. Where possible, we will use digital verification such as Open Banking, which will help to speed the application up further.
+
+FOR PURCHASE APPLICATIONS
+--------------------------------------------------------------------------------
+
+PROOF OF INCOME
+- Income evidence will always be required. Please see Income Evidence section for further information
+- We can use Open Banking, to support the income verification process
+
+PROOF OF DEPOSIT
+- Deposits will always need to be verified
+- Deposit from Savings: We will require evidence if the previous 3 months build up of funds. We can verify the deposit using Open Banking
+- Gifted Deposits: Bank statements must be provided demonstrating a buildup of funds from the giftor. A letter from the person gifting the money confirming their relationship and that they have no interest in the property. We will also require certified ID from the giftor
+
+FOR REMORTGAGE APPLICATIONS
+--------------------------------------------------------------------------------
+
+PROOF OF INCOME
+- Income evidence will always be required. Please see Income Evidence section for further information
+- We can use open Banking, to support the income verification process
+
+TR1 FORM
+- If the property has been purchased within the last 6 months and works have been completed to the property to increase the valuation, please provide the TR1 form and an explanation regarding the works completed
+
+Further documents and evidence may be requested subject to underwriting.
+
+================================================================================
+12. APPLICATION PROCESS
+================================================================================
+
+All applications must be made through our online portal.
+
+1. REGISTRATION
+--------------------------------------------------------------------------------
+
+- Please ensure you are registered to do business with us. If you have not previously registered with us please follow this link
+
+2. DECISION IN PRINCIPLE
+--------------------------------------------------------------------------------
+
+- To submit a Decision in Principle, please log into the portal and create a 'New DiP' You will need to provide some basic customer data
+- We will only complete a soft credit search at this stage to help us with our decision-making
+
+3. APPLICATION SUBMITTED
+--------------------------------------------------------------------------------
+
+- After receiving your DiP approval, you will be able to continue with the application and fully submit this to us
+
+4. FEES PAID
+--------------------------------------------------------------------------------
+
+- A task will be generated for the valuation fee payment. If there is no payment applicable the case will be submitted directly into the Underwriting team
+- Please note we cannot progress your case until the valuation fee is paid
+- We also encourage you to upload evidence of income and proof of deposit at this stage. This will help to speed up the underwriting process
+
+5. PACKAGING
+--------------------------------------------------------------------------------
+
+- Once the fee has been paid, the case will be submitted to an Underwriter for review. A full credit search will be completed at this stage
+- The borrower will receive an email from our digital identity verification partner, Jumio with instructions on how to verify their identity. They will also receive the option to sign up to our Open Banking provider to support us with the income verification
+- The underwriter will raise any outstanding tasks required and the valuation will also be instructed at this stage of the process
+
+6. UNDERWRITING
+--------------------------------------------------------------------------------
+
+- The remaining tasks are to be uploaded to the case, using the online portal. This will enable the Underwriter to complete their assessment
+- The valuation will also be assessed and you will be notified of any changes to the valuation figure
+- Providing all items have been satisfied, the Underwriter can then issue the formal mortgage offer
+
+7. LEGALS INSTRUCTED
+--------------------------------------------------------------------------------
+
+- The Mortgage Offer will be issued to the borrower. Legal representation will also be instructed at this stage of the process
+- If the borrower has opted for dual representation, our solicitors will act for both us and the borrower
+- If the borrower has opted for separate representation, our solicitor will act for us and will liaise with the solicitor acting for the borrower
+- LendInvest has a panel of solicitors available. For more information please refer to the Residential Solicitors Panel and Guidance
+
+================================================================================
+13. CONTACT INFORMATION
+================================================================================
+
+BUSINESS DEVELOPMENT MANAGERS
+--------------------------------------------------------------------------------
+
+| Name | Role | Email | Phone |
+|---|---|---|---|
+| Nigel Robbins | National Account Manager | nigel.robbins@lendinvest.com | +44 (0)7771 087 904 |
+| Shane Wallace | East of England BDM | shane.wallace@lendinvest.com | +44 (0)7741 656 555 |
+| James Hamblin | South BDM | james.hamblin@lendinvest.com | +44 (0)7741 587 232 |
+| Abby Challen | London and Home Counties BDM | abigail.challen@lendinvest.com | +44 (0)7826 199 499 |
+| Waqar Khan | North West BDM | waqar.khan@lendinvest.com | +44 (0)7503 632 686 |
+| Ed Appleby | North East and Yorkshire BDM | ed.appleby@lendinvest.com | +44 (0)7713 110 624 |
+| Paige Archer | East London BDM | paige.archer@lendinvest.com | +44 (0)7771 758 837 |
+| Rod McPherson | Scotland BDM | rod.mcpherson@lendinvest.com | +44 (0)7741 886 457 |
+| Ryan Best | South West and South Wales BDM | ryan.best@lendinvest.com | +44 (0)7780 862 596 |
+
+SALES DESK/ENQUIRIES
+--------------------------------------------------------------------------------
+
+- You can contact our central Sales desk between 9am-5.30pm, Monday to Friday, by calling 020 3836 1837 or emailing them at resisales@lendinvest.com
+
+UNDERWRITING/CASE MANAGEMENT
+--------------------------------------------------------------------------------
+
+Pre-offer team
+- Email: resiops@lendinvest.com
+- Phone: 02038466830
+
+Post offer team
+- Email: resicompletions@lendinvest.com
+- Phone: 02038466831
+
+LOAN SERVICING
+--------------------------------------------------------------------------------
+
+- Email: mortgageservicing@loans.lendinvest.com
+- Phone: 0203 846 6822
+
+Source: https://docs.lendinvest.com/web/public-pdfs/resi-mortgages/criteria-guide.pdf
+
+================================================================================

@@ -1,0 +1,371 @@
+LENDER NAME: Lendco
+PRODUCT: Buy to Let
+
+================================================================================
+LENDCO - BUY TO LET MORTGAGES CRITERIA
+================================================================================
+
+Source: https://lendco.co.uk/products/buy-to-let-mortgages/
+Product Guide: https://lendco.co.uk/app/uploads/2025/09/Lendco-Product_Criteria_Guide_22.08.25.pdf
+Scraped: 2025-09-08 15:04:09
+
+Note: This document is for intermediary use only.
+
+Last Verified: Based on website content as of the file creation date
+
+================================================================================
+OVERVIEW
+================================================================================
+
+Lendco quickly assesses complex borrowing requirements with minimum fuss and the highest quality of individual service.
+
+KEY FEATURES
+--------------------------------------------------------------------------------
+
+- Manual Underwriting: Every case is manually underwritten, and assessed on its own merits. There are no tick-boxes here
+- Expert Underwriters: Our underwriters have decades of property underwriting experience, so you can be assured that we will understand your transaction and make the correct decision
+- Quick Decisions: Our Sales Team are empowered to make decisions, and have direct access to the underwriters for referrals
+- Our Mentality: We look at transactions through a 'can do' lens, we are passionate about trying to find ways to make deals that make sense work
+
+================================================================================
+1. PRODUCTS
+================================================================================
+
+PRODUCT TYPES
+--------------------------------------------------------------------------------
+
+- 2 Year Standard
+- 5 Year Fixed Standard
+- 2 Year Fixed HMO/MUFB
+- 5 Year Fixed HMO/MUFB
+- Holiday Lets
+
+2 YEAR STANDARD PRODUCTS (ERCs - 2% / 2%)
+--------------------------------------------------------------------------------
+
+| Max LTV | Initial Rate | Arrangement Fee | Loan Size |
+|---|---|---|---|
+| 75% | 4.09% | 4.00% | Up to £1m |
+| 75% | 4.59% | 3.00% | Up to £1m |
+| 75% | 5.09% | 2.00% | Up to £1m |
+| 75% | 4.19% | 4.00% | £1m to £2m |
+| 75% | 4.69% | 3.00% | £1m to £2m |
+| 75% | 5.19% | 2.00% | £1m to £2m |
+| 65% | 4.29% | 4.00% | £2m to £3m |
+| 65% | 4.79% | 3.00% | £2m to £3m |
+| 65% | 5.29% | 2.00% | £2m to £3m |
+
+5 YEAR FIXED STANDARD PRODUCTS (ERCs - 5% / 4% / 3% / 2% / 2%)
+--------------------------------------------------------------------------------
+
+| Max LTV | Initial Rate | Arrangement Fee | Loan Size |
+|---|---|---|---|
+| 75% | 4.84% | 5.00% | £100k – £1m |
+| 75% | 4.99% | 5.00% | £100k to £1m |
+| 75% | 5.39% | 3.00% | £100k to £1m |
+| 75% | 5.59% | 2.00% | £100k to £1m |
+| 75% | 5.09% | 5.00% | £1m to £2m |
+| 75% | 5.49% | 3.00% | £1m to £2m |
+| 75% | 5.69% | 2.00% | £1m to £2m |
+| 70% | 5.39% | 5.00% | £2m to £4m |
+| 70% | 5.79% | 3.00% | £2m to £4m |
+| 70% | 5.99% | 2.00% | £2m to £4m |
+
+2 YEAR FIXED HMO/MUFB PRODUCTS (ERCs - 2% / 2%)
+--------------------------------------------------------------------------------
+
+| Max LTV | Initial Rate | Arrangement Fee | Loan Size |
+|---|---|---|---|
+| 75% | 4.29% | 4.00% | £100k to £1m |
+| 75% | 4.79% | 3.00% | £100k to £1m |
+| 75% | 5.29% | 2.00% | £100k to £1m |
+| 75% | 4.39% | 4.00% | £1m to £2m |
+| 75% | 4.89% | 3.00% | £1m to £2m |
+| 75% | 5.39% | 2.00% | £1m to £2m |
+| 65% | 4.49% | 4.00% | £2m to £3m |
+| 65% | 4.99% | 3.00% | £2m to £3m |
+| 65% | 5.49% | 2.00% | £2m to £3m |
+
+5 YEAR FIXED HMO/MUFB PRODUCTS (ERCs - 5% / 4% / 3% / 2% / 2%)
+--------------------------------------------------------------------------------
+
+| Max LTV | Initial Rate | Arrangement Fee | Loan Size |
+|---|---|---|---|
+| 75% | 4.99% | 5.00% | £100k to £1m |
+| 75% | 5.39% | 3.00% | £100k to £1m |
+| 75% | 5.59% | 2.00% | £100k to £1m |
+| 75% | 5.09% | 5.00% | £1m to £2m |
+| 75% | 5.49% | 3.00% | £1m to £2m |
+| 75% | 5.69% | 2.00% | £1m to £2m |
+| 70% | 5.39% | 5.00% | £2m to £4m |
+| 70% | 5.79% | 3.00% | £2m to £4m |
+| 70% | 5.99% | 2.00% | £2m to £4m |
+
+HOLIDAY LETS PRODUCTS (ERCs - 5% / 4% / 3% / 2% / 2%)
+--------------------------------------------------------------------------------
+
+| Max LTV | Initial Rate | Arrangement Fee | Loan Size |
+|---|---|---|---|
+| 75% | 5.75% | 5.00% | Up to £3M |
+| 75% | 6.25% | 2.50% | Up to £3M |
+
+================================================================================
+2. LOAN DETAILS
+================================================================================
+
+LOAN SIZES
+--------------------------------------------------------------------------------
+
+- £100k – £3m per asset
+- £10m per borrower maximum exposure
+- £2m max loan at 75% LTV
+- 65% LTV max above £2m
+- 65% and £2.5m max for Foreign Nationals unless they meet QFN criteria
+
+TERMS
+--------------------------------------------------------------------------------
+
+- Minimum term is 5 years, maximum 35 years
+- We currently have a range of 2 year tracker products
+
+LOAN TO VALUE (LTV)
+--------------------------------------------------------------------------------
+
+- Up to 75% LTV available (subject to loan size and property type)
+- 65% LTV max above £2m
+- See product tables above for specific LTV limits by product type
+
+================================================================================
+3. BORROWER REQUIREMENTS
+================================================================================
+
+BORROWER TYPES
+--------------------------------------------------------------------------------
+
+- Individuals including Ex-Pats & Foreign Nationals
+- Portfolio Landlords (No upper limit on background portfolio size)
+- Ltd Companies / SPVs / LLPs / Trusts (£500k min loan)
+- Jersey / Guernsey / Isle of Man registered entities
+- Up to 6 applicants
+
+AGES
+--------------------------------------------------------------------------------
+
+- Minimum one borrower to be at least 25 years old or under the age of 80 at the time of application
+
+EX-PATS
+--------------------------------------------------------------------------------
+
+- Must have a UK credit footprint
+- Max loan size £2.5m
+- Must have evidencable income of £75k GBP equivalent
+- Subject to 0.25% loading fee
+
+FOREIGN NATIONALS
+--------------------------------------------------------------------------------
+
+- Min loan £350k
+- Max loan £2.5m
+- Max LTV 65%
+- UK resident Foreign Nationals could be eligible for up to 75% LTV and higher loan sizes, see UK based Foreign Nationals criteria
+- Additional rate loading of 0.5% for Foreign National borrowers unless they meet the UK based Foreign Nationals criteria
+- Min £75k GBP equivalent income evidencable from a traceable company
+- Acceptable Nationalities – EU, plus (see Where we lend document)
+
+UK BASED FOREIGN NATIONALS
+--------------------------------------------------------------------------------
+
+Applications from UK based Foreign Nationals who satisfy the following criteria may be assessed on the same basis as UK Nationals residing in the UK and be eligible for normal rates and LTVs:
+
+- Resident in the UK for at least 2 years
+- Right to permanent residence in the UK
+- Holds a UK bank account
+- Significant BTL experience in line with criteria for UK borrowers
+
+TRUST APPLICATIONS
+--------------------------------------------------------------------------------
+
+For Trusts:
+- Trust Deed
+- The structure chart detailing Settlor, Trustees and Beneficiaries
+- Any amendment docs if applicable
+- ID and POA of trustees and beneficiaries if over 18
+- Trust bank statements
+
+General cases:
+- Scanned copy of passport
+- If you are packaging a case, see our useful documents page
+
+================================================================================
+4. PROPERTY TYPES
+================================================================================
+
+ASSET TYPES
+--------------------------------------------------------------------------------
+
+Most assets considered:
+
+- Single houses (freehold and leasehold)
+- Single flats
+- Maisonettes
+- MUFBs
+- HMOs (Max 20 bedrooms)
+- Ex-LA flats and houses
+- Multiple houses on one freehold
+- Holiday Lets
+- New builds
+
+MUFBs (MULTI-UNIT FREEHOLD BLOCKS)
+--------------------------------------------------------------------------------
+
+- No restriction of number of constituent units
+- £3m maximum loan at 65%
+- £2m maximum loan at 75%
+- Aggregated as opposed to single investor valuation may be used in certain circumstances
+
+HMO (HOUSES OF MULTIPLE OCCUPATION)
+--------------------------------------------------------------------------------
+
+- Up to 20 bedrooms
+- LTD companies or individuals
+- Up to 75% max LTV – Minimum 2 single-unit Buy to Let properties owned for minimum 12 months
+- >75% LTV – Must have owned an HMO for minimum 12 months
+- Up to 75% LTV – 150% ICR required
+- >75% LTV – Corp/lower rate tax payer minimum 170% ICR, Higher rate tax payer minimum 185% ICR required
+- Available to UK residents, resident and non-resident Foreign Nationals and Ex-Pats
+
+FLATS
+--------------------------------------------------------------------------------
+
+- Maximum 20 floors outside of London
+- No restriction on building height in London
+- A1, A2, B1, EWS1 accepted
+- A2 restricted to 70% LTV, B1 restricted to 65% LTV
+- 5% builders incentive accepted on new builds
+
+================================================================================
+5. INTEREST COVERAGE RATIO (ICR)
+================================================================================
+
+ICR REQUIREMENTS BY ASSET AND APPLICANT TYPE
+--------------------------------------------------------------------------------
+
+| Asset type | Corp/Lower rate tax payer | Higher rate tax payer | Ex-Pat/Foreign National |
+|---|---|---|---|
+| Single/Multi-Unit | 125% | 145% | 125-145% |
+| Portfolio | 125% | 145% | 125-145% |
+| HMO to 75% LTV | 125% | 145% | 125-145% |
+| PD | 150% | 150% | 150% |
+
+NOTES
+--------------------------------------------------------------------------------
+
+- Market rent always used
+- Holiday lets – AST income must cover 100% of interest costs. Borrowing maximum assessed based on average 30 weeks rental per annum
+
+================================================================================
+6. OTHER CRITERIA
+================================================================================
+
+OVERPAYMENTS
+--------------------------------------------------------------------------------
+
+- 10% permitted per annum with no penalty
+
+TENANCY TYPES
+--------------------------------------------------------------------------------
+
+- Up to 24 month ASTs acceptable
+- 36 month corporate tenancy
+- Local Authority, Housing Association and Housing Provider lease length up to 3 years (unless a break clause is included)
+- Short term holiday lets
+
+VALUATIONS APPROACH
+--------------------------------------------------------------------------------
+
+- Fees are inclusive of VAT
+- We'll discuss the most appropriate valuation route by asset type, when the application is submitted
+- Although we value on OMV, we may also look at the 90 day valuation figures
+
+VALUATION ROUTES
+--------------------------------------------------------------------------------
+
+| Properties | Valuation Route |
+|---|---|
+| **Standard Properties** Single asset and HMO properties (6 beds max) of up to £2M in value | **VAS fee scale on a short-form basis** |
+| **Specialised Properties** All MUFBs and assets greater than £2M in value and HMOs with more than 6 beds | **VAS fee scale on a short-form basis** |
+
+EPCs (ENERGY PERFORMANCE CERTIFICATES)
+--------------------------------------------------------------------------------
+
+- A - E acceptable
+- Please see EPC register for more details: https://www.gov.uk/find-energy-certificate
+
+LOCAL AUTHORITY TENANCIES
+--------------------------------------------------------------------------------
+
+- Housing Association
+- No more than 3 years unexpired on lease term (unless a break clause is included)
+- Up to 75% LTV – speak to our Sales team
+
+================================================================================
+7. CONTACT INFORMATION
+================================================================================
+
+BROKER SALES EXECUTIVES
+--------------------------------------------------------------------------------
+
+**Naz Buckler** - Broker Sales Executive
+- Tel: 07907 730452
+- Email: nbuckler@lendco.co.uk
+- Book a meeting: Available via Outlook booking system
+
+**James Doggett** - Broker Sales Executive
+- Tel: 07591 342675
+- Email: jdoggett@lendco.co.uk
+- Book a meeting: Available via Outlook booking system
+
+**James Phillips** - Broker Sales Executive
+- Tel: 07519 328425
+- Email: jphillips@lendco.co.uk
+- Book a meeting: Available via Outlook booking system
+
+**Ben Pike** - Broker Sales Executive
+- Tel: 07519 328426
+- Email: bpike@lendco.co.uk
+- Book a meeting: Available via Outlook booking system
+
+USEFUL LINKS
+--------------------------------------------------------------------------------
+
+- Product Guide: https://lendco.co.uk/app/uploads/2025/09/Lendco-Product_Criteria_Guide_22.08.25.pdf
+- Buy-to-Let Calculator: https://lendco.co.uk/calculators/buy-to-let/
+- Useful Documents: https://lendco.co.uk/useful-documents/
+- Broker Portal: https://portal.lendco.co.uk/Portal/PreLogon/Logon
+- New Broker Registration: https://lendco.co.uk/new-broker-registration/
+
+================================================================================
+8. OTHER PRODUCTS
+================================================================================
+
+BRIDGING FINANCE
+--------------------------------------------------------------------------------
+
+Bridging Finance on a short-term basis for those looking to quickly acquire property, whether for refurbishment to retain, or flip to sell. Products via Intermediaries only.
+
+- See more: https://lendco.co.uk/products/bridging-finance/
+- Download Product Guide: https://lendco.co.uk/app/uploads/2025/03/Lendco_Bridging_guide_2025.pdf
+
+================================================================================
+9. COMPANY INFORMATION
+================================================================================
+
+Lendco Limited is a company registered in England & Wales with company registration number 11177105.
+
+Registered Office: 33 Gracechurch Street, London, EC3V 0BT
+
+Website: https://lendco.co.uk/
+
+Source: https://lendco.co.uk/products/buy-to-let-mortgages/
+
+================================================================================

@@ -1,0 +1,432 @@
+LENDER NAME: Progressive Building Society
+PRODUCT: Residential
+
+# Progressive Building Society - Residential Mortgage Lending Criteria
+
+**Last Updated:** 2025
+**Source:** Progressive Building Society Intermediaries
+**For Intermediaries Only**
+
+---
+
+## Document Information
+
+This document contains comprehensive residential lending criteria for Progressive Building Society covering all topics from the Progressive for Intermediaries website, organized alphabetically (A-Z).
+
+**Version:** Comprehensive A-Z Lending Criteria Guide
+
+**Note:** For the use of mortgage intermediaries and other associated professionals only. This Lending Criteria may change at very short notice. Your Business Development Manager will keep you informed of any changes which may restrict or apply to your client(s) mortgage application.
+
+**Website:** https://progressiveforintermediaries.com/criteria/
+
+---
+
+## Table of Contents
+
+This guide contains 52 main sections organized alphabetically (A-Z) and by topic:
+
+
+### Affordability and Income
+
+1. AFFORDABILITY ASSESSMENT (A)
+2. AFFORDABILITY BOOSTER MORTGAGE (JOINT MORTGAGE SOLE PROPRIETOR MORTGAGE/JMSP) (A)
+6. BENEFITS (B)
+24. INCOME CONFIRMATION (I)
+25. INCOME FROM SECOND JOB (I)
+26. INCOME MULTIPLES (I)
+40. RENTAL INCOME (R)
+49. UNEARNED INCOME (U)
+
+### Applicant Requirements
+
+3. AGE LIMITS (A)
+13. DEPENDANTS (D)
+30. LENGTH OF EMPLOYMENT (L)
+31. NON-EEA FOREIGN NATIONALS (AND EEA FOREIGN NATIONALS) (N)
+35. PROBATIONARY PERIOD (P)
+41. RESIDENCY (R)
+
+### Employment and Self-Employment
+
+7. BUSINESS CARRIED ON IN THE PROPERTY (B)
+18. FIXED TERM CONTRACTS (F)
+43. SELF-EMPLOYED APPLICANTS (S)
+
+### Credit History
+
+11. CREDIT HISTORY (C)
+23. IMPAIRED CREDIT (I)
+
+### Loan Details
+
+5. ARRANGEMENT FEE(S) (A)
+12. DEBT CONSOLIDATION (D)
+16. FEE(S) (F)
+28. INTEREST ONLY MORTGAGES (I)
+29. LENDING INTO RETIREMENT (L)
+48. TERM OF MORTGAGE (T)
+
+### Property Requirements
+
+4. APARTMENTS (A)
+20. FORMER LOCAL AUTHORITY PROPERTY (F)
+32. OCCUPANCY (O)
+34. OTHER OCCUPIER(S) (O)
+38. PROPERTY TYPES AND LOCATION (P)
+46. SOLAR PANELS (S)
+50. VALUATION (V)
+
+### Special Products and Schemes
+
+9. CO-OWNERSHIP (C)
+22. GUARANTOR(S) (G)
+42. SELF-BUILD (S)
+51. WARRANTY FOR SELF BUILD (W)
+
+### Deposits
+
+21. GIFTED DEPOSITS (G)
+
+### Documentation and Legal
+
+14. DIRECT DEBIT MANDATE (D)
+15. DOCUMENTATION (D)
+33. OFFER OF ADVANCE (O)
+44. SEPARATE REPRESENTATION (S)
+45. SIX-MONTH OWNERSHIP (S)
+47. SOLICITORS (S)
+
+### Other
+
+8. BUY TO LET LOANS (B)
+10. COMMERCIAL LENDING (C)
+17. FIRST TIME BUYER DEFINITION (F)
+19. FOREIGN CURRENCY LENDING (F)
+27. INSURANCE (PROPERTY INSURANCE) (I)
+36. PROFESSIONAL INDEMNITY INSURANCE (PII) COVER (P)
+37. PROPERTY INSURANCE (P)
+39. REMORTGAGE (R)
+52. WORKING FAMILY TAX CREDIT (WFTC) (W)
+
+---
+
+## AFFORDABILITY ASSESSMENT
+
+The Society will carry out an affordability assessment for all mortgage applications. This involves the Society verifying the income details keyed by checking these against income and expenditure documentation e.g. payslips, bank statements etc. The Society will also carry out a credit reference search to assist in underwriting the application. The Society uses income multiples to give an indication of how much we may lend. See section I ‘Income Multiples’. This is only an indicator. An Affordability Assessment will also be carried out when underwriting the Mortgage
+
+## AFFORDABILITY BOOSTER MORTGAGE (JOINT MORTGAGE SOLE PROPRIETOR MORTGAGE/JMSP)
+
+The Society offers a type of mortgage which allows up to 4 borrowers on the mortgage, with up to 2 borrowers also being the registered owner(s). This allows a son or daughter (along with their partner) to purchase a property, with them only being the registered owners but their parents helping them with the affordability by joining them as borrowers. This type of mortgage is useful for family members wishing to help with the home buying process without potentially owning a second property. The criteria for this type of mortgage is as follows: Maximum LTV is 85% (apartments 80% LTV). Available for first or second-time buyers. number of applicants is four. Maximum of two households only for example, a couple supported by one parent or one set of parents. Supporting family member won’t be the mortgagor(s) and are the non-owning borrowers, bound legally for repayment of the mortgage. Main borrower(s) must reside in the property. The term does not necessarily need to be hindered by the ages of the non-owning borrower(s) if for example, the owning borrowers’ circumstances may be expected to improve in the future. This type of mortgage application must be submitted using a paper application.
+
+## AGE LIMITS
+
+The minimum age of applicant(s) is 18. If the applicant(s) age extends beyond their 76th birthday the application should be referred to your local Business Development Manager. The maximum age at end of term is normally 75. See Lending in Retirement and Lending into Retirement, for more information on age limits.
+
+## APARTMENTS
+
+The Society’s maximum LTV for apartments is 80%.
+
+A. APPLICANT(S) – NUMBER OF APPLICANT(S)
+
+The maximum number of applicant(s) for a mortgage application online is 2. If you have an application with more than 2 applicant(s) please refer the case to your local Business Development Manager.
+
+## ARRANGEMENT FEE(S)
+
+Mortgage Arrangement fee(s) form part of the Society’s lending terms and may be payable at the time of the application or charged to the account. The fees may change from time to time. The Society’s lending package will contain individual guidance on particular products. If a valuation fee applies, this will be shown on the client(s) Mortgage Illustration.
+
+## BENEFITS
+
+The Society will take some forms of unearned income into account when assessing affordability. We will not progress an application where state benefits make up the majority of income (excluding pension income). We will consider the following when assessing state benefit income. The type of income and the reason for a customer is receiving the state benefit. The length of time that this income is likely to be paid. How reliant upon that income we are to demonstrate affordability? Will the application impact the benefit? e.g., a single parent now purchasing a home with a new partner. See below benefits that the Society may consider: Pension income May be included at 100% Child benefit for children age under 12 (Not to be included if either one or both applicants earn over £60,000 per annum) May be included at 100% Adoption allowance for children age under 12 May be included at 100% Guardian’s allowance for children age under 12 May be included at 100% Disability Living allowance for children age under 12 May be included at 100% Personal independent payment May be included at 50% Carer’s allowance May be included at 50% Industrial injuries disablement benefit May be included at 50% Constant attendance allowance May be included at 50% Guaranteed income payment for forces May be included at 50% Other state benefits Will not be included When benefit income is being included in affordability calculations it can be evidenced by 3 months recent bank statements.
+
+## BUSINESS CARRIED ON IN THE PROPERTY
+
+Applicant(s) must inform the Society if any business will be carried on in the property to be mortgaged. Where known, this information must be included in the mortgage application. For an online application, more information can be provided in the ‘Additional Information’ section of the application.
+
+B. BUY TO LET – OTHER BUY TO LET MORTGAGES HELD
+
+The borrower should not have more than 3 other mortgaged rented properties up to a maximum advance of £500,000.
+
+## BUY TO LET LOANS
+
+The Society does not currently offer Buy to Let mortgages.
+
+## CO-OWNERSHIP
+
+Advances to purchasers under the Northern Ireland Co-Ownership Housing Association (Co-Own) scheme are considered. For Co-Own cases the Society’s maximum advance is 100% of the equity share. A copy of the Co-Own Offer Letter must be provided to the Society along with the application.
+
+## COMMERCIAL LENDING
+
+The Society does not currently offer commercial mortgages.
+
+## CREDIT HISTORY
+
+The Society will not normally consider lending to an applicant(s) who has ever: owned a property which has been subject to a shortfall sale or taken into possession by a lender, either as a result of a voluntary arrangement or by court action; failed to keep up payments under a mortgage or any other loan; had a county court judgement registered against them; been declared bankrupt or made arrangements with their creditors within the last 6 years; defaulted on any credit accounts.
+
+## DEBT CONSOLIDATION
+
+The Society may consider lending propositions which include a proportion of debt consolidation. The proportion of the loan for debt consolidation purposes should not exceed 25% of the total loan and should be no more than 50% of the gross main income. Where any portion of the loan is for debt consolidation purposes the maximum LTV is 75%. The Society will include a special condition for the particular debt(s) to be cleared from the proceeds of the Mortgage Advance. The consolidation of the debt should be for the joint and mutual benefit of all mortgage applicant(s) and in some cases the Society may require one or all parties to the mortgage to seek independent legal advice.
+
+## DEPENDANTS
+
+It is important that we consider the number of financial dependant(s) the applicant(s) have e.g. dependent children. Please confirm the number of dependant(s) the applicant(s) have by completing the relevant section of the application online. For other occupier(s) see Section O ‘Other Occupiers’.
+
+## DIRECT DEBIT MANDATE
+
+A Direct Debit Mandate must be completed for each mortgage application submitted to the Society. The mandate must be signed by the applicant(s)/account holder(s) and must be received by the Society prior to release of an Offer of Advance. The applicant(s) must provide a recent bank statement to verify the details on the Direct Debit Mandate. You may upload a certified copy of the mandate when submitting the required documentation for the application. The applicant(s) monthly mortgage repayment will be due on 28th of the month. This will be collected by direct debit on the last banking day of the month. If this date is not suitable you must inform the Society by stating an alternative date of either 5th or 15th of the month in the ‘Additional Information’ section of the online application. The first monthly payment will consist of both interest accrued in the month of completion and the first regular payment due. It is a condition of the mortgage that it must be paid monthly by Direct Debit from a UK bank account.
+
+## DOCUMENTATION
+
+Various documentation is required to help the Society assess a Mortgage Application submitted (e.g. payslips, bank statements etc). See Section I ‘Income Confirmation’. This documentation can be uploaded to Progressive Online for Mortgage Applications submitted online. Mortgage Intermediaries can view mortgage documentation in ‘My Documents’ on the Progressive Online homepage.
+
+## FEE(S)
+
+In some instances, a fee(s) may be payable in respect of the mortgage application or product switch e.g. administration fee. If this is the case, we will inform you of the amount of the fee(s) prior to completion of the mortgage and/or when they are payable. The fee(s) may be paid by the mortgage applicant(s) directly to one of our Progressive Branches e.g. by cheque, debit card or by cash. The Mortgage Offer will state whether the fee(s) are due to be paid or if they have already been paid.
+
+## FIRST TIME BUYER DEFINITION
+
+A First Time Buyer is an applicant who has never held a mortgage (this includes UK and Non-UK mortgages).
+
+## FIXED TERM CONTRACTS
+
+Loans up to and including 90% LTV For cases up to 90% LTV, the Society will consider Fixed Term Contracts applications where the applicant has had continuous employment of 12 months or more and has 6 months of their current contract remaining, or the applicant has 2 years continuous service in the same type of employment. Loans over 75% and up to 90% a copy of the current employment contract or an employers’ reference is required as proof of income and employment, as well as 3 months’ payslips and 3 months’ bank statements. Loans under 75% LTV a copy of the current employment contract or an employer’s reference is required as proof of income and employment, as well as 1 month’s payslip and bank statement. NB. The Society will normally only consider the income from a fixed term contract where the contract is likely to be renewed. Applicant(s) who are on a fixed term contract, but who invoices the employer via their own business (Limited Company), are treated as a self employed applicant(s). The Society will not consider fixed term contracts in cases over 90% LTV.
+
+## FOREIGN CURRENCY LENDING
+
+The Society accepts Foreign Currency Loan (FCL) Applications where an income used for affordability, or an asset is used for repayment of the mortgage, is held either in Euro or US Dollar. See Literature Section for more information on our FCLs.
+
+## FORMER LOCAL AUTHORITY PROPERTY
+
+The Society’s maximum LTV for former local authority property is 90%.
+
+## GIFTED DEPOSITS
+
+If the applicant(s) is receiving a gift from a third party the Society will consider the application provided the gift is unconditional, bears no interest, is not repayable and the donor will have no interest in the property. The applicant will be required to confirm their relationship with the donor. The Society will not accept deposits from employers / landlords or from any commercial sources or unrelated third parties. The Society will make an additional assessment of the case where the gifted deposit is from a family member who is also the vendor.
+
+## GUARANTOR(S)
+
+The Society may consider the use of Guarantor(s) where the income of the applicants to support the loan is marginally insufficient. In such cases, the Guarantor is required to produce evidence of income and expenditure to ensure that he/she is able to afford to make the repayments should the applicant(s) default. Guarantors are recommended to take independent legal advice and must provide a Guarantee. The affordability assessment process should take account of known future changes to the customers’ circumstances. The maximum LTV the Society will consider in guarantor cases is 80%.
+
+H. HELP TO BUY: ISA SCHEME
+
+We are pleased to support the government Help to Buy ISA scheme in Northern Ireland and offer a range of mortgages suitable for First Time Buyers. Please refer to our Product Search to identify mortgage products suitable for your client. Client(s) who hold a Help to Buy:ISA with the Society, may be eligible for a mortgage cashback on completion of their mortgage. Please contact your local Business Development Manager who will be happy to assist you.
+
+## IMPAIRED CREDIT
+
+The Society will not normally consider lending to an applicant(s) who has: owned a property which has been subject to a shortfall sale or taken into possession by a lender, either as a result of a voluntary arrangement or by court action; failed to keep up payments under a mortgage or any other loan in the last two years; had a county court judgement registered against them in the last three years; been declared bankrupt or made arrangements with their creditors within the last 6 years; defaulted on any credit accounts in the last two years. The Society will not consider lending for debt consolidation purposes to credit impaired applicants.
+
+I. INCOME / PERCENTAGES TAKEN INTO ACCOUNT FOR AFFORDABILITY PURPOSES:
+
+The following types of income and percentages are taken into account for affordability purposes:
+
+* **Basic salary:** 100%
+* **Overtime – regular:** 100%
+* **Overtime – irregular:** 50%
+* **Bonus / Commission – regular:** 100%
+* **Bonus / Commission – irregular:** 50%
+* **Rental Income:** 60%
+* **Pension Income:** 100%
+* **Income from second job:** 100%
+* **Dividend:** Average of last 3 years
+
+## INCOME CONFIRMATION
+
+The Society will require confirmation of income and bank statements for all mortgage applications. This allows the Society to verify the income and expenditure disclosed. The documentation required to be submitted with an application is as set out below:
+
+**For Employed Applicants:**
+
+* **Up to 75% LTV:** 1 month's payslip and 1 month's bank statement
+* **Over 75% LTV:** 3 months' payslips and 3 months' bank statements
+* **If employed less than 6 months and loan over 75% LTV:** Employer's reference or copy of employment contract required in addition to payslips and bank statements
+
+**For Self-Employed Applicants:**
+
+* **Up to 75% LTV:** 2 years' income documentation required (accounts, SA302s, or Accountant's Certificate)
+* **Over 75% LTV:** 3 years' income documentation required (accounts, SA302s, or Accountant's Certificate)
+* **If self-employed 2-3 years:** 2 years' documentation plus one year's projected income (referral to BDM required if less than 2 years)
+
+**For Fixed Term Contract Applicants:**
+
+* **Up to 75% LTV:** Copy of current employment contract or employer's reference, 1 month's payslip and 1 month's bank statement
+* **75.01% - 90% LTV:** Copy of current employment contract or employer's reference, 3 months' payslips and 3 months' bank statements
+* **Over 90% LTV:** Fixed term contracts not considered
+
+**General Requirements:**
+
+* All applicants must provide bank statements covering the required period
+* Bank statements should show income credits and regular expenditure
+* Documentation can be uploaded to Progressive Online for applications submitted online
+* Mortgage Intermediaries can view mortgage documentation in 'My Documents' on the Progressive Online homepage
+
+## INCOME FROM SECOND JOB
+
+Income from a second job can be accepted in full if it is appropriate to do so. Consideration should be given to the contract type, total number of hours worked per week, the industry (seasonality). Normal income proof will apply.
+
+## INCOME MULTIPLES
+
+The Society uses income multiples to give an indication of how much we may lend. The Society’s income multiples are as follows: Loan to Value (LTV) Enhanced Max Income Multiple Up to 80% 5.00 Up to 85% 4.75 Up to 90% 4.50 Up to 95% 3.90 These income multiples are for indicative purposes only and an application will still be subject to a satisfactory Affordability Assessment, Credit Search, Verification Check and Valuation. The Society will also apply a maximum advance. Please see section M – ‘Maximum Advances over an LTV range’.
+
+## INSURANCE (PROPERTY INSURANCE)
+
+See Property Insurance.
+
+## INTEREST ONLY MORTGAGES
+
+The Society's maximum LTV for an interest only (or part interest only) loan is 75%. The Society will only consider interest only (or part interest only) loans which have a credible repayment strategy in place. The Society is unable to offer any advice on the suitability of any protection or investment products.
+
+**Acceptable Repayment Strategies:**
+
+* **Endowment policies:** Copy of latest projection statement dated within the last 12 months required. Allow up to 100% of the middle growth projected outcome.
+
+* **Stocks & Shares ISA:** Copy of latest statement dated within the last 12 months required. The method of determining the level of investment required at the outset of the loan is: Loan amount x 120% ÷ Term of loan (in years).
+
+For full details of acceptable repayment strategies and their requirements, see section 'Interest Only Mortgages – Acceptable Repayment Strategies' below.
+
+## INTEREST ONLY MORTGAGES – ACCEPTABLE REPAYMENT STRATEGIES
+
+**Repayment Strategy – Endowment policy(ies)**
+
+With an endowment policy repayment strategy, interest only is paid to the Society and a monthly premium paid to an insurance company for the policy which pays a lump sum at the end of the mortgage term or on death if earlier. The lump sum is used to repay the mortgage. The lump sum at the end of the mortgage term is not guaranteed and may not be enough to repay the mortgage. The life cover or the lump sum payable on death is usually linked to the amount of the mortgage loan. The policy can be written in joint or single names.
+
+Repayment strategies cannot be accepted if they include the name of anyone not named on the mortgage. The Society will require a copy of the latest projection statement dated within the last 12 months. The Society will allow up to 100% of the middle growth projected outcome. The Society is unable to offer any advice on the suitability of any protection or investment products.
+
+**Repayment Strategy – Stocks & Shares ISA**
+
+With a Stock & Shares ISA (individual savings account) repayment strategy, interest only is paid to the Society. ISA plans can be funded on a monthly basis. The capital built up in the plan is used to repay the mortgage at the end of the mortgage term. There is no element of life cover with this method and the borrower must make separate arrangements to cover the mortgage in the event of death or critical illness. There is no guarantee that the plan will produce enough to repay the mortgage.
+
+For Stocks and Shares ISA the Society will require a copy of the latest statement dated within the last 12 months. The method of determining the level of investment required at the outset of the loan is: **Loan amount x 120% ÷ Term of loan (in years)**. The Society is unable to offer any advice on the suitability of any protection or investment products.
+
+**Repayment Strategy – Pension**
+
+A pension repayment strategy is based on a personal pension plan and is designed to provide the borrower with a pension and pay off the mortgage capital. With this mortgage interest only is paid to the Society and a separate premium is paid to a pension provider for the pension plan. The plan will usually include some form of life cover. This type of mortgage requires specialist advice.
+
+For a pension mortgage the Society will require a copy of the latest projection statement dated within the last 12 months along with written confirmation from the borrower(s) pension adviser or financial adviser. This written confirmation must provide the estimated projected value of the pension at the end of the mortgage term, which should at least cover the interest only mortgage amount. The Society is unable to offer any advice on the suitability of any protection or investment products.
+
+**Repayment Strategy – Sale of Second Home**
+
+The Society will allow sale of a second home as a repayment strategy provided there is sufficient equity to repay the interest only part of the mortgage. The Society will require property details, confirmation of ownership and evidence of mortgage debt.
+
+* For loans less than 10 years: equity at inception should be 100%
+* For loans greater than 10 years: equity at inception should be 75%
+
+**Self Build Applications – Sale of Existing Property and Conversion to Repayment**
+
+The Society will permit self build applications to be set up on an interest only basis until release of the final stage payment when the mortgage will be converted to a repayment basis.
+
+## LENDING INTO RETIREMENT
+
+‘Lending into retirement’ i.e. to borrower(s) who is currently in employment but may have or will have retired before the term is scheduled to end. At the point of inception of the loan the age of the borrower(s) at the end of the scheduled loan term should be reviewed. If the term takes the borrower(s) past the age of retirement i.e. the age the borrower(s) has told us they plan to retire or age 75, whichever is the lesser, the loan is considered to be ‘into retirement’. Even if the applicant(s) have stated they intend to work past the age of 75, once they have passed their expected retirement age or age 75 the loan is considered ‘into retirement’ and pension income only must be considered. The loan must be affordable on pension income only. Lending should ideally be on a capital plus interest basis. Interest only lending should only be considered where there is a credible and evidenced repayment strategy in place (see Interest Only Mortgages above). The maximum LTV for ‘lending into retirement’ is 80%. Where there are multiple parties to a mortgage with a mix of incomes it is important to understand and assess the source of income. Where the majority of income is derived from one party or parties falling into the definition of ‘into retirement’ then the entire mortgage should be categorised as ‘into retirement’. If, at inception of the loan, there is less than 10 years to declared retirement age (max age at end of term is 75) and where the retirement date is prior to the end of the scheduled mortgage term: • The Society will require evidence of current income and of pension income expected in retirement. The loan must be affordable on pension income only. The types of evidence which can be used to verify anticipated retirement income are as follows: • Private / Company Pension Forecast Statement dated within the last 18 months. • State Pension Statement dated within last 18 months which must be obtained by the customer directly as an actual statement showing their name and address (this can be obtained from The Pension Service). • State Pension Forecast statement issued to the customer directly from The Pension Service showing their name and address. • Annuity Statement dated within the last 18 months. If, at inception of the loan, there is more than 10 years to declared retirement age (max age at end of term is 75) and where the retirement date is prior to the end of the scheduled mortgage term: • The Society will require evidence of current income; and • Will require proof of the existence of a current pension (not State Pension), e.g. a payslip showing a pension deduction, pension statement or pension payment on a bank statement. If the applicant had paid into a past pension, we require confirmation of the amount of income to be paid in retirement. This type of mortgage application should be submitted to your local Progressive branch using a paper application, and not online.
+
+## LENGTH OF EMPLOYMENT
+
+The Society will require an applicant(s) to be in employment / self employment for the following length of time: Employed – Where an applicant has been in their job for less than 6 months and the loan is over 75% LTV, the Society will require an employer’s reference or a copy of the employment contract. Self-Employed – 3 years. If an applicant has been self-employed over 2 years but not 3, the Society may accept 2 years self-employment plus one year’s projected income. A referral should be made to your Business Development Manager where the applicant(s) is/are self-employed less than 3 years.
+
+## MAXIMUM ADVANCES OVER AN LTV RANGE:
+
+Lending over 80% LTV up to 95% LTV is subject to a maximum advance limit depending on LTV. For our lending to meet criteria we will only lend up to a certain amount of loan depending on the LTV. The maximum advances available are as follows: LTV Max Advance Up to 80% £2,000,000 80.01% – 85% £650,000 85.01% – 90% £475,000 90.01% – 95% £275,000
+
+## NON-EEA FOREIGN NATIONALS (AND EEA FOREIGN NATIONALS)
+
+To obtain a mortgage a customer must have one of the following: British or Irish citizenship. Indefinite leave to remain in the UK. EU Settled status. EU Pre-settled status. Applicants should have at least 3 years continuous residency in the UK prior to application, with the exception of ROI residents. A full Irish credit report covering a 3-year period must be obtained in these cases. Documentary evidence of residency status will be required. The mortgage account must only be serviced from UK bank account.
+
+## OCCUPANCY
+
+Vacant Possession must be obtained for all house purchase transactions. Where there is another adult (17 and over) who will reside in the property but will not be party to the mortgage, they must be noted on the application and the occupiers (17 and over) must sign an Agreement & Undertaking. This will be a special condition on the Mortgage Offer. The Agreement & Undertaking may require to be witnessed by a solicitor.
+
+## OFFER OF ADVANCE
+
+If the Society issues a Mortgage Offer, the Offer will be valid as per the table below. Application Type Offer Validity House Purchase (not new build) 120 Days New Development 180 Days Self Build 180 Days Re-Mortgage 180 Days Additional Borrowing 90 Days The Society may require up to date payslips, bank statements or an updated credit search where we are asked to consider re-issuing an out of date Mortgage Offer, or where the applicant(s) circumstances have materially changed.
+
+## OTHER OCCUPIER(S)
+
+The Society will require the name(s), date(s) of birth and relationship to the applicant(s) of any other party(ies) who will occupy the mortgaged property over the age of 17 (other than the applicant(s)). Other occupiers must sign an Agreement & Undertaking in the presence of the acting Solicitor.
+
+## PROBATIONARY PERIOD
+
+We will consider applicant(s) in a probationary period in the same way as we would for applicants not in a probationary period.
+
+## PROFESSIONAL CONSULTANT – QUALIFICATIONS
+
+For new build properties the Society will accept certification from an experienced Professional Consultant (e.g. architect) who holds appropriate qualifications and an adequate level of Professional Indemnity insurance (PII) cover. The Society may accept the following ‘Professional Consultant’ for inspection of construction purposes: An Architect registered with the Architects Registration Board (ARB); A member of the Institute of Architectural Technologists (MCIAT); A fellow (FRICS) or member (MRICS) of the Royal Institution of Chartered Surveyors; This can include both Chartered Building Surveyors and General Practice Surveyors; A fellow or member of the Chartered Institute of Building (FCIOB or MCIOB) (please note: the Chartered Institute of Building has withdrawn both the ACIOB and ICIOB grades); A fellow or member of the Institution of Structural Engineers (F.I.Struct.E or M.I.Struct.E); A fellow or member of the Institution of Civil Engineers (FICE or MICE).
+
+## PROFESSIONAL INDEMNITY INSURANCE (PII) COVER
+
+Professional Consultants must be able to provide minimum cover of £500,000 or an amount which covers the completed value of the property. A copy of the Society’s Professional Consultant’s letter (confirming they will inspect from commencement through to completion and that the Society is relying on their certificate) along with a copy of the PII schedule of insurance must be provided to the Society prior to the Mortgage Offer being issued. A copy of the Certificate of Practical Completion along with a copy of PII cover must be received prior to release of final stage payment.
+
+## PROPERTY INSURANCE
+
+It is a condition of the mortgage that property insurance is in place. Should the applicant(s) wish to arrange their own property insurance they must ensure that the sum insured is at least as that recommended by the Society’s valuer under the terms of the Advance. The Advance will be released on the applicant(s) undertaking to keep the property fully insured and that they will assume full responsibility for the arrangements made and in no circumstances hold the Society or its servants responsible if they suffer loss because of any inadequacy or deficiency in the insurance arrangements. The applicant(s) must inform the Insurance Company of the Society’s interest in the policy. The Society can refer your client(s) details to AXA Insurance dac, who may provide a quotation for home insurance cover. Should the applicant(s) require a quotation for property insurance, please inform the Society in the ‘Additional Information’ section of the online mortgage application.
+
+## PROPERTY TYPES AND LOCATION
+
+Property types and location The Society will consider properties of traditional/standard construction of any age subject to a satisfactory report from a valuer. Where a new self build property is under construction, stage payments may be released after inspection. Stage payments may also be considered on properties, which are being renovated and/or extended. Construction of a non-standard or modern type construction should be discussed with your Business Development Manager. The Society will only consider applications online for Northern Ireland properties. The Society does not normally consider lending on properties with a purchase price or valuation less than £75,000. Referrals may be made to your local Business Development Manager. For leasehold property the lease should have a minimum of 50 years to run after the mortgage term is due to end. In the absence of a management company flats/apartments are not considered suitable security because of the potential for ongoing maintenance and insurance problems. The Society does not lend on flats/apartments above four storeys. Full details of lending can be found within the Society’s Lending Policy or can be discussed with your Business Development Manager.
+
+## REMORTGAGE
+
+Free Standard Legal Fees (Society’s Solicitor acting) or a cash back: Where the Society’s product range includes a remortgage product with either free standard legal fees (using the Society’s allocated Solicitor) or a cash back the following guidelines should be applied: Free Standard Legal Fees (via Society’s Solicitor): Re-mortgage to replace existing borrowings only; Re-mortgage to replace existing borrowings plus additional borrowings. Re-mortgage outside cash back for free legal fee cases: Re-mortgage plus transfer of equity; Re-mortgage plus change of name e.g. applicant has married since mortgage with current lender incepted and now wishes to change name; Applicant using their own legal representation. Remortgage with cash back (Applicant(s) using own Solicitor): Where the Society’s product range includes a remortgage product with a cash back (instead of free standard legal fees with Society’s Solicitor) the following guidelines should be applied: Once the mortgage completes and the customer is due their cash back, the Society will arrange to pay their cash back to the bank account which has been set up to collect their monthly mortgage payment. Other cashbacks which are agreed as part of the mortgage product/interest rate deal will be paid to the applicant(s) in the same way.
+
+## RENTAL INCOME
+
+If rental income is considered, only 60% of the rental income may be used in the calculation. 100% of the mortgage payment must be included as a committed expense on the Affordability Assessment. Acceptable evidence of rental income: Latest 3 months consecutive bank statements (showing rental income) or; Tenancy agreement (current agreement required, in date and must be signed by both tenants and landlord/letting agent).
+
+## RESIDENCY
+
+The applicant(s) must be living in the UK for a minimum of 3 years. See also ‘Non-EEA foreign nationals’.
+
+R. RESIDENCY – PROOF OF RESIDENCY
+
+Where applicants are not recorded on the electoral roll, proof of residency must be provided, for example, recent utility bill bearing applicant(s) name and address.
+
+## SELF-BUILD
+
+The Society will consider lending to finance self-build projects. The maximum LTV for self build mortgages is 80%. The earliest point the Society will consider lending for a self build is where the foundations have been laid and have been inspected by Building Control. We will not consider it acceptable to lend on a site purchase only. For all applications to finance a self build project the Society will require the following additional documentation: Copy of site map; Copy of Planning Permission/Building Control documentation*; Drawings/plans; Details of building warranty provider (e.g. professional consultant inspecting the new build property). *There should be at least 1 year remaining on the Planning Permission. Costings for the build will also be required. The site must be registered in the same names as the mortgage applicant(s). The Society will not proceed where there are restrictive covenants on Title. The Society will take into consideration the access to the property, the proximity of family land/agricultural or other outbuildings, the cost of the build, the applicants’ other resources and the period of time the build will take to complete. The advance will be released in pre-agreed stage payments. The first stage payment will only be released when the stage of construction has at least reached the stage where the foundations have been laid. If a Professional Consultant is inspecting during construction of the build the Society will need to confirm if they have appropriate experience, the required qualifications and the necessary level of Professional Indemnity Insurance in place. A copy of the schedule of insurance is required for approval. The Professional Consultant must also agree, before the Society’s Offer is issued, to providing the Society with a final certificate, in the Society’s required wording, prior to release of the final stage payment. The Society will require a copy of the valuer’s stage inspection report prior to release of any agreed stage payment. Prior to release of the final stage payment, we will also require a copy of the Professional Consultant’s final certificate, in our required wording.
+
+## SELF-EMPLOYED APPLICANTS
+
+If any of the following applies, the applicant(s) must be disclosed as self-employed: Where the applicant(s) has a shareholding of 20% or more; If joint applicant(s) own 20% or more between them, treat both applicants as self-employed (both applicants need to hold a % share); A sub-contractor who derives income from contract work; An applicant(s) has a partnership interest in a business i.e. income is not PAYE, irrespective of the percentage shareholding; An applicant(s) owns a franchise; An applicant(s) employed by a Private Limited Company (LTD) who receives a salary (PAYE) and dividends as part of their remuneration package; An applicant(s) who is in a Limited Liability Partnership (LLP) and receives a share of Net Profit. The applicant(s) must be self-employed for a minimum of 3 years. If an applicant has been self-employed over 2 years but not 3 the Society may accept 2 years’ self-employment plus one year’s projected income. A referral should be made to your Business Development Manager where the applicant(s) have been self-employed less than 3 years. 3 years income documentation must be provided for all case where LTV is over 75%. 2 years income documentation must be provided.
+
+## SEPARATE REPRESENTATION
+
+When your client wishes to use a non-panel solicitor, this solicitor can be instructed to act for your client only. Progressive Building Society will nominate a separate panel firm to act for them. All legal costs charged by both firms must be met by your client.
+
+## SIX-MONTH OWNERSHIP
+
+When assessing a re-mortgage application (where the applicant(s) is/are already the registered proprietor of the property whether subject to an existing mortgage or not), the applicant(s) must have owned the property for at least six months before the Society can proceed with a mortgage on the property. Where the Society has obtained evidence that the customer inherited the property following the death of the previous owner and provided this is confirmed to us in writing from a Solicitor, the preceding condition will not apply.
+
+## SKILLED WORKER VISA (TIER 2)
+
+The Society will consider applications from certain applicants who are living in Northern Ireland on a Skilled Worker Visa (Tier 2). Please note that additional criteria applies as follows: • Maximum LTV 80% • Minimum income for each applicant – £30,000 • Self-employed not acceptable • No debt consolidation • Deposit must be from own funds • Interest only not accepted The applicant(s) must have: lived and worked in UK for minimum of 12 months at the point of application at least 12 months left on their visa at the point of application (proof required) be in permanent employment (proof required – letter from employer or copy of contract) a valid passport and a valid visa or share code (examples below) – need both parts hold one of the following professions: Accountant, Actuary, Architect, Legal Professional, Engineer, Medical Professional, Dentist, Optometrist, IT Specialist, Vet
+
+## SOLAR PANELS
+
+The Society has adopted the guidance provided by UK Finance in relation to the installation of solar panels (photovoltaic PV panels) on properties offered for security. Where the applicant(s) have purchased the solar panels outright the Society is prepared to lend on normal terms. Where a Lease of Rights has been granted in respect of installation of solar panels the Society will not consider lending over 80% LTV.
+
+## SOLICITORS
+
+The Society maintains a panel of solicitors with whom mortgages can be transacted. If you have any queries, please contact your Business Development Manager.
+
+## TERM OF MORTGAGE
+
+Minimum term – 6 years
+Maximum term – 40 years.
+
+## UNEARNED INCOME
+
+Sources of unearned income such as income from a trust may be considered by the Society on a case-by-case basis and must be referred to your Business Development Manager prior to submission of an application. See “Benefits” above. See also “Income / percentages taken into account for affordability purposes” above.
+
+## VALUATION
+
+A valuation report is a basic assessment carried out on a property which enables a lender to decide whether to lend on the property by assessing its condition and likely value. This basic valuation is for the Society’s benefit only. The valuation fee, where applicable, should be paid with the Application. The Applicant(s) to the mortgage should give consideration to requesting a more detailed survey such as a Homebuyer’s report and valuation or a full structural survey. An Automated Valuation Model (AVM) may be used for some mortgage applications. Valuation Fees Valuation fee(s) also form part of the lending terms and are usually separate to the arrangement fee(s). Depending on market conditions and the business requirements of the Society, the valuation fee(s) may be adjusted from time to time. Valuation fee(s), where applicable, are payable at the time of application.
+
+## WARRANTY FOR SELF BUILD
+
+Where a property is under 10 years old the property should have a valid building warranty certificate. The following warranty providers are acceptable to the Society: National House Building Council (NHBC); Global Home Warranties (GHW); International Construction Warranty (ICW); An experienced Professional Consultant with acceptable qualifications and professional indemnity cover (PII) – see Section P ‘Professional Consultants’. A Professional Consultant’s Certificate will usually cover a 6 year period.
+
+## WORKING FAMILY TAX CREDIT (WFTC)
+
+The Society does not accept WFTC as part of the affordability assessment.
+
+---
+
+## Main URLs and Contact Information
+
+- https://progressiveforintermediaries.com/criteria/

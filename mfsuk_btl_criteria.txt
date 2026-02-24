@@ -1,0 +1,473 @@
+LENDER NAME: MFSUK
+PRODUCT: Buy to Let
+
+================================================================================
+MFS UK - BUY TO LET LENDING CRITERIA
+================================================================================
+
+Source: https://www.mfsuk.com/buy-to-let-mortgage-criteria/
+
+Note: This website is for use by authorised intermediaries only and should not be relied upon by anyone else.
+
+Last Verified: Based on website content as of the file creation date
+
+================================================================================
+OVERVIEW
+================================================================================
+
+## Overview
+
+Our buy-to-let mortgage criteria apply to all our BTL mortgage products unless otherwise stated. You can also contact our team to get further details specific to your case.
+
+---
+
+## Applicant
+
+### 1st-Time Landlords
+
+**First Time Landlord** – acceptable subject to £30k minimum income from employment, self-employment or private pension. Max loan capped at £750k. No experience required for specialist properties (HMO, MUFB).
+
+**First Time Commercial Landlord** – acceptable for commercial loans, if borrower owns standard BTL properties. Sector experience not required for investment properties (subject to plausibility), but Owner Occupiers must have 2 years of relevant UK sector experience.
+
+### Age
+
+21 to max 75 at loan start, 80 at term end. Over 75's by referral with legal advice to confirm advanced aptitude.
+
+### Applicants
+
+* Individuals
+* Self-employed
+* First-time buyers for residential properties
+* First-time landlords for residential properties
+* First-time commercial landlords or owner-occupiers
+* Limited & trading companies
+* LLPs
+* SPVs
+* Trusts
+* Ages 21 – 75+
+* Adverse and impaired credit of any size
+* Retired
+
+### Income
+
+First-time landlord or FTB min. £30k/year from employment, self-employment or private pension.
+
+### Self-Employment
+
+Self-employed considered. Age: 21+. If first-time landlord or FTB: min. income £30k/year.
+
+### Expats
+
+UK nationals living outside the UK are acceptable subject to enhanced due diligence. The country of residence can be worldwide provided it is not sanctioned or on the FATF blacklist. Refer to product tier criteria for UK footprint requirements. UK bank account is required for direct debits.
+
+### Foreign Nationals
+
+All nationalities considered, subject to enhanced due diligence. The country of residence can be worldwide provided it is not sanctioned or on the FATF blacklist. Refer to product tier criteria for UK footprint requirements. UK bank account is required for direct debits.
+
+### Nationality
+
+As part of our buy-to-let mortgage criteria, we lend to borrowers from anywhere in the world other than a sanctioned/blacklisted country, including:
+
+* Expats
+* Foreign Nationals
+* Offshore Companies
+* Offshore Trusts
+
+### Residency
+
+3 years UK history, otherwise enhanced due diligence, or subject to Expat/Foreign National criteria.
+
+### PEPs/Diplomats
+
+Considered by referral. Based on the nature of current/previous role and exposures. May require guarantees.
+
+---
+
+## Loan Details
+
+### Loan Purpose
+
+Purchase or remortgage, including capital raising if 40% or less is for personal reasons.
+
+### Gross Loan Size
+
+Gross loan amount for buy-to-let mortgage criteria:
+
+**Minimum:** £150k (£100k by referral).
+
+**Maximum:**
+
+Aggregate max. £10m with Market Financial Solutions for each Ultimate Beneficial Owner (UBO).
+
+The gross loan includes product fee, any rolled and/or deferred interest. The net loan (advanced on day 1) is reduced by the total of these capitalised amounts (and any optional broker fee) to ensure sufficient equity remains in the property.
+
+* Residential: £3m per property
+* Commercial: £2m per property
+
+### LTV
+
+**Residential:** Max. 75% LTV (based on the gross loan).
+
+**Commercial:** Max. 70% LTV (based on the gross loan).
+
+Product fee is capitalised and included in the gross loan.
+
+### Terms
+
+Max. 10 or 25 years in total, depending on product. No ERC after initial rate period.
+
+### Capital Raising
+
+Yes, as long as <40% of the loan amount is for personal reasons.
+
+### Debt Consolidation
+
+Allowed, as long as they meet our maximum adverse credit criteria. Personal debts subject to being less than 40% of total loan size.
+
+### Charge Types
+
+We currently offer BTL loans on first charge only.
+
+### 2nd Charge
+
+Currently not considered for BTL mortgages.
+
+### Repayment Types
+
+Interest Only (I/O) by monthly Direct Debit from a UK account. If loan has rolled up months of interest, direct debit will start after the rolled months have passed.
+
+### Interest Payments
+
+Serviced monthly via direct debit from a UK bank account. If any months of interest are rolled and added to the loan, direct debit will start after those months have elapsed.
+
+### Deferred Interest
+
+Up to 2%.
+
+Example: 8.99% full rate with 2% deferred becomes a pay rate of 6.99% for initial 2 years. ICR is calculated on the reduced pay rate. Deferred part of monthly interest payments in initial 2 years are capitalised (added to the loan) and paid when the loan is redeemed. Can help cashflow or simply allow a larger loan size as rent versus monthly payment generated a higher ICR (see ICR section).
+
+### Rolled Interest
+
+Roll-up 1 to 9 months payments possible, depending on product.
+
+Rolled up months of interest are added to the loan and paid when the loan is redeemed. Can help cashflow, time for light refurbishments/EPC improvement, find a tenant, or simply allow a larger loan size (see ICR section). Direct debit starts after rolled months have elapsed.
+
+### Overpayments
+
+Yes, up to 10% p.a. without incurring ERC. No limit/ERC after initial rate period.
+
+### ERC Early Repayment Charges
+
+* 3-year fixed: 4%/3%/2%. No ERC during revert rate period.
+* 2-year fixed: 4%/3%. No ERC during revert rate period.
+* Tracker: 3%/2.5%. No ERC during revert rate period.
+
+### Exit Fee
+
+No exit fee.
+
+### Exit Strategy
+
+We consider multiple viable exit routes.
+
+### Remortgaging
+
+Remortgage within 6 months: £ for £ bridge exit is fine, fees can be added to bridge settlement figure. Non-bridge considered with clear evidence of improvements (valuer confirmation), funds paper trail, or bought a part-exchange from housebuilder etc.
+
+---
+
+## Fees
+
+### Admin Fee
+
+* Residential BTL: £199 per property (max £995), non-refundable, paid with val fee.
+* Commercial BTL: £250 per property (max £1250), non-refundable, paid with val fee.
+
+### Arrangement Fee
+
+Product fees are applicable on each of our tiers, please see the latest rate tables for up-to-date figures.
+
+### Legal Costs
+
+We provide quotes upon application to find the appropriate solicitor firm to represent Market Financial Solutions from a small panel, suitable for the transaction type and timescales required. We do not permit dual representation due to the complex nature of our BTL transactions (e.g. any conflict of interest that may arise can result in abandoned transactions, lost time and incurred fees with dual rep).
+
+---
+
+## Credit History
+
+### Adverse Credit
+
+As part of our buy-to-let mortgage criteria the underwriter can consider cases with BKO/IVA/DRO/Previous Repossession/recent CCJs or mortgage arrears on their merits on the higher tiers, subject to Credit Committee approval.
+
+Refer to tiers for limits. All adverse and CCJs, excluding small unsecured blips, must be cleared at completion – Market Financial Solutions funds can be used. Adverse is combined (all persons/Ltd Co's), and small blips can be ignored for tier selection (see rate grid). Require explanation of mortgage exit strategy, current stability, and credit committee approval (usually under 48hrs). Pay day loans considered if infrequent, historic and cleared.
+
+### Credit Check
+
+We require a credit check as part of our loan application process.
+
+---
+
+## Property
+
+### Property Types
+
+Residential, commercial and mixed-use.
+
+Properties considered on merit, might be subject to loan/LTV caps:
+
+* Light industrial units with metal frame/shell
+* Petrol Stations (current and former)
+* Nursing/care homes
+* Hotels, B&Bs
+* School type buildings
+* Gyms & leisure centres
+* Pubs, restaurants – well-established and profitable businesses
+
+### Property Value
+
+If lending on a single property, minimum £200k, £150k by exception. If the loan is across multiple properties, minimum £100k.
+
+### Property Exclusions
+
+Any property whose saleability may be adversely affected by covenants, planning restrictions etc, or is deemed unsuitable security by the valuer. Includes:
+
+**Residential:**
+
+* Uninhabitable properties;
+* EPC below E (unless exempt), or no valid rating;
+* Heavy refurb, planning permission required, change of use;
+* Land
+* Flats below 30sqm
+* Structurally repaired/PRC, deleterious materials or with built-in obsolescence
+
+**Commercial:**
+
+* Mixed use with non-self-contained residential within, or no dedicated/separate access;
+* Equestrian, agriculture, fishing lakes, kennels/catteries;
+* Hostels/Caravan sites/Holiday parks;
+* Cash-based (amusement arcades, charity, casinos, pawn brokers, gambling etc.);
+* Places of worship/religion, wedding venues;
+* Waste management;
+* Owner-occupier business types: Restaurants, pubs, takeaways unless refinancing a well-established and profitable business.
+
+### Location
+
+Properties in mainland England and Wales considered.
+
+### Construction
+
+The usual acceptable brick/tile as standard. Metal frame/shell light industrial units acceptable up to 65% LTV.
+
+No structurally repaired/PRC, deleterious materials or with built-in obsolescence (finite lifespan). Refer listed properties. Modern Methods of Construction considered by referral with surveyor opinion and readily saleable.
+
+### New Build
+
+Acceptable.
+
+Satisfactory planning, new build warranty and building regulation sign off required. No outstanding S106 / CIL obligations.
+
+### Planning Permission
+
+Appropriate planning required.
+
+### Flats
+
+Minimum 30sqm gross internal area on flats section. Flats above (or immediately adjacent to) commercial premises up to max Tier LTV, except when a restaurant, takeaway, pub, or launderette; max LTV 60% on Tier 2, and 70% on Tier 3.
+
+### Flying Freehold
+
+Flying Freehold: Up to 15% by referral.
+
+### Leasehold
+
+Acceptable. Refer if under 85 years unexpired at the start of the loan.
+
+### Ex Authority
+
+Valuation to reflect property (e.g. high rise, balcony access), EWS1 fire risk, and saleability. No preemption title restriction.
+
+### EPC Rating
+
+Our buy-to-let mortgage criteria require the EPC rating of the property to be E or above.
+
+### Valuation
+
+**Residential:** From our panel, allocated by the underwriter based on workload/response time, speciality & location. Full formal valuation to consider current market value, investment value, 90 & 180 day value. Fee paid along with admin fee before instruction.
+
+**Commercial:** Typically Bricks & Mortar, based on vacant possession. Investment value by referral, e.g., favourable lease. Review of next 12 months' demand and saleability. For mixed-use containing flats or HMO we consider both commercial and residential rents.
+
+---
+
+## Rental Income and Affordability
+
+### Rental Income
+
+Sufficient to meet our ICR requirement.
+
+### ICR
+
+**Tracker Rates:** Minimum ICR is 130%
+
+**Fixed Rates:** ICR is 125%
+
+Minimum ICR limit is the same regardless of corporate or individual, location of applicant, tax status etc.
+
+Calculated as total rent income over the initial rate period, divided by total interest due over same period. However, the total interest due in the initial 24 month term can be reduced by rolling up months of interest or deferring part of the interest rate; this can increase the ICR, enabling a larger loan as long as the resulting ICR is above our minimum. These tools can also help if the valuation comes in lower than expected.
+
+Depending on the product, we can allow deferred interest (see max loan calculator for limits) to reduce the interest due over the initial 2 year term – boosting max loan. E.g. a rate of 8.99% with 2% deferred results in a pay rate of 6.99%.
+
+**Top slicing:** surplus portfolio rents, salary or savings/wealth can be considered to boost the rent by up to 20%. Refer to underwriter.
+
+Alternatively, or in addition, roll-up and defer up to 6 months (9 months by referral) interest payments - direct debit starts after roll-up period.
+
+Any deferred/rolled months of interest are capitalised (added) to the loan and paid at redemption. Loan advance reduced to preserve property equity to protect Market Financial Solutions and the borrower.
+
+Direct Debit (DD) payments normally start after the deferred months to provide time to find a tenant or light renovation.
+
+We reserve the right to increase minimum ICR for expats & foreign nationals with a limited UK footprint.
+
+### Top-Slicing
+
+Surplus salary, savings/wealth, or surplus portfolio rent considered to support Market Financial Solutions' loan(s) if properties wholly owned by same applicants, and not used as top-up for other lenders. Can boost rent by maximum 20% to improve ICR. Refer to underwriter to consider top-slicing.
+
+---
+
+## Property Types - Specialist
+
+### HMOs
+
+Inexperienced landlords acceptable on tier 2. Refer to tiers for max rooms/size. Larger HMOs (7 or more, usually 'sui generis') may require commercial valuation, to be confirmed by underwriter. Where required, local authority licence to be evidenced or condition for the borrower to apply following purchases. Solicitor will check on remortgages.
+
+### MUFBs
+
+Up to 30 units on residential range, unlimited size on commercial.
+
+Each unit must have separate services/facilities. Larger MUFBs may require commercial valuation. ICR/Value/LTV: Lower of aggregate flat-by-flat basis or single investment value on vacant possession. Inexperienced landlords (< 1yr) on higher tier. Market Financial Solutions take charge on the freehold.
+
+### Holiday-Lets
+
+Standard max. LTV, loan size, nationality and corporate structures apply for holiday lets, and can be part of a portfolio. Can take weekly average rent for high/medium/low season and assume 30 weeks occupancy for ICR of 130% – can take valuer opinion, reputable holiday letting agency letter, or actual holiday letting history. Leases less than 6 months. Should be able to be used as a normal AST BTL, i.e. no remote or a cabin etc.. Refer for exception if occupancy restrictions exist, or part of a holiday park solely for holiday lets. Refer areas like London with 90-day occupancy restrictions. AirBnB acceptable.
+
+### Student-Lets
+
+All occupants on a single AST, jointly and severally liable for the rent.
+
+PBSA/Service Accommodation acceptable on commercial range.
+
+### Commercial & Mixed Use
+
+We offer BTL mortgages for commercial, semi-commercial, mixed-use, HMO, MUBF, holiday lets and student lets. Most commercial types considered on merit.
+
+If we cannot accommodate on Commercial BTL, Bridging loan can be considered.
+
+### Commercial Owner Occupier
+
+Acceptable, including where tenant is a related party. Minimum 2 years of trading experience in relevant sector in the UK required.
+
+Affordability based mainly on EBITDA along with wider Debt to Income position to assess ability to cover interest payments. If mixed use, we can include rent from residential units.
+
+### Social Housing
+
+Currently not accepted.
+
+---
+
+## Corporate Structures
+
+### Limited Company
+
+Limited and trading companies incl. SPVs considered.
+
+### SPV
+
+SPVs accepted. Up to 4 directors, who combined own at least 75% of the SPV between them. Shareholders under 18 or hold < 20% are not underwritten. Debenture incorporating fixed & floating charge required to keep Market Financial Solutions informed of any future changes.
+
+### Corporations
+
+SPVs setup specifically to hold/operate BTL properties, or relevant Trading Companies or LLPs are acceptable. Up to 4 directors, who combined own at least 75% of the SPV between them. Shareholders under 18 or hold < 20% are not underwritten. Debenture incorporating fixed & floating charge required to keep Market Financial Solutions informed of any future changes.
+
+### LLP
+
+Acceptable.
+
+### Offshore Company
+
+Isle of Man, Channel Islands, British Virgin Islands, Gibraltar, or EU as standard. Considered outside this list subject to underwriter/credit committee and enhanced due diligence between solicitors in UK and offshore about structure, solvency, director/shareholder details, and enforceability. All loans subject to England & Wales law. UK bank account required for direct debit.
+
+### Trusts
+
+Onshore or Offshore acceptable subject to trust deeds, setup/structure, personal guarantees from owners, and due diligence.
+
+### Guarantor
+
+Required from all directors and major shareholders to cover 100% of the loan. Not applicable for individual applicants.
+
+---
+
+## Deposit and Purchase
+
+### Gifted Deposit
+
+Yes, subject to Deed of Gift Indemnity Policy and letter relinquishing all property/gift rights.
+
+### Builder Incentive
+
+Up to 5%, written confirmation required.
+
+### Auction
+
+We accept auction purchases and are able to provide funding in as little as 3 days.
+
+### Portfolio
+
+Property portfolios are accepted up to a £10m loan amount.
+
+---
+
+## Tenancy
+
+### Tenancy
+
+Our buy-to-let mortgage criteria require an agreement in writing, joint tenants have joint and several liability, and all adult occupants on the agreement. Corporate lets, ASTs 6-36 months, and DSS tenants acceptable.
+
+---
+
+## Product Features
+
+### Tracker
+
+Any changes to BBR applied from 1st of the following month. Any rolled up & capitalised months are calculated at TODAY'S BBR, not a predicted future value. Market Financial Solutions may use a stressed BBR to calculate max loan or require additional income evidence to prove resilience. May use 180 day valuation.
+
+### Regulated Loans
+
+We currently do not provide regulated BTL.
+
+### Unregulated Loans
+
+Our BTL mortgages are unregulated.
+
+### Title Insurance
+
+* Standard on residential remortgages up to £3m gross loan. Also used on internal refinances (borrower already with Market Financial Solutions).
+* Bridge & BTL, on eligible nationalities, and can be very recently built.
+* UK individual or passport holder in EEA, Channel Islands, Switzerland, USA, Canada, Australia, or New Zealand.
+* Corporate borrowers, Trusts and partnerships incorporated in UK, EEA, Channel Islands, Switzerland, or British Virgin Islands also eligible. Ultimate Beneficial Owners must also meet the individual countries/passports eligibility criteria.
+* Cost: 0.13% of gross loan (min £350), plus IPT (currently 12% of premium). Paid by the borrower. Solicitor deducts from loan advance at completion.
+
+---
+
+## Application Process
+
+### Application Process
+
+Contact Market Financial Solutions via the live chat on our website, call +44(0)20 7060 1234, or email info@mfsuk.com to start the process.
+
+---
+
+## Contact Information
+
+**Phone:** +44 (0)20 7060 1234
+
+**Email:** info@mfsuk.com
+
+**Website:** https://www.mfsuk.com/

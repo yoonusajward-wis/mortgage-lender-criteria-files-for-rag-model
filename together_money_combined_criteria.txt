@@ -1,0 +1,397 @@
+LENDER NAME: Together Money
+PRODUCT: Combined
+
+# Together Money Combined Lending Criteria - Residential and Buy-to-Let
+
+**Last Updated:** January 2025  
+**Source:** Together Money Intermediaries Website  
+**For Intermediaries & Introducers Only**
+
+**Residential Criteria:** [Personal Finance Lending Criteria](https://togethermoney.com/intermediaries/lending-criteria/personal-finance-lending-criteria)  
+**Buy-to-Let Criteria:** [Buy-to-Let Mortgages](https://togethermoney.com/buy-to-let-mortgages)  
+**PDF Criteria Guide:** [Personal Finance Criteria PDF](https://togethermoney.com/-/media/files/2024/intermediaries-criteria/packager/personal-finance-criteria.pdf)
+
+---
+
+# RESIDENTIAL CRITERIA
+
+## Overview
+
+Together Money offers flexible residential mortgage solutions for a wide range of customers and property types. Our criteria is designed to help customers who may not fit standard lending criteria.
+
+## Who We Help
+
+### Employed Applicants
+
+* No minimum time in current role if 12 months' continuous employment can be shown.
+* If less than 12 months' continuous employment, at least 6 months with the current employer is required.
+
+### Self-Employed Applicants
+
+* Must provide the last two SA302s, tax overviews, and up-to-date business banking statements (last 3 months), or an accountant's certificate.
+* Minimum of 1 year self-employed. Projections may be used if supported by an accountant's reference.
+
+### Other Applicant Types
+
+* Contractors, zero-hour contracts, and retired applicants are accepted.
+
+### Income Types
+
+  * Regular monthly bonuses, commission, and overtime are accepted.
+  * Benefits/DWP income can be accepted.
+
+### Expat Applicants
+
+* Accepted for Consumer Buy-to-Let (CBTL).
+
+### Age Limits
+
+* **Minimum:** 18 years.
+* **Maximum:**
+    * 85 years (First Charge) at end of term.
+    * 80 years (Second Charge) at end of term (if retirement income is proven).
+    * CBTL: no maximum age if self-funding.
+    * Regulated Bridging: 85 years at end of term.
+
+### Applicants per Case
+
+* Maximum of 4 applicants.
+
+### Proof of Rent
+
+* For all renting applicants, 12 months' proof of rental payments from landlord required.
+
+### Independent Legal Advice
+
+* May be required. See Valuation & Legal Advice Guide for details.
+
+---
+
+## The Property
+
+### First Charge Mortgage
+
+* Must be on a property where at least 40% is used, or intended to be used, as a dwelling.
+
+### Prime Plus
+
+* Only available for 100% residential properties.
+
+### Shared Ownership & Right to Buy
+
+* Permitted. Shared Ownership remortgages accepted by referral.
+
+### Prime (1st and 2nd Charge)
+
+* Semi-commercial properties (with ≥40% residential) considered, up to 65% LTV.
+
+### CBTL Prime
+
+* Semi-commercial with <50% business usage considered.
+
+### Standard Property Types
+
+  * Standard construction houses and bungalows (including ex-council).
+  * Flats and maisonettes up to 6 storeys (ex-council allowed up to 4 storeys).
+  * Purpose-built apartments (excluding ex-council).
+
+### Non-Standard Properties
+
+  * Ex-council flats/maisonettes above 4 storeys.
+  * Non-standard construction, defective, high-rise buildings above 6 storeys, or properties with poor valuation remarks.
+  * LTV reduced to 60% (or lower subject to full assessment).
+
+### Fire Risk & Cladding Requirements
+
+  * All flats (any height) must have an up-to-date Fire Risk Assessment (FRA).
+  * External Wall Review (EWS1) is required if:
+    * The property has ACM cladding (any height).
+    * The cladding type is unknown and the property is above 6 storeys (over 18m).
+    * The property has balconies containing combustible materials (any height).
+
+---
+
+## Credit Criteria
+
+### Demerits
+
+* Allocated for each secured arrear, CCJ, and default within the last 12 months.
+
+### CCJs & Defaults
+
+* **One Demerit:** Unsatisfied CCJs of £300–£10,000, or satisfied CCJs over £3,000.
+* **Ignored:** CCJs/Defaults of £300 or less, or satisfied defaults up to £3,000.
+* **Referral:** Unsatisfied CCJs greater than £10,000.
+
+### Secured Arrears
+
+* Demerit value equals the highest number of arrears months within the last 12 months.
+
+### Payday Loans
+
+  * Up to 3 settled payday loans within the last 12 months are accepted.
+  * One active payday loan may be accepted by referral, but must be repaid as part of the new mortgage (remortgage, deed cases, or secured loans only).
+
+### Unsecured Arrears
+
+* No declining arrears permitted within the last 6 months.
+
+---
+
+## Regulated Bridging – Additional Information
+
+* **Not Accepted:** Refinancing of an existing bridge (from another provider or Together), debt consolidation, transfer of equity, or funds for business use.
+* **Second Charge Bridging:** Lending is only allowed behind a First Charge term loan, not behind a First Charge bridge.
+* **Home Improvements:** If the exit strategy is sale, up to 8 weeks are allowed for works before the property must be marketed.
+
+---
+
+## Second Charge – Additional Information
+
+* Mortgage Reference Bypass is not accepted for flexible or open-plan mortgages (including Second Charge CBTL and Regulated Bridge).
+* Debt consolidation is not permitted on interest-only Second Charge mortgages or CBTL Second Charge mortgages.
+
+---
+
+## Reversionary Rates
+
+* Reversion rates track the **Together Homeowner Managed Rate (THMR)**, currently **9.00%**.
+* Refer to rates tables for margin details.
+
+---
+
+# BUY-TO-LET CRITERIA
+
+## Overview
+
+Together Money offers Buy-to-Let mortgages for landlords of all experience levels, from first-time landlords to portfolio investors. We specialize in non-standard properties and flexible lending solutions.
+
+**Source:** [Buy-to-Let Mortgages](https://togethermoney.com/buy-to-let-mortgages)
+
+## Key Features
+
+* No limit on number of properties
+* No max age if self-funding
+* Individuals and LTD companies accepted
+* Leverage portfolio equity for new purchases
+* First-time buyers accepted for Buy-to-Let
+* Portfolio landlords supported
+* HMO mortgages available
+* Holiday lets supported
+
+---
+
+## What is a Buy to Let Mortgage?
+
+A Buy to Let mortgage is a type of mortgage that a landlord would get on a residential property that they intend to rent out. It could be a house or flat that someone would live in, or even a short term holiday let such as an Airbnb.
+
+This means that you could be renting your property out to students, as social housing, or to tourists – you'd still need a Buy to Let mortgage.
+
+It's usually classed as a commercial loan as any money that you'd make from the property (i.e. rent) would be classed as business income. These mortgages aren't regulated by the Financial Conduct Authority (FCA).
+
+The exception? If you're an accidental landlord looking to rent out your personal property (that you may have inherited or no longer need due to personal circumstances), you could qualify for a fully regulated Consumer Buy to Let mortgage instead.
+
+---
+
+## Eligibility
+
+### Who Can Get a Buy to Let Mortgage?
+
+If you've got at least a 25% deposit and we can check that you can afford the mortgage repayments, either in full using your rental income or subsidised using personal income, we can probably lend to you.
+
+Our flexible Buy to Let criteria means we can take into account complex income and a wide range of property types, including non-standard builds, ex-council properties and flats above commercial premises.
+
+We can help you whether it's your first or fiftieth rental property (and even if you've never owned a property before) and will assess each case on its own merits.
+
+**We can also help if:**
+
+* You're coming to the end of your current Buy to Let mortgage deal,
+* You're looking to rent out your current home instead of selling and need help changing an existing residential mortgage to a Buy to Let mortgage if you want,
+* You're a portfolio landlords with a single Buy to Let mortgage (and one monthly repayment) to cover all their rental properties, and
+* You want to remortgage to a new Buy to Let mortgage with a better interest rate or different term length, or to release equity within the property (which could be used to fund further investments or improvements).
+
+---
+
+## Deposit Requirements
+
+### How Much Deposit Do I Need for a Buy to Let Mortgage?
+
+We have several Buy to Let mortgage products, and the minimum deposit (or equity, if you're remortgaging) we insist on varies based on the property and your circumstances. As an absolute minimum, you'll need to put in 25% of the property's value.
+
+However, if you also own other properties and have sufficient equity, we may be able to use these as additional security to lend you 100% of the value of your new purchase.
+
+---
+
+## Loan Amounts
+
+### How Much Can I Borrow for a Buy to Let Mortgage?
+
+Typically, we offer Buy to Let mortgages of anywhere from £30,000 to £4.5m. We can sometimes provide more depending on the situation, so just ask us and we'll see if we can help. If you want to borrow a large amount (i.e. over £1 million), we may or may not ask for you to contribute a larger deposit or more equity.
+
+---
+
+## Fees
+
+### What Fees Will I Have to Pay on a Buy to Let Mortgage?
+
+When you get a Buy to Let mortgage from Together, you'll need to pay a Lenders Arrangement Fee (LAF), which you may also know as a product fee.
+
+If you're worried about your monthly repayments or struggling to meet affordability, you can choose to pay a higher LAF. This will reduce the mortgage amount due each month (but please note that it could result in you paying back more overall).
+
+Some of our Buy to Let mortgages also include an Early Repayment Charge (ERC), which you'll pay if you elect to remortgage with another lender or repay your loan in full before the term ends.
+
+We also charge a Redemption Administration Fee when you 'redeem' (i.e. fully repay) your mortgage. This covers the costs associated with closing your account and dispensing our legal claim to your property.
+
+All of these fees can vary, so we'll ensure that the fees that apply to your particular mortgage are clearly explained before you sign on the dotted line. Other fees and charges may be applied to your account during the life of your mortgage, in relation to the management of your account (for instance, if you fall behind on your monthly payments).
+
+These are all explained in our Tariff of Charges.
+
+---
+
+## Income Requirements
+
+### Do I Need to Provide Proof of My Income to Get a Buy to Let Mortgage?
+
+We'll need a copy of the tenancy agreement (if the property is already being rented out) or a rental assessment (if it's not being rented out yet). Projected rental income can also be used. If the application is not self-funded, then income proof is required.
+
+We don't have any minimum income requirements, and if your rental income sufficiently exceeds your monthly payments, we won't insist on a full affordability assessment. If you've not yet bought the property, or the property is currently vacant, we can use an assessment of the potential rental income from an estate agent, 90% of this rental assessment can be used for the affordability assessment.
+
+If we do need to conduct a full affordability assessment, we'll consider all of your income – including rent from other properties you own, pension income, and wages from your day job (if you have one).
+
+---
+
+## Property Types
+
+### Can I Get a Buy to Let Mortgage on a Property Bought at Auction?
+
+Yes, we can support customers buying properties at auction. We can provide long term Buy to Let mortgages, and short term bridging finance – ideal for landlords looking to pick up a property for renovation.
+
+### Non-Standard Properties
+
+We're specialists in dealing with non-standard properties - from those missing a kitchen or bathroom, to listed buildings, holiday lets, Airbnb's, HMOs, MUBs and more.
+
+---
+
+## Portfolio Limits
+
+### How Many Buy to Let Mortgages Can I Have?
+
+Here at Together, we have no strict limits – as long as you can show you can afford the monthly payments on each property, we'll work with you to help grow your portfolio to the size you'd like.
+
+Some investors who own lots of rental properties may instead decide to have one very large mortgage that covers all of them, so they have a single monthly payment to meet. This is known as a portfolio Buy to Let mortgage. It's secured against all of their properties at the same time and is something we also offer at Together.
+
+---
+
+## Additional Borrowing
+
+### Can I Apply for Additional Borrowing or a Further Advance if I Already Have a Loan with You?
+
+Yes - at Together, we can help you with additional borrowing on your Buy to Let properties. We know that you may need extra funding for renovations or improvements, or you may want to access some of the money you've got built up in your other properties to fund a new rental purchase.
+
+If we see that you can afford the borrowing, we'll help you achieve your property ambitions.
+
+---
+
+## First Time Buyers
+
+### Can I Get a Buy to Let Mortgage as a First Time Buyer?
+
+Yes, we accept Buy to Let mortgage applications from first time buyers at Together. And, we won't treat you any different than any other landlord – no additional limits or higher rates.
+
+This includes first time landlords, property investors and people that haven't owned their own home (or any other property) before. If you can prove that you can make the repayments, we'll try to help you get started on your landlord journey.
+
+---
+
+## Consent to Let
+
+### Can I Change My Existing Mortgage to a Buy to Let Mortgage?
+
+If you've already got a mortgage on your home and want to rent it out, you may not need to do anything. Speak to your existing mortgage provider to find out; some lenders will give their consent to let, and some will insist you switch to a specific Buy to Let mortgage product. It often depends on the circumstances.
+
+If they're insisting that you switch, remember you have the option to shop around. Make sure you check if there are any Early Repayment Charges (ERC) associated with switching to another lender.
+
+At Together, we may be able to provide Consent to Let. We also offer Consumer Buy to Let (CBTL) mortgages for accidental landlords as well – designed for homeowners who never envisioned becoming landlords but need to let out a personal property due to scenarios such as inheritance, relocation or a relationship change.
+
+---
+
+## Consumer Buy to Let (CBTL) – Interest Coverage Ratio (ICR)
+
+* Projected rents accepted up to 90%.
+* Tiered ICR applies:
+  * 125% for Basic Rate taxpayers.
+  * 145% for Higher Rate taxpayers.
+  * 165% for Additional Rate taxpayers.
+
+---
+
+## Why Landlords Choose Together
+
+### Non-Standard Properties
+
+We're specialists in dealing with non-standard properties - from those missing a kitchen or bathroom, to listed buildings, holiday lets, Airbnb's, HMOs, MUBs and more.
+
+### Affordability
+
+When it comes to affordability, we look at the person (not just criteria or credit), and can accept many income sources, including earned, rental, benefit and pension income.
+
+### 50 Years of Expertise
+
+Over the last five decades, we've helped thousands of landlords achieve their rental ambitions, dealing with every type of property and every Buy to Let scenario.
+
+---
+
+## Dual Representation
+
+### We've Extended Dual Representation to Scotland
+
+You can now benefit from a faster, more streamlined legal process, where one trusted solicitor from our expert panel acts for both you and Together.
+
+Dual representation is now available throughout Great Britain on unregulated loans up to £500k, secured on residential property in England, Wales or Scotland.
+
+---
+
+## Criteria Guide Summary
+
+At Together, our flexible approach means that we can often lend where others can't. If you fit our criteria, we'll do everything we can to make it happen.
+
+**To be eligible to borrow from Together, you need to be:**
+
+* Based in the UK
+* Aged between 18 and 85
+* Be looking to borrow no more than 75% of the purchase price of the property you plan to buy
+
+Approval is based on a credit check and an assessment of your individual circumstances.
+
+---
+
+## Contact Information
+
+**Phone:** 0161 956 3224  
+**Hours:** Monday - Thursday: 09:00 to 19:00, Friday: 09:00 to 17:30  
+**Website:** [togethermoney.com](https://togethermoney.com)  
+**Intermediaries:** [togethermoney.com/intermediaries](https://togethermoney.com/intermediaries)
+
+---
+
+## Additional Resources
+
+* [Buy to Let Mortgage FAQs](https://togethermoney.com/buy-to-let-mortgages)
+* [Personal Finance Lending Criteria](https://togethermoney.com/intermediaries/lending-criteria/personal-finance-lending-criteria)
+* [Buy to Let Criteria PDF](https://togethermoney.com/-/media/files/2024/intermediaries-criteria/network-and-club/commercial-finance---buy-to-let-criteria.pdf)
+* [Personal Finance Criteria PDF](https://togethermoney.com/-/media/files/2024/intermediaries-criteria/packager/personal-finance-criteria.pdf)
+
+---
+
+**Note:** This document combines information from Together Money's residential and buy-to-let lending criteria. For the most up-to-date information, please refer to the official Together Money intermediaries website or contact their team directly.
+
+**Regulatory Information:**
+
+Together is a trading style of each of the undernoted companies, which have their registered office address at Lake View, Lakeside, Cheadle, Cheshire SK8 3GW.
+
+* Together Financial Services Limited | Registered in England and Wales - Company Registration Number 02939389. Together Financial Services Limited is the operator of this website.
+* Together Personal Finance Limited is authorised and regulated by the Financial Conduct Authority (FCA). FCA number is 305253. | Registered in England and Wales - Company Registration Number 02613335. Together Personal Finance Limited is a member of the FLA.
+* Together Commercial Finance Limited | Registered in England and Wales - Company Registration Number 02058813
+* Bridging Finance Limited | Registered in England and Wales - Company Registration Number 03166982
+* Blemain Finance Limited is authorised and regulated by the Financial Conduct Authority. FCA number is 719121. | Registered in England and Wales - Company Registration Number 01185052.
+
+Loans offered by Together Commercial Finance Limited are not regulated by the Financial Conduct Authority.

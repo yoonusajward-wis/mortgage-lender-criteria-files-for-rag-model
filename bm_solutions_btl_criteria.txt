@@ -1,0 +1,1366 @@
+LENDER NAME: Bm Solutions
+PRODUCT: Buy to Let
+
+BM SOLUTIONS - BUY TO LET PERSONAL CRITERIA
+===========================================
+
+Source: https://www.bmsolutions.co.uk/personal-criteria
+Last Updated: Information updated daily
+For the use of mortgage intermediaries & other professionals only
+
+Birmingham Midshires is a division of Bank of Scotland plc. Registered in Scotland No. SC327000. 
+Registered Office: The Mound, Edinburgh EH1 1YZ. Bank of Scotland plc is authorised by the 
+Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential 
+Regulation Authority under registration number 169628.
+
+================================================================================
+TABLE OF CONTENTS
+================================================================================
+
+1. APPLICATION
+2. CUSTOMER
+3. INCOME
+4. LENDING
+5. PROPERTY
+6. EXISTING CUSTOMER
+7. TOP SLICING
+
+================================================================================
+1. APPLICATION
+================================================================================
+
+APPLICANTS
+----------
+- Maximum Number of Applicants: 4 (per application)
+- Changing Applicant Order: Go to applicant summary table at bottom of personal details screen, use ↓ and ↑ arrows to amend order, select 'Submit' button when done
+- Removing Applicant: Go to applicant summary table, select 'Delete' button on right-hand side of applicant to remove, select 'Submit' button when done
+- Adding Applicant: Select 'Add another applicant' button on personal details screen, complete new applicant details, select 'Save applicant' button, select 'Submit' button when done
+- Important: Must not change any information in name, date of birth, or other personal details sections from one applicant to another
+- Questions: Speak to Business Development Manager before making any changes to an application
+
+DECISION IN PRINCIPLE
+---------------------
+- Provides credit decision using minimal information
+- States how much can be lent
+- Valid for: 3 months (subject to valuation and information supplied being correct)
+
+DIRECT DEBIT DETAILS
+--------------------
+- Required: Details of personal current account where mortgage will be paid from (at application stage)
+- Business current accounts: Cannot be used
+- Direct Debit mandate form: Not required to complete, but account number and sort code needed to issue mortgage offer
+
+DOCUMENTATION NEEDED
+--------------------
+- Must obtain proof of income, deposit, gross monthly rent, and identification from everyone named on mortgage before keying application
+- Must retain on file the following documentation for all BTL and LTB applications and submit upon request:
+
+Employed:
+- Latest Payslip
+- If commission/overtime/bonus received: Latest 3 monthly or 6 weekly payslips averaged and annualised
+
+Self-Employed:
+- Latest 2 years SA302 tax calculation and tax year overviews
+- Full accounts
+- Latest year must not be older than 18 months from date of application
+
+Retired:
+- Latest bank statement showing gross pension credited
+- Latest annual statement
+- Latest P60
+
+Profit from UK Land and Property (for Employed, Self-Employed and Retired):
+- Up to latest 2 years SA302 tax calculations and tax year overviews if available
+- Required for all customers who have existing BTL properties and rental income declared on application
+- Latest year must not be older than 18 months old
+
+Gross Monthly Rent (the amount paid by the tenant):
+- Required for subject property, for all cases: Either of the following must be kept on file:
+  * Tenancy Agreement – current, in date and signed by tenants, landlord or letting agent
+  * Letter from Letting Agent – confirming named parties, current tenancy term and monthly rent
+- May also request for some cases:
+  * SA105 Rental Property Form
+  * Latest 3 months bank statements
+  * Evidence of gross rent for other properties owned by the client (if needed, will ask before case completes)
+- All evidenced income sources must be recorded on the application
+- Applicants may have different sources of income from employed PAYE, Self-Employment, Profit from UK Land and Property, Pension, and Gross Monthly Rental Income - all need to be recorded separately and accurately on application form, with evidence held on file, and submitted upon request
+
+FINDERS' FEES
+-------------
+- Not Acceptable: Any application involving a fee paid to a third party (such as an investment club) for finding or introducing a buyer
+- Acceptable: Normal fee or commission payable to an estate agent handling the sale
+
+FIRST MONTHLY PAYMENT
+---------------------
+- Collection: Always collected in the month following completion of mortgage (e.g., if completes in June, first payment collected in July)
+- Payment Date: Normally collected on customer's chosen monthly payment date
+- Exception: If mortgage completes in last few days of month and there are fewer than four working days until customer's chosen payment date, first payment will be collected on 10th of that month, then revert to customer's chosen payment date on following month
+- Initial Interest: First monthly payment includes amount of 'initial interest' from day of completion to end of that month, plus first monthly mortgage payment (e.g., if completion is on 15th, interest calculated from 15th to end of month and added to first payment)
+- Notification: Will write to all customers to tell them when monthly payments will be collected and that first payment might be different to normal monthly payments
+
+FREE CONVEYANCING
+-----------------
+- Available: Free conveyancing for remortgaging to BM Solutions available on most remortgage products
+- Service: Where customer uses remortgage service, BM Solutions will pay conveyancer's legal fees and any registration fees
+- Customer Pays: Any fees existing lender might charge for repaying current mortgage, including existing lender's conveyancer's fees if existing lender doesn't allow BM Solutions conveyancer to act for them too
+- Own Conveyancer: If customer chooses product without free conveyancing or uses own conveyancer, conveyancer must be on BM Solutions panel, customer must pay any legal charges, search fees, and registration fees or other costs even if they don't go ahead with remortgage, insurance search won't be available
+- Additional Costs: May include:
+  * Transfer of equity
+  * Purchasing an additional tranche
+  * Additional TTs where a cashback is involved
+  * Second charges
+  * Possessory title
+  * Unregistered land
+  * Leasehold properties
+- Mortgage-Free Properties: Remortgage service also available for customers raising capital on mortgage-free property
+
+NORTHERN IRISH CUSTOMERS
+------------------------
+- Northern Irish law: Solicitors appointed by lender can't provide any additional services to customer
+- Additional Services: If customer needs any additional services, they'll need to instruct another solicitor
+
+SCOTTISH PROPERTIES - CLOSURE OF SASINE REGISTER
+-------------------------------------------------
+- Closure Date: General Register of Sasine closed to standard securities on 01 April 2016
+- Affects: Remortgaging of Scottish properties on old Sasine register
+- Service: Will cover standard costs for transferring from Sasine register to Land Registry during conveyancing part of remortgage service, wherever possible
+- Complex Transactions: Won't cover all transactions if considered too complex - conveyancer should discuss additional fees with customer
+- Complex Transaction Examples (not limited to):
+  * Plans report shows either overlap or shortfall between legal and occupational extent
+  * Title is complex with split-off writs, exceptions, and additions that need full examination to draft security and obtain relevant deed plan
+  * Property is flat or part of tenement block with common parts where obtaining neighbouring titles would be needed
+  * Rural properties where copies of neighbouring titles are needed to check servitudes/access rights etc.
+- Costs: Specific costs associated with complex transactions will vary, panel firms will apply hourly rate and agree everything with customers before starting any complex transaction
+
+PROOF OF RESIDENTIAL PURCHASE - LET TO BUY
+-------------------------------------------
+- Requirement: All let to buy applications must involve a related residential purchase
+- Acceptable: Applications where customers are intending to rent out their current residential home, so they can buy another residential home
+- New Residential Mortgage: If customer is taking new residential mortgage when purchasing new home, need to see copy of new residential offer before can issue LTB offer
+- No Mortgage/Unable to Issue Offer: If customers are buying new property without mortgage or new residential lender is unable to issue offer, need letter addressed to BM Solutions from conveyancer dated within three months of application to confirm:
+  * Future residential address
+  * Purchase price
+  * If property will or won't have a mortgage
+- Offer Issue: Can't issue let to buy offer until received everything needed
+
+================================================================================
+2. CUSTOMER
+================================================================================
+
+ID & ADDRESS VERIFICATION
+-------------------------
+- Requirement: All customers must be fully and properly identified as part of mortgage application process
+- Recording: Accurate information must be recorded on application system, including confirmation of whether this is face-to-face or non-face-to-face application
+- Electronic Verification: If customer doesn't pass electronic verification checks, need to certify and retain evidence of customer's identification documents
+- Document Acceptance: Documents you can accept depend on whether you've met with customer in person, or remotely by telephone or video
+
+SINGLE ID & V
+-------------
+- Use: For face-to-face verification, where customer is physically present and documentation is taken and verified, one document from single identification list can be used to verify customer
+- Cannot Use: Single ID can't be used if customer isn't present when ID&V is collected (includes video interviews) - in this case, use standard ID&V process
+- Single ID & V Documents:
+  * UK photo card driving licence, showing customer's current address
+  * UK passport
+  * Some EU/EEA identity cards
+  * Some non-UK passports
+- Former Names: These documents can be accepted in former name with evidence of name change (marriage certificate, Deed Poll or Decree Absolute)
+
+STANDARD ID & V
+---------------
+- Use: Must be followed when customer isn't present when ID&V is obtained, or customer doesn't have single ID document
+- Requirement: Customer will need to produce two separate documents - must be originals and can only be used once in process for either address verification or identification
+- FCA Requirement: FCA registered firms must make sure any documentation relied upon to verify customer's identify is copied, certified, and retained in accordance with money laundering regulations. BM Solutions reserves right to contact you and request copies of identity documents at any time during life of mortgage and for up to five years after cessation
+
+Standard ID&V Documents:
+- UK passport: Identification: Yes | Address: No
+- UK photocard driving licence displaying customer's current address: Identification: Yes | Address: Yes
+- UK paper full driving licence (issued up to 30th June 1998): Identification: Yes | Address: Yes
+- Non-UK passports: Identification: Yes | Address: No
+- EU/EEA identity cards: Identification: Yes | Address: No
+- Biometric residence permit: Identification: Yes | Address: No
+- EU/EEA photo card driving licence: Identification: Yes | Address: Yes
+- UK Benefits/State Pension notification letter - dated within last 12 months: Identification: Yes | Address: Yes
+- HMRC correspondence (excluding P45/P60) - must show Tax reference or NI number dated within last 12 months: Identification: Yes | Address: Yes
+- Bank, building society or credit union statement dated within last 6 months and issued by regulated financial sector firm in UK: Identification: No | Address: Yes
+- Mortgage statement from bank or building society dated within last 12 months and issued by regulated financial sector firm in UK: Identification: No | Address: Yes
+- Council Tax correspondence (excluding arrears and reminders) - dated within last 12 months: Identification: No | Address: Yes
+- Utility bills dated within last 6 months: Identification: No | Address: Yes
+- Solicitor's correspondence relating to house purchase and dated within last 3 months: Identification: No | Address: Yes
+
+EXPATRIATES
+-----------
+- Not Acceptable: Do not accept applications from Expatriates
+
+FOREIGN NATIONALS
+-----------------
+- Requirement: All applications from non-UK, non-Irish, nationals, EEA and non-EEA customers - proof of permanent right to reside will be required for all applicants on applications which do not meet the following criteria:
+  * Customer (or at least one customer on joint or multiple application) has lived continuously in UK for more than 5 years
+  * To determine if customer has lived in UK for more than five years, will use data provided by credit reference agencies
+- Acceptable Documents: Will accept indefinite leave to remain/Right of Abode, UK Residency stamps in non-UK passports, biometric residence permits, and Home Office documentation confirming indefinite leave to remain in UK
+- EEA/Swiss Nationals: For EEA/Swiss nationals with Settled or Pre settled status, 'Share code' can be used as residence
+
+HOW TO CERTIFY A DOCUMENT
+-------------------------
+- Requirement: Only identification and address verification and right to reside documents need to be certified
+- Process: Must certify documents when they're collected and keep copies on file - don't need to upload copies to application unless asked
+- Certifying Documents: Documents must be certified by FCA-registered mortgage intermediary
+- Certification Must Include:
+  * Certifier's signature, name, and job title
+  * Date of certification, which must be within three months of application date
+- Written Confirmation: Certifier must also add written confirmation on document - suggested wording: 'I certify this is a true and correct copy of the original document as sighted by me' (can use own variation if prefer)
+- Separate Certificates: Separate 'certificates' are acceptable (sometimes called ID verification header sheets, broker/adviser verification checklists or similar)
+  * Details on certificate must match those of ID&V documents provided
+  * Wording to confirm true and correct copies of documents should be included
+  * Intermediary name and signature must be included on certificate/document and date must be within three months of application date
+
+REFUGEES
+--------
+- Requirement: Refugees and asylum seekers must have indefinite leave to remain
+- Document: Usually given in letter confirming they've been granted 'Indefinite Leave to Remain' from Immigration and Nationality Directorate
+- Not Acceptable for Mortgage Purposes:
+  * Exceptional leave to remain in UK
+  * Humanitarian protection
+  * Discretionary leave
+
+================================================================================
+3. INCOME
+================================================================================
+
+AFFORDABILITY AND SUSTAINABILITY
+---------------------------------
+- Assessment: Affordability is assessed using anticipated rental income from property
+- Personal Income: Will also assess personal income when making lending decision, so important customer's income is keyed accurately as it might affect decision
+- Personal Commitments: Expect to see customer can afford their personal commitments, so can be confident lending decision is sustainable if tenant stops paying or property needs maintenance or repairs
+- Decline: Application might be declined if assessment shows there's not enough disposable income to support borrowing and customer's personal commitments
+- Rental Cover: In rental cover calculation, want customer to have more rent coming in than normal mortgage payment, so situations mentioned earlier can be covered
+- Tax Liability: Will also take additional cost of increased tax liability for some customers into account
+- Understanding: Understand personal income might not fully reflect overall financial picture for applicant - they could have other assets and savings, for example. Also know buy to let might be in single name, but personal financial commitments could be held jointly with someone else
+- Manual Underwriting: Some information might need to manually underwrite application, includes:
+  * How customer manages their commitments
+  * How they've built up any reserves, including deposit
+  * Whether they have previous experience of buying to let
+  * Rationale for sole applications, where finances are joint
+  * Business details for self-employed customers
+
+APPLICANTS NOT PAID IN STERLING
+--------------------------------
+- Definition: Foreign currency income is any income other than sterling received by customer
+- Note: Foreign currency income paid into UK bank account and transferred to sterling is still considered to be foreign currency
+- Not Acceptable: Foreign currency income won't be accepted for new mortgage or remortgage applications for new and existing customers, including porting, transfers of mortgaged property (TOMP), and further advances
+- Exceptions: Only exceptions are further advance applications for essential repairs to mortgaged property and product transfers
+
+CONTRACTORS
+-----------
+- Employed: If customer is classed as employed, need to have been in current role for at least three months
+- Self-Employed: If customer is classed as self-employed, need at least two years' worth of trading figures
+
+Sub-contractors, fixed/short term contracts, and agency workers:
+- Consider: Will consider applications from these customers if they have continuous employment of 12 months or more with six months of contract remaining, or customer has two years' continuous service in same type of employment
+- Evidence: Evidence of their employment record might be needed
+
+IT and other contractors:
+- IT Contractors: For IT contractors on any income and other contractors whose income is more than £500 per day or £75,000 per annum, whether employed or self-employed, accept gross value of contract as evidence of income
+- Requirement: All applicants must have current continuous employment of 12 months or more with six months of contract remaining or two years continuous service in same type of employment
+- Multiple Contracts: Customer should be treated as self-employed if they have more than one contract, or where they've set up limited company and employ other contractors
+
+Construction Industry Scheme Contractors (CIS):
+- Requirement: Need to provide average of their latest 3 months income
+- Self-Employed: Should be treated as self-employed if they pay their own tax or sub-contract to more than one company
+
+Zero-hours contracts:
+- Consider: Applications from customers employed on zero-hours contract will be considered
+- Income: Will only take income from total of last 12 calendar months into account
+- Verification: Applicants will have to verify their income
+
+Professional sports people:
+- Requirement: Must confirm they've either been in continuous employment for 12 months or more with six months of contract remaining, or two years' continuous service as at date of application in same type of employment
+- Verification: Essential to verify these customers will be able to meet their monthly repayments as they near end of their career or if their career's ended early because of injury
+
+INCOME TYPES
+------------
+- Requirement: For all applications, at least one of customers' needs to have an earned income and/or pension income
+- Recording: All income sources must be recorded accurately - includes all full years of self-employed income, PAYE, pension income, and all gross monthly rental
+- Location: All income sources need to be within UK
+- Minimum Income: There's no minimum income level
+- UK Tax: Customers must be registered for UK tax
+- Residential Mortgages: Any residential mortgages must be covered by customers' income
+- Payslips: Must show customer and employer name, pay date, basic income, gross and net pay, and any additional payments being used in affordability assessments
+- Employer's Reference: Will request employer's reference where customer can't supply preferred documentation - doesn't apply where customer's employed in family business
+- Hand-written Payslips: Only acceptable alongside bank statements to confirm income paid by employer
+- Bank Statements: Must show customer's full name or initial, surname, and account number
+- Internet Bank Statements: Must show bank heading/name and http address
+
+INCOME TYPES TABLE
+------------------
+The following income types are acceptable or not acceptable for BM Solutions Buy to Let applications:
+
+Acceptable Income Types:
+- Additional Duty Hours (including Additional Responsibility Hours) - Other - Key as: Additional Duty Hours - Evidence: Latest 3 months payslips
+- AFC Absence - Other - Key as: Shift Allowance - Evidence: Latest 3 months payslips
+- Area Allowance - Other - Key as: Town / Area / Car Allowance - Evidence: Latest months payslip(s)
+- Armed Forces Independence Payments (AFIP) - Other - Key as: Pension - Private - Evidence: Latest Bank Statement (where paid gross) or Latest Pension Statement / Latest months payslip(s) or Pension P60
+- Attendance Allowance (State Benefit) - Other - Key as: Attendance Allowance - Evidence: Latest Bank Statement or Benefit Award Letter
+- Bank Holiday Pay (only if forms part of basic pay and doesn't inflate income) - Main - Key as: Basic Annual Income - Evidence: Latest months payslips
+- Basic Salary (including probationary period of permanent contract) - Main - Key as: Basic Annual Income - Evidence: Latest months payslips
+- Bonus (must not be keyed unless actually been paid) - Main - Key as: Annual Guaranteed Bonus - Evidence: Latest 3 months' payslips (or for incomes received less frequently than monthly all payslips showing this income for latest 2 years)
+- Call Out - Other - Key as: Additional Duty Hours - Evidence: Latest 3 months payslips
+- Car Allowance inc. Car Trade Down - Other - Key as: Town / Area / Car Allowance - Evidence: Latest months payslips
+- Carers Allowance - Other - Key as: Carers Allowance - Evidence: Latest Bank Statement or Benefit Award Letter
+- Cash In Hand - Main - Key as: Basic Annual Income - Evidence: Latest months payslip(s) and Bank Statement
+- CEA (Doctors Excellence Award) - Main - Key as: Basic Annual Income - Evidence: Latest months payslips
+- Child Benefit - Other - Key as: Child Benefit - Evidence: Latest Bank statement or Benefit Award Letter
+- Child Tax Credit - Other - Key as: Child Tax Credit - Evidence: Latest Bank statement or Benefit Award Letter
+- Commission - Main - Key as: Annual Regular / Guaranteed Commission - Evidence: Latest 3 months' payslips (or for incomes received less frequently than monthly all payslips showing this income for latest 2 years)
+- Competency Related Threshold Payment - Main - Key as: Annual Guaranteed Bonus - Evidence: Latest 3 months' payslips (or for incomes received less frequently than monthly all payslips showing this income for latest 2 years)
+- Constant Attendance Allowance - Other - Key as: Constant Attendance Allowance - Evidence: Latest Bank Statement or Benefit Award Letter
+- Continual Professional Development (CPD) - Other - Key as: Additional Duty Hours - Evidence: Latest 3 months payslips
+- Country Allowance - Other - Key as: Town / Area / Car Allowance - Evidence: Latest months payslips
+- Danger Allowance - Main - Key as: Annual Regular Overtime - Evidence: Latest 3 months payslips
+- Delivery Supplement - Main - Key as: Basic Annual Income - Evidence: Latest months payslips
+- Disability Living Allowance (not acceptable if received for 3rd party e.g. dependent) - Other - Key as: Disability Living - Evidence: Latest Bank Statement or Benefit Award Letter
+- Dividends - For Company Director - Main - Key as: Self Employed - Evidence: See Limited Company Director/Shareholder under Self Employed/Contractors section
+- Employed in Family Business: If less than 25% invested interest and does not receive dividends or net profit as part of reward package (Treat as employed) - Main - Key as: Basic Annual Income - Evidence: Latest months payslip(s), and corresponding bank statement(s)
+- Employment & Support Allowance (ESA) - Other - Key as: Employment and Support Allowance - Evidence: Latest Bank Statement or Benefit Award Letter
+- Examiners Payroll - Other - Key as: Additional Duty Hours - Evidence: Latest 3 months payslips
+- Fire Warden Allowance - Other - Key as: Additional Duty Hours - Evidence: Latest 3 months payslips
+- Fixed Annuity Payments (Private) - Other - Key as: Pension - Private - Evidence: Latest Bank Statement (where paid gross) or Latest Pension Statement / Latest months payslip(s) or Pension P60
+- Flexible Benefit (accept 100% of benefit) - Other - Key as: Colleague Flexible Benefit - Evidence: Latest 3 months payslips
+- Flight Attendant Allowance - Other - Key as: Flight Pay / Allowance - Evidence: Latest 3 months payslips
+- Forklift Premium - Other - Key as: Additional Duty Hours - Evidence: Latest 3 months payslips
+- Foster Care Income - Main - Key as: Self-Employed - Evidence: Latest 2 years tax assessments
+- Get You Home Allowance - Other - Key as: Additional Duty Hours - Evidence: Latest 3 months payslips
+- HDT Allowance (Home to Duty Travel) - Other - Key as: Additional Duty Hours - Evidence: Latest 3 months payslips
+- High Cost Area - Other - Key as: Town / Area / Car Allowance - Evidence: Latest months payslips
+- HM Forces - Guaranteed Income Payment (GIP) - Other - Key as: Pension - Private - Evidence: Latest Bank Statement (where paid gross) or Latest Pension Statement / Latest months payslip(s) or Pension P60
+- Holiday Pay (only if forms part of basic pay and doesn't inflate income) - Main - Key as: Basic Annual Income - Evidence: Latest months payslips
+- Housing Allowance (where paid by employer only) - Other - Key as: Town / Area / Car Allowance - Evidence: Latest months payslips
+- Industrial Injuries Disablement Benefit - Other - Key as: Industrial Injuries Disablement Benefit - Evidence: Latest Bank Statement or Benefit Award Letter
+- Key Holder Allowance - Other - Key as: Additional Duty Hours - Evidence: Latest 3 months payslips
+- Leave of Absence - Main - Key as: Basic Annual Income - Evidence: Latest months payslips
+- Living Wage Allowance - Main - Key as: Basic Annual Income - Evidence: Latest months payslips
+- London Weighting - Other - Key as: Town / Area / Car Allowance - Evidence: Latest months payslips
+- Long Separation Allowance - Other - Key as: Town / Area / Car Allowance - Evidence: Latest months payslips
+- Long Service Pay - Main - Key as: Basic Annual Income - Evidence: Latest months payslips
+- Maintenance - Other - Key as: Maintenance - Evidence: Latest 3 months Bank statements Court Order or Maintenance Assessment or letter from Child Support Agency (CSA)
+- Market Supplement - Main - Key as: Basic Annual Income - Evidence: Latest months payslips
+- Maternity Pay (providing applicant will return to work on same terms) - Main - Key as: Basic Annual Income - Evidence: Latest months payslip(s) received prior to commencement of maternity
+- Military Reservist Allowance - Other - Key as: Additional Duty Hours - Evidence: Latest 3 months payslips
+- Mortgage Subsidy - Other - Key as: Mortgage Subsidy - Evidence: Latest 3 months payslips
+- NHS Banding - Main - Key as: Basic Annual Income - Evidence: Latest months payslips
+- NHS Enhanced Pay / Enhancements (EN) or (ENH) - Other - Key as: Shift Allowance - Evidence: Last 3 consecutive payslips
+- Nursing Bank (Main Income) - Main - Key as: Basic Annual Income - Evidence: Latest 3 months payslips
+- Nursing Bank (Other Income) - Other - Key as: Nursing Bank - Evidence: Latest 3 months payslips
+- Occupational Sick Pay - Main - Key as: Basic Annual Income - Evidence: Latest months payslips
+- Offshore Allowance - Other - Key as: Additional Duty Hours - Evidence: Latest 3 months payslips
+- On Call Allowance - Other - Key as: Additional Duty Hours - Evidence: Latest 3 months payslips
+- Overtime - Main - Key as: Annual Regular Overtime - Evidence: Latest 3 months payslips
+- Pension Supplement - Other - Key as: Colleague Flexible Benefits - Evidence: Latest 3 months payslips
+- Pension Tax Credits - Other - Key as: Pension Credit - Evidence: Latest Bank Statement or Pension Statement
+- Permanent Health Insurance (PHI) - term must not extend past final payment date for PHI if affordability is based on this income only - Other - Key as: Pension - Private - Evidence: Latest Bank Statement (where paid gross) or Latest Pension Statement / Latest months payslip(s) or Pension P60
+- Personal Independence Pay - Other - Key as: Personal Independence Pay - Evidence: Latest Bank Statement or Benefit Award Letter
+- Private Pension / Private Widowers Pension - Other - Key as: Pension - Private - Evidence: Latest Bank Statement (where paid gross) or Latest Pension Statement / Latest months payslip(s) or Pension P60
+- Project Disbursement - Other - Key as: Town / Area / Car Allowance - Evidence: Latest months payslips
+- Public Holiday Pay (only if forms part of basic pay and doesn't inflate income) - Main - Key as: Basic Annual Income - Evidence: Latest months payslips
+- Recruitment and Retainment Pay - Other - Key as: Additional Duty Hours - Evidence: Latest 3 months payslips
+- Scottish Island Allowance/Distant Island Allowance/Island Allowance - Other - Key as: Town / Area / Car Allowance - Evidence: Latest months payslips
+- SEN Allowance - Other - Key as: Additional Duty Hours - Evidence: Latest 3 months payslips
+- Shift Allowance - Other - Key as: Shift Allowance - Evidence: Latest 3 months payslips
+- Sleepover Allowance - Other - Key as: Additional Duty Hours - Evidence: Latest 3 months payslips
+- Standby Allowance - Other - Key as: Additional Duty Hours - Evidence: Latest 3 months payslips
+- State Pension - Other - Key as: Pension - State - Evidence: Latest Bank Statement or Pension Statement
+- State Widows Pension - Other - Key as: Pension - State - Evidence: Latest Bank Statement or Pension Statement
+- Stipend (Only acceptable for Clergy) - Main - Key as: Basic Annual Income - Evidence: Letter of confirmation from Religious Order
+- Teaching and Learning Responsibility (TLR) - Main - Key as: Basic Annual Income - Evidence: Latest months payslips
+- Term Time Allowance - Other - Key as: Additional Duty Hours - Evidence: Latest 3 months payslips
+- The Thalidomide Trust Income - Other - Key as: Pension - Private - Evidence: Latest Bank Statement (where paid gross) or Latest Pension Statement / Latest months payslip(s) or Pension P60
+- Tips - Main - Key as: Annual Regular Overtime - Evidence: Latest 3 months payslips
+- Town Allowance - Other - Key as: Town / Area / Car Allowance - Evidence: Latest months payslips
+- Travel Allowance - Other - Key as: Town / Area / Car Allowance - Evidence: Latest months payslips
+- Tronc - Main - Key as: Annual Regular Overtime - Evidence: Latest 3 months payslips
+- Universal Credit (applicants on mortgage must be same as on award letter and joint income must be split between applicants - applicants must have earned income for this income to be used - any Housing Benefit shown on award letter should be deducted from income keyed as it will no longer apply) - Other - Key as: Universal Credit - Evidence: Latest Benefit Award Letter
+- Unsocial Hours - Other - Key as: Shift Allowance - Evidence: Latest 3 months payslips
+- War Disablement Pension - Other - Key as: Pension - War Disablement - Evidence: Latest Bank Statement or Pension Statement
+- War Widow(er) Pension - Other - Key as: Pension - War Widow - Evidence: Latest Bank Statement or Pension Statement
+- Widowed Parents Allowance - Other - Key as: Widowed Parents Allowance - Evidence: Latest Bank Statement or Pension Statement
+- Work Outside Normal Hours - Other - Key as: Additional Duty Hours - Evidence: Latest 3 months payslips
+- Working From Home Allowance - Other - Key as: Town / Area / Car Allowance - Evidence: Latest months payslips
+- Working Tax Credit - Other - Key as: Working Tax Credit - Evidence: Latest Bank Statement or Benefit Award Letter
+- Working Time Directive Payment (WTD) - Other - Key as: Additional Duty Hours - Evidence: Latest 3 months payslips
+- Zero Hours Contract (customer must have been employed on zero hours contract for minimum of 12 months with same employer or with different employers but in same type of work) - Main - Key as: Basic Annual Income - Evidence: 12 months' worth of payslips (applies whether applicant is paid weekly or monthly and could consist of P60 plus subsequent payslips to cover full 12 month period)
+
+Not Acceptable Income Types:
+- Adoption Allowance
+- Airbnb
+- Attendance Allowance (Turning Up To Work)
+- Bereavement Allowance (previously Widows Pension - if State Widows Pension, see State Widows Pension)
+- Bounty Payment
+- Bursary
+- Council Tax Benefit
+- Dividends - Investment Linked
+- Expenses
+- First Aid Allowance
+- FIT Payment
+- Footwear Allowance
+- Gambling
+- Guardian Allowance
+- Healthcare Allowance
+- Housing Benefit
+- Income Support
+- Insurance Payout
+- Investment Income (unless applicant already retired - see Pension Schemes for details)
+- Lodgers Income
+- Long Term Sick
+- Lottery
+- Lunch Allowance
+- Medical Negligence Annuity Payments
+- Non Consol Pay NP
+- Petrol Allowance
+- Piecework
+- Profit Related Pay
+- Protection of Pay Allowance
+- Renewable Energy
+- RHI Payment
+- Savings
+- Scholarship
+- Seasonal Contract
+- Secondment Allowance
+- Statutory Maternity Pay
+- Statutory Sick Pay (if returning to work see Occupational Sick Pay)
+- Tax Rebate
+- Temporary Contract
+- Tool Allowance
+- Trust Income
+- Uniform Allowance
+- Widows Allowance
+
+LENGTH OF EMPLOYMENT/SELF-EMPLOYMENT
+-------------------------------------
+- Employed: Employed customers will be expected to have been employed for minimum of three months in their current job
+- Self-Employed: Self-employed customers must have been self-employed for minimum of two years and provide at least two years' worth of trading figures
+
+RENTAL INCOME
+-------------
+- Requirement: For employed, self-employed, and retired customers, all rental income and finance costs captured in 'Land and property income' section of application should match customers' tax calculations from HMRC
+- Keying Customer Whose Only Source of Income is from Land and Property:
+  * Select 'Occupation type' as 'Professional' and 'Employment type' as 'Self-Employed'
+  * Need to input year end date and figures for most recent and previous years - most recent date can't be older than 18 months from date of submission
+  * Remaining figures for net profit, turnover, gross profit, current assets, and current liabilities must be input as '£0'
+  * Complete 'Self-employment details' - including business name and accountant details - and 'Add employment' section
+  * Land and property profit figures from tax calculation will then need to be entered into land and property income section
+  * Any finance costs for latest year will also need to be entered - finance costs are referenced at bottom of tax calculation, as well on individual's self-assessment tax return, and property income supplement (SA105)
+  * For 'Can income be verified?', must answer 'Yes'
+- Remortgages and Further Advances: Current rental amount of property should be keyed on application as current monthly rent paid by tenant
+- Buy to Let Purchase and Let to Buy Remortgage: Current rental amount keyed will be anticipated monthly rent of property
+- Property Schedule: Gross monthly rent will need to be keyed into property schedule screen for all buy to let properties owned by anyone named on application
+- Verification: Tenancy agreement or letter from letting agent can be used to verify rental income keyed in Property schedule screen
+
+SECOND JOB
+----------
+- Consider: If any customer has more than one job, will consider following to decide if can take secondary income into account:
+  * Are hours/days worked sustainable?
+  * Are roles/skills similar?
+  * What's distance between jobs and customer's home?
+  * How long has customer been in both jobs?
+  * Is salary consistent with type of employment?
+- Keying: Should key highest income as customer's main income, and income from second job as additional employment
+
+SELF-EMPLOYED APPLICANTS
+-------------------------
+- Requirement: Self-employed applicants must have been self-employed for minimum of 2 years and be able to provide at least 2 years' worth of trading figures
+- Must be Keyed as Self-Employed if Any of Following Applies:
+  * They have shareholding of 25% or more
+  * If joint applicants both own percentage share of 25% or more between them, treat them both as self-employed
+  * A sub-contractor who earns income from more than one contract
+  * They have partnership interest in business where income is not PAYE, regardless of percentage shareholding
+  * They own a franchise
+  * They're employed by private limited company (LTD) and receive salary (PAYE) and dividends as part of their remuneration package
+  * They're in limited liability partnership (LLP) and receive share of net profits
+- Net Profit Field: All self-employed income must be entered in 'Net profit' field, except profit from UK Land & Property, which needs to be captured in Land and property income section
+- Net Profit Field Completion:
+  * Limited company - key total of salary/remuneration and dividends drawn as shown on tax calculation
+  * Partnership or LLP - key profit share percentage
+  * Sole trader - key net profits
+- Documentation Needed:
+  * Latest 2 years' HM Revenue & Customs (HMRC) tax calculations and tax year overviews showing years and applicants' name/initials
+- Tax Calculations: Available in applicants online self-assessment account - if use these, following details must be visible:
+  * HMRC logo
+  * Unique Tax Reference (UTR)
+  * Tax year where most recent is no older than 18 months old
+  * Official wording that says: 'This is a copy of information held on your official online SA tax account with HMRC', and 'Submission is 100% complete'
+- Online Tax Assessments: From accountants' commercial software, accompanied by corresponding tax year overviews are acceptable as long as they show:
+  * UTR
+  * Customer's name
+  * Tax year where most recent is no older than 18 months old
+- Tax Due Figure: Tax due figure on tax calculation and tax year overview will usually match - if there is difference in tax figure, might need updated documents
+- Full Accounts: Latest two years' full accounts must be finalised and clearly show net profit for sole traders, share of net profit for partnerships, or salary and dividends for directors of limited companies
+- Profit and Loss Statements: Alone aren't acceptable
+- Year End: Year end for all documents must be most recent and not be dated more than 18 months before date of application
+
+SELF-EMPLOYED/CONTRACTORS
+--------------------------
+The following table shows how different contractor and self-employed types should be treated:
+
+- Contractor - If applicant earns more than £500 per day or £75,000 per annum - providing 12 months or more continuous employment with 6 months of contract remaining OR 2 years continuous service (for last 2 years at date of application) in same type of employment - Acceptable: Yes - Main or Other: Main - Treat as: Basic Annual Income - Evidence: Copy of contract and latest months personal/business bank statement(s) showing salary credit
+
+- Contracts - Fixed / Short / Temporary - If Company Paying Tax (Excluding CIS contractors) - providing 12 months or more continuous employment with 6 months of contract remaining OR 2 years continuous service (for last 2 years at date of application) in same type of employment - Acceptable: Yes - Main or Other: Main - Treat as: Basic Annual Income - Evidence: Latest months payslip(s)
+
+- Contracts Fixed / Short / Temporary - If Customer Paying Tax - Acceptable: Yes - Main or Other: Self Employed - Treat as: See Self Employed Applicants - Evidence: Last 2 years Tax Calculations and corresponding Tax Year Overviews
+
+- IT Contractors - providing 12 months or more continuous employment with 6 months of contract remaining OR 2 years continuous service (for last 2 years at date of application) in same type of employment - Acceptable: Yes - Main or Other: Main - Treat as: Basic Annual Income - Evidence: Copy of IT Contract and latest months personal/business bank statement(s) showing salary credit
+
+- CIS Contractors - If Company Paying Tax key as employed providing 12 months or more continuous employment with 6 months of contract remaining OR 2 years continuous service (for last 2 years at date of application) in same type of employment - Acceptable: Yes - Main or Other: Main - Treat as: Basic Annual Income - Evidence: Latest three consecutive months payslip/invoices (applies whether applicant is paid weekly or monthly) and three months corresponding bank statements - P60/Payslips - If no income is received or customer is unable to provide evidence of income then 'zero' income must be used for that month
+
+- CIS Contractors - If Customer Pays Own Tax or has more than one contract or is employed by Ltd company he/she has set up then treat as Self Employed - Acceptable: Yes - Main or Other: Self Employed - Treat as: See Self Employed Applicants - Evidence: Last 2 years Tax Calculations and corresponding Tax Year Overviews
+
+- Employed in Family Business Equal to or greater than 25% Invested interest and/or receives dividend or net profit as part of reward package (Treat as Self Employed) - Acceptable: Yes - Main or Other: Self Employed - Treat as: See Self Employed Applicants - Evidence: Last 2 years Tax Calculations and corresponding Tax Year Overviews
+
+- Ltd Company - Director/Shareholder - Wanting to use - Basic PAYE salary ONLY less than 25% shareholding (Treat as employed) - Acceptable: Yes - Main or Other: Main - Treat as: Basic Annual Income - Evidence: Latest months payslip(s)
+
+- Ltd Company - Director/Shareholder - Wanting to use - Basic PAYE salary ONLY Equal to or greater than 25% shareholding (Treat as self employed) - Acceptable: Yes - Main or Other: Self Employed - Treat as: See Self Employed Applicants - Evidence: Last 2 years Tax Calculations and corresponding Tax Year Overviews
+
+- Ltd Company - Director/Shareholder - Wanting to use - Basic PAYE salary + dividends ONLY Irrespective of share holding (Treat as Self Employed) - Acceptable: Yes - Main or Other: Self Employed - Treat as: See Self Employed Applicants - Evidence: Last 2 years Tax Calculations and corresponding Tax Year Overviews
+
+- Ltd Company - Director/Shareholder - Wanting to use - Basic PAYE salary + Net Profits ONLY irrespective of share holding (Treat as Self Employed) Note: Net Profits cannot be used without referral to Underwriters - Acceptable: Yes - Main or Other: Self Employed - Treat as: See Self Employed Applicants - Evidence: Last 2 years Tax Calculations and corresponding Tax Year Overviews
+
+- Self employed - Sole Trader - Acceptable: Yes - Main or Other: Self Employed - Treat as: See Self Employed Applicants - Evidence: Last 2 years Tax Calculations and corresponding Tax Year Overviews
+
+- Self employed / Share holding of Non Ltd Company (ie Partnership) Taxable Income - Acceptable: Yes - Main or Other: Self Employed - Treat as: See Self Employed Applicants - Evidence: Last 2 years Tax Calculations and corresponding Tax Year Overviews
+
+- Partner of LLP receiving profit share as part of salary package Irrespective of share of equity (Treat as Self employed) - Acceptable: Yes - Main or Other: Self Employed - Treat as: See Self Employed Applicants - Evidence: Last 2 years Tax Calculations and corresponding Tax Year Overviews
+
+- Employee of LLP - not equity shareholding partner (Treat as employed) - Acceptable: Yes - Main or Other: Main - Treat as: Basic Annual Income - Evidence: Latest months payslip(s)
+
+Not Acceptable:
+- Seasonal Contract - Acceptable: No
+- Piecework Contract - Acceptable: No
+
+TAX ON RENTAL INCOME
+--------------------
+- Finance Costs: Finance costs are not tax deductible, but tax relief can be claimed at basic rate, whatever rate of tax customer pays
+- Tax Liability: This will mean increased tax liability for some landlords
+- Manual Review: Where applications are referred for manual review, will consider additional tax liability
+- Independent Tax Advice: Customers must get independent tax advice if they're unsure how tax rules will affect them
+
+================================================================================
+4. LENDING
+================================================================================
+
+ASSIGNABLE CONTRACTS
+--------------------
+- Definition: Assignable contracts allow original buyer to sell property before legal completion, by assigning contract to buy property to new buyer after contracts have been exchanged with developer
+- Not Acceptable: Can't accept applications involving assignable contracts or irrevocable powers of attorney in favour of intervening sellers
+- Reporting: Any similar transaction structure must be reported
+
+BANKRUPTCIES
+------------
+- Credit History Question: Must answer 'Yes' to credit history question asking if any customer has had bankruptcy / IVA / debt management arrangement or debt relief order which was:
+  * Registered within last six years (whether now completed or not), OR
+  * Is still outstanding (whenever this was registered)
+- Answer 'No': If bankruptcy / IVA / debt management arrangement or debt relief order was registered over six years ago and is no longer outstanding, question can be answered as 'No'
+
+BUSINESS/CONSUMER BUY TO LET
+----------------------------
+- Offer: Offer business buy to lets (BBTL) and consumer buy to lets (CBTL)
+- BBTL Definition: Mortgage used to buy or remortgage property to let to non-family member or where majority of borrowing is for BTL purposes
+- CBTL Definition: Where property wasn't originally purchased for letting, and customer doesn't let out any other properties - customer or family member might have previously lived in property, for example, and/or majority of borrowing is for non-business purposes
+- Regulation: BBTL mortgages are not regulated and CBTL mortgage is regulated by HM Treasury - need Consumer FCA permissions before submitting any CBTL applications
+- Classification: Customer answers will establish whether loan is classified as BBTL or CBTL
+- Loan Purpose: Vital in deciding whether lending will be unregulated BBTL or regulated CBTL
+
+BBTL Loan Purpose (when applying for remortgage with additional borrowing or further advance):
+- Buy BTL property freehold
+- Buy land adjacent to BTL property
+- Buy extension of lease to BTL
+- Buy final share being mortgaged
+- BTL repairs
+- BTL loan/BTL deposit
+- Repay existing BTL loan
+
+Consumer Goods/Funds:
+- Non BTL debt consolidation
+- Non BTL home improvements
+- Non BTL (residential/second home) loan
+- Repay subsequent charge - clearing bank
+- Repay subsequent charge - non-clearing bank
+
+Note: This list might not be available for every application - availability of each loan purpose will depend on circumstances of individual application
+
+CONCESSIONARY (DISCOUNTED) PURCHASE
+------------------------------------
+- Not Acceptable: Don't accept concessionary purchase applications where property is being purchased below full market value
+- Exception: Purchase of new build property if value has increased between agreement to purchase and building completion - builder incentives are acceptable, subject to existing criteria
+- Family Member Purchase: Acceptable to purchase BTL property from family member, as long as deposit is sourced from applicant's own resources and property is purchased at full market value
+- Gifted Deposits: Can't accept gifted deposits, even if from different family member to customer
+- Family Member Letting: BTL properties can't be let to family member
+
+COUNTY COURT JUDGEMENTS (CCJS)
+-------------------------------
+- Credit History Question: Please answer 'Yes' to credit history question if any customer has had County Court Judgement (CCJ) or default registered against them, or their business if they're self-employed, within last six years
+- Consideration: CCJs are generally considered in credit scoring
+- Background Details: Background details will be needed for application
+
+CREDIT SCORE DECLINE APPEALS
+-----------------------------
+- Process: All applications will be credit scored
+- Right to Appeal: Customers have right to appeal if application is declined because it doesn't pass credit scoring
+- Scenarios When Appeal Might Be Successful:
+  * Porting application with no additional borrowing
+  * BFPO Address - client is in British Armed Forces and living at BFPO address
+  * Victim of fraud - fraud's been reported to police and Credit Industry Fraud Avoidance system (CIFAS) and has its own crime reference number
+  * Adverse credit data registered in error - error by Lloyds Banking Group can be proven
+- Non-Lloyds Banking Group: If adverse information has been registered on non-Lloyds Banking Group product, appeal can't be submitted - customer should arrange for credit file to be corrected before new application is submitted
+- Other Scenarios: For any scenario outside of these, unlikely to change decision
+
+DEPENDANTS
+----------
+- Definition: A dependant is anyone who relies on customer financially - won't be included on mortgage or contribute to monthly payments
+- Separation: Child and adult dependants need to be captured separately
+
+Child Dependants:
+- Definition: Any children under 18 who customers are primary carer for
+- Include: Should also include any children they're expecting or in process of adopting
+- Exclude: Foster children or any children who have income they can fully support themselves with don't need to be included
+- Child Maintenance: Must be keyed as outgoing commitment, but child doesn't need to be included as dependant
+
+Adult Dependant:
+- Definition: Someone not included in mortgage but is financially reliant on customer - could be spouse/partner, elderly relative, or any grown-up children in full-time education or unemployed
+- Living Arrangements: If adult dependant doesn't live at property all of time, still key this in adult dependant section
+- Never Lives at Property: If adult dependant doesn't ever live at property, must not be keyed as dependant, but related costs must be keyed as total figure in 'Other commitments'
+
+DEPOSITS
+--------
+- Requirement: Source of all customer deposits must be captured, and proof must be retained for all buy to let applications, other than remortgages
+- Source: Deposit should come from customers' own resources
+- Builder's Deposit: Builder's deposit of up to 5% of purchase price is allowable on new build property applications if LTV is 75% or less - valuer must be aware of any incentive and make note of it in valuation report
+- Verification: For certain applications, need to verify deposit - evidence will also be needed if application needs underwriter review, and/or message is displayed at DIP submission and additional requirements section of Submit application results screens at full application
+
+Not Acceptable as Deposit Sources:
+- Any deposit coming from business current account, business loan, or directors' loan account
+- Vendor gifted deposits
+- Personal loans
+- Second charges
+- The Forces Help to Buy scheme (Long Service Advance of Pay) for military personnel
+
+Acceptable as Deposit Sources (as long as can be verified):
+
+Equity:
+- Credit File: Should confirm mortgage already exists
+- No Mortgage on Credit File: If no mortgage can be confirmed on credit file, request copy of most recent mortgage statement - must be dated within last 12 months
+- Sales Details: Will also request sales details for property to verify its value
+- Remortgaging with BM Solutions: If customer is remortgaging or taking further advance on existing property with BM Solutions, and funds will be used as deposit, need to view funds in account or offer guaranteeing lending
+
+Gift:
+- Source: Gifted deposits only acceptable from family - must be non-repayable
+- Restrictions: Property can't be let out to, or purchased from, family member
+- Evidence: Evidence of source of deposit must be kept on record in all cases
+- Family Member Purchase: Purchases between family members are acceptable, as long as property's sold at market value and buyer is UK resident - deposits for these types of sale can't be gifted
+- Letter Requirement: Need signed letter written by donor within three months of mortgage application
+- Letter Must Include:
+  * BM Solutions/Birmingham Midshires address
+  * Address of property being bought
+  * All customers' names
+  * Donor's full name and address, and relationship to customer
+- Letter Must Confirm:
+  * Deposit amount
+  * That donor understands deposit is non-repayable and they'll hold no interest in property after mortgage completion
+- Bank Statement: Must also provide latest UK bank statement or passbook showing evidence of deposit funds in donor's or customers' UK bank account - alternatively, letter from donor's or customers' UK bank confirming funds are available can be provided
+- Additional Documents: Additional statements or other documents can be requested if needed
+
+Family Member Definition: Someone who is related to at least one of customers:
+- by birth/blood relative
+- by marriage or civil partnership, including step-children, adopted children and in-laws
+- as common law' partners or co-habitants
+
+Acceptable Family Members:
+- Parents, step parent, parents in laws
+- Brothers and sisters, half brothers and sisters, step brothers and sisters, brother and sister in laws
+- Grandparents, step grandparents
+- Auntie/Uncle (related by blood), Niece/Nephew
+- Partners living with applicant either common law or co-habitee
+- Applicants' children, step children, son and daughter in laws and adopted children
+
+Not Acceptable:
+- Family Friend
+- Employer
+- Developer/Landlord
+- Auntie/Uncle (related via marriage)
+- Cousins
+- Foster/Guardian children
+
+Inheritance:
+- Evidence: May request up-to-date UK bank statements or passbook showing evidence of inheritance, if needed
+
+Previous Property Sale:
+- Guidance: Use guidance in Equity or Savings sections
+
+UK Savings:
+- Requirement: If requested, need to provide current account, ISAs, or savings account statements as minimum
+- Statements: Must show at least three months' statements or latest annual statement with customers' names, sort code, account number and provider name clearly visible
+- Closing Balance: Latest statement must show closing balance covering deposit required
+- Large Deposits: If there are any recent large or unusual deposits into account, need to confirm where they came from - might mean obtaining further documents
+- Business Account: If funds are from business account, must obtain confirmation from company accountant that withdrawal won't have negative impact on business
+
+Shares:
+- Required:
+  * Certified copy of Share Certificate showing customers' name and address
+  * Evidence of current share value calculation showing value of shares
+
+Premium Bonds:
+- Required:
+  * Premium bond certificate showing name of customer and value of premium bonds held
+  * Additional documents to verify customer's name and address is same as customer named on certificate
+
+Passbooks:
+- Requirements:
+  * Should show customers' names and account numbers
+  * Should be in same name as at least one of customers named on new mortgage
+  * Should show at least latest three months' transactions and closing balance must cover deposit required
+- Large Deposits: If there are any recent large or unusual deposits into account, need to confirm where they came from - might mean obtaining further documents
+
+FIRST-TIME BUYER/FIRST-TIME LANDLORD
+-------------------------------------
+Sole Applications:
+- Requirement: Applicant must own property in UK in their own name
+- Validation: Will need to be validated before offer can be made
+
+More Than One Applicant:
+- Requirement: At least one applicant must own property in UK in their own name
+- Validation: Will need to be validated before offer can be made
+- Other Applicants: All other named applicants can be first time buyers
+- Validation Method: In most cases, will validate property ownership with credit search on applicant
+- Additional Evidence: If can't do this or property is unencumbered, might ask for more evidence
+
+Acceptable Documents:
+
+England and Wales:
+- Land Registry certificate dated within last three months, which must show at least one of applicants' names
+- Copy of recent mortgage statement dated within last three months, which must show at least one of applicants' names
+- Copy of mortgage statement over three months old plus last three months bank statements confirming payment - both must show at least one of applicants' names
+
+Scotland and Northern Ireland:
+- Land Registry certificate dated within last three months - must show at least one of applicants' names (if no date on certificate, proof this was requested within last three months is acceptable from Land Registry or solicitor)
+- Copy of recent mortgage statement dated within last three months, which must show at least one of applicants' names
+- Copy of mortgage statement over three months old plus last three months bank statements confirming payment - both must show at least one of applicants' names
+
+LETTING CRITERIA
+----------------
+Tenancy Types:
+- Single assured shorthold tenancy in England
+- Occupation contract in Wales
+- Private residential tenancy in Scotland
+- Private tenancy in Northern Ireland under provisions of Private Tenancies (Northern Ireland) Order 2006
+
+Tenancy Term:
+- Minimum: 6 months
+- Maximum: Normally 36 months
+- Maximum (Extended): Maximum tenancy of five years acceptable under Dept for Levelling Up, Housing and Communities (DLUHC) model agreement of September 2014 (or as amended) or Scottish Equivalent
+
+Remortgage Requirement:
+- Tenant Required: BTL remortgage application can't be started without tenant in place
+- Tenancy Agreement: Tenancy agreement must also be in place
+- About to Start: If tenancy is about to start, applicant must have tenancy agreement dated within 14 days of application confirming expected rental income
+
+Corporate Let:
+- Acceptable: Property can be let to company on corporate let
+- Maximum Term: 12 months
+- Renewal: Consent isn't needed to renew tenancy
+- Occupiers: Occupiers need to be named on tenancy and must be employees of tenant company
+
+Number of Tenants:
+- Maximum: Maximum number of unrelated tenants is five
+- Requirement: They must all be named on agreement
+- Responsibility: Landlords' responsibility to make sure all legislation is complied with, including (but not restricted to) legislation relating to Tenancy Deposit schemes and HMOs (Houses in Multiple Occupation)
+- Larger Properties: For larger properties, where there is potential of more than five lettable rooms, valuer must be satisfied property and local market reflects single family letting arrangements
+- HMO Licensing: Properties subject to Local Authority Homes in Multiple Occupation (HMO) licensing might be acceptable, subject to valuer's assessment of suitability based on requirements
+
+Not Acceptable Tenants:
+- Asylum seekers
+- Persons who have or might acquire diplomatic immunity
+- Social landlords, such as housing associations
+- Holiday lets
+- Rent act protected tenants
+- Agents of any of above
+- Family members
+
+Tenancy Agreement Requirement:
+- Must provide that assignment or sub-lettings to tenants in these categories are not allowed
+
+Other Restrictions:
+- Multiple Tenancies: Multiple tenancies, where each tenant signs separate agreement, aren't acceptable
+- Scotland: If property is in Scotland, landlord must register with relevant local authority
+- Leaseback: Leaseback and sale properties aren't acceptable
+- Limited Company/Trust: Limited company purchases or Trust Deed applications aren't acceptable
+- Occupancy Restrictions: Property can't have any occupancy restrictions
+- Second Charge: Applications won't be accepted where second charge is being completed at same time as BTL application
+
+LENDING LIMITS
+--------------
+- Overall Lending Limit: £5,000,000 lending limit applies to all Buy To Let, Let To Buy, consent to let, second home loan, and House 2 House borrowing across Retail division of Lloyds Banking Group
+- Maximum Loan on Individual Properties:
+  * 65% LTV between £1,000,000 and £2,000,000
+  * 75% LTV up to £1,000,000
+  * 80% LTV available for lending up to £350,000, including all fees, on EPC rated properties A-C
+- New Build: Includes New Build properties and there is no variation in LTV limits for flats
+- Maximum Properties: Maximum of 10 properties applies to all let to buy, buy to let, consent to let, and House 2 House lending across Retail division of Lloyds Banking Group (consists of Bank of Scotland, Birmingham Midshires, TMB, Halifax, Intelligent Finance, Lloyds Bank, C&G, and Scottish Widows)
+- Over 10 Properties: Where more than 10 properties are held, no additional borrowing is allowed
+- Minimum Loan Amount: £25,001 (for further advances, minimum loan amount is £5,000)
+- Combined LTV: Certain buy to let deals have lower max LTV - where deal with lower LTV is combined with deal with higher LTV, lower LTV will apply to whole loan
+
+MIN/MAX AGE
+-----------
+- Minimum Customer Age: 21
+- Maximum Age: Eldest customer must submit application before their 75th birthday
+- End of Term: Must be no older than age 80 at end of mortgage term
+
+MIN/MAX TERM
+------------
+- Maximum Term: 40 years
+- Age Restriction: Term must not exceed eldest applicant's 80th birthday
+- Minimum Term: Must not be less than selected product term
+
+MORTGAGE ARREARS
+----------------
+- Credit History Question: Must answer 'Yes' to credit history question if any customer has been in arrears in last six years with any mortgage borrowing or ever had property repossessed
+- Consideration: Applications where previous mortgages have been in arrears will be considered on individual basis
+
+MORTGAGE-FREE/UNENCUMBERED PROPERTIES
+-------------------------------------
+- Treatment: Loans on mortgage-free properties are treated like remortgages
+- Eligibility: Applicant is eligible for remortgage deal and incentives, such as free property assessment and legal service
+- Keying Instructions:
+  * Select 'Remortgage' or 'Remortgage - own conveyancer' as appropriate in dropdown list for application type
+  * Answer 'Yes' for all applicants to 'Is the property to be mortgaged, mortgage free?'
+- Ownership Requirement: Property must have been registered in at least one of applicants' names for minimum of six months
+
+NOTIONAL STRESS RATES
+---------------------
+- Assessment: Lending amounts are either assessed using actual or anticipated rental income from property only using stress rates and rental cover ratios or top slicing where will consider personal income alongside rental income
+
+PORTFOLIO LANDLORDS
+-------------------
+- Definition: Portfolio landlord application is where applicants' have four or more mortgaged BTL properties, including new transaction - based on total number held by everyone named on application
+- Example: Two applicants buying property together - Applicant 1 has two mortgaged BTL properties, applicant 2 has one mortgaged BTL property - in total they'll have four properties between them, including one they're buying together, so application is classified as portfolio landlord
+- Included: Mortgaged BTL properties include those held in personal name, limited company name, or any other legal entity
+
+Our Process:
+- Submit all applications online at BM Solutions
+- Question will be asked to find out number of mortgaged BTLs on application
+- 3 or less, including new application, will continue as current process
+- 4-10, including new application, will need proof of income and supporting documents to be uploaded
+- If mortgaged properties within portfolio are held in limited company, need latest mortgage statement or mortgage offer, if completed in last 12 months
+- Full information about portfolio must be keyed
+
+Information Needed Includes:
+- Addresses
+- Year built and year of purchase
+- Original purchase price
+- Gross monthly rent
+- Estimated property valuation
+- Whether property is leasehold, managed, and mortgaged
+
+- Progress: Application will not progress until all of above has been fully completed - including completion of portfolio details screen in full application
+
+Portfolio Landlords Criteria:
+- Maximum Properties: No more than 10 BTL mortgaged properties, including new application
+- Minimum Income: Minimum income of £30,000 each application from employment, self-employment, property portfolio profit, or pension/investment income
+- Maximum Aggregate Portfolio: 75% LTV (based on entire portfolio, including acquiring property and any unencumbered let property)
+- Minimum Aggregate Portfolio Rental Cover Ratio: 145% stressed at 5.5%
+- Property Criteria: Property must meet standard criteria
+- Calculator: Please check maximum amount customer can borrow using rental income calculator
+
+Unencumbered Let Properties:
+- Not Included: These aren't included in total mortgaged BTL properties
+- Declaration: But rent and property value must be declared in property schedule and portfolio details sections of application
+
+Finance Costs:
+- Tax Relief: Since 06 April 2020, tax relief on finance costs for landlords of residential properties is restricted to basic rate of income tax, regardless of which tax band landlord falls into
+- Tax Calculation: Accordingly, profit from land and property as it appears on tax calculation no longer has finance costs deducted
+- Input: Need to input latest year's finance costs on application
+
+Portfolio Landlord Help and Support:
+- Contact: If need any help with application, get in touch with specialist team - will get own dedicated case handler, who will contact once application is submitted
+- Call: 0345 6020914
+
+REMORTGAGE AND CAPITAL RAISING
+------------------------------
+- Ownership Requirement: For remortgage applications, including unencumbered properties, customer must have owned property for minimum of six months
+
+Not Acceptable Reasons for Capital Raising:
+- Gambling
+- Capital injection into business
+- Business start-up
+- Timeshare purchase
+
+Acceptable Capital Raising:
+- Deposit for BTL Purchase: Will allow capital raising for deposit for BTL purchase in personal or limited company name
+- Evidence: Underwriters might ask for evidence of how funds will be used if they have any concerns
+
+REPAYMENT METHODS
+-----------------
+- Acceptable: Repayment, interest only, or combination of both are acceptable
+- Requirement: Must tell us interest only elements will be repaid
+
+================================================================================
+5. PROPERTY
+================================================================================
+
+BUILDER CASH INCENTIVES
+-----------------------
+- Examples: Deposit contributions, cash-backs, contribution to legal fees/stamp duty, and mortgage subsidies
+- Acceptable: Usually acceptable if value isn't more than 5% of lower of purchase price or valuation
+- Higher Incentives: Cash incentives more than this might mean lower maximum loan amount is available
+- Declaration: All builder cash incentives must be declared at point of sale
+- Lending Decision: All lending decisions are based on either valuation or purchase price, whichever is lower
+
+BUY TO LET PROPERTY ADDRESS
+---------------------------
+- Requirement: Buy to let property address must not be same as customers' correspondence address
+
+CLADDING
+--------
+Properties in England and Wales:
+- EWS1 Form: Properties in buildings five storeys or higher no longer need External Wall System (EWS1) form in order to progress application
+- Remediation Work: Will also consider applications on properties where cladding remediation work is needed but not yet completed
+- Lower Buildings: EWS1 forms might still be needed for buildings four storeys or lower - surveyor will advise when External Wall System (EWS1) form is required to confirm status of external wall system and any applicable attachments e.g. balconies on multi occupied, multi storey buildings of any height
+
+Properties in Scotland and Northern Ireland:
+- EWS1 Form: Will still need EWS1 form regardless of height
+- Sourcing: Customers will have to source EWS1 form themselves
+- Responsibility: Building owner and/or agent is responsible for confirming external wall system or attachments, such as balcony, on buildings containing flats has been assessed by suitable expert
+- Professional: EWS1 form must be prepared by qualified independent professional - must be member of one of professional bodies listed by RICS
+- Confirmation: Can't confirm if property is acceptable until valuation has been instructed
+- Purchase Cases: For purchase cases, special condition will be added to mortgage offer to instruct conveyancer to advise customer offer has been made based on information in EWS1 - will also make sure customer knows neither BM Solutions nor surveyor are liable for information in EWS1 form
+
+New Build High Rise Blocks:
+- England and Wales: The Building (Amendment) Regulations 2018 or local equivalent can be used for new builds over six storeys or 18 metres high - conveyancer will need to confirm this has been used by building owner or agent
+- Scotland: This applies to new builds of four storeys or 11 metres high in Scotland
+- Alternative: If this can't be confirmed, please follow EWS1 process
+
+CONDITION
+---------
+- Requirement: Property must be habitable, readily lettable or saleable, and structurally sound
+- Insurance: Buildings insurance also needs to be able to be arranged on it
+
+CONSTRUCTION
+------------
+- Location: Property must be in UK under UK legal jurisdiction
+- Assessment: Property acceptability is based on satisfactory valuation report from bank's appointed valuer
+- Non-Standard Construction: Non-standard construction will be assessed on individual merit
+- PRC Construction: Certain types of pre-cast reinforced concrete (PRC) construction are classed as defective - might not accept it unless it's been repaired
+- Valuer Guidance: Will be guided by suitability of all mortgage properties by valuer
+
+Acceptable:
+- Adjoining Property Purchases: Adjoining property purchases are acceptable, subject to valuer's comments
+- Properties with Annexes: Properties with annexes are acceptable as long as annexe forms part of main title - there should also be no separate tenancy agreement in place for annexe
+- Studio Flats: Studio flats are acceptable subject to valuer's comments - there is no minimum size requirement
+- Flats Above/Next to Business: Flats above/next to business not owned by same person are subject to valuer's comments
+
+Not Acceptable:
+- Houseboats and Mobile Homes: Houseboats and mobile homes/park homes aren't acceptable
+- Right to Buy/Shared Ownership: Right to Buy/Shared ownership applications aren't acceptable
+- Large Conversions: If flat is part of conversion, where total number of flats in scheme is above eight, valuer must confirm whole conversion project has been or will be completed to high standard
+- Flats Above Own Business: Flats above/next to business owned by same person aren't acceptable
+
+DISTRESSED SALE AND LEASEBACK
+------------------------------
+- Not Acceptable: Applications involving distressed sale, or sale and leaseback aren't acceptable
+
+ENERGY PERFORMANCE CERTIFICATE
+------------------------------
+- Definition: Energy performance certificate (EPC) gives domestic properties energy-efficiency rating from A to G
+- Validity: EPC is valid for 10 years - if property is sold in that time, EPC can be used by new owner
+- Minimum Rating: Properties in England, Northern Ireland, Scotland, and Wales must have valid EPC rating of E or above
+- F or G Ratings: Purchase, remortgage, and Let to Buy applications on properties with F or G EPC ratings are only allowed where registered exemption is in place
+- Further Advances: Do not accept further advance applications where EPC rating is F, G or exemption is in place, except when purpose of loan is for BTL repairs
+- Product Transfers: Product transfers are exempt
+- New Build: For new build properties, use Predicted Energy Assessment (PEA) or Standard Assessment Procedure (SAP) rating if no EPC is available
+- Exemptions: If property is exempt, evidence isn't needed unless requested
+- Evidence: Evidence of EPC, PEA, SAP, or exemption evidence should be kept on file
+
+EXPOSURE LIMITS
+---------------
+- Assessment: When site is assessed as suitable for lending, will no longer apply initial cap on lending exposure
+- Monitoring: Will continue to monitor applications (exposure) as development progresses and might restrict further lending if concerns arise
+- Site Restrictions: There might be small number of sites where decide not to lend on because of specific market or site conditions
+
+FREE VALUATIONS
+---------------
+- Free Valuation Selected: If free valuation is selected as part of product incentive, appeal process on property valuation isn't available
+- Rental Valuation Appeal: If want to appeal rental valuation on BTL remortgage application, please contact BM Solutions
+
+HOUSES IN MULTIPLE OCCUPATION
+------------------------------
+- Acceptable: Properties subject to Local Authority Homes in Multiple Occupation (HMO) licensing might be acceptable, subject to valuer's assessment of suitability based on requirements:
+- Maximum Tenants: Maximum number of unrelated tenants is five - they must all be named on agreement
+- Responsibility: Landlords' responsibility to make sure all legislation is complied with, including (but not restricted to) legislation relating to Tenancy Deposit schemes and HMOs
+- Property Suitability: Property must be suitable for standard residential occupation
+- Not Acceptable: Institutional type properties, for example hostel accommodation/bedsits/shared accommodation comparable to halls of residence, aren't acceptable
+- Larger Properties: For larger properties, where there is potential of more than five lettable rooms, valuer must be satisfied property and local market reflects single family letting arrangements
+- Tenancy Types: Property can be let on single assured shorthold tenancy in England and Wales, private residential tenancy in Scotland, and private tenancy in Northern Ireland - tenancy in Northern Ireland must comply with provisions of Private Tenancies (Northern Ireland) Order 2006
+
+INHERITED PROPERTIES
+--------------------
+- Acceptable: Will accept remortgage on inherited property where applicant is beneficiary, but hasn't owned property for six months
+- Requirement: Probate must have been granted before application and written confirmation of inheritance of property and grant of probate is needed from customer's conveyancer
+
+JAPANESE KNOTWEED
+-----------------
+- Acceptable: Will lend if valuer confirms property is suitable mortgage security and provides present condition valuation figure
+- Assessment: To assess property, valuer will need report outlining issues and quote from treatment company
+- Treatment Company: Company must either be member of Property Care Association or offer warranty-backed treatment plan
+- Treatment Duration: If treatment is needed, it's often over 3-4 years
+
+NEW BUILD
+---------
+- Definition: Initial occupancy/new build property is classed as any property being occupied and/or sold for first time on open market in its current state - also includes newly converted and refurbished properties
+
+Categories:
+- Newly built property
+- Refurbished property - usually as initial occupancy where vendor is builder/developer and property has been vacated, so it can be refurbished
+- Newly converted property - example is barn or warehouse converted into residential flats or houses
+- Property, either new or converted, that's been tenanted and is now offered for sale for first time on open market by builder/developer
+
+Building Standards Indemnity Scheme:
+- Requirement: Property must have Building Standards Indemnity Scheme from warranty provider accepted by Lloyds Banking Group
+
+Acceptable Warranty Providers:
+- ABC+
+- Advantage HCI
+- ARK Insurance
+- Building LifePlans Ltd (BLP)
+- Buildzone
+- Checkmate
+- Global Home Warranties
+- HomeProof (previously Aedis)
+- International Construction Warranties (ICW)
+- NHBC
+- One Guarantee
+- Premier Guarantee - includes LABC New Homes Warranty and LABC Hallmark
+- Protek
+- Q Assure Build
+
+Monitoring by Consultant:
+- For property to qualify as acceptable for monitoring by consultant, it must be either:
+  * Single detached property - either self-built or otherwise - where construction is monitored by consultant employed directly by customer
+  * Property built by self-build group, where construction is monitored by consultant employed by that self-build group
+  * Property forming part of small, solely residential development of not more than 15 units in total, where construction is monitored by consultant employed by builder or developer - if flats/maisonettes are involved, each individual flat/maisonette counts as one property - developments containing more than 15 units need acceptable form of building standards indemnity
+
+REVISED PROPERTY DETAILS
+------------------------
+- Address Change: If purchase property address changes once mortgage application has been made, and customer's original mortgage product has been withdrawn, new deal from current range must be selected
+- Amendment: If property being purchased isn't changing but amendment is needed to address keyed, such as property number or street name, this must be changed by BM Solutions before completion - please contact to make this change
+
+SCOTTISH VALUATIONS
+-------------------
+- Not Acceptable: Can no longer accept re-type/transcription reports from Generic Mortgage Valuation Report (GMVR) with valid Home Report
+- Clarification: For further clarification, please contact BDM
+
+SUB-SALES AND BACK-TO-BACK TRANSACTIONS
+----------------------------------------
+- Not Acceptable: Sub-sales and back-to-back transactions aren't acceptable
+- Ownership Requirement: Current vendor must have owned property for at least six months before can accept application to purchase property
+- Exception: Exception to this is if property is inherited and customer hasn't owned it for six months
+- Ownership Calculation: Use date of registration at Land Registry to work out length of ownership
+- Definition: Back-to-back transaction is type of sub-sale where intervening seller buys from original seller and sells on to borrower on same day or within few days - also class cases where seller acquires freehold - or superior leasehold - title to property, and immediately sells on to borrower by grant of lease or sub-lease as sub-sales
+
+Acceptable Sales Within Six Months:
+- Personal representative of registered proprietor
+- Institutional mortgagee exercising its power of sale
+- Receiver, trustee-in-bankruptcy or liquidator
+- Developer or builder selling property acquired under part-exchange scheme
+- Registered housing provider or housing association exercising power of sale
+
+- Conveyancer Responsibility: Conveyancer will be responsible for making sure application meets acceptable criteria
+- Assignable Contracts: Applications involving assignable contracts or irrevocable powers of attorney in favour of intervening sellers aren't acceptable - should tell BM Solutions about any other transaction structure with similar effect
+
+TENURE
+------
+- Acceptable: Freehold and leasehold houses are acceptable
+- Minimum Lease: Leasehold properties must have minimum of 70 years left on lease at application
+- Conversions: If property's been converted into no more than four units or is within purpose-built block, any leases should already be in place and not created at same time as mortgage application
+
+Leasehold - Applicant Does Not Own Freehold or Share of Freehold:
+- Conveyancer: Conveyancer will make sure lease meets standard requirements
+
+Leasehold - Applicant Owns/Will Own Freehold of Whole Building on Completion:
+- Charge Registration: Charge must be registered on freehold of whole building and leasehold interest of unit
+- Conveyancer: Conveyancer will make sure lease meets standard requirements
+- Name Requirement: Mortgage must be in same name as freehold and leasehold titles
+- Not Acceptable: Not acceptable to hold freehold in Ltd company with customer as sole director, majority shareholder, or with any family member
+- Ownership Limit: Only acceptable for customer to own one unit in whole building, including any new application
+
+Leasehold - Applicant Owns/Will Own Share of Freehold of Whole Building on Completion:
+- Charge Registration: Charge must be registered on leasehold interest only
+- Conveyancer: Conveyancer will make sure lease meets standard requirements
+- Ownership Limit: Only acceptable for customer to own one unit in whole building, including any new application
+
+Freehold:
+- Security: Security will be registered on freehold of whole building and processed as freehold house
+- Ownership: Applicant must own freehold in their own name
+- Name Requirement: Mortgage and freehold title must be in same name
+- Not Acceptable: Not acceptable to hold freehold in Ltd Company with customer as sole director, majority shareholder, or with any family member
+- Other Units: All units other than freehold unit on which lending must have minimum lease of 70 years
+- Ownership Limit: Only acceptable for customer to own one unit in whole building, including any new applications
+
+Developments of More Than Four Units:
+- Tenure: Tenure must be leasehold
+- Management Company: Management company must be in place
+- Share in Management Company: Customer can hold share in management company
+- Conveyancer: Conveyancer will make sure arrangements in connection with management company are acceptable
+- Charge Registration: Mortgage must be registered on leasehold title
+
+UNACCEPTABLE CONSTRUCTION TYPES
+-------------------------------
+- Timber or metal framed buildings where cavity has been retrospectively filled with insulation material
+- Concrete walls built in Cornwall or Devon before 1950 - or 1960 for postcodes PL12, 13, 14, 15, 17, 18, 22, and 23, where valuer has recommended Mundic report, and concrete test has classified it as class B or C
+- Unrepaired, designated defective properties under Housing Act 1985, Housing (Scotland) Act 1987, Housing (Northern Ireland) Order 1986
+- Large panel system type lats or maisonette blocks without acceptable structural appraisal
+- Load bearing panels made of asbestos or gypsum plaster
+- Structurally unsound or uninsurable properties
+
+USE OF PROPERTY
+---------------
+- Not Acceptable: Following property types aren't acceptable as security:
+  * Dwelling on single title must not be split into separate units of accommodation, such as house converted into two flats, so each flat would need its own title
+  * Property purchased from and let to same family member
+  * Bedsits
+  * Commercial property
+  * Ex-local authority flats, unless majority of building is owner-occupied
+  * Farms or property with land subject to commercial agricultural use
+  * Live/work units
+  * Mobile homes/houseboats
+  * Property assessed as unsuitable security by valuer
+  * Property with restricted occupancy
+  * Property designated defective under Housing Defects Act 1984
+  * Properties where buildings insurance can't be arranged
+  * Right to Buy/Shared ownership applications
+  * Timeshares
+  * Properties with Energy Performance Certificate (EPC) rating of F or G with no registered exemption in place
+
+VALUATION
+---------
+- Minimum Property Value: Minimum acceptable property value or purchase price is £50,000 - whichever is lower
+- Validity: Mortgage valuation is valid for 12 months
+- Revaluation: If mortgage doesn't complete within 12 months of valuation being carried out, new valuation will be needed - will advise if new valuation fee is also needed
+
+================================================================================
+6. EXISTING CUSTOMER
+================================================================================
+
+ARREARS
+-------
+- Further Advances: Can't accept further advance applications if mortgage has been at least one month in arrears within last three months
+- Advice: Need to advise customer to bring account up-to-date with no arrears for at least three months before re-applying
+- Product Transfers: Standalone product transfers can be processed as soon as account is up to date without need to wait three months
+
+EARLY REPAYMENT CHARGES
+-----------------------
+- Application: Some products have early repayment charges (ERCs) - will apply if customer repays some or all of mortgage in ERC period
+- Overpayment Allowance: For mortgage products with ERCs, up to 10% of amount outstanding can be repaid without having to pay ERC - will use balance as of 01 January of current calendar year to work this out - can change or withdraw this at any time
+- Porting Application: On porting application, any ERC which might apply will be waived or refunded if ERC period ends in next three months
+- Product Transfer: On product transfer application, any ERC which might apply will be waived or refunded if ERC period ends in next four months
+- Timing: Can't start product transfer application more than four months before ERC period ends
+- Multiple Sub-Accounts: If account has multiple sub-accounts with different ERC periods, can only complete product transfer application on sub-account with ERC expiring soonest
+- Subsequent Transfers: Once application has been submitted and new product has started, will be able to apply for product transfer on other sub-accounts - alternatively, can wait until ERC on all sub-accounts have three months left until expiry and apply for product transfer application on all eligible sub-accounts
+- Overpayments: For product transfers and further advances, ERCs will be charged on any overpayments made over 10%, even if customer is within four months of ERC expiry
+
+FURTHER ADVANCES
+----------------
+- Minimum Amount: Minimum further advance amount is £5,000
+- Product Requirement: When applying for further advance, product chosen must be from same scheme as main borrowing - BTL or LTB
+- EPC Rating: Do not accept further advance applications where EPC rating is F, G or exemption is in place, except when purpose of loan is for BTL repairs
+- Timing: Further advances can't be taken within 6 months of completion of original mortgage
+- Subsequent Advances: Further advance must have completed at least 12 months ago before new further advance application can be taken
+
+Arrears:
+- Requirement: If customer hasn't made normal monthly payment and is in arrears, can't apply for further advance until arrears have been cleared
+- Payment History: Payments must also be made in full, on time for three consecutive months
+- Product Transfer: Further advance and product transfer can't be applied for at same time - if product transfer application has been applied for, need to wait until new product has started before further advance application can be submitted
+- Cancelled Transfer: If product transfer application is submitted and subsequently cancelled, need to wait until 1st of following month before applying for further advance application
+
+Acceptable Reasons for Further Advance:
+- See Remortgage & Capital Raising section
+
+Maximum LTV:
+- Total lending on individual property including new further advance:
+  * 65% LTV between £1,000,000 and £2,000,000
+  * 75% LTV up to £1,000,000
+  * 80% LTV available for lending up to £350,000, including all fees, on EPC rated properties A-C
+- Revaluation: Where LTV is over 80% at application based on current index valuation, revaluation and revaluation fee will be needed - lending will be subject to value and rental figure following revaluation
+
+OVERPAYMENTS
+------------
+- Availability: One-off or regular overpayments can be made at any time
+- ERCs: If early repayment charges (ERCs) apply to product, please refer to ERC section for more details
+
+PAYMENT HOLIDAYS
+----------------
+- Not Allowed: Payment holidays aren't allowed
+
+PORTABILITY
+-----------
+- ERC Waiver: Any early repayment charges (ERCs) won't have to be paid on existing BTL mortgage products ported to new application
+- Portability: If product is portable, it will be outlined in original mortgage offer and supporting documentation
+- Remortgage Limitation: Can't port product to remortgage application if property is currently mortgaged
+- Unencumbered Remortgage: Can port to remortgage of unencumbered (mortgage free) property customer already owns or new purchase
+- Own Conveyancer: Porting to unencumbered remortgage can only be done using 'Remortgage own conveyancer' option - can't select free legal service
+- Timing: Where new application is submitted before redemption of current mortgage, product can be ported
+
+ERC Waiver Without Porting:
+- Can also be waived/refunded without porting if:
+  * New mortgage is being taken in last three months of ERC period of current product
+  * Apply for new application on new product within three months of existing BM BTL mortgage being redeemed
+
+PRODUCT TRANSFERS
+----------------
+- Availability: Product transfers are available for non-regulated buy to let and let to buy customers only
+- Not Eligible: Regulated mortgages, including residential customers and regulated buy to let, such as family buy to let aren't eligible for product transfers
+- Eligibility Check: Once product transfer's been submitted, automated eligibility check will be carried out to make sure customers qualify
+- Failure Reasons: If customers don't pass eligibility check, will see on-screen message explaining reason why and what you and/or customers should do next
+
+Reasons Why Customers Might Fail Eligibility Check:
+- Account is regulated mortgage
+- Account is in arrears
+- Account has multiple Direct Debits
+- Account has payment arrangement in place
+- Tenure of property information is missing from account
+- No sub-accounts are available to transfer
+- Account requires review of sub-account balances
+
+Product Transfer Timescales:
+- Submission: Product transfers can be submitted at any time in month
+- Earliest Start: Earliest product transfer can start is 1st of following month
+- Early Start Option: If customer is within last three months of existing product, can choose to start new product early - if select this option, will waive any early repayment charge (ERC)
+- Forward Dating: Can also choose to forward date new product to start after current product has ended
+- Multiple Sub-Accounts: If account has multiple sub-accounts with different ERC periods, can only complete product transfer application on sub-account with ERC expiring soonest
+- Four Months Before: When customer is within last 4 months of existing product, can choose to select new product and forward date new product to start after current product has ended
+
+REGULATED MORTGAGES
+------------------
+- Not Acceptable: No longer accept any changes to existing regulated mortgages held with BM Solutions
+
+This Includes:
+- Residential
+- Buy to let, if let to family member
+- Self-build
+- Self-certified
+- Sub-prime
+- Mortgage plus
+
+- Contractual Changes: Can't offer any contractual changes to existing mortgages including further advances, product transfers, transfer of equity or repayment term/type changes
+- Status: If original mortgage is regulated, status of mortgage will never change
+
+Options:
+- Specialist Remortgage Team: Customer can contact Specialist Remortgage team on 0345 608 0263
+- Whole of Market: Can review whole of market for customer to remortgage to another lender
+
+TRANSFER/PURCHASE OF EQUITY
+---------------------------
+- Guide: Please see Transfer/purchase of equity guide
+
+================================================================================
+7. TOP SLICING
+================================================================================
+
+MINIMUM TOP SLICING CRITERIA
+----------------------------
+- Portfolio Landlord: Portfolio landlord excluded
+- Let to Buy: Let to buy excluded
+- Minimum Income: Minimum income £100k (first two applicants)
+- Minimum Stressed RCR: Minimum stressed 125% RCR - below this, use standard RCR calculation
+- Maximum Stressed RCR: Maximum stressed 145% RCR - Over this, use standard RCR calculation
+
+Retirement Consideration:
+- If customer is within six years of anticipated retirement age or aged 70, whichever is earliest, at time of application:
+- Requirement: Can only consider lending on top slicing basis if they are either in receipt of acceptable pension income or be joint applicant with someone who has sufficient income and isn't within six years of retirement
+
+INCOME AND EXPENDITURE ASSESSMENT
+---------------------------------
+Income Included in Affordability:
+- PAYE - basic, commission, bonus, and overtime
+- Self-employment
+- Pension
+
+Income Excluded from Affordability Assessment:
+- Other income
+- Profit from UK land and property
+- Benefits
+
+Commitments Used to Calculate Affordability:
+- Residential mortgages
+- Loans, credit cards, HP, etc.
+- Financial dependents
+- School fees
+- Childcare costs
+
+PROCESS
+-------
+What to Expect When Submit Top Slicing Application:
+- Calculator: Complete online calculator and work out standard RCR calculation - if application qualifies, 'Top slicing' option and extra sections will be available to complete
+- Results: Calculator results page will update with new borrowing amount once top slicing sections are completed
+- Calculation: System will calculate lending decision using existing income and expenditure fields
+- Proof of Income: All top slicing applications will need proof of income submitting and verifying
+- Discrepancies: Any discrepancies between credit information and what's been keyed, might mean will need more information to make decision
+- Changes: Any changes to application, including valuation changes, will mean reassessment - different amount could be offered, including up to standard rental cover ratio amount
+- Offer: Offer will be produced once income and expenditure has been verified and valuation is complete
+
+INCOME AND AFFORDABILITY
+------------------------
+- Requirement: All sustainable income must be entered online
+- Evidence: All income evidence must be submitted and verified before offer can be issued
+
+Following Income Will Be Used for Top Slicing Assessment:
+
+Employed Income Types (for Top Slicing):
+- Bank Holiday Pay (only if forms part of basic pay and doesn't inflate income) - Main - Basic Annual Income - Latest months payslips
+- Basic Salary (including probationary period of permanent contract) - Main - Basic Annual Income - Latest months payslips
+- Bonus (must not be keyed unless actually been paid) - Main - Annual Guaranteed Bonus - Latest 3 months' payslips (or for incomes received less frequently than monthly all payslips showing this income for latest 2 years)
+- Cash In Hand - Main - Basic Annual Income - Latest months payslip(s) and Bank Statement
+- CEA (Doctors Excellence Award) - Main - Basic Annual Income - Latest months payslips
+- Commission - Main - Annual Regular / Guaranteed Commission - Latest 3 months' payslips (or for incomes received less frequently than monthly all payslips showing this income for latest 2 years)
+- Competency Related Threshold Payment - Main - Annual Guaranteed Bonus - Latest 3 months' payslips (or for incomes received less frequently than monthly all payslips showing this income for latest 2 years)
+- Danger Allowance - Main - Annual Regular Overtime - Latest 3 months payslips
+- Delivery Supplement - Main - Basic Annual Income - Latest months payslips
+- Dividends - For Company Director - Main - Self Employed - See Limited Company Director/Shareholder under Self Employed/Contractors section
+- Employed in Family Business: If less than 25% invested interest and does not receive dividends or net profit as part of reward package (Treat as employed) - Main - Basic Annual Income - Latest months payslip(s), and corresponding bank statement(s)
+- Foster Care Income - Main - Self Employed - Latest 2 years tax assessments
+- Holiday Pay (only if forms part of basic pay and doesn't inflate income) - Main - Basic Annual Income - Latest months payslips
+- Leave of Absence - Main - Basic Annual Income - Latest months payslips
+- Living Wage Allowance - Main - Basic Annual Income - Latest months payslips
+- Long Service Pay - Main - Basic Annual Income - Latest months payslips
+- Market Supplement - Main - Basic Annual Income - Latest months payslips
+- Maternity Pay - providing applicant will return to work on same terms - Main - Basic Annual Income - Latest months payslip(s) received prior to commencement of maternity
+- NHS Banding - Main - Basic Annual Income - Latest months payslips
+- Nursing Bank (Main Income) - Main - Basic Annual Income - Latest 3 months payslips
+- Occupational Sick Pay - Main - Basic Annual Income - Latest months payslips
+- Overtime - Main - Annual Regular Overtime - Latest 3 months payslips
+- Public Holiday Pay (only if forms part of basic pay and doesn't inflate income) - Main - Basic Annual Income - Latest months payslips
+- Stipend (Only acceptable for Clergy) - Main - Basic Annual Income - Letter of confirmation from Religious Order
+- Teaching and Learning Responsibility (TLR) - Main - Basic Annual Income - Latest months payslips
+- Tips - Main - Annual Regular Overtime - Latest 3 months payslips
+- Tronc - Main - Annual Regular Overtime - Latest 3 months payslips
+- Zero Hours Contract (customer must have been employed on zero hours contract for minimum of 12 months with same employer or with different employers but in same type of work) - Main - Basic Annual Income - 12 months' worth of payslips (applies whether applicant is paid weekly or monthly and could consist of P60 plus subsequent payslips to cover full 12 month period)
+
+Pension Income Types (for Top Slicing):
+- Armed Forces Independence Payments (AFIP) - Other - Pension - Private - Latest Bank Statement (where paid gross) or Latest Pension Statement / Latest months payslip(s) or Pension P60
+- Fixed Annuity Payments (Private) - Other - Pension - Private - Latest Bank Statement (where paid gross) or Latest Pension Statement / Latest months payslip(s) or Pension P60
+- HM Forces - Guaranteed Income Payment (GIP) - Other - Pension - Private - Latest Bank Statement (where paid gross) or Latest Pension Statement / Latest months payslip(s) or Pension P60
+- Pension Tax Credits - Other - Pension Credit - Latest Bank Statement or Pension Statement
+- Permanent Health Insurance (PHI) - term must not extend past final payment date for PHI if affordability is based on this income only - Other - Pension - Private - Latest Bank Statement (where paid gross) or Latest Pension Statement / Latest months payslip(s) or Pension P60
+- Private Pension / Private Widowers Pension - Other - Pension - Private - Latest Bank Statement (where paid gross) or Latest Pension Statement / Latest months payslip(s) or Pension P60
+- State Pension - Other - Pension - State - Latest Bank Statement or Pension Statement
+- State Widows Pension - Other - Pension - State - Latest Bank Statement or Pension Statement
+- The Thalidomide Trust Income - Other - Pension - Private - Latest Bank Statement (where paid gross) or Latest Pension Statement / Latest months payslip(s) or Pension P60
+- War Disablement Pension - Other - Pension - War Disablement - Latest Bank Statement or Pension Statement
+- War Widow(er) Pension - Other - Pension - War Widow - Latest Bank Statement or Pension Statement
+
+Self-Employed/Contractors (for Top Slicing):
+- Requirement: All self-employed income must be entered in 'Net profit' to calculate correct affordability - important to enter turnover and gross profit if customer has them - if they don't have or know these figures, please enter £'0'
+- Contractors: For contractors who earn more than £500 per day or £75,000 a year, gross value of contract is calculated as either:
+  * Daily rate on contract x 5 days per week x 46 weeks per year
+  * Hourly rate x 7 hours per day x 5 days per week x 46 weeks per year
+- Contract Hours: If contract states hours are lower than these, please use figures provided
+
+================================================================================
+END OF CRITERIA
+================================================================================

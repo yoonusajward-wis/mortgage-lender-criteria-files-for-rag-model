@@ -1,0 +1,494 @@
+LENDER NAME: Perenna
+PRODUCT: Residential
+
+# Perenna - Residential Mortgage Lending Criteria
+
+**Last Updated:** 2025
+**Source:** Perenna Intermediaries
+**For Intermediaries Only**
+
+---
+
+## Document Information
+
+This document contains comprehensive residential mortgage lending criteria covering all topics from the Perenna Intermediaries website.
+
+**Note:** This is our lending criteria for new applications only. All applications are subject to affordability checks, credit searches, underwriter assessment, and a valuation of the property to be mortgaged. Perenna reserves the right to update and amend our criteria at any time. Meeting the following criteria is not a guarantee that we will lend.
+
+**Website:** https://intermediary.perenna.com/lending-criteria
+
+---
+
+## Table of Contents
+
+This guide contains 8 main sections organized by topic:
+
+
+### Applicant Requirements
+
+1. Applicants
+
+### Credit History
+
+2. Adverse Credit
+
+### Application Details
+
+3. Applications
+
+### Loan Parameters
+
+4. Loan Parameters
+
+### Repayment Methods
+
+5. Repayment Types
+
+### Retirement Lending
+
+6. Lending into Retirement
+
+### Property Requirements
+
+7. Property
+
+### Existing Customers
+
+8. Existing Customers
+
+---
+
+## Applicants
+
+### Address History
+
+* All applicants must provide at least **18 months of UK address history**.
+* **BFPO (British Forces Post Office) and military deployment addresses** (e.g. HM Ships, Naval Parties, Exercises) will count as UK residential addresses. Evidence may be required (e.g. letter from Commanding Officer).
+* If a UK mainland address exists, this must also be declared.
+
+### Number of Applicants
+
+* Maximum of **2 applicants per application**.
+
+### Age
+
+* **Minimum age:** 18 at application.
+* **Maximum age:** No upper limit, but additional criteria apply (see *Lending into Retirement*).
+
+### Nationality & Residency
+
+* Applicants must currently **reside in the UK**, be **tax resident in the UK**, and be **paid in GBP Sterling**.
+* **Minimum 18 months residence in the UK** is required.
+* For applicants without indefinite rights to remain:
+
+  * Main applicant must hold a **Tier 1 or Tier 2 Visa**.
+  * Must earn a minimum of **£50,000 per year** (income requirement applies only to the main applicant).
+  * Visa must have at least **12 months remaining**.
+* **EU/EEA/Swiss nationals** with pre-settled or settled status are accepted if resident in the UK for a minimum of 18 months.
+* **Offshore workers** must:
+
+  * Be UK tax residents,
+  * Paid in GBP Sterling,
+  * Reside in the UK more than 50% of the year.
+
+### Criminal Convictions
+
+* Perenna will **not lend** where there is a criminal record unless it is:
+
+  * A minor traffic offence, or
+  * A conviction that is spent under the **Rehabilitation of Offenders Act 1974**.
+
+### Diplomatic Immunity
+
+* **Not accepted**.
+
+### Vulnerable Customers
+
+* Vulnerable applicants (due to personal circumstances) should be disclosed so Perenna can provide additional support.
+
+---
+
+## Adverse Credit
+
+### General Position
+
+* Perenna aims to originate **prime residential mortgages**.
+* Applications with adverse credit are **generally declined**.
+* Adverse credit includes: arrears, bankruptcy, IVA, defaults, CCJs, repossessions.
+
+### Bankruptcy / IVA / DMP
+
+* Applications declined if bankruptcy, IVA, or equivalent registered within last **6 years** (whether settled or not).
+* Perenna will lend only where bankruptcy/IVA has been discharged for **at least 6 years**.
+
+### CCJs
+
+* Accepted if:
+
+  * Total value ≤ £500 and registered within last 3 years.
+* Declined if:
+
+  * CCJ > £500, or
+  * Any CCJ within last 6 months.
+
+### Arrears
+
+Applications will be declined if there are:
+
+* Current arrears,
+* Any arrears on mortgages or secured loans in last 36 months,
+* Any arrears on unsecured credit in last 6 months.
+
+### Defaults
+
+* Declined where:
+
+  * 2 or more defaults in last 6 years,
+  * Any default in last 6 months,
+  * Original default value > £500.
+
+### Payday / Short-Term Loans
+
+* Any loan opened in the last **12 months** results in decline.
+
+### Notice of Correction / Dispute
+
+* Applications with a credit bureau Notice of Correction/Dispute will be referred to underwriters. Additional evidence may be required.
+
+### Credit Score
+
+* Applicants must meet **Perenna’s internal credit score**.
+* Applicants with thin credit files or adverse history may still be declined even if other rules are met.
+
+---
+
+## Applications
+
+### Back-to-Back Transactions
+
+* Properties bought/sold in the last 6 months are usually declined.
+* **Exceptions** may include probate sales or developer transactions.
+* Lending will be based on **lower of current market value or original purchase/probate value**.
+
+### Builder Incentives
+
+* Maximum of **5%** of purchase price/valuation (whichever is lower).
+* A minimum **5% deposit** from other sources is required.
+* Non-financial incentives (e.g. upgrades) must be proportionate to value.
+
+### Debt Consolidation
+
+* Accepted up to **£1m and 90% LTV**.
+* All commitments (to be repaid or retained) must be included in application.
+* Solicitor will be instructed to clear repaid debts on completion.
+* Perenna will not accept applications reliant on **unsecured debt**.
+
+### Deposits
+
+* All deposits must be held in the UK at application.
+* Acceptable sources:
+
+  * Sale of property, investments, savings, inheritance.
+  * Additional borrowing (if affordability tested).
+  * Online sources (crypto, eGaming) if converted into GBP and held in UK account.
+  * Forces Help to Buy (must be declared as loan commitment).
+  * Builder incentives.
+  * Gifted deposits (close family, subject to Gifted Deposit Form).
+* Gifted deposits allowed from: parents, grandparents, siblings, spouse, godparents.
+* Gifted equity from a landlord may also be acceptable.
+
+### Fees
+
+* Product fees can be added to the loan above the product LTV (max 95%).
+* Loan including fee must remain affordable.
+
+### Loan Purpose
+
+* **Acceptable:**
+
+  * House purchase, remortgage, debt consolidation, Help to Buy repayment, staircasing in Shared Equity, freehold/lease extension, Transfer of Equity, repayment of secured charges, lifestyle purposes (weddings, holidays, cars), land to extend security.
+* **Unacceptable:**
+
+  * Right to Buy, staircasing shared ownership, building plots, timeshares, unfinished properties, freehold share purchases, shares/stocks, currency speculation, gambling, tax payment, business purposes, unethical/unsafe purposes.
+
+---
+
+## Loan Parameters
+
+* **Loan size:**
+
+  * Minimum £25,000
+  * Maximum £1.5m (with underwriter review for >£1m)
+  * New build max: £1m
+
+* **Loan to Value (LTV):**
+
+  * 95% for loans ≤ £750k
+  * 90% for loans ≤ £1.5m
+  * 90% for new build houses (95% with Deposit Unlock ≤ £750k)
+  * 80% for new build flats (95% with Deposit Unlock)
+  * 80% for second homes/holiday homes
+  * 75% if lending into retirement
+
+* **Term:** 10–40 years (subject to product).
+
+* **Offers:**
+
+  * Remortgage: 90 days
+  * Purchase: 150 days
+
+---
+
+## Repayment Types
+
+* **Capital & Interest** – accepted.
+* **Interest Only** – up to 25 years, max 75% LTV.
+
+  * Repayment vehicles:
+
+    * Sale of mortgaged property (min £300k equity in London/South East, £150k elsewhere).
+    * Savings/investments (with 20% stress).
+    * Sale of other property.
+    * Pension lump sum (25% of current value ≥ loan amount).
+* **Retirement Interest Only (RIO):**
+
+  * Minimum age: 50.
+  * Max 75% LTV.
+  * Assessed on interest-only affordability.
+  * Trigger events: sale, death, long-term care, breach.
+  * Independent Legal Advice required for purchases.
+  * Remortgages include fee-assisted legal support.
+  * Must be joint tenancy for joint RIO.
+
+---
+
+## Lending into Retirement
+
+* Standard retirement age = lower of applicant’s declared age or **70**.
+* **Within 10 years of retirement:** affordability based on lower of current or projected retirement income.
+* **More than 10 years from retirement:** affordability based on current income if paying into a pension.
+* **Already retired:** affordability based on retirement income.
+* **LTV capped at 75%** if all applicants ≥65 at application and term extends past age 85.
+* Applicants ≥70 at application must obtain **Independent Legal Advice**.
+
+---
+
+## Property
+
+### Affordability
+
+Affordability is assessed using Perenna's affordability calculator. Please refer to the calculator for specific requirements.
+
+### Buy to Let
+
+Perenna does not offer buy to let mortgages.
+
+### Commercial Usage
+
+Properties where commercial usage exceeds 20% are not acceptable. The commercial element should not extend to light engineering, livestock, rearing or caring for domestic animals. Such use should not include circumstances where clients are seen on the premises on a regular basis (e.g., dental surgery would not be acceptable).
+
+Live/work units are not acceptable.
+
+### Ex Local Authority
+
+Ex local authority properties are acceptable subject to satisfactory valuation and location.
+
+### Flats
+
+Flats are acceptable subject to the following:
+
+* Flats must have a minimum internal area of 30 square meters (studio flats).
+* Flats must be leasehold (freehold flats/maisonettes are not acceptable).
+* Leasehold requirements apply (see Leasehold section).
+
+### Freehold
+
+Freehold properties are acceptable.
+
+### Ground Rent
+
+For leasehold properties, ground rent is to be no more than 0.5% of the property value. Ground rent escalation interval cannot be any less than 10 years. Ground rent escalation must be no more than RPI.
+
+### HMO
+
+Houses in Multiple Occupation (HMO) are not acceptable.
+
+### Holiday Lets
+
+Holiday let properties are not acceptable.
+
+### Leasehold
+
+Leasehold properties are acceptable subject to the following:
+
+* Lease must be a minimum of 85 years remaining at the outset of the mortgage.
+* Ground rent is to be no more than 0.5% of the property value.
+* Ground rent escalation interval cannot be any less than 10 years.
+* Ground rent escalation must be no more than RPI.
+
+Lease extensions and freehold purchases are acceptable if they are simultaneous to completion. Any new lease must meet our leasehold requirements.
+
+Commonhold properties are not acceptable.
+
+### Listed Buildings
+
+Listed buildings are acceptable subject to satisfactory valuation and confirmation that the property is habitable and readily saleable.
+
+### Location
+
+Properties must be located in England, Wales, Scotland, or Northern Ireland.
+
+### New Build
+
+New build properties are acceptable subject to the following:
+
+* Maximum loan size: £1m for new builds.
+* LTV limits:
+  * 90% for new build houses (95% with Deposit Unlock ≤ £750k).
+  * 80% for new build flats (95% with Deposit Unlock).
+* New build warranty required from one of the following providers:
+  * N.H.B.C. guarantee
+  * Premier Guarantee Scheme
+  * Building Life Plan
+  * LABC New Home Warranty
+  * Checkmate Castle 10 New Home Warranty
+  * Build Assure (New Homes Structural Defects Insurance)
+  * Build Zone Structural Warranty
+  * Zurich Municipal
+  * UK FINANCE Compliant Professional Consultants Certificate with proof of PI
+  * Advantage
+  * Aedis Warranties
+  * Global Home Warranties
+  * Protek
+  * ICW
+  * Ark Residential New Build Warranty
+  * The Q Policy
+  * One Guarantee
+
+If your client is looking at a new build mortgage you may want to explore our Perenna Zero Bills, Own New and Deposit Unlock mortgage propositions.
+
+### Nonstandard construction / Modern Methods of Construction
+
+Non-standard and Modern Methods of Construction (MMC) are not acceptable forms of construction unless Valuers consider the build type to be well tested or proven in an area and the construction scheme is BOPAS accredited.
+
+### Property Restrictions
+
+A property that is subject to any planning, occupancy, or resale restriction is usually not acceptable.
+
+Where there is a strong case that saleability is not detrimentally affected, and any restriction is commensurate with the property/location the application can be considered.
+
+In all circumstances these cases should be discussed with Intermediary Support prior to submission and full notes submitted with the case. Referrals will be required to ensure compliance with lending criteria.
+
+### Services and Habitability
+
+Mains electricity must be supplied to the property.
+
+Natural water supplies are acceptable subject to local demand and saleability.
+
+Septic tanks, private sewage systems, reed beds etc are acceptable.
+
+Properties where there are unadopted sewers with known functional or legal issues are not acceptable.
+
+The property must have a central heating system, wall mounted electric heating, or a district heating system. Solid fuel only heating systems are not acceptable.
+
+The property must be immediately habitable with a functioning kitchen and washing facilities as well as working services and must be confirmed by the valuer as habitable and readily saleable.
+
+Specific small works (completion of current repairs, improvements, re-fitting a bathroom or kitchen) can be acceptable, however the property will be valued based upon its current condition and not the 'after works' condition.
+
+### Solar Panels
+
+Solar panels are acceptable if they have been bought outright or subject to confirmation with the acting solicitor that if a lease exists, an adequate break clause of 6 months is in place within the terms of the lease, with no onerous/onward restrictions which could cause issues in the event of possession. Subject to satisfactory valuation report and valuer comment.
+
+### Structural Issues
+
+Where structural movement is evident at the property and not stated as "historic or longstanding" or there is risk of further movement considered probable, an offer cannot be considered until a structural engineer's report has been obtained, referred for comment and reviewed by the valuer.
+
+Reports may be accepted from members of the following bodies:
+
+* The Institution of Structural Engineers (www.IStructE.org.uk)
+* Institution of Civil Engineers (www.ice.org.uk)
+* The Royal Institution of Chartered Surveyors (RICS) – Building Surveyor
+
+If the report is not addressed to the applicant, written confirmation must be obtained from the originator that its contents may be relied upon by the applicant(s).
+
+Ultimately, if a home cannot be insured under normal terms, it is unlikely that it can be easily sold, and existing Insurers will be notified.
+
+Under those circumstances, the mortgage application will be declined.
+
+### Studio Flats
+
+Flats must have a minimum internal area of 30 square meters.
+
+### Sub Letting
+
+AirBnB or similar sub-letting schemes are not acceptable.
+
+### Tenure
+
+We will accept freehold and leasehold properties.
+
+Leasehold properties are subject to the following:
+
+* Lease must be a minimum of 85 years remaining at the outset of the mortgage.
+* Ground rent is to be no more than 0.5% of the property value.
+* Ground rent escalation interval cannot be any less than 10 years.
+* Ground rent escalation must be no more than RPI.
+
+Lease extensions and freehold purchases are acceptable if they are simultaneous to completion. Any new lease must meet our leasehold requirements.
+
+Commonhold properties are not acceptable.
+
+### Unacceptable Property Types
+
+The following property types are not acceptable:
+
+* Any Property designated defective under Part XVI Housing Act 1985 or Pre-Cast Reinforced Concrete (PRC) where the property and the properties either side have not been repaired under a scheme licensed by PRC Homes Ltd.
+* Properties constructed with high alumina cement.
+* Timber framed property with no brick skin/masonry cladding unless it's a MMC supported by BOPAS. Character period properties are considered on individual merits where buildings insurance is available on conventional terms.
+* Pre-1980 steel framed houses. Post 1980 steel framed houses are acceptable subject to a satisfactory structural engineer's report being received or an acceptable new homes warranty provided (if constructed within the last 10 years).
+* Any property containing Mundic concrete.
+* Any property where commercial usage exceeds 20%. The commercial element should not extend to light engineering, livestock, rearing or caring for domestic animals. Such use should not include circumstances where clients are seen on the premises on a regular basis (e.g., dental surgery would not be acceptable).
+* Live/work units.
+* Any property deemed unsuitable security by the valuer which the Underwriter agrees is unsuitable.
+* Any property where there is ongoing movement/monitoring is required.
+* Freehold flats/maisonettes.
+* Mobile homes and houseboats.
+* Any property whose saleability may be adversely affected by local planning or by an unsatisfactory mining search.
+* Properties where Japanese Knotweed has been identified in such a proximity that could impact the building and where there is no managing control of the plant possible (adjacent properties etc).
+* Basement flats.
+* Modern Methods of Construction (MMC) are not acceptable forms of construction unless Valuers consider the build type to be well tested or proven in an area.
+* Properties with deck or balcony access.
+* Properties with leased solar panels.
+
+---
+
+## Existing Customers
+
+### Porting (moving home)
+
+Perenna recognises that existing customers may wish to move home and transfer their mortgage to a different property. Customers can apply to port to a new property after they've had their mortgage with us for 12 months. Our standard lending policy applies to all porting applications.
+
+If the customers wish to take additional borrowing when they move home, their existing balance will remain on their existing product rate however any additional borrowing will need to be taken out at an interest rate available at the time.
+
+### Additional Borrowing
+
+Existing customers who wish to release equity can apply for additional borrowing once they've had their original mortgage with us for at least 12 months.
+
+Our standard lending policy applies to all additional borrowing applications.
+
+### Consent to Let
+
+We understand that customers experience changes to their circumstances and that sometimes they may need to consider measures such as temporarily letting their home. We will consider any requests from customers who want to let out their property, the following policy will apply:
+
+* The customer must provide evidence of monthly rental income. We will require a letter from a reputable letting agent who is either a member of the Association of Residential Letting Agents (ARLA), Member of the Property Ombudsman Scheme or Member of the Royal Institution of Chartered Surveyors (RICS).
+* We will not allow CTL in first 12 months except for armed forces personnel.
+* No additional borrowing, porting, or rate switching will be allowed while within CTL.
+* The interest rate will be increased by 1% for the full duration of the CTL period.
+* There is no maximum period for the CTL arrangement and the interest rate increase can only be removed once Perenna has been notified the property is no longer being let.
+* The rental coverage ratio must be 125% at the customers product rate plus an extra 1%. This is calculated at the current repayment method.
+
+---
+
+## Main URLs
+
+- https://intermediary.perenna.com/lending-criteria

@@ -1,0 +1,459 @@
+LENDER NAME: Bluestone Mortgages
+PRODUCT: Residential
+
+# Bluestone Mortgages - Residential Lending Criteria
+**Source:** https://bluestonemortgages.co.uk/brokers/forms-and-downloads/
+**Product Guide:** https://bluestonemortgages.co.uk/wp-content/uploads/2025/12/Residential_Product_Guide.pdf
+**Last Updated:** December 2025
+
+**FOR INTERMEDIARY USE ONLY**
+
+Bluestone Mortgages Limited is authorised and regulated by the Financial Conduct Authority. Registered in England and Wales No. 2305213 at Floor 10, 40 Leadenhall Street, London, EC3A 2BJ.
+
+**Contact:**
+* **Broker Support Team:** 0800 368 1833
+* **Email:** sales@bluestonemortgages.co.uk
+* **Broker Portal:** https://bluesky.bluestone.co.uk/
+* **Website:** https://bluestonemortgages.co.uk/brokers/
+
+**Office Hours:**
+* Monday to Friday: 9:00am – 5:30pm
+* Calls may be recorded
+
+---
+
+## Overview
+
+Bluestone Mortgages is a specialist mortgage lender that assists brokers in providing support to customers that other lenders may have overlooked. We successfully process cases, even in situations where the high-street lenders might have initially declined.
+
+### Key Product Criteria
+
+* **Up to 5.5x LTI** (Loan to Income)
+* **Limited Edition remortgage products available**
+* **Criteria on completion** - We make our decisions based on your customer's unique circumstances
+* **No credit scoring** - We don't credit score, we assess each case individually
+* **Up to 4 defaults & 3 CCJs allowed** in the last 3 years per applicant (unsatisfied)
+* **Ignore all CCJs & Defaults under £500**
+* **Up to 2 missed payments** per unsecured credit in the last 6 months
+
+### Our Approach
+
+We understand that life can be unpredictable and customers can build up a lot of unsecured debt that can lead to credit issues, such as CCJs, Defaults and Debt Management Plans. This shouldn't hold customers back from achieving their homeownership dreams, which is why we're here to help your customers find the right mortgage solution for their unique circumstances.
+
+---
+
+## Credit Categories for Residential Mortgages
+
+Lending is based on the **lowest credit tier of any individual applicant**. For joint borrowers, the product selection is based on the lowest credit tier of any applicant.
+
+| Credit Category | Clear | AAA | AA | A | BBB |
+|---|---|---|---|---|---|
+| **Up to LTV** | 90% | 85% | 85% | 80% | 75% |
+| **Defaults** | 1 (satisfied) in 36 months | 1 in 36 months | 2 in 36 months | 3 in 36 months | 4 in 36 months |
+| **CCJs Number** | 0 in 36 months | 1 (satisfied) in 36 months | 2 in 36 months | 3 in 36 months | 3 in 36 months |
+| **Missed mortgage / secured loan / rental payments** | 0 in 24 months | 1 in 13 - 24 months | 2 in 13 - 24 months | 3 in 13 - 24 months | 4 in 13 - 24 months |
+| **Bankruptcy / Sequestration / DRO** | >6 years discharged | >3 years discharged | >3 years discharged | >3 years discharged | >3 years discharged |
+| **IVA/Trust Deed** | >6 years discharged | >3 years discharged | >3 years discharged | >3 years discharged | >3 years discharged |
+| **Pay Day Loans** | 0 in 12 months | 0 in 6 months | Current | | |
+
+### Credit Category Notes
+
+#### Defaults
+* 0 in the last 6 months; >36 months ignored
+* < £500, telecom or utilities ignored (even if it's in last 6 months)
+
+#### CCJs Number
+* 0 in last the 6 months; >36 months ignored
+* < £500, telecom or utilities ignored (even if it's in the last 6 months)
+
+#### Mortgage/Rent Arrears
+* 0 in 12 months
+* >24 months ignored
+
+#### Pay Day Loans
+* Payday loan is defined as a loan < 12 months with an APR of at least 39%
+* Includes any revolving credit used in the past 12 months
+* All outstanding Pay Day Loans are to be cleared on or prior to completion
+* Only one applicant can have had a Pay Day loan in the last 12 months
+
+#### Debt Management Plans / Debt Arrangement Schemes
+* Must be due to a life event and conducted satisfactorily
+* **DMP:** OK if still in operation and can remain
+* **DAS:** Must be repaid prior to / upon completion
+
+#### Bankruptcy/IVA
+* The table above reflects our standard appetite for lending to customers with a bankruptcy or IVA
+* However, we may consider customers with a current IVA or a bankruptcy discharged for >1 year on a case-by-case basis
+
+#### Unsecured Arrears
+* Maximum of 5 unsecured credit accounts in arrears at the point of completion
+* The arrears can be ignored in the following circumstances:
+  * If the balance of the loan is <£500
+  * If the account has defaulted or is part of a DMP / DAS
+
+#### Unsecured Arrears (Recency)
+* Arrears disregarded if balance <£500
+* Maximum of 2 missed payments in the last 6 months per credit agreement
+* If balance >£500, the latest payment must have been made
+
+---
+
+## Residential Mortgage Products
+
+### Standard Residential Products
+
+**Purchase & Remortgage**
+
+**Key Features:**
+* £500 contribution to solicitor costs (Remortgages Only)
+* Free basic valuation
+* TT fee £35
+
+**2 Year Fixed Rates:**
+
+| Up to LTV | Clear | AAA | AA | A | BBB | Fee |
+|---|---|---|---|---|---|---|
+| 65% | 5.79% | 5.99% | 6.34% | 6.59% | 6.64% | £1,495 |
+| 70% | 5.89% | 6.04% | 6.39% | 6.64% | 6.69% | £1,495 |
+| 75% | 5.99% | 6.09% | 6.44% | 6.69% | 6.74% | £1,495 |
+| 80% | 6.04% | 6.19% | 6.64% | 6.74% | | £1,495 |
+| 85% | 6.59% | 6.79% | 6.94% | | | £1,495 |
+| 90% | 7.34% | | | | | £1,495 |
+
+**5 Year Fixed Rates:**
+
+| Up to LTV | Clear | AAA | AA | A | BBB | Fee |
+|---|---|---|---|---|---|---|
+| 65% | 5.64% | 5.84% | 6.24% | 6.34% | 6.54% | £1,495 |
+| 70% | 5.69% | 5.89% | 6.29% | 6.39% | 6.59% | £1,495 |
+| 75% | 5.79% | 5.94% | 6.44% | 6.49% | 6.69% | £1,495 |
+| 80% | 5.84% | 6.04% | 6.49% | 6.64% | | £1,495 |
+| 85% | 6.39% | 6.54% | 6.79% | | | £1,495 |
+| 90% | 7.04% | | | | | £1,495 |
+
+**Reversion Rate:**
+
+| Up to LTV | Clear | AAA | AA | A | BBB | Fee |
+|---|---|---|---|---|---|---|
+| 65% | 7.55% (2.30% + BVR*) | 7.69% (2.44% + BVR*) | 7.85% (2.60% + BVR*) | 7.99% (2.74% + BVR*) | 8.15% (2.90% + BVR*) | £1,495 |
+| 70% | 7.55% (2.30% + BVR*) | 7.69% (2.44% + BVR*) | 7.85% (2.60% + BVR*) | 7.99% (2.74% + BVR*) | 8.15% (2.90% + BVR*) | £1,495 |
+| 75% | 7.70% (2.45% + BVR*) | 7.84% (2.59% + BVR*) | 8.00% (2.75% + BVR*) | 8.14% (2.89% + BVR*) | 8.30% (3.05% + BVR*) | £1,495 |
+| 80% | 7.70% (2.45% + BVR*) | 7.84% (2.59% + BVR*) | 8.00% (2.75% + BVR*) | 8.14% (2.89% + BVR*) | | £1,495 |
+| 85% | 8.00% (2.75% + BVR*) | 8.14% (2.89% + BVR*) | 8.30% (3.05% + BVR*) | | | £1,495 |
+| 90% | 8.30% (3.05% + BVR*) | | | | | £1,495 |
+
+**Bluestone Standard Variable rate "BVR":** 5.25%
+
+The rate does not have a direct link to the Bank of England Base Rate (BBR), which is also reviewed regularly. Typically the BVR will move in line with BBR changes, but could also go up or down at any other point in time, as this is a variable rate set by Bluestone Mortgages and reviewed regularly.
+
+### Limited Edition - Remortgage Only
+
+**Special Features:**
+* £500 cashback
+* Free basic valuation
+* TT fee £35
+
+**2 Year Fixed Rates:**
+
+| Up to LTV | Clear | Fee | Reversion rate |
+|---|---|---|---|
+| 65% | 5.69% | £795 | 7.55% (2.30% + BVR*) |
+| 70% | 5.79% | £795 | 7.55% (2.30% + BVR*) |
+| 75% | 5.89% | £795 | 7.70% (2.45% + BVR*) |
+
+**5 Year Fixed Rates:**
+
+| Up to LTV | Clear | Fee | Reversion rate |
+|---|---|---|---|
+| 65% | 5.54% | £795 | 7.55% (2.30% + BVR*) |
+| 70% | 5.59% | £795 | 7.55% (2.30% + BVR*) |
+| 75% | 5.64% | £795 | 7.70% (2.45% + BVR*) |
+
+**Bluestone Standard Variable rate "BVR":** 5.25%
+
+The rate does not have a direct link to the Bank of England Base Rate (BBR), which is also reviewed regularly. Typically the BVR will move in line with BBR changes, but could also go up or down at any other point in time, as this is a variable rate set by Bluestone Mortgages and reviewed regularly.
+
+**Early Repayment Charges (ERC):**
+
+| ERC | Year 1 | Year 2 | Year 3 | Year 4 | Year 5 |
+|---|---|---|---|---|---|
+| 2 Year Fixed | 3% | 2% | | | |
+| 5 Year Fixed | 3% | 2.5% | 2% | 1% | 0.5% |
+
+### Fees Free Benefits
+
+* No product fee
+* Free basic valuation
+* A £500 contribution to Solicitors costs (Remortgages Only)
+
+---
+
+## Loan Criteria
+
+| Loan | Criteria |
+|---|---|
+| **Term** | 5 - 40 years |
+| **Max Loan Amount** | Residential: £1,000,000<br>Clear 90% LTV: £400,000 |
+| **Repayment Type** | Capital & Interest available on all loans |
+| **Mortgage Schemes not accepted** | Homebuy/Key Worker Scheme/HTB in schemes not reported/Shared Equity/Shared Ownership/Self Builds |
+| **Deposit** | From own resources or gifted from close relative* |
+| **Portability** | Not portable |
+| **Fees** | Product fees can be added to the loan regardless of LTV.<br>Restricted to maximum 90% LTV for Residential. |
+
+*A close family member is defined as a parent, child, grandparent, brother, sister, uncle, aunt, foster parent or legal guardian which includes step relatives.
+
+---
+
+## Income Criteria
+
+### Income Multiples
+
+* **Up to 5.5x LTI** (Loan to Income)
+
+### Fees Free: Residential Income Criteria
+
+Fees Free products are available for applicants meeting standard income criteria. Please refer to the product guide for specific income requirements for Fees Free products.
+
+### Residential Income Criteria
+
+#### Employment Income
+
+**Employed applicants accepted** with standard employment income verification.
+
+* Standard employed income accepted
+* Income verification required as per standard underwriting requirements
+
+#### Self Employed Income
+
+**Self Employed applicants accepted** with appropriate income verification.
+
+* Self-employed applicants must provide appropriate income documentation
+* Income verification required as per standard underwriting requirements
+
+#### Contractor Income
+
+**Contractors accepted** with appropriate income verification.
+
+* Contractor income accepted with appropriate documentation
+* Income verification required as per standard underwriting requirements
+
+#### Complex Income
+
+We consider various income types and complex income situations on a case-by-case basis.
+
+* Complex income situations assessed individually
+* Flexible underwriting approach for unique circumstances
+* Please contact Bluestone Mortgages to discuss specific income scenarios
+
+---
+
+## Right to Buy Mortgage Products
+
+Right to Buy mortgages are available with specific criteria and product features.
+
+### Right to Buy Products
+
+Right to Buy products are available with rates and fees specific to Right to Buy applications. Please refer to the product guide for current Right to Buy rates.
+
+### Fees Free: Right to Buy Mortgage Products
+
+Fees Free benefits are available for Right to Buy products:
+* No product fee
+* Free basic valuation
+* A £500 contribution to Solicitors costs (Remortgages Only)
+
+### Right to Buy Criteria
+
+**Additional Documents:**
+* Section 125 RTB Notice will be required to be able to complete the initial underwrite.
+
+**Offer Validity:**
+* Offers will be valid for 4 months
+
+**Other Criteria:**
+* Right to Buy applications follow the same credit category structure as standard residential products
+* Please refer to the product guide for detailed Right to Buy rates and specific criteria
+
+---
+
+## Valuation Fees and Application Criteria
+
+### Valuation Fees
+
+| Valuation up to | Valuation Report Only | Valuation Report Plus Homebuyers Report | Valuation Report Plus Building Survey |
+|---|---|---|---|
+| £100,000 | £135 | £375 | £665 |
+| £150,000 | £160 | £425 | £715 |
+| £200,000 | £180 | £480 | £810 |
+| £250,000 | £205 | £535 | £850 |
+| £300,000 | £225 | £595 | £890 |
+| £350,000 | £250 | £640 | £940 |
+| £400,000 | £270 | £680 | £1,000 |
+| £450,000 | £295 | £725 | £1,050 |
+| £500,000 | £315 | £755 | £1,105 |
+| £600,000 | £440 | £850 | £1,230 |
+| £700,000 | £530 | £945 | £1,360 |
+| £800,000 | £585 | £1,065 | £1,480 |
+| £900,000 | £640 | £1,190 | £1,605 |
+| £1,000,000 | £745 | £1,315 | £1,730 |
+| >£1,000,000 | From £1,105 | From £1,740 | From £2,330 |
+| Retype | £60 | Transcripts of Scottish Home Reports will be acceptable where the report has been carried out by a valuer on the Bluestone Mortgages panel |
+
+### Property Types
+
+* Standard residential properties accepted
+* Property types and construction methods assessed on a case-by-case basis
+
+### Property Location
+
+* Properties in England, Wales, Scotland, and Northern Ireland accepted
+* Specific location criteria may apply
+
+---
+
+## Applicants
+
+| Applicants | Criteria |
+|---|---|
+| **Maximum per application** | 4 |
+| **Nationality & Residency** | Skilled Worker or Health & Care VISA accepted with the following criteria:<br>• A minimum of 1 years residency in the UK<br>• A valid UK work permit/VISA. A minimum of 6 months remaining on the VISA.<br>• Tiered LTV approach for Residential applications based on customers length of residency in the UK:<br>  - 1 year residency up to 80% LTV<br>  - 2 years residency up to 85% LTV<br>  - 3 years up to 90% LTV<br>• Minimum Income of £50k for Residential customers on an individual basis. |
+| **Age at application** | All applicants must be at least 20 years old |
+| | For residential and affordability based applications, the term cannot take the applicants past their 75th Birthday. |
+| **Residency (main applicants only)** | Permanent UK residency rights, permanent settled status.<br>Resident in UK for at least 1 year. Please note that an application for settled status is not sufficient. |
+| **Applicants not accepted** | Guarantors/Expats/Diplomats |
+
+---
+
+## Service Levels
+
+At Bluestone Mortgages, we prioritise accountability and transparency in every aspect of our service. We're committed to getting offers to your customers as soon as we can.
+
+**Current service levels (last updated on 30/12/2025):**
+
+* **90% of calls answered within 30 seconds**
+* **DIP's reviewed within 1 day**
+* **New case reviewed within 1 day**
+* **An underwriting turnaround of 1 day**
+
+---
+
+## Broker Portal
+
+Our innovative broker portal is changing the landscape of specialist lending. The new application process, controlled from your own central broker interface, makes it easy to manage the details of your client cases, as well as save significant amounts of time and effort along their application.
+
+### Broker Portal Features
+
+* **Automatic credit reports** - We've reformed the broker portal technology so that you can get a credit decision from Experian earlier on in the application process.
+* **Automated committed expenditure** - Our broker portal will save you even more time when keying in an application by pulling through your client's committed expenditure, you just need to tick if the debt is being repaid.
+* **Reduction in processing times** - Within minutes, you can gather accurate household expenditures using our Open Banking integration saving you time and ensuring accurate customer information.
+
+### Open Banking
+
+Our open banking approach, coupled with the ability to pull through your client's committed expenditure, allows for an accurate valuation of their household expenditures within minutes.
+
+---
+
+## Forms and Downloads
+
+The following forms are available for download:
+
+### Literature
+
+* **Residential Product Guide** - Full details of our Residential mortgage range including rates and criteria
+* **Identification Requirements** - A full list of the documents we'll accept to confirm your customer's identity
+* **Terms of Business** - Please read through our Terms of Business
+* **Privacy Notice** - Full details of our privacy notice
+
+### Processing Costs Information
+
+* **Our Conveyancing** - A guide to our conveyancing process and costs
+* **Tariff of Charges** - Full details of the fees we charge before and during the term of the mortgage
+
+### Forms
+
+* **Gifted Deposit/Equity Confirmation** - If your customer's deposit is being gifted, use this form to provide confirmation
+* **One & The Same Letter (Land Registry)** - One & The Same Letter
+* **Vulnerability Questionnaire** - Please fill out this form where you have identified that your client/customer is vulnerable
+* **Pre-Submission Checklist** - Please use this dynamic checklist when collating your customer's documents prior to submission (Microsoft Excel format)
+* **Accountants certificate** - Please fill in and return
+* **Adverse Explanation Form** - Use this form to provide details on your customer's adverse situation
+* **BTL Additional Properties** - Please fill in and return
+* **Applicant Declaration Form (Great Britain)** - Important notice - please complete the Broker section of this form. Once signed, save and upload to your customer's BlueLink profile
+* **Outstanding Credit Commitments Form** - Please fill in and return
+* **Signature Discrepancy Form** - Please complete and return this form if you have multiple signatures
+* **Tenancy Reference** - Please fill in and return
+
+---
+
+## Contact Information
+
+### Broker Support Team
+
+* **Phone:** 0800 368 1833
+* **Email:** sales@bluestonemortgages.co.uk
+* **Office Hours:** Monday to Friday, 9:00am – 5:30pm
+* **Calls may be recorded**
+
+### Business Development Managers (BDMs)
+
+* **Scotland & North:** 020 3743 1583
+* **North West & Wales:** 020 7898 8343
+* **Midlands & East Anglia:** 020 3884 2955
+* **London:** 0800 368 1833
+* **South:** 0800 368 1833
+
+---
+
+## Additional Information
+
+### Product Transfer
+
+Product transfer options are available for existing Bluestone Mortgages customers.
+
+### Affordability Calculator
+
+An affordability calculator is available on the broker portal to help assess customer affordability.
+
+### Consumer Duty
+
+Bluestone Mortgages is committed to Consumer Duty. More information about our Consumer Duty approach is available on our website.
+
+### Submitting a Case
+
+Guidance on submitting cases is available on our website and through the broker portal.
+
+---
+
+## Important Notes
+
+* All criteria are subject to change and should be verified with Bluestone Mortgages directly
+* Product rates effective as of 19/12/25 (edited on 17/12)
+* Some criteria may be assessed on a case-by-case basis
+* Product availability and rates are subject to change
+* Always refer to the latest Product Guide for the most up-to-date information
+* For cases outside standard criteria, contact Bluestone Mortgages for consideration
+* We make our decisions based on your customer's unique circumstances – we don't credit score
+
+---
+
+## About Bluestone Mortgages
+
+Bluestone Mortgages is a specialist mortgage lender that helps customers who may have been turned down by high street lenders. We understand that life can be unpredictable and customers can build up unsecured debt that can lead to credit issues. This shouldn't hold customers back from achieving their homeownership dreams.
+
+We're assisting brokers in providing support to customers that other lenders may have overlooked. Successfully processing cases, even in situations where the high-street lenders might have initially declined.
+
+### Who We Help
+
+* Contractors with inconsistent income
+* Recent divorcees hoping to start over
+* First-time buyers looking to purchase a property with low credit
+* Those going back to work after a life event
+* Customers with complex credit histories including CCJs, Defaults and Debt Management Plans
+
+---
+
+**Last Updated:** December 2025
+**Product Guide Reference:** BM01 12/25 – Product rates effective as of 19/12/25 (edited on 17/12)
+**Source:** https://bluestonemortgages.co.uk/brokers/
+**Product Guide PDF:** https://bluestonemortgages.co.uk/wp-content/uploads/2025/12/Residential_Product_Guide.pdf
+

@@ -1,0 +1,563 @@
+LENDER NAME: Rely Mortgages
+PRODUCT: BTL Personal
+
+# Rely Mortgages - Buy to Let (Personal) Lending Criteria
+**Source:** https://www.relymortgages.co.uk/intermediaries/products/criteria/
+**Last Updated:** 2025
+
+**FOR INTERMEDIARY USE ONLY**
+
+Rely Mortgages is a trading name of OneSavings Bank plc a company registered in England and Wales (company number 07312896). Registered office: Reliance House, Sun Pier, Chatham, Kent, ME4 4ET. OneSavings Bank plc is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (Firm reference number 530504).
+
+---
+
+## Overview
+
+Rely Mortgages offers Buy to Let mortgages for personal applicants. The lender provides flexible BTL products suitable for property investors.
+
+### Key Features
+
+* **Improved valuations:** AVM and desktop valuations possible, with more options for complex and long form valuations
+* **Geographic Coverage:** England and Wales only
+* **Security:** First legal charge required
+* **Adverse Credit:** Accepted (No adverse, Light adverse, Light adverse+)
+* **Property Types:** Standard BTL, HMOs, Student Lets, MUFBs, Holiday Lets (via InterBay)
+* **Limited Company Lending:** Available (see Limited Company criteria file)
+
+---
+
+## Applicant Key Facts
+
+### Maximum Number of Applicants
+
+* **Maximum:** Four applicants
+
+### Age Limits
+
+* **Minimum:** 18 years
+* **Maximum at end of term:** 85 years
+
+---
+
+## Application and Product Fees
+
+### Application Fee
+
+* **Fee:** £145, payable at time of application
+
+### Product Fees
+
+* Please see individual product pages
+
+---
+
+## Adverse Credit Criteria
+
+### No Adverse
+
+* **CCJs:** Must be satisfied at time of application, 0 in 72 months where >=£300
+* **Defaults:** Must be settled at time of application, 0 in 72 months
+* **Secured missed payments:** 0 in 36 months
+* **Unsecured worst status:** 0 in 6 months
+
+### Light Adverse
+
+* **CCJs:** Must be satisfied at time of application, 0 in 24 months where >=£300
+* **Defaults:** Must be settled at time of application, 0 in 12 months, 1 in 24 months
+* **Secured missed payments:** 0 in 36 months
+* **Unsecured worst status:** 1 in 6 months
+
+### Light Adverse+
+
+* **CCJs:** Must be satisfied at time of application, 0 in 12 months, 1 in 24 months (Max £3000) where >=£300
+* **Defaults:** Must be settled at time of application, 0 in 24 months
+* **Secured missed payments:** 0 in 12 months, 1 in 36 months
+* **Unsecured worst status:** 2 in 6 months
+
+---
+
+## Certification
+
+Where certified copies are submitted, the individual who has certified the document must include the relevant statement (or similar) as below for face to face or non-face to face applications and:
+
+* Sign the copy document
+* Note the Company name and/or FCA number on the document that has been certified
+* Note the date that the original was seen
+
+### Face to Face (F2F) Certification
+
+* **For documents that contain a photo:** I [full name of certifier] confirm that this is an accurate copy of the original and the photo is a true likeness of the person concerned
+* **For documents that don't contain a photo:** I [full name of certifier] confirm this is an accurate copy of the original
+
+### Non Face to Face (Non – F2F) Certification
+
+* For Non face 2 face applications where the broker is certifying the documentation the document should be certified as follows
+* **For documents that contain a photo:** I [full name of certifier] confirm that this is an accurate copy of the original
+* **For documents that don't contain a photo:** I [full name of certifier] confirm this is an accurate copy of the original
+
+---
+
+## Concrete Construction
+
+The following are unacceptable:
+
+* Properties designated defective under Part XVI Housing Act 1985 or Pre-Cast Reinforced Concrete (PRC) where the property and the properties either side have not been repaired under a scheme licensed by PRC Homes Ltd
+* Properties with mundic concrete in designated as Class B or Class C
+
+---
+
+## Consumer Buy to Let (CBTL) Lending
+
+* Applications classed as consumer buy to let (CBTL) cannot be considered
+
+---
+
+## Convictions
+
+* An application cannot be considered until a criminal conviction is spent
+* Details of when convictions are classed as being spent can be found here: https://www.gov.uk/guidance/rehabilitation-periods
+
+---
+
+## Energy Efficiency Regulations
+
+In relation to the Minimum Energy Efficiency Standards as defined in The Energy Efficiency (Private Rented Property) (England and Wales) Regulations 2015 and all legislation and regulations in force and as amended from time to time in respect of the security property.
+
+* It is the responsibility of the Solicitor to ensure the Borrower is aware there is a requirement, and will a condition of the mortgage, for any properties rented out in the private rented sector (including existing lettings, new lets and renewals) to normally achieve the minimum energy performance rating (an EPC) set out in the relevant applicable regulations in force
+
+---
+
+## Ex-Local Authority Flats
+
+For ex-local authority flats, the following are unacceptable:
+
+* Properties within Right to Buy pre-emption period
+* Flats where there isn't an active and transactional market within the block/development
+
+---
+
+## Exposure Limits
+
+* The limits below do not apply where lending on multiple units on a single freehold
+* Where the number of units within a block / development is <= 8 no maximum unit percentage is applied
+* Above 8 units the maximum exposure is set at 20%
+
+---
+
+## First-Time Landlords Including HMOs
+
+* Lending is not acceptable if no applicant is an existing homeowner (residential owner occupied and/or buy to let)
+
+---
+
+## Flats
+
+### Acceptable
+
+* Self-contained flats/maisonettes/apartments with private facilities and direct access to the highway via common parts
+* Blocks of flats where units are not self-contained or otherwise individually mortgageable on a block investment basis only
+
+Where the security is situated above a commercial premises and/or it is a New Build it can only proceed subject to no adverse comments from the valuer/conveyancer.
+
+### For Blocks of Flats
+
+* Must be readily saleable and mortgageable
+* Cannot be constructed of Large Panel Systems (LPS Blocks)
+
+Individual Studio flats below 30 square meters gross internal area are not acceptable.
+
+### For Ex-Local Authority Flats
+
+* Properties within Right to Buy pre-emption period are unacceptable
+* Flats where there isn't an active and transactional market within the block/development are unacceptable
+
+---
+
+## Flying Freehold
+
+* Flying freeholds can be considered provided the percentage thereof does not exceed 20% of the total floor area
+
+---
+
+## HMOs (House in Multiple Occupation)
+
+* House in Multiple Occupation (HMO) is permissible
+* Generally, a HMO will be a property occupied by more than one household and more than two people, and may include bedsits, shared houses, non-self-contained flats and some self-contained flats
+* Any property meeting the criteria above is deemed to be a HMO for lending purposes regardless of tenancy agreements in place or the type of tenant
+
+### Planning Permission
+
+HMO properties must have the appropriate planning permission in place as follows:
+
+* **Up to 6 bedrooms:** C4 planning (where required due to removal of permitted development rights, such as the implementation of an Article 4 Directive)
+* **7 or more bedrooms:** Sui Generis planning
+
+Where formal planning permission has not been granted as above, a Certificate of Lawful Use is also deemed as acceptable for both C4 and Sui Generis planning uses. Where there is no formal planning permission and no Certificate of Lawful Use, confirmation of continued lawful use as a HMO should be obtained from the acting Solicitor.
+
+### Licensing
+
+**For remortgages:**
+
+* The solicitor must confirm sight of a copy of the Licence prior to release of funds or confirmation that a HMO licence application has been made
+
+**For purchases of properties with <=6 bedrooms:**
+
+* Where the property is currently licenced, the Group's Solicitor is to confirm sight of the licence and undertaking from applicant to arrange for licence to be transferred into own name
+* Where the property is not licenced but the applicant holds a licence on an alternative property. The Group's Solicitor is to confirm sight of the licence and undertaking from applicant to apply for a licence on the subject property within 60 days from completion
+* Where the property is not licenced and the applicant does not hold a licence on an alternative property; the applicant is to undertake to apply for a licence within 60 days from completion
+
+**For purchases where the property has >=7 bedrooms:**
+
+* A copy of the licence on the security, or evidence that the applicant holds a licence on an alternative property must be received prior to release of funds
+
+---
+
+## Holiday Lets
+
+* If your landlord customer is looking for a holiday let mortgage, our sister company InterBay could help
+* To find out more, visit InterBay.co.uk to speak with a member of their sales team
+
+---
+
+## Intercompany Loans
+
+* Acceptable for limited company lending, subject to:
+  * The majority shareholder must be consistent across SPV and connected company
+  * If there is no singular majority shareholder, the ownership structure across the SPV and connected company must be consistent
+  * Must be UK to UK company (no offshore companies)
+  * Loan needs to be repayable, and a term agreed with documented loan agreement
+  * The term must not exceed that of the mortgage
+  * Rate of interest applied should be HMRC's ordinary rate of interest
+  * Any monthly payment to be included in ICR calculation
+  * Connected company not to have any interest or charge over the Bank's security
+
+---
+
+## Japanese Knotweed
+
+* Properties with Japanese knotweed designated as Class A or Class B
+* Or Class C if there isn't a satisfactory management plan in place
+
+---
+
+## Let to Buy
+
+* Let to buy applications are acceptable
+
+---
+
+## Limited Company Lending
+
+* Limited company lending is available
+* Please refer to the Limited Company criteria file for specific requirements
+
+---
+
+## New Build, Newly Converted, and Properties Under 10 Years Old
+
+**Source:** https://www.relymortgages.co.uk/intermediaries/products/criteria/
+
+### New Build Properties
+
+* New build properties are those that are less than two years old (from the date of practical completion) and/or have not been lived in
+
+### Properties Aged Less Than Ten Years, Recently Converted or Occupied for the First Time
+
+Properties aged less than ten years, recently converted or occupied for the first time must benefit from one of the following warranty providers:
+
+* Advantage HCI
+* Ark Residential New Build Warranty
+* BOPAS (Build Offsite Property Assurance Scheme)
+* Build Assure
+* Buildzone
+* Building Life Plan
+* Checkmate (Castle 10)
+* Global Home Warranties
+* Home Proof
+* International Construction Warranties (ICW)
+* LABC
+* N.H.B.C Guarantee
+* One Guarantee
+* Premier Guarantee Scheme
+* Professional Consultants Certificate (previously an Architect's Certificate)
+* Protek
+* Q Policy
+* Zurich Municipal "new build" (valid until 30/09/09)
+
+### Retrospective Warranties
+
+* For developments previously holding a CRL warranty, a retrospective warranty will be accepted from one of the above providers subject to a site survey having been undertaken by the new warranty provider at the time the retrospective warranty was underwritten
+* In all other circumstances, warranties must exist upon completion of the property and cannot be applied retrospectively
+
+---
+
+## Properties Above (or Attached to) Commercial Premises
+
+* Where the security is situated above a commercial premises and/or it is a New Build it can only proceed subject to no adverse comments from the valuer/conveyancer
+
+---
+
+## Remortgage
+
+Remortgages can't be accepted for the following purposes:
+
+* To shore up a business
+* To repay gambling debts
+
+* Capital raising is acceptable for any legal purpose. The amount and purpose of capital being raised must be established
+* Remortgages will be considered where the security property has been owned for less than 6 months and is not a New Build. If improvement works have been undertaken, the LTV will be based off the post works market value. If no improvements works have been undertaken, the LTV will instead be based off the lower of the original purchase price and the current market value
+* Where the property has recently been inherited, probate (or letters of administration, as appropriate) must have been granted prior to application and verified prior to offer
+
+---
+
+## Rental Income Requirements
+
+Rental income requirements are dependent on the property profile.
+
+### Standard BTL
+
+A single dwelling, HMO or student let with <=6 letting rooms, or <=6 flats in one block under one title.
+
+* **Higher/additional rate taxpayer:** 140%
+* **Basic rate taxpayer / Ltd Co / LLP:** 125%
+
+### Complex BTL
+
+HMO or student let comprising >6 letting rooms, or >6 flats or more in one block under one loan, or multiple houses under one title.
+
+* **Higher/additional rate taxpayer:** 175%
+* **Basic rate taxpayer / Ltd Co / LLP:** 145%
+
+---
+
+## Repayment Methods
+
+* Interest only or capital repayment
+
+---
+
+## Residency
+
+* A full three-year UK residential history is required for all applicants
+* All applicants must be resident in the UK at the time of completion
+
+### UK Nationals
+
+* For the purposes of this Policy, British Forces Post Office (BFPO) addresses are considered to be UK
+
+### Non-UK Nationals
+
+* In addition to residency requirements, applicant(s) must provide evidence of permanent rights to remain in the UK
+
+---
+
+## Security
+
+* Properties in England and Wales only
+* A first legal charge is required
+
+### New Build, Newly Converted, and Those Under 10 Years Old
+
+**Source:** https://www.relymortgages.co.uk/intermediaries/products/criteria/
+
+* New build properties are those that are less than two years old (from the date of practical completion) and/or have not been lived in
+* Properties aged less than ten years, recently converted or occupied for the first time must benefit from one of the acceptable warranty providers (see New Build, Newly Converted, and Properties Under 10 Years Old section above)
+
+---
+
+## Source of Deposit
+
+The deposit should come from the applicant(s) own resources without recourse to additional borrowing. Acceptable, alternative, sources of deposit are noted below.
+
+### Capital Raising Remortgage / Secured Loan
+
+* Where the applicant has sufficient equity in existing property, it is acceptable for deposit funds to be raised by way of a remortgage or 2nd charge
+
+### Gifted Family Deposit
+
+Subject to:
+
+* The amount is a non-refundable gift
+* The deposit funds are not from and have not been taken from a child's bank/savings account
+* The individual making the gift will have no interest in the property
+* Appropriate deed of gift indemnity insurance is put in place by the acting solicitor
+
+### Director Loan
+
+Subject to:
+
+* The individual is transferring a current/purchasing a new property into a company structure
+* Purchase price is at full market value to ensure tax liabilities are paid in full
+* The individual providing the director loan is a shareholder within the business
+* They are investing in the company by way of a director's loan and it will be included in the subsequent company accounts
+* The difference between the mortgage and the purchase price is covered by the director loan
+* The loan is non-interest bearing
+
+### Inter-Company Loan
+
+Subject to:
+
+* The majority shareholder must be consistent across SPV and connected company
+* If there is no singular majority shareholder, the ownership structure across the SPV and connected company must be consistent
+* Must be UK to UK company (no offshore companies)
+* Loan needs to be repayable, and a term agreed with documented loan agreement
+* The term must not exceed that of the mortgage
+* Rate of interest applied should be HMRC's ordinary rate of interest
+* Any monthly payment to be included in ICR calculation
+* Connected company not to have any interest or charge over the Bank's security
+
+### Vendor Equity/Deposit and Builder Deposit/Incentive
+
+* The value of the incentive must be deducted from the purchase price or value whichever is lower, and lending based on the lower amount
+
+---
+
+## Tenancy
+
+* Property must be in a suitable condition to be let
+* In England the property may be let under a single Assured Shorthold Tenancy (AST) or a contractual / common law tenancy (i.e. company let or where annual rent is greater than £100,000)
+* In Wales, the property may be let under an Occupational Contract in accordance with the Welsh Government tenancy rules
+* Multiple tenancies are acceptable for HMOs and MUFBs
+
+There must be a written tenancy agreement which restricts the tenant from:
+
+* Sharing, assigning, sub-letting, multi-letting, charging or parting with possession of all or any part of the property
+* Using the property other than as a private dwelling house
+* Making alterations to the property or allowing the property to fall into disrepair
+
+* The fixed term must be no more than 36 months
+* In the event of a term longer than 12 months the AST must contain a provision for rent review at no more than 12-month intervals, unless the loan is on a fixed rate equivalent to the length of the AST
+* Applications where the tenants are family members of the customer will not be considered
+* The Group will not consider applications where the tenants have or may acquire an overriding interest in the property
+
+---
+
+## Tenure
+
+### Freehold
+
+* Houses and MUFBs only
+
+### Leasehold
+
+* The unexpired term of the lease must be at least 50 years at the end of the mortgage term and subject to a satisfactory valuation
+* Leasehold properties where the remaining lease term is less than 85 years will be accepted at a maximum 75% LTV
+
+---
+
+## Valuation Fees
+
+* Please see our valuation fee scale for more information and our approach: https://www.relymortgages.co.uk/media/irol1yy5/valuation-fee-scale.pdf
+* Standard valuation reports are for the sole purpose of enabling OSB Group to assess the suitability of the proposed security and to decide on the amounts (if any) that can be advanced on the mortgage, and the report remains the property of OSB Group
+* The valuation fee collected is non-refundable unless explicitly stated on the associated illustration
+* On submission of an application, you will need to accept the FMA declaration that stipulates this in order to proceed
+
+### Valuation Fee Scale
+
+Valuation type will be determined as part of our application process.
+
+**Re-inspection fee:** Standard/Specialist £72, Long Form quote only.
+
+**Property Type and Valuation Fee Scale Applied:**
+
+* **Single house or flat let or intended to be let to an individual or family on 1 AST:** Physical Inspection Standard
+* **Single property let or intended to be let to multiple occupiers not of a single household (up to 6 bedrooms). Excludes adapted properties with multiple kitchens or with greater than 3 bathrooms and HMOs in Article 4 areas:** Physical Inspection Specialist
+* **Single building comprising up to 6 self-contained flats all held under the freehold title (no leasehold titles created), and all flats of a size and arrangement that would support individual mortgages were leasehold titles created:** Physical Inspection Specialist
+* **Any property not fitting within above descriptions, or exceeding £5m estimated value:** Physical Inspection Long Form
+
+**Valuation Fee Scale (by Property Value):**
+
+| Property Value | Desktop Standard | AVM Standard | Physical Inspection Standard | Physical Inspection Specialist |
+|----------------|-----------------|--------------|----------------------------|-------------------------------|
+| £50,000 - £100,000 | £150 | £15 | £175 | £440 |
+| £100,001 - £150,000 | £150 | £15 | £200 | £440 |
+| £150,001 - £200,000 | £150 | £15 | £225 | £455 |
+| £200,001 - £250,000 | £200 | £15 | £250 | £455 |
+| £250,001 - £300,000 | £200 | £15 | £275 | £525 |
+| £300,001 - £350,000 | £200 | £15 | £300 | £585 |
+| £350,001 - £400,000 | £200 | £15 | £325 | £585 |
+| £400,001 - £450,000 | £200 | £15 | £350 | £645 |
+| £450,001 - £500,000 | £250 | £15 | £375 | £645 |
+| £500,001 - £600,000 | £250 | £15 | £485 | £710 |
+| £600,001 - £700,000 | £250 | £15 | £585 | £770 |
+| £700,001 - £800,000 | £250 | £15 | £650 | £880 |
+| £800,001 - £900,000 | £250 | £15 | £710 | £965 |
+| £900,001 - £1,000,000 | £250 | £15 | £825 | £1,025 |
+| £1,000,001 - £1,500,000 | - | - | £1,225 | £1,425 |
+| £1,500,001 - £2,000,000 | - | - | £1,625 | £1,825 |
+| £2,000,001 - £2,500,000 | - | - | £1,925 | £2,325 |
+| £2,500,001 - £3,000,000 | - | - | £2,225 | £2,625 |
+| £3,000,001 - £3,500,000 | - | - | £2,725 | £3,125 |
+| £3,500,001 - £4,000,000 | - | - | £3,125 | £3,525 |
+| £4,000,001 - £4,500,000 | - | - | £3,425 | £3,825 |
+| £4,500,001 - £5,000,000 | - | - | £3,725 | £4,125 |
+
+**Note:** Long Form valuations are quote only for all property values.
+
+---
+
+## Valuation Panel
+
+* Choose your valuer. Here is a list of valuer firms on our specialist panel for residential investment valuations: https://www.relymortgages.co.uk/media/ckmngbeb/vas-complex-btl-panel-2025.xlsx
+* Please check if the valuer you'd like to use covers your property's postcode and add a note to your case stating the valuer you have chosen at the point of submission
+* Please note that we may not be able to confirm your preferred choice of valuer firm. If your chosen valuer firm is unable to service the instruction due to availability, conflict of interest or other circumstances, an alternative valuer may be chosen for you
+
+---
+
+## Proof of Identity and Address
+
+**Proof of Identity:**
+
+* UK/EU/EEA Passport (current or expired up to 2 years)
+* UK/EU/EEA Photo Driving Licence (current or expired up to 2 years)
+* UK/EU/EEA National Identity Card (current or expired up to 2 years)
+* UK/EU/EEA Biometric Residence Permit (current or expired up to 2 years)
+* UK/EU/EEA Biometric Residence Card (current or expired up to 2 years)
+* UK/EU/EEA Residence Card (current or expired up to 2 years)
+* UK/EU/EEA Permanent Residence Card (current or expired up to 2 years)
+* UK/EU/EEA Travel Document (current or expired up to 2 years)
+* UK/EU/EEA Immigration Status Document (current or expired up to 2 years)
+* UK/EU/EEA Certificate of Naturalisation (current or expired up to 2 years)
+* UK/EU/EEA Certificate of Registration (current or expired up to 2 years)
+* UK/EU/EEA Certificate of Entitlement to Right of Abode (current or expired up to 2 years)
+
+**Proof of Address:**
+
+* UK/EU/EEA Driving Licence (current or expired up to 2 years) - if not used as proof of identity
+* UK/EU/EEA Bank/Building Society Statement (dated within the last 3 months)
+* UK/EU/EEA Credit Card Statement (dated within the last 3 months)
+* UK/EU/EEA Utility Bill (dated within the last 3 months) - gas, electricity, water, council tax
+* UK/EU/EEA Council Tax Bill (dated within the last 12 months)
+* UK/EU/EEA Mortgage Statement (dated within the last 12 months)
+* UK/EU/EEA Tenancy Agreement (dated within the last 12 months)
+* UK/EU/EEA Benefits Letter (dated within the last 12 months)
+* UK/EU/EEA Pension Statement (dated within the last 12 months)
+* UK/EU/EEA HMRC Tax Notification (dated within the last 12 months)
+* UK/EU/EEA Entitlement to Pension (dated within the last 12 months)
+
+**Note:** In accordance with the DVLA regulations, you'll need to check the expiry date of the photocard driving licence. If the photo has expired, we may not accept it as proof of identity, and therefore, other items may be requested.
+
+**Please ensure that all documentation is properly certified. Please see our certification criteria for more information.**
+
+Where a copy of an applicant's ID documents have been obtained via a digital ID solution, we will require a copy of the customer's digital report from one of the following companies:
+
+* Amiqus
+* CallCredit / TransUnion
+* Credas
+* Experian
+* Equifax
+* GBGroup
+* LexisNexis
+* Onfido
+* TrustID
+* Yoti
+
+---
+
+## Contact Information
+
+**Website:** https://www.relymortgages.co.uk/intermediaries/
+
+**BBR:** 3.75%
+
+For further information, please visit the Rely Mortgages intermediaries website or contact the team directly.

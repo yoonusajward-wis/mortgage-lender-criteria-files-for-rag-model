@@ -1,0 +1,570 @@
+LENDER NAME: Octopus
+PRODUCT: Buy to Let
+
+# Octopus Capital - Buy-to-Let Mortgage Lending Criteria
+
+**Last Updated:** March 2025
+**Source:** Octopus Capital
+**For Intermediaries Only**
+
+---
+
+## Document Information
+
+This document contains comprehensive buy-to-let mortgage lending criteria covering all topics from the Octopus Capital buy-to-let lending guidelines and matrix. This guide is intended for professional intermediaries only.
+
+**Version:** OC0014-2503, OC0015-2503
+
+**Note:** Octopus Capital aims to provide indicative terms within 4 hours of an enquiry and agreements in principle within 24 hours.
+
+**Website:** https://octopus-capital.com/real-estate-lending/buy-to-let-finance/buy-to-let-mortgages/
+**Criteria Document:** https://octopus-capital.com/wp-content/uploads/sites/22/2025/05/OC_Buy-To-Let-Guidelines_OC0015-2503_v4-1.pdf
+**Criteria Document:** https://octopus-capital.com/wp-content/uploads/sites/22/2025/05/OC_Buy-to-let-Matrix_OC0014_2503_v2-1.pdf
+**Email:** sales@octopus-capital.com
+**Phone:** 08002946850
+**Address:** 33 Holborn, London, EC1N 2HT
+
+---
+
+## Table of Contents
+
+This guide contains 17 main sections organized by topic:
+
+
+### Loan Details
+
+1. Loan Details
+2. General Loan Parameters
+
+### Applicant Requirements
+
+3. Applicants
+
+### Credit History
+
+4. Adverse Credit
+
+### Income and Affordability
+
+5. Income / Affordability
+
+### Loan Purpose
+
+6. Capital Raising
+
+### Property Requirements
+
+7. Property Criteria
+14. Valuation
+
+### Tenancy and Rental
+
+8. Tenancy and Rental Assessment
+
+### Loan Servicing
+
+9. Servicing the Loan
+10. Overpayments
+11. Early Repayment Charges (ERCs)
+12. Fees and Charges
+
+### Legal and Administrative
+
+13. Contract Re-Assignment
+15. Solicitors
+16. Title Insurance
+
+### Company Information
+
+17. About Octopus Capital
+
+---
+
+## Loan Details
+
+**From rate:** 6.99% p.a.
+
+**Maximum LTV:** 70%
+
+**Minimum loan size:** £50,000
+
+---
+
+## General Loan Parameters
+
+**Minimum loan size:** £50,000 (for some products, this rises to £100,000)
+
+**Maximum loan size:** 
+* Up to £1,500,000 for standard products
+* Up to £3,000,000 for most mainstream options
+* Varies by product category (under £100,000 for certain categories, £300,000 for others)
+
+**Minimum term:** 5 years
+
+**Maximum term:** 40 years (25 years for long-term products)
+
+**Product rates:** Range from 6.99% to 10.49% per annum depending on the product
+
+**Arrangement fees:** 2% or 3% depending on the product chosen
+
+**Deferred pay rate options:**
+* 1.75% if deferring interest capped at 65% LTV
+* 1% if deferring up to 70% LTV
+
+**Fixed terms:** Available for 2, 3, or 5 years
+
+**Maximum aggregate exposure:** £5,000,000 per borrower across the portfolio
+
+**Maximum number of mortgaged buy-to-let properties:** 20 properties with the lender
+
+### Loan to Value (LTV) Limits
+
+**For properties valued at £75,000 or higher:**
+* Loans available up to 80% LTV
+
+**For properties valued at £150,000 or higher:**
+* Up to 80% LTV for standard buy-to-let
+* Up to 75% LTV for HMOs and multi-unit properties
+
+**For new-build flats:**
+* Maximum LTV: 70%
+* Minimum valuation: £150,000
+
+**For new-build houses:**
+* Maximum LTV: 75%
+* Minimum valuation: £100,000
+
+**For loans up to £1 million:**
+* Maximum LTV: 70%
+
+**For loans above £1 million:**
+* Maximum LTV: 65%
+
+**Automated Valuations (AVMs):**
+* Available subject to qualifying criteria
+* Houses only are eligible for AVMs at a maximum of 65% LTV
+
+---
+
+## Applicants
+
+Octopus accepts a wide range of applicants, including:
+
+* First-time buyers
+* First-time landlords
+* Experienced landlords
+* Expats
+* Foreign nationals
+* UK limited companies
+* Offshore companies
+* UK trusts
+
+### Age Requirements
+
+**Minimum age:** 21 years at completion (21 years at application)
+
+**Maximum age:** 80 years at application, 85 years at the end of the term
+
+Age criteria are based on the youngest loan applicant.
+
+**Maximum number of applicants:** Up to four applicants can be included on a single application.
+
+### Income Requirements
+
+**Minimum income:** £25,000 per annum
+
+* At least one applicant must meet this requirement
+* Joint applicants can combine income
+* Acceptable sources include:
+  * Employed income
+  * Self-employed income
+  * Pension income
+
+### Experience
+
+**First-time buyers:**
+* Accepted (additional due diligence required to evidence that the property will be used solely for investment purposes)
+* Restricted to a maximum LTV of 70% gross (or 60% LTV in some cases)
+* A first-time buyer is defined as anyone who has not owned a UK mortgaged property within the last three years
+* For UK residents: Only company applications are allowed
+* For non-UK residents: Accepted, with LTV restrictions
+
+**First-time landlords:**
+* Accepted
+* Must have owned a mortgaged property for at least 12 months
+* Subject to underwriter review
+
+### Foreign Nationals
+
+**UK Resident Foreign Nationals:**
+* Accepted, with conditions
+* Nationals from medium to high-risk jurisdictions are restricted to 65% LTV unless they reside in the UK with indefinite leave to remain
+
+**Offshore Foreign Nationals:**
+* Accepted, with conditions
+* The HTAR (Higher Than Average Risk) rating is applied to determine the most suitable product
+
+Applicants who do not live in the UK or who do not have permanent rights to reside are acceptable. The HTAR rating for the client helps determine the product.
+
+### Expats
+
+**UK Expatriates:**
+* Accepted across the full range of products
+* A HTAR assessment is undertaken based on the expat's country of residence and the source of their income or wealth
+
+### Company Applications
+
+**UK Limited Companies / SPVs:**
+* Accepted
+
+**Offshore Registered Companies:**
+* Not accepted for certain products but permitted under others
+
+**UK Trusts:**
+* Accepted
+
+**Personal Guarantees:**
+* All lending to corporate borrowers requires personal guarantees
+
+**Debentures:**
+* Octopus does not normally require a debenture
+* Where a borrower already has one with another finance provider, a deed of priority or fixed/floating debenture may be required
+
+---
+
+## Adverse Credit
+
+Applicants with County Court Judgments (CCJs), defaults, missed unsecured payments, and missed secured payments can be considered. Specific thresholds and conditions are detailed in the criteria matrix.
+
+**Unsatisfied CCJs or defaults:**
+* Not permitted
+
+**Satisfied CCJs and defaults:**
+* Accepted if registered over 36 months ago
+* Up to £1,500 in the last 24 months is allowed, but none in the last 12 months
+* All defaults and CCJs must be satisfied before completion
+
+**Secured missed payments:**
+* A maximum of one missed payment in the last 36 months, with none allowed in the last 24 months
+
+**Unsecured arrears:**
+* Utilities, communication, and mail order accounts are ignored
+* Up to two missed credit card or unsecured loan payments are permitted in the last 24 months, with none allowed in the last 12 months
+
+**Debt Management Plans (DMPs), Individual Voluntary Arrangements (IVAs), and bankruptcies:**
+* Not acceptable
+
+**Mortgage arrears:**
+* Applicants must have no arrears on mortgages or unsecured credit within the last 24 months
+
+---
+
+## Income / Affordability
+
+### Interest Cover Ratio (ICR) Requirements
+
+**For single self-contained properties:**
+* Basic rate taxpayers: 125% of stressed mortgage payment
+* Higher rate taxpayers: 145% of stressed mortgage payment
+* Additional rate taxpayers: 165% of stressed mortgage payment
+
+**For HMOs, converted MUFBs, and mixed-use properties:**
+* Basic rate taxpayers: 130% (or 145% in some cases)
+* Higher rate taxpayers: 145%
+* Additional rate taxpayers: 145%
+
+**For company borrowers:**
+* 120% for company borrowers
+* 125% for individual borrowers
+
+All ICRs are calculated at pay rate.
+
+### Stress Rate Calculation
+
+The stressed mortgage payment is calculated at the higher of:
+* Pay rate plus 2%, or
+* 5.5%
+
+**For 5-year fixed rate products:**
+* The stress rate used is the pay rate plus 1%, or 5%
+
+**Reversionary rate:**
+* The product rate plus Bank Base Rate, with a minimum BBR floor of 0%
+
+### Rental Assessment
+
+Rental income is assessed based on the valuer's estimated market rent, not the current rent.
+
+We must be satisfied that the applicant(s) can withstand increases in mortgage interest rates, cover rental voids, and afford the mortgage both now and after any fixed or discounted period expires. We may request evidence of contingency funds to support increased mortgage payments and may decline an application if we believe the applicant will not be able to meet mortgage payments should interest rates increase.
+
+### Outside Portfolio Checks
+
+Octopus does not need to conduct affordability checks on portfolios it does not finance. However, an asset and liability (A&L) statement is required with every application to assess the applicant's financial position.
+
+---
+
+## Capital Raising
+
+Capital raising is permitted for the following purposes:
+
+* Purchasing additional investment properties
+* Deleveraging other investment properties
+* Carrying out maintenance works on properties within the applicant's portfolio
+
+**Important:** If more than 40% of the funds raised are for personal use, Octopus will treat the application as a regulated buy-to-let and decline it. This list is not exhaustive.
+
+---
+
+## Property Criteria
+
+### Location
+
+Properties must be located in **England or Wales**. Scotland and Northern Ireland are excluded.
+
+### Minimum Property Valuation
+
+£70,000 (or £75,000 in some cases)
+
+**For single dwellings and HMOs:** Maximum property value is £2 million
+
+### Construction
+
+**Standard construction is required:** Brick or stone walls and tile or slate roofs.
+
+Properties must meet Council of Mortgage Lenders (CML) guidelines.
+
+### Property Types Accepted
+
+Octopus Capital will lend on:
+
+* Single dwellings
+* Purpose-built MUFBs (Multi-Unit Freehold Blocks)
+* Converted MUFBs
+* HMOs (Houses in Multiple Occupation)
+* Mixed-use properties (capped at 65% LTV)
+* New build flats (capped at 65% LTV)
+* New build houses
+* Semi-commercial properties
+* Holiday lets/short-term lets (with C3 planning permission)
+
+### Flats
+
+* Flats must be leasehold, with a minimum of 85 years unexpired at the start of the mortgage
+* Freehold flats are not acceptable
+* Flats above food outlets, gambling establishments, bars, or clubs must be referred to underwriters
+* Flats above or adjacent to commercial premises are accepted subject to valuer comments
+
+### Ex-Local Authority Properties
+
+**Ex-local authority flats:**
+* Accepted with a minimum valuation of £100,000 and maximum LTV of 70%
+
+**Ex-local authority houses:**
+* Accepted, with the same valuation requirements as standard properties
+
+### Houses in Multiple Occupation (HMOs)
+
+**Acceptable criteria:**
+* 6–20 bedrooms
+* Minimum valuation of £150,000
+* Maximum LTV of 75%
+* Must have relevant planning permission and licences
+* Valuers and solicitors must confirm compliance with planning and building regulations
+
+**Valuation approach:**
+* Normally valued on a bricks-and-mortar basis
+* Investment valuation may be applied for Article 4 areas or Sui Generis planning
+
+### Multi-Unit Freehold Blocks (MUFBs)
+
+**Acceptable criteria:**
+* 2–10 units
+* Maximum LTV of 75%
+* Minimum property valuation of £150,000
+
+**Valuation approach:**
+* Each property is assessed individually
+* Values may be based on the aggregate of individual unit values or a single investment value (SIV)
+* Micro-units are assessed on SIV
+
+### Semi-Commercial Properties
+
+**Acceptable criteria:**
+* Accepted where at least two-thirds of the property valuation is residential
+* If lending is secured only on the residential portion, maximum LTV is 65%
+* Valued on a vacant possession basis
+* Commercial use must fall under Use Class E
+* Rental from commercial can be included if the lease extends beyond the mortgage term
+
+### New Build Properties
+
+**New build flats:**
+* Maximum LTV: 70%
+* Minimum valuation: £150,000
+
+**New build houses:**
+* Maximum LTV: 75%
+* Minimum valuation: £100,000
+
+**Valuation note:** Valuations will exclude any "new-build premium."
+
+### Holiday Lets and Short-Term Lets
+
+**Acceptable criteria:**
+* Accepted if the property has C3 planning permission
+* Rental assessment is on an AST basis for ICR calculations
+
+### Lease Terms
+
+**Leasehold properties:**
+* Must have a minimum of 85 years unexpired at the start of the mortgage
+* Must have at least 70 years remaining at the end of the mortgage term
+
+### Flying Freehold
+
+Properties with up to 10% flying freehold may be accepted subject to valuer and legal confirmation.
+
+### Unacceptable Properties
+
+The following properties are not acceptable:
+
+* Bedsits, hostels, or properties with multiple tenancies not under a single AST
+* Properties with more than 20 bedrooms or more than 10 self-contained units
+* Properties with agricultural ties or restrictions
+* Properties subject to restrictive covenants or occupancy clauses
+* Properties deemed unsuitable security by the valuer
+* Properties with commercial use exceeding 20%
+* Holiday lets or short-term lets marketed primarily through Airbnb-type platforms (unless they have C3 planning permission)
+
+---
+
+## Tenancy and Rental Assessment
+
+### Tenancy Types
+
+**Assured Shorthold Tenancies (ASTs):**
+* Only ASTs are permitted
+* Minimum term: 6 months
+* Maximum term: 36 months
+
+**Corporate lets:**
+* Permitted
+
+**Student lets:**
+* Accepted, provided the tenancy is an AST
+
+**Holiday lets:**
+* Accepted if the property has C3 planning permission
+
+### Rental Assessment
+
+Rental income is assessed based on the valuer's estimated market rent, not the current rent.
+
+---
+
+## Servicing the Loan
+
+All buy-to-let mortgages are issued on an **interest-only basis**.
+
+Up to three months' retained interest is allowed if the property is not tenanted.
+
+---
+
+## Overpayments
+
+ERC-free overpayments are permitted up to **20% per year** of the outstanding capital balance.
+
+There is no limit on overpayments after the ERC period has ended.
+
+---
+
+## Early Repayment Charges (ERCs)
+
+Early repayment charges of **3%** apply throughout the fixed term of the loan.
+
+There are no ERCs in the final month of the fixed term.
+
+---
+
+## Fees and Charges
+
+**Arrangement fees:**
+* May be added to the loan
+* 2% or 3% depending on the product chosen
+
+**Valuation fee:**
+* Will apply based on the property type and value
+* Borrowers pay valuation fees directly
+
+**Administration fee:**
+* £350 per property is charged, covering due diligence by asset managers
+* If additional security is in the same block, the fee is reduced to £100 per additional unit
+* This fee is deducted from the mortgage advance
+
+---
+
+## Contract Re-Assignment
+
+Contract re-assignments can be accepted.
+
+**Valuation:** Based on the 180-day value
+
+**LTV:** Capped at 85% of the purchase price, subject to maximum product LTVs
+
+---
+
+## Valuation
+
+Octopus uses a panel of approved, independent valuers with appropriate experience.
+
+* Borrowers must pay valuation fees directly
+* Lending decisions are based on the **180-day valuation figure**
+* Valuations must confirm strong demand for both sales and rental
+* Where demand is poor, the application may be declined, restricted to a lower LTV, or require additional security
+
+---
+
+## Solicitors
+
+Separate legal representation is always required.
+
+Solicitors must be chosen from Octopus's approved panel.
+
+---
+
+## Title Insurance
+
+Title insurance will be used where possible.
+
+---
+
+## About Octopus Capital
+
+Octopus Capital is a property finance company offering fast, flexible, and reliable lending solutions. Its commitment to brokers and clients includes:
+
+* Quick decisions with consistent follow-through
+* Loans available at every stage of the property lifecycle
+* Unconventional solutions for unconventional needs
+
+Octopus has lent over £5 billion to date across commercial, residential, and development sectors. Loans range from £50,000 to £50 million. The business employs over 90 professionals and has access to multiple credit lines to provide bespoke finance.
+
+Octopus aims to provide indicative terms within 4 hours of an enquiry and agreements in principle within 24 hours.
+
+### Company Information
+
+Octopus Capital and Octopus Real Estate are trading names of several entities registered in England, Wales, and Luxembourg, including Octopus Investments Limited, Octopus Healthcare Development Ltd, Octopus Co-Lend Ltd, Bridgeco Ltd, and others.
+
+Octopus Investments Limited is authorised and regulated by the Financial Conduct Authority.
+
+**Issued:** March 2025  
+**Document Codes:** OC0014-2503, OC0015-2503
+
+---
+
+## Main URLs and Contact Information
+
+- https://octopus-capital.com/real-estate-lending/buy-to-let-finance/buy-to-let-mortgages/
+- https://octopus-capital.com/wp-content/uploads/sites/22/2025/05/OC_Buy-To-Let-Guidelines_OC0015-2503_v4-1.pdf
+- https://octopus-capital.com/wp-content/uploads/sites/22/2025/05/OC_Buy-to-let-Matrix_OC0014_2503_v2-1.pdf
+- Email: sales@octopus-capital.com
+- Phone: 08002946850

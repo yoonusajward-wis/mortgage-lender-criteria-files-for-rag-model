@@ -1,0 +1,379 @@
+LENDER NAME: Hodge Bank
+PRODUCT: Holiday Let
+
+================================================================================
+HODGE BANK - HOLIDAY LET CRITERIA & AFFORDABILITY GUIDE
+================================================================================
+
+Source: https://hodgebank.co.uk/intermediaries/wp-content/uploads/2024/08/Holiday-let-Criteria-and-Affordability-Guide-19.06.25.pdf
+
+Document: Holiday Let Criteria & Affordability Guide
+Effective from: 19 June 2025
+Document Reference: M HBTLCAG 0625
+
+Note: This document is for adviser use only.
+
+Last Verified: Based on PDF content as of the file creation date
+
+================================================================================
+1. LOAN & BORROWER CRITERIA
+================================================================================
+
+LOAN SIZE
+--------------------------------------------------------------------------------
+
+- Minimum: £50,000
+- Maximum: £1,500,000
+
+PROPERTY VALUE
+--------------------------------------------------------------------------------
+
+- Minimum: £100,000
+- Maximum: £10,000,000
+
+LOAN TERM
+--------------------------------------------------------------------------------
+
+- Minimum: 5 years
+- Maximum: 40 years
+
+BORROWER AGE
+--------------------------------------------------------------------------------
+
+- Minimum age at application: 21
+- Maximum age at application: 88
+
+NUMBER OF BORROWERS
+--------------------------------------------------------------------------------
+
+- Maximum 2 applicants
+
+RESIDENCY REQUIREMENTS
+--------------------------------------------------------------------------------
+
+- UK resident for at least 3 years
+- Must have indefinite leave to remain
+
+REPAYMENT TYPES
+--------------------------------------------------------------------------------
+
+- Capital & Interest (C&I)
+- Interest Only (I/O)
+
+MAXIMUM LTV
+--------------------------------------------------------------------------------
+
+- C&I: up to 75%
+- Interest Only: up to 75%
+
+DEBT CONSOLIDATION
+--------------------------------------------------------------------------------
+
+- Allowed up to a maximum 75% LTV
+
+PORTFOLIO LIMITS
+--------------------------------------------------------------------------------
+
+- Maximum 4 mortgaged properties in total at completion (includes main residence)
+
+LIMITED COMPANIES
+--------------------------------------------------------------------------------
+
+- Not accepted – personal applications only
+
+MINIMUM PERSONAL INCOME
+--------------------------------------------------------------------------------
+
+- No minimum income requirement
+- Assessment based solely on rental performance
+
+================================================================================
+2. AFFORDABILITY & RENTAL ASSESSMENT
+================================================================================
+
+AFFORDABILITY METHOD
+--------------------------------------------------------------------------------
+
+- Based on rental income only
+- Rental income must cover 140% of stressed mortgage payments
+- Stress based on Interest Only payments at:
+  - Higher of: product rate + 2% or 5.5%
+
+RENTAL INCOME CALCULATION
+--------------------------------------------------------------------------------
+
+- Use 30 weeks estimated letting per year
+- Based on average of:
+  - High-season weekly rent
+  - Mid-season weekly rent
+  - Low-season weekly rent
+
+PERSONAL OCCUPANCY
+--------------------------------------------------------------------------------
+
+- Up to 90 days per year personal use allowed
+
+================================================================================
+3. LOAN PURPOSE
+================================================================================
+
+ACCEPTABLE PURPOSES
+--------------------------------------------------------------------------------
+
+- Purchase of a Holiday Let
+- Remortgage of existing Holiday Let
+- Remortgage of existing residential property to convert to Holiday Let
+
+================================================================================
+4. PROPERTY CRITERIA
+================================================================================
+
+ACCEPTABLE LOCATIONS
+--------------------------------------------------------------------------------
+
+- England (including Isle of Wight)
+- Wales
+- Scotland, including islands connected by road bridge
+
+UNACCEPTABLE LOCATIONS
+--------------------------------------------------------------------------------
+
+- Northern Ireland
+- Isle of Man
+- Channel Islands
+- Any island not accessible by road bridge
+  - Exception: Isle of Wight
+- Holiday parks / holiday complexes
+- London (Holiday Lets not accepted due to the 90-day letting cap)
+
+================================================================================
+5. UNACCEPTABLE PROPERTY TYPES
+================================================================================
+
+- Retirement or age-restricted properties
+- Sheltered accommodation
+- Park homes
+- Mobile homes
+- Caravans
+- Houseboats
+
+================================================================================
+6. PROPERTY CONDITION & MINIMUMS
+================================================================================
+
+CONDITION REQUIREMENTS
+--------------------------------------------------------------------------------
+
+- Must be in readily lettable condition
+- Allowance made for furnishing, decorating, and minor updating
+
+MINIMUM PROPERTY VALUES
+--------------------------------------------------------------------------------
+
+- Standard: £100,000
+- Above or adjacent to commercial premises: £150,000
+- Ex-public-sector:
+  - Houses: £150,000
+  - Flats & maisonettes: £250,000
+
+BEDROOMS
+--------------------------------------------------------------------------------
+
+- Maximum 6 bedrooms
+
+KITCHENS
+--------------------------------------------------------------------------------
+
+- Up to 2 kitchens acceptable
+
+ANNEXES
+--------------------------------------------------------------------------------
+
+- One fully self-contained annexe acceptable if let short-term only
+
+================================================================================
+7. NEW BUILD CRITERIA
+================================================================================
+
+ACCEPTABLE
+--------------------------------------------------------------------------------
+
+- New build houses
+- New build flats
+- Conversions completed within last 12 months
+- Developer must be registered with New Homes Ombudsman Service (NHOS)
+
+CONSTRUCTION REQUIREMENTS
+--------------------------------------------------------------------------------
+
+- Must have suitable structural warranty or Professional Consultant's Certificate (PCC)
+
+MULTI-UNIT DEVELOPMENTS
+--------------------------------------------------------------------------------
+
+- If part of a development with more than 3 units, the development must be registered with the New Homes Quality Board (NHQB)
+
+NEW BUILD INCENTIVES
+--------------------------------------------------------------------------------
+
+- Maximum 5% incentives allowed, including:
+  - Cashback
+  - Stamp duty paid
+  - Deposit contributions
+  - Legal fee incentives
+- Incentives do not need to be deducted from valuation or purchase price
+- Incentive value must be matched by applicant's own funds
+
+================================================================================
+8. EX-PUBLIC-SECTOR PROPERTIES
+================================================================================
+
+ACCEPTABLE (WITH MINIMUM VALUES)
+--------------------------------------------------------------------------------
+
+- Houses: £150,000
+- Flats / maisonettes: £250,000
+
+ADDITIONAL CONDITIONS FOR FLATS/MAISONETTES
+--------------------------------------------------------------------------------
+
+- No more than 4 storeys
+- No communal balconies
+- No open-access walkways
+
+UNACCEPTABLE
+--------------------------------------------------------------------------------
+
+- Ex-public-sector bought under Right to Buy still within pre-emption period
+
+================================================================================
+9. NON-STANDARD CONSTRUCTION
+================================================================================
+
+ACCEPTABLE (WITH CONDITIONS)
+--------------------------------------------------------------------------------
+
+- Single skin / half-brick walls allowed only in single-storey non-habitable rooms
+- Modern timber-framed properties built after:
+  - 1950 in Scotland
+  - 1970 in England & Wales
+- Modern methods of construction (MMC) considered case-by-case
+
+UNACCEPTABLE
+--------------------------------------------------------------------------------
+
+- Timber-frame properties where cavity was retrospectively filled with insulation
+
+================================================================================
+10. ABOVE OR ADJACENT TO COMMERCIAL PREMISES
+================================================================================
+
+CONSIDERED (CASE-BY-CASE)
+--------------------------------------------------------------------------------
+
+- Restaurants
+- Takeaways
+- Cafes
+- Pubs and bars
+
+MINIMUM PROPERTY VALUES
+--------------------------------------------------------------------------------
+
+- £150,000 outside London
+- £250,000 in Greater London
+
+================================================================================
+11. FLATS & MAISONETTES
+================================================================================
+
+GENERAL ACCEPTABILITY
+--------------------------------------------------------------------------------
+
+- Maximum 6 storeys as standard
+
+EXCEPTIONS
+--------------------------------------------------------------------------------
+
+- Private flats over 6 storeys may be accepted if:
+  - Developer has signed the Developer Remediation Contract (England)
+  - Or Welsh Government equivalent (Wales)
+
+ADDITIONAL REQUIREMENTS
+--------------------------------------------------------------------------------
+
+- Flats above the 3rd floor must have a lift (except Scottish tenements)
+- Non-standard construction flats limited to 4 storeys
+
+SERVICE CHARGE & GROUND RENT
+--------------------------------------------------------------------------------
+
+- Service charge ≤ 1% of property value
+- Ground rent ≤ 0.1% of property value
+- Ground rent escalation must not double more frequently than every 20 years
+- Must not be linked to property value
+
+================================================================================
+12. NEW BUILD FLATS
+================================================================================
+
+- Acceptable once fully completed
+- All communal areas must be finished
+- Appropriate warranty/certification required
+
+================================================================================
+13. LEASEHOLD REQUIREMENTS
+================================================================================
+
+- Minimum 85 years lease remaining at completion
+- Freehold flats/maisonettes are unacceptable
+
+================================================================================
+14. SCOTTISH TENEMENT FLATS
+================================================================================
+
+ACCEPTABLE IF:
+--------------------------------------------------------------------------------
+
+- Value ≥ £100,000 (or £120,000 if above commercial)
+- Built before 1915
+- Masonry construction with pitched roof
+- Maximum 5 storeys
+- No communal balconies or open-access walkways
+
+LICENSING
+--------------------------------------------------------------------------------
+
+- A Holiday Let licence may be required
+- Must be referred for review
+
+================================================================================
+15. COVENANTS
+================================================================================
+
+- Properties with restrictive covenants affecting usage are likely to be unacceptable
+- Refer if unsure
+
+================================================================================
+16. CONTACT & REGULATORY INFORMATION
+================================================================================
+
+Hodge is a trading name of Julian Hodge Bank Limited, registered in England & Wales (No. 743437).
+
+Authorised & regulated by the PRA and FCA.
+
+ADVISER SUPPORT
+--------------------------------------------------------------------------------
+
+**Telephone:** 0800 731 4076
+
+**Email:** mortgages@hodge.co.uk
+
+WEBSITES
+--------------------------------------------------------------------------------
+
+- Customer site: hodgebank.co.uk
+- Adviser site: hodgebank.co.uk/intermediaries
+
+**Document reference:** M HBTLCAG 0625
+
+================================================================================

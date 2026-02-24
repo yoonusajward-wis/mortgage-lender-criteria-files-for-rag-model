@@ -1,0 +1,1248 @@
+LENDER NAME: Saffron Building Society
+PRODUCT: Combined
+
+# Saffron Building Society - A-Z Lending Criteria
+
+**Last Updated:** 2025
+**Source:** Saffron For Intermediaries
+**For Intermediaries Only**
+
+---
+
+## Document Information
+
+This document contains comprehensive lending criteria for Saffron Building Society, organized alphabetically for easy reference.
+
+**Note:** This site is for intermediaries only.
+
+**Website:** https://www.saffronforintermediaries.co.uk/lending-criteria
+
+---
+
+## Table of Contents
+
+This guide contains 182 criteria sections organized by topic:
+
+
+### Accountants and Documentation
+
+1. Accountants
+2. Accountants Certificate/Reference
+14. Application Form
+41. Data Capture Form
+83. Identification
+84. Income
+136. Proof Of Address
+137. Proof Of Id
+138. Proof Of Income
+162. Solicitors Panel
+
+### Applicant Requirements
+
+9. Agency Workers
+13. Applicants
+39. Contractors
+53. Employment
+58. Eu / Eea Citizens
+59. Expat
+69. Foreign Nationals
+91. Joint Borrower Sole Proprietor (JBSP)
+102. Maximum Age
+106. Minimum Age
+120. Non Borrowing Occupier
+131. Probationary Period
+158. Short Term Contractors
+165. Sub-Contractors
+178. Visas
+
+### Income and Affordability
+
+4. Additional / Secondary Income
+8. Affordability Calculator
+12. Annuity Income (Retirement)
+18. Basic Pay
+19. Benefit Income
+21. Bonus
+24. BTL Minimum Income
+30. Child Benefit
+31. Child Tax Credit
+36. Commission
+50. Disability Benefit
+68. Foreign Income
+70. Foster Income
+85. Income Investments
+86. Independent Living Allowance
+97. Loan To Income (LTI)
+99. Maintenance Income
+125. Overtime
+126. Passive Income
+135. Professional Income Boost
+140. Rental Income
+148. Second Jobs
+157. Shift Allowance
+163. State Benefits
+166. Tax Credits
+181. Working Tax Credits
+
+### Self-Employed
+
+22. Bounce back loans (COVID related)
+32. CIS Workers (Construction Industry Scheme)
+63. Fixed / Short Term Contracts
+150. Self Employed
+151. Self Employed Ltd Company Director
+152. Self Employed Sole Trader
+
+### Credit History
+
+7. Adverse
+17. Bankruptcy
+29. CCJs (County Court Judgements)
+40. Credit Score
+44. Defaults
+51. DMPs (Debt Management Plans)
+89. IVAs (Individual Voluntary Arrangements)
+114. Mortgage Arrears
+175. Unsecured Arrears
+
+### Deposits and Capital
+
+5. Additional Borrowing
+25. Builders Deposits
+26. Builders Incentives
+28. Capital Raising
+46. Deposit
+73. Gifted Deposit
+74. Gifted Equity
+177. Vendor-gifted deposit
+
+### Loan Details
+
+42. Debt Consolidation
+61. Fees And Charges
+87. Interest Only
+103. Maximum Loan
+105. Maximum Term
+107. Minimum Loan
+109. Minimum Term
+124. Offers
+130. Porting
+132. Procuration Fee
+133. Product Fee's
+134. Product Transfers
+142. Repayment Vehicles
+
+### Property Types
+
+20. Block of Flats
+34. Coach Houses
+35. Commercial Property Close By
+64. Flats
+65. Flats Above Commercial
+71. Freehold Flats
+72. Freehold Houses
+78. Holiday Homes
+79. Holiday Lets
+81. House Boats
+82. House Of Multiple Occupancy (HMO)
+96. Live Work Property
+100. Maisonettes
+104. Maximum Property Value
+108. Minimum Property Value
+111. Mixed Used Properties
+112. Mobile Homes
+115. Multi Lets
+116. Multi Units
+117. New Build Flats
+118. New Build Houses
+119. New Build Warranty
+139. Property
+144. Retirement Properties
+149. Second Property
+156. Sheltered Housing
+164. Steel framed property (Older Property)
+
+### Property Construction
+
+33. Cladding
+38. Construction Types
+67. Flying Freehold
+90. Japanese Knotweed
+113. Modern Methods Of Construction
+121. Non Standard Construction
+161. Solar Panels
+170. Timber Frame Properties
+
+### Property Features
+
+3. Acreage
+11. Annexe
+54. EPC Rating
+57. Estate Rent Charges
+66. Flood Zones
+75. Ground Rent
+92. Leasehold
+110. Mining / Radon Gas Area
+143. Restrictive Covenants
+153. Service Charges
+169. Tenure
+
+### Buy-to-Let
+
+60. Exposure Limits
+95. Let To Buy
+129. Portfolio Landlords
+141. Renting Homes (Wales) Act (RHW Act)
+159. Shorthold Tenancy Agreement
+167. Tenancy / Tenants
+171. Top Slicing
+179. Wales
+
+### Special Products
+
+15. Auction Purchase
+16. Back to Back
+37. Concessionary Purchase
+47. Development Finance
+62. First Time Buyer
+77. Help To Buy
+93. Lending Into Retirement
+94. Lending Into Retirement Downsizing
+145. Right To Buy
+154. Shared Equity
+155. Shared Ownership
+172. Transfer Of Equity
+174. Undervalue Transactions
+
+### Location and Restrictions
+
+10. Agricultural ties
+48. Diplomatic Immunity
+55. Equestrian Ties
+56. Equity Share Loan Scheme
+88. Ireland
+98. Location
+122. Non Uk Taxpayers
+123. Northern Ireland
+146. Scotland
+
+### Other
+
+6. Additional Properties in background
+27. Buildings Insurance
+43. Decision In Principle
+45. Dependents
+49. Direct Debit
+52. Employer Tied Accommodation
+80. Homebuyers Report
+147. Second Charges
+160. Small Holdings
+168. Tenants In Common
+173. Trust Arrangements / Trust Deeds
+176. Valuations
+
+### Other
+
+23. Bridging Finance
+76. Guarantor Mortgages
+101. Maternity Leave
+127. Paternal Leave
+128. Paternity Leave
+180. Warranties
+182. Zero hour contracts
+
+---
+
+## Accountants
+
+Accountants must have one of the following qualifications/certifications:
+
+* Institute of Chartered Accountants of England and Wales (ICAEW)
+* Institute of Chartered Accountant of Scotland (ICAS)
+* Chartered Accountants Ireland (CAI)
+* Association of Chartered Certified Accountants (ACCA)
+* Chartered Institute of Public Finance and Accountancy (CIPFA)
+* Association of International Accountants (AIA)
+* Association of Authorised Public Accountants (AAPA)
+* The Chartered Institute of Management Accountants (CIMA)
+* The Chartered Institute of Taxation (CIOT)
+* Association of Accounting Technicians (AAT)
+* Institute of Financial Accountants (IFA)
+* Association of Taxation Technicians (ATT).
+
+## Accountants Certificate/Reference
+
+These are sent directly to the applicant’s accountant at the underwriter’s discretion via post. Should you wish the accountants reference to be sent by email, please add a note to an application and the email address of the accountant.
+
+## Acreage
+
+Properties with up to 20 acres of land are acceptable providing this is not used for commercial use.
+
+We do allow properties where land is used for hobby farming and personal equestrian use.
+
+Properties over 20 acres can be consider subject to underwriters discretion and subject to valuers comments. Please refer to the Intermediary Support Team.
+
+## Additional / Secondary Income
+
+The Society defines additional / secondary income as:
+
+* Overtime
+* Bonus
+* Commission
+
+Of which we can take:
+
+* 100% (guaranteed) ie London weighting, car allowance etc providing the amount paid is same amount
+* 50% (non-guaranteed) – we will require 3 months bank statements and payslip.
+* We can potentially consider 75% of the additional/secondary income if there is at least a 2 year track record of receipt evidenced by P60s
+
+## Additional Borrowing
+
+If the applicant is already a Saffron Building Society mortgage holder and looking for further borrowing they will need to contact our Retentions Team Telephone – **0800 072 1100** and select option 2, then option 1.
+
+## Additional Properties in background
+
+Accepted, no limit on additional properties.
+
+## Adverse
+
+We use Experian as our credit referencing agency and apply minimum Credit Score and maximum Indebtedness Index parameters as part of our lending decision.
+
+**Missed mortgage payments**  
+No more than one occurrence within the last 12 months and no more than two occurrences in the last 24 months.
+
+**Unsecured arrears**  
+No more than two occurrences within the last 24 months
+
+**CCJs and Defaults**  
+Unsettled CCJs and Defaults:
+
+Unsettled CCJs are allowed up the value of £100, however if the CCJ is under £500 and still outstanding please refer to the Intermediary Support Team.
+
+Settled CCJs and Defaults:
+
+* £500 if settled within last 24 months
+* £500+ if settled for more than 2 years
+
+**IVAs/Debt Management Plans**  
+Must be settled for three years
+
+**Bankruptcies**  
+Must be discharged over 5 years ago
+
+## Affordability Calculator
+
+Our affordability calculators can be found under the ["Calculators"](https://www.saffronforintermediaries.co.uk/calculators/) tab on the website – please select the appropriate calculator.
+
+For expat residential, please note that the calculators can only be used for UK Tax residents. For Residential Expat cases where customers are foreign tax residents, please contact the Intermediary Support Team - **01799 582925**.
+
+Please note: If the supporting borrower(s) provide less than 30% towards affordability and/or earn(s) less than the owner(s), please contact our Intermediary Support Team on **01799 582925** for an affordability assessment.
+
+## Agency Workers
+
+The applicant must have a minimum of 1 years history of working experience as an agency worker, but this can be with different companies.
+
+We require the latest P60 with 3 months payslips and 3 months bank statements.
+
+## Agricultural ties
+
+Unacceptable.
+
+## Annexe
+
+Acceptable subject to property not being sublet.
+
+Annexes with separate utilities or plot access will not be accepted.
+
+Refer to the Intermediary Support Team - **01799 582925**
+
+## Annuity Income (Retirement)
+
+We require the last 3 months advice slips and/or the latest P60
+
+## Applicants
+
+A max of 4 applicants on a Full Mortgage Application can be considered; only the 2 highest incomes can be used to support affordability.
+
+If looking for a joint borrower sole proprietor mortgage we can consider up to 4 incomes.
+
+## Application Form
+
+All applications must be submitted online via the [Saffron for Intermediaries Portal](https://www.saffronforintermediaries.co.uk/), we do not have a paper based application or a data capture form.
+
+## Auction Purchase
+
+Can be considered however please note we are unable to guarantee we can meet the exchange deadline
+
+## Back to Back
+
+We can consider applications from applicants remortgaging within the last 6 months.
+
+Refer to Intermediary Support Team
+
+## Bankruptcy
+
+Applicant must have been discharged bankrupt a minimum of 5 years.
+
+Please note we require the applicant to have a minimum Experian score of 800.
+
+## Basic Pay
+
+100% of basic salary + guaranteed allowances (e.g. area weighting allowance, car allowance, and housing allowance)
+
+## Benefit Income
+
+We cannot take benefit income into account for affordability
+
+## Block of Flats
+
+Max 5 storeys without a lift, no maximum number of storeys if property has a lift. Maximum of 1 flat per block per customer or 10% per block in aggregate. We can consider outside of these by exception only – please refer to the Intermediary Support Team on 01799 582925.
+
+## Bonus
+
+We can consider bonus income for affordability purposes: 50% (non-guaranteed) – we will require 3 months bank statements and payslip. If the applicant has more than 2 continuous year’s track history then, by underwriters discretion, we can look at 75% of the bonus.
+
+## Bounce back loans (COVID related)
+
+Self-employed applicants with bounce back loans (or other Covid related assistance) can be considered, provided the assistance is warranted and justified.
+
+## Bridging Finance
+
+Unacceptable.
+
+## BTL Minimum Income
+
+£25,000 At least one applicant must meet the minimum income requirement
+
+## Builders Deposits
+
+A maximum of 5% in the form of a builder gifted deposit or incentive (e.g. Stamp duty and deposit) scheme is allowed subject to applicants having a minimum deposit of 5% from their own resources.
+
+## Builders Incentives
+
+A maximum of 5% in the form of a builder gifted deposit or incentive (e.g. Stamp duty and deposit) scheme is allowed subject to applicants having a minimum deposit of 5% from their own resources.
+
+## Buildings Insurance
+
+It is a condition of all Saffron Building Society mortgage offers that appropriate buildings insurance cover is held over the security property for the duration of the mortgage term
+
+## Capital Raising
+
+Can be considered although documentary evidence may be required i.e., quotes for building works. Capital raising can be done for the following:
+
+* Home improvements
+* Debt consolidation
+* To purchase another property (inc BTL)
+
+Debt consolidation is limited up to 80% LTV max.
+
+We will not consider requests to capital raise for the following:
+
+* Payment of a tax bill
+* To repay gambling debts
+* Or deemed to be for any business purpose including repaying a business loan
+
+## CCJs (County Court Judgements)
+
+**Unsettled CCJs**  
+Unsettled CCJs are allowed up the value of £100, however if the CCJ is under £500 and still outstanding please refer to the Intermediary Support Team.
+
+**Settled CCJs**  
+* £500 if settled within last 24 months
+* £500+ if settled for more than 2 years
+
+## Child Benefit
+
+Unacceptable.
+
+## Child Tax Credit
+
+Unacceptable.
+
+## CIS Workers (Construction Industry Scheme)
+
+Can consider on our "Contractor" product range. We require the following:
+
+* The applicant to have 1 years industry experience
+* We require 3 month's payslips and bank statements
+* We will average the income over the last 3 months CIS slips
+
+## Cladding
+
+100% cladding on a property is acceptable, subject to valuers comments.
+
+## Coach Houses
+
+Leasehold coach houses acceptable subject to the individual valuer comments, freehold coach houses unacceptable.
+
+## Commercial Property Close By
+
+Can be considered subject to type of commercial, location and subject to valuer’s comments. Please refer to the Intermediary Support Team on 01799 582925
+
+## Commission
+
+We can consider commission for affordability purposes, providing the applicant has been in their role at least 3 months. We would average their last 3 months payslips and use 50% If they have been in their current role for 2 years and have 2 year’s p60’s, at underwriter discretion, we can consider using up to 75%
+
+## Concessionary Purchase
+
+Transaction must go through at full market value and the gifted equity deposits must come from close family members*, family friends or ex-partners. We require letter from your solicitor confirming the discount amount, name of vendor, relationship to borrower and understanding from vendor.*Close family member defined as one of:Parents, stepparents and adoptive parents;Brothers and sisters, half brothers and sisters, and stepbrothers and sisters.Children, stepchildren and adopted childrenGrandparents and step grandparentsGrandchild and step grandchild; andAunt and Uncle
+
+## Construction Types
+
+Standard construction is considered as the following: Walls: Brick, Stone, Concrete Blocks, Timber Frame – heavy (built before 1900), Timber Frame – modern – built to Building Regulations (1970 to date) New timber frame properties are acceptable providing there is masonry backfill up to damp proof course as a minimum and subject to valuers comments. Roof: Tiled, Slate, Asbestos Slate, Thatch, Cedar Shingle, Flat (bitumen or 3-layer felt) Flat Roof: Main flat roof covering is felt, asphalt, single ply elastomeric membrane or GRP. Up to 100% on purpose-built flats, but only up to 25% of entire area on houses - Subject to valuer’s comments. Single Skin Brickwork: Brickwork of single skin thickness (113mm) is generally unacceptable, except in small areas of single storey structures, for example a porch. Insulating spray foam: The Society does not lend on properties where insulating spray foam is used in the roof voids
+
+## Contractors
+
+Fixed term and short term contractors can be considered on the specific “Contractor” product range. We do not have a minimum income for Daily Rate contract workers. Income to be calculated as Daily Rate x days worked (max 5) x 48. Day Rate/Fixed term Contractors; Copy of current contract evidencing a minimum of 3 months since the start of the contract Last 1 months invoices Last 1 months bank statements Short term Contractors (including contractors employed under an umbrella company contract): 3 months bank statements; and 3 months invoices; and CV confirming applicants previous work experience Applicants must have 2 years’ employment history, a minimum of 3 months contract history backed by 3 months bank statement and invoices. CIS Contractors; Minimum 1 year working experience within the construction industry 3 months payslips 3 months bank statements Zero Hour Contractors; The applicant must have a minimum of 1 years history of working experience on a zero hours contract - can be with different employers; Latest P60 Last 3 months payslips and 3 months bank statements If both applicants are zero hours contractors we are able to consider 75% of the second applicants income providing they have a minimum of 9 months experience as a zero hour contractor
+
+## Credit Score
+
+We use Experian as our credit referencing agency and require a minimum credit score of 800 and we will review Indebtedness Index parameters as part of our lending decision.
+
+## Data Capture Form
+
+We do not have an available data capture form. For Self Build and Custom Build we do have a supplementary information form which is required to be fully completed at DIP stage.
+
+## Debt Consolidation
+
+Can consider debt consolidation up to 80% LTV We will not allow debt consolidation for: Paying back a tax Bill Gambling debts Business use
+
+## Decision In Principle
+
+These must be generated online via the Saffron for Intermediaries Mortgage Portal. It is a soft footprint on the client’s credit profile at DIP stage.
+
+## Defaults
+
+Unsettled Defaults Unsettled defaults are allowed up the value of £100, however if the default is under £500 and still outstanding please refer to the Intermediary Support Team. Settled Defaults £500 if settled within last 24 months £500+ if settled for more than 2 years
+
+## Dependents
+
+Financial dependents must be entered on the affordability calculator including adult dependants not named on the mortgage.
+
+## Deposit
+
+Acceptable sources of deposit Savings are acceptable as a source of deposits but must be accompanied by a copy of savings book or bank statement showing the full amount of the deposit; Equity – confirmation of the sale price and balance outstanding; Capital to be raised from another property – copy of the mortgage offer letter; Endowment/investment policy maturity – letter showing maturity value; Deposits provided by gift or loan must be accompanied by a Letter signed by the person making the gift confirming the amount and on what terms. Evidence of funds may be required. Gifted equity deposit, from an immediate family member and the property must be purchased at full market value. Funds from liquidation of legitimate assets where necessary evidence can be provided to satisfy source of funds requirements. Builders gifted deposit - A maximum of 5% in the form of a builder gifted deposit or incentive scheme is allowed subject to applicants having a minimum deposit of 5% from their own resources. Please refer to Intermediary support team if the deposit comes from the below source: Provided by the vendor, unless an acceptable new build incentive from the builder/developer or close family member); Protected by a Deed of Trust (or similar); The person providing it will be living in the property, but is not named on the mortgage (except where satisfactory explanation is provided for this arrangement); or There is a beneficial/equitable ownership/interest in the property. Where the source of deposit is a loan, full details will be required; Amount; Lender (explain background if not a financial institution); Loan terms (e.g. interest rate, payments required); Any security required (e.g. second charge) View our gifted deposit policy here.
+
+## Development Finance
+
+We offer development finance, please contact the team on 01799 582925
+
+## Diplomatic Immunity
+
+Unacceptable.
+
+## Direct Debit
+
+Direct debit forms are automatically generated on submission of a Full Mortgage Application and can be located in the “Documents” section of the application. Direct Debits must be from a UK Bank Account in the name of one or all of the Applicants. If the application is in the name of a Limited Company, then the UK Bank Account must be in the name of that Company. Please note that Confirmation of Payee services are now in force, which is a bank account name checking service. We will ask you to confirm the Applicants' preferred payment day by uploading a note to the application. The preferred date can be any day between 1st and 28th of the month
+
+## Disability Benefit
+
+Unacceptable.
+
+## DMPs (Debt Management Plans)
+
+All debt management plans must be settled for a minimum of 3 years.
+
+## Employer Tied Accommodation
+
+Applicants who reside in employer / tied accommodation e.g. teacher, vicar etc. can be considered on a BTL basis as long as we can obtain suitable proof of address and the security property is to be let out.
+
+## Employment
+
+Acceptable Employment Permanently employed, Full/Part time. Fixed term contracts. (Contractor range only) Short term renewable contracts (including contractors employed under an umbrella company contract). (Contractor range only) Employed director with less than 20% share. Temporary / Agency Workers. Zero hours / Bank Staff. Self-employed; Sole trader. Partnership. Company directors with more than 20% share. Min term of employment/self-employment; Employed applicants; There is no minimum time with employer however we will require up to 3 months of earnings Applicants who are in their probationary period can be considered providing they have 2 years’ work experience Self-employed applicants; Where trading for less than 2 years but with at least 1 years trading evidenced, this can be considered on the Self Employed product range. Where trading for more than 2 years can be evidenced, this can be considered on the standard product range.
+
+## EPC Rating
+
+For BTL and EXPAT BTL applications the security property must have a EPC rating of E or above. An EPC rating certificate must be provided at full mortgage application stage to show that the security property meets the legal requirement.
+
+## Equestrian Ties
+
+Unacceptable.
+
+## Equity Share Loan Scheme
+
+Unacceptable.
+
+## Estate Rent Charges
+
+Estate Rent Charges that are not specifically defined by formula or amount, or are unlimited, or are considered excessive relative to the property value (<5% of property value per annum) are not considered. Please refer if the ground rent exceeds £250 (£400 in London). Please contact the Intermediary Support Team on 01799 582925 for more information.
+
+## Eu / Eea Citizens
+
+Can be considered if the applicants have 2 years UK address history pre application.Post Brexit the applicants must have EU settlement status granted - Pre settled status accepted.Letter from home office must be a uploaded to the application to confirm.
+
+EWS1
+
+We are reliant on the valuer to comment as to whether the EWS1 form is required or not based on his physical inspection of the building as well as the current guidelines.
+
+## Expat
+
+British Nationals who hold a UK passport living and working overseas for a minimum of 3 months. Available on Ex Pat BTL product only.The foreign address is to be keyed as their primary residence on the DIP and full application.We will condition the offer for nomination of a UK solicitor with a minimum of 2 partners who will act for the applicant, on whom the society can serve notice in the event of default.Please note this is a requirement of an offer and we will not proceed to completion without this.All documentation not in English will need to be translated by a qualified translator - e.g Bank statements, payslips and proof of address documents.ID Verification for Ex-Pats:ID must be certified by someone in their country of residence by one of the following acceptable persons:British Embassy or Consulate;High Commission;Notary publicSolicitor.Each certified copy must be signed and appear with the full name, qualification, job title, address and telephone number and date of certification.The certification must be as follows: ‘I confirm that I have seen the original document’ and any photo should be confirmed as ‘a good likeness of the applicant.’For Ex-Pats we require a certified copy of their current, signed British Passport.We are unable to accept an overseas driving licence for ID or address verification.A broker can only certify documents if they have seen the met the applicant face to face and seen the documents at the same time.
+
+## Exposure Limits
+
+Maximum of 1 flat per block per customer or 10% per block in aggregate at a portfolio level.
+
+## Fees And Charges
+
+Please refer to our individual products for arrangement fees and associated fees
+
+## First Time Buyer
+
+A first time buyer is an individual who has never owned a property previously. Specific product range available up to 95% On our BTL products we do allow first time buyer / first time landlords.
+
+## Fixed / Short Term Contracts
+
+Fixed term and short term contractors can be considered on the specific “Contractor” product range. We do not have a minimum income for Daily Rate contract workers. Income to be calculated as Daily Rate x days worked (max 5) x 48. Day Rate/Fixed term Contractors; Copy of current contract evidencing a minimum of 3 months since the start of the contract Last 1 months invoices Last 1 months bank statements Short term Contractors (including contractors employed under an umbrella company contract); 3 months bank statements; and 3 months invoices; and CV confirming applicants previous work experience Applicants must have 2 years’ employment history, a minimum of 3 months contract history backed by 3 months bank statement and invoices. CIS Contractors; Minimum 1 year working experience within the construction industry 3 months payslips 3 months bank statements Zero Hour Contractors; The applicant must have a minimum of 1 years history of working experience on a zero hours contract - can be with different employers; Latest P60 Last 3 months payslips
+
+## Flats
+
+Maximum number of floors – 5 without a lift, no max on properties with a liftAbove commercial – can be considered if the commercial is not deemed as potentially affecting the suitability of the property as security.New Build flats - up to 75% of capital and interest and 60% Interest only and Part & PartStudio flats - Must be in a prime residential location and subject to valuers comments and the valuation and the internal floor area must not be less than 35 square metres; there must be a kitchen facility and a separate bathroomFreehold flats UnacceptableEx local authority flats with no deck access can be considered at a max LTV of 75% capital and interest and 60% interest only and subject to underwriting and valuationFreehold Coach Houses and Maisonettes – UnacceptableESW1 - we are reliant on the valuer to comment as to whether the EWS1 form is required or not based on his physical inspection of the building as well as the current guidelines.
+
+## Flats Above Commercial
+
+Can be considered if the commercial is not deemed as high risk – such as a restaurant, takeaways and shops or where any drugs may be kept overnight ie chemists. Please refer to the Intermediary Support Team on 01799 582925
+
+FLATS IN BLOCKS OVER 5 STOREYS
+
+Can be considered providing there is a lift in the property – please refer to the Intermediary Support Team on 01799 582925
+
+## Flood Zones
+
+If the property is subject to a flood risk we may not be able to consider.Please see further details below:Zone 1: AcceptableZone 2: Acceptable if insurable and subject to valuers commentsZone 3: Acceptable if:The long-term flood risk summary against surface water and rivers and sea is medium or lower, and;if insurable on standard terms and subject to valuers commentsCheck the flood risk score for the subject property here - https://flood-map-for-planning.service.gov.uk/
+
+## Flying Freehold
+
+Where the flying freehold portion is up to 25% of the total floor space, subject to individual valuer comments and there are satisfactory legal arrangements concerning rights of support and access for maintenance and repair in place.
+
+## Foreign Income
+
+Only income paid in GBP and subject to UK tax is taken in to account to support affordability. For Ex Pat BTL mortgage applications, clients paid in foreign income is acceptable as lending is based on the rent received.
+
+## Foreign Nationals
+
+We accept applicants on the following Visas who have resided in the UK for a minimum of two years:• Skilled Worker• Health & Care Worker• Global Talent• Spousal• Pre-settled statusMaximum of 90% LTV with a minimum income of £75,000 above 75% LTVNo minimum remaining term of current Visa.
+
+## Foster Income
+
+100% of foster income can be used if the applicant has a minimum 1-year track record of fostering, with 3 months remittance forms required to evidence the foster income Last three months remittance forms showing standard foster income payments used as primary income, excluding any ad hoc payments for clothing etc and/or any supplementary payments for additional needs such as disability Foster children must be listed as dependents. Minimum age of foster carers aligned with employed income up to age 75 Please contact the Intermediary Support Team on 01799 582925 if you are submitting a case with foster income.
+
+## Freehold Flats
+
+Unacceptable.
+
+## Freehold Houses
+
+Acceptable
+
+## Gifted Deposit
+
+Accepted from immediate family members. Deposits provided by gift or loan must be accompanied by a Letter signed by the person making the gift confirming the amount and on what terms. Evidence of funds may be required. Our gifted deposit template can be found in our Important Documents section of the website
+
+## Gifted Equity
+
+Accepted from immediate family members and landlord gifted equity for good rental conduct. Deposits provided by gift or loan must be accompanied by a Letter signed by the person making the gift confirming the amount and on what terms. Evidence of funds may be required. Our gifted deposit template can be found in our Supplementary Documentation section of the website.
+
+## Ground Rent
+
+The ground rent must not exceed £250 (£400 in London). Ground rent must not exceed 0.2% of property value or 0.1% for new build properties.For further information please contact the Intermediary Support Team on 01799 582925
+
+## Guarantor Mortgages
+
+Saffron do not offer guarantor mortgages
+
+## Help To Buy
+
+We can only assist when remortgaging to pay off the help to buy loan
+
+## Holiday Homes
+
+Holiday homes are acceptable for personal use. Properties can be let as short term let (e.g. Airbnb) for 90 days per year.
+
+## Holiday Lets
+
+Unacceptable
+
+## Homebuyers Report
+
+We do not offer or collect fees for homebuyer’s reports. If a homebuyers report is required notify us at FMA stage. The standard valuation fee will be collected & the cost of the homebuyers report will be paid by the applicant directly to the surveyor.
+
+## House Boats
+
+Unacceptable.
+
+## House Of Multiple Occupancy (HMO)
+
+Unacceptable
+
+## Identification
+
+Where possible we will verify ID electronically. If this is not possible the following will apply:All cases must have proof of Identification and Residency provided and certifiedAcceptable proof of ID;Current full UK/European passport a British Visitors passport is not acceptable)Current full or provisional UK photo card driving licence.Current full UK driving licence (old version). Old style provisional driving licences are not accepted.Inland Revenue Tax Notification/Demand/Assessment (less than 12 months old).Letter from the Benefits Agency confirming entitlement to benefits or state pension (less than 12 months old).Firearms certificate or Shot Gun certificate.Acceptable proof of residency;Local Authority tax bill or statement (valid for the current year)Utility bill or statement (under 3 months old) (current year for water bills) (mobile phone statement and internet prints are not accepted).Bank/Building Society/National Savings/Credit Union statement dated within the last 3 months – including Current; Savings or Loan statement (Not mortgage or credit card). Internet prints are not accepted. Statements printed in branch, stamped by the issuing branch, are acceptable.Current full or provisional UK photo card driving licence (if not used to verify as ID).Current full UK driving licence (old version). Old style provisional driving licences are not accepted (if not used to verify as ID).Inland Revenue Tax Notification/Demand/Assessment (less than 12 months old) (if not used to verify as ID).Letter from the Benefits Agency confirming entitlement to benefits or state pension (less than 12 months old) (if not used to verify ID).Where a customer has recently changed their name through marriage; divorce or by deed poll and provides ID in their old name and wants the account opened in the new name – we will accept ID in their old name with satisfactory evidence of their change of name e.g. marriage certificate; decree absolute; deed poll etc.). The photo ID must be certified, with the additional confirmation that the photo is a true likeness of the applicant.If the customer has lived at their current address for less than 3 months, we will require proof of residency for the new and previous address they must also provide 1 additional item from the residency verification list above to show their previous address and this address must be included in the ID searchesID Verification for Ex-Pats:ID must be certified by someone in their country of residence by one of the following acceptable persons:British Embassy or Consulate;High Commission;Notary publicSolicitor.Each certified copy must be signed and appear with the full name, qualification, job title, address and telephone number and date of certification.The certification must be as follows: ‘I confirm that I have seen the original document’ and any photo should be confirmed as ‘a good likeness of the applicant.’For Ex-Pats we require a certified copy of their current, signed British Passport.We are unable to accept an overseas driving licence for ID or address verification.A broker can only certify documents if they have seen and met the applicant face to face and seen the documents at the same time.
+
+## Income
+
+Acceptable Income;Gross annual income - 100% of basic + guaranteed allowances (e.g. area weighting allowance, shift allowance, car allowance, housing allowance)Overtime: 3 months payslips and bank statements required to evidence overtime to use 50% of the averaged yearly figure. If evidenced beyond 1 year, then up to 75% can be used at underwriters discretion.Commission: 3 months payslips and bank statements required to evidence commission to use 50% of the averaged yearly figure. If evidenced beyond 1 year, then up to 75% can be used at underwriter discretion. If commission is part of contract (e.g. Sales role) and can be evidenced by letter from employer over 3 years then 100% may be used at underwriter discretion.Bonus: 3 months payslips and bank statements required to evidence bonus payment to use 50% of the averaged yearly figure. If evidenced for at least 2 continuous years, then up to 75% can be used at underwriter discretion.Self-employed, Sole trader, Partnership or Limited Company - Please refer to ‘Self Employed’Rental income - 50% of net surplus (unless personal income is derived from a business as a professional landlord – self-employed criteria then applies)Maintenance – up to 100% (by court order – child must be 13 years or under)Personal / State Pensions - 100%Maternity Leave - 100% of basic salary upon return to work and must be confirmed by employer. Please refer to ‘Maternity/Parental Leave’ for further detailsSecond Jobs - 100% of income can be used if second job has been held for a minimum of 6 months and the applicant is not working more than 60 hours per week.Foster income - 100% of income can be used if applicant has a 1-year track record, with 3 months remittance forms required to evidence foster income . Please contact the Intermediary Support Team on 01799 582925 if you are submitting a case with foster income.Trust Funds - Refer to Intermediary Support Team 01799 582925Unacceptable Income;All Benefits - Child tax credits, housing benefit, child benefit, job seekers etc.Income paid in a foreign currency (non GBP)
+
+INCOME: DEFINED CONTRIBUTION PENSION SCHEME POT (OR MONEY PURCHASE/PERSONAL PENSION SCHEME) AND SIPPS
+
+Current fund value may be used towards annual income if it is accessible to them based on 30% haircut and the remaining 70% being used to purchase a suitability annuity or taken as an annual withdrawal at a sustainable rate, net of the applicable tax rate, for the term of the mortgage.
+
+## Income Investments
+
+Can be considered in both Retired Income and Secondary Income (for nonretired applicants). It should always be considered alongside another source of income.
+
+## Independent Living Allowance
+
+Unacceptable.
+
+## Interest Only
+
+LTV – 70%, up to 75% inclusive of fees. Further information regarding repayment vehicles can be found below: - For Lending Into Retirement click here - For Interest Only Acceptable Repayment Vehicles click here
+
+## Ireland
+
+We do not lend in Ireland.
+
+## IVAs (Individual Voluntary Arrangements)
+
+All IVAs must be settled for a minimum of 3 years.
+
+## Japanese Knotweed
+
+We cannot lend on properties with Japanese Knotweed.
+
+## Joint Borrower Sole Proprietor (JBSP)
+
+Available on the first time buyer Joint Borrower Sole Proprietor product Key parts of the criteria are: Minimum age 21 Repayment only Max LTV 95% inclusive of fees Minimum loan size: £30,000 Maximum loan size: £500,000 Maximum of 2 owner borrowers Maximum of 1 supporting borrower The maximum age of the Supporter at application is 70 years The supporting borrower must be a close family member* The supporting borrower must be the last named applicant The owner borrower(s) must meet affordability to cover a minimum of 70% of the total loan borrowed The supporting borrower must meet affordability on the shortfall, up to a maximum 30% of the total loan borrowed and must be able to evidence affordability for at least 10 yrs All borrowers will be jointly and severely liable for the monthly mortgage payments and the total amount borrowed All borrowers must declare their current financial commitments All borrowers must include their own personal and household expenditure The supporting borrower must reside in the UK Supporting borrower to receive independent legal advice The supporting borrower cannot live in the property The supporting borrower will not be named on the title deeds Applicants cannot own any other property at the time of completion (this does not apply to the supporting borrower) When inputting the case into the online portal, the intermediary should enter the ‘supporter’ as the last named applicant. *Close family member defined as one of: Parents, step parents and adoptive parents; Brothers and sisters, half brothers and sisters, and step brothers and sisters. Children, step children and adopted children Grandparents and step grandparents Grandchild and step grandchild; and Aunt and Uncle Visit our Calculators page for our JBSP calculator
+
+## Leasehold
+
+Leasehold properties are accepted. Share of freehold can be considered. On leaseholds, leases must have at least 60 years at the end of the mortgage term. Leasehold houses are accepted providing the terms of the lease are not excessive. Will consider applications where the lease is increasing simultaneously with the mortgage completion.
+
+## Lending Into Retirement
+
+We offer a variety of retirement products suitable for older applicants. We take earned income up to the age of 75. Lending can be permitted with discretion from Underwriters over the age of 80 at the end of the mortgage term, but this is subject to supporting rational. However we use ONS statistics to determine maximum term. Find out more here.
+
+## Lending Into Retirement Downsizing
+
+Minimum of £250,000 equity in property required – however £150,000 could be considered subject to due diligence around the proposal e.g. locality. Written confirmation of customer plan is required.
+
+## Let To Buy
+
+Can consider on BTL range, client must have evidence of an onward residential purchase.
+
+LIMITED COMPANY BUY-TO-LET
+
+Available up to 75% First time buyers, first time landlords accepted UK Limited companies only New SPVs allowed Company must be set up with the principal activity of buying and holding residential investment property and used for that purpose only in line with appropriate SIC Code All shareholders must be named as directors If the property is in Wales, the letting must be in the form of: A Standard Contract within the meaning of the Renting Homes (Wales) Act (RHW Act) using the model form published by the Welsh Government. The Standard Contract must be for a minimum of 6-months and maximum of 2 years to a single household. All contract holders must receive a written statement as required by the RHW Act before the end of the period of 14 days starting with the occupation date. Written statements must be in the model form published by the Welsh Government. Written statements must exclude succession rights. Written statements must prohibit sub-occupation contracts For the avoidance of doubt, Secure Contracts are prohibited.
+
+## Live Work Property
+
+Unacceptable.
+
+## Loan To Income (LTI)
+
+Maximum borrowing is assessed on an affordability basis with the max borrowing capped at a LTI of 4.49 times. We can consider up to 5 times income.Professional Income Boost product maximum borrowing is assessed on an affordability basis with the max borrowing capped at a LTI of 6 times, subject to minimum income of £30k for the professional applicant. Joint applications are considered, with a minimum income of £50,000. At least one applicant must meet the professional eligibility.
+
+## Location
+
+No post code restrictions within England and Wales. We do not lend in Scotland and Northern Ireland. Please note, for BTLs in Wales, the letting must be in the form of: A Standard Contract within the meaning of the Renting Homes (Wales) Act, (RHW Act) using the model form published by the Welsh Government. The Standard Contract must be for a minimum of 6-months and a maximum of 2 years to a single household. All contract holders must receive a written statement as required by the RHW Act before the end of the period of 14 days starting with the occupation date. Written statements must be in the model form published by the Welsh Government. Written statements must exclude succession rights. Written statements must prohibit sub-occupation contracts. For the avoidance of doubt, Secure Contracts are prohibited.
+
+## Maintenance Income
+
+Can consider up to 100% of court ordered maintenance for affordability providing that the child is under the age of 13 years old.
+
+## Maisonettes
+
+Leasehold maisonettes accepted.
+
+## Maternity Leave
+
+We are able to take 100% of basic salary upon return to work and must be confirmed by employer, required proofs; Latest payslip and P60 (where required); and Last payslip prior to maternity/ parental leave showing the full salary; and Alternative source of funds to support payments and living costs if income during maternity/ parental leave is insufficient (e.g. savings). Where an applicant intends to return to work on the same terms as before the start of maternity/ parental leave, we will need confirmation of this; Where an applicant (or either applicant if joint application) will be changing their working pattern following maternity/ parental leave, we will need a letter from the applicant’s employer confirming their return to work conditions. Ensure that anticipated childcare costs have been included in the affordability calculator. If no childcare costs provide an explanation and details of any alternative arrangements.
+
+## Maximum Age
+
+Maximum age is 80 years, but underwriter's discretion can be applied over the age of 80 at the end of the mortgage term, but this is subject to supporting rational.Only passive or pension income can be used for affordability lending over the age of 75.We do not have a maximum age for BTL however the mortgage term will be based on ONS statistics.
+
+## Maximum Loan
+
+Up to 80% LTV = £3,000,000Up to 80% LTV Owner Occupied Large Loan product(s) = £5,000,000Up to 90% LTV = £1,000,000Up to 95% = £500,000Borrowing above this can still be considered on a bespoke basis, please refer to the Intermediary Support Team on 01799 582925.
+
+## Maximum Property Value
+
+No maximum property value
+
+## Maximum Term
+
+Maximum is 40 years.
+
+## Minimum Age
+
+Minimum age is 21 but underwriter’s discretion can be applied to a minimum of 18 years. For BTL applications the applicant must 21 years old.
+
+## Minimum Loan
+
+Residential minimum loan is £100,000 Retirement (RIO) and Lending Into Retirement Downsizing minimum loan is £30,000BTL minimum loan is £30,000
+
+## Minimum Property Value
+
+Minimum property value is £100,000
+
+## Minimum Term
+
+5 Years
+
+## Mining / Radon Gas Area
+
+Subject to individual property and assessment by valuer and conveyancer involved in the Mortgage transaction.
+
+## Mixed Used Properties
+
+Unacceptable.
+
+## Mobile Homes
+
+Unacceptable.
+
+## Modern Methods Of Construction
+
+Can be considered if they are BOPAS, BBA or BRE accredited. Please contact the Intermediary Support Team to discuss further 01799 582925
+
+## Mortgage Arrears
+
+No more than one occurrence of a late or missed payment within the last 12 months and no more than two occurrences of a late or missed payment within the last 24 months.
+
+## Multi Lets
+
+Unacceptable.
+
+## Multi Units
+
+Unacceptable.
+
+## New Build Flats
+
+Accepted up to 75% of capital and interest and 60% Interest only and Part & Part.
+
+## New Build Houses
+
+Accepted up to 95% LTV on a repayment basis
+
+## New Build Warranty
+
+The list of acceptable warranty providers is below: • Compariqo • BW Build Warranty Group • CADIS • NHBC • LABC • Premier Guarantee • ICW Limited • Buildzone • Castle 10/ Checkmate • Buildassure • One Guarantee • Global Home Warranties • Q Assure • Protek • Advantage HCI • Ark Residential Insurance • *Zurich (*historical)
+
+## Non Borrowing Occupier
+
+If a non-borrowing occupier will be residing in the property, an additional occupier form/letter must be completed prior to completion. If part or all of the deposit is coming from a non-borrowing occupier, we will insist on them being listed as an applicant on the mortgage, as they will hold an interest in the property.
+
+NON-FINANCIAL INCENTIVES
+
+We may consider builders incentives, please refer to the Intermediary Support Team on 01799 582925
+
+## Non Standard Construction
+
+Can be considered by exception. Please refer to Intermediary Support Team – 01799 582925
+
+## Non Uk Taxpayers
+
+We cannot consider non UK tax payers for Residential or BTL cases however foreign income/non UK tax payers will be considered on Expat BTL cases only.
+
+## Northern Ireland
+
+We do not lend in Northern Ireland.
+
+## Offers
+
+Offers are valid for 6 months. If an extension is required this is subject to underwriter’s discretion and further supporting documentation may be required.
+
+## Overtime
+
+We can consider overtime for affordability purposes providing the applicant has been in their role for at least 6 months: We will average their last 3 months payslips and use 50%. If evidenced beyond 1 year, then up to 75% can be used at underwriters’ discretion For all additional / secondary income payments, we assess the stability of the income by reviewing the history, while at the same time, assessing the future viability of such payments.
+
+## Passive Income
+
+Only passive or pension income can be used for affordability lending over the age of 75. There is underwriter discretion for self-employed applicants who have no active day to day running / involvement of the business which the company accountant must confirm.
+
+## Paternal Leave
+
+We are able to take 100% of basic salary upon return to work and must be confirmed by employer, required proofs; Latest payslip and P60 (where required); and Last payslip prior to maternity/ parental leave showing the full salary; and Alternative source of funds to support payments and living costs if income during maternity/ parental leave is insufficient (e.g. savings). Where an applicant intends to return to work on the same terms as before the start of maternity/ parental leave, we will need confirmation of this; Where an applicant (or either applicant if joint application) will be changing their working pattern following maternity/ parental leave, we will need a letter from the applicant’s employer confirming their return to work conditions. Ensure that anticipated childcare costs have been included in the affordability calculator. If no childcare costs provide an explanation and details of any alternative arrangements
+
+## Paternity Leave
+
+We are able to take 100% of basic salary upon return to work and must be confirmed by employer, required proofs; Latest payslip and P60 (where required); and Last payslip prior to maternity/ parental leave showing the full salary; and Alternative source of funds to support payments and living costs if income during maternity/ parental leave is insufficient (e.g. savings). Where an applicant intends to return to work on the same terms as before the start of maternity/ parental leave, we will need confirmation of this; Where an applicant (or either applicant if joint application) will be changing their working pattern following maternity/ parental leave, we will need a letter from the applicant’s employer confirming their return to work conditions. Ensure that anticipated childcare costs have been included in the affordability calculator. If no childcare costs provide an explanation and details of any alternative arrangements.
+
+## Portfolio Landlords
+
+A portfolio landlord is a landlord with 4 or more mortgaged buy to let properties on or before completion.
+
+**Minimum ICR on properties being financed by the Society:**
+
+* Re-mortgage no capital raising: Rental cover 125% of pay rate
+* Re-mortgage capital raising and new BTL: Rental cover 140% of either pay rate +2% or 5.5%, whichever is higher
+* 5 Years fixed rate: Rental Cover 140% of pay rate
+
+All other BTL assets in the portfolio (not financed by the society) must meet rental cover of at least 125% of pay rate both individually and collectively.
+
+Lending is restricted to a maximum of 10 properties in aggregate but with a maximum exposure of £3m to any individual
+
+Maximum LTV is 75% on each property (this includes any fees to be added).
+
+Exceptions to the above considered on a case by case basis. Dependent on the borrower having alternative sources of income to support shortfall from operating cash flow.
+
+At FMA stage we will require a Property Portfolio to be completed and uploaded onto the case. Property Portfolio Form – Form to include properties held in both personal and business names - all applicants portfolio details can be submitted on the same form (Once completed this must be converted to PDF and uploaded within the portal)
+
+## Porting
+
+Products are portable except for self-build. All portability transactions must proceed directly by the Society and we are presently unable to facilitate them through intermediaries. Porting is defined as a situation where a borrower transfers their current mortgage product to purchase a new property. The sale of the existing property and purchase of the new property must complete simultaneously. The new loan must meet the society’s lending criteria and is subject to an affordability and underwriting assessment. The product cannot be ported to a property already owned by the borrower.
+
+## Probationary Period
+
+Applicants can be considered if they are in their probationary period provided they have a minimum of 2 years employment history.
+
+## Procuration Fee
+
+All brokers will be paid a procuration fee on all completed mortgage cases, in line with our published terms and conditions. The minimum fee which Saffron will pay at any one time is £100. Any fees due under this amount will be held until the fees payable to the broker exceed £100. Saffron will not pay interest on such an amount. The is no maximum/cap applied to procurations fees. Saffron pay procuration fees every two weeks – at the beginning and middle of each month. Fees will be paid by BACS 3 day payment service. If the broker is not registered in its own right with the FCA, any fees due will be paid to the network to which the intermediary is registered. Saffron may vary the fee structure at any time. However, we will always notify brokers within 4 weeks of the effective date or at the time of an enquiry, whichever is sooner.
+
+## Product Fee's
+
+Product fees vary between products, please refer to specific products details. See product guide
+
+## Product Transfers
+
+Retention products are available to existing SBS customers only.The following customers/situations are not permitted to switch to a new product: Commercial A mortgage loan that has had an Arrears Ratio of greater than 1.0 at any month end in the last 12-months. Head of Underwriting discretion available to approve beyond this in exceptional circumstances. Property let without consent or suspected of having done so Let with consent – these must remortgage onto a Consumer BTL when they reach the end of the product term. BTL mortgage that is currently occupied by the borrower with consent – these must remortgage onto a Residential basis when they reach the end of the product term. Mortgages that are currently in breach of contract Shared Ownership
+
+## Professional Income Boost
+
+Key points for our Professional Income Boost products:Minimum age 21Minimum term 5 yearsInterest only or repaymentInterest only to 70% max LTV and subject to an acceptable repayment strategyMinimum loan size: £100,000.Maximum loan size: £3,000,000 up to 80% LTV, £1,000,000 up to 90% LTV. Loans over this are priced on a bespoke basis and have restricted LTVsLoan to income up to 6 times to 80% LTV and 5.5 times to 90% LTV, subject to overall affordabilityMinimum income for the professional applicant is £30,000.Joint applications are considered, with a minimum income of £50,000. At least one applicant must meet the professional eligibilityEligibility Permanent and full-time employmentQualified, within the last ten years, and practising within one of the following professions:ActuaryCommercial PilotPharmacistAccountantDentistMedical DoctorArchitectSolicitorVetBarristerChartered SurveyorElectrical EngineerInvestment Banker (including sales, broker, equity analyst, investment manager) with a recognised financial institutionManagement Consultant (including Strategy Consultant) with a recognised consulting firmMortgage BrokerDocuments required to support application:All applicants must provide an employment contract, showing job title, start date, salary/benefits.Plus, at least one of the following:Certificate of degree/full qualification (including date)Completion of graduate scheme/formal training scheme (including date)Where it is a requirement to be registered to a professional body to practise, confirmation of registration must be provided.Please note that all Professional Income Boost cases will refer at DIP, to allow our Underwriters to carry out initial checks on eligibility and affordability.ProfessionProfessional BodiesActuaryThe Institute and Faculty of Actuaries (IFoA)Commercial PilotUK Civil Aviation Authority (CAA)Airline Transport Pilot Licence (ATPL)PharmacistGeneral Pharmaceutical Council (GPhC)AccountantInstitute of Chartered Accountants England & WalesInstitute of Chartered Accountants ScotlandChartered Institute of Management AccountantsAssociation of Chartered Certified AccountantsChartered Institute of Public Finance and AccountancyInstitute of Financial AccountantsDentistGeneral Dental Council (GDC)Medical DoctorGeneral Medical CouncilArchitectArchitects Registration Board (ARB)SolicitorLaw Society of Northern IrelandLaw Society of England & WalesLaw Society of ScotlandVetRoyal College of Veterinary Surgeons (RCVS)BarristerThe Bar CouncilChartered SurveyorRoyal Institute of Chartered Surveyors (RICS)Visit our Calculators page for our Professional Calculator
+
+## Proof Of Address
+
+We will accept the following for Proof of Address: Current full or provisional UK photo card driving licence or full UK paper old style licence (If using for ID verification, please provide another form of address verification) Local Authority Council Tax Bill or statement (valid for the current year) Utility bill/statement or prepayment agreement issued in the last 3 months (current year for water bills) - mobile telephone statements are not accepted Bank/Building Society/National Savings statement dated within the last 3 months - including Current; Savings or Loan statements (Not mortgage). Internet prints are not accepted, but bank statements printed in branch, stamped by the issuing branch, are acceptable UK Credit Union statement issued within the last 3 months UK Credit Card bill issues within the last 3 months and showing current address HMRC Tax Coding/Notification/Demand/ Assessment/Tax Credit letter issued within the last 12 months Care Home letter signed by an appropriate authority Letter from Commanding Officer or military unit issued in the last 3 months and confirming residency in service quarters Letter from UK College/University issued in the last 12 months and confirming in-house residency and dates Local Authority tenancy agreement issued in the last 12 months Letter from DWP or Job Centre Plus or local authority confirming entitlement to benefits or state pension issued within the last 12 months
+
+## Proof Of Id
+
+We will accept the following: UK/European passport (a British Visitor’s passport is not acceptable) If the applicant is an EU National, they must have full settled status under the EU Settlement Scheme. Current full or provisional UK photo card/paper driving licence EU ID Card British Armed Forces ID Card If any of the above are not available please contact the Intermediary Support Team on 01799 582925.
+
+## Proof Of Income
+
+Documentation (minimum) required - Employed;Last 1 month’s payslipsAlthough we can consider 1 payslip and 1 bank statement for documentary evidence, if we are using any additional non-guaranteed income such as commission or bonus we will ask for the latest 3 months pay slips, 3 months Bank statements and P60Documentation (minimum) required - Self-employed;Sole Trader/Partnership; last 2 years SA302’s or the online submitted tax returns and a tax year overview for each corresponding year. (if self-employed product – 1 years audited accounts plus projection from qualified accountant – we will send the accountants reference directly to the accountant at full mortgage application stage)Limited Company; when using salary and dividends, up to 80% LTV last 2 years SA302’s or the online submitted tax returns and a tax year overview for each corresponding year, above 80% LTV last 2 years accounts audited by qualified accountant and last 2 years tax calculations. When using net profit, last 2 years accounts audited by qualified accountant and last 2 years tax calculations (if self-employed product using any income type, – 1 years audited accounts, 1 years tax calculations, tax year overviews and a projection from qualified accountant)Documentation (minimum) required – Contractor;Current contractLatest 3 months bank statement and payslips/invoices showing invoice credits.CV outlining previous employment historyAdditional documents may be required, at underwriter discretion.
+
+## Property
+
+FlatsStudio flats; subject to valuation and the internal floor area must not be less than 35 square metres; there must be a kitchen facility and a separate bathroom.Freehold flats; UnacceptableEx local authority flats with no deck access can be considered at a max LTV of 75% capital and interest and 60% interest only and subject to underwriting and valuationOther unacceptable properties;Properties deemed uninhabitableFreehold MaisonettesFreehold Coach HousesRetirement PropertiesSheltered HousingMobile HomesHouseboatsHoliday LetsProperties with guaranteed rental schemes
+
+REMORTGAGE WITHIN 6 MONTHS
+
+We can consider applications from applicants who have remortgaged within the last 6 months. Refer to Intermediary Support Team on 01799 582925
+
+## Rental Income
+
+Rental profit showing on SA302s can be used for affordability at 50%. At underwriters’ discretion for professional landlords 90% of rental profit can be considered for affordability
+
+## Renting Homes (Wales) Act (RHW Act)
+
+If the property is in Wales, the letting must be in the form of: A Standard Contract within the meaning of the Renting Homes (Wales) Act (RHW Act) using the model form published by the Welsh Government. The Standard Contract must be for a minimum of 6-months and a maximum of 2 years to a single household All contract holders must receive a written statement as required by the RHW Act before the end of the period of 14 days starting with the occupation date. Written statements must be in the model form published by the Welsh Government. Written statements must exclude succession rights. Written statements must prohibit sub-occupation contracts For the avoidance of doubt, Secure Contracts are prohibited.
+
+## Repayment Vehicles
+
+Please refer to our Interest Only policy for guidance – Click here
+
+## Restrictive Covenants
+
+Cannot be consider if effect resalebility of the property. Please refer to the Intermediary Support Team on 01799 582925. Visit our Contact us page
+
+## Retirement Properties
+
+Unacceptable.
+
+## Right To Buy
+
+Unacceptable.
+
+## Scotland
+
+We do not lend in Scotland.
+
+SEASONAL WORKERS (E.G. FRUIT PICKERS)
+
+Unacceptable
+
+## Second Charges
+
+We cannot consider a case where there is a second charge on the property unless the applicant is capital raising to pay off the second charge.
+
+## Second Jobs
+
+100% of the income can be used if the second job for 6 months and works no more than 60 hours per week over both roles.
+
+## Second Property
+
+Acceptable
+
+SELF-BUILD
+
+Self-Build projects are accepted for applicants who want to live in the property. Please see product details and criteria here
+
+SELF-CERTIFICATION
+
+Unacceptable.
+
+SELF-EMPLOYED
+
+Income used: Sole Trader; Net Profit Partnership; Share of Net profit and/or Salary Limited Company (where shareholding is >=20%); Dividends plus Drawings. Where ownership is 50% shareholder we may consider Net profit after tax and Salary subject to underwriter discretion based on a holistic view of the business and the potential impact of depleting business reserves. Applicants with 1 years of accounts may be considered on our specialist Self-employed product range. A Self-Employed Ltd Director who has changed trading style from a sole trader can be considered for a mortgage without the need to wait for a full 12 months of Ltd co status. If they have been trading for more than 2 years, a standard residential product can be chosen. See our Supporting Documents
+
+## Self Employed
+
+Income used:Sole Trader; Net ProfitPartnership; Share of Net profit and/or SalaryLimited Company (where shareholding is >=20%); Dividends plus Drawings. Where ownership is 50% shareholder we may consider Net profit after tax and Salary subject to underwriter discretion based on a holistic view of the business and the potential impact of depleting business reserves.Applicants with 1 years of accounts may be considered on our specialist Self-employed product range.If they have been trading for more than 2 years, a standard residential product can be chosen, unless their income has risen by more than 25% in the last year. Applicants with 1 years trading, or with a rising income greater than 25% in the last year, will need to apply on the self employed product range.A Self-Employed Ltd Director who has changed trading style from a sole trader can be considered for a mortgage without the need to wait for a full 12 months of Ltd co status.See our Supporting Documents
+
+## Self Employed Ltd Company Director
+
+Affordability – Salary and DividendsAdd-back of voluntary pension contributions can be considered when calculating affordability. Please refer to BDM.If applicant is a minimum 50% shareholder we may consider Net profit after tax and SalaryFor applicants with a rising or downward trend of income we will typically use latest figures for affordability purposes. Where a rising trend is greater than 25%, the applicant will be considered on the specialist Self Employed product range, regardless of trading lengthFor applicants with fluctuating income we will typically use average figures for affordability purposes.A Self-Employed Ltd Company Director, who has changed trading style from a sole trader, can be considered for a mortgage without the need to wait for a full 12 months of Ltd company status.If they have been trading for more than 2 years with finalised accounts, a standard residential product can be chosen, unless their income has risen by more than 25% in the last year. Applicants with 1 years trading, or with a rising income greater than 25% in the last year, will need to apply on the self employed product range.
+
+## Self Employed Sole Trader
+
+Net profit after taxFor applicants with a rising or downward trend of income we will typically use latest figures for affordability purposes. Where a rising trend is greater than 25%, the applicant will be considered on the specialist Self Employed product range, regardless of trading lengthFor applicants with fluctuating income we will typically use average figures for affordability purposes.Click here to view our Supporting Documents.If they have been trading for more than 2 years with finalised accounts, a standard residential product can be chosen, unless their income has risen by more than 25% in the last year. Applicants with 1 years trading, or with a rising income greater than 25% in the last year, will need to apply on the self employed product range.
+
+## Service Charges
+
+Service charge of less than 1% of the property value is considered acceptable. Service charges over 1% of the property value are to be considered on a case-by-case basis and subject to valuer’s comments and Underwriter assessment.For further information please contact the Intermediary Support Team on 01799 582925
+
+## Shared Equity
+
+Unacceptable.
+
+## Shared Ownership
+
+Unacceptable unless applicant is remortgaging to purchase 100% share of property
+
+## Sheltered Housing
+
+Unacceptable.
+
+## Shift Allowance
+
+We can consider shift allowance for affordability purposes: Up to 75% (non-guaranteed) – of additional / secondary income paid in the previous tax year subject to underwriters discretion – 50% taken as standard 100% (guaranteed) subject to underwriters discretion For all additional / secondary income payments, we assess the stability of the income by reviewing the history while at the same time assessing the future viability of such payments.
+
+## Short Term Contractors
+
+Short term Contractors (including contractors employed under an umbrella company contract); Copy of contract and 1 months bank statements and 1 months invoices; and CV confirming applicants previous work experience We do not have a minimum income for Daily Rate contract workers. Income to be calculated as Daily Rate x days worked (max 5) x 48. Applicants must have 2 years’ employment history, a minimum of 3 months contract history.
+
+## Shorthold Tenancy Agreement
+
+Properties in England must be let out on an AST (6-24 months)
+
+## Small Holdings
+
+Personal small holdings are acceptable, if any commercial element we would be unable to consider.
+
+## Solar Panels
+
+We accept leased and owned solar panels. The conveyancer must confirm on/or before completion of the mortgage that the solar panels fitted comply with CML-BSA guidance and minimum requirements.
+
+## Solicitors Panel
+
+Solicitors must be found on the Law Society website and have at least two SRA approved managers at that firm. If not on the panel the processing team would complete due diligence checks and if satisfactory will send panel application form to solicitors. To find out if the applicants solicitors is already on panel, view our Approved Solicitor and Conveyancer Panel
+
+## State Benefits
+
+Unacceptable.
+
+## Steel framed property (Older Property)
+
+Unacceptable.
+
+## Sub-Contractors
+
+Applicants must have 2 years' experience within the same type of employment, a minimum of 3 months contract history backed by 3 months bank statement and invoices. Income to be calculated as Daily Rate x days worked (max 5 per week) x 48.
+
+**CIS Workers**  
+We require the following:
+
+* The applicant to have 2 years industry experience
+* We require 6 month's payslips and bank statements
+* A contract of employment if they have one
+* We will assess via the contract terms or if no contract available we will use an average of the last 6 months payslips.
+
+See contracting product range
+
+## Tax Credits
+
+Unacceptable.
+
+## Tenancy / Tenants
+
+For BTL's in England the property must be let on an AST (6-24 months)
+
+If the property is in England, the letting must be in the form of an Assured Shorthold Tenancy Agreements (AST) for a minimum of 6 months and a maximum of 2 years to a single household.
+
+If the property not currently let, a letter from a local estate agent confirming the potential rent (this needs to be supported by the valuation).
+
+Regulated BTL's, where the property is let to family members can be considered as long as the mortgage can be supported by affordability. Please refer to 'Income' to see acceptable and unacceptable income.
+
+Corporate tenancy can be accepted.
+
+Student lets are not acceptable.
+
+If the property is in Wales, the letting must be in the form of:
+
+* A Standard Contract within the meaning of the Renting Homes (Wales) Act (RHW Act) using the model form published by the Welsh Government.
+* The Standard Contract must be for a minimum of 6-months and a maximum of 2 years to a single household
+* All contract holders must receive a written statement as required by the RHW Act before the end of the period of 14 days starting with the occupation date.
+* Written statements must be in the model form published by the Welsh Government.
+* Written statements must exclude succession rights.
+* Written statements must prohibit sub-occupation contracts
+* For the avoidance of doubt, Secure Contracts are prohibited.
+
+## Tenants In Common
+
+Can be considered subject to underwriting and advice from the conveyancers involved in the mortgage transaction
+
+## Tenure
+
+Freehold and Leasehold properties are accepted (not freehold flats). Share of freehold can be considered. On leaseholds, leases must have at least 60 years at the end of the mortgage term. Will consider applications where the lease is increasing to an acceptable term, simultaneously with the mortgage completion.
+
+## Timber Frame Properties
+
+New timber frame properties are acceptable, providing there is masonry backfill up to damp proof course as a minimum, and subject to valuers comments. Timber frame properties, constructed between 1900 and 1970, would not be considered.
+
+## Top Slicing
+
+Use of personal income (Top Slicing) can be utilised to cover a rental income ICR shortfall if:
+
+* A minimum ICR of 110% is achieved on anticipated rental income, and
+* One applicant earns a minimum income of at least £75,000, or
+* Multiple applicants with income more than £100,000
+* Receipt of a fully completed income and expenditure planner evidencing the rental shortfall is serviceable.
+
+## Transfer Of Equity
+
+Can run simultaneously with a mortgage application, terms must be highlighted to the underwriters at DIP stage.
+
+## Trust Arrangements / Trust Deeds
+
+Unacceptable
+
+## Undervalue Transactions
+
+Unacceptable.
+
+## Unsecured Arrears
+
+No more than two late or missed payments within the last 24 months
+
+Please note we require the applicant to have a minimum Experian score of 800.
+
+## Valuations
+
+Our valuers panel manager is Connells. Basic mortgage Valuation fees are listed on the website under the Valuation fees section. Please note – we instruct valuation on submission of a full mortgage application (excluding Self Build)
+
+## Vendor-gifted deposit
+
+Can be considered if the applicant is being gifted a deposit from their existing landlord.
+
+We will not accept any other scenarios of vendor-gifted deposit accepted.
+
+## Visas
+
+We accept applicants on the following Visas who have resided in the UK for a minimum of two years:
+
+* Skilled Worker
+* Health & Care Worker
+* Global Talent
+* Spousal
+* Pre-settled status
+
+Maximum of 90% LTV with a minimum income of £75,000 above 75% LTV
+
+Joint minimum income of £100,000 can be considered by Underwriter discretion, provided one applicant earns over £75,000.
+
+No minimum remaining term of current Visa.
+
+## Wales
+
+Saffron do lend for residential and BTL properties in Wales.
+
+The letting must be in the form of:
+
+* A Standard Contract within the meaning of the Renting Homes (Wales) Act (RHW Act) using the model form published by the Welsh Government.
+* The Standard Contract must be for a minimum of 6-months and a maximum of 2 years to a single household
+* All contract holders must receive a written statement as required by the RHW Act before the end of the period of 14 days starting with the occupation date.
+* Written statements must be in the model form published by the Welsh Government.
+* Written statements must exclude succession rights.
+* Written statements must prohibit sub-occupation contracts
+* For the avoidance of doubt, Secure Contracts are prohibited.
+
+## Warranties
+
+The list of acceptable warranty providers is below:
+
+* Compariqo
+* BW Build Warranty Group
+* CADIS
+* NHBC
+* LABC
+* Premier Guarantee
+* ICW Limited
+* Buildzone
+* Castle 10/ Checkmate
+* Buildassure
+* One Guarantee
+* Global Home Warranties
+* Q Assure
+* Protek
+* Advantage HCI
+* Ark Residential Insurance
+* \*Zurich (\*historical)
+* ABC+ Warranties
+
+## Working Tax Credits
+
+Unacceptable.
+
+## Zero hour contracts
+
+Acceptable subject to:
+
+* The applicant must have a minimum of 1 years history of working experience on a zero hours contract - can be with different employers. If they have been contracting continuously for more than 2 years, a standard product can be chosen, subject to income evidence.
+* We require the latest P60 with 3 months payslips and 3 months bank statements.
+* If both applicants are zero hours contractors, we are able to consider the second applicants income at 75% providing they have 9 months experience as a zero hour contractor, subject to underwriters discretion.
+
+---
+
+## Need Help?
+
+### Intermediary Support Team
+
+For assistance with specific cases or queries, please contact:
+
+**Telephone:** 01799 582925
+
+### Intermediary Mortgage Portal
+
+Use our [Intermediary Mortgage Portal](https://www.saffronforintermediaries.co.uk/) to register your case.
+
+### Calculators
+
+Take advantage of our range of helpful calculators from monthly repayments to client's affordability. Available under the ["Calculators"](https://www.saffronforintermediaries.co.uk/calculators/) tab on the website.
+
+### Important Documents
+
+For forms, guides, and other important documents, please visit the [Important Documents](https://www.saffronforintermediaries.co.uk/important-documents/) section of the website.
+
+### Contact Us
+
+For general enquiries, visit our [Contact us](https://www.saffronforintermediaries.co.uk/contact-us/) page.
+
+---
+
+## Main URLs
+
+- https://flood-map-for-planning.service.gov.uk/
+- https://www.saffronforintermediaries.co.uk/
+- https://www.saffronforintermediaries.co.uk/calculators/
+- https://www.saffronforintermediaries.co.uk/contact-us/
+- https://www.saffronforintermediaries.co.uk/important-documents/
+- https://www.saffronforintermediaries.co.uk/lending-criteria
+- https://www.saffronforintermediaries.co.uk/products/
+- 01799582925
+- 08000721100

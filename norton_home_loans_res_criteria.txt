@@ -1,0 +1,866 @@
+LENDER NAME: Norton Home Loans
+PRODUCT: Residential
+
+# Norton Home Loans - Mortgage Lending Criteria
+
+**Source:** 
+* [Norton Home Loans - First Charge Mortgage Criteria (May 2025)](https://www.nortonhomeloans.co.uk/Documents/FirstChargeMortgageCriteria0525.pdf)
+* [Norton Home Loans - Second Charge Mortgage Criteria (May 2025)](https://www.nortonhomeloans.co.uk/Documents/SecondChargeMortgageCriteria0525.pdf)
+* [Knowledge Bank - Norton Home Loans](https://www.knowledgebank.uk/bank/norton-home-loans)
+
+**Last Updated:** May 2025  
+**Version:** Comprehensive Mortgage Lending Criteria Guide (First & Second Charge)
+
+**FOR INTERMEDIARY USE ONLY**
+
+This document contains comprehensive mortgage lending criteria from Norton Home Loans covering both first charge and second charge (secured loan) mortgage applications.
+
+---
+
+# PART 1: FIRST CHARGE MORTGAGE LENDING CRITERIA
+
+---
+
+## Summary of Criteria
+
+* Mortgages from **£3,000** upwards
+* Up to **30-year term**
+* Unusual properties with a reduced LTV
+* Applicants on Benefits/Pensions
+* Minimum age of applicants **21 years**
+* The term must not extend past the **85th birthday** of customers unless their income is not being used in affordability
+
+---
+
+## Applicants
+
+We can accept a maximum of **4 applicants**.
+
+### Applicants Aged Over 80
+
+Legal charge/Standard Security must be witnessed and stamped by a solicitor who must also complete the Independent Legal Advice letter confirming that documents have been explained and where applicable the implications of consolidating unsecured debts to secure have also been explained.
+
+### Married Applicants
+
+* A loan will be acceptable in a sole name when both the property and mortgage are registered in the same sole name.
+* Affordability will be calculated using the sole named applicant's income only.
+
+### Non-British Nationals
+
+For all non-British Nationals an original passport is required, and we must be satisfied they have either temporary rights to remain or permanent rights to reside in the UK.
+
+**Documentation acceptable to confirm permanent rights to reside in the UK:**
+
+* Right to reside permit or immigration status from GOV.UK
+* EU migrants we can accept 5 years proof of UK residence
+* Non-EU migrants – Other evidence may be acceptable on referral
+
+For customers with Temporary rights to remain, we will require a **300+ credit score** and we will need confirmation of the progress towards their permanent residency.
+
+---
+
+## Mortgages into Retirement
+
+If the mortgage term is to extend into the retirement of the applicants, we must have confirmation how they intend to maintain repayments after they have stopped working. We will accept the applicant stating that they intend to work up to the age of **75**. After 75 the mortgage repayments must fit on their future pension income which must be stated on the Lending into Retirement document and proven by a copy of their pension statement. The term must not extend past the **85th birthday** of customers whose income we are using within affordability calculations.
+
+---
+
+## Mental Capacity
+
+All customers must show that they have the mental capacity to enter into and understand the Mortgage agreement.
+
+---
+
+## Bankruptcy
+
+Bankrupt within the last **3 years** unacceptable.
+
+---
+
+## Debt Relief Order
+
+Debt Relief Order within the last **2 years** unacceptable.
+
+---
+
+## IVA
+
+### Plans Optimal 1, Optimal 2, A, A HLTV & B
+
+We will lend to applicants who have been paying a minimum of **54 months** of an Individual Voluntary Arrangement (IVA) but this must be repaid from the proceeds of the loan. A settlement figure must be obtained from the Supervisor of the IVA and confirmation obtained that they will have no interest in the security address once the settlement has been received.
+
+---
+
+## Debt Management Plans (DMP)
+
+* We need the amount of the current balance outstanding and proof of **12 months** satisfactory conduct.
+* We need a start date MMYY for the DMP and the reasons why this was entered into.
+* Breakdown of creditors required and explanation for why we are clearing or why we are leaving the DMP outstanding.
+
+**Plans Optimal 1 & Optimal 2 are not available for customers with current Debt Management Plans or DAS'.**
+
+---
+
+## Property
+
+### If the Value of Property is as Follows:
+
+* Less than **£60,000** the LTV is plan less **25%**.
+* Less than **£80,000** the LTV is plan less **15%**.
+* Properties over **£80,000** LTV as plan.
+
+If the construction of the property is other than brick and tiles, then a valuation must be carried out. If the valuation states that the property is mortgageable by conventional means then no restrictions will be imposed, otherwise the LTV is reduced to **50%**.
+
+### Flats
+
+* We do not lend on freehold flats.
+* Ex council flats minimum valuation **£100,000**.
+
+### High Rise Flats
+
+We may lend on High Rise Flats (residences in buildings within excess of six storeys) providing the Valuation exceeds **£200,000**.
+
+### Ex-Council Properties
+
+Housing Act discount ignored for LTV unless it is still in the first year. The discount received will be added to the outstanding mortgage lending.
+
+### Tenanted Properties
+
+We do not lend on tenanted properties.
+
+### Shared Ownership Properties
+
+We do not lend on shared ownership properties.
+
+### Commercial/Semi-Commercial Properties
+
+We do not lend on commercial or semi-commercial properties.
+
+### Leasehold Properties
+
+There must be at least **40 years** unexpired term remaining on the lease at the end of the loan term.
+
+### Unencumbered Document
+
+The applicant is to confirm how the property came to be mortgage free. We reserve the right to request documentation to prove this. If the property was gifted, we require a bankruptcy search on the person who gifted the property. If the property was purchased outright with cash and the value is less than **£100,000** we will require a full valuation.
+
+### Geographical Area
+
+We do not lend in **N Ireland, Isle of Man & Channel Islands**.
+
+### Purchases and Council 'Right to Buys'
+
+* We will require a full valuation report on all purchases and RTB cases. The discount papers are required on RTBs. We will require previous mortgage history or 12 months' rent reference on all cases.
+* The total purchase price on a RTB property must not exceed **80% LTV**.
+* Lending further funds on a RTB purchase is available to a maximum of **£10,000** over the purchase price and/or a maximum LTV of **80%**.
+* Fees may be added to the mortgage subject to the maximum LTV for the plan.
+
+### First Time Buyers
+
+* If the applicants are currently private renting, then we will require a satisfactory **12 month rent reference**.
+* If the applicants are currently living with parents, we will require a director's day one approval on all cases to assess this in a case-by-case manner.
+* Proof of Deposit is required in all cases.
+
+---
+
+## Valuations
+
+### A Hometrack AVM is Required in All Cases Subject to the Following:
+
+* Where LTV is less than or equal to **60%** the AVM must have a minimum confidence level **4**.
+* Where LTV is less than or equal to **80%** the AVM must have a minimum confidence level **5**.
+
+Where the AVM confidence level is less than 4 or fails completely and LTV is less than **50%** then comparables are accepted subject to:
+
+* Minimum of **2 comparables**.
+* Date of comparable valuation within the last **3 years**.
+* Distance within **2-mile radius**.
+
+An average of the 2 comparables should be used for the valuation figure in all calculations.
+
+Where the AVM does not have the required confidence level and comparables not acceptable a full valuation must be undertaken. A Drive-by valuation will be accepted in place of an AVM.
+
+**All RTBs and Purchases require a full valuation.**
+
+---
+
+## Income & Expenditure
+
+* Minimum income for joint incomes from **£15,000.00** to **£20,000.00** requires a minimum Equifax credit score of **350**.
+* For joint incomes from **£20,000.01** upwards a minimum Equifax credit score of **200** is required.
+* The minimum income acceptable on Optimal 1 & Optimal 2 is **£25,000.00**.
+
+An income and expenditure form is to be completed in all cases and this will be verified by the Lender before a Binding Offer is issued.
+
+All non-consolidated unsecured credit will be calculated in the affordability.
+
+One month's bank statement to verify the income and expenditure that has been stated and reporting a minimum of one month's household transactions will be required.
+
+Consolidated credit may require repaying directly from the mortgage proceeds unless it is affordable within the affordability calculations. Applicants to provide settlement figures and bank details for repayment in all cases.
+
+### Income Assessment
+
+* For credit cards and mail orders used in the affordability calculation we will use **2%** of the balance outstanding unless the actual minimum repayments are evidenced as lower.
+* For CCJs and defaults the applicant is to advise the monthly repayment amount paid.
+* Employed applicants must produce recent payslips and net wage will be used for calculations.
+* Income from multiple employments can be accepted.
+* If in a new employment an average of **3 consecutive payslips** will be used. An employer's letter/contract confirming employment and salary will also be accepted. We accept applicants in a probationary period.
+* Applicants employed on temporary contracts will be accepted subject to having a continuous employment history in the last **2 years**, otherwise refer.
+* Agency workers accepted subject to having a continuous employment history in the last **2 years**, otherwise refer.
+* We also accept zero hours contracts and contractors' incomes. For zero-hour contracts we will require **8 weekly payslips** or **2 months' payslips** to calculate an average of the income.
+
+### Benefit and Other Income
+
+* Benefit income acceptable other than Job Seekers Allowance. Benefit income must be in the applicant's name only.
+* Universal Credit income acceptable.
+* ESA can be used if it's alongside PIP. We can consider using it in other circumstances if it can be proven to be permanent and sustainable.
+* Pensions & benefits applicants must provide evidence of all income i.e. award letters, pensions advise slip, P60.
+* Bonus Commission and Overtime can be considered if consistent and regularly shown on payslips.
+* **75% of foster income** is acceptable with 3 months invoices and matching Bank Statements.
+* Pay Day loans may be accepted subject to plan restrictions, providing they are not excessive and have a plausible reason.
+* Child benefit/child tax credits/child maintenance acceptable. We require the ages of children. We will need to see the full up to date awards letters in all cases. Child related income can be used for the full term of the loan where the children are below the age of **14** on application. Where child related income is received for children 14 and over and the loan term will take them beyond the end date of the child related income, an explanation will be required to demonstrate future affordability.
+* **75% of Lodger income** is acceptable with a tenancy agreement and 3 months bank statements as proof of receipt, providing the tenant is not related.
+* Rental income not acceptable.
+* Board income from children is not acceptable.
+* We will calculate a maximum **50% DTI** calculation on all cases to include all secured and unsecured credit.
+* All income for all parties must be proven on all cases.
+
+---
+
+## Interest Rate Stress Test
+
+We will re-calculate the mortgage repayment using an appropriate stress test to ensure that they are both affordable within our calculations should interest rates rise.
+
+---
+
+## Co-Habiting Non-Owners
+
+We will generally only use the income from the persons named on the deeds to the property. We will accept income of a partner if registered for one year or more on the voter's roll.
+
+---
+
+## Self Employed
+
+* Self-employed can be considered.
+* Self-employed applicants must have been trading for a minimum of **one year**.
+* Accounts/Accountants Certificate/SA302 is required plus up to date business bank statements for at least **3 months**.
+
+We must be confident that the applicant can afford the repayments over the full term of the mortgage.
+
+---
+
+## General Criteria
+
+### Fees
+
+* The Lender Fee and Broker Fee can be added to the loan amount.
+* The Lender Fee and Broker Fee (if applicable) can be paid upfront on the day of completion.
+
+### Early Redemption of Loans
+
+An Early Redemption Charge will be charged whilst in a fixed rate period (please refer to the ESIS & Mortgage Offer). For all other cases please refer to ESIS & Mortgage Offer. A redemption administration fee will be charged in all cases.
+
+### Underwriting Guidelines
+
+#### Items We Will Need for Each Application:
+
+* Signed and completed application form.
+* Proof of income (see income).
+* Equifax Credit Search.
+* Mortgage offer document & Legal Charge or Standard Security signed and witnessed.
+* Office copies.
+* Copy of Mortgage Illustration (ESIS) sent to client.
+* Bank Statement (minimum 1 month's transactions).
+* Hometrack/Valuation.
+
+#### Items We May Need:
+
+* Full title deeds plus copy of Conveyance/assent/assignment for unregistered land.
+* Solicitors ILA for applicants aged 80+ or non-English speakers.
+* Redemption figures with undertaking for any loans that are being repaid.
+* Arrears explanation from the customer regarding why the arrears occurred is required for any arrears/defaults/CCJs in the last 1 year.
+* Marriage/Birth/Death certificate, Divorce paperwork, and/or Deed Poll document.
+* Copy of lease.
+* Local search (for purchases & right to buys).
+* Discount papers for right to buys.
+* 12 months' rent statement or mortgage history (for purchases/right to buys).
+* Proof of Deposit.
+* If the property has been gifted, we require the giftor's full name to complete a bankruptcy search.
+
+---
+
+## Witnessing
+
+### Legal Charge/Standard Security
+
+All legal charge documents and standard security documents must be witnessed and completed by a non-family member.
+
+Borrowers aged 80 or over or non-English speaking must have their legal charge/Standard security documents witnessed by a Solicitor, who must stamp the document with their company stamp. The Independent Legal Advice letter must be completed to verify that the documents have been explained.
+
+---
+
+## Identification and Proof of Residency
+
+Applicant's identity and residency will be electronically verified via the AML profile on the Equifax Credit search.
+
+Our minimum requirements are:
+
+* Total Residency Verifications – **2**.
+* Total Identity Verifications – **1**.
+* Total Alerts – **0**.
+
+Where the above minimums are not met then you must see original signature identification and proof of residency for the current year.
+
+### Acceptable Identification:
+
+* Current signed UK or EU passport.
+* Copy of bankcard supported by an original bank statement less than 3 months old.
+* Full driving licence.
+* Armed forces/police ID card.
+* Provisional Driving Licence (photo version only).
+* Valid self-employed registration card (C1S4, C1S5, C1S6 and SC60).
+* Shotgun firearms certificate (must also provide signature ID such as bank/credit card).
+* EEA member state identity card.
+* Residence permit issued by the home office.
+* National identity card bearing a photograph of the applicant.
+
+### Acceptable Proof of Residency:
+
+* Recent utility bill (within 3 months) - not mobile phone.
+* Valid full driving licence.
+* Valid provisional driving licence (photo version only).
+* Current TV Licence.
+* Benefits letters (within 3 months).
+* Inland Revenue letters (within 3 months).
+* Current buildings insurance policy.
+* Accountants/Solicitors letter (within 3 months).
+* Current council tax bill.
+* Council or housing association rent card or tenancy agreement for the current year.
+
+If an applicant is unable to provide any of the above items, we accept a stamped and signed Certificate of Identity from a person in a position of responsibility who has known them a minimum of two years and can verify their signature and address. We need to know the name, address, telephone number and occupation of the person providing the verification.
+
+---
+
+## Further Advances
+
+Any applicants for further advances will be treated as a new application and all documents must be provided as for a new Mortgage. Broker fees and commission to be charged on the further advance amount only. For all Further Advances a Fixed Lender Fee of **£495** will be charged.
+
+The Early Redemption Charge will not be charged for further advances.
+
+We may decline to lend if the customer has had difficulty in repayment of the existing mortgage.
+
+---
+
+## Commission and Broker Fee Disclosure
+
+Both commission and the broker fee must be disclosed to the applicants on the mortgage offer document.
+
+---
+
+## Responsible Lending and Delivering Good Customer Outcomes
+
+If a mortgage application is deemed not to be in the interests of the borrowers, as a responsible lender we reserve the right to decline the application or ask for additional documents to support the application. Norton Home Loans are committed to delivering good outcomes for its customers in line with Principle 12 of the Consumer Duty, the crosscutting rules and 4 specific outcomes. We consider the needs, objectives and characteristics of the customer throughout the mortgage design process and application journey, to ensure that we deliver high levels of consumer care and take steps to avoid any foreseeable harm. The delivery of good customer outcomes is central to our culture, mission statement and purpose.
+
+---
+
+## Client Funds
+
+If the mortgage application is a joint application, it is preferable to pay out to a joint bank account or by joint cheque, but if it is not possible, we will pay out to one party upon receipt of verbal confirmation from both applicants during the security call. We will not pay out to anybody not on the proprietorship register of the house.
+
+We will do a security check with all parties to the loan in all cases.
+
+---
+
+## General Principles of Fair Business Practice
+
+When you signed your Standard Terms of Business, you agreed to comply with all regulatory requirements, including adherence to the FCA's Consumer Duty. Norton and the FCA expect all firms operating within the lending sector to comply with the FCA's rules and guidance. Some of the main highlights are shown below:
+
+* **Distributors** must take steps to ensure the delivery of good customer outcomes.
+* **Distributors** must take reasonable steps to comply with the Consumer Duty cross cutting rules, to act in good faith, avoid causing foreseeable harm and enable and support customers achieve their financial goals and objectives.
+* **Distributors** must take necessary steps to understand the target market, including their needs, objectives and characteristics, including characteristics of vulnerability.
+* **Distributors** must ensure that their services offer fair value, in addition to the lending products they recommend to their customers.
+* **Distributors** must take steps to ensure that their communications are tailored to meet the information needs of their customers, in a manner that they can understand, so that they can make an informed decision as to whether the product is suitable for them.
+* **Distributors** must take steps to support their customers so that the services offered meet their needs, they perform as expected, and do not pose any unreasonable barriers to exit an agreement, complain, make enquiries, or terminate the relationship with the firm.
+* Borrowers must be allowed sufficient time to reflect on the terms and conditions of the proposed agreement and must not be subjected to any high-pressure selling. They need to understand the risks associated with taking out a secured loan on their residential property and should be encouraged to take independent advice before signing and allowed adequate opportunity to do so. This will form part of our final security checks.
+* There must be transparency in all dealings with all borrowers, with early disclosure of key contract terms and conditions (including rates and charges).
+* Contract terms and conditions must be fair and clear, in plain and intelligible language, which can be easily understood by borrowers.
+* No irresponsible lending, with all underwriting decisions being subject to a proper assessment of the borrower's ability to repay the loan without undue hardship and without resort to the security, taking full account of all relevant circumstances and any reasonably foreseeable future circumstances.
+
+---
+
+## Customers with Characteristics of Vulnerability
+
+The FCA describes a "vulnerable consumer" as "someone who, due to their personal circumstances, is especially susceptible to detriment". This is a very broad description and covers anyone who is at an additional risk of harm as a result of their personal circumstances.
+
+The FCA has identified several risk factors that it considers may be associated with vulnerability including:
+
+* low literacy, numeracy and financial capability skills.
+* physical disability.
+* severe or long-term illness.
+* mental health problems.
+* low income (for example, less than **£13,500** per year) and/or debt.
+* caring responsibilities.
+* being elderly (which may be associated with cognitive or dexterity impairment, sensory impairments such as hearing or sight, onset of ill-health, not being comfortable with new technology).
+* being young (associated with less experience).
+* change in circumstances (e.g. job loss, bereavement, divorce).
+* lack of English language skills.
+* Non-standard requirements or credit history (for example armed forces personnel returning from abroad, ex-offenders, care-home leavers, and recent immigrants).
+
+We are also to use our experience of having dealt with potentially vulnerable and vulnerable customers, to know that other factors could be considered as 'triggers' for vulnerability. These may include:
+
+* Bereavement.
+* Receipt of certain benefits.
+* Relationship breakdowns.
+* A sudden change in living arrangements.
+
+There are also many other situations and circumstances. The above categories do not mean a customer is automatically vulnerable, but it means that they are more likely to be more vulnerable than the average customer. We assess vulnerability on a case-by-case basis, focusing on the individual.
+
+Certain individuals with characteristics of vulnerability may have limitations in Financial Literacy and Mental Capacity. Brokers must ensure they adhere to the guidance issued by the Money Advice Liaison Group's Debt and Mental Health Good Practise Guidelines.
+
+Brokers must be aware that if at any point in the application for credit process they suspect or gain knowledge that the customer has mental capacity or financial literacy limitations then they must act in accordance with the MALG guidance.
+
+A non-exhaustive list of circumstances which may lead the Broker to suspect customer limitations in mental capacity or financial literacy follows:
+
+* Where disclosure is given by the applicant.
+* Where disclosure is given by someone likely to have an informed view, such as a partner or carer etc.
+* Where a Power of Attorney is known to exist.
+* Where medical evidence exists or a previous diagnosis.
+* Where the applicant acts out of character or in an unexpected manner.
+* Where the applicant cannot retain information concerning their application or appears confused about personal or financial information.
+* Where the applicant does not understand what they are applying for or information given to them.
+* Where the applicant appears unable to weigh up information or communicate their borrowing decision by reasonable means.
+
+Where there is suspicion that an applicant has a mental capacity or financial literacy limitation, the applicant shouldn't be regarded as being unable to make a decision unless steps have been taken to assist first without success.
+
+Brokers should provide assistance to these applicants in clear language to help them make decisions, rather than immediately declining their application.
+
+### The Following Measures Can Be Taken to Help an Applicant's Understanding:
+
+* Providing additional information on the "key risks" of the agreement, which can include features of the agreement, how much they will pay, the consequences of not maintaining payment, advisability of considering pre-contract information and their ability to request further information if required.
+* Carrying out a detailed assessment of the applicants' financial circumstances to ensure their ability to afford to meet repayments in a suitable manner.
+* Ensuring that applicants do not take unsuitable credit, even where this is affordable. An example would be an applicant settling unsecured credit with a secured loan, without any obvious benefit.
+* Giving applicants adequate time to weigh up the information and explanations provided in order to better enable them to reach responsible borrowing decisions.
+* Referring the applicant to suitable not-for-profit third parties for additional advice, such as Citizens Advice Bureau.
+
+Where there is suspicion or knowledge of mental capacity or financial literacy limitations, all applications must be referred and marked for the attention of the Norton underwriting team.
+
+You should note what additional steps you have taken to assist customer understanding. Norton may require independent legal advice to be carried out to ensure that the customer has full understanding.
+
+---
+
+# PART 2: SECOND CHARGE MORTGAGE (SECURED LOAN) LENDING CRITERIA
+
+## Summary of Criteria
+
+* Loans for **any purpose**.
+* Loans from **£3,000** upward.
+* Up to **25 years** term.
+* Applicants on Benefits/Pensions.
+* Minimum age of applicants **21 years**.
+* The term must not extend past the **85th birthday** of customers unless their income is not being used in affordability.
+
+---
+
+## Applicants
+
+We can accept a maximum of **4 applicants**.
+
+### Applicants Aged Over 80
+
+Legal charge must be witnessed and stamped by a solicitor who must also complete the Independent Legal Advice letter confirming that documents have been explained and where applicable the implications of consolidating unsecured debts to secured have also been explained.
+
+### Married Applicants
+
+* A loan will be acceptable in a sole name when both the property and mortgage are registered in the same sole name.
+* Affordability will be calculated using the sole named applicant's income only.
+
+### Non-British Nationals
+
+For all non-British Nationals an original passport is required, and we must be satisfied they have either temporary rights to remain or permanent rights to reside in the UK.
+
+**Documentation acceptable to confirm permanent rights to reside in the UK:**
+
+* Right to reside permit or immigration status from GOV.UK.
+* EU migrants we can accept 5 years proof of UK residence.
+* Non-EU migrants – Other evidence may be acceptable on referral.
+
+For customers with Temporary rights to remain, we will require a **300+ credit score** and we will need confirmation of the progress towards their permanent residency.
+
+---
+
+## Loans into Retirement
+
+If the loan term is to extend into the retirement of the applicant, we must have confirmation how they intend to maintain repayments after they have stopped working. We will accept the applicant stating that they intend to work up to the age of **75**. After 75 the loan repayments must fit on their future pension income figure which must be stated on the Lending into Retirement document and be proven by a copy of their pension statement. The term must not extend past the **85th birthday** of customers whose income we are using within affordability calculations.
+
+---
+
+## Mental Capacity
+
+All customers must show that they have the mental capacity to enter into and understand the loan agreement.
+
+---
+
+## Bankruptcy
+
+Bankrupt within the last **3 years** unacceptable.
+
+---
+
+## Debt Relief Order
+
+Debt Relief Order within the last **2 years** unacceptable.
+
+---
+
+## IVA
+
+### Plans Optimal 1, Optimal 2, A, A HLTV, B & C
+
+We will lend to clients who have been paying a minimum of **54 months** of an Individual Voluntary Arrangement (IVA) but this must be repaid from the proceeds of the loan. A settlement figure must be obtained from the Supervisor of the IVA and confirmation obtained that they will have no interest in the security address once the settlement has been received.
+
+---
+
+## Debt Management Plans (DMP)
+
+* We need the amount of the current balance outstanding and proof of **12 months** satisfactory conduct.
+* We need a start date MMYY and the reasons why this was entered into.
+* Breakdown of creditors required and explanation for why we are clearing or why we are leaving the DMP outstanding.
+
+**Plans Optimal 1 & Optimal 2 are not available for customers with current Debt Management Plans or DAS'.**
+
+---
+
+## Property
+
+### If the Value of Property is as Follows:
+
+* Less than **£60,000** the LTV is plan less **25%**.
+* Less than **£80,000** the LTV is plan less **15%**.
+* Properties over **£80,000** LTV as plan.
+
+If the construction of the property is other than brick and tile, then a valuation must be carried out. If the valuation states that the property is mortgageable by conventional means then no restrictions will be imposed, otherwise the LTV is reduced to **50%**.
+
+### Flats
+
+* England & Wales – Flats must be leasehold.
+* Ex-council flats minimum valuation **£100,000**.
+
+### High Rise Flats
+
+We may lend on High Rise Flats (residences in buildings within excess of six storeys) providing the Valuation exceeds **£200,000**.
+
+### Ex-Council Properties
+
+Housing Act discount ignored for LTV unless it is still in the first year. The discount received will be added to the outstanding mortgage lending.
+
+### Tenanted Properties
+
+We do not lend on tenanted properties.
+
+### Shared Ownership Properties
+
+We do not lend on shared ownership properties.
+
+### Equity Release Properties
+
+We do not lend behind an equity release loan.
+
+### Commercial/Semi-Commercial Properties
+
+We do not lend on commercial or semi-commercial properties.
+
+### Personal/Private Charges
+
+Lending behind a personal/private charge considered on referral.
+
+### Leasehold Properties
+
+There must be at least **40 years** unexpired term remaining on the lease at the end of the loan term.
+
+### Geographical Area
+
+We do not lend in **N Ireland, Isle of Man & Channel Islands**.
+
+---
+
+## Valuations
+
+A Hometrack AVM is required in all cases subject to the following:
+
+* Where LTV is less than or equal to **60%** the AVM must have a minimum confidence level **4**.
+* Where LTV is less than or equal to **80%** the AVM must have a minimum confidence level **5**.
+
+Where the AVM confidence level is less than 4 or fails completely and LTV is less than **50%** then comparables are accepted subject to:
+
+* Minimum of **2 comparables**.
+* Date of comparable valuation within the last **3 years**.
+* Distance within **2-mile radius**.
+
+An average of the 2 comparables should be used for the valuation figure in all calculations.
+
+Where the AVM does not have the required confidence level and comparables not acceptable a full valuation must be undertaken. A Drive-by valuation will be accepted in place of an AVM.
+
+---
+
+## Income & Expenditure
+
+* Minimum income for joint incomes from **£15,000.00** to **£20,000.00** requires a minimum Equifax credit score of **350**.
+* For joint incomes from **£20,000.01** upwards a minimum Equifax credit score of **200** is required.
+
+An income and expenditure form is to be completed in all cases and this will be verified by the Lender before a Binding Offer is issued.
+
+All non-consolidated unsecured credit will be calculated in the affordability.
+
+One month's bank statement to verify the income and expenditure that has been stated and reporting a minimum of one month's household transactions will be required.
+
+Consolidated credit may require repaying directly from the mortgage proceeds unless it is affordable within the affordability calculations. Applicants to provide settlement figures and bank details for repayment in all cases.
+
+### Income Assessment
+
+* For credit cards and mail orders used in the income calculation we will use **2%** of the balance outstanding unless the actual minimum repayments are evidenced as lower.
+* For CCJ's and Defaults the applicant is to advise the monthly repayment amount paid.
+* Employed applicants must produce recent payslips and net wage will be used for calculations.
+* Income from multiple employments can be accepted.
+* If in a new employment an average of **3 consecutive payslips** will be used. An employer's letter/contract confirming employment and salary will also be accepted. We accept applicants in a probationary period.
+* Applicants employed on temporary contracts will be accepted subject to having a continuous employment history in the last **2 years**, otherwise refer.
+* Agency workers accepted subject to having a continuous employment history in the last **2 years**, otherwise refer.
+* We also accept zero hours contracts and contractors' income. For zero-hour contracts we will require **8 weekly payslips** or **2 months' payslips** to calculate an average of the income.
+* Benefit income acceptable other than Job Seekers Allowance. Benefit income must be in the applicant's name only.
+* Universal Credit income acceptable.
+* ESA can be used if it's alongside PIP. We can consider using it in other circumstances if it can be proven to be permanent and sustainable.
+* Pensions & benefits applicants must provide evidence of all income i.e. award letters, pension advise slip, P60.
+* Bonus, Commission and Overtime can be considered if consistent and regularly shown on payslips.
+* **75% of Foster Income** is acceptable with 3 months invoices and matching Banks Statements.
+* Pay Day Loans may be accepted subject to plan restrictions, providing they are not excessive and have a plausible reason.
+* Child benefit/child tax credits/child maintenance acceptable. We require the ages of children. We will need to see the full up to date awards letters in all cases. Child related income can be used for the full term of the loan where the children are below the age of **14** on application. Where child related income is received for children 14 and over and the loan term will take them beyond the end date of the child related income, an explanation will be required to demonstrate future affordability.
+* **75% of Lodger's income** is acceptable with a tenancy agreement and 3 months bank statements as proof of receipt, providing the tenant is not related.
+* Board income from children is not acceptable.
+* Rental income not acceptable.
+* We will also calculate a maximum **50% DTI** calculation on all cases to include all secured and unsecured credit.
+* All income for all parties must be proven on all cases.
+
+---
+
+## Interest Rate Stress Test
+
+We will re-calculate both the mortgage repayment and the new secured loan repayment using an appropriate stress test to ensure that they are both affordable within our calculations should interest rates rise.
+
+---
+
+## Co-Habiting Non-Owners
+
+We will generally only use the income from the persons named on the deeds to the property. We will accept income of a partner if registered for one year or more on the voter's roll.
+
+---
+
+## Self Employed
+
+* Self-employed can be considered.
+* Self-employed applicants must have been trading for a minimum of **one year**.
+* Accounts/Accountants Certificate/SA302 is required plus up to date business bank statements for at least **3 months**.
+
+We must be confident that the applicant can afford the repayments over the full term of the loan.
+
+---
+
+## General Criteria
+
+### Fees
+
+* The Lender Fee and Broker Fee (if applicable) can be added to the loan amount.
+* The Lender Fee and Broker Fee (if applicable) can be paid upfront on the day of completion.
+
+### Early Redemption of Loans
+
+An Early Redemption Charge will be charged whilst in a fixed rate period (please refer to the ESIS & Mortgage Offer). For all other cases please refer to ESIS & Mortgage Offer. A redemption administration fee will be charged in all cases.
+
+---
+
+## Underwriting Guidelines
+
+### Items We Will Need for Each Application:
+
+* Signed and completed application form.
+* Proof of income (see income).
+* Equifax Credit Search.
+* Secured loan offer document & Legal Charge or Standard Security signed and witnessed.
+* 1st mortgagee details either by BSQ or Credit Search.
+* Office copies.
+* Copy of Mortgage Illustration (ESIS) sent to client.
+* Bank Statement (Minimum of 1 month's transactions).
+* Hometrack/Valuation.
+
+### Items We May Need for Each Application:
+
+* Full title deeds plus copy of Conveyance/assent/assignment for unregistered land.
+* Solicitors ILA for applicants aged 80+, non-English speakers.
+* Redemption figures with undertakings for loans to be repaid.
+* Arrears explanation from the customer regarding why the arrears occurred is required for any arrears/defaults/CCJs in the last 1 year.
+* Marriage/Birth/Death certificate, Divorce paperwork, and/or Deed Poll document.
+* Copy of lease.
+* Confirmation of any mortgage arrears figure.
+* Mortgage company consent to our charge.
+
+### 1st Mortgage Details
+
+We need confirmation of the amount outstanding and monthly repayment for the first mortgage. If this is not clear from the credit search, we will need a BSQ from the Lender. It must state the amount outstanding, monthly repayment, payment history, current arrears and Title information/copy conveyance. If the mortgage is in arrears, we will need confirmation of the amount of arrears and we will need to repay them from the proceeds of the loan. Customers will be accepted with any number of months of mortgage history.
+
+---
+
+## Witnessing
+
+### Legal Charge/Standard Security
+
+All legal charge documents and standard security documents must be witnessed and completed by a non-family member.
+
+Borrowers aged 80 or over or non-English speaking must have their legal charge documents witnessed by a Solicitor, who must stamp the document with their company stamp. The Independent Legal Advice letter must be completed to verify that the documents have been explained.
+
+---
+
+## Identification and Proof of Residency
+
+Applicant's identity and residency will be electronically verified via the AML profile on the Equifax Credit search.
+
+Our minimum requirements are:
+
+* Total Residency Verifications – **2**.
+* Total Identity Verifications – **1**.
+* Total Alerts – **0**.
+
+Where the above minimums are not met then you must see original signature identification and proof of residency for the current year.
+
+### Acceptable Identification:
+
+* Current signed UK or EU passport.
+* Copy of bankcard supported by an original bank statement less than 3 months old.
+* Full driving licence.
+* Armed forces/police ID card.
+* Provisional Driving Licence (photo version only).
+* Valid self-employed registration card (C1S4, C1S5, C1S6 and SC60).
+* Shotgun firearms certificate (must also provide signature ID such as bank/credit card).
+* EEA member state identity card.
+* Residence permit issued by the home office.
+* National identity card bearing a photograph of the applicant.
+
+### Acceptable Proof of Residency:
+
+* Recent utility bill (within 3 months) - not mobile phone.
+* Valid full driving licence.
+* Valid provisional driving licence (photo version only).
+* Current TV Licence.
+* Benefits letters (within 3 months).
+* Inland Revenue letters (within 3 months).
+* Current buildings insurance policy.
+* Accountants/Solicitors letter (within 3 months).
+* Current council tax bill.
+
+If an applicant is unable to provide any of the above items, we accept a stamped and signed Certificate of Identity from a person in a position of responsibility who has known them a minimum of two years and can verify their signature and address. We need to know the name, address, telephone number and occupation of the person providing the verification.
+
+---
+
+## Further Advances
+
+Any applicants for further advances will be treated as a new application and all documents must be provided as for a new Mortgage. Broker fees and commission to be charged on the further advance amount only. For all Further Advances a Fixed Lender Fee of **£495** will be charged.
+
+The Early Redemption Charge will not be charged for further advances.
+
+We may decline to lend if the customer has had difficulty in repayment of the existing mortgage.
+
+---
+
+## Commission and Broker Fee Disclosure
+
+Both commission and the broker fee must be disclosed to the applicants on the mortgage offer document.
+
+---
+
+## Responsible Lending and Delivering Good Customer Outcomes
+
+If a mortgage application is deemed not to be in the interests of the borrowers, as a responsible lender we reserve the right to decline the application or ask for additional documents to support the application. Norton Home Loans are committed to delivering good outcomes for its customers in line with Principle 12 of the Consumer Duty, the crosscutting rules and 4 specific outcomes. We consider the needs, objectives and characteristics of the customer throughout the mortgage design process and application journey, to ensure that we deliver high levels of consumer care and take steps to avoid any foreseeable harm. The delivery of good customer outcomes is central to our culture, mission statement and purpose.
+
+---
+
+## Client Funds
+
+If the mortgage application is a joint application, it is preferable to pay out to a joint bank account or by joint cheque, but if it is not possible, we will pay out to one party upon receipt of verbal confirmation from both applicants during the security call. We will not pay out to anybody not on the proprietorship register of the house.
+
+We will do a security check with all parties to the loan in all cases.
+
+---
+
+## General Principles of Fair Business Practice
+
+When you signed your Standard Terms of Business, you agreed to comply with all regulatory requirements, including adherence to the FCA's Consumer Duty. Norton and the FCA expect all firms operating within the lending sector to comply with the FCA's rules and guidance. Some of the main highlights are shown below:
+
+* Distributors must take steps to ensure the delivery of good customer outcomes.
+* Distributors must take reasonable steps to comply with the Consumer Duty cross cutting rules, to act in good faith, avoid causing foreseeable harm and enable and support customers achieve their financial goals and objectives.
+* Distributors must take necessary steps to understand the target market, including their needs, objectives and characteristics, including characteristics of vulnerability.
+* Distributors must ensure that their services offer fair value, in addition to the lending products they recommend to their customers.
+* Distributors must take steps to ensure that their communications are tailored to meet the information needs of their customers, in a manner that they can understand, so that they can make an informed decision as to whether the product is suitable for them.
+* Distributors must take steps to support their customers so that the services offered meet their needs, they perform as expected, and do not pose any unreasonable barriers to exit an agreement, complain, make enquiries, or terminate the relationship with the firm.
+* Borrowers must be allowed sufficient time to reflect on the terms and conditions of the proposed agreement and must not be subjected to any high-pressure selling. They need to understand the risks associated with taking out a secured loan on their residential property and should be encouraged to take independent advice before signing and allowed adequate opportunity to do so. This will form part of our final security checks.
+* There must be transparency in all dealings with all borrowers, with early disclosure of key contract terms and conditions (including rates and charges).
+* Contract terms and conditions must be fair and clear, in plain and intelligible language, which can be easily understood by borrowers.
+* No irresponsible lending, with all underwriting decisions being subject to a proper assessment of the borrower's ability to repay the loan without undue hardship and without resort to the security, taking full account of all relevant circumstances and any reasonably foreseeable future circumstances.
+
+---
+
+## Customers with Characteristics of Vulnerability
+
+The FCA describes a "vulnerable consumer" as "someone who, due to their personal circumstances, is especially susceptible to detriment". This is a very broad description and covers anyone who is at an additional risk of harm as a result of their personal circumstances.
+
+The FCA has identified several risk factors that it considers may be associated with vulnerability including:
+
+* low literacy, numeracy and financial capability skills.
+* physical disability.
+* severe or long-term illness.
+* mental health problems.
+* low income (for example, less than **£13,500** per year) and/or debt.
+* caring responsibilities.
+* being elderly (which may be associated with cognitive or dexterity impairment, sensory impairments such as hearing or sight, onset of ill-health, not being comfortable with new technology).
+* being young (associated with less experience).
+* change in circumstances (e.g. job loss, bereavement, divorce).
+* lack of English language skills.
+* Non-standard requirements or credit history (for example armed forces personnel returning from abroad, ex-offenders, care-home leavers, and recent immigrants).
+
+We are also to use our experience of having dealt with potentially vulnerable and vulnerable customers, to know that other factors could be considered as 'triggers' for vulnerability. These may include:
+
+* Bereavement.
+* Receipt of certain benefits.
+* Relationship breakdowns.
+* A sudden change in living arrangements.
+
+There are also many other situations and circumstances. The above categories do not mean a customer is automatically vulnerable, but it means that they are more likely to be more vulnerable than the average customer. We assess vulnerability on a case-by-case basis, focusing on the individual.
+
+Certain individuals with characteristics of vulnerability may have limitations in Financial Literacy and Mental Capacity. Brokers must ensure they adhere to the guidance issued by the Money Advice Liaison Group's Debt and Mental Health Good Practise Guidelines.
+
+Brokers must be aware that if at any point in the application for credit process they suspect or gain knowledge that the customer has mental capacity or financial literacy limitations then they must act in accordance with the MALG guidance.
+
+A non-exhaustive list of circumstances which may lead the Broker to suspect customer limitations in mental capacity or financial literacy follows:
+
+* Where disclosure is given by the applicant.
+* Where disclosure is given by someone likely to have an informed view, such as a partner or carer etc.
+* Where a Power of Attorney is known to exist.
+* Where medical evidence exists or a previous diagnosis.
+* Where the applicant acts out of character or in an unexpected manner.
+* Where the applicant cannot retain information concerning their application or appears confused about personal or financial information.
+* Where the applicant does not understand what they are applying for or information given to them.
+* Where the applicant appears unable to weigh up information or communicate their borrowing decision by reasonable means.
+
+Where there is suspicion that an applicant has a mental capacity or financial literacy limitation, the applicant shouldn't be regarded as being unable to make a decision unless steps have been taken to assist first without success.
+
+Brokers should provide assistance to these applicants in clear language to help them make decisions, rather than immediately declining their application.
+
+### The Following Measures Can Be Taken to Help an Applicant's Understanding:
+
+* Providing additional information on the "key risks" of the agreement, which can include features of the agreement, how much they will pay, the consequences of not maintaining payment, advisability of considering pre-contract information and their ability to request further information if required.
+* Carrying out a detailed assessment of the applicants' financial circumstances to ensure their ability to afford to meet repayments in a suitable manner.
+* Ensuring that applicants do not take unsuitable credit, even where this is affordable. An example would be an applicant settling unsecured credit with a secured loan, without any obvious benefit.
+* Giving applicants adequate time to weigh up the information and explanations provided in order to better enable them to reach responsible borrowing decisions.
+* Referring the applicant to suitable not-for-profit third parties for additional advice, such as Citizens Advice Bureau.
+
+Where there is suspicion or knowledge of mental capacity or financial literacy limitations, all applications must be referred and marked for the attention of the Norton underwriting team.
+
+You should note what additional steps you have taken to assist customer understanding. Norton may require independent legal advice to be carried out to ensure that the customer has full understanding.
+
+---

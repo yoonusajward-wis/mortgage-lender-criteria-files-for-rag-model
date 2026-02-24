@@ -1,0 +1,312 @@
+LENDER NAME: Marsden Building Society
+PRODUCT: Residential
+
+================================================================================
+MARSDEN BUILDING SOCIETY - RESIDENTIAL LENDING CRITERIA
+================================================================================
+
+Source: https://www.marsdenintermediaries.co.uk/criteria/residential
+Last Updated: 31 January 2025
+
+Note: This document is for intermediary use only. Our handy A-Z criteria tool allows you to search or filter to find the information you need for your Residential cases.
+
+Last Verified: Based on website content as of the file creation date
+
+================================================================================
+OVERVIEW
+================================================================================
+
+Marsden Building Society offers residential mortgage lending with flexible criteria for intermediaries.
+
+================================================================================
+1. APPLICANT DETAILS
+================================================================================
+
+MINIMUM AGE
+--------------------------------------------------------------------------------
+
+21 – if joint application, at least one applicant must be 21.
+
+MAXIMUM AGE
+--------------------------------------------------------------------------------
+
+The maximum age at end of term is 70 or applicants' declared retirement age, whichever is the lower.
+
+MAXIMUM NUMBER OF APPLICANTS
+--------------------------------------------------------------------------------
+
+2 as standard, but we will consider up to 4 applicants at a maximum LTV of 80% where a property is for use by multi-generational applicants with an immediate family relationship. Please refer for more details.
+
+================================================================================
+2. CREDIT CRITERIA
+================================================================================
+
+CCJS & DEFAULTS
+--------------------------------------------------------------------------------
+
+- CCJs/Defaults within the last 3 years are not acceptable.
+- CCJs/Defaults => 3 years prior to application are acceptable up to a maximum £2,500 – subject to an explanation and being cleared/satisfied 12 months prior to application.
+- No other adverse entries must show on credit file.
+- CCJs/Defaults are not acceptable over 80% LTV.
+
+MISSED / LATE PAYMENTS
+--------------------------------------------------------------------------------
+
+**Up to 80% LTV:**
+- Mortgage, loan, HP arrears and missed payments => 3 years prior to application: Status 1s and 2s are accepted – status 3 or above not accepted.
+- Mortgage, loan, HP arrears and missed payments within the last 3 years are not acceptable.
+- Credit card, mail order, utility commitments => 3 years prior to application: Up to and including status 2s are acceptable.
+- Credit card, mail order, utility commitments =< 3 years prior to application: Status 2 – OK to proceed subject to the commitment being up to date for a minimum of 12 months prior to application. Status => 3 are OK subject to commitments totalling less than £500 and being up to date for a minimum of 12 months prior to application.
+
+**Above 80% LTV:**
+- Mortgage, loan, HP arrears and missed payments are not acceptable.
+- Credit card, mail order, utility commitments: A maximum of 3 status 2s are acceptable if less than £100.
+- No other adverse entries within the last 3 years must show on the credit file.
+
+================================================================================
+3. RESIDENCY
+================================================================================
+
+NON-UK CITIZENS
+--------------------------------------------------------------------------------
+
+For non-UK nationals we require the applicant(s) to have resided in the UK for a minimum of 2 years. We will also require proof of indefinite leave to remain/residence certificate or settled or pre-settled status in the UK.
+
+================================================================================
+4. EMPLOYMENT STATUS
+================================================================================
+
+EMPLOYED
+--------------------------------------------------------------------------------
+
+Applicants in probationary period are acceptable, providing they are in like-for-like employment with no gap in employment.
+
+Please note that for LTV > 80%, applicants must have completed any probationary period (refer if the probation period is more than the standard 6 months).
+
+SELF-EMPLOYED
+--------------------------------------------------------------------------------
+
+- **LTV >80%:** The applicant must have been in their current business for a minimum of 3 years.
+- **LTV <80%:** The applicant must have been in their current business for a minimum of 1 year with a further 2 years' experience in the same field.
+- Directors with a shareholding of less than 25% will be classified as employed. We accept salary in dividend as income. If above 25%, we classify as self-employed.
+
+CONTRACTORS
+--------------------------------------------------------------------------------
+
+- **LTV >80%:** The applicant must have been contracting for a minimum of 3 years.
+- **LTV <80%:** The applicant must have been contracting for a minimum of 1 year with a further 2 years' experience in the same field.
+- Zero-hour contracts accepted – please refer.
+
+PROFESSIONAL SPORTS PERSONS
+--------------------------------------------------------------------------------
+
+We will consider professional sports persons with a maximum LTV of 80% and a maximum age at the end of the mortgage term of 40 unless adequate investment or post-retirement income can be determined. Please refer for further details.
+
+================================================================================
+5. DEPOSIT DETAILS
+================================================================================
+
+DEPOSIT
+--------------------------------------------------------------------------------
+
+Applicants' own deposit or gift from an immediate family member (spouse, parent, grandparent, sibling, child or grandchild) is acceptable. Evidence of the source of deposit is required. Loan from a UK Trust Fund provided no monthly repayment is required and the only condition attached to the loan is that it is repayable upon sale of the property. Any other form of loan from a Trust Fund will not be accepted.
+
+================================================================================
+6. INCOME
+================================================================================
+
+INCOME MULTIPLES
+--------------------------------------------------------------------------------
+
+- 4.5 x for sole income up to £74,999 and joint income up to £99,999.
+- 5.5 x for sole income of £75,000 or over and joint income of £100,000 or over.
+
+EMPLOYED
+--------------------------------------------------------------------------------
+
+We capture gross annual income and net monthly income details. In addition, we may also consider 60% of regular overtime, bonus or commission (avg. of these over the last 2 years P60). Second employment is considered on a case-by-case basis.
+
+SELF-EMPLOYED
+--------------------------------------------------------------------------------
+
+**Self-employed:**
+- We require 2 years' accounts covering a 3 year-period, together with 3 years' tax computations/SA302s to establish income. We assess the income by averaging the last 3 years' income or we will take the most recent year, whichever is lowest of the two.
+- Certified Accounts need to be signed and dated within 18 months. In addition, we would require sight of recent Business Bank Statements.
+- For sole traders we will accept 3 years' tax overviews and SA302s supported with 3 months' Business Bank Statements subject to underwriter approval. We will consider cases with 1 year's trading accounts and 2 years' P60 if previously employed in the same field, max LTV 80%.
+
+**Contractors/CIS Workers:**
+- Applicants operating on an hourly or daily rate of pay are acceptable max 80% LTV. Offshore Umbrella Companies are not acceptable. Minimum 6 months completed contract with evidence of past/present/future contracts.
+- CIS workers are acceptable Max 80% LTV. We require a minimum of 12 months evidence of minimum employment and latest 3 years' tax overviews/SA302s or previous year's P60s in same line of work.
+
+FIXED-TERM CONTRACTS
+--------------------------------------------------------------------------------
+
+For applicants on fixed-term contracts of less than 6 months, the minimum period of employment with the same employer is 6 months. For those on contracts of 6 – 12 months, the contract must have been renewed at least once. If the contract is for more than 12 months, the applicant must be more than 6 months into the contract.
+
+OTHER INCOME
+--------------------------------------------------------------------------------
+
+- 100% private and/or state pension.
+- The Society may also take into account a percentage of any payments received in respect of investment, dividend or rental income if evidenced by 3 years SA302s and accounts or SA100s.
+- Foreign pension or property rental income from UK residents or non-domiciled residents may be considered if declared within a HMRC SA106 return.
+- 100% of maintenance can be used if court ordered or payments can be evidenced on the most recent 6 months' bank statements.
+- 100% child benefit payment (children must be included for affordability).
+- 100% of disability living allowance and personal independence payment (must have been in receipt for last 2 years).
+- 100% industrial injuries benefit.
+
+RENT A ROOM SCHEME
+--------------------------------------------------------------------------------
+
+HMRC allows a Rent a Room Scheme where £7,500 can be earned with no tax liability. Any amount above this becomes taxable. This excludes rooms not part of the main property, used for business purposes or let whilst the borrower is living abroad. We may consider this as income subject to:
+- Sight of a Rent a Room tenancy agreement
+- A tenancy being in place for 3 months or more which can be evidenced by bank statements.
+
+================================================================================
+7. MORTGAGE DETAILS
+================================================================================
+
+MORTGAGE SIZE
+--------------------------------------------------------------------------------
+
+- Minimum: £30,000
+- Maximum: Please refer to product portfolio
+
+MORTGAGE TERM
+--------------------------------------------------------------------------------
+
+- Minimum: 5 years (product dependent)
+- Maximum: 35 years
+
+REMORTGAGE APPLICANTS
+--------------------------------------------------------------------------------
+
+We will consider remortgage applications where the applicant has been the registered owner for the past 6 months.
+
+REPAYMENT
+--------------------------------------------------------------------------------
+
+Repayment, interest only and part and part accepted dependent on the selected product.
+
+INTEREST ONLY REPAYMENT VEHICLE
+--------------------------------------------------------------------------------
+
+Sale of mortgaged security/investments/sale of other property/endowment.
+
+LET TO BUY
+--------------------------------------------------------------------------------
+
+A new residential mortgage can be considered where the applicant wishes to retain their current property on a BTL basis.
+
+We need to be satisfied that the existing mortgage will be converted to a permanent letting arrangement and we require rental coverage of 125% of the mortgage commitment for basic rate tax payers, or 145% of the mortgage commitment for higher rate tax payers, based on 5.5% or chosen product rate + 2% (whichever is the higher of the two).
+
+Anticipated rental income must be confirmed and may be required to be evidenced by a letting agent.
+
+RIGHT TO BUY
+--------------------------------------------------------------------------------
+
+Not accepted. Properties that do not have any pre-emption remaining will be considered.
+
+================================================================================
+8. PROPERTY CRITERIA
+================================================================================
+
+MINIMUM PROPERTY VALUE
+--------------------------------------------------------------------------------
+
+£100,000
+
+LOCATIONS
+--------------------------------------------------------------------------------
+
+England and Wales.
+
+ACCEPTABLE PROPERTY
+--------------------------------------------------------------------------------
+
+- The property must be the main residence of the applicant(s).
+- Properties must be of traditional construction.
+- Timber framed properties may be considered if brick clad.
+- New build houses subject to NHBC/Local Authority Building Control Scheme/Premier/Checkmate (Castle 10)/Buildzone/Zurich/ICW (International Construction Warranties)/AHCI Ltd or Professional Consultants Certificates – maximum 80% LTV.
+- Purpose built flats/maisonettes are acceptable (new builds not acceptable). Must be up to 60% LTV and leasehold.
+- Flats/apartments more than 4 storeys. If above 4 storeys, they must be serviced by at least 1 lift. Flats above 6 storeys are not acceptable.
+- Attached or detached annexes will be considered if the main residence is for personal use and other buildings do not form part of a commercial going concern. This includes:
+  - A primary residence with a single annex utilised for extended family use with no rental income generated.
+  - A single annex that generates AST or holiday let income.
+  - Multiple annexes/outbuildings that generate AST or holiday let income.
+- Properties that have more than 1 kitchen providing they are not HMOs.
+- Second homes for immediate family/personal holiday use (maximum 75% LTV).
+- Tied accommodation for agriculture or employment purposes. Please refer for more details.
+- Retrospective warranties may be considered on conversions such as barns and outbuildings from our list of approved providers. Please refer for more details.
+- Properties up to 30 acres providing there is no commercial usage. We will consider up to 95% of the concessionary purchase price, subject to a minimum 10% variance of open market value to concessionary purchase price.
+- Property with a concessionary purchase price from a family member or landlord. Please refer for more details.
+
+UNACCEPTABLE PROPERTY
+--------------------------------------------------------------------------------
+
+- Properties must be of traditional construction.
+- HMOs, self-builds, properties held in Trust, present or former hotels/guest houses/B&Bs, commercial properties (even if applicants intend to convert back to residential).
+- New build houses over 80% LTV.
+- Prefabricated properties.
+- Studio flats and ex-local authority flats/maisonettes.
+- New build flats.
+- Flats above commercial property.
+- Properties under 5 storeys with a flat roof are unacceptable security.
+- Any construction covered by Housing Defect Legislation such as high alumina cement, prefabricate reinforced concrete, large panel system, BISF.
+- Any property where an EWS1 form for wall cladding is required.
+
+================================================================================
+9. TENURE
+================================================================================
+
+FREEHOLD
+--------------------------------------------------------------------------------
+
+Both freehold and leasehold are acceptable for houses.
+
+Freehold flats/maisonettes are not acceptable - leasehold only.
+
+Flying freeholds – refer.
+
+LEASEHOLD
+--------------------------------------------------------------------------------
+
+For leasehold, there must be a minimum of 85 years' unexpired lease at the start of the mortgage and 55 years remaining at the end.
+
+================================================================================
+10. REASONS FOR ADDITIONAL BORROWING
+================================================================================
+
+ACCEPTABLE REASONS
+--------------------------------------------------------------------------------
+
+- Home improvements acceptable up to 85% LTV.
+- Debt consolidation acceptable up to 80% LTV (maximum £30,000). For applicants with a sole income of £75,000 and over, or a joint income of £100,000 and over, we may consider more than £30,000, subject to debt consolidation not exceeding 49% of the total loan required or 20% of the property value. The maximum LTV for the total loan is 80% LTV (flats up to 60% LTV).
+
+================================================================================
+11. CONTACT INFORMATION
+================================================================================
+
+MARSDEN INTERMEDIARIES
+--------------------------------------------------------------------------------
+
+6-20 Russell Street, Nelson
+Lancashire BB9 7NJ
+
+Telephone: 01282 440583
+
+USEFUL LINKS
+--------------------------------------------------------------------------------
+
+- Products: https://www.marsdenintermediaries.co.uk/products
+- Affordability Calculators: https://www.marsdenintermediaries.co.uk/affordability-calculators
+- Downloads: https://www.marsdenintermediaries.co.uk/downloads
+- Contact: https://www.marsdenintermediaries.co.uk/contact
+- AIP Request: https://www.marsdenintermediaries.co.uk/aip
+- Online Login: https://www.marsdenintermediariesonline.co.uk/
+
+COMPANY INFORMATION
+--------------------------------------------------------------------------------
+
+Authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority. Registered in the Financial Services Register under no: 206050. Marsden Building Society is a member of the Building Societies Association, the Financial Services Compensation Scheme and the Financial Ombudsman Service. Principal Office, 6-20 Russell Street, Nelson, Lancashire BB9 7NJ. This site is intended for professional mortgage intermediaries only. *To help maintain service quality, telephone calls will be recorded and monitored.
+
+================================================================================

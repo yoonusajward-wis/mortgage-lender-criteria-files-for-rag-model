@@ -1,0 +1,228 @@
+LENDER NAME: Fleet Mortgages
+PRODUCT: Buy to Let
+
+================================================================================
+FLEET MORTGAGES - BUY TO LET LENDING CRITERIA
+================================================================================
+
+Source: https://www.fleetmortgages.co.uk/criteria/
+
+Note: This document is for intermediary use only. Fleet Mortgages only sells its mortgage products through authorised brokers and intermediaries.
+
+Last Verified: Based on website content as of the file creation date
+
+================================================================================
+OVERVIEW
+================================================================================
+
+Fleet Mortgages is a people-focused business specialising in buy-to-let lending.
+
+You'll find a snapshot of our buy-to-let lending criteria on this page. But if you can't  find what you're looking for, or you're working on a more complex case and need some help, get in touch with our team.
+
+For full details, please refer to the full Criteria Guide for any further information.
+
+================================================================================
+LOAN STRUCTURE
+================================================================================
+
+Security:
+- We will take the first legal charge on a security
+- We do not consent to second charges or do further advances
+- If the property is leasehold and the applicant either has an interest in the freehold or has a connection to the freeholder, we will require a charge over the freehold as well as a first legal charge over the leasehold title. This will require the consent of other owners of the freehold, including those who may not be party to the mortgage over the leasehold interest
+
+Offer Validity:
+- Offers are valid for 90 days (Up to 180 days for New Build Properties)
+- Fleet Mortgages reserves the right to ask the borrower to select a new rate if the case has not progressed to offer within 90 days of the application being submitted, which will also result in new credit checks being carried out
+
+Repayment Methods:
+- Capital and interest repayment
+- Part interest and part repayment
+- Interest only repayment
+
+Mortgage Term:
+- Minimum mortgage term: 5 years
+- Maximum mortgage term: 30 years (subject to the applicants age)
+
+Loan Amounts:
+- We will potentially lend up to £5,000,000 per obligor
+- First £1,000,000 at a maximum 80% LTV (subject to product availability)
+- Then 75% thereafter
+
+Application Types:
+- Purchase applications: Accepted
+- Remortgage applications: Accepted
+- Capital raising: Considered for most legal purposes (except for paying tax and gambling debts)
+- Payment of Inheritance Tax or Capital Gains Tax may be considered where the proposal does not suggest a position of financial stress for the applicants
+
+Property Ownership:
+- If the property has been owned for less than 6 months, we can consider lending on a case-by-case basis
+
+================================================================================
+WHAT WILL WE LEND? - LTV SCALES AND LOAN AMOUNTS
+================================================================================
+
+Properties valued £75,000 or more:
+- Maximum LTV: 65%, 70%, 75%
+- Maximum Loan Amount: £2,000,000, £1,500,000, £1,000,000
+- Minimum Valuation: £75,000
+
+Properties valued £74,999 or less:
+- Maximum LTV: 70%
+- Maximum Loan Amount: £249,499
+- Minimum Valuation: £50,000
+
+HMO/MUB:
+- Maximum LTV: 70%, 75%
+- Maximum Loan Amount: £1,500,000, £1,000,000
+- Minimum Valuation: £100,000 (Outside London and South East), £150,000 (Within London and South East)
+
+New Build Properties:
+- Flats: Maximum LTV 70%, Maximum Loan Amount £750,000, Minimum Valuation £50,000
+- Houses: Maximum LTV 75%, Maximum Loan Amount £750,000, Minimum Valuation £50,000
+
+Ex Local Authority/MOD Properties:
+- Flats: Maximum LTV 70%, Maximum Loan Amount £1,500,000, Minimum Valuation £75,000 (Outside London and South East), £150,000 (Within London and South East)
+- Houses: Maximum LTV 75%, Maximum Loan Amount £1,500,000, Minimum Valuation £75,000 (Outside London and South East), £150,000 (Within London and South East)
+
+Conversions:
+- Maximum LTV: 70%, 75%
+- Maximum Loan Amount: £1,600,000 (if converted within last 12 months £750,000), £1,000,000 (if converted within last 12 months £750,000)
+- Minimum Valuation: £100,000 (Outside London and South East), £150,000 (Within London and South East) for Freehold Properties; £50,000 for Leasehold Properties
+
+Properties Above and Adjacent to Commercial:
+- Maximum LTV: 70%, 75%
+- Maximum Loan Amount: £1,500,000, £1,000,000
+- Minimum Valuation: £100,000
+
+================================================================================
+WHO WILL WE LEND TO?
+================================================================================
+
+Residency Requirements:
+- All applicants must be resident in the UK
+- Must have resided here for the last 3 years
+- Must be liable to UK tax
+- Must have permanent rights to reside
+
+Primary Applicant Requirements:
+- Must currently own a property and have done so for the last 12 months
+- Must be over the age of 21
+- Must be able to prove an income in excess of £15,000 p.a.
+- First-time landlords need to be a minimum age of 25
+- We do not accept first time buyers
+
+Employment Requirements:
+- Primary applicant must have been employed in continuous employment for at least 12 months and have passed their probation period
+- OR have been self-employed, contracting or trading for at least 2 years in their current business
+- We will consider retired applicants provided that they can meet the minimum income requirements
+
+Age Requirements:
+- Maximum of 4 applicants per application
+- All applicants must be a minimum of 21 years old
+- Maximum age of 95 at the end of the mortgage term
+
+Limited Companies:
+- We will consider lending to limited companies which must be special purpose vehicles (SPV) registered within England and Wales
+- SIC Codes: 68100, 68209, 68320, 68201 (holding companies can also have the following SIC codes: 64209, 64203)
+- Multi layered company structures can be considered
+- We can accept a maximum of 4 applicants
+- All directors and any shareholders with a 25% or greater holding must be party to the mortgage
+- Where the cumulative total of these applicants' shareholding is below 75%, further shareholders will need to be added until a 75% shareholding is reached
+- Full personal guarantee will be obtained, and all guarantors will be required to take independent legal advice
+- We will consider applications where individuals are 'transferring' (selling) properties to an SPV limited company they own. We would class this as a purchase
+
+================================================================================
+WHAT TYPE OF PROPERTIES WILL WE LEND ON?
+================================================================================
+
+Location:
+- We will only lend on properties in England and Wales
+- Freehold or leasehold tenure (we do not accept commonhold)
+
+Leasehold Requirements:
+- If the property is a leasehold, it must have at least a 75 year unexpired term on completion
+- Minimum of 50 years at expiry of the mortgage term
+
+Block of Flats:
+- Block can be up to 5 storeys (up to 10 storeys are acceptable within the M25)
+- Blocks of flats exceeding 4 storeys in height (excluding basement floors but including ground floor, i.e. 0, 1, 2, 3, 4 floors) MUST have lift access to all floors, in order to be acceptable
+
+Tenancy Types:
+- All properties should be tenanted on an AST of up to 3 years
+- We will also consider:
+  * Student lets
+  * Corporate lets (prior approval required)
+  * Local Authority & Housing Association lets (prior approval required)
+  * Standard format of Private Sector Lease as per the UK Finance Mortgage Lenders' Handbook
+
+Property Types:
+- Standard residential houses and flats
+- HMOs up to 6 bedrooms
+- MUFBs up to 10 self-contained units
+- Ex-local authority houses and flats, including flats with deck access
+- New builds
+- Converted properties
+
+For a full list of acceptable security and construction types, please refer to the acceptable and unacceptable list in the Criteria Guide.
+
+================================================================================
+SOURCES OF DEPOSIT
+================================================================================
+
+Documentary Evidence:
+- We will require documentary evidence of the source of any deposit
+- Examples: bank statements showing a build-up of savings or completion statements showing the sale of a property
+
+Gifts:
+- Gifts from immediate family members are allowed
+- Immediate family members: spouse, mother, father, sibling, or grandparent
+
+Please refer to the proof of deposit documents (Deposit Funds Explanation Form and Proof of Deposit) for detailed requirements.
+
+================================================================================
+PORTFOLIO LANDLORDS
+================================================================================
+
+We have a different underwriting process for portfolio landlords. You will find all the details of how to submit your application, as well as useful documents to help guide you through the process, on our website.
+
+Portfolio Landlord Definition:
+Portfolio Landlords are classed as all applicants, individually or collectively, who own four or more existing mortgaged BTL properties or three properties where an application is being submitted to Fleet to purchase a fourth.
+
+Underwriting Process:
+- Portfolio applications will be assessed by dedicated Underwriters
+- Our underwriters will stress test the whole portfolio at 125% @ 5% with a maximum overall LTV of 75%
+
+Required Documents:
+1. Existing Property Portfolio Schedule
+   - Information is gathered via CoreLogic (Buy to Let Hub), allowing instant submission in real-time direct to our underwriters
+   - You can enter the details of your client's property portfolio directly into a spreadsheet which you can download and then upload the completed spreadsheet directly to the BTL Hub
+
+2. Portfolio Landlords Questionnaire
+   - We have combined a simple business plan and cashflow forecast into an easy-to-complete questionnaire
+   - Only existing landlords are required to complete the questionnaire
+   - To minimise the underwriting time, please upload the Portfolio Landlords Questionnaire via Fleet's Broker Portal before submitting the CoreLogic property schedule
+
+Note: There are no changes to the DIP or application system.
+
+================================================================================
+CORELOGIC BUY TO LET HUB
+================================================================================
+
+We work with CoreLogic to give our intermediary partners access to the Buy to Let Hub. This makes it quick and easy for you to submit details of your clients' property portfolio to us.
+
+If you already have previous data stored within the hub you can use that information to create a new portfolio submission for Fleet Mortgages.
+
+A step-by-step guide to help you when using the Buy to Let Hub, including FAQs, is available for download.
+
+================================================================================
+CONTACT INFORMATION
+================================================================================
+
+For enquiries or assistance with complex cases, please contact our team:
+- Phone: 01252 916 800
+
+For full details, please refer to the full Criteria Guide or contact our sales team.
+
+================================================================================
+END OF DOCUMENT
+================================================================================

@@ -1,0 +1,1155 @@
+LENDER NAME: April Mortgages
+PRODUCT: Combined
+
+# April Mortgages - Combined Lending Criteria
+**Source:** https://aprilmortgages.co.uk/
+**Last Updated:** 2025
+
+**FOR INTERMEDIARY USE ONLY**
+
+This website is for use by FCA authorised intermediaries only. If you are a customer please visit the customer section of our website.
+
+April Mortgages Limited. Registered Office: 158-160 North Gower Street, London, NW1 2ND. Registered in England and Wales company number: 13514833. April Mortgages Limited is authorised and regulated by the Financial Conduct Authority (FRN 989666).
+
+**Contact:** https://aprilmortgages.co.uk/broker/contact/
+**Broker Portal:** https://broker.aprilmortgages.co.uk/
+
+---
+
+## Overview
+
+April Mortgages offers residential mortgages with a unique combination of peace of mind and freedom. We think mortgages should be simple, which is why we've designed all our products to give you **certainty** and **flexibility**, with clever features that put you in control.
+
+### Key Features
+
+* **5-15 year fixed rates** - Lock in your monthly payments for longer, giving you peace of mind and protection from rising rates
+* **Automatically reducing interest rate** - Your mortgage rate automatically reduces as you pay down your loan. Because the more you have paid off, the lower our risk is. We want to reward you for that - and this could save you thousands of pounds over the years
+* **No Early Repayment Charges** - We don't think a mortgage should ever tie you down, which is why we don't have an Early Repayment Charge if you sell your home or repay the loan from your own funds (when moving house, regular overpayments, lump sums or redeeming in full using own funds)
+* **Up to 7x income** - We'll lend up to 7x your income, helping more people access the homes they want, with the confidence they need
+* **Uncapped overpayments** - Make overpayments without limits
+* **Portable mortgages** - Keep your mortgage when you move home
+
+---
+
+## Product Types
+
+### Standard Residential Mortgages
+
+Our standard residential mortgages offer:
+* Fixed rates from 5 to 15 years
+* Maximum LTV up to 95% (subject to product availability)
+* Up to 7x income (LTI) with AffordAbility+
+* Interest Only+ available with Part & Part option
+* No ERCs when moving home or overpaying
+
+### No Deposit Mortgage
+
+Our **No Deposit** mortgage is designed for buyers with the income but not the savings. 
+
+**Key Features:**
+* **0% deposit** - No gimmicks. No strings. Just a smart, modern mortgage
+* **10 or 15-year fixed rates** - Longer-term certainty
+* **Automatic rate reductions** - As the loan is repaid and LTV improves
+* **No ERCs when moving** - Maintain flexibility
+* **Minimum income requirement:** £24,000
+* **Credit history:** Clean credit history required
+* **Maximum LTI:** Capped at 4.49x to avoid overextension
+* **Robust affordability stress testing** - Ensuring repayments remain manageable, even in adverse conditions
+* **Strict creditworthiness checks** - Requiring a strong, recent credit history and stable income
+
+**Built-in Safeguards:**
+* Longer-term fixed rates (10 or 15 years) - shielding customers from short-term rate volatility
+* Automatic rate reductions - as the loan is repaid and LTV improves
+* Capped LTI at 4.49x - to avoid overextension
+* Robust affordability stress testing - ensuring repayments remain manageable, even in adverse conditions
+* Strict creditworthiness checks - requiring a strong, recent credit history and stable income
+
+**Important Notes:**
+* Cannot be used with AffordAbility+ or Interest Only+
+* Clients must have funds for other fees and charges (SDLT, moving costs, legal fees, valuation fees, etc.)
+* Clear risk warnings and suitability checks required - including potential negative equity
+* Guidance on overpayments provided to help reduce balance faster
+
+### New Build Mortgages
+
+April's New Build mortgages are now available, offering more choice when it comes to finding the right home.
+
+### Interest Only+
+
+Interest Only+ is available with a **Part & Part** option, offering lower monthly payments and flexibility to repay the capital later. Cannot be used with No Deposit product.
+
+### AffordAbility+
+
+Get a borrowing boost with AffordAbility+ (up to **7x income**). Cannot be used with No Deposit product.
+
+---
+
+## Income Assessment
+
+### Income Multiples
+
+* **Single applicant:** Up to 7x income (with AffordAbility+)
+* **Joint applicants:** Up to 7x income (with AffordAbility+)
+* **No Deposit product:** Maximum 4.49x LTI
+
+### Minimum Income Requirements
+
+* **Standard products:** No specific minimum stated
+* **No Deposit product:** Minimum £24,000
+
+---
+
+## Employment Income
+
+### Salaried Income
+
+* Employment must be permanent
+* No minimum time in current employment stated
+* 100% of gross basic salary accepted
+
+### Second Job Income
+
+* Can be accepted subject to sustainability
+* Employment must be permanent and sustainable
+
+### Probationary Period
+
+* Probationary periods can be considered
+
+### Bonus/Overtime
+
+* Sustainable bonus and overtime can be considered
+
+### Commission
+
+* Sustainable commission can be considered
+
+### Contractors
+
+Various contractor income types are accepted:
+* Agency work
+* CIS Contractor
+* Fixed Term Contract
+* IT Consultant
+* Locum Doctor
+* Nursing Bank
+* Piecework Contract
+* Probationary contract
+* Rolling contract
+* Seasonal Contract
+* Short Term Renewable Contract
+* Sub contractor
+* Temporary Contract
+* Umbrella Company
+* Zero Hours Contract
+
+### Self Employed Income
+
+* Limited Company Directors (Salary and Dividends)
+* Limited Company Directors (Salary and Net Profits)
+* Limited Company Directors (Salary and Share of Net Profits AFTER CORPORATION TAX)
+* Limited Company Directors (Salary and Share of Net Profits BEFORE CORPORATION TAX)
+* Limited Company Retained Profits
+* Net Profit (for sole traders and partnerships)
+* Directors Loan Payback
+
+**Self Employed Requirements:**
+* Minimum length of time self employed required
+* Accounts or Accountant Certificates required
+* Can use Projection as Latest Year (subject to conditions)
+* Declining Profits assessed on case-by-case basis
+* Latest years self employed figures used for affordability
+* Loss in Latest Year assessed individually
+
+---
+
+## Other Income Types
+
+### Pension Income
+
+* Annuity
+* Pension (Company)
+* Pension - War Disablement
+* Pension - War Widower
+* Pension Credit
+* Private Pension
+* Self Administered Drawdown Pension
+* Self-invested Personal Pension (SIPPs)
+* State Pension
+
+### Benefit Income
+
+* Adoption Allowance
+* Attendance Allowance
+* Carers Allowance
+* Child Benefit
+* Child Tax Credits
+* Constant Attendance Allowance
+* Disability Living Allowance (DLA)
+* Employment and Support Allowance
+* Guardian Allowance
+* Industrial Injuries Disablement Benefit
+* Personal Independence Payment (PIP)
+* Universal Credit
+* Working Tax Credits
+
+### Investment Income
+
+* Investment Income (not rent)
+* Rental Income (from mortgage free property)
+* Rental Income (from mortgaged property)
+* Trust Income
+
+### Other Income
+
+* Bursary
+* Foster Care Income
+* Income protection/Permanent Health Insurance
+* Lodger Income
+* Maintenance (not through the courts)
+* Maintenance (through the courts)
+* Seafarer
+* Stipend
+
+---
+
+## Property Types
+
+### Standard Property Types
+
+* House/Bungalow
+* Flat/Maisonette
+* Studio flat (minimum floor area requirements apply)
+* Basement flat
+* Coach house
+* Commonhold Properties
+* Ex local auth flat/maisonette
+* Ex local authority house/bungalow
+* Farmhouse (where farmhouse and land are contiguous)
+* Flat above commercial food outlet
+* Flat above commercial offices
+* Flat above commercial pub
+* Flat above shop (not food outlet)
+* Freehold flats and maisonettes
+* Grade 1 Listed Building
+* Grade 2 Listed Building
+* Grade 2* Listed Building
+* Mobile homes and houseboats
+
+### Property Usage
+
+* Owner Occupier
+* Holiday/Second Home (maximum LTV restrictions apply)
+* Home for dependant (maximum LTV restrictions apply)
+* Live/Work units
+* Mixed Use Residential / Commercial (acceptable commercial limit applies)
+* Bed and Breakfast
+* Empty Property (Unoccupied)
+* Property with self contained annex
+* Property with Annex where Annex will be Let
+* Property with acreage
+* Property with deck access
+* Property with more than one kitchen
+
+### New Build
+
+* New Build purchased off plan
+* Various New Build warranties accepted (NHBC, Premier Guarantee, LABC, ICW, Buildzone, Checkmate, Protek, AEDIS, Building Life Plans, CRL Management Ltd, Global Home Warranties, Q Assure Build, Zurich Municipal "New Build", Professional Consultants Certificate)
+
+---
+
+## Loan to Value (LTV)
+
+### Maximum LTV
+
+* **House/Bungalow (Standard):** Up to 95% (subject to product)
+* **House/Bungalow (New Build):** Up to 95% (subject to product)
+* **Flat/Maisonette (Standard):** Up to 95% (subject to product)
+* **Flat/Maisonette (New Build):** Up to 95% (subject to product)
+* **No Deposit product:** 100% LTV
+* **Interest Only:** Maximum LTV restrictions apply
+* **Retirement Interest Only (RIO):** Maximum LTV restrictions apply for purchases, remortgage balance swap, and remortgage with capital raising
+
+### Minimum LTV
+
+* No specific minimum LTV stated
+
+---
+
+## Loan Amounts
+
+### Minimum Loan Size
+
+* Minimum loan size applies (check current rates for specific amounts)
+
+### Maximum Loan Size
+
+* No specific maximum stated (subject to income multiples and affordability)
+
+### Retirement Interest Only (RIO)
+
+* Maximum loan size for RIO applies
+* Minimum loan size for RIO applies
+
+---
+
+## Mortgage Terms
+
+### Minimum Term
+
+* Minimum term (years) applies
+
+### Maximum Term
+
+* Maximum term (years) applies
+* Maximum term for Retirement Interest Only (RIO) applies
+
+---
+
+## Age Limits
+
+### Minimum Age
+
+* Minimum age at application applies
+
+### Maximum Age
+
+* Maximum age at point of application applies
+* Maximum age at end of mortgage term applies
+* Maximum age at end of term for a Non Contributory Applicant applies
+* Maximum age at term end without pension proof (max retirement age) applies
+* Maximum age for self employed borrowers applies
+
+### Interest Only
+
+* Interest Only maximum age at end of term applies
+
+### Retirement Interest Only (RIO)
+
+* RIO maximum age at application applies
+* RIO maximum age at term end applies
+* RIO minimum age at application applies
+
+---
+
+## Interest Only Mortgages
+
+### Interest Only Repayment Strategies
+
+* Annual lump sum repayment
+* Existing endowment or ISA
+* Other assets
+* Pension Lump Sum
+* Pure interest only
+* Sale of mortgaged property
+* Sale of other mortgaged property
+* Sale of other unencumbered property
+
+### Interest Only Requirements
+
+* Minimum equity requirement applies
+* Minimum income requirement applies
+* Maximum LTV for Interest Only mortgages applies
+
+---
+
+## Retirement Interest Only (RIO)
+
+### RIO Offered
+
+* Retirement Interest Only (RIO) is offered
+
+### RIO Requirements
+
+* Minimum equity requirement applies
+* Can consider non-guaranteed potential future affordability
+* Lasting Power of Attorney (LPA) may be required
+* Enhanced terms where Lasting Power of Attorney (LPA) exists
+
+### RIO Joint Applicants First Death Affordability Assessment
+
+* Benefit Income
+* Family Assistance
+* Investment Income
+* Life Cover
+* Other Non Provable Income
+* Rental Income
+* Survivors Pension
+
+---
+
+## Credit History & Adverse Credit
+
+### Credit Checks
+
+* Credit checks with Equifax
+* Credit checks with Experian
+* Credit checks with Transunion (formerly Callcredit)
+* Number of credit reference agencies used
+* Soft footprint on credit search available
+
+### Credit Scores
+
+* Credit scores considered as part of overall assessment
+
+### CCJs (County Court Judgments)
+
+* CCJs registered in last 3 months - assessed individually
+* CCJs registered between 3 to 12 months - assessed individually
+* CCJs registered between 12 to 24 months - assessed individually
+* CCJs registered between 24 to 36 months - assessed individually
+* CCJs registered over 36 months ago - assessed individually
+* Maximum number of CCJs (Satisfied) applies
+* Maximum number of CCJs (Unsatisfied) applies
+* Maximum value of CCJs (Satisfied) applies
+* Maximum value of CCJs (Unsatisfied) applies
+
+### Defaults
+
+* Defaults registered in last 3 months - assessed individually
+* Defaults registered between 3 to 12 months - assessed individually
+* Defaults registered between 12 to 24 months - assessed individually
+* Defaults registered between 24 to 36 months - assessed individually
+* Defaults registered over 36 months ago - assessed individually
+* Maximum number of Defaults (Satisfied) applies
+* Maximum number of Defaults (Unsatisfied) applies
+* Maximum value of Defaults (Satisfied) applies
+* Maximum value of Defaults (Unsatisfied) applies
+
+### Arrears
+
+* Arrears (secured/mortgage) - assessed individually
+* Arrears (unsecured) - assessed individually
+* Maximum mortgage arrears in last 24 months applies
+* Maximum unsecured arrears in last 24 months applies
+* Months passed where mortgage arrears can be ignored applies
+
+### Late Payments
+
+* Late Payments (Not Missed) - assessed individually
+
+### Arrangement to Pay
+
+* Arrangement to Pay - assessed individually
+
+### Debt Management Plans
+
+* Debt Management Plan (Current/Unsatisfied) - assessed individually
+* Debt Management Plan (satisfied) - assessed individually
+
+### Individual Voluntary Arrangements (IVA)
+
+* IVA (Years satisfied) - assessed individually
+* IVA (Years since registered) - assessed individually
+
+### Bankruptcy
+
+* Discharged Bankrupt (years) - assessed individually
+
+### Debt Relief Order
+
+* Debt Relief Order (Satisfied) - assessed individually
+
+### Other Adverse
+
+* Unauthorized Overdraft Charges - assessed individually
+* Gambling (recurring transactions) - assessed individually
+* Professional gambler - assessed individually
+* Criminal Convictions - assessed individually
+* Historic CIFAS Record (Years) - assessed individually
+* Previously Repossessed (years ago acceptable) - assessed individually
+* Telecommunications Adverse Ignored - assessed individually
+
+---
+
+## Property Construction
+
+### Standard Construction
+
+* Standard brick/block construction accepted
+
+### Non-Standard Construction
+
+* 100% Timber Construction
+* British Iron and Steel Federation (BISF)
+* Concrete construction
+* Converted church
+* Cornish construction
+* Dutch barns
+* Easiform
+* Flying Freehold (maximum acceptable percentage of gross floor area applies)
+* Insulating concrete form (ICF)
+* Large Panel System (LPS)
+* Majority Flat Roof
+* Modern method of construction (MMC)
+* Modular and POD Construction
+* Mundic block
+* No-Fines
+* Non repaired prefabricated reinforced concrete
+* Off site manufactured (MMC)
+* Potton Homes
+* Repaired prefabricated reinforced concrete
+* Single skin
+* Steel framed
+* Structural Insulated Panel Solutions (SIPs)
+* Thatched roof
+* Timber framed
+* Timber framed (1900 to 1970)
+* Timber framed (Post 1970)
+* Timber framed (Pre 1900)
+* Tower Block with Cladding
+* Wholly Timbered
+* Woolaway
+
+**BOPAS accreditation** may be required for non-standard construction.
+
+### Cladding
+
+* EWS1 required on properties with combustible cladding or materials on balconies (check current policy)
+
+---
+
+## Property Factors
+
+### Property Issues
+
+* Absentee freeholder
+* Overage Clause
+* Contaminated Land
+* Mine Shafts
+* Next to Commercial (various classes - A1, A2, A3, A4, A5, B, C, D, Sui Generis)
+* Overhead Power Lines
+* Part Renovated (Is Habitable)
+* Part Renovated (Not Habitable)
+* Underpinned within last 10 years
+* Spray foam insulation
+* Japanese Knotweed
+* Properties with Asbestos
+* Properties with Occupancy Restrictions
+* Solar Panels
+
+### Leasehold
+
+* Minimum remaining lease at application applies
+* Minimum remaining lease at end of term applies
+* Maximum Ground Rent (as % of Property Value/Purchase Price) applies
+* Escalating Ground Rents - assessed individually
+* Estate Rentcharges - assessed individually
+* Leasehold Property where No Separate Management Company Exists - assessed individually
+
+### Flats
+
+* Maximum number of storeys considered for lending on flats applies
+* Maximum number of storeys considered for lending on ex local authority flats applies
+* Maximum number of stories where no lift is present applies
+* Minimum Percentage of Properties under Private Ownership on Ex-Local Authority Blocks of Flats applies
+
+---
+
+## Property Ownership
+
+* Possessory Title
+* Shared access or shared services
+* Splitting of a title deed on completion
+* Tenancy in Common with Unequal Shares
+* Trust
+
+---
+
+## Deposit Sources
+
+### Acceptable Deposit Sources
+
+* Builders Deposit
+* Concessionary
+* Equity Loan
+* Forces Help To Buy
+* Gift From Immediate Family
+* Gift from occupier NOT named on mortgage
+* Gifted NOT from Immediate Family
+* Loan Repayable on Sale of Property
+* Loan from immediate family
+* Mortgage on additional property
+* Originated outside of EEA
+* Redundancy payment
+* Repayment of Ltd Company Directors Loan
+* Unsecured Loan
+* Vendor Gifted
+
+### Cryptocurrency
+
+* Cryptocurrency / Bitcoin - assessed individually
+
+---
+
+## Remortgage
+
+### Remortgage Waiting Period
+
+* Remortgage waiting period applies
+
+### Remortgage Purposes
+
+* Balance Swap (maximum LTV applies)
+* Buy out (maximum LTV applies)
+* Buy to Let Purchase (maximum LTV applies)
+* Buy to Let to Residential
+* Capital raise for BTL where property not yet found
+* Debt Consolidation (maximum LTV applies)
+* Extending a lease
+* Gift Money (Maximum LTV applies)
+* Home Improvements (maximum LTV applies)
+* Home Improvements (other property)
+* Land Purchase (maximum LTV applies)
+* Lifestyle (holidays, car's, non essential spending etc)
+* Medical expenses
+* Pay Tax Bill
+* Personal investments (not property related)
+* Purchase Commercial Property
+* Purchase Overseas Property
+* Purchase share of freehold
+* Repay Help to Buy
+* School/Education fees
+* Shared Ownership Staircasing to 100% ownership (maximum LTV applies)
+* For Business Purposes
+
+### Day 1 Remortgage
+
+* Day 1 Remortgage (NOT inherited property) - assessed individually
+* Day 1 Remortgage (if inherited property) - assessed individually
+
+### Back to Back Remortgages
+
+* Back to Back (Remortgage - Bridging)
+* Back to Back (Remortgage - Customer Funded)
+* Back to Back (Remortgage - Inherited)
+* Back to Back (Remortgage - Other)
+* Back to Back (Remortgage - Ported)
+
+---
+
+## Purchase Types
+
+### Standard Purchase
+
+* Standard house purchase accepted
+
+### Concessionary Purchase
+
+* Concessionary purchase (Family)
+* Concessionary purchase (Landlord)
+* Concessionary purchase Where Giftor Will Remain
+
+### Inter-family Sales
+
+* Inter-family sales (no discount)
+
+### Undervalue Transactions
+
+* Undervalue transactions - assessed individually
+
+### Restricted Sale Price
+
+* Restricted Sale Price - assessed individually
+
+### Property at Auction
+
+* Property being purchased at auction - assessed individually
+
+### Back to Back Purchases
+
+* Back to back (Sub Sale Purchase - Other)
+* Back to back (Sub Sale Purchase - Part Exchange)
+* Back to back (Sub Sale Purchase - Repossessed)
+
+### Non Simultaneous Sale and Purchase
+
+* Non Simultaneous Sale and Purchase - assessed individually
+
+---
+
+## Shared Ownership
+
+* Shared Ownership accepted
+* Maximum Initial Share (%) applies
+* Maximum LTV (of applicants share) applies
+* Min Initial Share (%) applies
+* Restricted Staircasing - assessed individually
+* Shared Ownership remortgage purpose: Capital raising for home improvements
+
+---
+
+## Help to Buy
+
+* Help to Buy Equity Loan accepted
+* Help to Buy Equity Loan Remortgage
+* Help to Buy Equity Loan Remortgage with Capital Raising
+* Help to Buy Wales
+
+---
+
+## Right to Buy
+
+* Right to Buy accepted
+* Maximum LTV (of discounted purchase price) applies
+* Right to Buy additional lending above discounted price
+* Right to Buy Home Improvements Allowed
+* Right to Buy joint application sole occupier
+* Right to buy remortgage within pre-emption period - Balance swap
+* Right to buy remortgage within pre-emption period - Capital raising
+
+---
+
+## Right to Acquire
+
+* Right to Acquire accepted
+
+---
+
+## First Homes Scheme
+
+* First Homes Scheme: discounts for first time buyers
+
+---
+
+## Discount Market Scheme
+
+* Discount Market Scheme accepted
+
+---
+
+## Self Build
+
+* Self Build Accepted
+
+### Self Build Requirements
+
+* Maximum loan amount applies
+* Maximum term applies
+* Maximum LTV of estimated final value applies
+* Maximum LTV against valuation at point of stage release applies
+* Maximum LTV on land/plot value or purchase price applies
+* Minimum amount of stage payments applies
+* Maximum amount of stage payments applies
+* Standard retention for project applies
+* Stage payment frequency applies
+* Stage payment release schedule applies
+* Required build completion time (months) applies
+* Length of time before works must commence (months) applies
+* Minimum number of months remaining on planning permission applies
+* Outline or full planning permission required
+* Building Regulations approval required prior to completion
+
+### Self Build Types
+
+* Build type - Barn conversion
+* Build type - Conversion (commercial to residential)
+* Build type - Knock down and rebuild
+* Build type - Renovation
+* Build type - Unfinished/mid-build projects
+
+### Self Build Land
+
+* Lending against land
+* Contiguous land owned by the applicant
+* Contiguous land owned by their family
+* Gifted land/plot (gifted by family member)
+* Gifted land/plot (gifted by a NON family member)
+* Concessionary Land Purchase
+* Maximum plot size (acres) applies
+* Minimum plot size (Square Metres) applies
+
+### Self Build Other
+
+* All applicants are First time buyers
+* Multi-plot or group developments allowed
+* Maximum number of multi-plot or group developments allowed
+* More than one pending self-build application
+* Custom build schemes
+* Eco property allowed
+* Preferential terms for eco build
+* Shared access allowed
+* Can use own Conveyancer
+* Direct to Lender or Packager
+* Product fees added to the loan
+* Pure Interest only acceptable during the build
+* Retention product offered upon completion of build
+* Retention retained until sign off following build completion
+* Stage release fees apply
+* Valuation fee based on the estimated final value or land value
+* Applicants own savings required
+* Additional borrowing considered during the build
+* Back to Back (Remortgage waiting period)
+
+### Self Build Affordability
+
+* Affordability - Can applicants savings be used to cover monthly rental or mortgage payments
+* Affordability - Dual affordability assessment required (During and after build)
+* Affordability - Ongoing rent or mortgage payments included in affordability assessment
+
+### Self Build Property Types
+
+* Property Type: Semi-detached property
+* Property Usage: Holiday/Second Home
+
+---
+
+## Applicants
+
+### Maximum Number of Applicants
+
+* Maximum number of applicants allowed applies
+* Maximum number of applicants income used for affordability applies
+
+### Joint Applications
+
+* Joint application sole occupier
+* Joint application sole proprietor
+* Sole application for married couple
+* Sole application joint proprietor
+
+### Financial Associates
+
+* Financial Associates with Adverse - assessed individually
+
+### Guarantors
+
+* Guarantors accepted
+* Reverse (younger applicant guarantor for older applicant)
+* Where applicant significant income growth is not expected
+
+---
+
+## Address History
+
+* Address History (Min UK address history needed) applies
+
+### Applicant Status
+
+* Applicant not on electoral register - assessed individually
+
+---
+
+## Employment Status
+
+### Returning to UK
+
+* Returning to UK - Employed
+* Returning to UK - Self-Employed
+
+### Employment Requirements
+
+* Minimum length of time employed (months) applies
+* Minimum length of time in current job (months) applies
+* Employment : Zero Hours Contract Minimum Time in Position (in Months) applies
+* Minimum Length of Time in Secondary Employment (in Months) applies
+* Employment: Contractors Minimum Experience Requirement (Months) applies
+* Employment: Contractors minimum time remaining (months) applies
+* Employment: Contractors minimum income requirement applies
+* Employment: Contractors Weekly Multiplier for Income Assessment applies
+* Employment: Employed with Voluntary Breaks
+* Employment: Pending new job salary accepted
+* Employment: Pending pay rise accepted
+* Employment: Probationary Period
+
+---
+
+## Nationality & Residency
+
+### UK Residents
+
+* Standard UK residents accepted
+
+### Foreign Nationals
+
+* Foreign Nationals (Living Overseas)
+* Foreign Nationals (WITHOUT indefinite leave to remain)
+* Foreign Nationals (with indefinite leave to remain)
+
+### EU Nationals
+
+* EU Nationals with a 'pre-settled status'
+* EU Nationals with a 'settled status'
+
+### Visas
+
+* Visas: Family Visa (Spousal etc)
+* Visas: Minimum number months remaining on visa applies
+* Visas: Working Visa (Tier 1 - Investors, entrepreneurs and talent visas)
+* Visas: Working Visa (Tier 2 - Long-term work visas)
+
+### Expat Mortgages
+
+* Expat Residential Mortgage
+
+---
+
+## Lending Locations
+
+* England
+* Wales
+* Scotland
+* Northern Ireland
+* Channel Islands
+* Isle of Man
+* Isle of Wight
+* Scilly Isles
+
+### London Postcodes
+
+For the purposes of determining valuation fees applicable, the following postcodes are classified as being within London:
+
+BR, CR, DA, E, EC, EN, HA, IG, KT, N, NW, RM, SE, SM, SW, TW, UB, W, WC
+
+---
+
+## Property Value
+
+### Minimum Property Value
+
+* Minimum property value applies
+* Minimum property value for Retirement Interest Only (RIO) applies
+
+### Maximum Property Value
+
+* No specific maximum stated (subject to loan size limits)
+
+---
+
+## Affordability Assessment
+
+### Affordability Factors Considered
+
+* Additional Voluntary Pension Contributions
+* Charitable Donations
+* Child Care Vouchers
+* Company Pension
+* Maintenance Payments
+* Private Healthcare
+* School Fees
+* Season Ticket Loans
+* Sharesave Schemes
+* Student Loans
+
+### Affordability - Items Ignored
+
+* Non dependant household occupants ignored
+* Personal borrowing for self employed business purposes ignored
+* Debt being repaid fully or partially ignored
+* Expiring debt can be partially or fully ignored
+
+### Additional Residential Mortgages
+
+* Assessment of Additional Residential Mortgages: Monthly Payment or Outstanding Balance
+
+### Debt to Income Ratio
+
+* Maximum debt to income ratio applies
+
+### Income Assessment
+
+* Income made up primarily of benefits - assessed individually
+
+---
+
+## Additional Features
+
+### Overpayments
+
+* Overpayment facility as standard (percentage) applies
+* Uncapped overpayments available
+* No ERCs on overpayments
+
+### Product Features
+
+* Portable mortgages as standard
+* Offset Mortgages Available (check current products)
+* Split Mortgage Terms available
+
+### Offer Management
+
+* Can extend mortgage offer
+* Post offer changes - assessed individually
+* Offer expiry time (Standard) applies
+* Offer expiry time (Standard - Remortgages) applies
+* Offer expiry time (New Build) applies
+
+### Fees
+
+* Arrangement Fees Can Be Added When Exceeding LENDING LTV Limits
+* Arrangement Fees Can Be Added When Exceeding PRODUCT LTV Limits
+
+---
+
+## Special Circumstances
+
+### Consent to Let
+
+* Consent to Let a Room (via AirBnB or similar)
+* Consent to Let, Tied Accommodation
+
+### Let to Buy
+
+* Let to Buy (Existing lender consent to let)
+* Let to Buy (Onward Purchase)
+* Let to Buy (Remortgage current residential to Buy to Let)
+
+### Lodgers
+
+* Lodgers accepted
+* Lodger Income can be considered
+
+### Professional Landlord
+
+* Professional Landlord (Rent is primary source of income) - assessed individually
+
+### Minimum Time Owner Occupier
+
+* Minimum Time Owner Occupier (in Months) applies
+
+### Background Property
+
+* Minimum period background property let before can be ignored (months) applies
+
+---
+
+## Specialized Products
+
+### Sports Professionals
+
+* Sports Professionals - assessed individually
+
+### Buy for University (Student Mortgages)
+
+* Buy for University (Student Mortgages) - assessed individually
+
+---
+
+## Property Restrictions
+
+### Age Restrictions
+
+* Property with Age Restrictions / Retirement Properties
+
+### Agricultural Restrictions
+
+* Agricultural restrictions - assessed individually
+
+### Restrictive Covenants
+
+* Property with Restrictive Covenant Section 106
+
+---
+
+## Legal & Conveyancing
+
+### Search Indemnity Insurance
+
+* Legal: No search indemnity insurance (purchases)
+* Legal: No search indemnity insurance (remortgages)
+
+### Private Local Authority Search
+
+* Legal: Private local authority search (purchases)
+* Legal: Private local authority search (remortgages)
+
+---
+
+## Other Considerations
+
+### Power of Attorneys
+
+* Power of Attorneys - assessed individually
+
+### Politically Exposed Persons
+
+* Politically exposed persons - assessed individually
+
+### Contract Reassignment
+
+* Contract Reassignment - assessed individually
+
+### Retentions
+
+* Retentions (Minor retentions potentially ignored)
+
+### Simultaneous First and Second Charge
+
+* Simultaneous First and Second Charge - assessed individually
+
+### Transitional Arrangements
+
+* Transitional Arrangements Offered
+
+### Unadopted Roads
+
+* Unadopted Roads - assessed individually
+
+### Ex MOD Properties
+
+* Ex MOD properties - assessed individually
+
+### Advisor Own Application
+
+* Advisor Own Application - assessed individually
+
+---
+
+## Standard Variable Rate (SVR)
+
+At the end of the fixed-rate product, our Standard Variable Rate (SVR) will apply. Unlike other lenders, our SVR is priced according to risk and the lower the LTV, the lower the rate will be. Our SVR uses the same LTV bands as our fixed rate products and, as the LTV reduces over time, the SVR automatically moves to a new lower rate as it passes into a new LTV band.
+
+However, an SVR should rarely be a first choice and we will offer your client the same great deals we offer to new clients. We always make sure you are involved in this process and will proactively contact you at the same time as your client in advance of the fixed rate ending.
+
+---
+
+## Broker Partnership
+
+We believe in building long-term relationships, with our broker partners and with our customers. That's why we only distribute through intermediaries and work closely with you to ensure you receive the same great service as your clients and are fairly rewarded for your expertise.
+
+We'll work closely with you throughout the term of your client's mortgage. From arranging the mortgage to further advances and product switches. At the end of their product term we will proactively contact you at the same time we contact your client. And we'll offer them the same great rates we offer to new borrowers.
+
+---
+
+## Tools & Resources
+
+### Calculators
+
+* Affordability Calculator available
+* Buy to Let Affordability Calculator (where applicable)
+
+### Product Features Documents
+
+* Product Features sheet available
+* No Deposit Product Features available
+* Broker Journey guide available
+
+### Training & Support
+
+* Advisor user guides available
+* April Advisor Lounge access
+* Training videos available
+
+---
+
+## Contact Information
+
+**Broker Contact:** https://aprilmortgages.co.uk/broker/contact/
+**Broker Portal:** https://broker.aprilmortgages.co.uk/
+**Phone:** 0333 456 0333 (for No Deposit enquiries)
+
+---
+
+## Important Notes
+
+* All criteria are subject to change and should be verified with April Mortgages directly
+* Some criteria may be assessed on a case-by-case basis
+* Product availability and rates are subject to change
+* Always refer to the latest Product Features documents and criteria search tool for the most up-to-date information
+* For cases outside standard criteria, contact April Mortgages for consideration
+
+---
+
+**Last Updated:** 2025
+**Source:** https://aprilmortgages.co.uk/
+

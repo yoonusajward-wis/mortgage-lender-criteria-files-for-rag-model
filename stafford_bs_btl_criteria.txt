@@ -1,0 +1,523 @@
+LENDER NAME: Stafford Building Society
+PRODUCT: Buy to Let
+
+# The Stafford Building Society - Buy to Let (Personal) Lending Criteria
+**Source:** https://srbs.co.uk/intermediaries/
+**PDF:** https://srbs.co.uk/wp-content/uploads/2025/11/Criteria-Guide-Oct-2025.pdf
+**Last Updated:** October 2025
+
+**FOR INTERMEDIARY USE ONLY**
+
+The Stafford Building Society is the trading name of The Stafford Railway Building Society. The Stafford Railway Building Society is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (Registered no 206063).
+
+**Contact:**
+* **Broker Helpdesk:** 01785 231 444
+* **Email:** brokers@srbs.co.uk
+* **National Account Manager (Emma Parker):** 01785 294930 / 07506 906525 | emma.parker@srbs.co.uk
+* **Telephone Business Development Manager (Maisie Hartland):** 01785 294937 / 07956 866563 | maisie.hartland@srbs.co.uk
+* **Mortgage Administrator (Jayne Wilde):** 01785 231444 | jayne.wilde@srbs.co.uk
+* **Mortgage Administrator (Jessica McKinley):** 01785 231444 | jessica.mckinley@srbs.co.uk
+* **Intermediaries Hub:** https://intermediaries.srbs.co.uk
+* **Website:** https://srbs.co.uk/intermediaries/
+* **Downloads:** https://srbs.co.uk/intermediaries/downloads/
+
+**Office Hours:**
+* Monday to Friday: Standard business hours
+* Calls and electronic communication may be monitored and/or recorded for security and training purposes
+
+---
+
+## Overview
+
+The Stafford Building Society offers Buy to Let (BTL) mortgages for personal applicants (individuals, not limited companies). The Society provides BTL products for standard buy to let properties, holiday lets, and expat buy to let applications.
+
+### Key Features
+
+* **Maximum 70% LTV** - For all BTL products
+* **Portfolio landlords accepted** - Up to 10 BTL mortgaged properties
+* **Holiday let products available**
+* **Expat BTL products available**
+* **Interest-only, repayment, or part-and-part** - Available repayment options
+* **No HMOs** - Houses of Multiple Occupancy not accepted
+* **No top slicing** - Not available
+* **No capital raising for debt consolidation** - Not permitted
+
+---
+
+## Service Level Agreements
+
+The Society operates within the following SLAs for mortgage applications:
+
+* **Underwriter assessment:** Within 5 working days following receipt of documents
+* **Responding to Case update emails:** 48 hours
+* **Assessing valuations:** 48 hours
+* **New business enquiry emails:** 24 hours
+* **Assessing completions:** 24 hours
+* **Responding to solicitors' emails:** 24 hours
+
+---
+
+## General Lending Criteria
+
+### Where We Lend
+
+* **Location:** England (including the Isle of Wight) and Wales
+
+### Loan-to-Value (LTV)
+
+* **Maximum LTV:** 70% for all BTL products
+
+### Loan Amounts
+
+* **Minimum loan amount:** Product Specific (Please refer to product guide)
+
+### Loan Terms
+
+* **Minimum term:** Subject to product terms
+* **Maximum term:** Subject to borrower's age and product terms
+
+---
+
+## Applicant Requirements
+
+### Homeownership
+
+* **Must be existing residential homeowner in the UK**
+* **Excludes Ex-Pat BTL** - Expat applicants do not need to be existing homeowners
+
+### Income Requirements
+
+* **Must have income separate from the rental income of the subject property**
+* **Rental income from other properties** - Acceptable as income source
+* Income must be sufficient to meet affordability requirements
+* **Employment types:** Employed, self-employed, pension income, investment income
+* **Self-employed:** Documentation requirements apply (typically accounts, SA302s)
+* **Contractors and fixed-term contracts:** May be considered
+
+### Age Requirements
+
+* Standard age requirements apply
+* Refer to product-specific criteria for age limits
+* **Maximum age:** Subject to product terms and retirement age
+
+---
+
+## Property Criteria
+
+### Property Location
+
+* **England (including the Isle of Wight) and Wales**
+
+### Property Value
+
+* **Minimum property value:** £100,000
+
+### Property Types
+
+**Acceptable Properties:**
+* Standard buy to let properties
+* Holiday let properties
+* Subject to valuation and standard property criteria
+
+**Not Acceptable:**
+* **Houses of Multiple Occupancy (HMOs)** - Not accepted
+
+### Energy Performance Certificate (EPC)
+
+* **Minimum EPC rating:** E or above
+* **EPC exemptions:** Can be considered (except for ExPat BTL)
+* ExPat BTL requires valid EPC
+
+### Tenancy Agreement
+
+* **Must be let on an Assured Shorthold Tenancy (AST) agreement**
+* **Tenancy term:** Up to 12 months
+
+### Let-to-Buy and Inherited Property
+
+* **Let-to-Buy:** Acceptable, subject to referral, where the motivation for letting meets the Society's definition of a Business BTL venture
+* **Inherited Property:** Acceptable, subject to referral, where the motivation for letting meets the Society's definition of a Business BTL venture
+
+### Property Construction
+
+* Standard construction types accepted
+* Subject to valuation and standard property criteria
+* Non-standard construction may be considered on a case-by-case basis
+
+### Leasehold Properties
+
+* **Leasehold flats and houses** - Accepted
+* **Minimum lease term:** Subject to standard requirements (typically 70+ years remaining)
+* **Leasehold documentation** - Required
+
+### New Build Properties
+
+* **New build properties** - Accepted
+* **Warranty requirements** - Standard new build warranty required
+* **Builder incentives** - May affect loan amount calculation
+
+---
+
+## Deposit & Equity
+
+### Acceptable Deposit Sources
+
+* **Own savings and investments** - Acceptable
+* **Gifted deposits** - From landlord or family (blood relatives, step-parents, children, spouse, guardian, or partner)
+  * Evidence required of deposit in donor's UK bank account
+  * Gifted Deposit Form required
+* **Equity from sale of another property** - Acceptable
+* **Deposit raised from another property owned** - Acceptable
+* **Overseas deposits** - Can be considered on an individual basis (funds must be paid into applicant's UK bank and evidenced for at least 28 days)
+
+### Minimum Deposit
+
+* **Minimum deposit:** 30% (70% maximum LTV)
+* **Minimum property value:** £100,000
+
+---
+
+## Rental Income & Affordability
+
+### Interest Coverage Ratio (ICR)
+
+**Standard BTL (Non-Portfolio):**
+* **LTV up to 50%:** 130% at 5.50% or 2% above the product rate, whichever is higher
+* **LTV between 50% and 70%:** 140% at 5.50% or 2% above the product rate, whichever is higher
+
+**Portfolio Landlords:**
+* **Entire portfolio:** 150% at 5.50% or 2% above the product rate, whichever is higher
+* **Mortgage security (Society's loan):** Standard ICR stress criteria apply (130% for LTV up to 50%, 140% for LTV 50-70%)
+
+### Rental Assessment
+
+* Rental income must meet ICR requirements
+* Rental assessment required from appropriate sources
+* Subject to valuation and market rental assessment
+
+### Top Slicing
+
+* **Not available** - Top slicing is not permitted for BTL applications
+
+---
+
+## Portfolio Landlords
+
+### Definition
+
+* **Portfolio landlords:** Applicants with four or more BTL mortgaged properties
+* **Maximum portfolio size:** Up to 10 BTL mortgaged properties in total
+
+### ICR Stress Testing for Portfolio Landlords
+
+* **Entire portfolio:** 150% at 5.50% or 2% above the product rate, whichever is higher
+* **Mortgage security (Society's loan):** Standard ICR stress criteria apply:
+  * LTV up to 50%: 130% at 5.50% or 2% above the product rate, whichever is higher
+  * LTV between 50% and 70%: 140% at 5.50% or 2% above the product rate, whichever is higher
+
+---
+
+## Product Types
+
+### Standard Buy to Let
+
+**BTL 2 Year Discount of 2.1% (70% LTV):**
+* **Product Code:** BL10
+* **Initial Rate:** 5.30% Variable
+* **Maximum LTV:** 70%
+* **APRC:** 7.2%
+* **Early Repayment Charge:** Yes
+
+**BTL Expat and Standard 2 Year Discount of 4.25% (70% LTV):**
+* **Product Code:** BL09
+* **Initial Rate:** 3.15% Variable
+* **Maximum LTV:** 70%
+* **APRC:** 7.3%
+* **Early Repayment Charge:** Yes
+
+**BTL And Holiday Expat 2 Year Discount of 1.55% (70% LTV):**
+* **Product Code:** BL08
+* **Initial Rate:** 5.85% Variable
+* **Maximum LTV:** 70%
+* **APRC:** 7.3%
+* **Early Repayment Charge:** Yes
+
+### Holiday Buy to Let
+
+**Holiday BTL 2 Year Discount of 1.8% (70% LTV):**
+* **Product Code:** HB07
+* **Initial Rate:** 5.60% Variable
+* **Maximum LTV:** 70%
+* **APRC:** 7.3%
+* **Early Repayment Charge:** Yes
+
+**Expat And Standard Holiday BTL 2 Year Discount of 3.95% (70% LTV):**
+* **Product Code:** HB08
+* **Initial Rate:** 3.45% Variable
+* **Maximum LTV:** 70%
+* **APRC:** 7.4%
+* **Early Repayment Charge:** Yes
+
+### Loyalty/Retention Products
+
+**Retention BTL/HL/Expat 2 Year Discount of 2.35%:**
+* **Product Code:** RT14
+* **Initial Rate:** 5.05% Variable
+* **Maximum LTV:** 70%
+* **APRC:** 7.10%
+* **Early Repayment Charge:** Yes
+
+---
+
+## Repayment Methods
+
+### Available Repayment Types
+
+* **Repayment** - Capital and interest
+* **Interest Only** - Interest-only basis
+* **Part-and-Part** - Combination of repayment and interest-only
+
+### Capital Raising
+
+* **Capital raising for debt consolidation:** Not permitted
+* **Other capital raising:** Subject to specific criteria and referral
+
+---
+
+## Application Types
+
+### Purchase
+
+* **First-time landlords** - Accepted (subject to standard criteria)
+* **Experienced landlords** - Accepted
+* **New build BTL** - Accepted (subject to warranty requirements)
+
+### Remortgage
+
+* **Remortgage with capital raising** - Available (subject to specific criteria)
+* **Remortgage without capital raising** - Available
+* **Product transfers** - Available for existing customers (Retention products available)
+* **Further advances** - May be available (subject to specific criteria and referral)
+
+### Capital Raising
+
+* **Capital raising for debt consolidation:** Not permitted
+* **Other capital raising purposes:** Subject to specific criteria and referral
+* **Home improvements:** May be considered (subject to specific criteria)
+
+---
+
+## Exclusions
+
+### Not Accepted
+
+* **Houses of Multiple Occupancy (HMOs)** - Not accepted
+* **Top slicing** - Not available
+* **Capital raising for debt consolidation** - Not permitted
+
+---
+
+## Application Process
+
+### Intermediaries Hub
+
+* **Portal:** https://intermediaries.srbs.co.uk
+* **Note:** The Intermediaries Hub is temporarily unavailable. In the meantime, please contact the intermediaries team for any queries
+* Online application and case management
+* Access to product information and calculators
+
+### Manual DIPs
+
+* **All of our underwriting is manual and so our DIP process is, too**
+* **Just contact us with full details of the application** and we'll consider this for you, referring it if necessary to our daily credit committee meetings of senior decision makers
+
+**Important Notice:**
+* Please be aware, we are experiencing technical difficulties with our phone lines. If you need to contact the Society urgently, please email brokers@srbs.co.uk
+
+### Supporting Documentation
+
+Standard BTL mortgage application documentation required, including:
+
+**Income Documentation:**
+* **Employed:** Payslips (typically 3 months), P60, employment contract
+* **Self-employed:** Accounts (typically 2-3 years), SA302s, tax year overviews, business bank statements
+* **Pension income:** Pension statements, proof of pension payments
+* **Investment income:** Statements, proof of income
+* **Rental income from other properties:** Tenancy agreements, bank statements showing rental income
+
+**Identification:**
+* Proof of identity (passport or driving licence)
+* Proof of address (utility bills, bank statements)
+* **Expat applicants:** Expat ID Requirements apply
+
+**Property Documentation:**
+* Property details and valuation
+* **Rental assessment** - Required (from appropriate sources)
+* **Tenancy agreement** - For existing tenancies (if applicable)
+* **EPC certificate** - Required (minimum rating E)
+* New build warranty (if applicable)
+* Leasehold documentation (if applicable)
+
+**Other Documentation:**
+* Credit checks (performed by Society)
+* Gifted Deposit Form (if applicable)
+* Interest Only Sale of Mortgaged Property Declaration (if applicable)
+* Portfolio landlord documentation (if applicable - portfolio details, rental income from all properties)
+* Additional forms as required
+
+### Valuation Requirements
+
+* **Valuation required** - For all properties
+* **Valuation types** - Desktop, drive-by, or full valuation (as determined by Society)
+* **Rental assessment** - Required as part of valuation process
+* **Valuation fees** - Apply as standard (varies by property value and type)
+* **Valuation assessment** - Within 48 hours
+* **Down valuations** - May affect loan amount or require additional deposit
+
+### Forms Available
+
+* Indirect Mortgage Application Form
+* Declaration Page
+* Direct Debit Instruction
+* Gifted Deposit Form (if applicable)
+* Interest Only Sale of Mortgaged Property Declaration (if applicable)
+* ID Requirements
+* Expat ID Requirements (for expat applications)
+* Submission Checklist
+* DIP Form
+
+---
+
+## Holiday Let Specific Criteria
+
+### Holiday Let Properties
+
+* **Holiday let properties** - Accepted (to be read in conjunction with BTL General criteria)
+* **The Society will lend on residential properties to individuals on a BTL basis for renting out as a holiday let property**
+* **Maximum LTV:** 70%
+* **Holiday parks are not acceptable**
+* **Occupancy restrictions are considered** subject to valuer's comments
+* **Location** - England (including Isle of Wight) and Wales
+* **Minimum property value:** £100,000
+
+### Holiday Let Rental Assessment
+
+* **The Society requests the applicant(s) to provide independent confirmation from a local agent or comparable online specialist** of the predicted holiday rental over 12 months, taking into account high, medium and low seasons
+* **An average taken over a 30-week occupancy assumption** applied on the basis of the example below
+
+**Example Calculation:**
+* If the Low Season is £1,650, the Medium Season £2,300 and the High Season £3,100, an average per week of the 3 seasons (£2,350) will be used
+* Then we will apply a 30-week occupancy assumption
+* In this example gross rental income per annum would be £70,500
+* The mortgage payment is then stressed at an ICR of 140% @ 5.5% or 2% above the product, whichever is higher, of the average monthly holiday let income
+
+### Holiday Let Products
+
+* **Holiday BTL 2 Year Discount of 1.8% (70% LTV)** - Product Code: HB07
+* **Expat And Standard Holiday BTL 2 Year Discount of 3.95% (70% LTV)** - Product Code: HB08
+* **Retention BTL/HL/Expat 2 Year Discount of 2.35%** - Product Code: RT14 (for existing customers)
+
+---
+
+## Expat BTL Specific Criteria
+
+### Expat Buy to Let
+
+* **Expat BTL products available** - Specific products for expatriate applicants (to be read in conjunction with BTL General criteria)
+* **The Society will lend to UK citizens residing out of the country** (subject to being on the acceptable countries list) for BTL and HBTL purchases and re-mortgages
+* **Homeownership requirement:** Applicants do not need to own a UK property
+* **Residency:** Expat applicants accepted
+* **EPC requirement:** ExPat BTL requires valid EPC (exemptions not considered)
+* **Location:** England (including Isle of Wight) and Wales
+* **Minimum property value:** £100,000
+* **Maximum LTV:** 70%
+
+### Expat Applicant Requirements
+
+* **Acceptable applicants must be employed by a nationally recognised company**
+* **The applicant's company must not be involved in high-risk industries** as listed here: https://www.fca.org.uk/firms/financial-crime/money-laundering-regulations
+* **The Society will require 3 months' salary slips** and may request an employment reference provided in English
+* **All mortgage payments must be made from a UK bank account** in the applicant(s) own name
+* **The Ex-Pat BTL property must be managed through a UK letting agent**
+* **For Ex-Pat applicants who already own mortgaged UK property(s):** They must provide the latest mortgage statement(s) for each mortgaged property(s)
+
+### Acceptable & Unacceptable Countries
+
+* **For the full list of accepted & unaccepted countries, please refer to the Expat Country List document**
+* Contact the Society for the current Expat Country List
+
+### Expat Proof of Deposit
+
+* **Deposits which originated outside of the UK are accepted** subject to the funds being in the applicant(s) UK bank account prior to application
+* **An explanation of how the funds have been acquired** as part of the application process must be provided
+
+### Expat Capital Raising
+
+* **If an applicant wants to raise funds on their UK property, to fund a deposit/purchase in the Country they currently live in, this is acceptable**, subject to the funds being paid to the solicitor acting on the borrowers'/Society's behalf
+
+### Expat BTL Products
+
+* **BTL Expat and Standard 2 Year Discount of 4.25% (70% LTV)** - Product Code: BL09
+* **BTL And Holiday Expat 2 Year Discount of 1.55% (70% LTV)** - Product Code: BL08
+* **Expat And Standard Holiday BTL 2 Year Discount of 3.95% (70% LTV)** - Product Code: HB08
+* **Retention BTL/HL/Expat 2 Year Discount of 2.35%** - Product Code: RT14 (for existing customers)
+
+### Expat Documentation
+
+* **Expat ID Requirements** - Specific identification requirements apply
+* **3 months' salary slips** - Required
+* **Employment reference** - May be requested (provided in English)
+* **Latest mortgage statement(s)** - Required for each mortgaged UK property (if applicable)
+* Standard income and property documentation required
+* Additional documentation may be required based on residency status
+
+---
+
+## Fees
+
+* **Application fee:** £100 (standard across most products)
+* **Arrangement fees:** Vary by product
+* **Valuation fees:** Apply as standard (varies by property value and type)
+* **Early repayment charges:** Apply during initial discount period (varies by product)
+* **Product transfer fees:** May apply (refer to product-specific terms)
+
+---
+
+## Additional Information
+
+### Calculators
+
+* **Affordability calculator** - Available on the Society's website
+* **Mortgage calculator** - Available via intermediaries portal
+* **Rental calculator** - For ICR calculations
+* Access via broker portal and website
+
+### Product Guides
+
+* **Criteria Guide:** Available as PDF download (October 2025)
+* **Valuation Fees:** Available on website
+
+### Downloads
+
+* All documents and applications available via downloads page
+* If additional documents needed, email: Brokers@srbs.co.uk
+
+---
+
+## Notes
+
+* All criteria are subject to individual assessment
+* The Society reserves the right to decline applications that do not meet lending criteria
+* Product availability and rates are subject to change
+* For the most up-to-date information, refer to the latest Criteria Guide (October 2025) or contact the broker helpdesk
+* **Personal BTL only** - This criteria applies to individual applicants, not limited companies
+* Portfolio landlords are subject to enhanced ICR stress testing
+* Expat BTL applications have specific criteria (refer to full criteria guide)
+
+---
+
+**Document Version:** October 2025
+**Source PDF:** Criteria Guide - October 2025
+**Website:** https://srbs.co.uk/intermediaries/
+**Product Type:** Buy to Let - Personal (Individual Applicants)
+

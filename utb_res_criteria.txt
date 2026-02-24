@@ -1,0 +1,331 @@
+LENDER NAME: Utb
+PRODUCT: Residential
+
+# UTB Mortgages - Residential Lending Criteria
+
+**Last Updated:** September 2025  
+**Source:** UTB Mortgages USP Sheet  
+**For Intermediaries Only**
+
+---
+
+## Overview
+
+We understand that each person is unique and that many cases are too complex for the 'High Street'. Where customers have circumstances that require a bit more flexibility, you need a lender who'll take a different view.
+
+---
+
+## Customers We Love to Help
+
+- Owners of unusual properties or construction types / unencumbered properties
+- Professionals and those with complex income
+- Self-employed and contractors
+- Borrowers with impaired credit
+- Buy to let landlords, individuals or Ltd Co SPVs with HMOs, MUBs or holiday lets
+- Second charge residential borrowers
+- Mortgage Prisoners
+- Product Transfer options are available for all products (eligible existing customers are offered these options within 90 days of expiry of their current fixed rate)
+
+---
+
+## Our Product Offering - Residential
+
+- Lending available to 95% LTV
+- Maximum Loan: £2m
+- Maximum age: 85 years
+- 6x LTI to 85% LTV
+- Improved AVM criteria up to 85% LTV
+- No ERC options available
+- Married, sole applications accepted
+- No debt consolidation LTV restrictions (excluding Interest Only)
+- Multiple sources of income allowed: child benefits, foster income, maintenance, second jobs and pension
+- Up to 75% of annual bonus, regular bonus, commission and overtime considered with 2yrs history
+- Salary + Net Profits accepted for affordability by Ltd Co Directors
+- Projections considered on referral for Ltd Co Directors
+- Contractors – daily rate x 5 x 48 weeks minus all deductions at source
+- 0 hours contracts considered with 12 months history
+- Non-standard construction property types accepted - timber frame, steel frame, concrete with no LTV restrictions
+- High rise and flats above retail with no LTV restrictions
+- Interest Only - affordability assessed on the interest only payment
+- New Build properties/off plan purchase accepted (to max 85% LTV)
+- DTI up to 50%
+- Loan term up to 40 years (including part years)
+- Quick solicitors process on remortgages
+
+---
+
+## Our Product Offering - Second Charge Loans
+
+- Lending available to 90% LTV
+- Loan size to £1m up to 80% LTV
+- No lender fee up to £40,000 net loan
+- No ERC options available
+- 6x LTI up to 80% LTV
+- Improved AVM criteria up to 85% LTV
+- Maximum 30-year term
+- Married, sole applications accepted
+- Binding Offers can be issued with Special Conditions for non-affordability linked requirements ie: first mortgage consent to second charge
+- Multiple loan purposes available
+- Plans that allow 1 missed mortgage payments in 12 months
+- Unlimited overpayments on all 2nd charge products (excluding final settlement if on an ERC product still in fixed period)
+- (All residential mortgage USPs apply to Second charges with the exception of Interest Only, 50% DTI and £2m max loan)
+- Fixed rates and BoE Lifetime trackers available
+- ERC and No ERC options provided
+- Overpayments accepted (10% per annum of the existing mortgage balance) unlimited outside of fixed rate and or no ERC plan chosen
+- We lend across England, Wales and Mainland Scotland* (*excl BTL)
+
+---
+
+## Flexible Terms and Approach to Adverse Credit
+
+- Normal LTV applied for non standard properties
+- Lend for any legal purpose (including some business purposes)
+- On consolidation applications all credit card, mail order and store card funds sent to the client to pay rather than UTB sending cheques or electronic transfer
+- Mail order and communications arrears and defaults ignored
+- CCJs and defaults under £300 ignored
+- Missed mortgage payments made within 30 days of due date ignored
+- 1 year discharged for IVAs
+- Product range available which allows 1 missed mortgage payment within 12 months
+- Prime Plus & Prime product ranges can be used if a customer has unsecured arrears which have been brought up to date and evidenced
+
+---
+
+## Our Winning Service Formula
+
+- Dedicated National BDM team
+- Direct access to an underwriter
+- Manual underwriting
+- AVMs available
+- Intuitive technology to accelerate processing
+
+**Contact Information:**
+- For new case enquiries: T: 02070311551 | E: mortgage.enquiries@utbank.co.uk
+- Portal login: [www.utbankmortgages.co.uk](https://www.utbankmortgages.co.uk)
+- [Register with UTB](https://www.utbankmortgages.co.uk)
+- [Find your BDM](https://www.utbankmortgages.co.uk)
+
+---
+
+# Mortgages and Second Charge Loans – Detailed Criteria Guide
+
+## Property Requirements
+
+**Mortgage History**
+
+* A minimum of 12 months’ mortgage history is required.
+
+**Location**
+
+* Properties must be located in England, Wales, or Mainland Scotland.
+
+**Main Property Exclusions**
+
+* Properties valued under £90,000 with < 85% LTV.
+* Properties under £125,000 with > 85% LTV (first charge).
+* Properties under £150,000 with > 85% LTV (second charge).
+* Commercial properties.
+* Right to Buy within 4 years of purchase.
+* Agricultural properties.
+
+**Buildings Insurance**
+
+* No evidence required.
+
+**Borrower Legal Representation**
+
+* For remortgage and unencumbered secured loans: not required.
+* For purchases: minimum of two solicitors in practice.
+
+**Purchase Deposits**
+
+* Equity from an existing property.
+* Personal savings (must show build-up over time).
+* ISA in customer’s name.
+* Gifted deposit from blood relatives or step-relatives.
+* Gifted equity with SDL tax paid at full OMV.
+
+---
+
+## Valuation Requirements
+
+**First Charge Products**
+
+* **Purchase**: Full valuation required.
+* **Remortgage**:
+
+  * Hometrack AVM up to 75% LTV, £250k gross loan, confidence score ≥ 5.0, max property value £1m.
+  * Drive-by valuation up to 75% LTV, £500k gross loan.
+  * Internal mortgage valuation required for all loans > 85% LTV.
+  * Specialist reports required if property not purchased/remortgaged in the last 5 years.
+* **Unencumbered**:
+
+  * Hometrack AVM up to 30% LTV, £50k gross loan, confidence score ≥ 5.0, max property value £1m.
+  * Drive-by valuation up to 75% LTV, £100k gross loan.
+  * Internal mortgage valuation up to maximum LTV and gross loan.
+
+**Solicitor Details**
+
+* Customer may choose own solicitor for purchase, but firm must have ≥ 2 partners.
+* Indemnity insurance is required for gifted equity.
+
+**Second Charge Products**
+
+* **Hometrack**
+
+  * Max £150k gross loan:
+
+    * Up to 85% LTV (min confidence score 6.5)
+    * Up to 80% LTV (score 6)
+    * Up to 75% LTV (score 5)
+    * Up to 60% LTV (score 4)
+    * Up to 40% LTV (score 3)
+  * Max £250k gross loan: up to 75% LTV, score ≥ 5.
+  * Max property value: £1m.
+  * Properties > £1m: up to 75% LTV, max £150k loan, min score 6.
+* **Drive-By Valuation**:
+
+  * Up to 75% LTV, £50k gross loan.
+  * Up to 65% LTV, £100k gross loan.
+* **Internal Valuation**:
+
+  * Allowed up to maximum LTV and gross loan.
+* Specialist reports not required if purchased/remortgaged in last 5 years.
+
+---
+
+## ID and Residence
+
+* Documentary proof of ID required for all applications (usually through UTB Chat Hub).
+* If digital ID cannot be provided, applicants must take Independent Legal Advice from a pre-approved firm with at least 2 partners.
+
+---
+
+## Loan Purpose
+
+* Purchase or remortgage only (not available to first-time buyers).
+* Capital raise allowed for most legal purposes, excluding bankruptcy avoidance.
+* Debt consolidation limited to £25,000 and only for home improvements completed in the last 6 months.
+
+---
+
+## Applicant Profile
+
+* Age: 25–85 (at end of term).
+* Minimum income: £50,000 (application).
+* Minimum security property value: £100,000.
+* Affordability assessed on the interest-only monthly repayment.
+* An Interest-Only Declaration Form must be signed, confirming repayment vehicle(s).
+* London postcodes available in packaging guide.
+
+---
+
+## Loan-to-Value (LTV)
+
+* Maximum 70% LTV for downsize.
+* Maximum 75% LTV for all other repayment vehicles.
+
+---
+
+## Repayment Vehicles
+
+Multiple repayment vehicles are allowed, including:
+
+* Downsize: min equity £250,000 (London) or £150,000 (nationally).
+* Sale of investment property (85% of net equity).
+* Cash savings (90% of current value).
+* UK ISA (90% of current value).
+* Pension (100% of tax-free PCLS amount).
+* Endowment (75% of projected lump sum).
+* Unit Trusts, OEICs, or investment bonds (75% of current portfolio value).
+
+---
+
+## Income and Affordability
+
+**Minimum Income**
+
+* **First charge**:
+
+  * £15k if LTV ≤ 85%.
+  * £40k if LTV > 85%.
+* **Second charge**: £15k for all applications.
+
+**Acceptable Sources of Income**
+
+* Employed: 6 months in current role, or 3 months if 12 months continuous employment and not in probation.
+* 100% of guaranteed income (basic pay, car allowance, shift allowance).
+* 75% of regular income (bonus, overtime, commission) with last 2 payslips + latest P60.
+* Bonuses:
+
+  * If ≥ £10k: 75% of average over last 2 years.
+  * If < £10k: 50% of average over last 2 years.
+* Self-employed (sole traders/partnerships): 100% of net profit.
+* Limited companies: proportionate % of latest year’s net profit (based on shareholding) + salary. Retained profits and director loans not accepted.
+* Pension: 100% of regular income.
+* Family/child benefits: 100%, provided total income ≥ £25k.
+* Unacceptable: any other benefits or income not in GBP.
+
+---
+
+## Proof of Income
+
+* **Employed**: last 2 payslips (computerised) or 2 manual payslips + P60/bank statement.
+* **Self-employed (sole trader/partnership)**: last 2 years’ Tax Calculations + corresponding Tax Year Overviews + latest business bank statement (TYO not required if 100% submitted).
+* **Limited company**: accountant’s certificate OR last 2 years’ accounts, latest Tax Calculation + TYO, + latest business bank statement.
+* **Pension**: last pension statement + latest bank statement.
+* **Maintenance, benefits, tax credits**: Court order/CSA documentation or entitlement letter + bank statement.
+* **Trust income**: Trust Deed + latest bank statement.
+
+---
+
+## Affordability Assessment
+
+* Must be assessed on UTB portal.
+* Assessment must be sustainable and evidenced for the entire loan term.
+* Debt consolidation (status 1 and 2) must be ≤ 1.5x total gross income.
+
+---
+
+## Age
+
+* Minimum: 18 years old (25 for interest-only).
+* Maximum: 85 years at end of term.
+
+---
+
+
+
+
+# Status Definitions – First & Second Charge Products
+
+For **Prime Plus and Prime (less than 85% LTV):**
+
+* **Unsecured:** Must be currently up to date.
+* **Secured Loans and Mortgages:** No arrears in the last 3 months, none in the last 12 months, and no outstanding arrears.
+* **CCJs:** None in the last 24 months. CCJs under £300 may be ignored.
+* **Defaults:** None in the last 24 months. Defaults under £300 may be ignored.
+
+For **Prime Plus and Prime (greater than 85% LTV):**
+
+* **Unsecured:** Must be currently up to date.
+* **Secured Loans and Mortgages:** No arrears in the last 3 months, none in the last 12 months, and no outstanding arrears.
+* **CCJs:** None in the last 36 months. CCJs under £300 may be ignored.
+* **Defaults:** None in the last 36 months. Defaults under £300 may be ignored.
+
+For **Near Prime (less than 85% LTV):**
+
+* **Unsecured:** Can be ignored if debts are being consolidated.
+* **Secured Loans and Mortgages:** No arrears in the last 3 months, a maximum of 1 arrear in the last 12 months, and no more than 1 outstanding arrear.
+* **CCJs:** A maximum of 1 in the last 24 months. CCJs under £300 may be ignored.
+* **Defaults:** A maximum of 1 in the last 24 months. Defaults under £300 may be ignored.
+
+**Additional Notes (applies to all plans):**
+
+* Mail order and communications debts are ignored.
+* Previous conduct will still affect the applicant’s credit score.
+
+---
+
+**Source:** [UTB Mortgages USP Sheet](https://www.utbank.co.uk/wp-content/uploads/2025/09/Mortgages-USP-Sheet-Sept-25-1.pdf)
+
+**Contact:** T: 02070311551 | E: mortgage.enquiries@utbank.co.uk | Portal: [www.utbankmortgages.co.uk](https://www.utbankmortgages.co.uk)

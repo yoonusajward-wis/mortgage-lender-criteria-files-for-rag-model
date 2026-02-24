@@ -1,0 +1,816 @@
+LENDER NAME: Zephyr
+PRODUCT: Buy to Let
+
+ZEPHYR HOME LOANS - BTL UNDERWRITING GUIDE (COMPLETE)
+============================================================
+
+Extracted on: 2025-01-XX (Latest Version)
+Source: https://zephyrhomeloans.co.uk/wp-content/uploads/2025/05/Underwriting-Guide.pdf
+Last Updated: October 2025
+
+OVERVIEW
+----------------------------------------
+This file contains the complete Buy-to-Let Underwriting Guide for Zephyr Home Loans.
+Content extracted from the official Underwriting Guide PDF (October 2025 version).
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# Underwriting guide 
+
+Last updated: October 2025
+
+## FOR INTERMEDIARIES ONLY
+
+Our products are only available through our selected brokers and the information presented here should not be relied on by any person who does not have professional experience in relation to investments.
+
+---
+
+# Contents 
+
+To help you find the information you need, simply click on the relevant menu item or page number below to go direct to that page.
+Alternatively, use the 'find' facility in your pdf viewer to look up certain words and it will highlight them for you. You can also press CTRL + F.
+
+And don't forget that our friendly, knowledgeable team of Regional Sales Managers and Telephone BDMs are only a call or email away if you want to discuss a particular case. We're here to help!
+
+| Section | Information included in section | Page |
+| :--: | :--: | :--: |
+| 1. Introduction | - Introduction to this guide <br> - Supporting documents | 2 |
+| 2. General Lending Criteria | - Applicant types and age (individuals and directors) <br> - Identification (ID) requirements <br> - Property types <br> - Consumer BTL | 2 |
+| 3. Portfolio Landlords | - Portfolio landlord definition <br> - Business plan and cashflow | 4 |
+| 4. Special Purpose Vehicles (SPVs) | - Limited Company (SPV) requirements <br> - SIC codes <br> - Guarantees <br> - Incorporation: Individual to Limited Company <br> - Incorporation: LLP to Limited Company | 5 |
+| 5. Credit Status | - Credit criteria <br> - Notice of correction <br> - Unable to trace on Bureau | 5 |
+| 6. Income | - Employment status requirements <br> - Income and documents requirements <br> - Required Documents <br> - Interest Coverage Ratios (ICRs) <br> - Top slicing <br> - Portfolio cross-subsidisation <br> - Pipeline cases and stressed interest rates | 6 |
+| 7. Tenancy | - Tenancy types <br> - Corporate leases <br> - Tenant types <br> - High value tenancy | 9 |
+| 8. Loan Details | - Loan term, size and loan to value (LTV) <br> - Repayment methods <br> - Minimum valuation <br> - Capital raising <br> - Remortgage within 6 months of ownership <br> - Debt consolidation <br> - Additions to loan e.g. product fees <br> - Offer validity period <br> - Sources of deposit <br> - Security <br> - Payments | 10 |
+| 9. Property Details | - EPC <br> - Valuations <br> - Retentions <br> - UK locations <br> - Tenure (freehold / leasehold) <br> - Exposure limits <br> - Property types and construction | 12 |
+| 10. Solicitors | - Our solicitor requirements | 17 |
+| 11. Fees | - Details of fees <br> - Additions to the loan <br> - Refund of fees | 17 |
+
+---
+
+# 1. Introduction
+
+This document is an abridged version of the Zephyr Homeloans Underwriting Policy. It has been produced to highlight key policy rules and lending criteria to enable registered intermediaries to submit complete and accurate mortgage applications.
+
+Please note - this is a guide to our criteria and in certain situations our underwriters may have discretion to consider exceptions to our lending policy. Each application is considered on its merits, and we do not guarantee acceptance of all cases which meet our headline criteria. Please contact us to discuss the specific circumstances of your case.
+
+Supporting documents
+
+The following documents should be used in conjunction with this Underwriting Guide:
+
+- Income & Expenditure Form
+- Business Plan
+- Cash Flow Summary
+- Portfolio Overview
+- Application Submission Guide
+- Product Range
+
+These documents are all available from the our website in the Documents library: [www.zephyrhomeloans.co.uk/documents](https://www.zephyrhomeloans.co.uk/documents).
+
+# 2. General Lending Criteria
+
+a) GENERAL
+
+Purchases involving property clubs or syndicates are excluded.
+
+Maximum Number of Applicants for standard and SPV applications: 4
+
+Residency Status: All applicants, including directors of SPV applications, must be a UK national or have permanent Rights to Reside in the UK. This will be validated by evidencing the current passport.
+
+Where UK nationals cannot provide a current passport, the following evidence can be accepted as proof of UK nationality:
+
+|  Proof of ID | Place of Birth on ID doc | DOB | Further proof needed  |
+| --- | --- | --- | --- |
+|  Current UK Passport | Any | Any | None  |
+|  Current Driving Licence | UK location | Before 1 January 1983 | None  |
+|   | UK location | After 1 January 1983 | 1,2,3 ,4 or 5 and 6  |
+|   | Non-UK location | Any | 1,3 or 4  |
+|  Other | UK location | Any | 1,3 or 4  |
+
+1. Original UK passport lapsed by up to three years.
+2. Birth certificate original / Certified (see glossary) copy showing UK address and UK place of birth for either parent.
+3. Original letter confirming nationality.
+4. UK citizenship / nationality listed on Equifax AML response.
+5. Birth certificate showing UK address but non-UK place of birth for both parents.
+6. Either parent's current passport showing UK nationality.
+
+In addition to the 3-year residency requirement, acceptable proof of permanent right to reside is as follows:
+
+|  EEA / Swiss nationals | Non-EEA nationals  |
+| --- | --- |
+|  Valid EEA passport. | Vignette / stamp certifying right of abode in valid passport.  |
+|  Document certifying permanent residence | Biometric residence permit, certifying right of abode.  |
+|   | Document certifying permanent residence.  |
+
+---
+
+# Identification 
+
+All applicants/directors must provide a valid National Insurance Number and UK bank account details.
+
+## Address History
+
+All applicants and directors except members of the armed forces should have resided continuously in the UK for the last 3 years. This requirement may be waived for UK Nationals with a period of absence up to two years subject to underwriter discretion.
+
+First Time Landlord (FTL) describes any applicant or Limited Company (SPV) that have never previously purchased a buy-to-let property. We will lend to FTLs where the applicant or at least one Director (if a Limited Company) currently owns a residential property with no arrears history for at least 1 year.
+
+Landlord Experience: Standard
+
+- At least one applicant or director must have owned and still own at least one property, residential or buy-to-let, for a minimum of 12 months.
+
+Landlord Experience: HMOs \& MUFBs
+
+- At least one applicant or director should have owned, let and still own one or more buy-to-let properties for a minimum of 12 months at the time of Offer, or, subject to underwriter's discretion, be able to demonstrate transferable skills related to regulatory compliance and financial/business management. If this is not evident on a credit search, then verification from the applicant or director will be needed.
+
+Power of Attorney Applications: Not permissible
+
+## We will lend to the following customer segments:
+
+## Standard
+
+- Individual(s) or Limited Companies purchasing or remortgaging buy-to-let residential properties.
+
+
+## Specialist
+
+- Individual(s) or Limited Companies purchasing or remortgaging specialist properties:
+- HMOs
+- MUFBs
+- Flats above commercial (FAC)
+
+
+## New Builds
+
+We will consider both Standard and Specialist New Build properties and our loan Interest Coverage Ratio (ICR) is the same as the equivalent non-New Build property type. However, from a product point of view, New Builds form part of our Specialist Range and we have bespoke products available for them. Please see section 8 (Loan Details) of this document and also our [Product Range document](https://www.zephyrhomeloans.co.uk/documents) available on the Zephyr website for more details.
+
+## Customer Types
+
+Within the segments, the following customer types are included:
+
+## Employed - Also see Section 6
+
+- Permanent employees
+- Fixed term contract employees, including commission only
+- Directors with less than 20\% shareholding in a limited company
+
+
+## Applicants must not be under notice of termination or redundancy.
+
+## Self Employed - Also see Section 6
+
+- Sole traders
+- Partners, inclusive of those employed within a Limited Liability Partnership (LLP)
+- Company Directors with an excess of 20\% shareholding in a Limited Company
+- Sub-contractors
+- Fixed term contractors where they invoice through their own Limited Company, LLP, PLC or as a Sole Trader/Partnership
+
+
+## Criminal Record
+
+We will not accept applications from customers with a criminal record, or where they are living with someone who has, unless the conviction is for a minor traffic offence, or is spent under the Rehabilitation of Offenders Act 1974. Where it is identified that the customer, or someone who lives with the customer, has an unspent criminal record the application will be declined.
+
+---
+
+# b) CONSUMER BTL 
+
+Zephyr Homeloans is unable to lend on a Consumer Buy to Let basis. Where it is identified that an application may be subject to Consumer Buy to Let regulatory requirements, the application will be declined. For example, in the scenario where the applicant or family member has previously resided in the property, and the applicant does not have at least one other BTL property, Zephyr will always view this as a Consumer loan regardless of the time that has elapsed since the period of residence.
+
+Inherited Properties
+
+We are unable to accept applications in respect of inherited properties that have been previously occupied by relatives of any borrower as we only offer buy-to-let mortgages on an unregulated basis.
+
+c) APPLICANTS
+
+Age
+
+All applicants and Limited Company Directors must meet the minimum age criteria.
+
+- Minimum: 21
+- Maximum: 95 years (at end of mortgage term)
+
+# 3. Portfolio Landlords
+
+Zephyr Homeloans defines a Portfolio Landlord as an existing landlord or Limited Company (SPV) that holds four or more mortgaged properties, including the current application(s) and covers properties held in individual names and via limited Companies. Such applicants will be subject to underwriting criteria as set out by the Prudential Regulation Authority.
+
+Business Plan & Cash flow
+
+All portfolio landlords will be required to provide a cash flow showing anticipated performance of the mortgage security over the previous and subsequent 12-month periods. Portfolio landlords are required to submit a business plan to support their application. The Business Plan should include:
+
+- Summary of their relevant experience in the buy-to-let market.
+- A property schedule via the [eTech Buy-to-Let hub](https://www.zephyrhomeloans.co.uk). There is a link to this on the Zephyr website.
+- Details of their current investment strategy
+- Details of their future investment strategy
+- Funding requirements
+- Any other supporting information
+
+Templates to assist the applicant in submitting a Cash Flow Summary and Business Plan are provided as downloads from the [Zephyr Homeloans website](https://www.zephyrhomeloans.co.uk/documents). The purpose of the Business Plan & Cash Flow Summary is to provide Zephyr Homeloans with assurance that the existing and proposed mortgages are sustainable from a financial perspective. The cash flow should therefore demonstrate the sustainability of the portfolio over the previous and future 12-month periods.
+
+Mortgage payments will be cross checked with the credit file/ Companies Register. Inconsistencies will be investigated. AVM rental data may be used to validate the rents declared for the background portfolio (i.e. the properties which are not to be mortgaged to Zephyr). If the aggregate AVM rental value for the background portfolio does not accord with declared rentals the underwriter may need to sample check existing properties within the portfolio. This may be done from sight of bank statements covering the past 3 months and/or up-to-date Tenancy Agreements
+
+All Cash Flows should provide information regarding the rental income and the actual and forecasted costs incurred in managing the properties including an allowance for voids, property maintenance and property management, if an agent is appointed. Cash flow should show a surplus in the second 12-month period.
+
+# 4. Special Purpose Vehicle (SPV) Applications
+
+Limited Companies purchasing or remortgaging Houses in Multiple Occupation (HMOs), Multi-Unit Freehold Blocks (MUFBs), New builds or Flats above Commercial premises, or Limited Companies purchasing or remortgaging single residential buy-to-let properties.
+
+A Limited Company is an independent legal entity responsible for everything it does, including managing its own finances. Any profit, after taxes are paid, belongs to the company. It can distribute these after-tax profits among the shareholders who own it. A company must not form part of a group structure, parent or subsidiary, and must be an independent entity.
+
+Applicant Type: Limited Companies (SPVs)
+
+- Acceptable Standard Industry Classification (SIC) Codes: 68100, 68209, 68201 or 68320. The following additional SIC codes are acceptable 55100, 55209, 68310, 7012, 7020, 7032. No other codes permitted.
+- Number of Directors and Shareholders per application: Maximum of 4.
+- Only acceptable if Directors hold at least 60% of the company's shares, no other shareholder may have an individual shareholding exceeding 20%.
+- All directors must be on the application.
+- Underage shareholders may be acceptable in certain circumstances subject to underwriting. Underage shareholder must not have voting rights.
+
+Guarantees
+
+Personal guarantees from each director are required. These will be on a joint and several basis with all other directors so that each director is liable to repay the full mortgage debt in the event of default. A Limited Company, unless recently created, must be registered with HMRC. They must register at Companies House (England & Wales) with a Registered Office, Company Number and have registered their Memorandum & Articles of Association (M&AAs). As part of the underwriting process, a manual Credit Search via Equifax for the Limited Company, will be required.
+
+As part of any Limited Company application, we will capture and store the following information:
+
+- Full name of the Limited Company
+- Registered Company Number
+- Registered Office address
+- Law to which it is subject. This is found on the Certificate of Incorporation, a copy of which can be obtained via Companies House
+- Memorandum of Association. This is found with the Certificate of Incorporation via Companies House
+
+Individual to limited Company Purchases
+
+We will lend to a Limited Company which is purchasing a property from a director of that company under the following conditions:
+
+- Consideration must be as per the valuation amount.
+- The seller must have owned the property for a minimum of 12 months.
+- Properties previously occupied by the seller (i.e. consumer buy-to-let) are not permitted.
+- The seller is required to arrange separate legal representation (our solicitors can act on behalf of Zephyr Homeloans and the purchaser, but not for the seller).
+- In addition to the current policy regarding the source of the deposit, we would also allow the seller's equity to convert to a Directors loan upon completion.
+
+LLP to Limited Company transactions
+
+Any application where a property is being transferred from an LLP to a Ltd Co must be discussed with us prior to application. The application must be accompanied by a short note describing the transaction. We will then follow-up with specific underwriting requirements.
+
+# 5. Credit Status
+
+All applicants and Directors of Limited Companies requesting mortgage lending must have a good credit history. In the event of any one of the applicants or directors triggering one or more of the Adverse Credit History statuses detailed below the application will be declined. A credit history search will be undertaken at both Decision in Principle (DIP) and at Full Mortgage Application (FMA) irrespective of the period between each search. The credit search carried out at DIP will be a soft footprint with a hard footprint left at FMA. Any applicant not meeting our specified credit criteria will result in their application being automatically declined. Applicants whose credit file shows late or missed payments may be referred to underwriting and any acceptance will be at the underwriters discretion.
+
+Credit Criteria
+
+| Credit Issue | Criteria |
+| --- | --- |
+| Mortgage/secured loan arrears | No missed payments per mortgage account in last 12 months and no more than 1 missed payment in the last 24 months. No defaults registered within the last 24 months. |
+| Unsecured loan arrears and Credit Cards | No more than 1 month in arrears and no defaults in last 24 months and no arrears in the last 6 months. |
+| County Court Judgements (CCJ) | Max.1 up to £250 in the last 3 years (0 in last 12 months). Must be satisfied. |
+| Company Liquidations, Administration/winding Up Orders & Receiverships | None in last 3 years. Subject to underwriter discretion, members Voluntary liquidation may be overlooked provided the liquidation did not relate to a property rental business. |
+| Bankruptcy/Sequestration, IVA, CVA, DRO, Trust Deed | None in last 6 years. |
+| Payday Loans | None in last 6 years. |
+| Forced or Voluntary Possessions or Assisted Voluntary Sale | None in last 6 years. |
+
+Notice of Correction
+
+An application will be referred where there is a Notice of Correction evident on file. A suitably mandated underwriter will undertake a manual assessment and, if they are satisfied the explanation received relating to the adverse credit is plausible and, if appropriate, capable of substantiation, they may upgrade the decision to an accept.
+
+Unable to trace on Bureau / Thin Credit File / Low Score
+
+Where an application is referred due to no traceable file on the bureau or a paucity of credit history data, an underwriter will undertake a manual assessment, including obtaining the appropriate identification verification documents. If they are satisfied that the explanation received for the lack of data is plausible, they may upgrade the refer decision to an accept. Where an applicant or director has a low credit score the application will be referred for manual underwriting where the full credit file will be considered.
+
+# 6. Income
+
+a) EMPLOYMENT STATUS
+
+Employed
+
+In a permanent position for at least 6 months prior to application and not on notice.
+
+Self-Employed & Contractors
+
+1 years evidence of income from the applicant's accountant or an accountant's certificate or SA302 together with a tax-year overview (SA100). Unless using income top up, then two years are required.
+
+A self-employed applicant may be:
+
+- A Sole Trader
+- A Partner in a business
+- A director with a shareholding of 20% or greater, where a company director holds a shareholding representing less than 20% of the issued share capital, we would assess them as employed
+- Foster Carer
+
+For self-employed applicants a minimum trading period of 1 year is required which we will evidence via income from accounts, an accountant's certificate or an SA302 in conjunction with a tax year overview. Please note that if the applicant is top slicing we will require a two-year history.
+
+Note
+
+Where an applicant has selected 'professional landlord' as their occupation we will require evidence of a minimum gross rental income of £25,000 and 1-years evidence of income as per self-employed.
+
+Where rental income has only recently exceeded the minimum amount, at the underwriter's discretion, this may be evidenced from bank statements and/or copies of ASTs.
+
+Where two borrowers form a single household and one borrower is employed, there is no minimum rental requirement for the second borrower.
+
+Where borrowers are from separate households, each portfolio landlord's share of the rental income must exceed the minimum amount.
+
+Contractor (self-employed)
+
+Contractors, where they invoice through their own Limited Company or as a Sole Trader or Partnership, must have been employed on this basis for a minimum of six months with at least 3 months remaining. They must have on year's full trading at time of application and must also have one years preceding income from this type of employment. For the purposes of assessing affordability the second years income should be annualised.
+
+Temporary / Agency Worker
+
+Clients working on a temporary contract through an agency will be treated as self-employed for the purposes of affordability and income verification.
+
+Zero Hour Contracts
+
+Applicants must have continuous employment for the last 24 months and are treated as employed for the purposes of affordability.
+
+Retired
+
+Evidence of pension income from bank or pension statements
+
+Unemployed
+
+Not Acceptable
+
+There is a requirement for all applicants to validate their employment and employment income. The applicant must have been employed in a permanent position for a minimum period of 6 months prior to submitting an application and not on notice of termination of employment. Where the applicant does not meet this criterion, we may consider, (subject to underwriter review), by a suitably mandated underwriter, applicants who have a minimum track record of 12 months employment in the same sector.
+
+Important Note: We will not issue an offer until original documentation is received and validated. Copy documents provided or uploaded must be certified by the broker, with a company stamp, signature and date provided on the document.
+
+Probationary Employment
+
+Applicants working within a probationary period are acceptable subject to the following:
+
+- If the applicant is in their first permanent job with a long probationary period, at least 12 months must be served with the employer.
+- In addition to providing their last three months bank statements, together with payslips, the applicant should provide a copy of their contract of employment.
+- For applicants not in their first permanent job but who are subject to a probationary period, 12 months previous track record of employment in the same sector is required with consistency of employment evidenced.
+
+Employees on Fixed Term Contracts
+
+This is where a job is only for a set period, although the contract may be renewed or extended. Applicants must be employed on a fixed term contract basis for a minimum of 6 months at the time of application, with at least 3 months remaining. If this is their first fixed term contract they must evidence continuity of employment in the same sector or discipline for the previous 12 months. For the purposes of assessing affordability the applicant will be treated as employed.
+
+b) INCOME
+
+Minimum income
+
+No minimum income requirement with two exceptions:
+
+- At least one applicant to be earning £50,000 if using earned income to make up a rental shortfall.
+- £25,000 gross income required if the applicant's employment is professional landlord.
+
+Gross income is the amount of verified income that a limited company director or individual receives.
+
+c) REQUIRED DOCUMENTS
+
+Applicants are to provide their most recent payslip demonstrating 6 months continuous employment or a P60 will be required or a previous payslip.
+
+Where these payslips do not demonstrate six months earnings, via the YTD figures, the most recent P60 or further payslips must be provided to evidence the 6-month history.
+
+In the event of the Applicant(s) moving jobs but not yet having commenced their new employment and/or the salary declared for affordability being higher than that previously received, the applicant(s) should provide:
+
+- Pay slip from their current or previous employer, assuming that the applicant is working a Notice of Termination at the time of the application or has left the organisation and is having time out: maximum 3-month break.
+- Copy of the Contract of employment detailing Terms and Conditions of the applicant's new employment which must include salary details and the effective start date of employment.
+- Letter of Acceptance from the new employer confirming receipt of the applicant's acceptance to their contract of employment
+- Like for like status can be evidenced from the Equifax report. An underwriting tolerance of two times the contractual monthly subscription applies.
+
+Accountancy Bodies
+
+Where an accountant certificate has been used to evidence employment, it can only be accepted if it is prepared by an Associate or Fellow of an approved accountancy body; these are listed below:
+
+- Institute of Chartered Accountants (ICA)
+- Association of Chartered Certified Accountants (ACCA)
+- Chartered Institute of Management Accountants (CIMA)
+- Institute of Financial Accountants (IFA)
+- Association of Authorized Public Accountants (APA)
+- Chartered Institute of Public Finance & Accountancy (CIPFA)
+- Chartered Institute of Taxation (CIOT)
+- Association of International Accountants (AIA)
+
+d) ICRs
+
+We will only offer mortgage loan facilities to applicants only where we are satisfied the required mortgage loan is affordable. The loan Interest Coverage Ratio (ICR) is calculated using the valuer's rental assessment and the loan amount inclusive of fees. The ICR calculated using the rental alone must always be 125% or more. Some types of loan have a higher ICR requirement as indicated in the following table. The required ICR differs depending on the type and tax status of the borrower, the type of property and the nature of the transaction. The following table details the ICR and stressed rate requirements.
+
+| Borrower Type | Standard | HMO, MUFB, FAC | Stressed Rate |
+| --- | --- | --- | --- |
+| Limited Company | 125% | 135% | For Fixed Rate products 5 years or longer, the Payrate is used for the stressed rate. |
+| Individual Higher Rate Taxpayer | 140%* | 150% | For Fixed Rate products less than 5 Years and Tracker products, the stressed rate is the higher of Payrate +2.00% or 5.5%. |
+| Like for Like remortgage and / or lower rate taxpayer | 125% | 150% | |
+
+* Top slicing or Portfolio Cross Subsidisation may be utilised as per the sections below.
+
+Like for Like
+
+A like for like (LFL) remortgage is a remortgage where there is no additional borrowing beyond the amount currently outstanding. In determining the amount of borrowing, arrangement fees, professional fees and administration costs can be excluded. Like for like status can be evidenced from the Equifax report. An underwriting tolerance of two times the contractual monthly subscription applies.
+
+Use of Earned Income (top slicing)
+
+For Standard properties which are not a New Build, (i.e. not HMO, MUFB, FAC), where the applicant is applying as an individual (i.e. not a Limited Company SPV) and is not applying for a remortgage on a like-for like basis, they may use surplus earned income from other sources to make up a gap between the 125% minimum requirement and the ICR indicated in the affordability table. At least one applicant must demonstrate a minimum gross income of £50k PA (as a Higher Rate Taxpayer) and must complete and evidence an I&E to demonstrate that the required surplus is available.
+
+Portfolio cross-subsidisation
+
+Where the application is from a portfolio borrower, bringing a minimum of two properties to Zephyr, surplus rental from one or more properties mortgaged to Zephyr may be used to make up a gap between the 125% minimum requirement and the ICR indicated in the affordability table. Where this facility is used, the aggregate ICR across all mortgages with Zephyr must be at least 155% calculated using the current interest rate applying to each loan (i.e. not the stress rate). Surplus income for cross-subsidisation can stem from any property type. However, it may only be applied to Standard properties. E.g. surplus income from an HMO can cross subsidise a standard property but not the other way around.
+
+Pipeline cases and stressed interest rates
+
+If the stressed rate changes between application and completion we will not normally reassess affordability unless there is a material change to the application which could impact affordability, or where the number of days since the last credit search is greater than the offer validity period. Examples of material change include amendments to:
+
+- Name
+- Address
+- Date of birth
+- Personal circumstances
+
+In the event of the stressed rate changing between DIP and the applicant paying the relevant product fee and /or a hard footprint being left at the Credit Reference Bureau the revised stressed rate will be used.
+
+# 7. Tenancy
+
+Tenancy Type
+
+- Single Assured Shorthold Tenancy if Annual Rent is less than £100,000 per annum.
+- Where the annual rent is £100,000 or more a Contractual Tenancy Agreement is acceptable.
+- Tenancy periods of between six and thirty-six months can be considered.
+- Student Lets and HMOs: Single AST or Individual / Room Only AST.
+- Multi Freehold Blocks: Multiple Assured Shorthold Tenancies only.
+
+Corporate Leases
+
+The agreement must be in the name of the customer and the tenant. If the customer has a letting agent working on his behalf and is named on the agreement instead of the customer, this will not be acceptable. For example, when lending to XYZ Ltd, XYZ Ltd and no other entity must be the landlord. The agreement must allow for a termination within the lease period. This may not be exercised but it gives both parties the opportunity to do so, with notice, and gives the opportunity to sell the property with vacant possession through exercising the break clause.
+
+Tenant Types
+
+- Asylum Seekers: Not acceptable.
+- Persons who have or may acquire diplomatic immunity: Not acceptable.
+- Local Authority / Housing Association Tenants where the rental contributions will be made through a DWP (Department for Work and Pensions) payment: Not acceptable.
+- Company Lets: Not acceptable.
+- Holiday Lets: Not acceptable.
+- Any tenant who retains or may acquire an overriding interest in the property: Not acceptable.
+- Tenants related to the Landlord: Not acceptable.
+
+High Value Tenancy
+
+Where the rental income exceeds £100,000 per annum from one property, the tenancy is considered to be a Common Law Tenancy as opposed to an Assured Shorthold Tenancy. This type of tenancy is acceptable subject to recommendation by our appointed valuer. The tenancy agreement in this circumstance is known as a Contractual (Non-Assured) Tenancy agreement.
+
+Irrespective of whether the Tenancy Agreement is an AST or Common Law Tenancy, we reserve the right at all times to seek a copy of the agreement.
+
+# 8. Loan Details
+
+Purpose: Purchase or re-mortgage (remortgaged properties should have been owned by the applicant for at least 6 months)
+
+Minimum Term: 5 years
+
+Maximum Term: 35 Years
+
+Minimum Loan Size: £50,000
+
+Maximum Loan & LTV Standard: £2,000,000 up to 65% LTV, £1,000,000 up to 75% LTV and £750,000 up to 80% LTV
+
+Maximum Loan & LTV Specialist HMOs & MUFBs: £1,500,000 up to 65% LTV, £1,000,000 up to 75% LTV and £750,000 up to 80% LTV.
+
+Maximum Loan & LTV Specialist New Builds and Flats above Commercial: £750,000 to 75% LTV
+
+Any borrower wishing to borrow an aggregate amount above £3,000,000 is subject to mandated approval.
+
+Repayment Method
+
+We will accept repayment on one of the following:
+
+- Capital and Interest.
+- Interest Only with full repayment of the mortgage debt repaid at or before the end of the agreed mortgage term.
+- Part Capital & Interest, Part Interest Only with the interest only element based on the assumption that the outstanding mortgage debt will be repaid at or before the agreed mortgage term.
+
+Minimum Valuation
+
+A valuation of the property must be carried out for all new mortgage applications, and this must be undertaken by one of our panel surveyors. We will base the valuation on the lesser of the valuation or purchase price and use this value to calculate the LTV. The minimum valuations acceptable are as follows:
+
+- Standard property and Flats above Commercial Premises: £75,000
+- HMOs, MUFBs and 80% products: £100,000
+
+Capital Raising
+
+Capital Raising is permitted where applicants are raising additional capital for the purpose of property improvements and purchases and where the amount borrowing is less than £25k. Where capital raising is for another purpose or for an amount greater than £25k, underwriting will establish the purpose and keep a record on file. Additional borrowing of any amount is not permitted for the following purposes:
+
+- Speculative or high-risk investments (e.g. spread-betting, currency trading)
+- Gambling or payment of gambling debts
+- Payment of tax bill, tax penalty or payment of any sort of fine
+- Unlawful/illicit purposes
+- Any works to the subject property, or any other property mortgaged to Zephyr Homeloans which would involve the property being unlettable for more than six weeks. For example - extensions or structural alterations
+
+Length of ownership: remortgage within 6 months of purchase
+
+Where the borrower is re-financing, a property purchased within the previous six months, Zephyr will consider lending based on the market value (as opposed to the purchase price):
+
+- where the borrower has materially improved the property, lending is capped at 75% of the market value. This cap excludes fees.
+- where properties have not been materially improved, lending is based on the lower of the purchase price or the valuation amount. The reason for the discount to market value must be understood and documented using the [Remortgage within 6 months of ownership form](https://www.zephyrhomeloans.co.uk/documents), available on the Zephyr website.
+
+Debt Consolidation
+
+Where debt consolidation is involved, repayment of sums relating to the borrower's property business is permitted. Consolidation of other debts is subject to underwriting discretion.
+
+Additions to the Loan
+
+Product fees can be added to the loan over and above the applicable LTV limit, up to a total 83%. Any fees added to the loan must be included in the assessment of affordability. Intermediary fees cannot be added to the loan.
+
+Existing Second Charge
+
+No second charges will be permitted to remain at the time of the Zephyr Homeloans mortgage drawdown.
+
+Offer Validity
+
+Offers are valid for 90 days from the date of offer.
+
+Acceptable Sources of Deposit
+
+The deposit must be from the applicant's own resources unless a Limited Company is purchasing a property sold by a director. In this case, it is acceptable for the seller's equity to convert to a Directors loan upon completion. It is acceptable for part or all of a deposit to be gifted by a party unconnected to the transaction, but no specified form of repayment can be required. In such cases we will ask the conveyancer to confirm to us, prior to completion, that the funds are a gift with no repayment required. This condition will be stipulated in the offer documentation.
+
+Properties purchased from a Family Member utilising gifted equity as the deposit may be permitted subject to underwriting discretion. A reduced LTV may apply. Lending may be based on the valuation amount subject to a maximum allowable LTV of 75%. No specified form or repayment can be required in relation to the gifted equity. The consideration must be as per the valuation amount.
+
+Builders Cashbacks/Deposit
+
+It is acceptable for a builder to provide, as an incentive, a gift, cashback or contribution towards the deposit. The monetary value of any such contribution will be deducted from the purchase price and our lending based on the reduced value.
+
+Unacceptable Sources of Deposit
+
+- Any loans taken out, with the exception of borrowing from another lender against an additional property owned by the applicant, subject to affordability and criteria.
+- Funding from credit cards.
+
+Incentives
+
+All incentives must be declared at application stage via a UK Finance Disclosure of Incentives form. Where it is known incentives are being offered, a special offer condition will state the conveyancer is to confirm to Zephyr Homeloans the purchase price of the property and disclose all incentives being offered in relation to the purchase.
+
+Security
+
+We will always take a first legal charge. Our Terms and Conditions and mortgage deed includes an All Monies Charge.
+
+Payments
+
+- Direct Debit Only, from a current account held with a UK based bank.
+- Must be made from one of the borrower's bank accounts or the Company's bank account.
+- A signed direct debit mandate is required for all applications.
+
+Recently purchased or acquired Back-to-Back sub sales
+
+For remortgage applications, the applicant must have owned the property for a minimum of six months. This should be validated from either mortgage statements or a Land Registry Search.
+
+UK Bank Accounts
+
+All applicants must have a UK bank account from which mortgage payments should be made. It is a condition of the mortgage that a Direct Debit is used to make contractual monthly payments to Zephyr Homeloans Mortgage accounts from a current account held with a UK based bank. The bank account from where the Direct Debit is to be collected must be in the name of at least one applicant or the name of the Limited Company making the application.
+
+# 9. Property Details
+
+a) EPC
+
+The property must attain an energy performance rating of E or above. Properties rated F or lower are not acceptable. We will not waive this requirement for properties that are listed and / or situated in a conservation area.
+
+b) VALUATIONS
+
+We will obtain a standard valuation report, based upon a physical inspection of the property, carried out by a suitably qualified valuer on the Zephyr Homeloans panel. We do not accept investment valuations on the basis of rental yield.
+
+Valid For
+
+A valuation report is valid for 180 days. The valuation must be addressed to Zephyr Homeloans and we will not accept re-addressed valuations which have been carried out for other purposes. Where a property is valued at below the purchase price or the applicant's estimated value and the loan is affected, a copy of the report can be provided to the customer, who will then have the option of a reduced loan or, if applicable, a renegotiation of the purchase price. The valuation fee is non-refundable once a valuation has been carried out. The rental value quoted by the valuer will be used to calculate affordability.
+
+c) RETENTIONS
+
+We do not offer retentions.
+
+d) GENERAL
+
+Location
+
+Property must be located within England or Wales. We will not accept security over property in the Channel Islands, Isle of Man or Scotland.
+
+Tenure
+
+We will accept Freehold and Leasehold properties only.
+
+- Leasehold properties must have a minimum lease of 70 years remaining at the end of the mortgage term.
+- For leasehold properties, consideration will be given to ground rent and service charge costs in assessing affordability. All applicable charges must be included in the application.
+- Headlease/underlease cases are not accepted.
+
+Important note
+
+In situations where an applicant is purchasing or remortgaging a leasehold property, the applicant should contact us to declare any personal or family interest in the freehold whether held individually or via a Limited Company and we will confirm if we are able to lend.
+
+Freehold Flats
+
+We will not lend on Freehold flats. Tyneside flats are acceptable provided Zephyr takes a charge over the reversionary freehold interest in the other flat. Multi-Unit Freehold properties are acceptable providing they comprise a maximum of 6 individual units. They may constitute a purpose-built block of flats, or a house converted into individual units. Each unit will be the subject of a separate tenancy agreement. We will not allow any carve off of a block where our security would be on the remaining units.
+
+Flying Freehold
+
+A flying freehold may be considered where less than 15% of the property extends over another and the valuer states that saleability is unaffected. A flying freehold greater than 15% will be declined.
+
+Property Exposure Limits
+
+Our maximum exposure is one single unit in developments of up to 4 properties, 2 units in developments of between 5 and 8 properties and up to 25% units in developments of between 8 and 50 properties. Please note that we may apply lower limits to new build developments, and it is advisable to discuss these with us in advance if you wish us to finance more than one unit.
+
+Applicant Exposure Limits
+
+The maximum we will lend to any unique mix of customers is £5,000,000 and the maximum aggregate loan is £7,500,000. For example, a customer may have £5,000,000 in the same joint names and a further £2,500,000 in sole name, a different set of joint names or SPV. The maximum LTV for a customer with balances of £2,000,000 or more with Zephyr Homeloans is 75% on any new lending.
+
+Any borrower wishing to borrow an aggregate amount above £3,000,000 is subject to mandated approval.
+
+Property Type
+
+Acceptable Property Types:
+
+- Detached
+- Semi-detached
+- Terraced
+- End terraced
+- Purpose built flat (leasehold)
+- Converted flats (leasehold)
+- Maisonettes
+- Bungalows
+
+We require a minimum term of 70 years left on the lease at the planned end of the mortgage term.
+
+Houses in Multiple Occupation (HMOs)
+
+Definition: A property which is let to three or more tenants or five or more tenants for a "large HMO" who form two or more households and who share a Kitchen, Bathroom or toilet.
+
+Landlord Experience: Existing landlord with at least 1 years experience of letting property at the time of Offer.
+
+Maximum Number of Bedrooms: 6
+
+HMO License Requirements: For HMO remortgages, any license required by the Local Authority must be in place prior to completion. For HMO purchases, where a license is required, we must have sight of the current license held by the vendor to evidence that the property is capable of being let on a multi occupancy basis. Our valuer is asked to comment on the requirement for any licensing and compliance with current legislation. We must also obtain confirmation from our solicitors that the customer has applied for a license and that the Local Authority has acknowledged receipt of the application prior to completion or exchange of contracts. For in-flight license applications to be accepted, the borrower must be able to evidence that they have an existing HMO license on another property, else they are required to provide a signed undertaking that the property will not be let as an HMO until the licences have been granted.
+
+Minimum Valuation: £100,000
+
+Maximum Loan: £1,500,000 up to 65% LTV, £1,000,000 up to 75% LTV and £750,000 up to 80% LTV.
+
+Multi-Unit Freehold Blocks (MUFBs)
+
+Definition: A property that has more than one residence within it, but facilities are not shared between occupants. Can be purpose built, such as a block of flats, or converted, such as a house converted into flats. A collection of houses on the same title is outside scope. Each unit will be the subject of a separate tenancy agreement.
+
+Minimum Valuation: £100,000
+
+Maximum Loan: £1,500,000 up to 65% LTV, £1,000,000 up to 75% LTV and £750,000 up to 80% LTV.
+
+Hybrid Properties
+
+Hybrid properties where the property is both an HMO and a MUFB can be problematic, and our valuer must be able to support a valuation with comparable evidence. Where this is not possible the valuer would only be able to value on an investment basis. This is not acceptable to Zephyr and the application would be unable to proceed. The same guidance applies to MUFB layouts other than a single building divided into flats.
+
+Flats above Commercial Premises
+
+Definition: We will consider applications relating to flats above commercial premises providing our valuer confirms the property forms a suitable security.
+
+Minimum Valuation: £75,000
+
+Maximum LTV: 75%
+
+Maximum Loan: £750,000
+
+Note: We will not lend on properties in close proximity to commercial operations which, in the valuer's opinion, could negatively impact occupants and/or deter future buyers or tenants. Considerations include antisocial hours, excessive noise, fumes or restricted access. Examples include pubs, sorting offices, takeaways, supermarkets, garages, extraction vents. Proximity to electrical or transmission installations such as mobile phone masts, pylons or sub-stations are likely to be an issue. This guidance also applies to FACs, albeit modern, purpose-built flats which are well separated from problematic commercial usage are likely to be acceptable. A further requirement for FACs is a satisfactory and safe means of entry. Generally, we require access to be via a main front entrance or via maintained parking areas.
+
+New Build
+Acceptable Warranties: Required for up to 10 years
+
+If any such reports are required, a special condition will be imposed at offer stating a report needs to be obtained and the completed report will be considered by underwriting and may be forwarded to the valuer or solicitor at the client's expense.
+
+## Ex-Local Authority Flats
+
+Whilst lending in situations where security is an ex-local authority property is permitted, exposure will be limited. We will normally lend in blocks where at least 50% of properties are privately owned. We require valuer commentary to satisfy us on this point.
+
+## Excluded Property Types
+
+- Serviced Flats / Apartments
+- Holiday Lets
+- Shared ownership properties
+- Property with Planning Use other than C3 or C4
+- Property with pre-emption clause in existence
+- Social Housing
+- Park Homes
+- Right to Buy within 5 years of purchase
+- Commercial properties
+- Farms, small holdings or properties with agricultural restrictions in place
+- Mobile Homes
+- Houseboats
+- Bed and Breakfast establishments
+- Retirement Flats
+- Sheltered Accommodation
+
+## Excluded Property Features
+
+- Flats with an internal floor area less than 30sqM (except MUFBs at lender's discretion)
+- Flying freehold greater than 15% of GEA
+- Wimpey "No Fines" concrete construction
+- Laing "Easiform" concrete construction
+- Pre-Cast Reinforced concrete construction
+- Underpinned
+- Shared services with an adjoining property which does not form part of the security
+- Flats with an entrance more than three floors above ground level without lift access
+- Mundic construction with a petrographic grade of 4 or worse
+- Progressive structural movement
+- Occupancy restrictions
+- Progressive Japanese Knotweed*
+- Material environmental hazards
+
+* Where the Japanese Knotweed is highlighted on the valuation report, lending may proceed where an insurance-backed eradication policy is in place. The policy must be seen by our conveyancers and a copy placed on the lending file.
+
+## Specialist Reports
+
+We may require a specialist's report, such as but not restricted to:
+- Timber and damp
+- Electrical
+- Trees (arboriculture)
+- Drains
+- Roof
+- Structural
+- Cavity wall tie
+- Mining report or metalliferous mining report
+
+If any such reports are required, a special condition will be imposed at offer stating a report needs to be obtained and the completed report will be considered by underwriting and may be forwarded to the valuer or solicitor at the client's expense.
+
+## Properties with Cladding
+
+Valuers must consider RICS guidance in respect of combustible cladding and external attachments such as balconies and window surrounds. Where the Valuer identifies that property requires a cladding assessment, an EWS1 form, completed by a suitably qualified contractor must be obtained.
+
+The EWS1 must not deviate from the template published by RICS. It must clearly identify the subject property and there must be no discrepancies with regards to the address and postcode. The issue of address on the EWS1 form is crucial. The form must show all post codes attributed to the building. Forms that do not show all post codes and / or only apply to a single specific flat will not be accepted by our valuers.
+
+The EWS1 form must be completed and signed by a fully qualified member of a relevant professional body within the construction industry with sufficient expertise to identify the relevant materials within the external wall and attachments and whether fire resisting cavity barriers and fire stopping have been installed correctly. The valuer will validate the credentials of the signatory against a list of acceptable qualifications published by RICs.
+
+Our lending decision will depend on the EWS1 classification as per the following table.
+
+| EWS1 classification | Outcome |
+| --- | --- |
+| OPTION A Where external wall materials are unlikely to support combustion | |
+| A1 - There are no attachments whose construction includes significant quantities of combustible materials. | Lending may proceed subject to the valuer's assessment of the EWS1 form. A consultant's report is not required. |
+| All other classifications | The case will be declined. |
+
+## Property Construction
+
+Property acceptability is based on a satisfactory valuation report from our appointed valuer in accordance with the construction and valuation policy detailed below. Non-standard construction will be assessed on individual merit.
+
+Standard Construction can be broadly defined as brick or stone under tiled or slated roofs. Non-standard construction can be wide ranging and will be considered on individual merit. We will at all times be guided by our valuer as, dependent on the location and condition, we may be prepared to lend on the property.
+
+Walls and roofs should be of a traditional construction and of a type that ensures a ready future market for the property.
+
+### Construction
+
+- Solid Wall Construction: Yes
+- Cavity Wall Construction: Yes
+
+### Acceptable Wall Type
+
+- Brick: Yes
+- Natural Stone: Yes
+- Reconstituted Stone: Yes
+- Concrete Block: Yes
+- Cob and Flint: Yes
+- Large Panel Systems (LPS): Yes, no more than two stories high and subject to structural engineer's report
+- Steel Framed Houses: Yes, subject to being readily marketable and mortgageable
+
+Any property where there is ongoing movement and monitoring is required is not acceptable.
+
+### Acceptable Roof Construction
+
+- Pitched Roof
+- Timber frame covered with either tiles or slates
+- Thatched Roof
+- Reed or Straw
+- GRP
+- EDPM
+
+### Flat Roof Types
+
+- Copper, Lead, Zinc, Asphalt & Mineralised Felt
+
+### New Build Houses & Flats
+
+A new build property is one of the following:
+- A Property that has been recently constructed or converted and is being sold for the first time as completed and ready for occupation or has been previously sold on this basis within the last twelve months.
+- A Property being tenanted for the first time following conversion from a commercial property to a buy-to-let property. Where the property is a recent conversion, the original construction date of the property must be determined and recorded as part of the application via our Online Portal.
+
+The new build property may be an HMO or MUFB in addition to the more standard property types.
+
+Conversions situated in desirable residential locations within good quality buildings are likely to be considered acceptable. Conversions situated in office parks or where the predominant use is commercial/agricultural are unlikely to be suitable. "Office to residential" conversions are frequently unacceptable to us, and it is advisable to contact us prior to application.
+
+## Ownership
+
+All properties must be held on a 'Joint Tenants' or 'Tenants in Common' basis and each borrower will be joint and severally liable for the full mortgage debt.
+
+# 10. Solicitors
+
+## Solicitors – All Applicants
+
+We will instruct our solicitor to act in all cases. Our solicitor can act on either a joint or sole basis. If the applicant chooses a separate solicitor to act on their behalf the applicant will be liable for both sets of legal costs.
+
+We will only accept instructions to cancel a case from the solicitors acting on our behalf.
+
+# 11. Fees
+
+The mortgage illustration will detail all fees, including broker & procuration fees. For further details of fees, please refer to the Tariff of Mortgage Charges.
+
+## Additions to the Loan
+
+Product fees can be added to the loan over and above the applicable LTV limit, up to a total 83%. Any fees added to the loan must be included in the assessment of affordability. Intermediary fees cannot be added to the loan.
+
+## Refund of Fees
+
+Where the application is declined or we are advised that the application is not proceeding, any fees, excluding non-refundable fees, which have been paid as part of the mortgage application, will be refunded to the party who paid the fee. The valuation fee can only be refunded where notification of the application not proceeding is received with sufficient notice to cancel the instruction. Details of fees payable are contained in our Tariff of Charges document.
+
+---
+
+## Did you find the information you need?
+
+Remember to use the 'find' facility in your pdf viewer. It is normally at the top of the screen and will say 'find' and/or have a magnifying glass icon. You can also press CTRL + F. You can search for certain words and it will highlight all instances of them in the document.
+
+Alternatively, get in touch with one of our friendly, knowledgeable team of Regional Sales Managers or Telephone BDMs.
+
+And remember, this is a guide to our underwriting criteria. In certain situations our underwriters may have discretion to consider exceptions to our lending policy. If you have a BTL case, it's always worth a quick chat to see if we can help.
+
+## Got a BTL case? Let's chat
+
+[www.zephyrhomeloans.co.uk/contact](https://www.zephyrhomeloans.co.uk/contact)
+
+Zephyr Homeloans is a trading name of Topaz Finance Limited. Registered in England & Wales. Company No 05946900. Registered address: The Pavilions, Bridgewater Road, Bristol BS13 8AE. Topaz Finance Limited is authorised and regulated by the Financial Conduct Authority (Firm Reference No 461671). Most buy-to-let mortgages are not regulated by the Financial Conduct Authority.

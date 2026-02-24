@@ -1,0 +1,481 @@
+LENDER NAME: Leek Building Society
+PRODUCT: BTL Limited Company
+
+================================================================================
+LEEK BUILDING SOCIETY - BUY TO LET LIMITED COMPANY LENDING CRITERIA
+================================================================================
+
+Source: https://www.leekbs.co.uk/intermediaries/limited-company-lending-criteria-a-z/
+Scraped: 2025-09-04 00:08:45
+
+Note: This document is for intermediary use only.
+
+Last Verified: Based on website content as of the file creation date
+
+================================================================================
+OVERVIEW
+================================================================================
+
+Our criteria is listed in alphabetical order to enable you to quickly find the information that you require.
+
+If you do need further information then please contact our team on 0808 281 9309
+
+SPECIAL LIMITED COMPANY FEATURES
+--------------------------------------------------------------------------------
+
+- Only SPV Limited Companies based in the UK accepted
+- Specific SIC codes required: 68100, 68209, 68320
+- Directors and company shareholders must be the same (max 4 directors)
+- Newly formed SPVs considered
+- Trading Limited Companies, Partnerships or LLPs not permitted
+- Layered companies not accepted
+- Maximum 3 BTL properties overall (personal + company)
+- Top slicing not available on Ltd Company BTLs
+- Holiday Lets not acceptable
+
+================================================================================
+1. LIMITED COMPANY REQUIREMENTS
+================================================================================
+
+LIMITED COMPANY
+--------------------------------------------------------------------------------
+
+- We will only lend to SPV Limited Companies based in the UK with one of the following SIC codes:
+  - 68100 - buying and selling of own real estate
+  - 68209 - management of real estate on a fee or contract basis
+  - 68320 - other letting and operating of own or leased real estate
+- We will consider newly formed SPVs
+- Trading Limited Companies, Partnerships or Limited Liability Partnerships will not be permitted
+- Layered companies are not accepted
+
+SPECIAL PURPOSE VEHICLE (SPV)
+--------------------------------------------------------------------------------
+
+- We can only accept applications with just one SPV used solely for the purpose of buying/letting out property with the following SIC codes: 68100, 68209, 68320
+
+SIC CODES
+--------------------------------------------------------------------------------
+
+- We will only lend to SPV Limited Companies based in the UK with at least one of the following SIC codes and we can't accept additional SIC codes which aren't listed below:
+  - 68100 - buying and selling of own real estate
+  - 68209 - management of real estate on a fee or contract basis
+  - 68320 - other letting and operating of own or leased real estate
+
+DIRECTORS
+--------------------------------------------------------------------------------
+
+- Directors and company shareholders are required to be the same, up to a maximum of 4 directors
+- Limited Company should not have more than 4 directors and they must own 100% between them
+- Personal guarantees for the full loan amount will be required for all directors of the limited company; a floating charge will not be required
+
+FIXED AND FLOATING CHARGES
+--------------------------------------------------------------------------------
+
+- Fixed and floating charges are not acceptable
+
+================================================================================
+2. LOAN DETAILS
+================================================================================
+
+LOAN TYPE
+--------------------------------------------------------------------------------
+
+- Ltd Company BTL
+
+LOAN TO VALUE (LTV)
+--------------------------------------------------------------------------------
+
+- Capital Raising: 75% max £500,000 (debt consolidations limited to 30% of property value)
+
+MAXIMUM LOAN
+--------------------------------------------------------------------------------
+
+- Capital Raising: 75% max £500,000 (debt consolidations limited to 30% of property value)
+
+MINIMUM LOAN
+--------------------------------------------------------------------------------
+
+- £25,000 (subject to product terms and conditions)
+
+MINIMUM/MAXIMUM TERM
+--------------------------------------------------------------------------------
+
+- 5 years - 40 years
+
+REPAYMENT TYPE
+--------------------------------------------------------------------------------
+
+- Repayment
+- Interest Only
+- Part & Part
+
+================================================================================
+3. AGE REQUIREMENTS
+================================================================================
+
+MINIMUM AGE
+--------------------------------------------------------------------------------
+
+- Directors minimum age 21
+
+MAXIMUM AGE
+--------------------------------------------------------------------------------
+
+- The term of the mortgage must not extend beyond the 90th birthday of the oldest Director
+
+================================================================================
+4. INCOME & AFFORDABILITY
+================================================================================
+
+INCOME - ACCEPTABLE INCOME TYPES
+--------------------------------------------------------------------------------
+
+INCOME TAKEN AT 100%
+- Basic annual income
+- Regular dividends
+- Occupational pension, private and state pension
+- SIPPS (Self-Invested Personal Pensions)
+- Car Allowance
+- Large Town Allowance
+- Housing allowances (police officers)
+- Placement Income received by Foster Carers
+- Teachers Learning Responsibilities (TLR)
+- Guaranteed Overtime
+- Guaranteed Bonuses
+- Guaranteed Shift Allowances
+
+INCOME TAKEN AT 50%
+- Regular overtime, Shift Allowances, Bonuses
+- Commission
+- Rental income (unencumbered/mortgage free property)
+- Maintenance confirmed by Court Order or 6 months track record
+- Secondary income (continuous 12 months)
+- Working Family Tax Credit
+- Income from Trust Funds/Investments – Evidence will be required via an Accountant or last 2 years HMRC Tax Calculations & Tax Overviews
+- Dividend income received, where the applicant is not a director of the company
+
+MINIMUM INCOME
+--------------------------------------------------------------------------------
+
+- There is no minimum income required
+
+RETIREMENT INCOME
+--------------------------------------------------------------------------------
+
+- Must be in receipt of pension income to meet the minimum income requirement
+
+FOSTER PARENTS
+--------------------------------------------------------------------------------
+
+- Only the placement income / fee element of the statement, which excludes maintenance payments, payments in respect of travel, clothing, Christmas etc., can be taken into account for mortgage purposes
+
+================================================================================
+5. EMPLOYMENT & CONTRACTS
+================================================================================
+
+EMPLOYMENT
+--------------------------------------------------------------------------------
+
+- Applicants must be in permanent full or part time employment and continuously employed for the last 6 months
+- Applicants must not be under notice of termination of employment or notice of redundancy
+- We don't accept contractors employed through an umbrella company
+
+CONTRACTS (SHORT-TERM/FIXED-TERM)
+--------------------------------------------------------------------------------
+
+- Fixed-term contracts are acceptable where the applicant is currently on a 12 month contract and has at least 6 months remaining or evidence of a new/renewed 12 month contract must be provided, preferably in the same line of work
+- We don't accept contractors employed through an umbrella company
+
+ZERO HOURS CONTRACTS
+--------------------------------------------------------------------------------
+
+The Society will consider zero hour contracts as an acceptable employment type on the following basis:
+
+- Restricted to stable, skilled/semi-skilled industries where employment opportunities are stable – refer to the Society for acceptable industries
+- Where the income is not the primary income i.e there must be another employed/self-employed/pension income, which is higher. This does not have to be a second job
+- The application is subject to maximum LTV of 80%
+- The applicant must have been employed in the same type of employment/industry for the last two years
+- We don't accept contractors employed through an umbrella company
+
+SELF EMPLOYMENT
+--------------------------------------------------------------------------------
+
+- Minimum trading period is 2 years
+- An average income over the last two years will be assessed or the latest income will be applied if lower
+
+Income is defined as:
+- Sole Traders and Partners - applicant's share of the net profit
+- Directors of limited companies (25% or greater shareholding) - applicant's salary/remuneration and dividends
+- We don't accept contractors employed through an umbrella company
+
+================================================================================
+6. CREDIT HISTORY
+================================================================================
+
+CCJs/DEFAULTS
+--------------------------------------------------------------------------------
+
+- CCJ's/Defaults with an aggregate total of £500 or less, registered over 3 years ago and satisfied for at least 6 months can be considered
+
+BANKRUPTCY
+--------------------------------------------------------------------------------
+
+- Discharged more than 6 years ago and no adverse credit within last 3 years will be considered on full application
+
+IVAs/TRUST DEED
+--------------------------------------------------------------------------------
+
+- Registered over 6 years ago, must have been completed over 3 years ago, no adverse credit within last 3 years and satisfactory explanation will be considered on full application
+
+REPOSSESSION
+--------------------------------------------------------------------------------
+
+- Repossession/voluntary surrender of property - not acceptable
+
+MISSED PAYMENTS
+--------------------------------------------------------------------------------
+
+- One missed payment on no more than one communication supplier, credit card, mail order or utility bill for no more than one month, can be considered providing the account has been brought up to date and a satisfactory explanation is provided
+
+OVER LIMIT POSITIONS
+--------------------------------------------------------------------------------
+
+- No more than one over limit position on credit cards or current accounts during the last 12 months, which should have now been rectified
+
+PAY DAY LOANS
+--------------------------------------------------------------------------------
+
+- Directors who have taken out a pay day loan within the last three years are not acceptable
+
+================================================================================
+7. PROPERTY REQUIREMENTS
+================================================================================
+
+LOCATION
+--------------------------------------------------------------------------------
+
+- England (Including Isle of Wight) & Wales
+
+MINIMUM PROPERTY VALUE
+--------------------------------------------------------------------------------
+
+- £50,000
+
+PROPERTY - ACCEPTABLE SECURITY
+--------------------------------------------------------------------------------
+
+- Residential properties permanently affixed to land, which are not mentioned in the unacceptable security section, are suitable security for mortgage lending subject to confirmation from the valuation report
+
+PROPERTY - UNACCEPTABLE SECURITY
+--------------------------------------------------------------------------------
+
+- Non standard construction. This also includes Laing Easiform/Wimpey No Fines or similar construction types
+- System built properties registered under the Housing Defects Act 1984
+- Flying freeholds over 15%
+- Properties with residential restrictions
+- Properties without a kitchen, wc and bathroom
+- Properties with agricultural restrictions, farms and small holdings
+- Properties with more than 5 acres of land
+- Live/Work Units
+- Houses of Multiple Occupancy (HMO)
+- Properties adjacent to or above retail outlets including: Fast Food/Take Aways, Wine Bar/Bistro, Public Houses, Off Licence, Betting Shops, Dry Cleaners, Petrol Stations
+- Freehold Flats or Maisonettes
+- Ex-Local Authority/Housing Association Flats or Maisonettes
+- Flats in blocks with shared walkway access
+- Flats with cladding unless an EWS1 form is supplied which confirms that they are rated A1 or A2
+- Leasehold properties with less than 75 years remaining on the lease at the end of the mortgage term
+- Properties which have internal door locks
+- Properties which are owned by the current owner or current vendor for less than 6 months
+- Properties which are not ready for immediate occupation
+- Properties which are affected by progressive structural movement, dry rot, Japanese Knot Weed or contaminated land
+- Properties listed as defective under the 1984 & 1985 Housing Acts unless rebuilt to NHBC Standards and with appropriate guarantees
+- Properties in which High Alumina Cement has been used in the construction
+- Prefabricated buildings and unrepaired PRC constructions
+- Properties with an anticipated life span of less than 25 years beyond the end of the mortgage
+- Flats in blocks of more than 6 storeys, basements/underground parking count as 1 storey
+- Steel framed structures built prior to 2000
+- Studio flats where the LTV is greater than 75%
+- BTL properties with an EPC rating of F or G
+- Tyneside Flats i.e. criss-cross or cross-over leases
+
+TENURE
+--------------------------------------------------------------------------------
+
+- Freehold (houses only)
+- Leasehold properties must have at least 75 years remaining on the lease at the end of the mortgage term
+
+GROUND RENT
+--------------------------------------------------------------------------------
+
+- Ground Rent that exceeds £250 per annum outside London and £1000 per annum inside London is not acceptable
+
+EWS1
+--------------------------------------------------------------------------------
+
+- Where there are concerns about the external wall construction (cladding) for all flats then the valuer needs to obtain a EWS1 form which must be completed by a suitably qualified person, only options A1 and A2 are acceptable
+
+NEW BUILD WARRANTIES
+--------------------------------------------------------------------------------
+
+- Any property which has been built / converted within the last 10 years must hold an acceptable guarantee/certificate
+
+Acceptable guarantee/certificates include (This isn't an exhaustive list so please speak to our Intermediary team for any firms not quoted below):
+- NHBC Certificate
+- Zurich Municipal Policy
+- Protek Home Warranty
+- Premier Guarantee
+- Checkmate - Castle 11
+- Architects Completion Certificate
+- Build Zone
+- Local Authority Building Control (LABC New Home Warranty)
+- Building Life Plans
+- ICW
+- One Guarantee Ltd
+
+SOLAR PANELS
+--------------------------------------------------------------------------------
+
+- Solar panels will be considered subject to the Valuer's recommendations
+- Where the panels are leased, a copy of the lease documentation will be required for submission with the application for approval by the Society. The lease must contain agreement for removal of the panels, at no cost to the Society, should the Society take the property into possession
+
+================================================================================
+8. RENTAL CALCULATION & STRESS TEST
+================================================================================
+
+RENTAL CALCULATION
+--------------------------------------------------------------------------------
+
+Please follow the below guide.
+
+| Product Type | >=5 Year Fixed | < 5 Year Fixed | £ for £ Remortgage |
+|---|---|---|---|
+| **Buy to Let** | 125% @ Pay Rate | 140% @ Pay Rate +2% | 140% @ Pay Rate |
+| **Holiday Let** | 125% @ Pay Rate | 140% @ Pay Rate +2% | 140% @ Pay Rate |
+| **Ltd Company BTL** | 125% @ Pay Rate | 125% @ Pay Rate +2% | 125% @ Pay Rate |
+| **Portfolio Landlord** | 125% @ Pay Rate | 140% @ Pay Rate +2% | 140% @ Pay Rate |
+
+Note: All Products - Purchase/ Let to Buy/ remortgage + additional borrowing
+
+STRESS TEST
+--------------------------------------------------------------------------------
+
+Please follow the below guide.
+
+| Product Type | >=5 Year Fixed | < 5 Year Fixed | £ for £ Remortgage |
+|---|---|---|---|
+| **Buy to Let** | 125% @ Pay Rate | 140% @ Pay Rate +2% | 140% @ Pay Rate |
+| **Holiday Let** | 125% @ Pay Rate | 140% @ Pay Rate +2% | 140% @ Pay Rate |
+| **Ltd Company BTL** | 125% @ Pay Rate | 125% @ Pay Rate +2% | 125% @ Pay Rate |
+| **Portfolio Landlord** | 125% @ Pay Rate | 140% @ Pay Rate +2% | 140% @ Pay Rate |
+
+Note: All Products - Purchase/ Let to Buy/ remortgage + additional borrowing
+
+================================================================================
+9. SPECIAL PRODUCTS & TYPES
+================================================================================
+
+FIRST TIME LANDLORDS
+--------------------------------------------------------------------------------
+
+- First Time Landlords are accepted who own their own residential home
+
+FIRST TIME BUYERS
+--------------------------------------------------------------------------------
+
+- Our Ltd Company mortgages are currently only for directors who own their residential home. We do welcome applications from First Time Landlords though
+
+PORTFOLIO BUY TO LETS
+--------------------------------------------------------------------------------
+
+- Not available on Ltd Company BTL's
+
+MAXIMUM PORTFOLIO
+--------------------------------------------------------------------------------
+
+- The maximum number of BTL properties owned overall, both personally owned and via a Ltd Company, is 3
+
+TOP SLICING
+--------------------------------------------------------------------------------
+
+- Not available on Ltd Company BTL's
+
+================================================================================
+10. DEPOSIT & DEBT CONSOLIDATION
+================================================================================
+
+DEPOSIT
+--------------------------------------------------------------------------------
+
+ACCEPTABLE DEPOSIT SOURCES
+- Personal savings
+- Non repayable gift from family member to director
+- Sale/remortgage of existing property
+- Non repayable gift from the company
+
+UNACCEPTABLE DEPOSIT SOURCES
+- Loans from another company (Intercompany loans)
+- Non-UK gifts and funds from non-UK companies or trusts
+- Gifts to the company
+- Builders deposit
+
+DEBT CONSOLIDATION
+--------------------------------------------------------------------------------
+
+- Capital Raising: 75% max £500,000 (debt consolidations limited to 30% of property value)
+- Allowed once in the lifetime of the mortgage
+
+================================================================================
+11. RESIDENCY & APPLICANTS
+================================================================================
+
+RESIDENCY
+--------------------------------------------------------------------------------
+
+- UK or EU Citizens with settled status
+- Non UK or Non EU citizens must have been residing in the UK for the last 2 years and have non-conditional and permanent right to reside
+- Expatriates are not acceptable
+
+NUMBER OF APPLICANTS
+--------------------------------------------------------------------------------
+
+- Limited Company should not have more than 4 directors and they must own 100% between them
+- Personal guarantees for the full loan amount will be required for all directors of the limited company; a floating charge will not be required
+
+================================================================================
+12. FEES
+================================================================================
+
+BROKER FEES
+--------------------------------------------------------------------------------
+
+- The amount of fee charged by the broker must not exceed 1.5% of the mortgage loan and £1,500. Anything over this figure will be reviewed on case submission and will be declined
+
+================================================================================
+13. UNACCEPTABLE LENDING
+================================================================================
+
+The following are not acceptable:
+
+- Holiday Lets
+- Sale and rent back
+- HMO's
+- Properties being purchased from the applicant's own business
+- Properties that require items of major structural repair e.g. structural defects, electrics, drains, trees
+- Remortgage applications where the applicant has not owned the property for six months
+- Capital raising for business or investment purposes or to fund living costs
+- Bridging finance
+- Applicants who have taken out a pay day loan within the last three years
+- Self-build
+- Foreign Currency Loans
+- Properties with EPC rating of F and G
+- Regulated BTL's
+
+================================================================================
+14. CONTACT INFORMATION
+================================================================================
+
+For further information, please contact our team on 0808 281 9309
+
+Source: https://www.leekbs.co.uk/intermediaries/limited-company-lending-criteria-a-z/
+
+================================================================================

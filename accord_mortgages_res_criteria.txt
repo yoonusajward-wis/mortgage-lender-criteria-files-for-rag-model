@@ -1,0 +1,1750 @@
+LENDER NAME: Accord Mortgages
+PRODUCT: Residential
+
+# Accord Mortgages - Residential Lending Criteria
+**Source:** https://www.accordmortgages.com/criteria
+**Last Updated:** 2025
+
+**FOR INTERMEDIARY USE ONLY**
+
+This website is for use by authorised intermediaries only and should not be relied upon by anyone else.
+
+---
+
+## Applicant
+
+# Income
+
+**Main URL:** [https://www.accordmortgages.com/criteria/income](https://www.accordmortgages.com/criteria/income)
+
+### Page contents
+
+[Salaried income](#salaried-income)
+[Employed by family company](#employed-by-family-company)
+[Ltd company director](#ltd-company-director)
+[Salaried director income](#salaried-director-income)
+[Umbrella company income](#umbrella-company-income)
+[Self employed / partnership / limited liability partnership income](#self-employed--partnership--limited-liability-partnership-income)
+[Day rate contractor income](#day-rate-contractor-income)
+[Fixed term contract income](#fixed-term-contract-income)
+[Zero-hours contracts income](#zero-hours-contracts-income)
+[Term into retirement income](#term-into-retirement-income)
+[Foreign income](#foreign-income)
+[Maternity income](#maternity-income)
+[Rental income](#rental-income)
+[Investment income](#investment-income)
+[Maintenance payments income](#maintenance-payments-income)
+[Benefits](#benefits)
+[Foster care income](#foster-care-income)
+[Special guardianship](#special-guardianship)
+[Locum income](#locum-income)
+[Cryptocurrency income](#cryptocurrency-income)
+[Allowances for income](#allowances-for-income)
+[Deductions from income](#deductions-from-income)
+[Sports professionals](#sports-professionals)
+[LTI and income multiples](#lti-and-income-multiples)
+[Income for additional lending](#income-for-additional-lending)
+
+## Salaried income
+
+**Main income**
+
+* Employment must be permanent
+* There is no minimum time in current employment
+* 100% of gross basic salary accepted
+
+**Second job income**
+
+* 100% can be accepted
+* Employment must be permanent and sustainable
+
+**Probationary period**
+
+All probationary periods can be disregarded.
+
+**Bonus/Overtime**
+
+We accept 60% of sustainable overtime and bonus as long as the total amount doesn't exceed the basic income.
+
+**Commission**
+
+We accept 60% of sustainable commission, as long as the total amount doesn't exceed the basic salary.
+
+**Confirmed pay increase**
+
+Pay increases are acceptable and must be confirmed by the employer. Increases must be within a reasonable time frame and will be reviewed by your underwriter.
+
+**Future employment**
+
+Income can be used as part of the affordability assessment as long as the employment begins within the next 3 months and this can be evidenced by provision of a signed contract. The future employment must meet all other standard employment criteria.
+
+**Evidence Required**
+
+* For 75% LTV and below, we require the latest payslip plus corresponding bank statement
+* For above 75%, we'll need the latest 3 payslips, plus a corresponding bank statement showing the salary credit for just the latest payslip.
+
+**Common-sense lending**
+
+We will consider cases that are outside of our lending policy in this area if you [get in touch](https://www.accordmortgages.com/contact).
+
+**Relevant case studies**
+
+* [Income shortfall but large commission](https://www.accordmortgages.com/criteria/income#csl-modal)
+* [Income shortfall but large bonus](https://www.accordmortgages.com/criteria/income#csl-modal)
+* [From Payee to self employed – New partner in a GP practice](https://www.accordmortgages.com/criteria/income#csl-modal)
+* [Fixed term contract with under 12 months remaining with imminent permanent role to follow](https://www.accordmortgages.com/criteria/income#csl-modal)
+
+## Employed by family company
+
+Extra scrutiny will be applied to the income verification of applicants who work for family-connected companies, particularly where there is a recent new role or a recent pay rise. We need to be satisfied with the plausibility and authenticity of the income from applicants who work for a family company. Each application will be assessed on a case-by-case basis and may involve additional proof of income requests compared to those of a standard employed applicant.
+
+## Ltd company director
+
+* **Ltd Company director**
+  * **The customer's basic salary (remuneration) from the latest year, the customer's average dividend for the last 2 trading years or the latest years dividend, whichever is the lower.** As per accountants reference and last 3 months business bank statements (latest month bank statement). Any dividends paid does need to fit within the net profits of the business for us to consider.
+  * Minimum trading period of 2 years, where they have been trading for 2 years a projection is required
+  * The earnings are viably sustainable for the foreseeable future, considering past performance and future reasonability
+
+* **Limited company director salary plus share of net profit where the shareholding is greater than 50%**
+  * If the client/ clients has >51% shareholding, we can consider the use of directors' salary plus their share of net profits (minus corporation tax) as an alternative to directors' salary and dividends
+  * Using the latest year salary and last 2 years net profits. Using an average of the latest 2 years net profits (Minus corporation tax) or the latest year whichever is lower **subject to income sustainability checks and the clients being 51% shareholder or more. The accountant must be suitably qualified recognised accountants**
+  * For a joint mortgage application where both applicants are company directors for the same company and individually have less than 50% shareholding but together equal >50% we are able to use share of net profits
+
+**Evidence Required**
+
+* **Limited company directors with more than 25% shareholding or less than 25% where income is derived from dividends**
+  Latest full month personal bank statement and latest full month business bank statement. We'll also write to your client's accountant for confirmation of income.
+  * For clients with an accountant with acceptable qualifications (recognised accountants), an accountant's reference, the latest full-month personal bank statement, and the latest full-month business bank statement are required.
+  * For clients with an accountant without acceptable qualifications (accountants not on the list of recognised accountants), an accountant's reference, the last two years' SA302 documents, and the supporting Tax Year Overviews (if the SA302s are online documents) must be provided.
+  * For clients without an accountant, the required documents include the latest full-month personal bank statement, the latest full-month business bank statement, and the last two years' SA302 documents with Tax Year Overviews.
+
+## Salaried director income
+
+Salaried directors are treated for income purposes as employed applicants.
+
+**Evidence Required**
+
+**Salaried directors with less than 25% shareholding**
+Treated for income purposes as employed applicants and the same evidence of income is needed as employed applicants.
+
+* **Salaried directors with more or equal to 25% shareholding**
+  Latest full month personal bank statement. We'll also write to your client's accountant for confirmation of income. If the accountant is not on our list of recognised accountants or your client doesn't have an accountant, we'll require the latest 2 years SA302s.
+
+## Umbrella company income
+
+Applications may be considered where a two-year track record of this type of income can be demonstrated.
+
+**Evidence Required**
+
+* A letter from the umbrella company confirming the total amount earned during the last two years and the potential income in the forthcoming year.
+
+## Self employed / partnership / limited liability partnership income
+
+For affordability purposes we will use the average of the last two years net profits or the latest year, whichever is lower.
+
+**Common-sense lending**
+
+We will consider cases that are outside of our lending policy in this area if you [get in touch](https://www.accordmortgages.com/contact).
+
+**Relevant case studies**
+
+* [From PAYE to self employed - New partner in a GP practice](https://www.accordmortgages.com/criteria/income#csl-modal)
+* [Applicant outside self-employed criteria](https://www.accordmortgages.com/criteria/income#csl-modal)
+* [Self employed business credit](https://www.accordmortgages.com/criteria/income#csl-modal)
+* [Self employed dip in net profits](https://www.accordmortgages.com/criteria/income#csl-modal)
+* [Fluctuation in self employed income](https://www.accordmortgages.com/criteria/income#csl-modal)
+* [Self employed income shortfall](https://www.accordmortgages.com/criteria/income#csl-modal)
+* [Overview | Common sense on Self employed](https://www.accordmortgages.com/criteria/income#csl-modal)
+
+## Day rate contractor income
+
+Day rate contractors are acceptable for lending purposes if the following criteria are met:
+
+* Contracts must relate solely to the applicant
+* Up to 2 contracts can be considered subject to sustainability
+* Minimum 6 months track record of contract work
+* A maximum of 46 weeks income used from the current contract
+* Minimum income £300 per day or £50,000 per annum.
+
+Please note umbrella company deductions will need to be taken into account when calculating affordability.
+
+Gaps of up to 8 weeks are considered standard, while longer gaps are assessed on an individual basis.
+
+**Evidence Required**
+
+* Current and previous contract (s) covering at least 6 months.
+* If no previous contract is available and current contract started less than 12 months ago, previous industry experience and pay should be evidenced via P60's/ employment contract.
+* If there are less than 2 months remaining on current contract, evidence of contract extension or new contract is needed.
+
+## Fixed term contract income
+
+Can be accepted provided that at least 12 months of a contract are remaining, or where there's a 12 month track record of income from contract work.
+
+**Evidence Required**
+
+* A copy of the current contract
+* A copy of the most recent bank statement
+* To obtain a 12 month track record of contracts or p60s can be used (where <12 months remains on current contract)
+* If <2 months remaining on current contract then evidence of contract renewal/new contract is required
+* 75% LTV - Latest payslip
+* Above 75% LTV - Latest 3 payslips
+* Umbrella: Latest 3 months payslips/invoices and latest 3 months personal bank statements.
+
+**Common-sense lending**
+
+We will consider cases that are outside of our lending policy in this area if you [get in touch](https://www.accordmortgages.com/contact).
+
+**Relevant case studies**
+
+* [6 month contract with permanent, in-demand role to follow](https://www.accordmortgages.com/criteria/income#csl-modal)
+* [Overview | Common sense on Fixed term contracts](https://www.accordmortgages.com/criteria/income#csl-modal)
+
+## Zero-hours contracts income
+
+Applicants who are on a zero hour contract will be accepted at 60% of earnings provided they have a minimum of 12 months evidence of sustainable earning on a zero-hour contract basis, and fall into one of the following occupations:
+
+* NHS Bank nurses and locums
+* Non-NHS Bank nurses
+* Care Home Workers
+* Supermarket Workers
+* HGV Drivers
+* Retained/On-Call Firefighters
+* Armed Forces Reserves
+* Supply Teachers.
+
+**Evidence Required**
+
+* Your clients last 3 payslips plus the bank statement showing the salary credit from your most recent payslip
+* Copy of their current contract (excluding NHS Bank work)
+* Copy of their latest P60.
+
+**Common-sense lending**
+
+We will consider cases that are outside of our lending policy in this area if you [get in touch](https://www.accordmortgages.com/contact).
+
+**Relevant case studies**
+
+* [Zero hours nurse - Using more than 60% of income](https://www.accordmortgages.com/criteria/income#csl-modal)
+
+## Term into retirement income
+
+If the applicant is within 15 years of retirement, details of post retirement income is required. We will use the private pension/annuity income or current salary, whichever is the lower, to calculate the maximum lending.
+
+The percentage of the mortgage term occurring after age 70 years +364 days must be less than 25% of the overall mortgage term.
+
+**Evidence Required**
+
+* Please note we may require a retirement strategy to detail how the applicant plans to meet his/her mortgage commitments, if the retirement income is not sufficient to meet mortgage repayments.
+
+## Foreign income
+
+Accord Mortgages does not offer any loans which would be deemed as foreign currency.
+
+This means that no foreign income or assets can be used for affordability or repayment strategy purposes.
+
+**We define foreign income as:**
+
+* Any income received by the customer which does not originate in pounds sterling
+
+**We define foreign assets as:**
+
+* Properties outside of the UK
+* Assets e.g. property, investments, pensions; which would yield monetary values which are not based in pounds sterling.
+
+## Maternity income
+
+We will need confirmation from the applicant of their intentions to return to work including any future increase in expenditure (such as child care costs).
+
+**Evidence Required**
+
+* We will also require evidence of pre-maternity income.
+
+## Rental income
+
+Income is calculated using the surplus amount of rental income after deducting all costs of property management and mortgage interest payments. For affordability minus the relief of finance cost from the last two years net profits from land and property. We then use the average of the of the last two years net profits from land and property or the latest years whichever is lowest.
+
+**Please note:**
+
+Investment income from land and property can only be used for self-financing portfolios (A portfolio is classed as self-financing where rental income is greater than 145% of mortgage payments on an interest only basis at 5.0%)
+
+Where the BTLs are Capital and Interest, the income can be used within the assessment but the full mortgage cost must be taken as a deduction.
+
+**Evidence Required**
+
+* To include rental income as part of the affordability assessment we will need the latest two years SA302's evidencing income from land and property.
+
+## Investment income
+
+The nature of the investment will be reviewed by an underwriter and may be acceptable where there is a 2 year track record.
+
+#### Rental income (Buy to Let/BTL)
+
+Normal self-employed criteria applies.
+
+## Maintenance payments income
+
+Where a customer is receiving maintenance payments, this income can be used within affordability assessment however the following must apply;
+
+* The customer is in receipt of other income to support the lending
+* Maximum 50% of the income to be used in the calculation
+* The maintenance must have a minimum of 2 years remaining
+
+**Evidence Required**
+
+Informal agreement
+* The latest 3 months bank statements to showing evidence of the maintenance income.
+
+Formal agreement (optional alternative)
+* CSA agreement, Court Order, solicitors letter or Consent Order
+* The latest bank statement to show evidence of the income.
+
+## Benefits
+
+**We can accept 100% of the following benefits:**
+
+* Widows pension
+* Retirement pension
+* War widows pension
+* War disablement pension
+* Child Benefit
+* Foster carers
+* Special Guardianship
+
+60% of the annual benefit amount for the following benefit types will be used in the affordability assessment, subject to there being another earned income on the application. The benefit amount we use cannot exceed 100% of the earned income on the application.
+
+**We can accept only 60% of the following benefits:**
+
+* Disability living allowance (DLA)
+* Personal independence payment (PIP)
+* NI Contributions based Employment Support Allowance (ESA)
+* Carer's allowance (CA)
+* Industrial injuries disablement benefit (IIDB)
+* Scottish Child Disability Payment (CDP)
+* Universal Credit (UC): Excluding housing allowance, service charge allowance or any child element where the child/children are age 11 or older.
+
+**Evidence Required**
+
+* The award letter will be required to evidence this income along with bank statements.
+* Bank statements will be required to evidence the last 3 benefit credits. Where Employment and support allowance is utilised, we will require a copy of the award letter and the latest bank statement evidencing the benefit credit.
+* For Universal Credit, the latest award letter will be required to evidence this income, along with the latest 3 months bank statements evidencing the last 3 benefit credits.
+
+## Foster care income
+
+100% of foster care income can be used within the affordability calculation.
+
+**Evidence Required**
+
+* Bank statements to evidence that the allowance is being paid for each child
+* Letter to confirm children in care, how long in care, how long care is intended to be provided for and how much the customer will receive for each child and a breakdown of the allowance. The letter must be on letter headed paper from the fostering agency/local authority
+* Respite Foster Carers will usually provide care on an ad-hoc basis. For this type of income, we would require a letter from the foster care agency or local authority confirming what income they have received so far in the that tax year and also confirmation of income that has been received in the last 2 years.
+* Foster carers are classed as self-employed and have to complete a tax return to the Inland Revenue (See self-employed income section)
+
+## Special guardianship
+
+100% of special guardianship income can be used within the affordability calculation.
+
+**Evidence Required**
+
+* If using basic allowance, this can be evidenced through a bank statement confirming the income along with child benefit credit.
+* If receiving any further payments, please provide a letter from the local authority or agency confirming the Guardianship, weekly payments and any further income the Guardian is entitled to, we also need an end date for this income.
+
+## Locum income
+
+60% of sustainable variable income from self employed Locums (excluding bank nursing) is acceptable where they have a minimum of 6 months history as a Locum.
+
+**Evidence Required**
+
+* 6 months invoices or payslips and latest 3 months personal bank statements.
+
+## Cryptocurrency income
+
+We cannot accept income derived from cryptocurrency as a source of income.
+
+## Allowances for income
+
+100% of the following allowances accepted:
+
+  * Car
+  * Shift
+  * Rent
+  * Standby
+  * Call out
+  * Weighting/large town
+  * Housing allowance
+  * Payments made in lieu of benefits
+  * Band Enhancements.
+
+## Deductions from income
+
+The following outgoings must be declared:
+
+* Monthly repayment cost of any HP agreements or loans, (including self financings)
+* Credit card balances
+* Monthly cost of property charges such as ground rent and service charges
+* Monthly costs of child minding, nursery or school fees
+* Monthly cost of IVA
+* Monthly cost of other significant outgoings: these are outgoings that the applicant/s could or would not stop paying if they needed to reduce expenditure
+* Monthly cost of mortgage payments that do not meet self-financing rules
+* Monthly cost of maintenance payments
+* The monthly costs of all debts which will remain in place on completion of the mortgage are included as a deduction within affordability
+* Any credit cards to remain in place on completion of the mortgage are included as a deduction with 3% of the total credit balance being taken
+* Monthly costs of any childcare/school fees
+* Monthly costs student loans
+* Monthly costs of any mortgage payments that do not meet the self-financing rules or are not going to be let out
+* Overdraft - 3% deduction of the highest overdrawn balance
+* Monthly costs of any property charges - ground rent/service charge/estate rent charge(s)
+* Monthly costs of any regular maintenance payments
+* Monthly costs of any other significant outgoings including running costs of second properties
+
+You need to tell us if the applicants are aware their income will reduce at any time in the future. Some examples may include:
+
+* Loss or reduction of overtime/bonus
+* Notice of redundancy
+* Planned reduction in working hours
+* End of contract working
+
+Any financial dependants that reside within the same household will also be included within the affordability assessment.
+
+## Sports professionals
+
+100% of income can be used subject to income being sustainable. 
+
+All cases will require underwriter assessment.
+
+**Evidence Required**
+
+  * Details of contractual income for the last 3 years
+  * Where income is based on competition wins, sponsorship, evidence of the last 3 years earnings should be obtained through contracts, self-assessment documents, and or accounts. 
+  * Details of pension provisions
+  * Details of injury insurance
+
+## LTI and income multiples
+
+The table below details the maximum applicable income multiples available for different transactions. Please note in order to obtain an accurate affordability figure it is important to complete the affordability calculator accurately.
+
+| Transaction Type                                          | Income below £50,000 (joint or sole basis) | Income above £50,000 (joint or sole basis) |
+| --------------------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| Standard Purchase and Remortgage up to 90% LTV            | 4.49x                                       | 5.0x                                        |
+| Standard Purchase and Remortgage up to 95% LTV             | 4.49x                                       | 4.49x                                       |
+| New Build Purchase up to 90%                              | 4.49x                                       | 5.0x                                        |
+| Standard Purchase over 95% LTV (The 5K Deposit Mortgage)  | 4.49x                                       | 4.49x                                       |
+
+Please note: cases that utilise the cascade score product range will be capped at 5.0x LTI maximum. Those that require a LTI ratio of over 5.0x will require a boost LTI product.
+
+## Income for additional lending
+
+**Deductions from Income**
+
+The following outgoings must be declared:
+
+* The monthly costs of all debts which will remain in place on completion of the mortgage are included as a deduction within affordability
+* Any credit cards to remain in place on completion of the mortgage are included as a deduction with 3% of the total credit balance being taken
+* Monthly costs of any childcare/school fees
+* Monthly costs student loans
+* Monthly costs of any mortgage payments that do not meet the self-financing rules or are not going to be let out
+* Overdraft - 3% of latest total outstanding month end balance
+* Monthly costs of any property charges - ground rent/service charge/estate rent charge(s)
+* Monthly costs of any regular maintenance payments
+* Monthly costs of any other significant outgoings
+
+**Evidence Required**
+
+* The latest payslip and corresponding bank statement required if employed.
+* Normal self-employed or limited company director documentation required for self-employed applicants.
+
+---
+
+# Deposit
+
+**Main URL:** [https://www.accordmortgages.com/criteria/deposit](https://www.accordmortgages.com/criteria/deposit)
+
+### Page contents
+
+[Gifted deposit](#gifted-deposit)
+[Cryptocurrency deposit](#cryptocurrency-deposit)
+
+## Gifted deposit
+
+Cash gifts towards the purchase of a property can be accepted if the individual providing the gift is a family member.
+
+By family, we mean a relation by blood or law or if you are in a relationship and co-habiting.
+
+## Cryptocurrency deposit
+
+We can accept cryptocurrency as a source of deposit (subject to full underwriting).
+
+---
+
+# Age
+
+**Main URL:** [https://www.accordmortgages.com/criteria/age](https://www.accordmortgages.com/criteria/age)
+
+### Page contents
+
+[Applicant age](#applicant-age)
+[Applicant age for interest only](#applicant-age-for-interest-only)
+[Applicant age for debt consolidation](#applicant-age-for-debt-consolidation)
+
+## Applicant age
+
+**Min / Max Age**
+
+  * At application, all applicants must be at least 18 years of age.
+  * All loans must be repaid by the 81st birthday of the oldest applicant.
+
+**Term into retirement**
+
+The percentage of the mortgage term occurring after their 70th birthday +364 days must be less than 25% of the overall mortgage term.
+
+Where the applicant is within 15 years of retirement (declared retirement age or their 71st birthday, whichever is lower), evidence of post retirement income is required. Affordability will be assessed using the lower of either the applicant's current income or their post retirement income to ensure the mortgage will continue to remain affordable.
+
+Where the applicant is more than 15 years from retirement and the term exceeds their 71st birthday, your client will need to be part of a company or private pension scheme. We will accept as evidence:
+
+  * Annual pension statement
+  * Pension details supplied by the pension provider
+  * Payslips showing the applicants pension contributions
+
+## Applicant age for interest only
+
+Interest only borrowing is not permitted if the term of the mortgage goes beyond your client(s) stated retirement age or their 71st birthday, whichever is sooner. 
+
+The term can exceed their 71st birthday however their income will not be used for affordability. The term can not go beyond the applicants stated retirement age or their 71st birthday, whichever is sooner, where income is required. 
+
+**Sole applications** – Interest Only lending permitted to already retired customers where max age at end of term does not exceed their 71st birthday. 
+
+**Joint applications** – Interest Only lending permitted where any applicant is already retired, however no retirement income can be used in the affordability assessment. Please note the percentage of the mortgage term occurring after age 70 +364 must be less than 25% of the overall mortgage term as per standard term into retirement criteria.
+
+## Applicant age for debt consolidation
+
+For applications with any element of debt consolidation, a maximum age of 70 years old at the end of the term applies.
+
+---
+
+# Foreign nationals
+
+**Main URL:** [https://www.accordmortgages.com/criteria/foreign-nationals](https://www.accordmortgages.com/criteria/foreign-nationals)
+
+### Page contents
+
+[Loan and LTV limits for foreign nationals](#loan-and-ltv-limits-for-foreign-nationals)
+
+## Loan and LTV limits for foreign nationals
+
+Customers whose nationality is not British or Irish must provide evidence that they have either indefinite leave to remain or right to reside, via a passport (showing stamp), EU settlement scheme share code or confirmation from the Home Office – LTV limit restrictions are in place for customers without indefinite leave to remain or pre-settled.
+
+**European Economic Area**
+
+Applicants from countries, which are members of the European Economic Area, can also be accepted within normal lending criteria. 
+
+These include: Iceland, Liechtenstein, Norway and Switzerland.
+
+**Indefinite leave to remain**
+
+Evidence of indefinite leave is required for over 90% LTV lending. This should be evidenced either an e-visa, a stamp in the applicant's passport or by a letter from the Home Office.
+
+**Settled/pre-settled status**
+
+Evidence of Settled/pre-settled status is required. The share code, which is provided as part of the EU Settlement Scheme, should be provided.
+
+**Joint applications where one applicant has indefinite leave to remain**
+
+Where at least one applicant on a joint application has indefinite leave to remain or is a British citizen then we can now offer up to 95% LTV lending subject to standard product and eligibility criteria. 
+
+For joint borrower sole proprietor lending, both applicants must have indefinite leave to remain. If either applicant does not have indefinite leave to remain, the joint borrower sole proprietor lending LTV is a maximum of 75%.
+
+**No settled/pre-settled status or indefinite leave to remain not granted**
+
+If at least one applicant has a minimum acceptable income of £50,000 the maximum lending LTV is 90%.
+
+If no applicants meet the minimum acceptable income of £50,000, the maximum lending LTV is 75%.
+
+All applicants must have evidence of their current right to reside in the UK e.g. immigration documentation, e-visa or passport stamp.
+
+---
+
+# Adverse Credit
+
+**Main URL:** [https://www.accordmortgages.com/criteria/adverse-credit](https://www.accordmortgages.com/criteria/adverse-credit)
+
+### Page contents
+
+[Bankruptcy and sequestration](#bankruptcy-and-sequestration)
+[CCJs, defaults and missed payments](#ccjs-defaults-and-missed-payments)
+[Individual voluntary arrangements (IVA), Debt Management Plans (DMP) and Trust deeds](#individual-voluntary-arrangements-iva-debt-management-plans-dmp-and-trust-deeds)
+[Repossessions](#repossessions)
+[Credit repair and eligibility for product transfers](#credit-repair-and-eligibility-for-product-transfers)
+[Credit repair for additional lending](#credit-repair-for-additional-lending)
+[Credit referencing for additional lending](#credit-referencing-for-additional-lending)
+[Credit repair and porting eligibility](#credit-repair-and-porting-eligibility)
+
+## Bankruptcy and sequestration
+
+  * We do not accept undischarged bankruptcies.
+  * The bankruptcy/sequestration must have been discharged.
+  * Discharged for a minimum of 6 years.
+  * The credit search must confirm that the order is discharged or;
+    * A copy of the discharge certificate is required.
+
+## CCJs, defaults and missed payments
+
+**CCJ**
+
+  * All CCJs must be satisfied
+  * 0 registered in the last 6 years
+
+**Defaults**
+
+  * 0 registered in the last 6 years
+
+**Missed payments: (Secured, unsecured and mortgages)**
+
+  * Secured loans: No more than 1 missed payment on 1 single account in the last 24 months.
+  * Unsecured credit: No more than 2 missed payments on 1 single account in the last 24 months. In addition to this, the latest recorded payment must have been made. Including: 
+    * Communications
+    * Utility
+    * Fixed Term
+    * Mail Order.
+
+**Common-sense lending**
+
+We will consider cases that are outside of our lending policy in this area if you [get in touch](https://www.accordmortgages.com/contact).
+
+**Relevant case studies**
+
+  * [Credit card default over 5 years ago](https://www.accordmortgages.com/criteria/adverse-credit#csl-modal)
+  * [< £500 default under 4 years ago](https://www.accordmortgages.com/criteria/adverse-credit#csl-modal)
+  * [Missed payments within the last 12 months](https://www.accordmortgages.com/criteria/adverse-credit#csl-modal)
+  * [Joint applicants, one with adverse in the last year](https://www.accordmortgages.com/criteria/adverse-credit#csl-modal)
+  * [First time buyer with default and missed payments](https://www.accordmortgages.com/criteria/adverse-credit#csl-modal)
+
+## Individual voluntary arrangements (IVA), Debt Management Plans (DMP) and Trust deeds
+
+**IVA**
+IVA will be considered if:
+
+  * Satisfied, with no other adverse record present on the account.
+  * Satisfied for a minimum of 6 years.
+  * The applicant(s) must provide a copy of the IVA or trust deed document or statement or letter produced by an Insolvency Practitioner (IP) to confirm the agreed monthly payment arrangement, satisfactory conduct and final payment date where appropriate.
+  * We cannot accept IVA with unsatisfactory conduct.
+  * Evidence is needed to confirm this has been satisfied.
+
+**DMP**
+DMP will be considered if:
+
+  * None registered within the last 6 years.
+  * Satisfied or end date evidenced.
+  * The applicant(s) must provide a copy of the DMP document or statement or letter to confirm the agreed monthly payment arrangement, satisfactory conduct and final payment date where appropriate.
+  * We cannot accept DMPs with unsatisfactory conduct.
+  * Evidence is required to confirm this has been satisfied. 
+
+## Repossessions
+
+All repossessions should be declared and normally there should be no history of a repossession, either voluntary or enforced.
+
+We do not accept applications where the repossession date is within the last 6 years.
+
+## Credit repair and eligibility for product transfers
+
+In order to qualify for a prime EBT product, there must be no missed or late payments in the last 12 months payment history.
+
+Mortgage arrears must be less than the value of 1 month's mortgage payment at the time of applying for a transfer and completion of transfer.
+
+Borrowers previously on a credit repair self cert product and who have made all their payments on time and in full within the last 12 months, and can now prove their income, can select a full status prime EBT.
+
+## Credit repair for additional lending
+
+Accord no longer offers credit repair lending to new or existing customers.
+
+In order to apply for additional lending, existing credit repair customers now need to be classed as prime. All mortgage payments must be paid in full and on time for the last 12 months to be classed as prime.
+
+## Credit referencing for additional lending
+
+A full credit reference search is carried out for all additional lending applications.
+
+## Credit repair and porting eligibility
+
+**Prime borrower - top up not required:** The last 3 months mortgage payments must have been made and there must be no more than 2 mortgage payments currently outstanding. 
+
+**Prime borrower - top up required:** There must be no missed payments within the last 12 months and no more than 1 missed payment within the last 24 months. 
+
+**Credit repair borrower - top up not required:** The last 3 months mortgage payments must have been made and there must be no more than 2 mortgage payments currently outstanding. 
+
+**Credit repair borrower - top up required:** 0 missed payments in the last 24 months and would qualify for a prime top up product subject to the whole application meeting prime criteria. 
+
+**Applications with characteristics which we no longer allow:**
+Any applications falling outside our new lending criteria may be considered on an individual basis. 
+
+---
+
+# Concessionary Purchase
+
+**Main URL:** [https://www.accordmortgages.com/criteria/concessionary-purchase](https://www.accordmortgages.com/criteria/concessionary-purchase)
+
+### Page contents
+
+[Concessionary purchase](#concessionary-purchase)
+
+## Concessionary purchase
+
+Concessionary purchases from family members, landlords and ex-partners are acceptable to Accord. Maximum LTV is based upon the valuation.
+
+The maximum loan amount cannot exceed the discounted purchase price.
+
+A solicitor's letter is required to confirm the reduced purchase price, the name of vendor and your relationship to them.
+
+---
+
+# Joint borrowers and guarantors
+
+**Main URL:** [https://www.accordmortgages.com/criteria/joint-borrowers-guarantors](https://www.accordmortgages.com/criteria/joint-borrowers-guarantors)
+
+### Page contents
+
+[Number of borrowers](#number-of-borrowers)
+[Joint borrower sole proprietor](#joint-borrower-sole-proprietor)
+[Guarantors](#guarantors)
+
+## Number of borrowers
+
+**Maximum number of borrowers**
+
+Up to two borrowers are allowed on a mortgage loan.
+
+## Joint borrower sole proprietor
+
+Joint borrower sole proprietor is available for purchase only.
+
+Non-proprietor must be an immediate family member only.
+
+**Immediate family is considered as the following:**
+
+* Mother
+* Father
+* Grandparents
+* Siblings
+* Child
+* Grandchild.
+
+The non-proprietor must provide evidence of them receiving independent legal advice (ILA) prior to completion of the mortgage. This evidence should be a solicitor's letter.
+
+Joint borrower sole proprietor maximum loan to value (LTV) is 95% (plus fees) or 90% (plus fee) for new build properties.
+
+All joint borrower sole proprietor loans must be on a capital and interest basis - no interest only lending is permitted.
+
+For joint borrower sole proprietor lending, both applicants must have indefinite leave to remain or pre-settled status. If only one applicant has indefinite leave to remain or pre-settled status lending will be capped at 75% LTV.
+
+If the non-proprietor intends to live at the security address the solicitor should receive a signed occupancy form prior to completion of the mortgage.
+
+Proprietor minimum income of £20,000 per annum.
+
+## Guarantors
+
+Guarantor applications are not acceptable.
+
+---
+
+# Residence
+
+**Main URL:** [https://www.accordmortgages.com/criteria/residence](https://www.accordmortgages.com/criteria/residence)
+
+### Page contents
+
+[Main residence only](#main-residence-only)
+
+## Main residence only
+
+We only accept applications for the purchase or re-mortgage of an applicant's main residence on a residential basis.
+
+For remortgage purposes the property must have been owned and lived in by the applicant's for a minimum of 6 months.
+
+Portability/additional lending/transfer of equity applications must be secured on your client's main residence.
+
+Mortgage loans for the following purchases are not accepted:
+
+* Pied-a-terre/town house
+* Purchase for dependant relative
+* Holiday home.
+
+For BTL properties please refer to our [Buy to Let website](https://www.accordmortgages.com/buy-to-let).
+
+**Common-sense lending**
+
+We will consider cases that are outside of our lending policy in this area if you [get in touch](https://www.accordmortgages.com/contact).
+
+**Relevant case studies**
+
+* [Less than 6 Months residency for Remortgage](https://www.accordmortgages.com/criteria/residence#csl-modal)
+
+---
+
+# Unacceptable applicants
+
+**Main URL:** [https://www.accordmortgages.com/criteria/unacceptable-applicants](https://www.accordmortgages.com/criteria/unacceptable-applicants)
+
+### Page contents
+
+[Unacceptable applicants](#unacceptable-applicants)
+
+## Unacceptable applicants
+
+**The following would not be acceptable:**
+
+* Investment groups/investor clubs (or where a finders fee exists)
+* Limited companies
+* Applicants purchasing a property from a company in which the applicant has an interest
+* Businesses
+* Limited liabilities
+* Property developers
+* Social housing schemes
+* Back to back or sub sales
+* Distressed sales
+* Applicants with diplomatic immunity.
+
+---
+
+## Loan
+
+# Loan limits
+
+**Main URL:** [https://www.accordmortgages.com/criteria/loan-limits](https://www.accordmortgages.com/criteria/loan-limits)
+
+### Page contents
+
+[Min/max loan term](#minmax-loan-term)
+[Loan size and LTV limits for new business](#loan-size-and-ltv-limits-for-new-business)
+[Loan size and LTV limits for new builds](#loan-size-and-ltv-limits-for-new-builds)
+[Loan size and LTV limits for remortgaging](#loan-size-and-ltv-limits-for-remortgaging)
+[Loan size and LTV limits for additional lending (existing customers only)](#loan-size-and-ltv-limits-for-additional-lending-existing-customers-only)
+[Loan size and LTV limits for product transfers](#loan-size-and-ltv-limits-for-product-transfers)
+[Loan size and LTV limits for portability](#loan-size-and-ltv-limits-for-portability)
+[Loan size and LTV limits for interest only](#loan-size-and-ltv-limits-for-interest-only)
+[LTI and income multiples](#lti-and-income-multiples)
+[Loan and LTV limits for foreign nationals](#loan-and-ltv-limits-for-foreign-nationals)
+
+## Min/max loan term
+
+* The maximum loan term is 40 years
+* The minimum loan term is 5 years
+* The percentage of the mortgage term occurring after age 70 must be less than 25% of the overall mortgage term.
+
+This applies to new business and remortgaging
+
+For product transfers, first check the term remaining on the mortgage. Make sure it qualifies for the products available and the terms allowed on those products.
+
+## Loan size and LTV limits for new business
+
+The following loan limits are for new business, excluding new build, which have their own limits.
+
+| Property type                                               | Min/max loan size*                                          | Max LTV |
+| ----------------------------------------------------------- | ----------------------------------------------------------- | ------ |
+| House/flat                                                  | £30k - £5m                                                  | 75%    |
+| House/flat                                                  | £50k - £2.6m                                                | 85%    |
+| House/flat                                                  | £50k - £1m                                                  | 90%    |
+| House/flat (excl. Northern Ireland)                         | £50k - £750k                                                | 95%    |
+| 5K Deposit Mortgage** House/flat (excl. Northern Ireland)   | £95k - £495k                                                | 99%    |
+
+*Some products also have a minimum loan requirement, please check this before applying.
+
+**5K Deposit Mortgages (up to 99% LTV):**
+
+* First time buyers only (one customer must be a FTB and neither can have any background properties)
+* Capital and interest only
+* Advised only
+* Maximum age of oldest applicant 70 at end of term
+* Minimum purchase price £100K
+* Maximum purchase price £500K
+* Not eligible for Joint borrower sole proprietor (JBSP), Cascade score or Boost LTI
+
+## Loan size and LTV limits for new builds
+
+New build properties are subject to the following maximum loan and LTV limits:
+
+| Property type | Loan size*      | Max LTV |
+| ------------- | --------------- | ------- |
+| House/flat    | Up to £5m       | 75%     |
+| House/flat    | Up to £2.6m     | 85%     |
+| House/flat    | Up to £1m       | 90%     |
+| House         | Up to £750k     | 95%     |
+
+*Some products also have a minimum loan requirement, please check this before applying.
+
+## Loan size and LTV limits for remortgaging
+
+| Property type                       | Min/max loan size | Max LTV |
+| ----------------------------------- | ----------------- | ------ |
+| House/flat                          | £30k - £5m        | 75%    |
+| House/flat                          | £50k - £2.6m      | 85%    |
+| House/flat                          | £50k - £1m        | 90%    |
+| House/Flat (excl. Northern Ireland) | £50k - £750k      | 95%    |
+
+**Remortgages for debt consolidation have the following additional limits:**
+
+* 85% LTV for customers able to meet our higher credit score requirement (maximum consolidation of £50,000 unsecured debt or 10 debts)
+* 80% LTV for customers who meet our standard credit score requirement (maximum consolidation of £50,000 unsecured debt or 10 debts)
+
+Where the applicant chooses to add the product fee to the mortgage at completion, we will not include this in the LTV calculation.
+
+Please note the debt consolidation restriction does not apply to staircasing/paying off HTB or shared equity.
+
+## Loan size and LTV limits for additional lending (existing customers only)
+
+**Loan to value**
+The maximum permitted LTV following additional lending is 85% and is based on total loan amount (existing borrowing + additional lending).
+
+**Loan size**
+The maximum loan size including the original debt is £2.6 million.
+
+## Loan size and LTV limits for product transfers
+
+**LTV limits**
+The maximum permitted LTV following additional lending is 85% LTV and is based on total loan amount (existing borrowing + additional lending).
+
+Where the total loan amount exceeds £1 million, the maximum is 75% LTV.
+
+## Loan size and LTV limits for portability
+
+The overall amount of the mortgage (existing balance and top-up) must be more than the minimum loan amount for the top-up product.
+
+If you choose a product with incentives then the amount of the top-up must be £50,000 or more. If the amount of the top-up element is less than £50,000 you'll have to choose either a product with no incentives or one of our portability only top-up products.
+
+**Early repayment charges (ERC) and refunds**
+
+Any ERCs must be paid by the customer and these will be refunded if the customer returns to Accord within 6 months of the date of redemption.
+
+Where a mortgage has more than one part, each individual part is subject to its own ERC. Where a product has expired between redemption and completion of the new loan, the customer must choose a product from the current range and the ERC will still be refunded (subject to completion being within 6 months of the original redemption).
+
+If your client is looking to borrow less than their current balance, we'll charge ERCs on the amount they don't port to the new mortgage.
+
+## Loan size and LTV limits for interest only
+
+* The maximum LTV for interest only lending is 75%.
+* For mortgages that are part capital and interest and part interest only, the maximum case LTV is 85% provided the interest only part does not exceed 75%.
+
+## LTI and income multiples
+
+The table below details the maximum applicable income multiples available for different transactions. Please note in order to obtain an accurate affordability figure it is important to complete the affordability calculator accurately.
+
+| Transaction Type                                          | Income below £50,000 (joint or sole basis) | Income above £50,000 (joint or sole basis) |
+| --------------------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| Standard Purchase and Remortgage up to 90% LTV            | 4.49x                                       | 5.0x                                        |
+| Standard Purchase and Remortgage up to 95% LTV             | 4.49x                                       | 4.49x                                       |
+| New Build Purchase up to 90%                              | 4.49x                                       | 5.0x                                        |
+| Standard Purchase over 95% LTV (The 5K Deposit Mortgage)  | 4.49x                                       | 4.49x                                       |
+
+Please note: cases that utilise the cascade score product range will be capped at 5.0x LTI maximum. Those that require a LTI ratio of over 5.0x will require a boost LTI product.
+
+## Loan and LTV limits for foreign nationals
+
+Customers whose nationality is not British or Irish must provide evidence that they have either indefinite leave to remain or right to reside, via a passport (showing stamp), EU settlement scheme share code or confirmation from the Home Office – LTV limit restrictions are in place for customers without indefinite leave to remain or pre-settled.
+
+**European Economic Area**
+
+Applicants from countries, which are members of the European Economic Area, can also be accepted within normal lending criteria.
+
+These include: Iceland, Liechtenstein, Norway and Switzerland.
+
+**Indefinite leave to remain**
+
+Evidence of indefinite leave is required for over 90% LTV lending. This should be evidenced either an e-visa, a stamp in the applicant's passport or by a letter from the Home Office.
+
+**Settled/pre-settled status**
+
+Evidence of Settled/pre-settled status is required. The share code, which is provided as part of the EU Settlement Scheme, should be provided.
+
+**Joint applications where one applicant has indefinite leave to remain**
+
+Where at least one applicant on a joint application has indefinite leave to remain or is a British citizen then we can now offer up to 95% LTV lending subject to standard product and eligibility criteria.
+
+For joint borrower sole proprietor lending, both applicants must have indefinite leave to remain. If either applicant does not have indefinite leave to remain, the joint borrower sole proprietor lending LTV is a maximum of 75%.
+
+**No settled/pre-settled status or indefinite leave to remain not granted**
+
+If at least one applicant has a minimum acceptable income of £50,000 the maximum lending LTV is 90%.
+
+If no applicants meet the minimum acceptable income of £50,000, the maximum lending LTV is 75%.
+
+All applicants must have evidence of their current right to reside in the UK e.g. immigration documentation, e-visa or passport stamp.
+
+---
+
+# Additional lending
+
+**Main URL:** [https://www.accordmortgages.com/criteria/additional-lending](https://www.accordmortgages.com/criteria/additional-lending)
+
+### Page contents
+
+[Income for additional lending](#income-for-additional-lending)
+[Unacceptable purposes for additional lending](#unacceptable-purposes-for-additional-lending)
+[Valuations for additional lending](#valuations-for-additional-lending)
+[Loan size and LTV limits for additional lending (existing customers only)](#loan-size-and-ltv-limits-for-additional-lending-existing-customers-only)
+[Credit repair for additional lending](#credit-repair-for-additional-lending)
+[Credit referencing for additional lending](#credit-referencing-for-additional-lending)
+[Purchase of adjoining land/holiday home (AL)](#purchase-of-adjoining-landholiday-home-al)
+[Help to Buy equity loan - Additional lending](#help-to-buy-equity-loan---additional-lending)
+[Debt consolidation - additional lending](#debt-consolidation---additional-lending)
+[Eligibility for additional lending](#eligibility-for-additional-lending)
+
+## Income for additional lending
+
+**Deductions from Income**
+
+The following outgoings must be declared:
+
+* The monthly costs of all debts which will remain in place on completion of the mortgage are included as a deduction within affordability
+* Any credit cards to remain in place on completion of the mortgage are included as a deduction with 3% of the total credit balance being taken
+* Monthly costs of any childcare/school fees
+* Monthly costs student loans
+* Monthly costs of any mortgage payments that do not meet the self-financing rules or are not going to be let out
+* Overdraft - 3% of latest total outstanding month end balance
+* Monthly costs of any property charges - ground rent/service charge/estate rent charge(s)
+* Monthly costs of any regular maintenance payments
+* Monthly costs of any other significant outgoings
+
+**Evidence Required**
+
+* The latest payslip and corresponding bank statement required if employed.
+* Normal self-employed or limited company director documentation required for self-employed applicants.
+
+## Unacceptable purposes for additional lending
+
+The following purposes are not permitted:
+
+* Bridging finance
+* Commercial Lending
+* Non secured lending
+* Lifetime mortgages
+* Equity release products
+
+## Valuations for additional lending
+
+A revaluation is required where:
+
+* The new LTV exceeds 70% of the latest valuation (based on the existing borrowing and the proposed additional loan) or
+* The latest valuation type on the account is an external appraisal (EA) or desktop (AVM), regardless of LTV or the period since the previous valuation was carried out.
+
+## Loan size and LTV limits for additional lending (existing customers only)
+
+**Loan to value**
+The maximum permitted LTV following additional lending is 85% and is based on total loan amount (existing borrowing + additional lending).
+
+**Loan size**
+The maximum loan size including the original debt is £2.6 million.
+
+## Credit repair for additional lending
+
+Accord no longer offers credit repair lending to new or existing customers.
+
+In order to apply for additional lending, existing credit repair customers now need to be classed as prime. All mortgage payments must be paid in full and on time for the last 12 months to be classed as prime.
+
+## Credit referencing for additional lending
+
+A full credit reference search is carried out for all additional lending applications.
+
+## Purchase of adjoining land/holiday home (AL)
+
+A solicitor must be instructed by borrowers to add land to existing title; funds will be released to the acting solicitor upon request.
+
+## Help to Buy equity loan - Additional lending
+
+The customer must have evidence of permission from Homes England/Help to Buy (Wales) Ltd before submitting an additional loan application.
+
+Additional lending can only be considered for staircasing (customer using the proceeds from the additional loan to repay their equity loan), essential modifications and transfer of equity (purchasing the full equity of the property from the current joint borrower).
+
+If the customer is staircasing, a solicitor must be instructed.
+Where there is to be an equity loan outstanding on completion of the additional loan:
+
+* the maximum LTV calculated using the mortgage amount plus additional loan amount is 75%
+* the maximum LTV calculated using the mortgage amount, additional loan amount plus the outstanding equity loan amount is 85%.
+
+Where the equity loan is being repaid in full, normal LTV rules apply.
+
+## Debt consolidation - additional lending
+
+When capital raising for the purpose of debt consolidation (either secured or unsecured debts) the following applies:
+
+* Maximum LTV of 85%
+* Maximum of £50,000 of unsecured debts can be consolidated onto the mortgage
+* Maximum of 10 debts to be repaid (this can be a combination of both secured & unsecured)
+* Unlimited secured debts (against any property, i.e. primary residence, buy to let, second home), providing the above max 10 debt rule is still not exceeded
+* Not available when lending on interest only.
+* Maximum age 70 at the end of the mortgage term
+
+## Eligibility for additional lending
+
+All parts of the existing mortgage must have been open for 6 months to apply for an additional loan.
+
+---
+
+# Product Transfers
+
+**Main URL:** [https://www.accordmortgages.com/criteria/product-transfers](https://www.accordmortgages.com/criteria/product-transfers)
+
+### Page contents
+
+[Loan size and LTV limits for product transfers](#loan-size-and-ltv-limits-for-product-transfers)
+[Credit repair and eligibility for product transfers](#credit-repair-and-eligibility-for-product-transfers)
+
+## Loan size and LTV limits for product transfers
+
+**LTV limits**
+The maximum permitted LTV following additional lending is 85% LTV and is based on total loan amount (existing borrowing + additional lending).
+
+Where the total loan amount exceeds £1 million, the maximum is 75% LTV.
+
+## Credit repair and eligibility for product transfers
+
+In order to qualify for a prime EBT product, there must be no missed or late payments in the last 12 months payment history.
+
+Mortgage arrears must be less than the value of 1 month's mortgage payment at the time of applying for a transfer and completion of transfer.
+
+Borrowers previously on a credit repair self cert product and who have made all their payments on time and in full within the last 12 months, and can now prove their income, can select a full status prime EBT.
+
+---
+
+# Portability
+
+**Main URL:** [https://www.accordmortgages.com/criteria/portability](https://www.accordmortgages.com/criteria/portability)
+
+### Page contents
+
+[Loan size and LTV limits for portability](#loan-size-and-ltv-limits-for-portability)
+[Portability valuations](#portability-valuations)
+[Credit repair and porting eligibility](#credit-repair-and-porting-eligibility)
+[Help to Buy equity loan - Porting](#help-to-buy-equity-loan---porting)
+
+## Loan size and LTV limits for portability
+
+The overall amount of the mortgage (existing balance and top-up) must be more than the minimum loan amount for the top-up product.
+
+If you choose a product with incentives then the amount of the top-up must be £50,000 or more. If the amount of the top-up element is less than £50,000 you'll have to choose either a product with no incentives or one of our portability only top-up products.
+
+**Early repayment charges (ERC) and refunds**
+
+Any ERCs must be paid by the customer and these will be refunded if the customer returns to Accord within 6 months of the date of redemption.
+
+Where a mortgage has more than one part, each individual part is subject to its own ERC. Where a product has expired between redemption and completion of the new loan, the customer must choose a product from the current range and the ERC will still be refunded (subject to completion being within 6 months of the original redemption).
+
+If your client is looking to borrow less than their current balance, we'll charge ERCs on the amount they don't port to the new mortgage.
+
+## Portability valuations
+
+In all cases a new valuation will be carried out for all portability applications, regardless of whether a top-up product is required to determine the new loan to value (LTV) of the lending.
+
+## Credit repair and porting eligibility
+
+**Prime borrower - top up not required:** The last 3 months mortgage payments must have been made and there must be no more than 2 mortgage payments currently outstanding.
+
+**Prime borrower - top up required:** There must be no missed payments within the last 12 months and no more than 1 missed payment within the last 24 months.
+
+**Credit repair borrower - top up not required:** The last 3 months mortgage payments must have been made and there must be no more than 2 mortgage payments currently outstanding.
+
+**Credit repair borrower - top up required:** 0 missed payments in the last 24 months and would qualify for a prime top up product subject to the whole application meeting prime criteria.
+
+**Applications with characteristics which we no longer allow:**
+Any applications falling outside our new lending criteria may be considered on an individual basis.
+
+## Help to Buy equity loan - Porting
+
+If the customer has a mortgage with us where a Help to Buy equity loan is outstanding against their property, the customer is able to port their existing mortgage deal providing the equity loan is repaid upon sale of their current property and they meet our new lending criteria.
+
+---
+
+# Interest only
+
+**Main URL:** [https://www.accordmortgages.com/criteria/interest-only](https://www.accordmortgages.com/criteria/interest-only)
+
+### Page contents
+
+[Interest only repayment](#interest-only-repayment)
+[Applicant age for interest only](#applicant-age-for-interest-only)
+[Loan size and LTV limits for interest only](#loan-size-and-ltv-limits-for-interest-only)
+
+## Interest only repayment
+
+Your client(s) must have a suitable repayment strategy in place to repay the loan at the end of the term.
+
+Total borrowing is up to a maximum 85% LTV when borrowing on a Capital Repayment basis (a maximum of 75% can be on Interest Only by using an additional repayment strategy).
+
+Interest only is not available when capital raising for debt consolidation.
+
+There is no minimum income requirement for interest only. Standard affordability applies. Please select the following link to use our [Accord Mortgages - Affordability Calculator](https://www.accordmortgages.com/calculators/affordability-calculator).
+
+**Evidence Required**
+
+  * You must provide evidence of your client(s) repayment strategy during the application process. 
+  * Your client(s) must also provide this evidence again at least once during the mortgage term. 
+
+Evidence is still required even if undertaking a variation, portability or if case is subject to "mid term" review.
+
+### Acceptable repayment strategies
+
+**Existing Endowments:**
+
+  * The projected mid-point maturity value must cover 100% of the interest only borrowing.
+  * The endowment must have been in place for at least 12 months.
+  * The end of the endowment term must not exceed end of mortgage term.
+  * The endowment must be in the name of the borrower(s) only. 
+  * It must be a UK policy provided by a regulated firm.
+
+**Evidence Required**
+
+  * Latest endowment policy statement, dated in the last 12 months.
+
+**General Investments:**
+
+  * The current value of the investments must cover 100% of the I/O element of the mortgage. The total can include eligible savings referred to below.
+  * The investments must be in the name of the clients only. 
+  * The investments must be in pounds sterling.
+  * The investment must have been in place for a minimum of 12 months. 
+
+**Evidence Required**
+
+  * Stocks and Shares ISA, Unit Trusts/OEIC, Investment Bonds: Copy of latest statement and/or 
+  * Stocks and Shares ISA: Copy of share certificates/statements containing evidence of share-holdings and their valuation. 
+
+**Savings:**
+
+  * The current value of the savings must cover 100% of the I/O element. The total can include eligible investments referred to above.
+  * The savings must have been held for a minimum of 12 months.
+  * The savings must be in the name of the clients only.
+  * The savings must be in pounds sterling.
+
+**Evidence Required**
+
+  * Latest savings statement.
+
+**Sale of Mortgaged Property:**
+
+  * This can be used to cover up to a maximum of 60% of the value of the property.
+  * Total borrowing is up to a maximum 85% LTV when borrowing on a Capital Repayment basis (a maximum of 75% can be on Interest Only by using an additional repayment strategy).
+  * For interest only lending the property must have a minimum equity of £250,000 or £300,000 if the security addresses is in London, at the time of application. For part interest only and part repayment lending the minimum equity requirements are calculated at the end of the mortgage term. London addresses are defined by those which are in the ONS regions definition of London.
+  * The customer must provide details of their downsizing strategy. 
+  * The declared downsizing strategy must be plausible.
+
+Our equity requirements for interest only are dependent on postcode. To find out your clients equity requirements please refer to our [postcode checker](https://www.accordmortgages.com/tools/postcode-checker).
+
+**Evidence Required**
+
+  * A valuation will need to be undertaken to evidence the value of the property.
+
+**Sale of other UK property**
+
+  * A maximum of 75% of the equity in the property can be used as your repayment strategy.
+  * The property must be in the UK. 
+  * The property must be in your name/s only with no other parties named.
+
+**Evidence Required**
+
+  * If any property is mortgaged by another lender, a copy of the latest mortgage statement.
+
+**Pension Lump Sum**
+
+  * For defined contribution schemes and Self Invested Pension Plan (SIPP) – A maximum of 60% of tax-free lump sum (15% of total pension pot) can be used towards your strategy. 
+  * For defined benefit schemes – A maximum of 90% of the tax free lump sum can be used towards your strategy. 
+  * To use this as your strategy your full mortgage term must take you beyond the age of 55 and your declared retirement age must be at or before the end of the term of the mortgage. 
+
+**Evidence Required**
+
+  * Latest Pension Statement.
+
+## Applicant age for interest only
+
+Interest only borrowing is not permitted if the term of the mortgage goes beyond your client(s) stated retirement age or their 71st birthday, whichever is sooner. 
+
+The term can exceed their 71st birthday however their income will not be used for affordability. The term can not go beyond the applicants stated retirement age or their 71st birthday, whichever is sooner, where income is required. 
+
+**Sole applications** – Interest Only lending permitted to already retired customers where max age at end of term does not exceed their 71st birthday. 
+
+**Joint applications** – Interest Only lending permitted where any applicant is already retired, however no retirement income can be used in the affordability assessment. Please note the percentage of the mortgage term occurring after age 70 +364 must be less than 25% of the overall mortgage term as per standard term into retirement criteria.
+
+## Loan size and LTV limits for interest only
+
+  * The maximum LTV for interest only lending is 75%. 
+  * For mortgages that are part capital and interest and part interest only, the maximum case LTV is 85% provided the interest only part does not exceed 75%.
+
+---
+
+# Remortgages
+
+**Main URL:** [https://www.accordmortgages.com/criteria/remortgages](https://www.accordmortgages.com/criteria/remortgages)
+
+### Page contents
+
+[Main residence only](#main-residence-only)
+[Loan size and LTV limits for remortgaging](#loan-size-and-ltv-limits-for-remortgaging)
+[Min/max loan term](#minmax-loan-term)
+[Unacceptable lending purposes for remortgaging](#unacceptable-lending-purposes-for-remortgaging)
+
+## Main residence only
+
+We only accept applications for the purchase or re-mortgage of an applicant's main residence on a residential basis. 
+
+For remortgage purposes the property must have been owned and lived in by the applicant's for a minimum of 6 months.
+
+Portability/additional lending/transfer of equity applications must be secured on your client's main residence.
+
+Mortgage loans for the following purchases are not accepted:
+
+  * Pied-a-terre/town house
+  * Purchase for dependant relative
+  * Holiday home.
+
+For BTL properties please refer to our [Buy to Let website](https://www.accordmortgages.com/buy-to-let).
+
+**Common-sense lending**
+
+We will consider cases that are outside of our lending policy in this area if you [get in touch](https://www.accordmortgages.com/contact).
+
+**Relevant case studies**
+
+  * [Less than 6 Months residency for Remortgage](https://www.accordmortgages.com/criteria/remortgages#csl-modal)
+
+## Loan size and LTV limits for remortgaging
+
+| Property type                       | Min/max loan size | Max LTV |
+| ----------------------------------- | ----------------- | ------- |
+| House/flat                          | £30k - £5m        | 75%     |
+| House/flat                          | £50k - £2.6m      | 85%     |
+| House/flat                          | £50k - £1m        | 90%     |
+| House/Flat (excl. Northern Ireland) | £50k - £750k      | 95%     |
+
+**Remortgages for debt consolidation have the following additional limits:**
+
+  * 85% LTV for customers able to meet our higher credit score requirement (maximum consolidation of £50,000 unsecured debt or 10 debts)
+  * 80% LTV for customers who meet our standard credit score requirement (maximum consolidation of £50,000 unsecured debt or 10 debts)
+
+Where the applicant chooses to add the product fee to the mortgage at completion, we will not include this in the LTV calculation. 
+
+Please note the debt consolidation restriction does not apply to staircasing/paying off HTB or shared equity.
+
+## Min/max loan term
+
+  * The maximum loan term is 40 years
+  * The minimum loan term is 5 years
+  * The percentage of the mortgage term occurring after age 70 must be less than 25% of the overall mortgage term.
+
+This applies to new business and remortgaging
+
+For product transfers, first check the term remaining on the mortgage. Make sure it qualifies for the products available and the terms allowed on those products. 
+
+## Unacceptable lending purposes for remortgaging
+
+The following are unacceptable reasons for remortgages:
+
+  * Business capital raising
+  * Bridging finance
+  * Commercial lending- including Airbnb
+  * Non secured lending
+  * Lifetime mortgages
+  * Equity release products.
+
+---
+
+# Schemes
+
+**Main URL:** [https://www.accordmortgages.com/criteria/schemes](https://www.accordmortgages.com/criteria/schemes)
+
+### Page contents
+
+[Unacceptable schemes](#unacceptable-schemes)
+[Help to Buy equity loan - Additional lending](#help-to-buy-equity-loan---additional-lending)
+[Help to Buy equity loan - Transfer of equity](#help-to-buy-equity-loan---transfer-of-equity)
+[Help to Buy equity loan - Porting](#help-to-buy-equity-loan---porting)
+
+## Unacceptable schemes
+
+**We do not lend on the following:**
+
+* Social housing schemes
+* Armed Forces Help to Buy schemes
+* Shared equity (Help to Buy scheme permitted)
+* Shared ownership
+* Right to Buy
+
+We also do not accept applications from: property developers, investor clubs or where a finders fee exists; applicants purchasing a property from a company in which the applicant has an interest, back to back or sub sales, social housing schemes or distressed sales.
+
+## Help to Buy equity loan - Additional lending
+
+The customer must have evidence of permission from Homes England/Help to Buy (Wales) Ltd before submitting an additional loan application. 
+
+Additional lending can only be considered for staircasing (customer using the proceeds from the additional loan to repay their equity loan), essential modifications and transfer of equity (purchasing the full equity of the property from the current joint borrower). 
+
+If the customer is staircasing, a solicitor must be instructed.
+
+Where there is to be an equity loan outstanding on completion of the additional loan: 
+
+  * the maximum LTV calculated using the mortgage amount plus additional loan amount is 75% 
+  * the maximum LTV calculated using the mortgage amount, additional loan amount plus the outstanding equity loan amount is 85%.
+
+Where the equity loan is being repaid in full, normal LTV rules apply. 
+
+## Help to Buy equity loan - Transfer of equity
+
+The customer must have evidence of permission from Homes England/Help to Buy (Wales) Ltd is required before submitting a transfer of equity application.
+
+## Help to Buy equity loan - Porting
+
+If the customer has a mortgage with us where a Help to Buy equity loan is outstanding against their property, the customer is able to port their existing mortgage deal providing the equity loan is repaid upon sale of their current property and they meet our new lending criteria.
+
+---
+
+# Debt consolidation
+
+**Main URL:** [https://www.accordmortgages.com/criteria/debt-consolidation](https://www.accordmortgages.com/criteria/debt-consolidation)
+
+### Page contents
+
+[Debt consolidation](#debt-consolidation)
+[Applicant age for debt consolidation](#applicant-age-for-debt-consolidation)
+
+## Debt consolidation
+
+When capital raising for the purpose of debt consolidation (either secured or unsecured debts) the following applies:
+
+* Maximum LTV of 85%
+* Maximum of £50,000 of unsecured debts can be consolidated onto the mortgage
+* Maximum of 10 debts to be repaid (this can be a combination of both secured & unsecured)
+* Unlimited secured debts (against any property, i.e. primary residence, buy to let, second home), providing the above max 10 debt rule is still not exceeded
+* Not available when lending on interest only.
+* Maximum age 70 at the end of the mortgage term
+
+**Remortgages for debt consolidation have the following additional limits:**
+
+  * 85% LTV for customers able to meet our higher credit score requirement (maximum consolidation of £50,000 unsecured debt or 10 debts)
+  * 80% LTV for customers who meet our standard credit score requirement (maximum consolidation of £50,000 unsecured debt or 10 debts)
+
+## Applicant age for debt consolidation
+
+For applications with any element of debt consolidation, a maximum age of 70 years old at the end of the term applies.
+
+---
+
+## Property
+
+# Valuations
+
+**Main URL:** [https://www.accordmortgages.com/criteria/valuations](https://www.accordmortgages.com/criteria/valuations)
+
+### Page contents
+
+[Valuations for new borrowing](#valuations-for-new-borrowing)
+[Valuations for additional lending](#valuations-for-additional-lending)
+[Portability valuations](#portability-valuations)
+
+## Valuations for new borrowing
+
+**Valuation report**
+
+Valuation reports are valid for the following periods:
+
+* Physical valuation - 90 Days
+* Desktop valuation - 90 Days
+* Transcript - 90 Days
+* Homebuyers report- 30 Days
+
+**Scottish valuations**
+
+Every sale in Scotland is required to have a Home Report completed, and as long as this has been completed by a valuer on our panel, we can obtain a transcription from this for valuation purposes. All valuations and transcripts are valid for 90 days from the date they are issued. Any report must be no more than 90 days old at the time of offer.
+
+We have a large number of panel valuers in Scotland; however, please check with your dedicated Business Development Manager or Adviser before submitting an application.
+
+**Homebuyer reports already carried out**
+
+Unfortunately, we cannot accept Homebuyer or building surveys that have already been carried out on properties in England, Wales or Northern Ireland. All cases must have a valuation carried out by our approved panel of valuers.
+
+**Security of tenure**
+
+Properties with a large acreage of land attached must be valued on a 'house + immediate garden only' basis (usually up to two acres of land and assuming commensurate with property type).
+
+Accord's security will be the property and whole acreage of land.
+
+**Planning permission**
+
+Properties with the benefit of land with planning permission for a separate dwelling will be valued based on what the property would be worth without the planning permission, i.e. the land as garden area only.
+
+## Valuations for additional lending
+
+A revaluation is required where:
+
+* The new LTV exceeds 70% of the latest valuation (based on the existing borrowing and the proposed additional loan) or
+* The latest valuation type on the account is an external appraisal (EA) or desktop (AVM), regardless of LTV or the period since the previous valuation was carried out.
+
+## Portability valuations
+
+In all cases a new valuation will be carried out for all portability applications, regardless of whether a top-up product is required to determine the new loan to value (LTV) of the lending.
+
+---
+
+# Property Specifics
+
+**Main URL:** [https://www.accordmortgages.com/criteria/property-specifics](https://www.accordmortgages.com/criteria/property-specifics)
+
+### Page contents
+
+[Location of property](#location-of-property)
+[Unacceptable properties](#unacceptable-properties)
+[Properties with land](#properties-with-land)
+[Tenure](#tenure)
+[Flying freehold](#flying-freehold)
+[Properties above or below commercial](#properties-above-or-below-commercial)
+[Cladding](#cladding)
+[Japanese knotweed](#japanese-knotweed)
+[Tyneside flats](#tyneside-flats)
+[Unacceptable new build developments](#unacceptable-new-build-developments)
+[Steel framed](#steel-framed)
+[Mundic](#mundic)
+[Pre-cast concrete](#pre-cast-concrete)
+
+## Location of property
+
+Properties located in England, Wales, Scotland and Northern Ireland are acceptable. Properties located in outlying islands such as the Shetlands, Orkneys are acceptable however obtaining a valuation may cost considerably more if no panel valuer is located there. 
+
+If your applicant(s) are wishing to purchase/remortgage here you should confirm the cost with your underwriter and we may require written agreement to this prior to requesting the valuation.
+
+## Unacceptable properties
+
+The following property specifics are not permitted. Please note this list is not exhaustive; please also read the other articles on the property specifics page.
+
+  * No internal bathroom and W.C. or kitchen
+  * Liable to be subject to clearance or compulsory purchase order
+  * Freehold flats and maisonettes
+  * HMOs (Houses of Multiple Occupancy)
+  * Isolated rural properties with restricted access and services
+  * Office to residential conversion 
+  * Residential property divided into bed sitting rooms
+  * Studio flats 
+  * Flats with balcony access i.e. access via covered walkway
+  * New build maisonettes/apartments/flats where the LTV exceeds 90% 
+  * Live/work properties
+  * Shared ownership 
+  * Shared Equity (Help to Buy scheme permitted) 
+  * Right to Buy 
+  * Local Authority multi storey blocks (Some properties may be considered in certain locations, please contact your BDM) 
+  * Timeshare accommodation 
+  * Holiday homes 
+  * Dwellings of totally timber construction i.e. not clad with brick, stone etc, including the log cabin/chalet type of construction 
+  * Single brick (single skin) construction 
+  * Partially built property 
+  * Properties with restrictions in place that would affect future marketability and resale value 
+  * Properties requiring extensive multi-trade repair, that could not reasonably be lived whilst renovation work is being carried out
+  * City Properties with self-contained basement units which are (or are to be) let out 
+  * Ministry of Defence properties 
+  * Properties with two or more kitchens 
+  * Property comprising of more than one dwelling 
+  * Two-storey property where one is a commercial unit
+  * Properties with spray foam insulation / sealed roofs used including those where it was used and subsequently removed. 
+
+## Properties with land
+
+Properties with a large acreage of land attached must be valued on a 'house + immediate garden only' basis (usually up to two acres of land and assuming commensurate with property type).
+
+Accord's security will be the property and whole acreage of land.
+
+## Tenure
+
+Acceptable Tenure: Freehold and Leasehold in England and Wales (houses only - freehold flats are not acceptable)
+
+Acceptable Tenure in Scotland: Absolute and Outright Ownership (houses and flats.)
+
+**Leasehold and ground rent**
+
+  * There should be at least 85 years unexpired lease remaining at the start of the mortgage application
+  * There cannot be a provision that the lease is forfeit if the lessee becomes bankrupt
+* Any new leases from 30th June 2022 must not charge more than a nominal amount for ground rent, such as £1 annually - this includes voluntarily extended leases.
+  * Maximum initial ground rent to be no higher than £1,000 per annum
+  * Ground rent reviews to be a minimum of 21 years from the beginning of the lease, and at no more frequent intervals thereafter
+  * Increases in ground rent, at review, must be limited to no more than the higher of:
+  * a doubling of the rent payable immediately prior to the review or,
+  * a figure increased in accordance with the percentage change in RPI/CPI over the previous review period.
+
+**Estate rent-charge/freehold service charge**
+
+Maximum initial estate rent-charge/freehold service charge be no higher than £500 per annum in present value and must be no more than double every 25 years.
+
+## Flying freehold
+
+Flying freehold is only acceptable where it is 15% or less of the whole property footprint.
+
+## Properties above or below commercial
+
+These properties must meet the following: 
+
+  * Have at least 3 storeys in the block of flats (to include commercial premises) - our property can be on any floor. 
+  * The valuer must confirm there is consistent and reliable demand for the property and the commercial element is acceptable.
+
+## Cladding
+
+Where the valuer has requested an EWS1 form due to the cladding being present on the property the following guidance will apply. 
+
+A completed EWS1 form will be required from a member of a relevant professional body, along with a covering letter on headed paper which will confirm they are suitably qualified. This will then be assessed by our underwriters. 
+
+If an EWS1 form is not available for a new build property a letter from the developer can now be accepted. This is subject to the letter being on a headed letter with the developer's company details clearly present. The letter must confirm that the property is being built in accordance with the Building (Amendment) Regulations SI 2018/1230 and/or, that there are no materials included in the building of the flats that would cause an EWS1 form to be unsuitable.
+
+## Japanese knotweed
+
+If Japanese knotweed is present at the property, the valuer must confirm what category/stage the knotweed is at and the following rules must be applied; 
+
+  * Category A and B – The property may be considered as acceptable for mortgage purposes, subject to an inspection by a suitably qualified remediation specialist and commitment shown to the start of any recommended works under an insurance backed Japanese knotweed Management Plan.
+  * Category C and D – Acceptable to lend.
+
+If the valuer identifies a heavy stand of Japanese knotweed on neighbouring land (e.g. very close to the boundary) that may present a threat, the subject property should be declined.
+
+## Tyneside flats
+
+Accord Mortgages will require a charge to be taken over the freehold in addition to a charge over the leasehold title.
+
+## Unacceptable new build developments
+
+Unfortunately, we are unable to accept applications for some new build developments.
+
+Use our handy [New build development checker tool](https://www.accordmortgages.com/tools/new-build-development-checker) to check before you submit an application.
+
+## Steel framed
+
+An Intrusive Structural Report (in accordance with BRE113) must be obtained on all pre-1980 steel.
+
+## Mundic
+
+Mundic Properties are of concrete block construction, often found in Cornwall and Devon. Concrete deteriorates and in the worst cases the property may need to be demolished. 
+
+If a test is required by the valuer this must be obtained before mortgage offer. 
+
+We consider the gradings as follows:
+
+A - Acceptable
+
+A/B - Should be referred to the valuer to check it doesn't affect his valuation
+
+B and below - Not acceptable
+
+## Pre-cast concrete
+
+Precast reinforced concrete properties, designated under the Housing Act 1985, part XVI are acceptable if the property has undergone licensed repairs. If the property is a flat, or adjoined to an unrepaired PRC property, then it is unacceptable, regardless of a report.
+
+---
+
+# New Build
+
+**Main URL:** [https://www.accordmortgages.com/criteria/new-build](https://www.accordmortgages.com/criteria/new-build)
+
+### Page contents
+
+[Loan size and LTV limits for new builds](#loan-size-and-ltv-limits-for-new-builds)
+[Acceptable warranties for new builds](#acceptable-warranties-for-new-builds)
+[Acceptable incentives for New builds](#acceptable-incentives-for-new-builds)
+[Unacceptable new build developments](#unacceptable-new-build-developments)
+
+## Loan size and LTV limits for new builds
+
+New build properties are subject to the following maximum loan and LTV limits:
+
+| Property type | Loan size* | Max LTV |
+| ------------- | ----------- | ------- |
+| House/flat    | Up to £5m   | 75%     |
+| House/flat    | Up to £2.6m | 85%     |
+| House/flat    | Up to £1m   | 90%     |
+| House         | Up to £750k | 95%     |
+
+\*Some products also have a minimum loan requirement, please check this before applying.
+
+## Acceptable warranties for new builds
+
+Acceptable new build warranties are:
+
+* NHBC
+* Premier Guarantee
+* LABC
+* Building Life Plans (BLP)
+* Build-Zone
+* Checkmate/Castle 10 (nb. where out buildings such as a detached garage are also being constructed an endorsement to include these in cover is required)
+* Build Assure
+* Global Home Warranties
+* The Q Policy for Residential Properties
+* The Q Policy for Bespoke Properties
+* Protek
+* Advantage (There must be no more than 10 units in any continuous structure)
+* International Construction Warranties (ICW)
+* Ark Residential New Build Latent Defects Insurance. (Where a detached garage/outbuilding has been constructed at the same time as the main building the policy must include an endorsement confirming cover for the detached garage/out building)
+* Aedis (nb. There must be no more than 20 units in the structure)
+* One Guarantee
+* CRL new build 10-year structural defects insurance policy for residential property**
+
+\*\* New properties where the insurer is International General Insurance Company (UK) Ltd and Ark have signed the final certificate. Please see the final paragraph on the final certificate which will confirm Ark details and the fact they are signing on behalf of the insurers: Acceptable.
+
+**Modern Methods of Construction (MMC)**
+
+Many different types of construction are now being designed and developed employing off-site manufacture. These often have a timber or a light gauge steel frame, with a variety of claddings. Such properties are acceptable subject to a satisfactory report from the valuer confirming their saleability and demand.
+
+Ideally, the property should be approved under (BOPAS) Buildoffsite Property Assurance Scheme which means that it has passed a 60 year durability assessment and has a 12 year structural warranty.
+
+Acceptability will be reviewed by the Group's valuers based upon:
+
+* Planning/Building regulation compliance
+* Acceptable New Build Warranty or Professional Consultants Certificate in standard CML format
+* Eligibility for buildings insurance cover on normal terms
+* Acceptability to other mainstream lenders
+* 60 years minimum design life assessment tested by a British accredited body (i.e. BBA or BRE)
+* Satisfactory construction standards, site and valuation.
+
+## Acceptable incentives for New builds
+
+Acceptable builders incentives:
+
+* For houses and bungalows: the maximum allowable builder's incentive is 5%. If the total value of incentives exceeds 5% of the purchase price, the difference should be deducted from the purchase price and LTV calculated on the lower figure
+* For flats and maisonettes: where the builder's incentive is cash back or deposit paid, this is not acceptable unless the full incentive is deducted from the purchase price to calculate the loan to value. Any other incentives must not exceed 5%.
+
+## Unacceptable new build developments
+
+Unfortunately, we are unable to accept applications for some new build developments.
+
+Use our handy [New build development checker tool](https://www.accordmortgages.com/tools/new-build-development-checker) to check before you submit an application.
+
+---
+
+# Letting
+
+**Main URL:** [https://www.accordmortgages.com/criteria/letting](https://www.accordmortgages.com/criteria/letting)
+
+### Page contents
+
+[Consent to let out](#consent-to-let-out)
+[Property already let out](#property-already-let-out)
+[Let to buy (LTB)](#let-to-buy-ltb)
+
+## Consent to let out
+
+Your client can apply for consent to let whilst holding a residential mortgage. They will need to complete an application form and if granted a loading of up to 1% will be applied to the current mortgage rate. Unauthorised lets can be chargeable with a loading of up to 2%.
+
+Please direct your client to [Renting out your home](https://www.accordmortgages.com/existing-customers/renting-out-your-home) where further details can be found.
+
+## Property already let out
+
+The following criteria for let properties is subject to our underwriters discretion and we may make exceptions in certain circumstances. We normally expect all existing mortgages to be self-financing.
+
+The outstanding mortgage(s) can be ignored if the property is already let from the date of application and the monthly rental amount is at least 145% of the monthly mortgage payment at 5% interest*.
+
+Where the monthly rental payment does not cover mortgage payments by 145% at an interest of 5%*, we will calculate the deduction as the monthly mortgage payment multiplied by 145% minus the monthly rental income. If the rental income does not meet at least 100% of the calculation the full mortgage payment will be taken as a commitment.
+
+\*As the majority of Buy to Let properties are mortgaged on an interest only basis, we use an interest rate of 5% on the outstanding mortgage (as evidenced on the credit records) to determine if the rental income meets the 145% rule.
+
+The applicant(s) may be asked to provide:
+
+* Bank statements for the period that the property has been let
+* Evidence of the last 12 months mortgage payments
+
+## Let to buy (LTB)
+
+Let to Buy (LTB) applications are acceptable.
+
+The anticipated monthly rent should cover the monthly mortgage payment by 145% at an interest rate of 5%*. If it does not we will calculate the deduction as the monthly mortgage payment multiplied by 145% minus the monthly rental income. If the rental income does not meet at least 100% of the calculation the full mortgage payment will be taken as a commitment.
+
+\*As the majority of Buy to let properties are mortgaged on an interest only basis, we use an interest rate of 5% on the outstanding mortgage (as evidenced on the credit records) to determine if the rental income meets the 145% rule.
+
+The applicant(s) may be asked to provide: 
+
+  * Verification of rental Income - A copy of the rental valuation document which must have been completed by an ARLA registered agent
+  * Consent to Let - Evidence the customer has consent to let
+  * Verification of future mortgage balance - If the customer is applying to re-mortgage the property to a BTL – a copy of the KFI or ESIS document will be required to evidence the future mortgage balance.
+
+---
+

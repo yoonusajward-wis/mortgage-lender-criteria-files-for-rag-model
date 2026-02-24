@@ -1,0 +1,543 @@
+# Cumberland Building Society – Residential Mortgage Criteria
+
+---
+
+**LENDER:** Cumberland Building Society
+**PRODUCT:** Residential Mortgage
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** April 2025
+**FOR INTERMEDIARY USE ONLY**
+
+**Source:** https://www.cumberland.co.uk/intermediaries/residential/lending-criteria
+**PDF:** https://www.cumberland.co.uk/neon/download/file/2025-26/pdf/cumberland/intermediary-residential-criteria-guide-april-2025.pdf
+
+**Contact:**
+- Phone: 01228 403312
+- Email: intermediaries@cumberland.co.uk
+- Address: Cumberland House, Cooper Way, Parkhouse, Carlisle, CA3 0JF
+
+> **Important:** Applications are currently only accepted from intermediaries located within the branch operating area unless already registered.
+
+---
+
+## SECTION 1 – APPLICANT ELIGIBILITY
+
+### Age
+
+- Minimum age: 18 years old.
+- Maximum age to be classed as not lending in/into retirement: 70 years old.
+- Maximum age at end of mortgage term: 80 years old (Interest Only) or 85 years old (Repayment).
+
+### Residency
+
+- Individual borrowers must be resident in the UK.
+- Non-UK Nationals will be considered where the applicant is UK based/employed, subject to UK laws and taxes, and has permanent right of residency.
+  - Additional evidence required: proof of Right of Residency; all documents must be in English.
+- Members of the Armed Services or UK nationals returning from working abroad are acceptable.
+- The borrower being resident outside of the UK is outside policy (excluding British Armed Forces).
+- The borrower being a limited company incorporated outside of the UK is outside policy.
+
+### Number of Applicants
+
+- Maximum of 4 joint applicants.
+- More than 4 joint applicants is outside policy.
+
+### Know Your Customer (KYC)
+
+The Society completes E-ID using bureau checks on receipt of a full application. Where the applicant fails E-ID, they must provide at least one document from List A and one from List B.
+
+**List A – Evidence of Identity:**
+- Valid UK Passport
+- Valid EEA Passport or EU member state ID card
+- International Passport
+- Biometric Residence Permit
+- Valid full UK Driving Licence Photocard (full or provisional)
+- Birth Certificate
+- Firearms or Shotgun Certificate
+- Government issued Benefit statement (e.g. Child Benefit, DWP)
+- HMRC tax assessment (coding notice or statement)
+- UK Armed Forces card or letter from commanding officer
+- Adoption Certificate
+- Home Office Immigration Status documents
+
+**List B – Verification of Address:**
+- Mortgage statement
+- Valid full UK Driving Licence Photocard (full or provisional)
+- Bank or Building Society statement
+- Credit card statement
+- Financial statement (e.g. pension or endowment)
+- Council Tax statement
+- Utility bill
+- Government issued Benefit statement (e.g. Child Benefit, DWP)
+- Irish Passport Card
+- Letter from Headteacher or College principal
+- P45 or P60 statement
+- Payslip
+
+**Evidence of Current Address:**
+- Most recent two full months' bank statements showing client name, address, account number and sort code for all accounts.
+
+**Address Residency History:**
+- Residency history over the 3 years prior to the application, evidenced by the Society's credit search.
+
+---
+
+## SECTION 2 – CREDIT HISTORY
+
+### Credit Impaired – No Lend
+
+Lending to credit impaired customers is outside policy. A credit impaired customer is one where:
+
+- The credit reference search shows that in the last 2 years they have been 3 months or more overdue on a mortgage or loan (secured or unsecured).
+- The credit reference search shows that in the last 3 years they have had 1 or more CCJs (settled or unsettled) with a total value of greater than £500 (including CCJs granted more than 3 years ago but remaining unsettled within the last 3 years).
+- They have been subject to an IVA or Bankruptcy Order which was in force at any time within the last 3 years.
+
+### Credit History – Within Policy
+
+Applicants are expected to:
+
+- Be registered on the electoral register at their current address.
+- Have arrears no greater than 2 months in the last 2 years (excluding mortgages — see mortgage conduct below).
+- Have no current arrears.
+- Have no current defaults.
+- Not have exceeded their overdraft or credit card limits by more than £250.
+
+Applicants with the following are within criteria:
+
+- 1 or more CCJs in the last 3 years to a Communications Supplier, Mail Order or Utilities with a total value of less than £500.
+- Arrears of 2 months or more within the last 2 years to a Communications Supplier, Mail Order or Utilities.
+
+### Mortgage Conduct
+
+Mortgages within policy:
+
+- No mortgage arrears in last 12 months.
+- Maximum 1 month's arrears in last 13–24 months.
+
+Arrears of 3 months or more within last 2 years is a No Lend. Anything outside the above criteria requires referral with mitigating circumstances. Applicants must declare on application if a loan has been declined by another lender.
+
+### Rental Conduct
+
+- No rent arrears within the last 2 months.
+
+### Credit Searches
+
+A credit search will be completed by the Society on receipt of a full application and consent from applicants.
+
+---
+
+## SECTION 3 – INCOME CRITERIA
+
+Unless otherwise stated, 100% of the following income types will be used in the affordability assessment.
+
+### 4.4.1 Employed Income
+
+- Basic annual income (including shift, unsocial hours, commission and allowances) from first or second job.
+- Permanent / not under notice of termination or redundancy / seasonal or commission-only employment accepted.
+- **Evidence:** Most recent 2 monthly (or equivalent) payslips.
+- Where the customer has recently changed or is due to change job/salary (within the next 3 months): a signed contract or offer letter is acceptable where payslips are not available.
+- Where an applicant is on paternity/maternity leave and intends to return on different terms: most recent 2 payslips plus evidence of return-to-work date and revised salary (e.g. copy of revised contract).
+
+**Bonuses:**
+- Evidence to be issued by employer, payslip containing bonus payment, or last 2 P60s (2-year average will be used).
+
+**Fixed Term Contracts:**
+- Current contract must be for a minimum of 12 months with at least 6 months remaining, OR a 2-year track record must exist.
+- Evidence: most recent 2 monthly payslips, contract and up to 2 P60s.
+
+**Zero Hours Contracts:**
+- Acceptable where the applicant has been with their existing employer for at least 12 months.
+- Evidence: most recent 2 monthly payslips and most recent P60 (or March year end payslip from same year). Average of last 2 months' payslips to be used.
+
+### 4.4.2 Self-Employed Income
+
+**Sole Traders and Partnerships:**
+- Must have been trading for a minimum of 1 year; the most recent year's income will be used.
+- Evidence: last 1 year SA302s or last 1 year tax computation with corresponding HMRC tax year overview; last 2 months' business bank statements.
+
+**Limited Companies or Limited Liability Partnerships (shareholding ≥25%):**
+- Certified year-end accounts will also be required in the following circumstances:
+  - Where SA302 year-on-year shows affordability is not evident on the latest year but would be on a 2-year average.
+  - Where the applicant wishes to use net profits rather than current drawings and is a majority shareholder.
+  - Where the mortgage is >80% LTV or the loan amount is >£1m.
+
+**Limited Companies or Limited Liability Partnerships (shareholding <25%):**
+- Assessed as employed income.
+
+**Self-Employed with Income from a Single/Main Contract Only:**
+- Must have been self-employed for at least 1 year.
+- Confirmation of the current contract in place is required.
+
+**Dividend Income:**
+- Dividend income from shares: the level of historic dividend income is no longer considered a reliable indicator of future dividend income.
+- Dividend income from the applicant's own business: see Limited Companies/LLPs above.
+
+### 4.4.3 Pension Income
+
+**State Pension:**
+- Evidence: last 2 months' bank statements evidencing the pension credit. Annualised.
+
+**Private Pension:**
+- Evidence: last 2 months' pension payslips or last 2 months' bank statements showing pension credits.
+
+### 4.4.4 Benefits Income
+
+- No Lend where benefit income represents more than 50% of total household income.
+
+**Universal Credit:**
+- Evidence: most recent Benefit Confirmation letter and last 2 months' bank statements evidencing credits.
+
+**Working Family Tax Credit / Child Tax Credits:**
+- Evidence: last 2 months' bank statements evidencing credits.
+
+**Disability Living Allowance / Personal Independence Payment:**
+- Maximum 60% allowed for affordability.
+- Evidence: last 2 months' bank statements evidencing credits.
+
+**Child Benefit:**
+- Evidence: last 2 months' bank statements evidencing credit.
+- Not acceptable when the applicant earns over £60,000.
+
+### 4.4.5 Maintenance Income
+
+- Evidence: copy of Court Order, CSA Confirmation Letter or signed Child Maintenance Agreement, alongside last 2 months' bank statements evidencing credits.
+
+### 4.4.6 Foster Care Income
+
+- Evidence: last 2 years' SA302s (average amount will be used); letter from the Foster Agency confirming income paid for the last 2 years and that the most recent year's income is likely to continue for the foreseeable future.
+
+### 4.4.7 Rental Income
+
+- Evidence: last 2 months' bank/savings account statements evidencing regular monthly credits.
+
+### 4.4.8 Investment Income
+
+- Includes SIPP income and income drawdown pensions.
+- Evidence: most recent portfolio valuation (dated within last 12 months); income calculated as 4% of this figure, or as confirmed by the fund manager.
+
+### 4.4.9 Allowances
+
+100% of the following allowances are acceptable:
+
+- Car Allowance
+- Large City Allowance
+- Shift / Weekend / Anti-Social Hours
+
+### 4.4.10 Income Multiples
+
+- Up to 6x sole/joint gross income where LTV ≤80%.
+- Up to 6x where sole/joint gross income is ≥£40,000 and LTV >80%.
+- Up to 4.49x where sole/joint gross income is <£40,000 and LTV >80%.
+- Where sole or joint income is ≤£40,000, LTV exceeds 80% and income multiplier is higher than 4.49x: outside policy (No Lend).
+
+---
+
+## SECTION 4 – PROPERTY ELIGIBILITY
+
+### Construction
+
+- Traditional construction on mainland UK (including Anglesey, Arran, Isle of Wight and Isles of Mull, Skye & Harris): acceptable.
+- Non-standard construction where insurance covering the construction type cannot be obtained: outside policy.
+- Property that is a temporary or movable structure: unable to mortgage.
+- Self-builds: No Lend. Defined as a property completely renovated with vacant possession for full refurbishment, or conversion of a property not previously habitable or residential.
+- Uninhabitable property: No Lend. Defined as a property without an internal working kitchen or bathroom.
+- Loans secured on property outside England, Scotland or Wales: outside policy (for islands, see Construction criteria).
+
+### Tenure
+
+- Freehold properties (feudal tenure in Scotland).
+- Leasehold properties with a minimum of 85 years unexpired lease at the start of the mortgage and a minimum of 50 years at the end of the term.
+- Leasehold flats of no more than 6 storeys high and not over commercial premises.
+- Freehold flats: not accepted.
+
+### Acreage
+
+- Maximum acreage of property/land: 12 acres.
+- Cannot consider where there are any farm subsidies, land/grass letting or commercial usage class on the title.
+
+### Structural and Non-Structural Home Improvements
+
+- Both structural and non-structural home improvements are considered.
+
+### Affordable Housing and Shared Ownership
+
+- Social Affordable Housing: a copy of the Section 106 agreement must have been approved by the Society.
+- Shared Ownership / Shared Equity: minimum customer stake of 5% of the share being purchased.
+- Help to Buy and Affordable Home schemes: accepted.
+- Shared Ownership and affordable housing considered for properties located within the core operating area only.
+
+### Additional (Collateral) Security
+
+Where additional security is taken in addition to a 1st charge over the mortgaged property (by way of legal charge or guarantee), examples include:
+
+- Loans supported with a charge over another property.
+- Loans supported with a charge over the surrender value of a with-profits endowment policy.
+- Loans supported with a lien/charge over a savings account with the Society.
+- Loans supported by a guarantor.
+
+### Purchase at Undervalue
+
+- Purchases at undervalue where the difference between valuation and purchase price is up to 25%.
+
+---
+
+## SECTION 5 – LTV AND LOAN LIMITS
+
+### Maximum Loan Amount by LTV
+
+- Loan amount £0 – £600,000: maximum LTV 95%.
+- Loan amount £600,001 – £1,000,000: maximum LTV 85%.
+- Loan amount over £1,000,000: maximum LTV 80%.
+
+### Maximum LTV by Lending Type
+
+- Purchase: 95%.
+- Remortgage: 90%.
+- Interest Only (repayment vehicle): 80%.
+- Interest Only (sale and downsize): 65%.
+- London and South East: 80%.
+- Lending in Retirement: 70% (sale and downsize not available).
+- Lending into Retirement – Capital and Repayment: 80%.
+- Lending into Retirement – Interest Only (repayment vehicle): 80%.
+- Lending into Retirement – Interest Only (sale and downsize): 50%.
+- Buy to Let: 75%.
+- Holiday Let: 75%.
+- New Build Houses: 90%.
+- New Build Flats: 80%.
+- Loans with Debt Consolidation: 80%.
+- Loans with Stressed Debt Consolidation: 60%.
+
+### No Lend – LTV and Term Limits
+
+- LTVs above 95% (excluding fees) for owner-occupied residential mortgages.
+- Terms in excess of 40 years.
+- Total loan value greater than £6m for a single loan.
+- Total loan value greater than £15m for a single counterparty connected by legal liability.
+
+### Minimum Loan Amount
+
+- £20,000 (standard).
+- £50,000 for exclusive First Time Buyer products.
+
+### Mortgage Term
+
+- Minimum term: 2 years.
+- Maximum term: 40 years.
+
+### High-Risk Indicators (Loans >90% LTV)
+
+If two or more of the following are present, a referral to Underwriters is required at DIP stage (this will increase processing time):
+
+- Employed for less than six months with current employer.
+- Not in continuous employment for the last two years.
+- Employed on a fixed-term or zero-hours contract.
+- Self-employed.
+- Gifted deposit.
+- Any low-level credit issues (within criteria) or payday loans.
+- Income multiple above 4.49x (sole/joint gross income ≥£40k — No Lend if <£40k).
+
+---
+
+## SECTION 6 – LENDING IN AND INTO RETIREMENT
+
+### Lending in Retirement
+
+Where any applicant has stated at application stage that they have already retired or are aged 70 or older.
+
+- Maximum LTV: 70%.
+- Sale and downsize is not available for applicants already in retirement.
+
+### Lending into Retirement
+
+Where the mortgage term would extend past the oldest applicant's 70th birthday or past any applicant's stated retirement age (whichever is soonest).
+
+- Maximum age at end of term (Interest Only): oldest applicant's 81st birthday.
+- Maximum age at end of term (Capital and Interest): oldest applicant's 86th birthday.
+- Where any applicant is within 10 years of retirement: the loan must be evidenced as affordable on expected retirement income as well as current income.
+- Where applicants are more than 10 years from retirement: validation that the customer has a private pension is required.
+
+### Acceptable Pension-Related Income
+
+- State Pension
+- Private Pension
+- Pension Credits
+- Annuities
+- SIPP – investments
+- SIPP – rental/property
+- Pension investment income (e.g. dividends within SIPP share portfolio)
+
+---
+
+## SECTION 7 – AFFORDABILITY ASSESSMENT
+
+### Income Multiple
+
+- Up to 6x sole/joint gross income where LTV ≤80%.
+- Up to 6x where sole/joint gross income is ≥£40,000 and LTV >80%.
+- Up to 4.49x where sole/joint gross income is <£40,000 and LTV >80%.
+
+### Bank Statements
+
+Last 2 full monthly main bank statements evidencing no high-risk indicators are required:
+
+- Where the mortgage is >80% LTV.
+- Where the mortgage is for debt consolidation.
+- Where being used to evidence supplementary income.
+
+The Society may also request bank statements if, following a credit search, supporting information is required.
+
+### Other Affordability Considerations
+
+- Loans where affordability can be proven following a known variation in income and/or expenditure during the loan term.
+- Loans where the term extends into retirement: see Section 6.
+- Loans where there is a non-dependent adult occupant who is not a party to the mortgage: non-dependent adult occupiers do not need to be included in the Income and Expenditure Profile (IEP); proof of their income is not required. They must sign a Waiver.
+
+---
+
+## SECTION 8 – DEPOSIT CRITERIA
+
+- Sale proceeds of a property completing at the same time as the mortgage: no evidence required — solicitor will conduct due diligence.
+- Sale proceeds of an earlier property or asset sale (e.g. boat, business, shares): no evidence required — solicitor will conduct due diligence.
+- Savings: no evidence required — solicitor will conduct due diligence.
+- Gift from a relative or third party (must be non-repayable): a gift letter is always required — solicitor will conduct due diligence.
+
+---
+
+## SECTION 9 – INTEREST-ONLY CRITERIA (RESIDENTIAL OWNER-OCCUPIED ONLY)
+
+Interest Only loans are granted subject to a credible and fully evidenced repayment strategy. The cost of the repayment strategy must be included within the affordability assessment.
+
+### Repayment Strategy – Sale and Downsize
+
+- Maximum LTV: 65%.
+- Maximum LTV where loan term extends into retirement for any applicant: 50%.
+- Not available if any applicant is already retired.
+- Maximum loan size on interest only: £2,000,000.
+- On a part and part basis: max as above on interest only terms; could increase to 80% with remainder on capital and interest basis.
+
+**Equity Buffers (where repayment is from sale of mortgaged property):**
+
+- In Area: £150,000.
+- Rest of UK: £200,000.
+- South East: £300,000.
+- London: £350,000.
+
+### Repayment Strategy – Maximum LTV 80%
+
+**Endowment Policy:**
+- Most recent bonus statement showing premium, maturity date and projected maturity value (dated within last 12 months); and bank statement showing the most recent payment to confirm the policy is in force.
+- Projected value: the Society assumes the middle of the three scenarios prescribed by the FCA taking inflation into account (0.5%, 2.5% and 4.5% from July 2018).
+
+**Regular Payment Cash/Stocks & Shares ISA (UK):**
+- Most recent annual statement (dated within last 12 months) showing current value; and bank statement showing most recent payment to ISA.
+
+**Investment Portfolio:**
+- Most recent annual statement (dated within last 12 months) showing current value at end of mortgage term; and bank statement showing most recent payment to the plan (if applicable).
+
+**Sale of Another Property:**
+- Valuation within previous 6 months; proof of ownership; and most recent annual mortgage statement (if mortgaged).
+- Maximum 80% of current value (i.e. repayment strategy will remain sufficient if property value falls by 20%), less any lending on the property.
+
+**Tax-Free Lump Sum from Personal/Employer Pension:**
+- Most recent annual pension statement showing projected value at anticipated retirement date; and maximum available to be drawn as lump sum on retirement in a defined benefit scheme.
+
+**Cash Savings Held in Notice/Fixed Term Account:**
+- Up to date savings statement confirming balance. No Lend if savings cannot be evidenced.
+
+---
+
+## SECTION 10 – DEBT CONSOLIDATION
+
+### Standard Debt Consolidation
+
+- Defined as when more than 50% of the funds being raised are to repay existing credit commitments.
+- Maximum LTV: 80%.
+- Maximum loan amount: £50,000.
+
+### Stressed Debt Consolidation
+
+- Defined as when the loan is not affordable without the repayment of existing credit commitments, or the customer advises they are in financial distress and need to repay specific credit commitments.
+- Maximum LTV: 60%.
+- Maximum loan amount: £50,000.
+- Evidence required:
+  - 2 months' bank statements evidencing that the customer can afford current outgoings, or that the saving will be sufficient to allow the customer to meet all expenditure.
+  - Credit commitments being repaid from the new loan must be repaid by the Society or Solicitor.
+
+---
+
+## SECTION 11 – CRIMINAL CONVICTIONS
+
+- Borrowers with a criminal conviction which is spent under the Rehabilitation of Offenders Act 1974 are within criteria.
+- A minor traffic offence (e.g. fixed penalty notice) is not considered a criminal conviction and is therefore within criteria.
+- No Lend where an applicant has an unspent criminal conviction.
+
+---
+
+## SECTION 12 – FOREIGN CURRENCY LOANS
+
+A Foreign Currency Loan is defined as a Pounds Sterling loan provided to either:
+
+- A customer who has income received in a currency other than Pounds Sterling, or
+- A customer whose repayment strategy for an interest-only loan is in a currency other than Pounds Sterling.
+
+Non-sterling loans are outside policy.
+
+### Customer Income in a Foreign Currency
+
+- Normal income evidence applies.
+- If all or part of the foreign income is required to demonstrate affordability, affordability for the foreign currency part is assessed by applying a 20% depreciation to that income (to reduce the effect of a 20% reduction in the exchange rate).
+- Exchange Rate Risk: Underwriters may impose a condition requiring a charge over a deposit account containing 6 months' mortgage payments (at product rate) to cover any shortfall arising from exchange rate fluctuations.
+
+### Repayment Strategy Involving a Foreign Asset
+
+- Non-sterling stocks and shares: the asset's suitability is assessed and depreciated by 20%; the sterling equivalent is then considered as the appropriate level for the repayment strategy on that part of the loan.
+- Property owned abroad is not accepted as a suitable repayment strategy.
+
+---
+
+## NO LEND SUMMARY
+
+**Credit History:**
+- 3 or more months' arrears on a mortgage or loan in the last 2 years.
+- 1 or more CCJs with a total value over £500 in the last 3 years.
+- IVA or Bankruptcy Order in force at any point within the last 3 years.
+
+**LTV and Term:**
+- LTV above 95% for owner-occupied residential mortgages.
+- Mortgage term exceeds 40 years.
+
+**Income:**
+- Income verification is self-certified.
+
+**Loan Size:**
+- Single loan above £6,000,000.
+- Single counterparty connected by legal liability above £15,000,000.
+
+**Applicants:**
+- More than 4 joint applicants.
+- Borrower is a limited company incorporated outside the UK.
+- Borrower is resident outside the UK (excluding British Armed Forces).
+- Any customer under 18 years old.
+
+**Property:**
+- Valuation report does not consider the property suitable security.
+- Property is located outside England, Scotland or Wales.
+- Non-standard construction where insurance cannot be obtained.
+- Comprehensive buildings insurance cannot be obtained.
+- Self-build or uninhabitable property.
+
+**Products:**
+- Non-sterling loans.
+- Syndicated loans.
+- Equity release products.
+- Trust funds in any form (income, deposit or beneficiary).
+
+**Benefits:**
+- Benefit income exceeds 50% of total household income.
+
+**Criminal:**
+- Applicant has an unspent criminal conviction.
+
+---
+
+*END OF DOCUMENT*

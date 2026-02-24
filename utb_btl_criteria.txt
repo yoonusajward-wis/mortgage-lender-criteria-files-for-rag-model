@@ -1,0 +1,333 @@
+LENDER NAME: Utb
+PRODUCT: Buy to Let
+
+# UTB Mortgages - Buy to Let Lending Criteria
+
+**Last Updated:** August 2025  
+**Source:** UTB Criteria Guide - Buy to Let Mortgages v1a  
+**For Intermediaries Only**
+
+---
+
+## Overview
+
+We understand that each person is unique and that many cases are too complex for the 'High Street'. Where customers have circumstances that require a bit more flexibility, you need a lender who'll take a different view.
+
+---
+
+## Our Product Offering - Buy to Let
+
+- At least one applicant must be under 85 years old at the end of the mortgage term
+- 20% of shareholders do not have to be named on the application ie: children
+- Lending available to 80% LTV + fees
+- No minimum income requirements (Except if first time buyer holiday lets)
+- Up to four applicants on an application
+- Remortgage available from 3 months ownership at market value
+- Rental agreements over £100,000 per year considered (subject to referral)
+- Property of non-standard construction accepted
+- Comfortable with close proximity to 'difficult' commercial property ie: above a chip shop
+- Holiday lets and air bnb – agent's projections or 12 month income history accepted
+- Investor dominated developments subject to referral being accepted
+- MUB and HMOs up to 10 units / 10 beds
+- Minor adverse accepted (over 2 years old)
+- New build properties/off plan purchase accepted
+- Unlimited portfolio size for landlords
+- Up to 6 properties can be mortgaged with UTB or max UTB lending exposure of £2.5m per UTB borrower
+
+---
+
+## Our Winning Service Formula
+
+- Dedicated National BDM team
+- Direct access to an underwriter
+- Manual underwriting
+- AVMs available
+- Intuitive technology to accelerate processing
+
+**Contact Information:**
+- For new case enquiries: T: 02070311551 | E: mortgage.enquiries@utbank.co.uk
+- Portal login: [www.utbankmortgages.co.uk](https://www.utbankmortgages.co.uk)
+- [Register with UTB](https://www.utbankmortgages.co.uk)
+- [Find your BDM](https://www.utbankmortgages.co.uk)
+
+---
+
+# Buy to Let Mortgages - Detailed Criteria Guide
+
+## Loan Parameters
+
+* **Maximum LTV**:
+
+  * 80% (Standard)
+  * 80% (Specialist)
+  * 75% (Non-Standard)
+
+* **Minimum Loan**: £50,000
+
+* **Maximum Loan**:
+
+  * £1.5m up to 65% LTV
+  * £1.0m up to 75% LTV
+  * £500,000 up to 80% LTV
+
+* **Maximum with UTB**: Up to 6 properties can be mortgaged with UTB or max UTB lending exposure of £2.5m per UTB borrower (updated per latest USP sheet - September 2025).
+
+* **Term**: 5–25 years
+
+* **Remortgage**: Property must have been owned for at least 3 months and registered in the borrower’s name at Land Registry.
+
+* **Offer Validity**: 3 months
+
+* **Consumer BTL**: Not allowed. If the client is already a landlord with other rental property, it is acceptable. Contact UTB if the subject property is the client’s only BTL.
+
+---
+
+## Portfolio Landlords
+
+* **Applicants**:
+  Any individual applicant or Ltd Company (SPV) applicant who owns other BTL properties.
+
+  * Borrowers with 4+ properties must provide the latest 3 months’ bank statements.
+
+* **Portfolio Requirements**:
+
+  * Portfolio must be entered into the portal or BTL Hub.
+  * Maximum 10 properties with UTB or elsewhere.
+
+* **Background Portfolio ICR**:
+
+  * Must be at least 125% at a mortgage rate of 5%.
+  * UTB may require additional assurance if portfolios are highly geared.
+
+---
+
+## Capital Repayments
+
+* **Mortgage Repayment**: Capital repayment can be applied for on the same ICR basis as interest-only mortgages. The actual mortgage payment must be covered by assessed rental income.
+
+* **Overpayments**: Up to 10% of the outstanding balance can be repaid annually as a lump sum without penalty.
+
+---
+
+## Property Criteria
+
+* **Values**:
+
+  * Houses: Minimum £100,000, maximum £5m.
+  * Flats: Minimum £125,000.
+
+* **Flats**:
+
+  * Acceptable up to 30 floors.
+  * 4th floor or higher requires a lift.
+  * Minimum size: 30 sq.m.
+
+* **Lease Term**: Minimum 60 years remaining at completion.
+
+* **Exposure Limits**:
+
+  * Max of 10 units or 25% of a block (whichever is greater).
+  * Overall maximum: 15 units.
+  * Charge over freehold may be required where there is common/related ownership with the leasehold.
+
+* **Holiday Lets**: Accepted where demand exists for short-term lettings.
+
+---
+
+## Multi-Unit Blocks (MUB)
+
+* **Applicants**: At least one applicant must have 1 year’s letting experience.
+* **Minimum Valuation**: £150,000.
+* **Units**: Up to 10 self-contained units, each with separate utilities and a minimum size of 30 sq.m.
+
+---
+
+## Houses in Multiple Occupation (HMO)
+
+* **Applicants**: At least one applicant must have 1 year’s letting experience.
+* **Minimum Valuation**: £150,000.
+* **Number of Rooms**: Up to 10 lettable rooms meeting minimum size regulations.
+* **Licence**: Required where mandated by local authority; confirmed by solicitor.
+
+---
+
+## New Build
+
+* **Definition**: Includes off-plan purchases and newly built properties for first occupation.
+* **Valuations**: If conducted pre-completion, reinspection is required (fee payable).
+* **Warranty**: Must have an acceptable new-build warranty or consultant certificate, confirmed by solicitor.
+* **Flats LTV Limits**:
+
+  * Up to 70% LTV: acceptable.
+  * 70–75% LTV: underwriter review.
+  * Above 75% LTV: not acceptable.
+
+---
+
+## Deposit Criteria
+
+* **Gifted Deposits**: Accepted from close relatives (parents, step-parents, children, grandparents, siblings, spouse, grandchildren).
+* **Overseas Deposits**: Considered by referral (FATF and EEA only).
+* **Concessionary Purchase**: Allowed if buying from a close relative; market value is used for purchase price and LTV.
+
+---
+
+## Tenancy Types
+
+* **AST**: 6–12 months, no subletting.
+* **Corporate Lets**: To recognised companies.
+* **Local Authorities/Housing Associations**: Up to 5 years with break clause.
+* **Tenant Restrictions**: No vulnerable tenants or tenants under POA.
+
+---
+
+## Applicant Criteria
+
+* **Age**: Minimum 21. At least one applicant must be under 85 at end of term.
+
+* **Number of Applicants**: Maximum of 4.
+
+* **Adverse Credit**:
+
+  * Active unsecured credit: all accounts must be up to date (mail order/communications ignored).
+  * Mortgages/Secured loans: no missed payments in last 12 months, nil outstanding.
+  * CCJs/Defaults: none in last 24 months if under £300 (mail order/communications ignored).
+
+* **Income Requirements**: No minimum. However, primary applicant must evidence income via payslip, SA302, signed accounts, pension statement, employment reference, or accountant’s certificate. Court-ordered spousal maintenance accepted. Must be in employment for at least 3 months.
+
+---
+
+## Proof Requirements
+
+* **Identification**: All applicants complete biometric ID via UTB Secure Chat Hub (requires driver’s licence, passport, or national ID card). Contact BTL team if unavailable. Non-EU nationals accepted with passport and indefinite right to reside.
+
+* **Residency**: 3-year UK address history required, usually via Voters Roll. If incomplete, evidence with documents (mortgage/loan statement, council tax bill, utility bill, bank/credit card statements, or proof of active credit).
+
+---
+
+## ICR Affordability
+
+* **Basis**: Rental income, confirmed by valuer or current rent (if lower).
+
+* **If Valuer Rent Lower**: Accept valuer rent + 10%, capped at current rent with AST or bank statement evidence.
+
+* **Holiday Lets**: Special rules apply (see Holiday Lets section).
+
+* **Rental Cover Ratios**:
+
+  * Basic Taxpayer: 125%
+  * Higher Taxpayer: 140%
+  * Mixed Basic/Higher: 130%
+  * Ltd Companies: 125%
+
+* **Stress Rates**:
+
+  * 2-year fixed: Higher of initial pay rate + 2% or 5.5%
+  * 5-year fixed: Initial pay rate
+
+---
+
+## Lending to Limited Companies
+
+* **Definition**: Single-layer SPV companies for residential BTL. Trading companies not permitted.
+* **Directors/Shareholders**: Up to 4 individuals; must include all directors and at least 80% of shareholders.
+* **Acceptable SIC Codes**: 68100, 68209, 68320, 68201.
+* **Deposits**: Gifted deposits/equity from close family members only.
+* **Personal Guarantees**: All directors/shareholders must provide joint and several guarantees and take independent legal advice.
+* **Connected Applicants**: Where property is already in an applicant’s name, at least one owner must be a shareholder in the Ltd Co.
+
+---
+
+## Holiday Lets
+
+* **First-Time Landlords**: Must show combined income of at least £50,000 p.a.
+
+* **Proof of Rental Income**:
+
+  * **Remortgages**: Last 12 months via accounts, agency statements, or bank statements. If unavailable, agency letter.
+  * **Purchases**: Agency letter required.
+
+* **Agency Letters**: Must be on letterhead, with corporate details, expected rental income by season, occupancy/void assumptions, fees/commission/VAT status.
+
+* **Rental Income Calculation**:
+
+  * Use figures from agency letter (or weighted average).
+  * Convert weekly to monthly (×4.3).
+  * Deduct fees/commission (including VAT).
+  * Apply occupancy rate (max 70% = 36.4 weeks/year).
+
+* **If Using Last 12 Months’ Income**: Divide net income by 12 and input into portal.
+
+* **Non-Single Dwelling Properties**: Multi-unit/shared accommodation declared on AST basis, verified by valuer.
+
+* **Property Size**:
+
+  * Max 6 bedrooms standard.
+  * 7–8 bedrooms: referral to underwriter.
+  * 9+ bedrooms: not acceptable.
+
+---
+
+## Valuation Fee Scale
+
+### BTL Single Dwelling
+
+For single dwelling buy-to-let properties, the valuation fees are based on property value:
+
+* Up to £200,000: £235
+* Up to £300,000: £270
+* Up to £350,000: £295
+* Up to £400,000: £300
+* Up to £500,000: £380
+* Up to £600,000: £515
+* Up to £700,000: £630
+* Up to £800,000: £710
+* Up to £900,000: £790
+* Up to £1 million: £850
+* Up to £1.2 million: £1,100
+* Up to £1.4 million: £1,200
+* Up to £1.6 million: £1,350
+* Over £1.6 million: Fees available upon request
+
+---
+
+### BTL HMO / MUB (Small) – up to 6 lettable rooms or units
+
+For smaller HMOs or multi-unit blocks (6 units or less), fees are:
+
+* Up to £150,000: £500
+* Up to £200,000: £550
+* Up to £250,000: £650
+* Up to £300,000: £700
+* Up to £350,000: £775
+* Up to £400,000: £850
+* Up to £500,000: £900
+* Up to £600,000: £1,000
+* Up to £700,000: £1,100
+* Up to £800,000: £1,200
+* Up to £900,000: £1,300
+* Up to £1 million: £1,400
+* Over £1 million: Fees available upon request
+
+---
+
+### BTL HMO / MUB (Large) – up to 10 lettable rooms or units
+
+For larger HMOs or multi-unit blocks with up to 10 lettable rooms or units, fees are available **upon application**. Intermediaries must contact UTB with property details to obtain the specific fee.
+
+---
+
+### BTL HMO / MUB (Large) – Re-inspection and Re-type Fees
+
+For large HMO/MUB cases, additional charges apply depending on estimated value or purchase price:
+
+* Up to £250,000: £120 (re-inspection), £70 (re-type)
+* Up to £500,000: £175 (re-inspection), £70 (re-type)
+* Up to £1,000,000: £250 (re-inspection), £70 (re-type)
+* Over £1 million: Fees available only upon referral.
+
+---
+
+**Source:** [UTB Criteria Guide - Buy to Let Mortgages](https://www.utbank.co.uk/wp-content/uploads/2025/08/Criteria-Guide-Buy-to-Let-Mortgages-v1a.pdf)
+
+**Contact:** T: 02070311551 | E: mortgage.enquiries@utbank.co.uk | Portal: [www.utbankmortgages.co.uk](https://www.utbankmortgages.co.uk)

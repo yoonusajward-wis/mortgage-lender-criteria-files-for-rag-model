@@ -1,0 +1,466 @@
+LENDER NAME: Leek Building Society
+PRODUCT: Buy to Let
+
+================================================================================
+LEEK BUILDING SOCIETY - BUY TO LET LENDING CRITERIA
+================================================================================
+
+Source: https://www.leekbs.co.uk/intermediaries/buy-to-let-lending-criteria-a-z/
+Scraped: 2025-09-04 00:04:31
+
+Note: This document is for intermediary use only.
+
+Last Verified: Based on website content as of the file creation date
+
+================================================================================
+OVERVIEW
+================================================================================
+
+Our criteria is listed in alphabetical order to enable you to quickly find the information that you require.
+
+If you do need further information then please contact our team on 0808 281 9309
+
+================================================================================
+1. LOAN DETAILS
+================================================================================
+
+LOAN TYPE
+--------------------------------------------------------------------------------
+
+- Consumer BTL
+- Investment BTL
+- Family Regulated BTL
+- Non-Homeowner BTL
+- Portfolio BTL
+- Let to Buy
+
+LOAN TO VALUE (LTV)
+--------------------------------------------------------------------------------
+
+- Purchase/Remortgage: 75%
+- Capital Raising: 75% max £500,000 (debt consolidations limited to 30% of property value)
+
+MAXIMUM LOAN
+--------------------------------------------------------------------------------
+
+- 75% - £1,000,000
+- Capital Raising: 75% max £500,000 (debt consolidations limited to 30% of property value)
+- Lending in retirement on a regulated BTL is restricted to 70% LTV
+
+MINIMUM LOAN
+--------------------------------------------------------------------------------
+
+- £25,000.00
+
+MINIMUM/MAXIMUM TERM
+--------------------------------------------------------------------------------
+
+- 5 years - 40 years
+
+REPAYMENT TYPE
+--------------------------------------------------------------------------------
+
+- Repayment
+- Interest Only
+
+================================================================================
+2. AGE REQUIREMENTS
+================================================================================
+
+MINIMUM AGE
+--------------------------------------------------------------------------------
+
+- 21
+
+MAXIMUM AGE
+--------------------------------------------------------------------------------
+
+- The term of the mortgage must not extend beyond the 90th birthday of the oldest borrower.
+
+================================================================================
+3. INCOME & AFFORDABILITY
+================================================================================
+
+AFFORDABILITY
+--------------------------------------------------------------------------------
+
+Personal affordability assessments will only be required for Regulated BTL's and Top Slicing.
+
+INCOME - ACCEPTABLE INCOME TYPES
+--------------------------------------------------------------------------------
+
+INCOME TAKEN AT 100%
+- Basic annual income
+- Regular dividends
+- Occupational pension, private and state pension
+- SIPPS (Self-Invested Personal Pensions)
+- Car Allowance
+- Large Town Allowance
+- Housing allowances (police officers)
+- Placement Income received by Foster Carers
+- Teachers Learning Responsibilities (TLR)
+- Guaranteed Overtime
+- Guaranteed Bonuses
+- Guaranteed Shift Allowances
+
+INCOME TAKEN AT 50%
+- Regular overtime, Shift Allowances, Bonuses
+- Commission
+- Rental income (unencumbered/mortgage free property)
+- Maintenance confirmed by Court Order or 6 months track record
+- Secondary income (continuous 12 months)
+- Working Family Tax Credit
+- Income from Trust Funds/Investments – Evidence will be required via an Accountant or last 2 years HMRC Tax Calculations & Tax Overviews
+- Dividend income received, where the applicant is not a director of the company
+
+MINIMUM INCOME
+--------------------------------------------------------------------------------
+
+- There is no minimum income required
+
+RETIREMENT INCOME
+--------------------------------------------------------------------------------
+
+- Must be in receipt of pension income to meet the minimum income requirement
+
+FOSTER PARENTS
+--------------------------------------------------------------------------------
+
+- Only the placement income / fee element of the statement, which excludes maintenance payments, payments in respect of travel, clothing, Christmas etc., can be taken into account for mortgage purposes
+
+MATERNITY/PATERNITY LEAVE
+--------------------------------------------------------------------------------
+
+- Where an applicant is currently on or going on maternity/paternity leave, confirmation is required from the applicant of their intention to return to work on a full-time/part-time basis
+
+REGULATED FAMILY BTL
+- For the purpose of the affordability assessment, if income will be reduced whilst on maternity/paternity leave, this reduced income rather than the current income will be taken into account when calculating affordability.
+- Regulated Family BTL where affordability cannot be proven during the maternity/paternity leave, this is acceptable subject to evidence of savings to cover any shortfall of income
+
+================================================================================
+4. EMPLOYMENT & CONTRACTS
+================================================================================
+
+EMPLOYMENT
+--------------------------------------------------------------------------------
+
+- Applicants must be in permanent full or part time employment and continuously employed for the last 6 months
+- Applicants must not be under notice of termination of employment or notice of redundancy
+- We don't accept contractors employed through an umbrella company
+
+CONTRACTS (SHORT-TERM/FIXED-TERM)
+--------------------------------------------------------------------------------
+
+- Fixed-term contracts are acceptable where the applicant is currently on a 12 month contract and has at least 6 months remaining or evidence of a new/renewed 12 month contract must be provided, preferably in the same line of work
+- We don't accept contractors employed through an umbrella company
+
+ZERO HOURS CONTRACTS
+--------------------------------------------------------------------------------
+
+The Society will consider zero hour contracts as an acceptable employment type on the following basis:
+
+- Restricted to stable, skilled/semi-skilled industries where employment opportunities are stable – refer to the Society for acceptable industries
+- Where the income is not the primary income i.e there must be another employed/self-employed/pension income, which is higher. This does not have to be a second job
+- The application is subject to maximum LTV of 80%
+- The applicant must have been employed in the same type of employment/industry for the last two years
+- We don't accept contractors employed through an umbrella company
+
+SELF EMPLOYMENT
+--------------------------------------------------------------------------------
+
+- Minimum trading period is 2 years
+- An average income over the last two years will be assessed or the latest income will be applied if lower
+
+Income is defined as:
+- Sole Traders and Partners - applicant's share of the net profit
+- Directors of limited companies (25% or greater shareholding) - applicant's salary/remuneration and dividends
+- We don't accept contractors employed through an umbrella company
+
+================================================================================
+5. CREDIT HISTORY
+================================================================================
+
+CCJs/DEFAULTS
+--------------------------------------------------------------------------------
+
+- CCJ's/Defaults with an aggregate total of £500 or less, registered over 3 years ago and satisfied for at least 6 months can be considered
+
+BANKRUPTCY
+--------------------------------------------------------------------------------
+
+- Discharged more than 6 years ago and no adverse credit within last 3 years will be considered on full application
+
+IVAs/TRUST DEED
+--------------------------------------------------------------------------------
+
+- Registered over 6 years ago, must have been completed over 3 years ago, no adverse credit within last 3 years and satisfactory explanation will be considered on full application
+
+REPOSSESSION
+--------------------------------------------------------------------------------
+
+- Repossession/voluntary surrender of property - not acceptable
+
+MISSED PAYMENTS
+--------------------------------------------------------------------------------
+
+- One missed payment on no more than one communication supplier, credit card, mail order or utility bill for no more than one month, can be considered providing the account has been brought up to date and a satisfactory explanation is provided
+
+OVER LIMIT POSITIONS
+--------------------------------------------------------------------------------
+
+- No more than one over limit position on credit cards or current accounts during the last 12 months, which should have now been rectified
+
+PAY DAY LOANS
+--------------------------------------------------------------------------------
+
+- Applicants who have taken out a pay day loan within the last three years are not acceptable
+
+================================================================================
+6. PROPERTY REQUIREMENTS
+================================================================================
+
+LOCATION
+--------------------------------------------------------------------------------
+
+- England (Including Isle of Wight) & Wales
+
+MINIMUM PROPERTY VALUE
+--------------------------------------------------------------------------------
+
+- £50,000.00
+
+PROPERTY - ACCEPTABLE SECURITY
+--------------------------------------------------------------------------------
+
+- Residential properties permanently affixed to land, which are not mentioned in the unacceptable security section, are suitable security for mortgage lending subject to confirmation from the valuation report
+
+PROPERTY - UNACCEPTABLE SECURITY
+--------------------------------------------------------------------------------
+
+- Non standard construction. This also includes Laing Easiform/Wimpey No Fines or similar construction types
+- System built properties registered under the Housing Defects Act 1984
+- Flying freeholds over 15%
+- Properties with residential restrictions
+- Properties without a kitchen, wc and bathroom
+- Properties with agricultural restrictions, farms and small holdings
+- Properties with more than 5 acres of land
+- Live/Work Units
+- Houses of Multiple Occupancy (HMO)
+- Freehold Flats or Maisonettes
+- Ex-Local Authority/Housing Association Flats or Maisonettes
+- Flats in blocks with shared walkway access
+- Flats with cladding unless an EWS1 form is supplied which confirms that they are rated A1 or A2
+- Leasehold properties with less than 75 years remaining on the lease at the end of the mortgage term
+- Properties which have internal door locks
+- Properties which are owned by the current owner or current vendor for less than 6 months
+- Properties which are not ready for immediate occupation
+- Properties which are affected by progressive structural movement, dry rot, Japanese Knot Weed or contaminated land
+- Properties listed as defective under the 1984 & 1985 Housing Acts unless rebuilt to NHBC Standards and with appropriate guarantees
+- Properties in which High Alumina Cement has been used in the construction
+- Prefabricated buildings and unrepaired PRC constructions
+- Properties with an anticipated life span of less than 25 years beyond the end of the mortgage
+- Flats in blocks of more than 6 storeys, basements/underground parking count as 1 storey. Portfolio new build flats (built within the last 2 years)
+- Steel framed structures built prior to 2000
+- Studio flats where the LTV is greater than 75%
+- BTL properties with an EPC rating of F or G
+- Tyneside Flats i.e. criss-cross or cross-over leases
+
+TENURE
+--------------------------------------------------------------------------------
+
+- Freehold (houses only)
+- Leasehold properties must have at least 75 years remaining on the lease at the end of the mortgage term
+
+GROUND RENT
+--------------------------------------------------------------------------------
+
+- Ground Rent that exceeds £250 per annum outside London and £1000 per annum inside London is not acceptable
+
+EWS1
+--------------------------------------------------------------------------------
+
+- Where there are concerns about the external wall construction (cladding) for all flats then the valuer needs to obtain a EWS1 form which must be completed by a suitably qualified person, only options A1 and A2 are acceptable
+
+NEW BUILD WARRANTIES
+--------------------------------------------------------------------------------
+
+- Any property which has been built / converted within the last 10 years must hold an acceptable guarantee/certificate
+
+Acceptable guarantee/certificates include (This isn't an exhaustive list so please speak to our Intermediary team for any firms not quoted below):
+- NHBC Certificate
+- Zurich Municipal Policy
+- Protek Home Warranty
+- Premier Guarantee
+- Checkmate - Castle 10
+- Architects Completion Certificate
+- Build Zone
+- Local Authority Building Control (LABC New Home Warranty)
+- Building Life Plans
+- ICW
+- One Guarantee Ltd
+
+SOLAR PANELS
+--------------------------------------------------------------------------------
+
+- Solar panels will be considered subject to the Valuer's recommendations
+- Where the panels are leased, a copy of the lease documentation will be required for submission with the application for approval by the Society. The lease must contain agreement for removal of the panels, at no cost to the Society, should the Society take the property into possession
+
+================================================================================
+7. RENTAL CALCULATION & STRESS TEST
+================================================================================
+
+RENTAL CALCULATION
+--------------------------------------------------------------------------------
+
+Please follow the below guide.
+
+| Product Type | >=5 Year Fixed | < 5 Year Fixed | £ for £ Remortgage |
+|---|---|---|---|
+| **Buy to Let** | 125% @ Pay Rate | 140% @ Pay Rate +2% | 140% @ Pay Rate |
+| **Holiday Let** | 125% @ Pay Rate | 140% @ Pay Rate +2% | 140% @ Pay Rate |
+| **Ltd Company BTL** | 125% @ Pay Rate | 125% @ Pay Rate +2% | 125% @ Pay Rate |
+| **Portfolio Landlord** | 125% @ Pay Rate | 140% @ Pay Rate +2% | 140% @ Pay Rate |
+
+Note: All Products - Purchase/ Let to Buy/ remortgage + additional borrowing
+
+STRESS TEST
+--------------------------------------------------------------------------------
+
+Please follow the below guide.
+
+| Product Type | >=5 Year Fixed | < 5 Year Fixed | £ for £ Remortgage |
+|---|---|---|---|
+| **Buy to Let** | 125% @ Pay Rate | 140% @ Pay Rate +2% | 140% @ Pay Rate |
+| **Holiday Let** | 125% @ Pay Rate | 140% @ Pay Rate +2% | 140% @ Pay Rate |
+| **Ltd Company BTL** | 125% @ Pay Rate | 125% @ Pay Rate +2% | 125% @ Pay Rate |
+| **Portfolio Landlord** | 125% @ Pay Rate | 140% @ Pay Rate +2% | 140% @ Pay Rate |
+
+Note: All Products - Purchase/ Let to Buy/ remortgage + additional borrowing
+
+================================================================================
+8. SPECIAL PRODUCTS & TYPES
+================================================================================
+
+FAMILY REGULATED BTL
+--------------------------------------------------------------------------------
+
+- Where the property will be lived in by a member of the borrower's family or with the intention that they will reside in the property in the future
+- When any borrower has stated that they are retired or there is a reliance on pension income to service the mortgage payments at mortgage completion, maximum LTV will be 70%
+- A full affordability assessment will be carried out in addition to the normal BTL Interest Coverage Ratio Criteria. The affordability assessment will include payments for their own residential mortgage/rent (if applicable) and also payment to the new mortgage. Our Affordability Assessment must result in a surplus net disposable income being evident
+- The rental calculation will be based upon the rental figure as confirmed by the valuer rather than the actual rent being paid by the family member
+
+FIRST TIME LANDLORDS
+--------------------------------------------------------------------------------
+
+- First Time Landlords are accepted who own their own residential home
+- First time landlords who are first time buyers, must select a specific non-homeowner product
+
+FIRST TIME BUYERS
+--------------------------------------------------------------------------------
+
+- First time landlords who are first time buyers, must select a specific non-homeowner product
+
+NON-HOMEOWNER BUY TO LET
+--------------------------------------------------------------------------------
+
+- Where mortgage finance is provided to a borrower(s) who does not own their own main residential property or will not do so on completion of the mortgage. Standard Buy to Let criteria will apply. Subject to Non-Homeowner mortgage product availability
+
+LET TO BUY
+--------------------------------------------------------------------------------
+
+- Standard Buy to Let criteria will apply
+
+PORTFOLIO BUY TO LETS
+--------------------------------------------------------------------------------
+
+- The maximum number of BTL properties that can be in mortgage to the Society is 6 and the maximum number of BTL properties held in a portfolio, regardless of whether they are in mortgage to the Society, other lenders or mortgage free is 20. Current product only allows for maximum of 10 properties
+- Maximum of 2 properties with the Society in the same postcode area (e.g. 'ST13')
+- New Build flats are excluded (built within last 2 years)
+
+MAXIMUM PORTFOLIO
+--------------------------------------------------------------------------------
+
+- The maximum number of BTL properties that can be in mortgage to the Society is 6 and the maximum number of BTL properties held in a portfolio, regardless of whether they are in mortgage to the society, other lenders or mortgage free is 20
+
+TOP SLICING
+--------------------------------------------------------------------------------
+
+- The properties must be self-sufficient with the existing rental income equal to, or greater than 100% ICR of the stressed rate. This also applies to any other buy-to-let properties owned by the applicant
+- Minimum income required per application is £100,000
+- Maximum LTV is 60%
+- An affordability assessment is completed to determine whether the shortfall is affordable, ensuring monthly income and expenditure is taken into consideration
+
+GREEN INITIATIVE
+--------------------------------------------------------------------------------
+
+- Available to applicants who are looking to purchase or remortgage a property which has an EPC rating of A-C. The funds will be released with the advance monies
+
+================================================================================
+9. DEPOSIT & DEBT CONSOLIDATION
+================================================================================
+
+DEPOSIT
+--------------------------------------------------------------------------------
+
+- Personal savings
+- Non repayable gift from family member
+- Sale/remortgage of existing property
+
+DEBT CONSOLIDATION
+--------------------------------------------------------------------------------
+
+- Capital Raising: 75% max £500,000 (debt consolidations limited to 30% of property value)
+- Allowed once in the lifetime of the mortgage
+
+================================================================================
+10. RESIDENCY & APPLICANTS
+================================================================================
+
+RESIDENCY
+--------------------------------------------------------------------------------
+
+- We only accept applicants in the UK or with settled status and or right to reside
+- Non UK or Non EU citizens must have been residing in the UK for the last 2 years and have non-conditional and permanent right to reside
+- Expatriates are not acceptable
+
+NUMBER OF APPLICANTS
+--------------------------------------------------------------------------------
+
+- Max 4 – we will consider the two highest incomes only
+
+================================================================================
+11. FEES
+================================================================================
+
+BROKER FEES
+--------------------------------------------------------------------------------
+
+- The amount of fee charged by the broker must not exceed 1.5% of the mortgage loan and £1,500. Anything over this figure will be reviewed on case submission and will be declined
+
+================================================================================
+12. UNACCEPTABLE LENDING
+================================================================================
+
+The following are not acceptable:
+
+- Sale and rent back
+- HMO's
+- Properties being purchased from the applicant's own business
+- Properties that require items of major structural repair e.g. structural defects, electrics, drains, trees
+- Remortgage applications where the applicant has not owned the property for six months
+- Capital raising for business or investment purposes or to fund living costs
+- Bridging finance
+- Applicants who have taken out a pay day loan within the last three years
+- Self-build
+- Foreign Currency Loans
+- Properties with EPC rating of F and G
+
+================================================================================
+13. CONTACT INFORMATION
+================================================================================
+
+For further information, please contact our team on 0808 281 9309
+
+Source: https://www.leekbs.co.uk/intermediaries/buy-to-let-lending-criteria-a-z/
+
+================================================================================

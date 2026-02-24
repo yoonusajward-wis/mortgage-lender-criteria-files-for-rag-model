@@ -1,0 +1,1437 @@
+LENDER NAME: Clydesdale
+PRODUCT: Residential
+
+================================================================================
+CLYDESDALE BANK - RESIDENTIAL LENDING CRITERIA
+================================================================================
+
+Source: https://www.clydesdalebankintermediaries.co.uk/lending-criteria/residential/
+
+OVERVIEW
+--------------------------------------------------------------------------------
+This document contains comprehensive Residential lending criteria for Clydesdale Bank.
+All criteria apply to Residential mortgage applications unless otherwise stated.
+
+Scope: Applies to product set HomeA–F (unless noted otherwise)
+
+CONTACT INFORMATION
+--------------------------------------------------------------------------------
+Existing Applications Helpline: 0800 917 8363
+Hours: Monday-Friday 9:00-17:00 (Wednesday 9:30-17:00)
+
+Valuation Panel Manager: Esurv - 0800 1699661
+
+Mortgage Services Team: 0800 121 4203
+
+Email: Existing.Customer.Support@cybg.com
+
+---
+
+## 1. Adverse Credit
+
+### 1.1 Arrears
+
+#### Mortgages
+
+* In the last 6 months, there must be no mortgage arrears
+* In the last 2 years, max 2 months' arrears per mortgage
+
+#### Loans
+
+* In the last 6 months, max 1 month's arrears per account, unless they're back up to date
+* In the last 2 years, max 2 months' arrears per account
+
+#### All other commitments
+
+* In the last 6 months, max 1 month's arrears per account, unless they're back up to date
+* In the last 1 year, max 3 months' arrears per account, and no account 3 months in arrears for 2 months in a row
+
+Other missed payments may be acceptable, subject to application.
+
+### 1.2 Defaults
+
+* Unsatisfied – No defaults of any value that are currently unsatisfied
+* Satisfied – No defaults registered in the last 12 months. In the last 6 years, max 2 satisfied defaults and the max total value of all satisfied defaults is £2,000
+
+### 1.3 CCJs
+
+* Unsatisfied – No CCJs of any value that are currently unsatisfied
+* Satisfied – No CCJs registered in the last 6 months. In the last 6 years, max 1 satisfied CCJ and the value must be no more than £500
+
+### 1.4 Debt Management Plans
+
+* Customers must not have a current debt management plan in place.
+
+### 1.5 IVAs, Administration Orders, Debt Relief Orders or Bankruptcy
+
+* None of these are acceptable within the last 6 years, even where satisfied or discharged.
+
+---
+
+## 2. Affordability
+
+* All applications undergo an affordability assessment.
+* Assesses income, committed expenditure, essential bills, and basic living costs.
+* Assessed on capital repayment basis and stressed for future interest-rate rises.
+* Additional policy limits (e.g. max income multiples) also apply.
+* Use the affordability calculator to estimate borrowing.
+
+---
+
+## 3. Additional Borrowing (Porting / Product Transfer with Additional Borrowing / Further Advance) — HomeA–F
+
+### Step 1 – Request an Illustration
+
+* Complete the Illustration Request Form and email to [Existing.Customer.Support@cybg.com](mailto:Existing.Customer.Support@cybg.com).
+  Target turnaround: within two working days.
+* If details are missing, request customer mortgage info via the Intermediary Customer Information Request Form.
+
+### Step 2 – Submit an Application
+
+Email the completed Residential or Buy to Let form to [Existing.Customer.Support@cybg.com](mailto:Existing.Customer.Support@cybg.com):
+
+* Porting / Further Advance / Product Transfer with Additional Borrowing — Residential
+* Porting / Further Advance / Product Transfer with Additional Borrowing — Buy to Let
+  Note: Porting applications cannot currently be submitted online. Must be a registered Clydesdale Bank intermediary.
+
+### Packaging Requirements
+
+* Same standards as purchase/remortgage (see Packaging Guide).
+* Additional documents may be requested.
+
+### Help
+
+* See the Guide or contact your BDM.
+
+---
+
+## 4. Age Criteria
+
+The minimum age at the start of the application is 18.
+
+Residential (Repayment & Interest-Only): Maximum age 75 years and 364 days at end of term.
+For joint applications, the oldest applicant's age applies.
+
+Interest-Only beyond retirement:
+
+* If downsizing is not the repayment vehicle, lending beyond retirement age may be considered.
+* If downsizing is the repayment vehicle, max age at end of term is the lower of:
+
+  * 70 years and 364 days, or
+  * Declared retirement age.
+
+Also see Lending into Retirement, Term, and Repayment Strategies.
+
+---
+
+## 5. Applicants
+
+* Maximum 2 applicants per mortgage application.
+
+---
+
+## 6. Assignable Contracts
+
+* Not acceptable where purchase is via an assignable contract.
+
+---
+
+## 7. Bank Statements
+
+Provide statements only for:
+
+* Contractors: 3 months for account receiving contract income.
+* Background BTL rental income: As per Section 11.
+* Deposit evidence (purchase): Latest statement only.
+* Total loan > £1m: Latest 3 months of personal statements.
+* Self-employed: May request latest month’s business statement.
+
+Online statements acceptable if they show name, account number, and sort code.
+
+---
+
+## 8. Bonus / Variable Income
+
+* Annual/six-monthly/quarterly: Use 60% of the 2-year average, or 60% of most recent year if lower.
+* Monthly/weekly: Use 60% of variable pay from the lower of the two most recent payslips, or 60% of YTD if lower.
+* By exception: Up to 75% may be used with stable 3-year track record (2 years if paid monthly+). Must be pre-agreed.
+* See Packaging Requirements for evidence.
+
+---
+
+## 9. Background Buy-to-Lets (BTLs)
+
+* Retained BTLs must have rental cover ≥ 125% of interest-only payment.
+
+Evidence:
+
+* 1–3 BTLs: Last 3 months’ statements showing rental credits.
+* 4+ BTLs: Last 3 years’ accounts or last 3 years’ SA + SA302s.
+
+---
+
+## 10. Capital Raising
+
+Allowed on remortgage or unencumbered property; purpose must be legal and genuine.
+
+Restrictions:
+
+* Home improvements: If > £50,000 or > 20% of value (lower of), provide estimates. Planning permission evidence if required.
+* Debt consolidation:
+
+  * Max 80% LTV.
+  * Consolidated commitments not listed as ongoing expenditure.
+  * Up to 90% LTV if all consolidated debt relates to documented home improvements.
+* Business purposes: Not permitted.
+
+---
+
+## 11. Cladding / External Wall Systems (EWS)
+
+### 11.1 Buildings (UK – general)
+
+* Applies to multi-storey, multiple-occupancy buildings under 11m & ≤ 4 storeys (UK) or ≥ 11m / ≥ 5 storeys (Wales/Scotland/NI).
+* Valuation required; valuer may request EWS1.
+* Owner commissions EWS1.
+* Outcomes:
+
+  * A1/A2/B1: Valuer decides if lending can proceed.
+  * A3/B2: Declined if remediation required.
+
+### 11.2 Buildings (England – specific)
+
+* For buildings ≥ 11m or ≥ 5 storeys.
+* If significant concerns or EWS1 A3/B2: valuer may confirm remediation funding.
+* Required documents:
+
+  * Executed Leaseholder Deed of Certificate
+  * Executed Landlord Certificate (not required if fully remediated under Building Safety Act).
+* Not accepting applications from non-qualifying leaseholders in buildings not being remediated.
+* Lender must be satisfied with documentation.
+
+### 11.3 Existing Mortgage Customers
+
+* New product offered as usual when current deal ends, even with EWS concerns.
+* Variations/additional borrowing reviewed case-by-case; additional borrowing on unsafe EWS properties is carefully assessed.
+
+---
+
+## 12. Consent to Let
+
+* Available for temporary letting < 2 years.
+* Must meet: period under 2 years, mortgage held > 6 months, intention to return.
+* Customers call 0800 022 4313.
+* While let: cannot switch to new deal or take additional borrowing (some exceptions for armed forces).
+
+---
+
+## 13. Contractors & Non-Standard Employment
+
+### 13.1 Daily-Rate Contractors
+
+* Fixed rate, schedule, contract duration required.
+* Income = day rate × 5 × 46 weeks.
+* If < 1 month remaining, provide renewal evidence.
+* Max gap between contracts: 6 weeks.
+* Requirements vary by income level and experience (as provided in original text).
+* Limited company acceptable (no other contractors). Offshore structures not accepted.
+* If business statements show significant recurring expenditure, contact lender before applying.
+
+### 13.2 IR35 / Umbrella (PAYE)
+
+* Accepted.
+* Assess payslips after deducting employer statutory costs and payroll service costs before applying 46-week approach.
+
+### 13.3 Fixed-Term / Renewable / Seasonal
+
+* Fixed-term: 2 years continuous employment and ≥ 12 months left on contract.
+* Renewable: Term ≥ 6 months and renewed at least once.
+* Seasonal/temporary short-term: Not acceptable.
+
+### 13.4 CIS
+
+* Assessed under self-employed policy.
+
+---
+
+## 14. Deposits
+
+### 14.1 Gifted Deposits
+
+* Require gift letter or Third Party Use of Personal Information / Gifted Deposit Form confirming unconditional gift and no repayment expected.
+* Family loans acceptable; repayment schedule must be listed in expenditure.
+
+### 14.2 ROSCAs
+
+* Not acceptable.
+
+---
+
+## 15. Direct Debit
+
+* Mandatory for all mortgages.
+* Collection date 1st–28th; default is 1st.
+* Offer cannot be issued without completed mandate.
+* For part & part loans, separate mandate per sub-account.
+
+---
+
+## 16. Eligibility
+
+### 16.1 General
+
+* Minimum age 18.
+* Maximum age at end of term 75 years 364 days.
+* 3 years UK address history.
+* Max 2 applicants.
+* First-time buyers and first-time landlords accepted.
+* No owner-occupier requirement.
+* Portfolio landlords: Remortgage with no additional borrowing only.
+
+### 16.2 Buy to Let — Exclusions
+
+(Full list preserved exactly, including excluding professional landlords, HMOs, limited companies, overseas landlords, freehold flats, properties near A3–A5 premises, etc.)
+
+---
+
+## 17. Expenditure
+
+### 17.1 Residential
+
+List:
+
+* New mortgage payment
+* Water rates
+* Council tax
+* HP/rental payments
+* Loans
+* Buildings/contents insurance and life assurance
+* Other liabilities (credit card minimums etc.)
+
+### 17.2 BTL Background
+
+List:
+
+* Monthly BTL mortgage payments
+* Water rates if not paid by tenant
+* Ground rent and service charge
+* Council tax if not paid by tenant
+* Insurance
+
+---
+
+## 18. Expenditure Variations
+
+Include explanation and evidence for anticipated changes to expenditure.
+
+---
+
+## 19. Ex-pats
+
+* Not accepted.
+
+---
+
+## 20. First-Time Buyers
+
+* Anyone without a mortgage in the last 12 months.
+
+---
+
+## 21. Forces Help to Buy (FHTB)
+
+* Accepted as deposit.
+* Treated as savings.
+* Loan and insurance must be included in expenditure (loan under liabilities, insurance under expenditure).
+* MoD personal information note not required.
+
+---
+
+## 22. Foreign Currency Mortgages
+
+* Not accepted.
+* No non-sterling income or repayment vehicles.
+* No lending to non-UK residents.
+
+---
+
+## 23. Foreign Nationals
+
+### 23.1 All applicants have ILR or EUSS
+
+* Max LTV 95%.
+* Time in UK: 3 years.
+* No minimum income.
+
+### 23.2 Joint – one applicant has ILR/EUSS
+
+* Max LTV 95%.
+* Time in UK: 3 years.
+* Visa must be acceptable; ≥ 9 months remaining.
+* No minimum income.
+* If non-ILR applicant doesn’t meet visa rules, can still lend to 95% if their income isn’t used.
+
+### 23.3 No applicants have ILR/EUSS
+
+* Max LTV: 90% (if ≥ one earns £75k); 85% otherwise.
+* Time in UK: 3 years.
+* Visa must be acceptable; ≥ 9 months remaining.
+* Minimum income applies above 85% LTV.
+* Applicants not meeting visa rules may be on the mortgage but income not used.
+
+Includes list of acceptable visa types.
+Cannot lend to sanctioned-country nationals or those with diplomatic immunity.
+
+---
+
+## 24. Foster Carers
+
+* Income acceptable and treated as self-employed.
+* Individuals in care counted as dependants.
+
+---
+
+## 25. Flats
+
+### 25.1 LTV Guidelines
+
+* ≤ 4 storeys: up to 95% LTV
+* ≥ 5 storeys: up to 85% LTV
+* Ex-LA/HA/MOD: up to 85% LTV
+* New-build flats: up to 80% LTV
+
+### 25.2 Types
+
+* Converted flats treated as new-build until 2 years after conversion or first occupation (later of).
+* Studios acceptable if ≥ 30 m².
+* Maisonettes treated as flats.
+
+### 25.3 Multi-Storey Requirements
+
+* Flats on 5th storey+ must have lift access.
+* Storey count includes all floors.
+* Ex-LA/HA/MOD: not in buildings over 7 storeys.
+* Deck/balcony access subject to valuer.
+
+### 25.4 Commercial Proximity
+
+* May be acceptable if commercial use does not affect demand or enjoyment.
+* Entrance must not be via commercial premises.
+* Flats above/adjacent to food/drink or dry-cleaning/launderette premises usually unacceptable.
+
+### 25.5 Tenure
+
+* Flats must be leasehold (or heritable/leasehold in Scotland).
+* Share of freehold acceptable if underlying lease is acceptable.
+
+---
+
+# Residential Lending Criteria — G–L
+
+Scope: Applies to product set HomeG–L (unless stated)
+
+---
+
+## 1. Guarantors
+
+* Not accepted on any mortgage.
+
+---
+
+## 2. Help to Buy
+
+We participate in the Help to Buy Equity Loan Scheme for residential purchase applications.
+
+### Scheme Overview
+
+The Help to Buy Equity Loan Scheme allows customers to purchase a new build property with a 5% deposit. The government provides an equity loan (up to 20% in England and Wales, up to 40% in London), and the mortgage makes up the remaining funds.
+
+### Eligibility Criteria
+
+* Applicants must be first-time buyers (no previous property ownership)
+* Property must be a new build from a participating builder/developer
+* Property must be for owner occupation only
+* Minimum deposit: 5% of purchase price
+* Maximum mortgage: 75% LTV (the equity loan provides up to 20% in England/Wales, 40% in London)
+* Bank holds first charge on the property
+* Repayment method: Capital & Interest only
+
+### Affordability
+
+* Affordability assessment includes the equity loan payment (interest-only payments typically start after year 5)
+* Standard income multiples and affordability criteria apply
+* The equity loan payment must be included in the affordability calculation
+
+### Property Requirements
+
+* Property must be covered by an acceptable new build warranty
+* Standard new build property criteria apply
+* Builder/developer must be participating in the Help to Buy scheme
+
+### Remortgaging
+
+Remortgage applications for properties with an existing Help to Buy equity loan may be considered subject to:
+* Maximum LTV restrictions (typically 75% in England/Wales, 80% in Scotland)
+* The equity loan must remain in place or be partially repaid (staircasing)
+* Standard remortgage criteria apply
+
+For specific details and current scheme availability, please refer to the Help to Buy section on the Clydesdale Bank intermediaries website or contact us for guidance.
+
+---
+
+## 3. HMOs (Houses in Multiple Occupation)
+
+* Not permitted for lending.
+* Definition: A property with 3 or more tenants forming more than 1 household who share a toilet, bathroom, or kitchen.
+  A household is a single person or a family (including unmarried partners).
+
+---
+
+## 3. Home Improvements
+
+If the request is more than £50,000 or more than 20% of the property’s current value (whichever is lower):
+
+* Provide builder/contractor estimates for the proposed works.
+* If planning permission is required, provide evidence of consent.
+
+---
+
+## 4. Income
+
+### 4.1 Employed
+
+Guaranteed income:
+
+* In addition to basic pay from permanent employment, 100% of contractually guaranteed income (e.g., car allowance, territorial allowance) is accepted.
+
+Variable income:
+
+* Assessed per the bonus and variable income policy (see Bonus/Variable in A–F section).
+
+Probation / less than 6 months in current role:
+
+* Acceptable if the contract is permanent (not short-term) and the customer has received their first payslip.
+
+Second jobs:
+
+* 100% accepted where received for 12 months or more.
+
+Parental leave:
+
+* Return-to-work income is used, subject to confirming intended income and return date (within the next 12 months).
+* Explain how commitments are covered until returning (benefits, statutory pay, partner’s income, savings).
+* Include future childcare costs in the application.
+
+Other employed income:
+
+* Agency, fixed-term, and zero-hours roles usually acceptable with a 2-year track record in the same line of work.
+* Zero-hours typically require a 2-year history of that income type.
+* Seasonal or temporary short-term employment is not acceptable.
+* When in doubt, contact the lender before applying.
+
+### 4.2 Self-Employed
+
+Shareholding:
+
+* If the combined shareholding of all applicants is under 25% of a limited company → treat as employed.
+* If 25% or more → treat as self-employed.
+
+LLPs:
+
+* Salaried partner/member with no shareholding → treat as employed.
+* Equity partner or profit-share → usually self-employed.
+
+(See full self-employed policy for documents and assessment.)
+
+### 4.3 Contractors
+
+* See the contractor policy.
+* CIS income is assessed under the self-employed policy.
+
+### 4.4 Pensions
+
+* If already retired, or the term extends to/beyond declared retirement age or 71st birthday, and within 10 years of either: pension income (or current income if lower) is used.
+* More than 10 years before retirement: no proof of retirement income needed, but pension contributions must be seen.
+* Self-employed: current income may be used up to age 75 and 364 days, subject to occupation/business; check before applying.
+* Acceptable pension types include annuities, occupational pensions (DB/DC), pension tax credits, personal pensions (stakeholder/SIPP), state pension, war pension, and war disability pension.
+
+### 4.5 Maintenance
+
+* Court-ordered or Child Maintenance Arrangement income is usually accepted with a track record and sustainability.
+  Contact the lender to confirm.
+
+### 4.6 Benefits (including disability)
+
+Accepted benefits: Adult Disability Payment, Carer’s Allowance, Child Benefit*, Child Disability Payment, Child Tax Credits, Disability Living Allowance, Disabled Person Tax Credits, Employment and Support Allowance, Incapacity Benefit, Independent Living Fund, Personal Independence Payment (PIP), Reduced Earnings Allowance, Universal Credit (see note), War Disablement Pension, Working and Family Tax Credit.
+
+* Child Benefit must not be included if either applicant has total gross income over £60,000.
+* Universal Credit: at least one applicant must have earned income; deduct Housing Benefit shown on award letter.
+* Foreign currency income: not accepted.
+
+### 4.7 Rental Income (Background)
+
+* For residential applications, background rental income and related expenditure are assessed, including established BTLs and properties about to be let.
+
+### 4.8 Other Income
+
+* Income from investments, trusts, non-court-ordered maintenance, and income protection/PHI may be considered. Check before applying.
+
+Useful links: Packaging requirements, Affordability calculator, Maximum loan-to-income policy.
+
+---
+
+## 5. Income Multiples
+
+### 5.1 Purchase or Remortgage with Additional Borrowing
+
+* Income under £50,000 (all types): 4.49×
+* Income £50,000–£74,999 (all types): 5×
+* Income £75,000 or more (self-employed): 5×
+* Income £75,000 or more (employed or contractor): 5.5×
+* Over 85% LTV (all incomes/types): 4.49×
+
+Income used to determine the £50k/£75k thresholds and apply multiples includes:
+Basic pay + 60% of allowable variable income + 100% of pension, rental, and allowable benefits.
+
+### 5.2 Remortgage with No Additional Borrowing
+
+* Up to 85% LTV: 5.5×
+* Over 85% LTV: 4.49×
+  Income level and self-employment status do not affect these limits.
+
+### 5.3 Newly Qualified Professionals (NQP)
+
+* Up to 5.5× for eligible NQP applicants taking an NQP product.
+* NQP criteria and LTI rules do not depend on thresholds, application type, LTV, or employment status.
+
+---
+
+## 6. Income Variations (Future Changes)
+
+If income is expected to change, include:
+
+* A plausible explanation of how mortgage and essential commitments will be met.
+* Supporting evidence.
+
+---
+
+## 7. Interest-Only (Residential)
+
+### 7.1 Income
+
+Minimum income:
+
+* Sole: £75,000
+* Joint: either one earns £75,000 or joint income £100,000.
+
+### 7.2 Property Value
+
+* Minimum property value: £400,000.
+
+### 7.3 Age / Term
+
+* Maximum age: 75 years and 364 days at term end.
+* If downsizing is the repayment strategy: no part of the loan may extend beyond declared retirement age or age 70 years and 364 days (whichever is earlier).
+* Maximum term: 40 years.
+* Standard LTI rules apply.
+* Available for purchase and remortgage, including first-time buyers.
+
+### 7.4 Maximum LTV and Loan Size
+
+Full interest-only:
+
+* Up to 75% LTV for loans ≤ £5m
+* Up to 60% LTV for loans > £5m
+
+Part & part:
+
+* Up to 80% LTV for loans ≤ £2.5m
+* Up to 75% LTV for loans ≤ £5m
+* Up to 60% LTV for loans > £5m
+* No more than 75% LTV may be on interest-only.
+
+See Maximum LTV criteria for full limits.
+
+### 7.5 Repayment Vehicles
+
+* All repayment strategies must be in sterling.
+* Provide full details with the application.
+* See Repayment Strategies for acceptable types and evidence requirements.
+
+### 7.6 Downsizing (Repayment Strategy)
+
+* Maximum 75% LTV on interest-only; total LTV may be increased to 80% using capital & interest.
+* The C&I element cannot run beyond the IO term.
+* Minimum equity at end of term: £300,000 (current value minus IO balance at term end).
+
+Example:
+Property £800,000, loan £600,000, downsizing only → up to £500,000 IO + £100,000 C&I (target downsized purchase ≤ £300,000).
+
+Loans over £1.5m:
+
+* Max 70% IO LTV.
+* Total LTV may be increased to 75% with additional repayment vehicle or C&I, and to 80% with C&I.
+
+Application note:
+Provide planned property type, location, and expected price (e.g., “House in Glasgow costing £400,000”).
+If equity will not meet the target purchase price, provide evidence of additional repayment strategies.
+
+---
+
+## 8. Joint Borrower, Sole Owner (JBSO)
+
+* Two borrowers / one legal owner required.
+* Borrowers must be immediate family (spouses, civil partners, unmarried cohabitees, parent and child). Other relationships by referral.
+* Eligible for residential purchase or like-for-like remortgage (no increase in borrowing).
+* Affordability includes background liabilities and household expenditure of all borrowers (including both properties if applicable).
+* Application must clearly declare JBSO and identify the sole owner.
+* Legal:
+
+  * ILA not required, but any suspicion of undue influence must be reported.
+  * Optima Legal cannot act; fee-assisted legals not available. Chosen firm must be on the approved panel.
+* JBSO is not available for BTL.
+
+---
+
+## 9. Lease
+
+### 9.1 Tenure
+
+* Leasehold acceptable.
+* Share of freehold acceptable where an acceptable underlying lease exists.
+
+### 9.2 Lease Term & Terms
+
+* Remaining term must be at least 85 years at application; acceptable if below this at application but 85+ years at completion.
+* Under 85 years may be considered by exception.
+* Ground rent escalation must be reasonable (typically RPI-linked).
+* Not permitted: escalation patterns that double every 15 years or less.
+* Ground rent must not exceed £250 per year (or £1,000 in Greater London) at any point.
+* Indemnity policies not accepted for excessive ground rent; the lease must be varied.
+
+---
+
+## 10. Lending into Retirement
+
+### 10.1 After / Approaching Retirement
+
+* If retired or within 10 years of retirement age or age 71 with term extending beyond: pension income (or current income if lower) is used.
+
+### 10.2 Over 10 Years Before Retirement
+
+* No proof of retirement income required, but pension contributions must be visible.
+
+### 10.3 Interest-Only
+
+* Not allowed where downsizing is the repayment vehicle for lending into retirement.
+
+---
+
+## 11. Let-to-Buy
+
+* Can consider cases where the current residential home becomes a BTL and a new residential mortgage is required.
+* Expenditure for both properties must be included.
+
+---
+
+## 12. Loan Purpose
+
+We lend for legal and genuine purposes.
+
+We do not lend for:
+
+* Business purposes
+* Self-build during construction (post-completion may be considered)
+* Open-ended bridging
+* Stamp Duty avoidance schemes
+* Documents requiring execution under Power of Attorney
+* Transfers of title involving bankruptcy or liability avoidance
+* Mobile homes or boats
+
+For unusual cases, contact the lender.
+
+---
+
+## 13. Location
+
+* Lending available in England (including Isle of Wight), Wales, and Scotland (including Highlands & Islands).
+* Not available in Northern Ireland.
+
+---
+
+## 14. Lump-Sum Payments (Overpayments)
+
+* Allowed after the first monthly payment is credited.
+* Fixed-rate products: up to 10% of mortgage balance per year without ERC.
+* Offset discounted products: no penalties.
+* Regular payment amounts cannot be reduced during a fixed or discounted period.
+
+---
+
+# Residential Lending Criteria — Home M–R
+
+---
+
+## 1. Maximum Age
+
+New lending limits:
+
+* Residential repayment: maximum age 75 at end of term
+* Residential interest-only (IO): maximum age 70 at end of term
+* Joint cases: cap is based on the oldest applicant
+
+Lending past retirement age (IO):
+
+* Not permitted. For residential IO, the maximum permitted age is the earlier of the customer’s stated retirement age or 70.
+
+See also: Lending into retirement and Term guidance.
+
+---
+
+## 2. Maximum LTV
+
+### 2.1 By repayment type and loan size
+
+Capital and Interest (C&I):
+
+* £80k–£600k: 95%
+* £600,001–£1m: 90%
+* £1m–£1.5m: 85%
+* £1.5m–£2.5m: 80%
+* £2.5m–£5m: 75%
+* £5m–£10m: 60%
+
+Interest-Only (IO):
+
+* Up to £5m: 75%
+* £5m–£10m: 60%
+
+### 2.2 Scenario caps (use the lowest applicable)
+
+* Additional borrowing: 90%
+* New-build house: 90%
+* New-build flat/maisonette: 80%
+* Flat/maisonette (non–new build): 95%
+* Debt consolidation: 80%
+
+### 2.3 Key caveats
+
+* Pure IO: maximum 75% LTV (except £5m–£10m = 60%).
+* Part & part (≤ £2.5m total loan): maximum 80% overall; IO element ≤ 75% (remainder must be C&I).
+* Flats/maisonettes over 85% LTV: building must be 4 storeys or fewer, not ex-LA/MoD, and not new-build.
+* Product fee may be added, but total borrowing must not exceed 95% of property value.
+
+### 2.4 LTV decision flow
+
+1. Determine base cap using repayment type and loan size.
+2. Apply scenario cap → use the lower cap.
+3. For part & part, ensure total ≤ 80% and IO slice ≤ 75% (if ≤ £2.5m).
+4. If flat > 85% LTV, confirm 4 storeys or fewer, not ex-LA/MoD, not new-build.
+5. If adding a fee, total borrowing must remain ≤ 95%.
+
+---
+
+## 3. Minimum and Maximum Loan Size
+
+* Minimum total loan: £80,000
+* Maximum: subject to Maximum LTV rules and individual product limits
+
+---
+
+## 4. Minimum Term
+
+* Minimum term is 5 years (or the product term if longer)
+
+---
+
+## 5. Mortgage-Free (Unencumbered) Property
+
+* One free standard valuation where property value is £3 million or less
+* Customer’s solicitor must be on the Approved Legal Panel
+
+---
+
+## 6. Neighbouring Land
+
+A mortgage must also be taken over neighbouring land if either applies:
+
+* Access to the security passes over the neighbouring land
+* Services for the security run over the neighbouring land
+
+This does not apply where the applicant simply owns multiple flats in one building.
+
+---
+
+## 7. New Build — Rules and Limits
+
+### 7.1 What counts as new build
+
+Any one of the following:
+
+* Never occupied (for conversions: not occupied since conversion)
+* Being sold/marketed by the builder/developer (even if previously tenanted)
+* Constructed within 2 years (to application date)
+* Converted into a flat within 2 years as part of a scheme (e.g., mill, factory, school, church, council block conversions)
+
+### 7.2 Residential LTV caps
+
+* Houses: up to 90%
+* Flats/maisonettes: up to 80%
+  (Always apply the lowest cap once all other rules are considered.)
+
+### 7.3 Incentives
+
+Cash incentives (up to 5% of purchase price): cashback, SDLT paid, professional fees paid, guaranteed rent, etc.
+Non-cash incentives (accepted without affecting loan): fixed/fitted items including white goods.
+
+---
+
+## 8. Newly Qualified Professional Product (NQP)
+
+* Available up to 95% LTV
+
+Eligibility (at least one applicant):
+
+* Fully qualified as Accountant, Architect, Barrister, Chartered Surveyor, Dentist, Medical Doctor, Pharmacist, Solicitor, Vet
+* Employed/self-employed
+* Minimum income £30,000
+* Qualified within last 5 years
+* Provide certification evidence with date
+
+Enhanced criteria:
+
+* Income multiples up to 5.5× for eligible NQPs
+* Joint cases: standard multiples apply to non-NQP income
+* Always subject to affordability
+
+---
+
+## 9. Offset Mortgages — Linked Accounts
+
+Eligible: certain Virgin Money accounts (sort code starting 82).
+
+Currently available accounts: Club M Account, Club M Saver, M Plus Account, M Plus Saver
+Legacy but still linkable: Private Current, Private Savings, Current Account Control, Current Account Tracker, Savings Account Plus, Savings Account Plus – Offset, Offset Business Current Account
+
+Rules:
+
+* Up to 6 eligible accounts can be linked
+* If only one linked account, it must be a Virgin Money current account
+* Accounts are not automatically opened during the mortgage process
+
+Account opening for new applications:
+
+* At offer stage: 2 call attempts + 2 follow-up emails
+
+How offset works:
+
+* Interest charged on mortgage balance minus linked savings
+* Savings earn no interest but remain accessible
+* Payments remain unchanged; this accelerates capital repayment on C&I
+* IO offset: interest reduced but full payments still due
+* Fully offset: no interest charged; may receive credit interest on the offset balance
+
+Special cases:
+
+* Yorkshire Bank accounts not linkable
+* Offset ceases if switching to a fixed-rate mortgage
+* Support: Mortgage Services Team 0800 121 4203
+
+---
+
+## 10. Portability
+
+All Clydesdale Bank mortgages are portable subject to new case meeting current policy.
+
+How to port:
+
+1. Request an illustration via [Existing.Customer.Support@cybg.com](mailto:Existing.Customer.Support@cybg.com).
+2. Submit an application using Porting & Additional Borrowing forms (Residential or BTL).
+3. Packaging as per purchase/remortgage.
+
+Procuration fee: 0.4% on porting applications.
+
+Changing parties:
+
+* Balance is split evenly between existing named parties.
+* Additional borrowing available from on-sale range.
+* If one party does not port: may receive up to 50% of ERC refund; remaining party may port full balance.
+
+---
+
+## 11. Probationary Periods
+
+Acceptable if:
+
+* Customer is in probation or less than 6 months in role
+* Contract is permanent
+* First payslip has been received
+
+---
+
+## 12. Procurement (Procuration) Fee
+
+* Paid according to broker’s contract with the Bank
+
+---
+
+## 13. Product Fee
+
+* May be added to the loan provided total borrowing does not exceed:
+
+  * 95% LTV for Residential
+  * 80% LTV for BTL
+
+See Maximum LTV for full restrictions.
+
+---
+
+## 14. Product Switching (Pipeline)
+
+* Switch allowed on pipeline cases (any number of times) until Certificate of Title (COT) received
+* Use Change of Application Form
+* New offer issued if already offered, or updated illustration if not yet offered
+* Existing-customer product transfer pipeline cases can also switch
+
+---
+
+## 15. Product Transfer (PT)
+
+* Can apply 180 days before fixed-rate expiry
+
+Eligibility:
+
+* Payments up to date
+* No change in property use
+* No deterioration in financial circumstances
+* No change to regulatory status
+
+Interest-Only PT:
+
+* Must hold acceptable repayment strategy
+* If strategy not on acceptable list, may still be considered if legal, sufficient, and available before term end
+
+Additional notes:
+
+* Index valuation may be used to confirm LTV
+* Offset continues on new offset mortgage but ceases when switching to fixed
+* Within final 3 months before expiry, customers may make lump-sum reductions or borrow-back if previously overpaid
+* All on-sale products available subject to criteria
+
+---
+
+## 16. Proof of Rental Payments
+
+Option 1 – Bank statements:
+
+* Last 3 months
+* Annotated rental credits for each BTL
+
+Option 2 – Tenancy agreement:
+
+* Current, standard, signed by all parties
+* Not valid for subject property; rental confirmation must come from valuer
+
+---
+
+## 17. Professional
+
+We offer enhanced lending criteria for qualified professionals. This is separate from the Newly Qualified Professional (NQP) product.
+
+### Eligibility
+
+At least one applicant must be a qualified professional currently practising in their field. The professional must hold the relevant qualification and be registered with the appropriate professional body where applicable.
+
+### Acceptable Professions
+
+* Accountants (ACA, ACCA, CIMA, CPFA)
+* Architects (RIBA)
+* Barristers
+* Chartered Surveyors
+* Dentists
+* Medical Doctors
+* Pharmacists
+* Solicitors
+* Veterinarians
+
+Other professional qualifications may be considered on a case-by-case basis. Please contact us to discuss.
+
+### Enhanced Criteria
+
+* Higher income multiples may be available (subject to standard affordability assessment)
+* Minimum income requirements may be relaxed for eligible professionals
+* Standard LTV limits apply unless otherwise stated
+
+### Documentation
+
+* Evidence of professional qualification
+* Proof of current registration with professional body (where applicable)
+* Evidence of current practice in the profession
+
+### Income Assessment
+
+* Standard income assessment criteria apply
+* Professional income is assessed in the same way as other employed or self-employed income
+* Additional professional income streams may be considered subject to standard policies
+
+For specific details on professional lending criteria and available products, please refer to the Professional section on the Clydesdale Bank intermediaries website or contact us for guidance.
+
+---
+
+## 18. Property — Acceptability and Construction
+
+### 18.1 Unacceptable property types (non-exhaustive)
+
+* Agricultural ties/restrictions
+* Freehold flats/maisonettes
+* Live/work units
+* Properties with commercial adaptations or leased-out land
+* Mobile homes, boats
+* Shared equity, low-cost or restricted resale schemes
+* Sheltered housing/age-restricted
+* Properties not occupiable 365 days a year
+* Care homes, kennels, catteries, caravan parks, working farms
+* Studios under 30 m²
+* HMOs
+* Charge of part (must mortgage full title)
+* Flying freehold over 15% GIA
+
+### 18.2 BTL (location/demand)
+
+* Considered in owner-occupied or predominantly tenanted areas; demand assessed.
+
+### 18.3 MEES (BTL)
+
+* EPC must be E or above; non-compliant declined.
+
+### 18.4 Ex-Local Authority flats/maisonettes
+
+* Acceptable up to 7 storeys subject to valuer assessment.
+* Problematic deck/balcony access → decline.
+* Must have suitable stairwell entrances and strong owner-occupier demand.
+
+### 18.5 Flats above/adjacent to commercial
+
+* Acceptable if no adverse impact and separate residential entrance.
+* Usually unacceptable above/adjacent to food/drink or dry-cleaning/launderette units.
+
+### 18.6 Land / large acreage
+
+* Up to 2 acres included in valuation; excess not valued.
+* Saleability must be appropriate to residence type.
+
+### 18.7 New-home guarantees (10-year warranty or PCC)
+
+Acceptable warranties include: Advantage HCI, Build Assure, Build-Zone, BLP, Castle 10/Checkmate, Global Home Warranties, Homeproof (ex-Aedis), ICW, LABC, NHBC, Premier Guarantee, Protek, Q Assure, Thomas Miller Specialty, etc.
+
+UK Finance standard PCC acceptable for a single dwelling or single-dwelling flat conversion, not for multi-unit new-build conversions.
+
+Conversions are not lent pre- or mid-construction. Larger conversions assessed as new builds upon completion.
+
+### 18.8 Freehold flats
+
+* Not accepted.
+
+### 18.9 High-rise blocks
+
+* Acceptable if originally built for owner-occupation; ex-LA generally not acceptable.
+* Must have suitable construction (concrete/steel with robust façade).
+* Lift required for 5th floor or higher; decline if no lift.
+* No lift required for 4th floor or below.
+
+### 18.10 Japanese Knotweed
+
+* Category A/B: PCA/ISSE report + full remedials + 10-year insurance-backed guarantee; funding ring-fenced.
+* Category C/D: usually acceptable without further action.
+
+### 18.11 Occupancy restrictions
+
+Not accepted:
+
+* Holiday lets
+* Less than 365-day occupancy
+* Agricultural ties
+* Section 106 restrictions
+* Age-restricted
+* Live/work units
+
+### 18.12 Standard construction
+
+* Main walls: masonry cavity/solid, or modern timber/steel frame with masonry skin
+* Roofs: pitched tile/slate/modern metal; flat felt/asphalt/GRP (up to 100% PB flats, 25% others)
+* Structure: timber cut/trussed or steel framework
+
+### 18.13 Non-standard construction
+
+* Considered case-by-case; must be well-maintained, saleable, and have a suitable warranty
+* Timber-clad homes are unacceptable
+* Other types require referral
+
+### 18.14 MMC (Modern Methods of Construction)
+
+* Considered individually with inspection and valuation
+* Must have unqualified NHBC (or similar) and BPS 2020/21 certification
+* Must be insurable and marketable
+* Referral required before application
+
+### 18.15 Timber-framed detail
+
+* Modern factory-produced with masonry skin acceptable
+* Limited decorative lightweight cladding may be acceptable
+* Some render-on-mesh systems acceptable with NHBC + TRADA
+* Lightweight softwood (e.g., shed-type) is not acceptable
+* Historic hardwood frames may be acceptable subject to inspection
+
+### 18.16 Escalating ground rent
+
+* Allowed if reasonable and linked to RPI or similar
+* No doubling every 15 years or less
+* Refer if uncertain
+
+---
+
+## 19. References
+
+* All applications subject to credit search/score
+* Full or telephone references from employer or accountant may be requested
+
+---
+
+## 20. Remortgage — Switching Package
+
+* Includes one free valuation (property ≤ £3m) and free basic legal work
+* For properties > £3m, borrower pays full valuation fee
+* Free basic legals available for property value up to £2m
+* Applies to capital raising on unencumbered property
+* Legal firm selected by lender; extra charges may apply
+* Funds transfer fee up to £35
+
+Eligibility exclusions:
+
+* Not available where documents require Power of Attorney
+* Not available for trust-held properties
+
+Extra fees likely for: transfer of equity, staircasing, JBSO, title charges, solar leases, third-party solicitor, title restrictions, etc.
+
+Own solicitor:
+
+* Allowed at customer cost
+* Must act for borrower and lender
+* Must be on Approved Legal Panel
+
+---
+
+## 21. Repayment Strategies (Interest-Only)
+
+* Full list in IO policy
+* Downsizing requires details of target property type, location, and expected purchase price.
+* If equity insufficient, provide evidence of additional strategies.
+
+For residential IO borrowing over £1.5m using downsizing:
+
+* Downsizing allowed up to 70% LTV
+* Borrowing above this must be C&I or supported by separate acceptable strategy
+
+---
+
+## 22. Residency
+
+* Applicants must be UK-resident with 3 consecutive years of UK address history
+* Non-UK/Irish nationals: see Foreign Nationals policy
+
+---
+
+## 23. Right to Buy
+
+* Not accepted
+
+---
+
+# Residential Lending Criteria — Home S–Z
+
+---
+
+## Second Jobs
+
+We can use 100% of second-job income where:
+
+* It has been received for at least 12 months, and
+* The applicant has received their first payslip in that role.
+
+---
+
+## Second Residential Properties (Second Homes)
+
+We can lend for a single second home (one in addition to the main residence) if both mortgages can be serviced entirely from salary, subject to standard credit assessment.
+
+Conditions:
+
+* Affordability must show the applicant can service both mortgages and the ongoing costs of two homes; total indebtedness is considered.
+* Maximum LTV: 80%.
+* The property must not be let on an AST or as a holiday let.
+
+---
+
+## Self Build / Shared Ownership / Shared Equity
+
+* We do not lend on self build, shared ownership, or shared equity.
+
+---
+
+## Self-Employed
+
+### Limited Company
+
+Shareholding 25% or more (combined for all applicants):
+
+* Income used = 2-year average of (share of net profit after tax + director’s salary).
+* If the most recent year is lower, use that lower figure.
+
+Shareholding under 25% (combined):
+
+* Treated as employed.
+
+Eligibility:
+
+* Business must have traded for 2 years.
+* Most recent accounts’ year-end must be within 21 months and not overdue.
+* Usually must show profit in each of the last 2 years and no negative net current assets or shareholders’ funds in the latest year.
+  If not, contact us with rationale — we may still help.
+
+### Sole Trader or Partnership
+
+Income used:
+
+* 2-year average of net profit (use most recent year if lower).
+
+Eligibility:
+
+* Trading for 2 years.
+* Most recent SA302 and tax year overview must be within 21 months.
+* Usually profitable in each of the last 2 years; otherwise contact us with rationale.
+
+### Limited Liability Partnership (LLP)
+
+Equity partners / profit-share recipients:
+
+* Income used = total remuneration (regardless of ownership %).
+* Use 2-year average; if most recent year is lower, use that.
+* Typically need 2 years in the LLP (including any time as an employee). If less, contact us.
+
+Salaried members with no shareholding:
+
+* Treated as employed.
+
+### Loan-to-Income (LTI)
+
+* If any applicant is self-employed: maximum 5× LTI.
+* Remortgage with no additional borrowing up to 85% LTV: maximum 5.5× LTI.
+
+### Change of Trading Entity
+
+* Acceptable (e.g., sole trader → limited company) with no minimum period for the new entity, provided income can be evidenced over 2 years across the old/new entities.
+
+### Notes
+
+* Foreign-currency income is not accepted.
+* If the term extends to or beyond the customer’s declared retirement age or their 71st birthday, see Lending Into Retirement policy.
+* For contractor queries, see Contractor policy.
+* See Packaging Requirements for evidence details.
+
+---
+
+## Solicitors
+
+* We use an approved panel of solicitors/licensed conveyancers for purchase and remortgage cases.
+  See the Clydesdale Bank Approved Legal Panel page.
+
+---
+
+## Telegraphic Transfer (TT)
+
+* Advance funds are sent to the solicitor/conveyancer on completion.
+* A £40 TT fee is deducted from the loan at completion.
+
+---
+
+## Tenancy Types
+
+* Assured Shorthold Tenancy (AST): minimum 6 months, maximum 12 months (including Scottish equivalents).
+
+---
+
+## Term
+
+* Minimum: 5 years
+* Maximum: 40 years
+* See Age Criteria for further guidance.
+
+---
+
+## Transcripts
+
+For residential purchase applications up to 95% LTV for properties in Scotland we accept a transcript of a Scottish Home Report (Single Survey) dated within the last 90 days from any of the following firms:
+
+Allied Surveyors Scotland, Connells, D M Hall, David Adamson & Partners, Dixon Heaney Kean Kennedy, First Surveyors Scotland, Gateway Surveyors, Graham & Sibbald, J & E Shepherd, L A Simpson Chartered Surveyors, N J Coward, S J Omand Chartered Surveyors, Sesame Bankhall, Shetland Surveyors Limited, Torrance Partnership, Walker Fraser Steele, Valunation, Whyte & Barrie.
+
+We do not charge a fee for a transcript. If the report is more than 90 days old or the firm is not one of those listed above, we will require a lender's valuation report.
+
+---
+
+## Undervalue Transactions
+
+(Deed of Gift or purchase for less than full market value)
+
+* Must have an existing associated relationship with the vendor.
+* For LTV, use the lower of the purchase price and the valuation (the discounted price). Both figures must be included in the application.
+* We can consider up to 100% of the purchase price, subject to standard credit requirements.
+* The solicitor/conveyancer must:
+
+  * Confirm the gifting family member is not insolvent, and
+  * Arrange indemnity insurance for the full property value if necessary.
+* Related-party purchase: separate legal representation is required — the same solicitor cannot act for both buyer and seller.
+
+---
+
+## Valuation Fees
+
+Valuation report
+
+The only valuation type available is a lender's valuation report which is for Clydesdale to calculate how much we can lend. This may involve a physical inspection of the property or be completed remotely without visiting the property. The customer may want to separately instruct a firm of their choosing to carry out a valuation or survey.
+
+Fees
+
+We offer a range of products with one free valuation for properties valued up to £3m. If the property is valued over £3m we'll cover the first £1,640 of the valuation fee. Our product details will make clear if a free valuation applies.
+
+The fees below include VAT and an administration fee. The cost to Clydesdale may differ from the fee charged.
+
+We may also charge a reinspection fee of £58.75 where a valuation expires and needs to be updated or where work has been carried out and the valuation needs to be updated.
+
+Valuation	Fee (£)
+Up to £100,000	124
+£100,001 - £150,000	139
+£150,001 - £200,000	163
+£200,001 - £250,000	181
+£250,001 - £300,000	200
+£300,001 - £350,000	216
+£350,001 - £400,000	229
+£400,001 - £450,000	249
+£450,001 - £500,000	272
+£500,001 - £600,000	312
+£600,001 - £700,000	357
+£700,001 - £800,000	401
+£800,001 - £900,000	445
+£900,001 - £1,000,000	488
+£1,000,001 - £1,250,000	681
+£1,250,001 - £1,500,000	775
+£1,500,001 - £1,750,000	828
+£1,750,001 - £2,000,000	880
+£2,000,001 - £2,250,000	1,276
+£2,250,001 - £2,500,000	1,398
+£2,500,001 - £2,750,000	1,519
+£2,750,001 - £3,000,000	1,640
+£3,000,001 - £3,500,000	1,883
+£3,500,001 - £4,000,000	2,005
+£4,000,001 - £4,500,000	2,126
+£4,500,001 - £5,000,000	2,247
+Over £5,000,000	Quoted individually
