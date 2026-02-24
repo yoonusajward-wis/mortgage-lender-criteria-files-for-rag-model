@@ -1,14 +1,17 @@
-LENDER NAME: AIB
-PRODUCT: Intermediaries
+# AIB (NI) FOR INTERMEDIARIES – RESIDENTIAL LENDING CRITERIA
 
-# AIB (NI) for Intermediaries - Residential Lending Criteria
+---
 
-**Source:** [https://aibni.co.uk/intermediaries/criteria-and-calculator/our-criteria/a-z](https://aibni.co.uk/intermediaries/criteria-and-calculator/our-criteria/a-z)
-**Last Updated:** 2025
+**LENDER:** AIB (NI)
+**PRODUCT:** Intermediaries (Residential, Northern Ireland)
+**DOCUMENT TYPE:** Residential lending criteria. 7 sections: 1 Applicant, 2 Loan, 3 Employment and Income, 4 Property, 5 Buy to Let, 6 Insurance, 7 Self Build.
+**SOURCE:** [https://aibni.co.uk/intermediaries/criteria-and-calculator/our-criteria/a-z](https://aibni.co.uk/intermediaries/criteria-and-calculator/our-criteria/a-z)
+**LAST VERIFIED:** 2025
 
-**FOR INTERMEDIARY USE ONLY**
+**IMPORTANT:**
+For intermediary use only. This website is for use by FCA authorised mortgage intermediaries registered with AIB (NI) only and should not be relied upon by anyone else.
 
-This website is for use by FCA authorised mortgage intermediaries registered with AIB (NI) only and should not be relied upon by anyone else.
+**RAG convention:** Where applicable, criteria use explicit labels **Maximum:** **Minimum:** **Allowed:** **Not Acceptable:** **Condition:** so that rules are self-contained for retrieval.
 
 **Contact:** Run-by desk: 028 9047 9100 | Email: broker.mortgages@aib.ie
 
@@ -16,31 +19,31 @@ This website is for use by FCA authorised mortgage intermediaries registered wit
 
 ---
 
-## Applicant
+# SECTION 1 – APPLICANT
 
-### Age
+## Age
 
-All applicants must be aged 18 or over.
+**Minimum:** All applicants must be aged 18 or over.
 
-Generally it is expected that retirement will take place at state retirement age (up to 70 for self-employed) unless there is evidence from employer of an older retirement age. Where the loan term extends beyond retirement the Bank will require appropriate and clear demonstration of affordability beyond anticipated retirement date.
+**Condition (retirement):** Generally it is expected that retirement will take place at state retirement age (up to 70 for self-employed) unless there is evidence from employer of an older retirement age. Where the loan term extends beyond retirement the Bank will require appropriate and clear demonstration of affordability beyond anticipated retirement date.
 
-### Address history
+## Address history
 
-AIB for Intermediaries require three years' address history for all applicants.
+**Condition:** AIB for Intermediaries require three years' address history for all applicants.
 
 Where an applicant is not able to provide three years' UK address history, non-UK addresses should be provided.
 
-### Number of applicants
+## Number of applicants
 
-AIB for Intermediaries will accept up to four applicants on a mortgage.
+**Maximum:** AIB for Intermediaries will accept up to four applicants on a mortgage.
 
-Where a Parental/Guardian Guarantor is necessary, the maximum applicants will be guarantor + 3 others. Please see parental/guardian support section below for further details.
+**Condition (guarantor):** Where a Parental/Guardian Guarantor is necessary, the maximum applicants will be guarantor + 3 others. Please see parental/guardian support section below for further details.
 
-If more than 2 applicants on the mortgage a second application will need to be completed.
+**Condition:** If more than 2 applicants on the mortgage a second application will need to be completed.
 
-### Credit check
+## Credit check
 
-A satisfactory/clean Credit Bureau Search including a fraud check is required for all applicants.
+**Condition:** A satisfactory/clean Credit Bureau Search including a fraud check is required for all applicants.
 
 Any one of the scenarios below will be permissible:
 
@@ -60,57 +63,53 @@ Subject to:
 * overdue payments outside of timeframes outlined, on facility types above, can be disregarded but must still be considered in the overall context of the borrower's credit history and the mortgage application
 * cases where there is evidence provided that an overdue payment was caused by an error of the Bank or other third party can be disregarded
 
-### Credit history
+## Credit history
 
-#### Bankruptcy
+## Bankruptcy
 
-AIB for Intermediaries do not accept applications from individuals who are, or have been subject to a bankruptcy order.
+**Not Acceptable:** AIB for Intermediaries do not accept applications from individuals who are, or have been subject to a bankruptcy order.
 
-#### Individual Voluntary Arrangements (IVA)
+## Individual Voluntary Arrangements (IVA)
 
-AIB for Intermediaries do not accept applications from individuals who are, or have been subject to an Individual Voluntary Arrangement.
+**Not Acceptable:** AIB for Intermediaries do not accept applications from individuals who are, or have been subject to an Individual Voluntary Arrangement.
 
-#### County Court Judgments (CCJ)
+## County Court Judgments (CCJ)
 
-AIB for Intermediaries do not accept applications from individuals who are, or have been subject to a County Court Judgement.
+**Not Acceptable:** AIB for Intermediaries do not accept applications from individuals who are, or have been subject to a County Court Judgement.
 
-#### Previous Secured Lending Defaults / Property Repossessions
+## Previous Secured Lending Defaults / Property Repossessions
 
-AIB for Intermediaries do not accept applications from individuals who are, or have been subject to a secured lending default or property repossession.
+**Not Acceptable:** AIB for Intermediaries do not accept applications from individuals who are, or have been subject to a secured lending default or property repossession.
 
-### Proof of identification
+## Proof of identification
 
-**Acceptable**
+**Allowed (Proof of identification):**
 
-| Document type | Requirements |
-| --- | --- |
-| Current signed passport | Must be in date and signed. Copies of residency permits/UK visas should be copied and retained. Photocopies should be in black and white (per HM Stationery Office) |
-| Current UK/EEA Full or Provisional Driving Licence or a blue disabled driver's pass | Pink N.I. Photocard licence acceptable on it's own. Both Photocard and paper counterpart to be present for old style white laminate card Northern Ireland Licences only |
-| EEA Member State Identity Card Electoral Identity Card | If this is used for ID, the Electoral Roll CANNOT be used to verify address |
-| Current Shotgun or Firearms Certificate Issued by a UK Police Force | |
-| HMRC tax notifications | i.e. Tax assessment, statement of account, notice of coding. Must show applicants stated residential address. P45s & P60s are not official Inland Revenue documents and are therefore not acceptable |
-| Self-employed in the Construction Industry - photographic registration cards | C1S4, C1S4(P), C1S4(T), C1S5 & C1S6 |
-| Government Employee ID card | Police, Armed Forces, Customs & Excise, Civil Servant (with photograph) |
+* **Current signed passport:** Must be in date and signed. Copies of residency permits/UK visas should be copied and retained. Photocopies should be in black and white (per HM Stationery Office)
+* **Current UK/EEA Full or Provisional Driving Licence or blue disabled driver's pass:** Pink N.I. Photocard licence acceptable on its own. Both Photocard and paper counterpart to be present for old style white laminate card Northern Ireland Licences only
+* **EEA Member State Identity Card / Electoral Identity Card:** If this is used for ID, the Electoral Roll CANNOT be used to verify address
+* **Current Shotgun or Firearms Certificate issued by a UK Police Force:** Acceptable
+* **HMRC tax notifications:** e.g. Tax assessment, statement of account, notice of coding. Must show applicant's stated residential address. P45s & P60s are not official Inland Revenue documents and are therefore not acceptable
+* **Self-employed in the Construction Industry - photographic registration cards:** C1S4, C1S4(P), C1S4(T), C1S5 & C1S6
+* **Government Employee ID card:** Police, Armed Forces, Customs & Excise, Civil Servant (with photograph)
 
-### Proof of address
+## Proof of address
 
-**Acceptable**
+**Allowed (Proof of address):**
 
-| Document type | Requirements |
-| --- | --- |
-| Current UK Photocard Full or Provisional Driving Licence | Provided not used as evidence of identity. Pink N.I. Photocard licence acceptable on it's own. Both Photocard and paper counterpart to be present for old style white laminate card Northern Ireland Licences only |
-| Voters Roll Search | Provided Electoral Identity card is not used as evidence of identity |
-| Recent utility bill or utility statement or certificate from supplier of utilities confirming the arrangement to pay for the services on pre payment terms | Statement date must be less than 3 months old, Mobile phone bill is NOT acceptable. Must show current address. Internet printouts are not acceptable |
-| Rates Collection Agency bill | Must be valid for the current year |
-| HMRC Correspondence addressed to the applicant at the applicant's stated address | Provided Inland Revenue notifications were not used as evidence of identity. Hand-written forms are not acceptable |
-| Original bank/building society/mortgage/credit card statement | This cannot be a AIB (NI) statement. AIB ROI statements are acceptable. Store card statements are not acceptable. Only Credit Card statements issued by a regulated financial institution may be acceptable. Statement date must be less than 3 months old. Internet printouts are not acceptable |
-| Benefit Book or original notification letter from the relevant benefits agency confirming the right to benefits/state pension | Provided that one or other has not been used as evidence of personal identity |
-| Rent Book or Tenancy Agreement issued by reputable Landlord | Address must be shown on the document |
-| Current Motor Insurance Certificate/Schedule | Address must be shown on the document |
-| Current Home Insurance Certificate/Schedule | Address must be shown on the document |
-| Original Vehicle Registration Document | Address must be shown on the document |
+* **Current UK Photocard Full or Provisional Driving Licence:** Provided not used as evidence of identity. Pink N.I. Photocard licence acceptable on its own. Both Photocard and paper counterpart to be present for old style white laminate card Northern Ireland Licences only
+* **Voters Roll Search:** Provided Electoral Identity card is not used as evidence of identity
+* **Recent utility bill or utility statement or certificate from supplier of utilities (pre payment):** Statement date must be less than 3 months old. Mobile phone bill is NOT acceptable. Must show current address. Internet printouts are not acceptable
+* **Rates Collection Agency bill:** Must be valid for the current year
+* **HMRC Correspondence addressed to the applicant at the applicant's stated address:** Provided Inland Revenue notifications were not used as evidence of identity. Hand-written forms are not acceptable
+* **Original bank/building society/mortgage/credit card statement:** Cannot be an AIB (NI) statement. AIB ROI statements are acceptable. Store card statements are not acceptable. Only Credit Card statements from a regulated financial institution may be acceptable. Statement date must be less than 3 months old. Internet printouts are not acceptable
+* **Benefit Book or original notification letter from the relevant benefits agency:** Provided that one or other has not been used as evidence of personal identity
+* **Rent Book or Tenancy Agreement issued by reputable Landlord:** Address must be shown on the document
+* **Current Motor Insurance Certificate/Schedule:** Address must be shown on the document
+* **Current Home Insurance Certificate/Schedule:** Address must be shown on the document
+* **Original Vehicle Registration Document:** Address must be shown on the document
 
-### Parental/guardian support guarantee
+## Parental/guardian support guarantee
 
 Where there is a reliance on a third party for affordability our preference will be for the third party to be added as an additional applicant on the loan. We may accept applications with guarantors where necessary on a case by case basis subject to maximum applicant amounts. Where a Letter of Guarantee is taken, the Guarantor's repayment capacity is confirmed in the same way as any borrower.
 
@@ -118,7 +117,7 @@ The following additional criteria will apply:
 * Customers in early/mid 20's in full time employment whose income is insufficient to meet criteria for the full amount of a mortgage but who can be supported by a parent/guardian.
 * The facility will be by way of a Mortgage in the name of the son/daughter supported by a Guarantee for the full Mortgage amount from the parent(s)/guardian(s), subject to assessment of repayment capacity.
 
-### Residency status
+## Residency status
 
 Residency requirements are covered under the Address history section above. Applicants must provide three years' address history, with non-UK addresses acceptable where UK address history is not available.
 
@@ -126,21 +125,21 @@ Residency requirements are covered under the Address history section above. Appl
 
 ## Loan
 
-### Cashback
+## Cashback
 
 Cashback is available on a range of our fixed rates. Cashback applies to new lending only - cashback is payable within one month of draw down, subject to the loan not being redeemed during that time. Some exclusions apply: Further Advances and loans less than £100,000. The cashback amount you may receive, subject to eligibility, is based upon the cashback offerings we have available at the time you submit your application.
 
-### Acceptable loan purposes
+## Acceptable loan purposes
 
-AIB for Intermediaries will consider applications for the following loan purposes providing the application meets all our lending criteria:
+**Allowed:** AIB for Intermediaries will consider applications for the following loan purposes providing the application meets all our lending criteria:
 * to purchase residential properties for owner-occupation
 * to remortgage residential properties for owner-occupation
 * to improve, repair or maintain residential properties that are owner-occupied
 * to purchase the equity of another party to the mortgage
 
-### Unacceptable loan purposes
+## Unacceptable loan purposes
 
-AIB for Intermediaries will not accept applications for the following:
+**Not Acceptable:** AIB for Intermediaries will not accept applications for the following:
 * Buy to let properties
 * Debt consolidation
 * Loans used for bridging finance
@@ -149,34 +148,34 @@ AIB for Intermediaries will not accept applications for the following:
 * Replenishment of savings and investment
 * Purchase of shares
 
-### Source of deposit
+## Source of deposit
 
-Evidence of the Balance of Purchase Price is required and will be retained on the customer file. This includes:
+**Condition:** Evidence of the Balance of Purchase Price is required and will be retained on the customer file. This includes:
 * Statements of savings/deposit accounts
 * Evidence of investment products to be liquidated
 * In the case of gifted deposits, clear evidence of ability to provide funds together with confirmation from donor that gift is not repayable in the future. You will find our Confirmation of Gifted Deposit form [here](https://aibni.co.uk/intermediaries/forms-and-packaging/all-forms).
 
-### Minimum repayment term
+## Minimum repayment term
 
-A minimum repayment term of 12 months applies to all loan types.
+**Minimum:** A minimum repayment term of 12 months applies to all loan types.
 
-### Maximum repayment term
+## Maximum repayment term
 
-The maximum repayment term is 35 years, this may be restricted by our maximum age limits.
+**Maximum:** The maximum repayment term is 35 years; this may be restricted by our maximum age limits.
 
-### Minimum property value
+## Minimum property value
 
-Loan applications will only be taken for properties valued in excess of £80,000.
+**Minimum:** Loan applications will only be taken for properties valued in excess of £80,000.
 
-### Minimum loan amount
+## Minimum loan amount
 
-A minimum loan amount of £25,000 applies to all loan types.
+**Minimum:** A minimum loan amount of £25,000 applies to all loan types.
 
-### Maximum loan amount
+## Maximum loan amount
 
-Please refer to our run-by desk for further details if application is for over £1,000,000.
+**Maximum:** Please refer to our run-by desk for further details if application is for over £1,000,000.
 
-### Repayment types
+## Repayment types
 
 Applications will be accepted on a Capital and Interest repayment basis. An exception to this is Self-Build properties.
 
@@ -184,43 +183,43 @@ For Self-Build properties, the customer will be offered a 'Low Start' option, al
 
 Existing AIB (NI) mortgages which have a built in 'porting clause' may only be ported through the retail AIB (NI) channel.
 
-### LTV
+## LTV
 
 The appropriate LTV is determined by the total amount of the mortgage (i.e. existing balance plus amount of Further Advance) expressed as a percentage of the lesser of the property value or purchase price.
 
-#### Max LTV Table
+## Max LTV Table
 
-| Product | Property value < £300,000 | Property value > £300,000 and < £750,000 | Property value > £750,000 | Details |
-| --- | --- | --- | --- | --- |
-| First time buyer | Max 95% | Max 90% | Max 80% | Max LTV is subject to repayment capacity |
-| Home mover | Max 95% | Max 90% | Max 80% | |
-| Switcher | Max 95% | Max 90% | Max 80% | |
-| Further advance | Max 95% | Max 90% | Max 80% | |
-| New builds | Max 90% | Max 90% | Max 80% | |
-| Self-Build | Max 75% LTV | | | |
-| 1 bed apartments | Max 80% LTV | | | |
-| 2 bed apartments | Max 90% LTV | | | |
-| Holiday home / second home | Max 80% LTV | | | |
+**Maximum LTV by product and property value:**
 
-### Further advances
+* **First time buyer:** Property under £300k: Max 95%; £300k–£750k: Max 90%; over £750k: Max 80%. Max LTV subject to repayment capacity
+* **Home mover:** Under £300k: 95%; £300k–£750k: 90%; over £750k: 80%
+* **Switcher:** Under £300k: 95%; £300k–£750k: 90%; over £750k: 80%
+* **Further advance:** Under £300k: 95%; £300k–£750k: 90%; over £750k: 80%
+* **New builds:** Under £300k: 90%; £300k–£750k: 90%; over £750k: 80%
+* **Self-Build:** Max 75% LTV
+* **1 bed apartments:** Max 80% LTV
+* **2 bed apartments:** Max 90% LTV
+* **Holiday home / second home:** Max 80% LTV
+
+## Further advances
 
 Applications for Further Advances will be subject to the standard assessment and approval process for residential mortgages.
 
-### Lending for business purposes
+## Lending for business purposes
 
-AIB for Intermediaries do not accept applications for this purpose.
+**Not Acceptable:** AIB for Intermediaries do not accept applications for this purpose.
 
-### Retentions
+## Retentions
 
 If we make a retention from an advance (for example, for repairs, improvements or road works) we are not obliged to release that retention, or any part of it, if the borrower is in breach of any of his obligations under the mortgage, or if a condition attached to the retention has not been met or if the loan has been repaid in full.
 
-### Offer validity
+## Offer validity
 
 Offers of advance for all mortgages are valid for a period of six months from the date of offer subject to the loan offer being signed and returned within 28 days.
 
 Mortgage offers may be extended on a case by case basis. Where extension is allowed, the broker may be required to provide evidence that the applicant's financial position has not deteriorated and that the mortgage remains affordable.
 
-### Portability
+## Portability
 
 Porting is now an option for AIB (NI) mortgage customers.
 
@@ -230,29 +229,29 @@ Porting is offered to our Private Dwelling House (PDH) customers only. Porting a
 
 Download our [Porting Your Mortgage](https://aibni.co.uk/content/dam/aibni/intermediary/Documents/criteria-and-calculator/porting-your-mortgage.pdf) Brochure
 
-### Co-ownership
+## Co-ownership
 
 Co-ownership schemes are available. Please refer to our [Co-Ownership products page](https://aibni.co.uk/intermediaries/products-and-rates/co-ownership) for further details.
 
 ---
 
-## Employment and Income
+# SECTION 3 – EMPLOYMENT AND INCOME
 
-### Employment criteria
+## Employment criteria
 
 AIB for Intermediaries will accept applications for those who are employed and self employed. The bank will also accept applications from individuals in contracted employment providing sustainable affordability can be proven.
 
-### Income classification
+## Income classification
 
 Intermediaries should satisfy themselves as to the nature of the income by way of the methods outlined in the 'proof of income' section.
 
 When calculating a borrower's annual income, only include Basic Guaranteed Income.
 
-### Proof of income
+## Proof of income
 
 Only income earned in Pounds Sterling (£) from employment / investments in the UK will be accepted for affordability purposes.
 
-#### Employees
+## Employees
 
 * Certified copy of most recent 1 month payslip _†_
 * Certified copy of latest P60
@@ -266,7 +265,7 @@ _**†Note: If your Switcher customer:**_
 
 _there is a reduced requirement for employment documentation - One up to date payslip only._
 
-#### Self Employed
+## Self Employed
 
 * 3 years signed Financial Accounts (Certified / Audited)
 * Certified copy of 3 months business bank statements from immediately before application (not applicable where current account is with AIB (NI))
@@ -292,7 +291,7 @@ Net Income
 
 **Note:** An average of the past 3 years' surplus available to the applicants should be used for the affordability calculation. In cases where there are significant changes in profitability trends these should be referred to our Run By desk in order to agree a sustainable income figure.
 
-### Other income
+## Other income
 
 **Only income earned in Pounds Sterling (£) from employment / investments in the UK will be accepted for affordability purposes.**
 
@@ -307,17 +306,17 @@ The following income types may be taken into account for affordability purposes.
 
 If customer is less than six months in current employment, their employer will be required to confirm that applicant has successfully completed Probation and is confirmed in permanent employment. This confirmation can be by way of [AIB (NI) Salary Certificate](https://aibni.co.uk/content/dam/aibni/intermediary/Documents/forms-and-packaging/salary-certificate.pdf) or by letter on company headed paper.
 
-### Maternity / Paternity leave
+## Maternity / Paternity leave
 
 Where an applicant is on maternity/paternity leave, we accept the applicant's normal pay subject to the following:
 * The applicant will be returning to work within 6 months of the initial application date
 * Letter from employer confirming when the applicant will return to work and confirmation of salary on return to work
 
-### Income from multiple sources
+## Income from multiple sources
 
 AIB for Intermediaries will consider more than one source of income per applicant, provided they meet our acceptable income criteria and can be evidenced in line with our standard proof of income criteria.
 
-### Affordability
+## Affordability
 
 Establishing affordability is the key factor in assessing repayment capacity and the following criteria should be met when assessing a mortgage:
 * An overall assessment of the full financial position of the applicant must be carried out using the AIB for Intermediaries [Affordability Calculator](https://aibni.co.uk/intermediaries/criteria-and-calculator/affordability-calculator) and documented on file with particular emphasis on sustainability of the income. Essential & discretionary expenditure included in our affordability analysis will be based on Office of National Statistics market. Failure to determine income and expenditure in the process is a breach of MCOB.
@@ -344,81 +343,80 @@ Net Income
 
 **Note:** An average of the past 3 years' surplus available to the applicants should be used for the affordability calculation. In cases where there are significant changes in profitability trends these should be referred to our Run By desk in order to agree a sustainable income figure.
 
-### Credit card repayments
+## Credit card repayments
 
 In relation to credit cards, please follow this process when completing the affordability calculator. The monthly payment will be one of the following:
 * Where outstanding balance is paid in full each month, enter zero
 * Where outstanding balance is not paid in full each month, enter a minimum of 5% of outstanding balance
 
-### Other mortgages
+## Other mortgages
 
 This refers to other mortgages (Consumer buy to let, holiday home or investment property loans) that will continue following the drawdown of the new mortgage.
 
 We require this repayment to be stress tested as follows:
 
-| Product | Stress Rate + |
-| --- | --- |
-| Capital & Interest contracts | 3% above current rate |
-| Interest Only (I/O contract is for duration of Proposed Mortgage) | 3% above current rate on Interest only basis |
-| Interest Only (I/O matures pre-expiry date of this Proposed Mortgage) | 3% above current rate and on a Capital & Interest basis over a maximum term of 15 years |
+**Condition (stress test for other mortgages):**
+
+* **Capital & Interest contracts:** 3% above current rate
+* **Interest Only (I/O contract is for duration of Proposed Mortgage):** 3% above current rate on Interest only basis
+* **Interest Only (I/O matures pre-expiry date of this Proposed Mortgage):** 3% above current rate and on a Capital & Interest basis over a maximum term of 15 years
 
 **Example:**
 * Your current repayment is worked out as follows: £100,000 over 20 years at a rate of 3% = £560.14
 * Your stressed repayment is worked out as follows (using the same example): £100,000 over 20 years at a stressed rate of 6% (i.e. 3% + 3%) = £726.54
 
-### Required Surplus
+## Required Surplus
 
 AIB for Intermediaries affordability assessment takes into account a surplus income over the standard living costs.
 
-### Lending into retirement
+## Lending into retirement
 
 Generally it is expected that retirement will take place at state retirement age (up to 70 for self-employed) unless there is evidence from employer of an older retirement age. Where the loan term extends beyond retirement the Bank will require appropriate and clear demonstration of affordability beyond anticipated retirement date.
 
-### Transport costs
+## Transport costs
 
 Transport costs are included in the affordability assessment as part of the standard living costs based on Office of National Statistics market data.
 
-### Minimum living costs
+## Minimum living costs
 
 Minimum living costs are factored into the affordability assessment using Office of National Statistics market data for essential and discretionary expenditure.
 
 ---
 
-## Property
+# SECTION 4 – PROPERTY
 
-### Property location
+## Property location
 
-Applications will only be taken for properties located within Northern Ireland.
+**Condition:** Applications will only be taken for properties located within Northern Ireland.
 
-### Tenure
+## Tenure
 
-#### Freehold
+## Freehold
 
 Freehold tenure is acceptable for all properties in Northern Ireland, subject to CML requirements on apartments.
 
-#### Leasehold
+## Leasehold
 
 Leasehold tenure is acceptable for all properties in Northern Ireland, subject to CML requirements on apartments.
 
-The unexpired leasehold term must be at least 60 years at the end of the mortgage term.
+**Condition (Leasehold):** The unexpired leasehold term must be at least 60 years at the end of the mortgage term.
 
-### Tenancy
+## Tenancy
 
-All applicants must hold the property as Joint Tenants. Applications will not be accepted for applicants who will own the property as Tenants in Common.
+**Condition:** All applicants must hold the property as Joint Tenants.
+**Not Acceptable:** Applications will not be accepted for applicants who will own the property as Tenants in Common.
 
-### Construction
+## Construction
 
-#### Property Standards
+## Property Standards
 
 All forms of permanent residential property of conventional concrete, brick, steel and/or timber frame construction located in Northern Ireland are accepted by the Bank as security for mortgage lending. Property which is of a temporary and / or mobile nature is not accepted.
 
-### Flats/Apartments
+## Flats/Apartments
 
-| Property type | Policy |
-| --- | --- |
-| Studio flats and Bedsits | AIB for Intermediaries do not accept applications for this purpose |
+**Not Acceptable:** Studio flats and Bedsits – AIB for Intermediaries do not accept applications for this purpose.
 
-### New build or converted properties
+## New build or converted properties
 
 We define new build as properties that have been built within three years of the mortgage application or are properties to be occupied for the first time.
 
@@ -428,61 +426,61 @@ The maximum loan to value for this property type is 90% subject to [LTV policy](
 
 Loan offer valid for 6 months.
 
-### Builders incentives
+## Builders incentives
 
-AIB for Intermediaries do not accept applications where deposits of this nature apply.
+**Not Acceptable:** AIB for Intermediaries do not accept applications where deposits of this nature apply.
 
-### Purchase applications
+## Purchase applications
 
 For purchase applications, the vendor must have owned the property for a minimum of six months.
 
-### Security
+## Security
 
 A first legal mortgage/charge on the property being purchased must be obtained to secure the loan. For Leasehold properties, a minimum unexpired lease term of 60 years after the end of the mortgage term is required.
 
-### Contaminated land
+## Contaminated land
 
-AIB for Intermediaries do not accept applications for properties/land purchases which are subject to contamination.
+**Not Acceptable:** AIB for Intermediaries do not accept applications for properties/land purchases which are subject to contamination.
 
-### Solar panels
+## Solar panels
 
-AIB for Intermediaries do not accept applications for properties where solar PV panels connected to the property are subject to lease / business agreements.
+**Not Acceptable:** AIB for Intermediaries do not accept applications for properties where solar PV panels connected to the property are subject to lease / business agreements.
 
-We will accept applications where the solar panels connected to the property will be owned by the applicants upon completion and not subject to lease / business agreements.
+**Allowed:** We will accept applications where the solar panels connected to the property will be owned by the applicants upon completion and not subject to lease / business agreements.
 
-### Mixed Use Properties
+## Mixed Use Properties
 
-AIB for Intermediaries do not accept applications for mortgages on mixed use properties with a residential element. (e.g. Doctor's surgeries/guest houses/pubs)
-
----
-
-## Buy to Let
-
-### Consumer Buy to Let & Investment Property Loans
-
-AIB for Intermediaries do not accept applications for Consumer Buy to Let properties or Investment property loans.
+**Not Acceptable:** AIB for Intermediaries do not accept applications for mortgages on mixed use properties with a residential element (e.g. Doctor's surgeries/guest houses/pubs).
 
 ---
 
-## Insurance
+# SECTION 5 – BUY TO LET
 
-### Life assurance
+## Consumer Buy to Let & Investment Property Loans
+
+**Not Acceptable:** AIB for Intermediaries do not accept applications for Consumer Buy to Let properties or Investment property loans.
+
+---
+
+# SECTION 6 – INSURANCE
+
+## Life assurance
 
 It is strongly recommended that the lives of the applicants are insured for the full amount and term of the mortgage.
 
-### Home insurance / Fire cover
+## Home insurance / Fire cover
 
 The borrower is responsible for insuring the mortgaged property against fire to the full reinstatement value of the property, index linked.
 
 A copy of the schedule of appropriate buildings insurance will be required prior to drawdown of the mortgage facility.
 
-### Self-Build Insurances
+## Self-Build Insurances
 
 Self-Build insurance and Contractor's insurance are required for all Self-Build projects. An independent Self-Build Specialist will request these documents at the initial site review.
 
 ---
 
-## Self Build
+# SECTION 7 – SELF BUILD
 
 AIB for Intermediaries is now accepting applications for Self-Build properties.
 

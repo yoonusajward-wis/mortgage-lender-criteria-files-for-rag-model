@@ -1,74 +1,44 @@
-LENDER NAME: Accord Mortgages
-PRODUCT: Residential
+# ACCORD MORTGAGES – RESIDENTIAL LENDING CRITERIA
 
-# Accord Mortgages - Residential Lending Criteria
-**Source:** https://www.accordmortgages.com/criteria
-**Last Updated:** 2025
+---
 
-**FOR INTERMEDIARY USE ONLY**
+**LENDER:** Accord Mortgages
+**PRODUCT:** Residential
+**DOCUMENT TYPE:** Residential Criteria. 21 sections: 1 Income, 2 Deposit, 3 Age, 4 Foreign nationals, 5 Adverse credit, 6 Concessionary purchase, 7 Joint borrowers & guarantors, 8 Residence, 9 Unacceptable applicants, 10 Loan limits, 11 Additional lending, 12 Product transfers, 13 Portability, 14 Interest only, 15 Remortgages, 16 Schemes, 17 Debt consolidation, 18 Valuations, 19 Property specifics, 20 New build, 21 Letting.
+**SOURCE:** [https://www.accordmortgages.com/criteria](https://www.accordmortgages.com/criteria)
+**LAST VERIFIED:** Based on website content as of file creation date
 
-This website is for use by authorised intermediaries only and should not be relied upon by anyone else.
+**IMPORTANT:**
+This document covers Residential criteria only. For intermediary use only; for use by authorised intermediaries and should not be relied upon by anyone else.
+
+**RAG convention:** Where applicable, criteria use explicit labels **Maximum:** **Minimum:** **Allowed:** **Not Acceptable:** **Condition:** so that rules are self-contained for retrieval.
 
 ---
 
 ## Applicant
 
-# Income
+# SECTION 1 – INCOME
 
-**Main URL:** [https://www.accordmortgages.com/criteria/income](https://www.accordmortgages.com/criteria/income)
-
-### Page contents
-
-[Salaried income](#salaried-income)
-[Employed by family company](#employed-by-family-company)
-[Ltd company director](#ltd-company-director)
-[Salaried director income](#salaried-director-income)
-[Umbrella company income](#umbrella-company-income)
-[Self employed / partnership / limited liability partnership income](#self-employed--partnership--limited-liability-partnership-income)
-[Day rate contractor income](#day-rate-contractor-income)
-[Fixed term contract income](#fixed-term-contract-income)
-[Zero-hours contracts income](#zero-hours-contracts-income)
-[Term into retirement income](#term-into-retirement-income)
-[Foreign income](#foreign-income)
-[Maternity income](#maternity-income)
-[Rental income](#rental-income)
-[Investment income](#investment-income)
-[Maintenance payments income](#maintenance-payments-income)
-[Benefits](#benefits)
-[Foster care income](#foster-care-income)
-[Special guardianship](#special-guardianship)
-[Locum income](#locum-income)
-[Cryptocurrency income](#cryptocurrency-income)
-[Allowances for income](#allowances-for-income)
-[Deductions from income](#deductions-from-income)
-[Sports professionals](#sports-professionals)
-[LTI and income multiples](#lti-and-income-multiples)
-[Income for additional lending](#income-for-additional-lending)
 
 ## Salaried income
 
-**Main income**
+**Condition (main income):**
+* Employment must be permanent.
+* There is no minimum time in current employment.
+* 100% of gross basic salary accepted.
 
-* Employment must be permanent
-* There is no minimum time in current employment
-* 100% of gross basic salary accepted
+**Condition (second job income):**
+* 100% can be accepted.
+* Employment must be permanent and sustainable.
 
-**Second job income**
+**Allowed:**
+* All probationary periods can be disregarded (probationary period).
 
-* 100% can be accepted
-* Employment must be permanent and sustainable
+**Maximum (bonus/overtime):**
+* We accept 60% of sustainable overtime and bonus as long as the total amount doesn't exceed the basic income.
 
-**Probationary period**
-
-All probationary periods can be disregarded.
-
-**Bonus/Overtime**
-
-We accept 60% of sustainable overtime and bonus as long as the total amount doesn't exceed the basic income.
-
-**Commission**
-
-We accept 60% of sustainable commission, as long as the total amount doesn't exceed the basic salary.
+**Maximum (commission):**
+* We accept 60% of sustainable commission, as long as the total amount doesn't exceed the basic salary.
 
 **Confirmed pay increase**
 
@@ -420,14 +390,12 @@ All cases will require underwriter assessment.
 
 ## LTI and income multiples
 
-The table below details the maximum applicable income multiples available for different transactions. Please note in order to obtain an accurate affordability figure it is important to complete the affordability calculator accurately.
+**Condition:** The maximum applicable income multiples for different transactions are below. Please complete the affordability calculator accurately for an accurate figure.
 
-| Transaction Type                                          | Income below £50,000 (joint or sole basis) | Income above £50,000 (joint or sole basis) |
-| --------------------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
-| Standard Purchase and Remortgage up to 90% LTV            | 4.49x                                       | 5.0x                                        |
-| Standard Purchase and Remortgage up to 95% LTV             | 4.49x                                       | 4.49x                                       |
-| New Build Purchase up to 90%                              | 4.49x                                       | 5.0x                                        |
-| Standard Purchase over 95% LTV (The 5K Deposit Mortgage)  | 4.49x                                       | 4.49x                                       |
+* **Standard Purchase and Remortgage up to 90% LTV:** Income below £50,000 (joint or sole): 4.49x. Income above £50,000: 5.0x.
+* **Standard Purchase and Remortgage up to 95% LTV:** 4.49x (both income bands).
+* **New Build Purchase up to 90%:** Income below £50,000: 4.49x. Income above £50,000: 5.0x.
+* **Standard Purchase over 95% LTV (The 5K Deposit Mortgage):** 4.49x (both income bands).
 
 Please note: cases that utilise the cascade score product range will be capped at 5.0x LTI maximum. Those that require a LTI ratio of over 5.0x will require a boost LTI product.
 
@@ -454,14 +422,8 @@ The following outgoings must be declared:
 
 ---
 
-# Deposit
+# SECTION 2 – DEPOSIT
 
-**Main URL:** [https://www.accordmortgages.com/criteria/deposit](https://www.accordmortgages.com/criteria/deposit)
-
-### Page contents
-
-[Gifted deposit](#gifted-deposit)
-[Cryptocurrency deposit](#cryptocurrency-deposit)
 
 ## Gifted deposit
 
@@ -471,26 +433,21 @@ By family, we mean a relation by blood or law or if you are in a relationship an
 
 ## Cryptocurrency deposit
 
-We can accept cryptocurrency as a source of deposit (subject to full underwriting).
+**Allowed:**
+* We can accept cryptocurrency as a source of deposit (subject to full underwriting).
 
 ---
 
-# Age
+# SECTION 3 – AGE
 
-**Main URL:** [https://www.accordmortgages.com/criteria/age](https://www.accordmortgages.com/criteria/age)
-
-### Page contents
-
-[Applicant age](#applicant-age)
-[Applicant age for interest only](#applicant-age-for-interest-only)
-[Applicant age for debt consolidation](#applicant-age-for-debt-consolidation)
 
 ## Applicant age
 
-**Min / Max Age**
+**Minimum:**
+* At application, all applicants must be at least 18 years of age.
 
-  * At application, all applicants must be at least 18 years of age.
-  * All loans must be repaid by the 81st birthday of the oldest applicant.
+**Maximum:**
+* All loans must be repaid by the 81st birthday of the oldest applicant.
 
 **Term into retirement**
 
@@ -522,11 +479,6 @@ For applications with any element of debt consolidation, a maximum age of 70 yea
 
 # Foreign nationals
 
-**Main URL:** [https://www.accordmortgages.com/criteria/foreign-nationals](https://www.accordmortgages.com/criteria/foreign-nationals)
-
-### Page contents
-
-[Loan and LTV limits for foreign nationals](#loan-and-ltv-limits-for-foreign-nationals)
 
 ## Loan and LTV limits for foreign nationals
 
@@ -562,24 +514,13 @@ All applicants must have evidence of their current right to reside in the UK e.g
 
 ---
 
-# Adverse Credit
+# SECTION 5 – ADVERSE CREDIT
 
-**Main URL:** [https://www.accordmortgages.com/criteria/adverse-credit](https://www.accordmortgages.com/criteria/adverse-credit)
-
-### Page contents
-
-[Bankruptcy and sequestration](#bankruptcy-and-sequestration)
-[CCJs, defaults and missed payments](#ccjs-defaults-and-missed-payments)
-[Individual voluntary arrangements (IVA), Debt Management Plans (DMP) and Trust deeds](#individual-voluntary-arrangements-iva-debt-management-plans-dmp-and-trust-deeds)
-[Repossessions](#repossessions)
-[Credit repair and eligibility for product transfers](#credit-repair-and-eligibility-for-product-transfers)
-[Credit repair for additional lending](#credit-repair-for-additional-lending)
-[Credit referencing for additional lending](#credit-referencing-for-additional-lending)
-[Credit repair and porting eligibility](#credit-repair-and-porting-eligibility)
 
 ## Bankruptcy and sequestration
 
-  * We do not accept undischarged bankruptcies.
+**Not Acceptable:**
+* We do not accept undischarged bankruptcies.
   * The bankruptcy/sequestration must have been discharged.
   * Discharged for a minimum of 6 years.
   * The credit search must confirm that the order is discharged or;
@@ -639,9 +580,11 @@ DMP will be considered if:
 
 ## Repossessions
 
-All repossessions should be declared and normally there should be no history of a repossession, either voluntary or enforced.
+**Condition:**
+* All repossessions should be declared and normally there should be no history of a repossession, either voluntary or enforced.
 
-We do not accept applications where the repossession date is within the last 6 years.
+**Not Acceptable:**
+* We do not accept applications where the repossession date is within the last 6 years.
 
 ## Credit repair and eligibility for product transfers
 
@@ -676,13 +619,8 @@ Any applications falling outside our new lending criteria may be considered on a
 
 ---
 
-# Concessionary Purchase
+# SECTION 6 – CONCESSIONARY PURCHASE
 
-**Main URL:** [https://www.accordmortgages.com/criteria/concessionary-purchase](https://www.accordmortgages.com/criteria/concessionary-purchase)
-
-### Page contents
-
-[Concessionary purchase](#concessionary-purchase)
 
 ## Concessionary purchase
 
@@ -694,21 +632,12 @@ A solicitor's letter is required to confirm the reduced purchase price, the name
 
 ---
 
-# Joint borrowers and guarantors
-
-**Main URL:** [https://www.accordmortgages.com/criteria/joint-borrowers-guarantors](https://www.accordmortgages.com/criteria/joint-borrowers-guarantors)
-
-### Page contents
-
-[Number of borrowers](#number-of-borrowers)
-[Joint borrower sole proprietor](#joint-borrower-sole-proprietor)
-[Guarantors](#guarantors)
+# SECTION 7 – JOINT BORROWERS AND GUARANTORS
 
 ## Number of borrowers
 
-**Maximum number of borrowers**
-
-Up to two borrowers are allowed on a mortgage loan.
+**Maximum:**
+* Up to two borrowers are allowed on a mortgage loan.
 
 ## Joint borrower sole proprietor
 
@@ -739,17 +668,13 @@ Proprietor minimum income of £20,000 per annum.
 
 ## Guarantors
 
-Guarantor applications are not acceptable.
+**Not Acceptable:**
+* Guarantor applications are not acceptable.
 
 ---
 
-# Residence
+# SECTION 8 – RESIDENCE
 
-**Main URL:** [https://www.accordmortgages.com/criteria/residence](https://www.accordmortgages.com/criteria/residence)
-
-### Page contents
-
-[Main residence only](#main-residence-only)
 
 ## Main residence only
 
@@ -779,16 +704,10 @@ We will consider cases that are outside of our lending policy in this area if yo
 
 # Unacceptable applicants
 
-**Main URL:** [https://www.accordmortgages.com/criteria/unacceptable-applicants](https://www.accordmortgages.com/criteria/unacceptable-applicants)
-
-### Page contents
-
-[Unacceptable applicants](#unacceptable-applicants)
 
 ## Unacceptable applicants
 
-**The following would not be acceptable:**
-
+**Not Acceptable:**
 * Investment groups/investor clubs (or where a finders fee exists)
 * Limited companies
 * Applicants purchasing a property from a company in which the applicant has an interest
@@ -804,22 +723,8 @@ We will consider cases that are outside of our lending policy in this area if yo
 
 ## Loan
 
-# Loan limits
+# SECTION 10 – LOAN LIMITS
 
-**Main URL:** [https://www.accordmortgages.com/criteria/loan-limits](https://www.accordmortgages.com/criteria/loan-limits)
-
-### Page contents
-
-[Min/max loan term](#minmax-loan-term)
-[Loan size and LTV limits for new business](#loan-size-and-ltv-limits-for-new-business)
-[Loan size and LTV limits for new builds](#loan-size-and-ltv-limits-for-new-builds)
-[Loan size and LTV limits for remortgaging](#loan-size-and-ltv-limits-for-remortgaging)
-[Loan size and LTV limits for additional lending (existing customers only)](#loan-size-and-ltv-limits-for-additional-lending-existing-customers-only)
-[Loan size and LTV limits for product transfers](#loan-size-and-ltv-limits-for-product-transfers)
-[Loan size and LTV limits for portability](#loan-size-and-ltv-limits-for-portability)
-[Loan size and LTV limits for interest only](#loan-size-and-ltv-limits-for-interest-only)
-[LTI and income multiples](#lti-and-income-multiples)
-[Loan and LTV limits for foreign nationals](#loan-and-ltv-limits-for-foreign-nationals)
 
 ## Min/max loan term
 
@@ -833,15 +738,13 @@ For product transfers, first check the term remaining on the mortgage. Make sure
 
 ## Loan size and LTV limits for new business
 
-The following loan limits are for new business, excluding new build, which have their own limits.
+**Condition:** The following loan limits are for new business, excluding new build, which have their own limits.
 
-| Property type                                               | Min/max loan size*                                          | Max LTV |
-| ----------------------------------------------------------- | ----------------------------------------------------------- | ------ |
-| House/flat                                                  | £30k - £5m                                                  | 75%    |
-| House/flat                                                  | £50k - £2.6m                                                | 85%    |
-| House/flat                                                  | £50k - £1m                                                  | 90%    |
-| House/flat (excl. Northern Ireland)                         | £50k - £750k                                                | 95%    |
-| 5K Deposit Mortgage** House/flat (excl. Northern Ireland)   | £95k - £495k                                                | 99%    |
+* **House/flat:** £30k–£5m → Max LTV 75%.
+* **House/flat:** £50k–£2.6m → Max LTV 85%.
+* **House/flat:** £50k–£1m → Max LTV 90%.
+* **House/flat (excl. Northern Ireland):** £50k–£750k → Max LTV 95%.
+* **5K Deposit Mortgage** House/flat (excl. Northern Ireland): £95k–£495k → Max LTV 99%.
 
 *Some products also have a minimum loan requirement, please check this before applying.
 
@@ -857,25 +760,21 @@ The following loan limits are for new business, excluding new build, which have 
 
 ## Loan size and LTV limits for new builds
 
-New build properties are subject to the following maximum loan and LTV limits:
+**Condition:** New build properties are subject to the following maximum loan and LTV limits:
 
-| Property type | Loan size*      | Max LTV |
-| ------------- | --------------- | ------- |
-| House/flat    | Up to £5m       | 75%     |
-| House/flat    | Up to £2.6m     | 85%     |
-| House/flat    | Up to £1m       | 90%     |
-| House         | Up to £750k     | 95%     |
+* **House/flat:** Up to £5m → Max LTV 75%.
+* **House/flat:** Up to £2.6m → Max LTV 85%.
+* **House/flat:** Up to £1m → Max LTV 90%.
+* **House:** Up to £750k → Max LTV 95%.
 
 *Some products also have a minimum loan requirement, please check this before applying.
 
 ## Loan size and LTV limits for remortgaging
 
-| Property type                       | Min/max loan size | Max LTV |
-| ----------------------------------- | ----------------- | ------ |
-| House/flat                          | £30k - £5m        | 75%    |
-| House/flat                          | £50k - £2.6m      | 85%    |
-| House/flat                          | £50k - £1m        | 90%    |
-| House/Flat (excl. Northern Ireland) | £50k - £750k      | 95%    |
+* **House/flat:** £30k–£5m → Max LTV 75%.
+* **House/flat:** £50k–£2.6m → Max LTV 85%.
+* **House/flat:** £50k–£1m → Max LTV 90%.
+* **House/Flat (excl. Northern Ireland):** £50k–£750k → Max LTV 95%.
 
 **Remortgages for debt consolidation have the following additional limits:**
 
@@ -922,14 +821,12 @@ If your client is looking to borrow less than their current balance, we'll charg
 
 ## LTI and income multiples
 
-The table below details the maximum applicable income multiples available for different transactions. Please note in order to obtain an accurate affordability figure it is important to complete the affordability calculator accurately.
+**Condition:** The maximum applicable income multiples for different transactions are below. Please complete the affordability calculator accurately for an accurate figure.
 
-| Transaction Type                                          | Income below £50,000 (joint or sole basis) | Income above £50,000 (joint or sole basis) |
-| --------------------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
-| Standard Purchase and Remortgage up to 90% LTV            | 4.49x                                       | 5.0x                                        |
-| Standard Purchase and Remortgage up to 95% LTV             | 4.49x                                       | 4.49x                                       |
-| New Build Purchase up to 90%                              | 4.49x                                       | 5.0x                                        |
-| Standard Purchase over 95% LTV (The 5K Deposit Mortgage)  | 4.49x                                       | 4.49x                                       |
+* **Standard Purchase and Remortgage up to 90% LTV:** Income below £50,000 (joint or sole): 4.49x. Income above £50,000: 5.0x.
+* **Standard Purchase and Remortgage up to 95% LTV:** 4.49x (both income bands).
+* **New Build Purchase up to 90%:** Income below £50,000: 4.49x. Income above £50,000: 5.0x.
+* **Standard Purchase over 95% LTV (The 5K Deposit Mortgage):** 4.49x (both income bands).
 
 Please note: cases that utilise the cascade score product range will be capped at 5.0x LTI maximum. Those that require a LTI ratio of over 5.0x will require a boost LTI product.
 
@@ -967,22 +864,8 @@ All applicants must have evidence of their current right to reside in the UK e.g
 
 ---
 
-# Additional lending
+# SECTION 11 – ADDITIONAL LENDING
 
-**Main URL:** [https://www.accordmortgages.com/criteria/additional-lending](https://www.accordmortgages.com/criteria/additional-lending)
-
-### Page contents
-
-[Income for additional lending](#income-for-additional-lending)
-[Unacceptable purposes for additional lending](#unacceptable-purposes-for-additional-lending)
-[Valuations for additional lending](#valuations-for-additional-lending)
-[Loan size and LTV limits for additional lending (existing customers only)](#loan-size-and-ltv-limits-for-additional-lending-existing-customers-only)
-[Credit repair for additional lending](#credit-repair-for-additional-lending)
-[Credit referencing for additional lending](#credit-referencing-for-additional-lending)
-[Purchase of adjoining land/holiday home (AL)](#purchase-of-adjoining-landholiday-home-al)
-[Help to Buy equity loan - Additional lending](#help-to-buy-equity-loan---additional-lending)
-[Debt consolidation - additional lending](#debt-consolidation---additional-lending)
-[Eligibility for additional lending](#eligibility-for-additional-lending)
 
 ## Income for additional lending
 
@@ -1075,14 +958,8 @@ All parts of the existing mortgage must have been open for 6 months to apply for
 
 ---
 
-# Product Transfers
+# SECTION 12 – PRODUCT TRANSFERS
 
-**Main URL:** [https://www.accordmortgages.com/criteria/product-transfers](https://www.accordmortgages.com/criteria/product-transfers)
-
-### Page contents
-
-[Loan size and LTV limits for product transfers](#loan-size-and-ltv-limits-for-product-transfers)
-[Credit repair and eligibility for product transfers](#credit-repair-and-eligibility-for-product-transfers)
 
 ## Loan size and LTV limits for product transfers
 
@@ -1101,16 +978,8 @@ Borrowers previously on a credit repair self cert product and who have made all 
 
 ---
 
-# Portability
+# SECTION 13 – PORTABILITY
 
-**Main URL:** [https://www.accordmortgages.com/criteria/portability](https://www.accordmortgages.com/criteria/portability)
-
-### Page contents
-
-[Loan size and LTV limits for portability](#loan-size-and-ltv-limits-for-portability)
-[Portability valuations](#portability-valuations)
-[Credit repair and porting eligibility](#credit-repair-and-porting-eligibility)
-[Help to Buy equity loan - Porting](#help-to-buy-equity-loan---porting)
 
 ## Loan size and LTV limits for portability
 
@@ -1151,13 +1020,6 @@ If the customer has a mortgage with us where a Help to Buy equity loan is outsta
 
 # Interest only
 
-**Main URL:** [https://www.accordmortgages.com/criteria/interest-only](https://www.accordmortgages.com/criteria/interest-only)
-
-### Page contents
-
-[Interest only repayment](#interest-only-repayment)
-[Applicant age for interest only](#applicant-age-for-interest-only)
-[Loan size and LTV limits for interest only](#loan-size-and-ltv-limits-for-interest-only)
 
 ## Interest only repayment
 
@@ -1264,16 +1126,8 @@ The term can exceed their 71st birthday however their income will not be used fo
 
 ---
 
-# Remortgages
+# SECTION 15 – REMORTGAGES
 
-**Main URL:** [https://www.accordmortgages.com/criteria/remortgages](https://www.accordmortgages.com/criteria/remortgages)
-
-### Page contents
-
-[Main residence only](#main-residence-only)
-[Loan size and LTV limits for remortgaging](#loan-size-and-ltv-limits-for-remortgaging)
-[Min/max loan term](#minmax-loan-term)
-[Unacceptable lending purposes for remortgaging](#unacceptable-lending-purposes-for-remortgaging)
 
 ## Main residence only
 
@@ -1301,12 +1155,10 @@ We will consider cases that are outside of our lending policy in this area if yo
 
 ## Loan size and LTV limits for remortgaging
 
-| Property type                       | Min/max loan size | Max LTV |
-| ----------------------------------- | ----------------- | ------- |
-| House/flat                          | £30k - £5m        | 75%     |
-| House/flat                          | £50k - £2.6m      | 85%     |
-| House/flat                          | £50k - £1m        | 90%     |
-| House/Flat (excl. Northern Ireland) | £50k - £750k      | 95%     |
+* **House/flat:** £30k–£5m → Max LTV 75%.
+* **House/flat:** £50k–£2.6m → Max LTV 85%.
+* **House/flat:** £50k–£1m → Max LTV 90%.
+* **House/Flat (excl. Northern Ireland):** £50k–£750k → Max LTV 95%.
 
 **Remortgages for debt consolidation have the following additional limits:**
 
@@ -1340,16 +1192,8 @@ The following are unacceptable reasons for remortgages:
 
 ---
 
-# Schemes
+# SECTION 16 – SCHEMES
 
-**Main URL:** [https://www.accordmortgages.com/criteria/schemes](https://www.accordmortgages.com/criteria/schemes)
-
-### Page contents
-
-[Unacceptable schemes](#unacceptable-schemes)
-[Help to Buy equity loan - Additional lending](#help-to-buy-equity-loan---additional-lending)
-[Help to Buy equity loan - Transfer of equity](#help-to-buy-equity-loan---transfer-of-equity)
-[Help to Buy equity loan - Porting](#help-to-buy-equity-loan---porting)
 
 ## Unacceptable schemes
 
@@ -1388,14 +1232,8 @@ If the customer has a mortgage with us where a Help to Buy equity loan is outsta
 
 ---
 
-# Debt consolidation
+# SECTION 17 – DEBT CONSOLIDATION
 
-**Main URL:** [https://www.accordmortgages.com/criteria/debt-consolidation](https://www.accordmortgages.com/criteria/debt-consolidation)
-
-### Page contents
-
-[Debt consolidation](#debt-consolidation)
-[Applicant age for debt consolidation](#applicant-age-for-debt-consolidation)
 
 ## Debt consolidation
 
@@ -1421,15 +1259,8 @@ For applications with any element of debt consolidation, a maximum age of 70 yea
 
 ## Property
 
-# Valuations
+# SECTION 18 – VALUATIONS
 
-**Main URL:** [https://www.accordmortgages.com/criteria/valuations](https://www.accordmortgages.com/criteria/valuations)
-
-### Page contents
-
-[Valuations for new borrowing](#valuations-for-new-borrowing)
-[Valuations for additional lending](#valuations-for-additional-lending)
-[Portability valuations](#portability-valuations)
 
 ## Valuations for new borrowing
 
@@ -1475,25 +1306,8 @@ In all cases a new valuation will be carried out for all portability application
 
 ---
 
-# Property Specifics
+# SECTION 19 – PROPERTY SPECIFICS
 
-**Main URL:** [https://www.accordmortgages.com/criteria/property-specifics](https://www.accordmortgages.com/criteria/property-specifics)
-
-### Page contents
-
-[Location of property](#location-of-property)
-[Unacceptable properties](#unacceptable-properties)
-[Properties with land](#properties-with-land)
-[Tenure](#tenure)
-[Flying freehold](#flying-freehold)
-[Properties above or below commercial](#properties-above-or-below-commercial)
-[Cladding](#cladding)
-[Japanese knotweed](#japanese-knotweed)
-[Tyneside flats](#tyneside-flats)
-[Unacceptable new build developments](#unacceptable-new-build-developments)
-[Steel framed](#steel-framed)
-[Mundic](#mundic)
-[Pre-cast concrete](#pre-cast-concrete)
 
 ## Location of property
 
@@ -1623,29 +1437,19 @@ Precast reinforced concrete properties, designated under the Housing Act 1985, p
 
 ---
 
-# New Build
+# SECTION 20 – NEW BUILD
 
-**Main URL:** [https://www.accordmortgages.com/criteria/new-build](https://www.accordmortgages.com/criteria/new-build)
-
-### Page contents
-
-[Loan size and LTV limits for new builds](#loan-size-and-ltv-limits-for-new-builds)
-[Acceptable warranties for new builds](#acceptable-warranties-for-new-builds)
-[Acceptable incentives for New builds](#acceptable-incentives-for-new-builds)
-[Unacceptable new build developments](#unacceptable-new-build-developments)
 
 ## Loan size and LTV limits for new builds
 
-New build properties are subject to the following maximum loan and LTV limits:
+**Condition:** New build properties are subject to the following maximum loan and LTV limits:
 
-| Property type | Loan size* | Max LTV |
-| ------------- | ----------- | ------- |
-| House/flat    | Up to £5m   | 75%     |
-| House/flat    | Up to £2.6m | 85%     |
-| House/flat    | Up to £1m   | 90%     |
-| House         | Up to £750k | 95%     |
+* **House/flat:** Up to £5m → Max LTV 75%.
+* **House/flat:** Up to £2.6m → Max LTV 85%.
+* **House/flat:** Up to £1m → Max LTV 90%.
+* **House:** Up to £750k → Max LTV 95%.
 
-\*Some products also have a minimum loan requirement, please check this before applying.
+*Some products also have a minimum loan requirement, please check this before applying.
 
 ## Acceptable warranties for new builds
 
@@ -1701,32 +1505,33 @@ Use our handy [New build development checker tool](https://www.accordmortgages.c
 
 ---
 
-# Letting
+# SECTION 21 – LETTING
 
-**Main URL:** [https://www.accordmortgages.com/criteria/letting](https://www.accordmortgages.com/criteria/letting)
-
-### Page contents
-
-[Consent to let out](#consent-to-let-out)
-[Property already let out](#property-already-let-out)
-[Let to buy (LTB)](#let-to-buy-ltb)
 
 ## Consent to let out
 
-Your client can apply for consent to let whilst holding a residential mortgage. They will need to complete an application form and if granted a loading of up to 1% will be applied to the current mortgage rate. Unauthorised lets can be chargeable with a loading of up to 2%.
+**Allowed:**
+* Your client can apply for consent to let whilst holding a residential mortgage. They will need to complete an application form and if granted a loading of up to 1% will be applied to the current mortgage rate.
+
+**Condition (unauthorised lets):**
+* Unauthorised lets can be chargeable with a loading of up to 2%.
 
 Please direct your client to [Renting out your home](https://www.accordmortgages.com/existing-customers/renting-out-your-home) where further details can be found.
 
 ## Property already let out
 
-The following criteria for let properties is subject to our underwriters discretion and we may make exceptions in certain circumstances. We normally expect all existing mortgages to be self-financing.
+**Condition:**
+* The following criteria for let properties is subject to our underwriters discretion and we may make exceptions in certain circumstances. We normally expect all existing mortgages to be self-financing.
 
-The outstanding mortgage(s) can be ignored if the property is already let from the date of application and the monthly rental amount is at least 145% of the monthly mortgage payment at 5% interest*.
+**Condition (outstanding mortgage ignored):**
+* The outstanding mortgage(s) can be ignored if the property is already let from the date of application and the monthly rental amount is at least 145% of the monthly mortgage payment at 5% interest*.
 
-Where the monthly rental payment does not cover mortgage payments by 145% at an interest of 5%*, we will calculate the deduction as the monthly mortgage payment multiplied by 145% minus the monthly rental income. If the rental income does not meet at least 100% of the calculation the full mortgage payment will be taken as a commitment.
+**Condition (rent below 145%):**
+* Where the monthly rental payment does not cover mortgage payments by 145% at an interest of 5%*, we will calculate the deduction as the monthly mortgage payment multiplied by 145% minus the monthly rental income. If the rental income does not meet at least 100% of the calculation the full mortgage payment will be taken as a commitment.
 
 \*As the majority of Buy to Let properties are mortgaged on an interest only basis, we use an interest rate of 5% on the outstanding mortgage (as evidenced on the credit records) to determine if the rental income meets the 145% rule.
 
+**Condition (evidence – property already let):**
 The applicant(s) may be asked to provide:
 
 * Bank statements for the period that the property has been let
@@ -1734,17 +1539,20 @@ The applicant(s) may be asked to provide:
 
 ## Let to buy (LTB)
 
-Let to Buy (LTB) applications are acceptable.
+**Allowed:**
+* Let to Buy (LTB) applications are acceptable.
 
-The anticipated monthly rent should cover the monthly mortgage payment by 145% at an interest rate of 5%*. If it does not we will calculate the deduction as the monthly mortgage payment multiplied by 145% minus the monthly rental income. If the rental income does not meet at least 100% of the calculation the full mortgage payment will be taken as a commitment.
+**Condition (rent cover):**
+* The anticipated monthly rent should cover the monthly mortgage payment by 145% at an interest rate of 5%*. If it does not we will calculate the deduction as the monthly mortgage payment multiplied by 145% minus the monthly rental income. If the rental income does not meet at least 100% of the calculation the full mortgage payment will be taken as a commitment.
 
 \*As the majority of Buy to let properties are mortgaged on an interest only basis, we use an interest rate of 5% on the outstanding mortgage (as evidenced on the credit records) to determine if the rental income meets the 145% rule.
 
-The applicant(s) may be asked to provide: 
+**Condition (evidence – LTB):**
+The applicant(s) may be asked to provide:
 
-  * Verification of rental Income - A copy of the rental valuation document which must have been completed by an ARLA registered agent
-  * Consent to Let - Evidence the customer has consent to let
-  * Verification of future mortgage balance - If the customer is applying to re-mortgage the property to a BTL – a copy of the KFI or ESIS document will be required to evidence the future mortgage balance.
+* Verification of rental Income - A copy of the rental valuation document which must have been completed by an ARLA registered agent
+* Consent to Let - Evidence the customer has consent to let
+* Verification of future mortgage balance - If the customer is applying to re-mortgage the property to a BTL – a copy of the KFI or ESIS document will be required to evidence the future mortgage balance.
 
 ---
 

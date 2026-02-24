@@ -1,166 +1,145 @@
-LENDER NAME: Afinbank
-PRODUCT: Combined
+# AFINBANK – COMBINED MORTGAGE LENDING CRITERIA
 
-# Afin Bank - Mortgage Lending Criteria
+---
 
-**Source:** [https://afinbank.com/for-intermediaries/resources-and-documents/](https://afinbank.com/for-intermediaries/resources-and-documents/)
-**Last Updated:** November 2025
+**LENDER:** Afinbank
+**PRODUCT:** Combined (Residential Prime / Professional / Premier, Buy to Let, Consumer Buy to Let)
+**DOCUMENT TYPE:** Combined lending criteria. 7 sections: 1 Applicant, 2 Loan, 3 Property, 4 Product, 5 Charges, 6 Additional Information, 7 Terms and Conditions.
+**SOURCE:** [https://afinbank.com/for-intermediaries/resources-and-documents/](https://afinbank.com/for-intermediaries/resources-and-documents/)
+**LAST VERIFIED:** November 2025
 
-**FOR INTERMEDIARY USE ONLY**
+**IMPORTANT:**
+For intermediary use only. This document is for use by authorised intermediaries only and should not be relied upon by anyone else.
 
-This document is for use by authorised intermediaries only and should not be relied upon by anyone else.
+**RAG convention:** Where applicable, criteria use explicit labels **Maximum:** **Minimum:** **Allowed:** **Not Acceptable:** **Condition:** so that rules are self-contained for retrieval.
 
 **Contact:** www.afinbank.com | 0333 344 2974
 
 ---
 
-## Applicant
+# SECTION 1 – APPLICANT
 
-### Age
+## Age
 
-| Age | |
-| --- | --- |
-| Minimum age - Residential Prime | 18 |
-| Minimum age - Professional / Premier | 21 |
-| Minimum age - Buy to Let / Consumer Buy to Let | 21 |
-| Maximum age - Residential | 75 (eldest applicant at the end of term) |
-| Maximum age - Buy to Let / Consumer Buy to Let | 85 (eldest applicant) |
-| Maximum declared retirement age | 70 |
-| Mortgage term must not extend beyond | 75th birthday of the eldest applicant |
+**Minimum (Residential Prime):** 18
+**Minimum (Professional / Premier):** 21
+**Minimum (Buy to Let / Consumer Buy to Let):** 21
+**Maximum (Residential):** 75 (eldest applicant at the end of term)
+**Maximum (Buy to Let / Consumer Buy to Let):** 85 (eldest applicant)
+**Maximum declared retirement age:** 70
+**Condition:** Mortgage term must not extend beyond 75th birthday of the eldest applicant
 
-### Number of applicants
+## Number of applicants
 
-| Applicants | |
-| --- | --- |
-| Maximum number of applicants | 2 |
-| Joint borrower / sole proprietor | Not accepted |
-| First time buyers | Accepted. First time buyer, first time landlord accepted on BTL |
-| Marital status - Residential | Married clients can borrow in sole or joint names. Independent Legal Advice (ILA) is required for both applicants where applicants are married / civil partnership and are not borrowing in joint names |
-| Marital status - Buy to Let / Consumer Buy to Let | Married applicants can borrow in sole / joint names |
+**Maximum (number of applicants):** 2
+**Not Acceptable:** Joint borrower / sole proprietor
+**Allowed:** First time buyers. First time buyer, first time landlord accepted on BTL
+**Condition (Marital status - Residential):** Married clients can borrow in sole or joint names. Independent Legal Advice (ILA) is required for both applicants where applicants are married / civil partnership and are not borrowing in joint names
+**Condition (Marital status - Buy to Let / Consumer Buy to Let):** Married applicants can borrow in sole / joint names
 
-### Nationality and residency
+## Nationality and residency
 
-| Nationality | |
-| --- | --- |
-| Minimum time in the UK | Minimum 6 months in the UK supported by proof of residency |
-| Requirements | Clients should be UK resident, have indefinite leave to remain or meet our acceptable VISA requirements. Clients must pay UK tax |
-| Acceptable regions | We will accept applications from clients based in the UK, on an acceptable Visa, from anywhere in the world |
-| Settled / Pre-settled status | Acceptable, subject to evidence and 6 months minimum residency |
-| Acceptable Visas | Tier 1: Global Talent, Innovator Founder, Investor, Skilled Worker<br>Tier 2: Skilled Worker, Minister of Religion, Sportsperson / International Sportsperson, Specialist Worker, Health and Care Worker, UK Ancestry, Armed Forces Exemption |
-| Unacceptable Visas / status | Tier 4, Student Visas, Tier 5 / temporary worker Visas, refugees, asylum seekers, family Visas |
-| Second applicant Visas | The following Visas are acceptable for secondary applicants; out of date Visas where renewal is in progress / student Visas / spouse VISA / dependant Visa. The use of income from these clients will be considered on referral |
-| Minimum time remaining on VISA | 6 months minimum. Where there is less than 6 months remaining we need evidence of an active Visa renewal / extension in progress, with no reason to believe it will be declined |
-| Acceptable applicants | UK citizens, clients with indefinite leave to remain (ILR), clients on acceptable Visas, clients with settled / pre-settled status |
-| Clients based outside the UK / Expats | Not currently available |
-| Diplomatic immunity / Politically exposed clients | Not accepted |
+**Minimum (time in the UK):** Minimum 6 months in the UK supported by proof of residency
+**Condition:** Clients should be UK resident, have indefinite leave to remain or meet our acceptable VISA requirements. Clients must pay UK tax
+**Allowed (regions):** We will accept applications from clients based in the UK, on an acceptable Visa, from anywhere in the world
+**Condition (Settled / Pre-settled status):** Acceptable, subject to evidence and 6 months minimum residency
+**Allowed (Visas):** Tier 1: Global Talent, Innovator Founder, Investor, Skilled Worker; Tier 2: Skilled Worker, Minister of Religion, Sportsperson / International Sportsperson, Specialist Worker, Health and Care Worker, UK Ancestry, Armed Forces Exemption
+**Not Acceptable (Visas / status):** Tier 4, Student Visas, Tier 5 / temporary worker Visas, refugees, asylum seekers, family Visas
+**Condition (Second applicant Visas):** The following Visas are acceptable for secondary applicants; out of date Visas where renewal is in progress / student Visas / spouse VISA / dependant Visa. The use of income from these clients will be considered on referral
+**Minimum (time remaining on VISA):** 6 months minimum. Where there is less than 6 months remaining we need evidence of an active Visa renewal / extension in progress, with no reason to believe it will be declined
+**Allowed (applicants):** UK citizens, clients with indefinite leave to remain (ILR), clients on acceptable Visas, clients with settled / pre-settled status
+**Not currently available:** Clients based outside the UK / Expats
+**Not Acceptable:** Diplomatic immunity / Politically exposed clients
 
-### Know your customer
+## Know your customer
 
-**Proof of ID:** Copy of passport required on application
+**Condition (Proof of ID):** Copy of passport required on application
 
-**Proof of residency:** 12 months minimum, if clients cannot be located on the voters roll we require proof of residency examples include; bank statements, utility bill, government correspondence e.g. HMRC paperwork
+**Condition (Proof of residency):** 12 months minimum; if clients cannot be located on the voters roll we require proof of residency (e.g. bank statements, utility bill, government correspondence such as HMRC paperwork)
 
-### Deposit sources
+## Deposit sources
 
-| Deposit sources | |
-| --- | --- |
-| Acceptable deposit sources | Family gifted deposit (not loans) - parents / step-parents, sibling(s), children / step children, aunt/uncle, grandparents, savings, investments, shares, inheritance, company dividend.<br>All deposits are subject to AML approval |
-| Overseas deposits | Acceptable if from family / client's own resources. Deposits must be traceable and are subject to AML approval |
-| Unacceptable deposit sources | Builders gift, vendor gift, unsecured loan, crypto currency, gifts from non-family members, Ajo / group savings schemes |
+**Allowed (deposit sources):** Family gifted deposit (not loans) - parents / step-parents, sibling(s), children / step children, aunt/uncle, grandparents, savings, investments, shares, inheritance, company dividend. All deposits are subject to AML approval
+**Condition (Overseas deposits):** Acceptable if from family / client's own resources. Deposits must be traceable and are subject to AML approval
+**Not Acceptable (deposit sources):** Builders gift, vendor gift, unsecured loan, crypto currency, gifts from non-family members, Ajo / group savings schemes
 
-### Income
+## Income
 
-#### Minimum income
+## Minimum income
 
-| Minimum income | |
-| --- | --- |
-| Residential - Prime | No minimum income |
-| Residential - Young Professional (ages 21-35) - up to 80% LTV | £35k minimum for main applicant. No minimum income for second applicant |
-| Residential - Young Professional (ages 21-35) - above 80% LTV | £50k minimum for main applicant, Joint applications are subject to £75k minimum overall income |
-| Residential - Older Professional (36 years+) | Minimum income for main applicant £70k. No minimum income for the second applicant |
-| Residential - Premier | £300k NET minimum per annum or £3m in NET assets |
-| Buy to let | No minimum background income |
+**Minimum (Residential - Prime):** No minimum income
+**Minimum (Residential - Young Professional ages 21-35, up to 80% LTV):** £35k for main applicant. No minimum income for second applicant
+**Minimum (Residential - Young Professional ages 21-35, above 80% LTV):** £50k for main applicant; joint applications subject to £75k minimum overall income
+**Minimum (Residential - Older Professional 36 years+):** £70k for main applicant. No minimum for second applicant
+**Minimum (Residential - Premier):** £300k NET minimum per annum or £3m in NET assets
+**Minimum (Buy to let):** No minimum background income
 
-#### Employed income
+## Employed income
 
-**Employed:** 12 months continuous employment in a related role (up to a 6-week gap in-between roles)
+**Condition (Employed):** 12 months continuous employment in a related role (up to a 6-week gap in-between roles)
 
-#### Self employed applicants
+## Self employed applicants
 
-| Self employed applicants | |
-| --- | --- |
-| Types | We will lend to sole traders, partners, and limited company directors |
-| Shareholding | Individuals with a 20% shareholding or more will be classed as self-employed |
-| Time self-employed | Clients should have completed their first financial year and be at least 6 months into their second year. We can accept forecasted income for year two providing they have a qualified accountant. We will normally use 90% of the forecasted income for affordability |
-| Reducing self-employed income | Considered on a case by case basis typically accepted with a 10% annual reduction |
-| Forecasted income | We will consider using up to 90% - 100% of the forecasted income for the current trading year via the accountants certificate, providing they are at least 6 months into the trading year and have been trading at least 18 months |
-| Proof of income | Either accountants certificate prepared by a qualified accountant (see the accountants certificate for qualifications) or Company accounts. We also require the latest years' SA302s / tax calculations with the corresponding tax year overview |
-| Net retained profit | Can be considered where there is a 2 year track record at a similar level and the accountant confirm the client could have withdrawn the profit as personal income should they have wished to.<br>Cannot be considered where the business has recorded a net loss during the current or previous trading year or where the nature of the business requires the profits to be retained to enable on-going trading |
-| Income from Directors loans | Can be considered |
-| Non-standard professions | On rare occasions some occupations may be deemed as unacceptable if they present a reputational risk to the bank |
-| Accountants qualifications (when using accountants cert) | ACCA, ACA, CIMA, CIPFA, AAPA, CPAA, CA, CTA |
+**Allowed (types):** We will lend to sole traders, partners, and limited company directors
+**Condition (Shareholding):** Individuals with a 20% shareholding or more will be classed as self-employed
+**Condition (Time self-employed):** Clients should have completed their first financial year and be at least 6 months into their second year. We can accept forecasted income for year two providing they have a qualified accountant. We will normally use 90% of the forecasted income for affordability
+**Condition (Reducing self-employed income):** Considered on a case by case basis typically accepted with a 10% annual reduction
+**Condition (Forecasted income):** We will consider using up to 90% - 100% of the forecasted income for the current trading year via the accountants certificate, providing they are at least 6 months into the trading year and have been trading at least 18 months
+**Condition (Proof of income):** Either accountants certificate prepared by a qualified accountant (see the accountants certificate for qualifications) or Company accounts. We also require the latest years' SA302s / tax calculations with the corresponding tax year overview
+**Condition (Net retained profit):** Can be considered where there is a 2 year track record at a similar level and the accountant confirm the client could have withdrawn the profit as personal income should they have wished to. Cannot be considered where the business has recorded a net loss during the current or previous trading year or where the nature of the business requires the profits to be retained to enable on-going trading
+**Allowed:** Income from Directors loans can be considered
+**Condition (Non-standard professions):** On rare occasions some occupations may be deemed as unacceptable if they present a reputational risk to the bank
+**Condition (Accountants qualifications when using accountants cert):** ACCA, ACA, CIMA, CIPFA, AAPA, CPAA, CA, CTA
 
-#### Contract workers
+## Contract workers
 
-| Contract workers | |
-| --- | --- |
-| Experience | We require a two year track record of employment or self-employment within the same sector. This can be evidenced via previous contracts, their last P60s or SA302s and tax year overviews |
-| Contract length | The current contract must be a minimum of one year with at least six months still to run at time of application. If less than three months left to run prior to the drawdown, then evidence of a new contract is required. |
-| Professionals | Fixed term contracts within professional occupations such as Doctors, Teachers, Pharmacists, Dentists, fully qualified Accountants and Solicitors, will be regarded as in permanent employment. Applicants from contract workers in other fields will be considered on their individual merits |
-| Gaps | There can be no more than a six-week break in between contracts |
-| Time remaining | If less than three months left to run prior to the drawdown, then evidence of a new contract or renewal is required |
-| Day rate contractors | Contracts quoting a daily or weekly rate should be based on an assumed 5 day/46 week model for annual income |
-| CIS workers | CIS workers must have a two-year track record. This can be evidenced via accountants certificate or tax calculation/SA302s with corresponding tax year overviews. Income will be used from the latest years figures |
-| Agency workers | Can only be considered where a two-year track record in the same line of work can be established |
-| Zero hour / seasonal / temporary contracts | Not accepted |
-| Umbrella companies | Where employees are working via umbrella company on PAYE affordability is typically assessed based on:<br>- Payslips and P60 from the umbrella company<br>- Tax calculation /tax year overview (SA302s) if these are also submitted<br><br>If the individual is the sole owner or director of a limited company—you should also provide:<br>- Company accounts or an accountant's certificate confirming overall income |
+**Condition (Experience):** We require a two year track record of employment or self-employment within the same sector. This can be evidenced via previous contracts, their last P60s or SA302s and tax year overviews
+**Condition (Contract length):** The current contract must be a minimum of one year with at least six months still to run at time of application. If less than three months left to run prior to the drawdown, then evidence of a new contract is required
+**Condition (Professionals):** Fixed term contracts within professional occupations such as Doctors, Teachers, Pharmacists, Dentists, fully qualified Accountants and Solicitors, will be regarded as in permanent employment. Applicants from contract workers in other fields will be considered on their individual merits
+**Condition (Gaps):** There can be no more than a six-week break in between contracts
+**Condition (Time remaining):** If less than three months left to run prior to the drawdown, then evidence of a new contract or renewal is required
+**Condition (Day rate contractors):** Contracts quoting a daily or weekly rate should be based on an assumed 5 day/46 week model for annual income
+**Condition (CIS workers):** CIS workers must have a two-year track record. This can be evidenced via accountants certificate or tax calculation/SA302s with corresponding tax year overviews. Income will be used from the latest years figures
+**Condition (Agency workers):** Can only be considered where a two-year track record in the same line of work can be established
+**Not Acceptable:** Zero hour / seasonal / temporary contracts
+**Condition (Umbrella companies):** Where employees are working via umbrella company on PAYE affordability is typically assessed based on: Payslips and P60 from the umbrella company; Tax calculation / tax year overview (SA302s) if these are also submitted. If the individual is the sole owner or director of a limited company, you should also provide: Company accounts or an accountant's certificate confirming overall income
 
-#### Other income sources
+## Other income sources
 
-| Other income sources | |
-| --- | --- |
-| Private pension | We will use 100% of private pensions validated by either latest annual statement of pension, latest payslip from the pension provider, latest letter from pension provider or latest P60 from the pension provider |
-| State pension | We will use 100% for sole applicants. For joint applications, if the proof shows State Pension is awarded jointly, we will take 50% of pension against each applicant. Validated by the latest Annual statement of pension |
-| Other acceptable pensions | War Disablement Pension and War Widow/er Pension |
-| Child benefit | Not accepted |
-| Tax credits | Not accepted |
-| Other benefits / universal credit | Not accepted |
-| Limited company income | We can also consider lending to someone who has income from a company which the applicant owns and that will continue to provide an income into retirement. |
-| Maintenance payments | Can be considered upon referral and be supported with a formal agreement |
-| Employment expenses | We will use 100% of regular allowances e.g. car allowance/large town allowance, but not variable expenses, such as mileage |
-| Lodger income | Not acceptable |
-| Investment income | Can be considered upon referral |
-| Rental Income | Acceptable with proof via accountants certificate / tax returns |
+**Condition (Private pension):** We will use 100% of private pensions validated by either latest annual statement of pension, latest payslip from the pension provider, latest letter from pension provider or latest P60 from the pension provider
+**Condition (State pension):** We will use 100% for sole applicants. For joint applications, if the proof shows State Pension is awarded jointly, we will take 50% of pension against each applicant. Validated by the latest Annual statement of pension
+**Allowed (Other pensions):** War Disablement Pension and War Widow/er Pension
+**Not Acceptable:** Child benefit, tax credits, other benefits / universal credit
+**Condition (Limited company income):** We can also consider lending to someone who has income from a company which the applicant owns and that will continue to provide an income into retirement
+**Condition (Maintenance payments):** Can be considered upon referral and be supported with a formal agreement
+**Condition (Employment expenses):** We will use 100% of regular allowances e.g. car allowance/large town allowance, but not variable expenses, such as mileage
+**Not Acceptable:** Lodger income
+**Condition (Investment income):** Can be considered upon referral
+**Allowed (Rental income):** Acceptable with proof via accountants certificate / tax returns
 
-#### Lending into retirement (LIR)
+## Lending into retirement (LIR)
 
-| Lending into retirement (LIR) | |
-| --- | --- |
-| Retirement age | The maximum declared retirement age is 70. The mortgage term must not extend beyond the 75th birthday of the eldest applicant. Where the mortgage term extends into retirement, the below criteria will apply |
-| Retirement planned within the next 10 years | We require details of both current income and expected retirement income, we will calculate affordability based on either use the lower of the current income or expected retirement income or assess the amount remaining at retirement age and anticipated repayment against the pension details |
-| Retirement planned over 10 years in the future | We will use current income used for affordability purposes and require evidence of the existence of future pension provision (other than state pension). E.g. a payslip showing a pension deduction, pension statement or pension payment on a bank statement. |
+**Condition (Retirement age):** The maximum declared retirement age is 70. The mortgage term must not extend beyond the 75th birthday of the eldest applicant. Where the mortgage term extends into retirement, the below criteria will apply
+**Condition (Retirement planned within the next 10 years):** We require details of both current income and expected retirement income; we will calculate affordability based on either the lower of current income or expected retirement income or assess the amount remaining at retirement age and anticipated repayment against the pension details
+**Condition (Retirement planned over 10 years in the future):** We will use current income for affordability purposes and require evidence of the existence of future pension provision (other than state pension), e.g. a payslip showing a pension deduction, pension statement or pension payment on a bank statement
 
-#### Loan to income limits
+## Loan to income limits
 
-| Loan to income limits | |
-| --- | --- |
-| Prime | 4.5x |
-| Professional | 6.5x |
-| Premier | 6.5x |
+**Maximum (Prime):** 4.5x income
+**Maximum (Professional):** 6.5x income
+**Maximum (Premier):** 6.5x income
 
-#### Debt to income
+## Debt to income
 
-| Debt to income | |
-| --- | --- |
-| Prime | 40% |
-| Professional | 45% |
-| Premier | 50% |
+**Maximum (Prime):** 40% debt to income
+**Maximum (Professional):** 45% debt to income
+**Maximum (Premier):** 50% debt to income
 
-### Professional qualifications
+## Professional qualifications
 
 A minimum of one applicant must be a professional to qualify for the professional product. A professional is defined as someone currently practising and holding the relevant qualification. The minimum age for the professional applicant is 21. If the first applicant meets our Professional criteria, the second applicant can be a non professional (aged 18+).
 
-#### Minimum income criteria for Professional products
+## Minimum income criteria for Professional products
 
 **Up to 80% LTV:**
 * Minimum application income of £35,000 pa
@@ -172,223 +151,169 @@ A minimum of one applicant must be a professional to qualify for the professiona
 
 *90% LTV must be inclusive of all fees. Lending to 90% LTV is for purchase transactions only.
 
-#### Acceptable Professional Qualifications
+## Acceptable Professional Qualifications
 
-| Profession | Role/Qualification | Professional Body |
-| --- | --- | --- |
-| **Accounting** | | |
-| | Chartered Accountant ACA | [ICAEW Find a member](https://find.icaew.com/) |
-| | Certified Accountant ACCA | [ACCA Global - Find an accountant](https://www.accaglobal.com/) |
-| | Management Accountant CIMA | [ACPA & CIMA](https://www.acpa-cima.com/) |
-| | Public Sector Accountant CPFA | [CIPFA Members directory](https://www.cipfa.org/) |
-| **Architects** | | |
-| | Chartered Architect RIBA | [RIBA Find an Architect](https://www.architecture.com/) |
-| | Architect registered with the ARB | [Architects Registration Board - Public Information](https://arb.org.uk/) |
-| **Chartered Tax Adviser** | | |
-| | Chartered Tax Adviser (CTA) | [ATT/CIOT Portal - Find A Member](https://www.tax.org.uk/) |
-| **Chiropodist** | | |
-| | Chiropodist, Medical Degree | [Check the Register - Find a registered health and care professional](https://www.hcpc-uk.org/) |
-| **Commercial Pilots** | | |
-| | Valid Air Transport Pilots Licence | [Civil Aviation Authority - Licences and other proposals](https://www.caa.co.uk/) |
-| **Education** | | |
-| | Teacher, Lecturer | N/A |
-| **Engineers** | | |
-| | Chartered Mechanical Engineer - CEng. | [Institution of Mechanical Engineers - Membership and Registration](https://www.imeche.org/) |
-| | Chartered Civil Engineer, Member of ICE | [Institution of Civil Engineers - Find a member](https://www.ice.org.uk/) |
-| | Chartered Structural Engineer (MIStructE) | [The Institution of Structural Engineers - Find an Engineer](https://www.istructe.org/) |
-| **IT** | | |
-| | Masters / doctoral degree / MBA / Postgraduate certificate | Evidence of Degree |
-| **Legal** | | |
-| | Barrister/Solicitor | [The Law Society - Find a Solicitor](https://www.lawsociety.org.uk/) |
-| **Medical** | | |
-| | Doctor - GP/Specialist (anaesthetists, surgeons and consultants) | [The medical register - GMC](https://www.gmc-uk.org/) |
-| | Dentist | [General Dental Council - Search Registers](https://www.gdc-uk.org/) |
-| | Pharmacist | [General Pharmaceutical Council - Registers](https://www.pharmacyregulation.org/) |
-| | Radiographer, Medical Degree | [Check the Register - Find a registered health and care professional](https://www.hcpc-uk.org/) |
-| | Physiotherapist | Evidence of Degree |
-| | Nurses, Midwives | [Nursing and Midwifery Council](https://www.nmc.org.uk/) |
-| **Optometrist** | | |
-| | Optometrist, Medical Degree | [General Optical Council - Search Registers](https://www.optical.org/) |
-| **Scientist/Researcher** | | |
-| | Masters degree/PhD/Doctorate/Medical or Clinical degree/Specialist advanced degree | Evidence of Degree |
-| **Surveyors** | | |
-| | Chartered Building Surveyor MRICS/FRICS | [RICS Find a Surveyor](https://www.ricsfirms.com/) |
-| | Chartered Builder/Engineer (ACIB; MCIOB) | [The Chartered Institute of Building - Search for a Chartered Company Member](https://www.ciob.org/) |
-| **Vet** | | |
-| | Veterinary Surgeon | [Royal College of Veterinary Surgeons - Check our Registers](https://www.rcvs.org.uk/) |
+* **Accounting:** Chartered Accountant ACA [ICAEW Find a member](https://find.icaew.com/); Certified Accountant ACCA [ACCA Global](https://www.accaglobal.com/); Management Accountant CIMA [ACPA & CIMA](https://www.acpa-cima.com/); Public Sector Accountant CPFA [CIPFA](https://www.cipfa.org/)
+* **Architects:** Chartered Architect RIBA [RIBA Find an Architect](https://www.architecture.com/); Architect registered with the ARB [ARB](https://arb.org.uk/)
+* **Chartered Tax Adviser:** CTA [ATT/CIOT Portal](https://www.tax.org.uk/)
+* **Chiropodist:** Chiropodist, Medical Degree [HCPC](https://www.hcpc-uk.org/)
+* **Commercial Pilots:** Valid Air Transport Pilots Licence [CAA](https://www.caa.co.uk/)
+* **Education:** Teacher, Lecturer (N/A)
+* **Engineers:** Chartered Mechanical Engineer CEng [IMechE](https://www.imeche.org/); Chartered Civil Engineer, Member of ICE [ICE](https://www.ice.org.uk/); Chartered Structural Engineer MIStructE [IStructE](https://www.istructe.org/)
+* **IT:** Masters / doctoral degree / MBA / Postgraduate certificate (Evidence of Degree)
+* **Legal:** Barrister/Solicitor [The Law Society](https://www.lawsociety.org.uk/)
+* **Medical:** Doctor - GP/Specialist [GMC](https://www.gmc-uk.org/); Dentist [GDC](https://www.gdc-uk.org/); Pharmacist [GPhC](https://www.pharmacyregulation.org/); Radiographer, Medical Degree [HCPC](https://www.hcpc-uk.org/); Physiotherapist (Evidence of Degree); Nurses, Midwives [NMC](https://www.nmc.org.uk/)
+* **Optometrist:** Optometrist, Medical Degree [GOC](https://www.optical.org/)
+* **Scientist/Researcher:** Masters degree/PhD/Doctorate/Medical or Clinical degree/Specialist advanced degree (Evidence of Degree)
+* **Surveyors:** Chartered Building Surveyor MRICS/FRICS [RICS](https://www.ricsfirms.com/); Chartered Builder/Engineer ACIB; MCIOB [CIOB](https://www.ciob.org/)
+* **Vet:** Veterinary Surgeon [RCVS](https://www.rcvs.org.uk/)
 
-### Credit history
+## Credit history
 
-| Credit history | |
-| --- | --- |
-| Credit score | No minimum credit score |
-| Outstanding credit | Credit accounts with 4 or fewer months remaining can be ignored for affordability |
-| Mortgage arrears | None within the past 36 months |
-| Unsecured missed payments | Occasional blips may be accepted with a valid explanation |
-| CCJ | None within the past 36 months |
-| Defaults | Maximum of 2 satisfied below £250 each from utilities / mail order, communications suppliers within the past 36 months |
-| IVA | Discharged over 36 months |
-| Debt management / DROs | Discharged over 36 months |
-| Bankrupt | Discharged over 36 months |
-| Previous repossession | None within the past 3 years |
-| Pay day loans | None within the past 12 months |
+**Condition (Credit score):** No minimum credit score
+**Condition (Outstanding credit):** Credit accounts with 4 or fewer months remaining can be ignored for affordability
+**Condition (Mortgage arrears):** None within the past 36 months
+**Condition (Unsecured missed payments):** Occasional blips may be accepted with a valid explanation
+**Condition (CCJ):** None within the past 36 months
+**Condition (Defaults):** Maximum of 2 satisfied below £250 each from utilities / mail order, communications suppliers within the past 36 months
+**Condition (IVA):** Discharged over 36 months
+**Condition (Debt management / DROs):** Discharged over 36 months
+**Condition (Bankrupt):** Discharged over 36 months
+**Condition (Previous repossession):** None within the past 3 years
+**Condition (Pay day loans):** None within the past 12 months
 
-### ILA Requirements
+## ILA Requirements
 
-Occasionally we may require the clients to seek independent legal advice. We will advise this requirement as early as possible into the process. Examples include ; Non-English speaking applicants, non benefitting parties and sole applications for married applicants
+**Condition:** Occasionally we may require the clients to seek independent legal advice. We will advise this requirement as early as possible into the process. Examples include: non-English speaking applicants, non-benefitting parties and sole applications for married applicants
 
-### Unacceptable applicants
+## Unacceptable applicants
 
-| Unacceptable applicants | |
-| --- | --- |
-| Joint borrower / sole proprietor | Not accepted |
-| Diplomatic immunity / Politically exposed clients | Not accepted |
-| Limited company BTL | Not currently available |
-| Clients based outside the UK / Expats | Not currently available |
+**Not Acceptable:** Joint borrower / sole proprietor; Diplomatic immunity / Politically exposed clients
+**Not currently available:** Limited company BTL; Clients based outside the UK / Expats
 
 ---
 
-## Loan
+# SECTION 2 – LOAN
 
-### Loan limits
+## Loan limits
 
-| Loan limits | |
-| --- | --- |
-| Minimum loan size - Residential | £100,000 |
-| Minimum loan size - Buy to Let | £50,000 |
-| Maximum loan size | Tiered account to LTV maximum loan is £2,500,000 - see product cards for further information |
-| Minimum term | 2 years, minimum term on 5 year fixed products is 5 years |
-| Maximum term | 40 years, see lending into retirement criteria |
-| Right to buy (RTB) | Available to 90% of the discounted purchase price and overall product LTV |
-| Right to acquire | Available to 90% of the discounted purchase price and overall product LTV |
-| Shared ownership / equity | Not available |
-| Offer validity | 3 months from the date of the offer |
-| Offer extensions | Considered up to a further 3 months, subject to credit discretion |
-| Portability | Our products are not portable |
+**Minimum (loan size - Residential):** £100,000
+**Minimum (loan size - Buy to Let):** £50,000
+**Maximum (loan size):** Tiered account to LTV; maximum loan £2,500,000 - see product cards for further information
+**Minimum (term):** 2 years; minimum term on 5 year fixed products is 5 years
+**Maximum (term):** 40 years; see lending into retirement criteria
+**Allowed:** Right to buy (RTB) - available to 90% of the discounted purchase price and overall product LTV
+**Allowed:** Right to acquire - available to 90% of the discounted purchase price and overall product LTV
+**Not available:** Shared ownership / equity
+**Condition (Offer validity):** 3 months from the date of the offer
+**Condition (Offer extensions):** Considered up to a further 3 months, subject to credit discretion
+**Condition (Portability):** Our products are not portable
 
-### Maximum loan to value (LTV)
+## Maximum loan to value (LTV)
 
-| Maximum loan to value (LTV) | |
-| --- | --- |
-| Calculation | Lender fees not included in the LTV calculation up to an absolute limit of 90% in residential and 75% in Buy to let / consumer buy to let<br><br>Any broker fee added must be included in the product maximum LTV |
+**Condition (Calculation):** Lender fees not included in the LTV calculation up to an absolute limit of 90% in residential and 75% in Buy to let / consumer buy to let. Any broker fee added must be included in the product maximum LTV
 
-### Loan size and LTV limits by product
+## Loan size and LTV limits by product
 
-| Loan size & LTV limits | Prime | Professional | Premier |
-| --- | --- | --- | --- |
-| Maximum gross LTV should not exceed 50% | Minimum loan £100,000<br><£1m<br>£1m - £2.5m | Minimum loan £100,000<br><£500k<br>£500k - £1m<br>£1m - £2.5m | Minimum loan £250,000<br><£750k<br>£750k - £1m<br>£1m - £2.5m |
+**Prime (maximum gross LTV 50%):** Minimum loan £100,000; bands <£1m, £1m - £2.5m
+**Professional (maximum gross LTV 50%):** Minimum loan £100,000; bands <£500k, £500k - £1m, £1m - £2.5m
+**Premier (maximum gross LTV 50%):** Minimum loan £250,000; bands <£750k, £750k - £1m, £1m - £2.5m
 
-### Use of funds / purpose
+## Use of funds / purpose
 
-| Use of funds / purpose | |
-| --- | --- |
-| Acceptable | Purchase transactions, let to buy, debt consolidation, home improvements, second home purchase/buy to let deposit, business use, assisting family members, holiday homes, tax bills (subject to no re-occurring borrowing requirements), school fees |
-| Unacceptable | Financial and speculative investments (e.g. shares and crypto currency), any form of gambling |
+**Allowed:** Purchase transactions, let to buy, debt consolidation, home improvements, second home purchase/buy to let deposit, business use, assisting family members, holiday homes, tax bills (subject to no re-occurring borrowing requirements), school fees
+**Not Acceptable:** Financial and speculative investments (e.g. shares and crypto currency), any form of gambling
 
-### Repayment method
+## Repayment method
 
-| Repayment method | |
-| --- | --- |
-| Capital and interest | Available across the range |
-| Interest only | Acceptable on the Afin Bank Premier High Net worth (HNW) range and on the Buy to Let and Consumer Buy to Let products |
-| Interest only repayment vehicles | Residential - any plausible and verifiable strategy considered, except sale upon death, inheritance and general savings |
+**Allowed:** Capital and interest - available across the range
+**Allowed (Interest only):** Acceptable on the Afin Bank Premier High Net worth (HNW) range and on the Buy to Let and Consumer Buy to Let products
+**Condition (Interest only repayment vehicles):** Residential - any plausible and verifiable strategy considered, except sale upon death, inheritance and general savings
 
-### Overpayments
+## Overpayments
 
-| Overpayments | |
-| --- | --- |
-| Residential | Prime products (all 2 year and 5 year products) - clients may pay 10% per calendar year off the capital balance penalty free<br>Professional / Premier products (all 2 year and 5 year products) - clients may pay 10% per calendar year off the capital balance penalty free<br>Payments above the penalty free percentage will attract the percentage ERC as illustrated on the product cards<br>When a customer overpays, by default, the mortgage term is reduced automatically. If the customer wishes for their monthly instalments to reduce they will need to inform us of this requirement<br>All Afin bank tracker products allow for unlimited penalty free overpayments |
-| Buy to let | All 2 year and 5 year products - clients may pay 10% per calendar year off the capital balance penalty free, payments above the penalty free percentage will attract the percentage ERC as illustrated on the product cards<br>When a customer overpays, by default, the mortgage term is reduced automatically. If the customer wishes for their monthly instalments to reduce they will need to inform us of this requirement |
+**Condition (Residential overpayments):** Prime/Professional/Premier (all 2 and 5 year products) - clients may pay 10% per calendar year off the capital balance penalty free. Payments above the penalty free percentage will attract the percentage ERC as illustrated on the product cards. When a customer overpays, by default, the mortgage term is reduced automatically; if the customer wishes for their monthly instalments to reduce they will need to inform us. All Afin bank tracker products allow for unlimited penalty free overpayments
+**Condition (Buy to let overpayments):** All 2 year and 5 year products - clients may pay 10% per calendar year off the capital balance penalty free; payments above the penalty free percentage will attract the percentage ERC as illustrated on the product cards. When a customer overpays, by default, the mortgage term is reduced automatically; if the customer wishes for their monthly instalments to reduce they will need to inform us
 
-### Buy to let affordability
+## Buy to let affordability
 
-| Buy to let affordability | |
-| --- | --- |
-| Interest coverage | 125% Interest coverage ratio (ICR) for basic rate taxpayers<br>140% Interest coverage ratio (ICR) for higher and additional rate taxpayers (or where 1 applicant is a higher rate taxpayer) |
-| Top slicing | 10% of surplus net disposable income can be considered, subject to 110% ICR on rent minimum<br>Top slicing is not available for CBTL transactions |
-| Assessment rate | Tracker & 2-year product – pay rate > 2%. 5-year product – pay rate. |
-| Background income | No minimum |
+**Condition (Interest coverage):** 125% ICR for basic rate taxpayers; 140% ICR for higher and additional rate taxpayers (or where 1 applicant is a higher rate taxpayer)
+**Condition (Top slicing):** 10% of surplus net disposable income can be considered, subject to 110% ICR on rent minimum. Top slicing is not available for CBTL transactions
+**Condition (Assessment rate):** Tracker & 2-year product – pay rate > 2%. 5-year product – pay rate
+**Condition (Background income):** No minimum
 
-### Buy to let / Consumer buy to let
+## Buy to let / Consumer buy to let
 
-| Buy to let /Consumer buy to let | |
-| --- | --- |
-| Tenancy types | Agreements should be for a duration of not less than 6 months and no more than 24 months. Be in writing and contain no unusual terms that materially or adversely affect the Property, including subletting |
-| Unacceptable tenancies | 3rd party tenancies, company lets, social housing, family members, HMOs, MUBs, multiple tenancies on separate ASTs |
-| Unacceptable tenants | Applicant's children, grandchildren, parents, grandparents, sibling(s), husband, wife, civil partner or any other person with whom you have a relationship that is similar to a husband, wife or civil partner. Companies lets are not acceptable.<br>Please refer any other non standard tenant profiles |
-| Let to buy transactions | Non-portfolio landlords only. No experience required - first time buyer, first time landlord acceptable |
+**Condition (Tenancy types):** Agreements should be for a duration of not less than 6 months and no more than 24 months. Be in writing and contain no unusual terms that materially or adversely affect the Property, including subletting
+**Not Acceptable (tenancies):** 3rd party tenancies, company lets, social housing, family members, HMOs, MUBs, multiple tenancies on separate ASTs
+**Not Acceptable (tenants):** Applicant's children, grandchildren, parents, grandparents, sibling(s), husband, wife, civil partner or any other person with whom you have a relationship that is similar to a husband, wife or civil partner. Company lets are not acceptable. Please refer any other non standard tenant profiles
+**Allowed (Let to buy):** Non-portfolio landlords only. No experience required - first time buyer, first time landlord acceptable
 
-### Consumer Buy to Let definition
+## Consumer Buy to Let definition
 
 See our guide on [Afinbank.com](https://afinbank.com/for-intermediaries/resources-and-documents/)
 
 ---
 
-## Property
+# SECTION 3 – PROPERTY
 
-### Security
+## Security
 
-| Security | |
-| --- | --- |
-| Condition | Property should be habitable i.e. should be water and airtight, with a working kitchen, toilet, bathroom and be self-contained with its own front door along with residential purpose of use. |
-| Energy efficiency | Residential - minimum EPC rating of E<br>Buy to let / Consumer Buy to Let - minimum EPC rating of E |
-| Location | England, Wales & Isle of Wight |
-| Minimum property value - Residential | £125,000 |
-| Minimum property value - Buy to let / Consumer Buy to Let | £75,000 |
-| Unacceptable properties / construction | Standard construction only, see appendix for further unacceptable construction / property types |
-| Minimum ownership period | No minimum ownership period. For properties purchased within the past 12 months we will base our lending on the lower of the purchase price or current valuation |
-| Acceptable properties | Freehold and leasehold (subject to acceptable lease length) houses, private and ex-local authority (outside pre-emption). Commonhold and Freehold flats are not acceptable |
-| Number of floors | Leasehold flats & maisonettes - acceptable up to 12 stories (6 outside the M25). Properties above 4 stories must have a lift. Flats above / adjacent to commercial property are acceptable, subject to no adverse valuer comments. |
-| New build flats | Acceptable up to 75% LTV |
-| Converted flats | 75% LTV if newly converted with appropriate warranty if converted during the past 10 years |
-| Ex-local authority Houses inc MOD | Normal product LTV if property is standard construction and outside pre-emption |
-| Ex-local authority flats inc MOD | Acceptable up to LTV of 75%. No minimum private ownership percentage required. |
-| Lease length | Minimum unexpired lease of 60 at the expiry of the term. Ground rent and service charge factored into affordability. Commonhold property and freehold flats are unacceptable |
-| Minimum floor space / Studio flats | 35 square meters minimum, properties must have self contained kitchen and bathroom facilities |
-| New build houses | Acceptable subject to the property being complete. A recognised warranty will be required if the property is less than 10 years old |
-| New build flats | Acceptable subject to the property being complete to a maximum of 75% LTV. A recognised warranty will be required if the block is less than 10 years old. Retrospective warranties can be accepted |
-| Self build property | Must be 100% complete and warrantied |
-| Building warranty | A recognised warranty will be required if the property is less than 10 years old. Retrospective warranties accepted |
-| Properties with land | Overall maximum footprint of 10 acres with no commercial use |
-| Flats above commercial | Acceptable on modern style flats with commercial premises on the ground floor, we can't lend on a single dwelling with a commercial on the ground floor. |
-| Share of freehold | Share of freehold properties are acceptable, but there must be an acceptable underlying lease upon which we can place our charge upon |
-| Flying freehold | Must not affect more than 15% of the property |
-| Japanese knotweed | Considered on a case by case basis (typically category C or D where it is not on the security title) where an insurance backed treatment plan is in place |
-| Solar (PV) panels | Accepted if owned by the clients or the lease meets the UK finance handbook requirements |
-| Specialist reports | We may require specialist reports as highlighted by the valuer e.g. Mining reports / Damp and timber reports |
-| Retentions | We do not offer retentions |
-| Historic mining areas | Properties must not be within 20 meters of a former mineshaft or suffering the effects of unstable ground related to historic mining |
-| Flooding | Property must have a net flood risk of 1% or lower and the property must be insured against flooding |
-| Escalating ground rent | Initial ground rent no more than 0.25% market value; not reviewable less than every 10 years. Ground rent should not double more frequently than every 20 years |
-| Properties with 2 kitchens | Acceptable subject to valuer comments |
+**Condition:** Property should be habitable i.e. should be water and airtight, with a working kitchen, toilet, bathroom and be self-contained with its own front door along with residential purpose of use
+**Minimum (EPC - Residential and BTL/CBTL):** E
+**Condition (Location):** England, Wales & Isle of Wight
+**Minimum (property value - Residential):** £125,000
+**Minimum (property value - Buy to let / Consumer Buy to Let):** £75,000
+**Condition (construction):** Standard construction only; see appendix for further unacceptable construction / property types
+**Condition (Minimum ownership period):** No minimum ownership period. For properties purchased within the past 12 months we will base our lending on the lower of the purchase price or current valuation
+**Allowed (properties):** Freehold and leasehold (subject to acceptable lease length) houses, private and ex-local authority (outside pre-emption). Commonhold and Freehold flats are not acceptable
+**Condition (Number of floors):** Leasehold flats & maisonettes - acceptable up to 12 stories (6 outside the M25). Properties above 4 stories must have a lift. Flats above / adjacent to commercial property are acceptable, subject to no adverse valuer comments
+**Condition (New build flats):** Acceptable up to 75% LTV
+**Condition (Converted flats):** 75% LTV if newly converted with appropriate warranty if converted during the past 10 years
+**Condition (Ex-local authority Houses inc MOD):** Normal product LTV if property is standard construction and outside pre-emption
+**Condition (Ex-local authority flats inc MOD):** Acceptable up to LTV of 75%. No minimum private ownership percentage required
+**Condition (Lease length):** Minimum unexpired lease of 60 years at the expiry of the term. Ground rent and service charge factored into affordability. Commonhold property and freehold flats are unacceptable
+**Minimum (floor space / Studio flats):** 35 square meters minimum; properties must have self contained kitchen and bathroom facilities
+**Condition (New build houses):** Acceptable subject to the property being complete. A recognised warranty will be required if the property is less than 10 years old
+**Condition (New build flats - block):** Acceptable subject to the property being complete to a maximum of 75% LTV. A recognised warranty will be required if the block is less than 10 years old. Retrospective warranties can be accepted
+**Condition (Self build):** Must be 100% complete and warrantied
+**Condition (Building warranty):** A recognised warranty will be required if the property is less than 10 years old. Retrospective warranties accepted
+**Maximum (Properties with land):** Overall maximum footprint of 10 acres with no commercial use
+**Condition (Flats above commercial):** Acceptable on modern style flats with commercial premises on the ground floor; we can't lend on a single dwelling with a commercial on the ground floor
+**Condition (Share of freehold):** Share of freehold properties are acceptable, but there must be an acceptable underlying lease upon which we can place our charge
+**Maximum (Flying freehold):** Must not affect more than 15% of the property
+**Condition (Japanese knotweed):** Considered on a case by case basis (typically category C or D where it is not on the security title) where an insurance backed treatment plan is in place
+**Allowed (Solar PV panels):** Accepted if owned by the clients or the lease meets the UK finance handbook requirements
+**Condition (Specialist reports):** We may require specialist reports as highlighted by the valuer e.g. Mining reports / Damp and timber reports
+**Condition (Retentions):** We do not offer retentions
+**Condition (Historic mining areas):** Properties must not be within 20 meters of a former mineshaft or suffering the effects of unstable ground related to historic mining
+**Condition (Flooding):** Property must have a net flood risk of 1% or lower and the property must be insured against flooding
+**Condition (Escalating ground rent):** Initial ground rent no more than 0.25% market value; not reviewable less than every 10 years. Ground rent should not double more frequently than every 20 years
+**Allowed (Properties with 2 kitchens):** Acceptable subject to valuer comments
 
-### Valuations
+## Valuations
 
-| Valuation | |
-| --- | --- |
-| Residential - Purchase | We require a full physical valuation on all purchase transactions, minimum property value is £125,000 |
-| Residential - Remortgage | We can consider an Automated Valuation Model (AVM) on remortgage transactions up to 65% LTV and £500,000, subject to a minimum Rightmove confidence level of C or higher. Otherwise a full valuation will be required. We will run an AVM at application and advise if this criteria is met. |
-| Buy to Let - Purchase / Remortgage/Consumer buy to let | A full valuation is always required on BTL transactions, minimum property value is £75,000 |
-| Valuation type | Up to £1m loan - Short form via our panel manager<br>Over £1m - Long form via our panel manager, please contact us for pricing |
+**Condition (Residential - Purchase):** Full physical valuation on all purchase transactions; minimum property value £125,000
+**Condition (Residential - Remortgage):** We can consider an AVM on remortgage up to 65% LTV and £500,000, subject to minimum Rightmove confidence level of C or higher; otherwise a full valuation will be required. We will run an AVM at application and advise if this criteria is met
+**Condition (BTL / CBTL):** Full valuation always required on BTL transactions; minimum property value £75,000
+**Condition (Valuation type):** Up to £1m loan - Short form via our panel manager. Over £1m - Long form via our panel manager; please contact us for pricing
 
-### Valuation Fee Scale
+## Valuation Fee Scale
 
-| Valuation up to | Valuation fee scale (inc. VAT) |
-| --- | --- |
-| £100,000 | £225 |
-| £200,000 | £235 |
-| £300,000 | £270 |
-| £350,000 | £295 |
-| £400,000 | £300 |
-| £500,000 | £380 |
-| £600,000 | £515 |
-| £700,000 | £630 |
-| £800,000 | £710 |
-| £900,000 | £790 |
-| £1,000,000 | £850 |
-| £1m+ | Please contact us for confirmation |
+* **Valuation up to £100,000:** £225 (inc. VAT)
+* **Valuation up to £200,000:** £235
+* **Valuation up to £300,000:** £270
+* **Valuation up to £350,000:** £295
+* **Valuation up to £400,000:** £300
+* **Valuation up to £500,000:** £380
+* **Valuation up to £600,000:** £515
+* **Valuation up to £700,000:** £630
+* **Valuation up to £800,000:** £710
+* **Valuation up to £900,000:** £790
+* **Valuation up to £1,000,000:** £850
+* **£1m+:** Please contact us for confirmation
 
-### Unacceptable property types
+## Unacceptable property types
 
 * Properties designated as defective under the Housing Defects Act 1984 and Housing Act 1985.
 * Commercial properties.
@@ -430,17 +355,15 @@ See our guide on [Afinbank.com](https://afinbank.com/for-intermediaries/resource
 
 ---
 
-## Product
+# SECTION 4 – PRODUCT
 
-### Residential Mortgage Products
+## Residential Mortgage Products
 
-#### Prime
+## Prime
 
-| LTV | 2-year Fixed | 5-year Fixed | 2-year Tracker |
-| --- | --- | --- | --- |
-| ≤ 60% | 6.09% (P2F60-01) | 5.89% (P5F60-01) | BBR+ 2.59% (P2T60-01) |
-| ≤ 70% | 6.19% (P2F70-01) | 5.99% (P5F70-01) | BBR+ 2.69% (P2T70-01) |
-| ≤ 80% | 6.34% (P2F80-01) | 6.14% (P5F80-01) | BBR+ 2.99% (P2T80-01) |
+* **≤ 60% LTV:** 2-year Fixed 6.09% (P2F60-01), 5-year Fixed 5.89% (P5F60-01), 2-year Tracker BBR+ 2.59% (P2T60-01)
+* **≤ 70% LTV:** 2-year Fixed 6.19% (P2F70-01), 5-year Fixed 5.99% (P5F70-01), 2-year Tracker BBR+ 2.69% (P2T70-01)
+* **≤ 80% LTV:** 2-year Fixed 6.34% (P2F80-01), 5-year Fixed 6.14% (P5F80-01), 2-year Tracker BBR+ 2.99% (P2T80-01)
 
 **Early Repayment Charge:**
 - 2-year Fixed: 2%, 1%
@@ -451,14 +374,12 @@ See our guide on [Afinbank.com](https://afinbank.com/for-intermediaries/resource
 
 **Product Fee:** £1,495 (Can be added above plan LTV limit)
 
-#### Professional
+## Professional
 
-| LTV | 2-year Fixed | 5-year Fixed | 2-year Tracker |
-| --- | --- | --- | --- |
-| ≤ 60% | 5.59% (O2F60-02) | 5.89% (O5F60-01) | BBR+ 2.84% (O2T60-01) |
-| ≤ 70% | 5.69% (O2F70-02) | 5.99% (O5F70-01) | BBR+ 2.94% (O2T70-01) |
-| ≤ 80% | 5.84% (O2F80-02) | 6.14% (O5F80-01) | BBR+ 3.24% (O2T80-01) |
-| ≤ 90% *Purchase transactions only* | 6.24% (O2F90-02) | 6.54% (O5F90-01) | BBR+ 3.64% (O2T90-01) |
+* **≤ 60% LTV:** 2-year Fixed 5.59% (O2F60-02), 5-year Fixed 5.89% (O5F60-01), 2-year Tracker BBR+ 2.84% (O2T60-01)
+* **≤ 70% LTV:** 2-year Fixed 5.69% (O2F70-02), 5-year Fixed 5.99% (O5F70-01), 2-year Tracker BBR+ 2.94% (O2T70-01)
+* **≤ 80% LTV:** 2-year Fixed 5.84% (O2F80-02), 5-year Fixed 6.14% (O5F80-01), 2-year Tracker BBR+ 3.24% (O2T80-01)
+* **≤ 90% LTV (Purchase transactions only):** 2-year Fixed 6.24% (O2F90-02), 5-year Fixed 6.54% (O5F90-01), 2-year Tracker BBR+ 3.64% (O2T90-01)
 
 **Early Repayment Charge:**
 - 2-year Fixed: 2%, 1%
@@ -469,13 +390,11 @@ See our guide on [Afinbank.com](https://afinbank.com/for-intermediaries/resource
 
 **Product Fee:** £1,495 (LTV can not exceed 90% with the fee added)
 
-#### Premier
+## Premier
 
-| LTV | 2-year Fixed | 5-year Fixed | 2-year Tracker |
-| --- | --- | --- | --- |
-| ≤ 65% | 5.99% (M2F65-02) | 6.04% (M5F65-01) | BBR+ 2.99% (M2T65-01) |
-| ≤ 70% | 6.34% (M2F70-02) | 6.39% (M5F70-01) | BBR+ 3.09% (M2T70-01) |
-| ≤ 75% | 6.49% (M2F75-02) | 6.54% (M5F75-01) | BBR+ 3.39% (M2T75-01) |
+* **≤ 65% LTV:** 2-year Fixed 5.99% (M2F65-02), 5-year Fixed 6.04% (M5F65-01), 2-year Tracker BBR+ 2.99% (M2T65-01)
+* **≤ 70% LTV:** 2-year Fixed 6.34% (M2F70-02), 5-year Fixed 6.39% (M5F70-01), 2-year Tracker BBR+ 3.09% (M2T70-01)
+* **≤ 75% LTV:** 2-year Fixed 6.49% (M2F75-02), 5-year Fixed 6.54% (M5F75-01), 2-year Tracker BBR+ 3.39% (M2T75-01)
 
 **Early Repayment Charge:**
 - 2-year Fixed: 2%, 1%
@@ -486,14 +405,12 @@ See our guide on [Afinbank.com](https://afinbank.com/for-intermediaries/resource
 
 **Product Fee:** £1,495 (Can be added above plan LTV limit)
 
-### Buy to Let Mortgage Products
+## Buy to Let Mortgage Products
 
-#### Buy to Let
+## Buy to Let
 
-| LTV | 2-year Fixed | 5-year Fixed | 2-year Tracker |
-| --- | --- | --- | --- |
-| ≤ 65% | 5.79% (B2F65-01) | 5.69% (B5F65-01) | BBR+ 2.24% (B2T65-01) |
-| ≤ 75% | 5.99% (B2F75-01) | 5.89% (B5F75-01) | BBR+ 2.44% (B2T75-01) |
+* **≤ 65% LTV:** 2-year Fixed 5.79% (B2F65-01), 5-year Fixed 5.69% (B5F65-01), 2-year Tracker BBR+ 2.24% (B2T65-01)
+* **≤ 75% LTV:** 2-year Fixed 5.99% (B2F75-01), 5-year Fixed 5.89% (B5F75-01), 2-year Tracker BBR+ 2.44% (B2T75-01)
 
 **Early Repayment Charge:**
 - 2-year Fixed: 2%, 1%
@@ -504,12 +421,10 @@ See our guide on [Afinbank.com](https://afinbank.com/for-intermediaries/resource
 
 **Product Fee:** 2.5% (Can be added, to max of 75% LTV)
 
-#### Consumer Buy to Let
+## Consumer Buy to Let
 
-| LTV | 2-year Fixed | 5-year Fixed | 2-year Tracker |
-| --- | --- | --- | --- |
-| ≤ 65% | 6.19% (C2F65-01) | 5.99% (C5F65-01) | BBR+ 2.84% (C2T65-01) |
-| ≤ 75% | 6.34% (C2F75-01) | 6.14% (C5F75-01) | BBR+ 2.99% (C2T75-01) |
+* **≤ 65% LTV:** 2-year Fixed 6.19% (C2F65-01), 5-year Fixed 5.99% (C5F65-01), 2-year Tracker BBR+ 2.84% (C2T65-01)
+* **≤ 75% LTV:** 2-year Fixed 6.34% (C2F75-01), 5-year Fixed 6.14% (C5F75-01), 2-year Tracker BBR+ 2.99% (C2T75-01)
 
 **Early Repayment Charge:**
 - 2-year Fixed: 2%, 1%
@@ -522,50 +437,40 @@ See our guide on [Afinbank.com](https://afinbank.com/for-intermediaries/resource
 
 ---
 
-## Charges
+# SECTION 5 – CHARGES
 
-### Before your first monthly payment
+## Before your first monthly payment
 
-| Name of Charge | What is this for? | How much is it? |
-| --- | --- | --- |
-| Funds Transfer Fee | This is charged when your mortgage funds are electronically transferred to you or your solicitor. | £10 (below £1m)<br>£20 (above £1m) |
-| Legal Fee | You will normally instruct a solicitor to act on your behalf in connection with your purchase or remortgage transaction. You may be required to pay their legal fees and costs as part of their work on your behalf. These fees/costs are normally charged by the solicitor, directly to you unless we tell you that we will contribute to the legal costs as part of your product deal. | This fee varies depending on the property you are buying or remortgaging. You should ask your solicitor or your conveyancer for a quote. You pay the fees direct to the solicitor or conveyancer |
-| Product Fee | This is charged on some mortgages as part of the deal. It can be paid up-front or added to your total mortgage amount (up to the maximum loan to value of the product). | This fee varies depending on the type of mortgage. The fee is shown on your mortgage illustration or mortgage offer |
-| Valuation Fee | This is the fee for the lender's valuation report, which is used to calculate how much we will lend you. There are other types of valuations available (e.g. a homebuyer's survey or structural survey), for which you would also have to pay a fee. | All fee amounts are inclusive of VAT. See valuation fee scale above |
-| Re-inspection/Valuation Fee | If your mortgage is released in stages, or you're using it to renovate your home, this fee covers the new valuation we need to do after the work is carried out. | All fee amounts are inclusive of VAT. See re-inspection fee scale below |
+* **Funds Transfer Fee:** Charged when your mortgage funds are electronically transferred to you or your solicitor. £10 (below £1m), £20 (above £1m)
+* **Legal Fee:** You normally instruct a solicitor for your purchase or remortgage. You may be required to pay their legal fees and costs. Fee varies by property; ask your solicitor or conveyancer for a quote. You pay the fees direct to the solicitor or conveyancer
+* **Product Fee:** Charged on some mortgages as part of the deal. Can be paid up-front or added to your total mortgage amount (up to the maximum loan to value of the product). Fee varies by mortgage type; shown on your mortgage illustration or mortgage offer
+* **Valuation Fee:** Fee for the lender's valuation report used to calculate how much we will lend. All fee amounts inclusive of VAT. See valuation fee scale above
+* **Re-inspection/Valuation Fee:** If your mortgage is released in stages or you're using it to renovate your home, this covers the new valuation after the work is carried out. All fee amounts inclusive of VAT. See re-inspection fee scale below
 
-#### Re-inspection/Valuation Fee Scale
+## Re-inspection/Valuation Fee Scale
 
-| Property Value | Re-inspection/Valuation Fee (inc. VAT) |
-| --- | --- |
-| £0 - £250,000 | £120 |
-| £250,001 - £500,000 | £175 |
-| £500,001 - £1,000,000 | £250 |
+* **£0 - £250,000:** £120 (inc. VAT)
+* **£250,001 - £500,000:** £175
+* **£500,001 - £1,000,000:** £250
 
-### If you change your mortgage
+## If you change your mortgage
 
-| Name of Charge | What is this for? | How much is it? |
-| --- | --- | --- |
-| Partial Release of Property | This fee is applicable if you want to remove part of the property or land from the mortgage. It covers administration costs, including sealing the relevant legal deed and issuing letters of consent. It is for considering your request. | £110 |
-| Security Variation | These are our administrative costs of adding or removing someone (a 'party') from your mortgage. This fee covers the administration costs to check that there is adequate security remaining before agreeing to vary our security and for sealing the relevant deed or issuing a letter of consent in respect of the variation. | £120 |
-| Consent to Let Fee | If you want to let your property but don't have a buy-to-let mortgage, you will pay this for each 'consent to let' agreement, where we agree to you letting out your property for a set period within your existing owner-occupier mortgage. | £45 |
-| Consent for Another Lender Fee | We will charge this fee when we are asked to give permission for another lender to arrange a second mortgage on your property. | £40 |
+* **Partial Release of Property:** Applicable if you want to remove part of the property or land from the mortgage. Covers administration costs including sealing the relevant legal deed and issuing letters of consent. £110
+* **Security Variation:** Administrative costs of adding or removing someone from your mortgage. Covers checking adequate security remaining and sealing the relevant deed or issuing a letter of consent. £120
+* **Consent to Let Fee:** Payable for each consent to let agreement where we agree to you letting out your property for a set period within your existing owner-occupier mortgage. £45
+* **Consent for Another Lender Fee:** Charged when we are asked to give permission for another lender to arrange a second mortgage on your property. £40
 
-### If you are unable to pay your mortgage
+## If you are unable to pay your mortgage
 
-| Name of Charge | What is this for? | How much is it? |
-| --- | --- | --- |
-| Unpaid Ground Rent or Service Charge Fee | We will charge this fee if we have to deal with your freeholder to pay arrears of your ground rent or service charges. We will also add to your mortgage account the cost of the unpaid ground rent or service charges that we have paid on your behalf. | £70 |
-| Field Agency Home Visit (Successful) | This fee is charged when you are facing financial challenges and we instruct a third party agent to visit you so they can assess your circumstances and look at the best repayment option for you. | £125 if contact made<br>£80 if no contact made |
-| Arrears and Delinquency | If you are in breach of the terms of your mortgage the Bank may take action to enforce the terms of the mortgage against you and recover any monies due from you but unpaid. This includes accounts which are coming to the end of their term with a balance outstanding and you have not advised us how you intend to repay your mortgage. | This fee varies and is dependent upon the nature and extent of the action and/or proceedings the Bank has to take. This could include, for example, any buildings insurance cover we need to put in place, any charge made by the Bank's solicitor or managing agents for acting on the Bank's behalf, or by a Law of Property Act (LPA) receiver appointed by the Bank.<br><br>Any charges due will be clearly and transparently communicated. |
-| Repossession and Possession Sale Costs | Where repossession claims are issued at Court there will be additional legal fees and costs, including Solicitors' fees and Court fees. Should a property have to be repossessed there will be sale and conveyancing fees and costs, including Solicitors' fees, Estate Agency costs and Land Registry fees. Cases may be outsourced to external firms and the costs of any such agent we appoint will vary. | This fee varies and will be charged on a case by case basis, will be fully communicated, and will be added to the mortgage. |
+* **Unpaid Ground Rent or Service Charge Fee:** Charged if we have to deal with your freeholder to pay arrears of ground rent or service charges; we also add the cost of unpaid amounts we paid on your behalf to your mortgage account. £70
+* **Field Agency Home Visit (Successful):** Charged when you are facing financial challenges and we instruct a third party agent to visit you to assess your circumstances and look at the best repayment option. £125 if contact made, £80 if no contact made
+* **Arrears and Delinquency:** If you are in breach of your mortgage terms the Bank may take action to enforce and recover monies due. Fee varies with the nature and extent of action (e.g. buildings insurance, solicitor/managing agent charges, LPA receiver). Any charges due will be clearly and transparently communicated
+* **Repossession and Possession Sale Costs:** Repossession claims at Court incur additional legal and Court fees; repossession also incurs sale and conveyancing fees. Fee varies case by case; will be fully communicated and added to the mortgage
 
-### Ending your mortgage term
+## Ending your mortgage term
 
-| Name of Charge | What is this for? | How much is it? |
-| --- | --- | --- |
-| Early Repayment Charge | You may have to pay this if:<br>- you overpay more than your mortgage terms allow;<br>- you switch mortgage product or lender during a fixed rate period. | This charge varies depending on the type of mortgage. All information about this charge will be set out in your mortgage terms and conditions. |
-| Mortgage Exit Fee | You may have to pay this if:<br>- your mortgage term comes to an end;<br>- you transfer your mortgage to another lender; or<br>- you transfer borrowing from one property to another.<br><br>This is payable either at the end of the mortgage term, or before the end of your mortgage term if you transfer your mortgage to another lender or another property (known as 'redemption').<br><br>You may be charged a separate fee by your solicitor or licensed/ qualified conveyancer for their work relating to redemption of the mortgage and discharge of the security. | £75 |
+* **Early Repayment Charge:** You may have to pay this if you overpay more than your mortgage terms allow, or you switch mortgage product or lender during a fixed rate period. Charge varies by mortgage type; see your mortgage terms and conditions
+* **Mortgage Exit Fee:** Payable when your mortgage term comes to an end, or when you transfer your mortgage to another lender or transfer borrowing from one property to another (redemption). £75. Your solicitor or conveyancer may charge a separate fee for redemption and discharge of the security
 
 **Important Notes:**
 
@@ -575,15 +480,15 @@ See our guide on [Afinbank.com](https://afinbank.com/for-intermediaries/resource
 
 ---
 
-## Additional Information
+# SECTION 6 – ADDITIONAL INFORMATION
 
-### Buy-to-let Flow Chart
+## Buy-to-let Flow Chart
 
 **Source:** [https://afinbank.com/wp-content/uploads/2025/06/Buy-to-let-flow-chart-V1-05_25.pdf](https://afinbank.com/wp-content/uploads/2025/06/Buy-to-let-flow-chart-V1-05_25.pdf)
 
 **Note:** This PDF file could not be automatically parsed. Please download the original PDF from the source URL above for the complete Buy-to-let flow chart which helps determine CBTL vs BTL eligibility.
 
-### Legal Process Guide
+## Legal Process Guide
 
 **Source:** [https://afinbank.com/wp-content/uploads/2025/07/Legal-Process-Afin-Bank-Jul-2025.pdf](https://afinbank.com/wp-content/uploads/2025/07/Legal-Process-Afin-Bank-Jul-2025.pdf)
 
@@ -591,7 +496,7 @@ See our guide on [Afinbank.com](https://afinbank.com/for-intermediaries/resource
 
 ---
 
-## Terms and Conditions
+# SECTION 7 – TERMS AND CONDITIONS
 
 **Source:** [https://afinbank.com/wp-content/uploads/2025/06/Mortgage-Terms-Conditions-93263595-1.pdf](https://afinbank.com/wp-content/uploads/2025/06/Mortgage-Terms-Conditions-93263595-1.pdf)
 **Last Updated:** June 2025
@@ -607,7 +512,7 @@ As an Afin customer, you can always view and download the current version of the
 
 **THE MORTGAGED PROPERTY (WHICH MAY OR MAY NOT BE YOUR HOME) MAY BE REPOSSESSED AND/OR A RECEIVER APPOINTED IF YOU DO NOT KEEP UP REPAYMENTS ON YOUR MORTGAGE.**
 
-### How to contact us
+## How to contact us
 
 Afin is here to help you. If you have any questions, please:
 
@@ -615,30 +520,28 @@ Afin is here to help you. If you have any questions, please:
 * call us on 0333 344 2974 we are here to help 9am to 5pm, Monday to Friday.
 * email us at support@afinbank.com
 
-### Summary
+## Summary
 
 Below we have summarised the key terms we have used in the terms and conditions, but you should make sure that you read the terms and conditions in full.
 
-| Key term | Summary |
-| --- | --- |
-| Total loan amount | We will lend you the total loan amount, which we will send to you after we have taken certain fees as set out in clause 8.3 of the terms and conditions. |
-| Monthly payment | You need to pay us each monthly payment as set out in your mortgage offer letter (or any changed monthly payment) on time.<br><br>If you have a repayment mortgage (see your mortgage offer letter), each monthly payment is calculated so that the total loan amount you have borrowed is repaid by the end of the term, along with the interest.<br><br>If you have an interest-only mortgage (see your mortgage offer letter), your monthly payment is calculated so that the interest is covered by the payments over the period of the mortgage. You must put arrangements in place to repay this at the end of the term as per the repayment terms outlined in your agreement. |
-| Payment due date | Your first monthly payment will fall due one calendar month after the date on which the total loan amount is advanced. If there is no corresponding date in the month, the monthly payment will fall due on the last day of that month. Subsequent monthly payments are payable on the payment due date. If the payment due date falls on a day which is not a business day, then the monthly payment will be due on the next business day in the same month (if there is one), or the immediately preceding business day (if there is not). |
-| Changing your monthly payment | We may change the amount of your monthly payment during your mortgage. Some examples of when we might do this are in clause 5.7 of the terms and conditions. If we change your monthly payment, we will give you reasonable notice and may in certain circumstances give you up to 28 days' notice (see clause 5.8 of the terms and conditions). |
-| Changing the payment due date | You can change your payment due date at any time. If the change means you need to pay extra interest, we will tell you the amount and when you need to pay it.<br>You can select a payment due date that works better for you up until the 28th day of each month. If you wish to amend your payment due date, you can do so by contacting us on 03333442974 and requesting the change for the following month (subject to clause 5.10 of the terms and conditions). |
-| Interest | We add interest to the outstanding balance from the date we advance the total loan amount. The interest rate you pay is shown in your mortgage offer letter. For more information on how we calculate interest and when it is payable, please see clause 4 of the terms and conditions. |
-| Early repayment | You can repay all or part of your mortgage at any time. You may have to pay an early repayment charge if you repay all or some of your mortgage during a fixed-rate period, and such repayment charges are as set out in your mortgage offer letter. |
-| Event of Default | In some circumstances we can ask you to repay the outstanding balance straight away (for example, if you do not make your payments on time). Clause 9 of the terms and conditions sets out when we can do this. Please make sure you understand when this could happen. This is important because if we ask you to pay the outstanding balance and you do not pay it, we could take legal action against you. This could include repossessing and selling the property or we may appoint a receiver. |
-| Charges | In certain circumstances, we may add a charge to your account for work we have to do to manage your account (for example, if you miss payments).<br>We have enclosed a tariff of charges, which is also on our website at [afinbank.com/mortgage-fee-tariff](https://afinbank.com/mortgage-fee-tariff). We can change and introduce new charges at any time (see clause 8 of the terms and conditions). |
-| Our right to change our agreement | Clause 10 of the terms and conditions sets out our rights to change the terms of our agreement. We can only do this in limited circumstances, and we will give you 28 days' notice of any changes. |
-| Property obligations | Your mortgage will be secured on the property (as described in the mortgage offer letter).<br>You will need to insure the property and keep it in a good state of repair (more details about this is contained in the legal mortgage).<br>Depending on the type of mortgage you have, there are limits on who can live in the property (more details about this are contained in the legal mortgage). |
-| Joint borrowers | If you are borrowing with someone else, you are both jointly and individually responsible for the total loan amount plus interest and charges. This means that we can ask each of you individually for the full amount you owe us. |
-| Flexible features | Your mortgage may include some flexible features, such as making overpayments and early repayment charges. If it does, these will be set out in your mortgage offer letter. |
-| Transferring the mortgage | We may transfer our rights under your mortgage, as set out in the legal mortgage. |
-| Buildings Insurance | As a condition of your mortgage, you are required to hold sufficient insurance which covers for the minimum reinstatement value of the property. Reinstatement value is the cost to rebuild the property plus additional fees such as clearing the site and other expenses. It is your responsibility to ensure that the cover you have selected sufficiently covers this, as you would be expected to pay any shortfall if that situation did occur. It is important to remember that as house prices rise, or you make any large improvements to the property you may need to revisit the cover amount for your building insurance and ensure it is still adequate.<br>If, at any time, we become aware that no cover or insufficient cover is in place we have the right to arrange a suitable policy cover and forward the costs to you. You may also be charged an administrative/handling fee for completing such service. Further details of this are set out in the legal mortgage. |
-| Commission | We may pay the mortgage broker a commission for introducing you to us. The amount we pay them (if any) is set out in the mortgage offer letter. |
+* **Total loan amount:** We will lend you the total loan amount, which we will send to you after we have taken certain fees as set out in clause 8.3 of the terms and conditions.
+* **Monthly payment:** You need to pay us each monthly payment as set out in your mortgage offer letter (or any changed monthly payment) on time. If you have a repayment mortgage, each monthly payment is calculated so that the total loan amount you have borrowed is repaid by the end of the term, along with the interest. If you have an interest-only mortgage, your monthly payment is calculated so that the interest is covered by the payments over the period of the mortgage. You must put arrangements in place to repay this at the end of the term as per the repayment terms outlined in your agreement.
+* **Payment due date:** Your first monthly payment will fall due one calendar month after the date on which the total loan amount is advanced. If there is no corresponding date in the month, the monthly payment will fall due on the last day of that month. Subsequent monthly payments are payable on the payment due date. If the payment due date falls on a day which is not a business day, then the monthly payment will be due on the next business day in the same month (if there is one), or the immediately preceding business day (if there is not).
+* **Changing your monthly payment:** We may change the amount of your monthly payment during your mortgage. Some examples of when we might do this are in clause 5.7. If we change your monthly payment, we will give you reasonable notice and may in certain circumstances give you up to 28 days' notice (see clause 5.8).
+* **Changing the payment due date:** You can change your payment due date at any time. If the change means you need to pay extra interest, we will tell you the amount and when you need to pay it. You can select a payment due date that works better for you up until the 28th day of each month. If you wish to amend your payment due date, you can do so by contacting us on 03333442974 and requesting the change for the following month (subject to clause 5.10).
+* **Interest:** We add interest to the outstanding balance from the date we advance the total loan amount. The interest rate you pay is shown in your mortgage offer letter. For more information see clause 4 of the terms and conditions.
+* **Early repayment:** You can repay all or part of your mortgage at any time. You may have to pay an early repayment charge if you repay all or some of your mortgage during a fixed-rate period; such repayment charges are as set out in your mortgage offer letter.
+* **Event of Default:** In some circumstances we can ask you to repay the outstanding balance straight away (for example, if you do not make your payments on time). Clause 9 sets out when we can do this. If we ask you to pay the outstanding balance and you do not pay it, we could take legal action against you, including repossessing and selling the property or appointing a receiver.
+* **Charges:** In certain circumstances, we may add a charge to your account for work we have to do to manage your account (for example, if you miss payments). We have enclosed a tariff of charges, which is also on our website at [afinbank.com/mortgage-fee-tariff](https://afinbank.com/mortgage-fee-tariff). We can change and introduce new charges at any time (see clause 8).
+* **Our right to change our agreement:** Clause 10 sets out our rights to change the terms of our agreement. We can only do this in limited circumstances, and we will give you 28 days' notice of any changes.
+* **Property obligations:** Your mortgage will be secured on the property. You will need to insure the property and keep it in a good state of repair. Depending on the type of mortgage you have, there are limits on who can live in the property (more details in the legal mortgage).
+* **Joint borrowers:** If you are borrowing with someone else, you are both jointly and individually responsible for the total loan amount plus interest and charges. We can ask each of you individually for the full amount you owe us.
+* **Flexible features:** Your mortgage may include some flexible features, such as making overpayments and early repayment charges. If it does, these will be set out in your mortgage offer letter.
+* **Transferring the mortgage:** We may transfer our rights under your mortgage, as set out in the legal mortgage.
+* **Buildings Insurance:** As a condition of your mortgage, you are required to hold sufficient insurance which covers for the minimum reinstatement value of the property. It is your responsibility to ensure that the cover you have selected sufficiently covers this. If we become aware that no cover or insufficient cover is in place we have the right to arrange a suitable policy cover and forward the costs to you. You may also be charged an administrative/handling fee. Further details are set out in the legal mortgage.
+* **Commission:** We may pay the mortgage broker a commission for introducing you to us. The amount we pay them (if any) is set out in the mortgage offer letter.
 
-### 1 Definitions and Interpretation
+## 1 Definitions and Interpretation
 
 1.1 In these terms and conditions certain words have a special meaning as follows:
 
@@ -686,7 +589,7 @@ Below we have summarised the key terms we have used in the terms and conditions,
 
 1.6 Headings are for convenience only and do not affect the interpretation of these terms and conditions.
 
-### 2 The Mortgage
+## 2 The Mortgage
 
 2.1 We agree to lend you the total loan amount on the terms set out in our agreement.
 
@@ -696,7 +599,7 @@ Below we have summarised the key terms we have used in the terms and conditions,
 
 2.4 You must use the total loan amount for the purpose set out in your mortgage offer letter.
 
-### 3 Interest
+## 3 Interest
 
 3.1 We will charge interest on the outstanding balance from the date we advance the total loan amount to you.
 
@@ -708,7 +611,7 @@ Below we have summarised the key terms we have used in the terms and conditions,
 
 3.5 If you make a payment which is less than the amount of interest that has accrued, we will apply the payment first to interest and then to charges, and the shortfall will be added to the outstanding balance.
 
-### 4 Payments
+## 4 Payments
 
 4.1 You must pay us the monthly payment on or before each payment due date.
 
@@ -722,7 +625,7 @@ Below we have summarised the key terms we have used in the terms and conditions,
 
 4.6 If you make a payment which is less than your monthly payment, we will apply the payment first to interest and then to charges, and the shortfall will be added to the outstanding balance.
 
-### 5 Changes to Your Mortgage
+## 5 Changes to Your Mortgage
 
 5.1 You can change your payment due date at any time by giving us at least 14 days' written notice.
 
@@ -760,7 +663,7 @@ Below we have summarised the key terms we have used in the terms and conditions,
 
 5.12 If you fall behind on your monthly payments, it's important to act quickly. Contacting us early can help minimise any additional charges and prevent your situation from worsening.
 
-### 6 Early Repayment
+## 6 Early Repayment
 
 6.1 You can repay all or part of your mortgage at any time.
 
@@ -778,7 +681,7 @@ Below we have summarised the key terms we have used in the terms and conditions,
 
 6.5 If you repay all of your mortgage, we will release the legal mortgage once you have paid all amounts due under our agreement.
 
-### 7 Property Obligations
+## 7 Property Obligations
 
 7.1 You must keep the Property in a good state of repair and condition.
 
@@ -796,7 +699,7 @@ Below we have summarised the key terms we have used in the terms and conditions,
 
 7.8 You must not do anything that would reduce the value of the Property or make it harder for us to sell it if we need to.
 
-### 8 Charges
+## 8 Charges
 
 8.1 You must pay us the product fee, broker fee and funds transfer fee as set out in your mortgage offer letter.
 
@@ -806,7 +709,7 @@ Below we have summarised the key terms we have used in the terms and conditions,
 
 8.4 The mortgage exit fee is payable on the date that you request that we release the legal mortgage.
 
-#### Tariff of charges
+## Tariff of charges
 
 8.5 You agree to pay us the amounts set out in the tariff of charges.
 
@@ -826,7 +729,7 @@ We will give you not less than 28 days' written notice of any new charge which w
 
 8.10 We reserve our rights to add amounts payable in the tariff of charges (as set out under clause 8.5) to the outstanding balance. You can contact us at any time to arrange payment of such amounts payable in the tariff of charges, if you wish to avoid increasing the outstanding balance or incurring interest on the amounts.
 
-### 9 Demanding Payment of the Outstanding Balance
+## 9 Demanding Payment of the Outstanding Balance
 
 9.1 On and at any time after the occurrence of an event of default, we may require that you immediately repay the outstanding balance to us and we may exercise any or all of our other rights and remedies under our agreement.
 
@@ -860,7 +763,7 @@ We will give you not less than 28 days' written notice of any new charge which w
 
 (j) if you give possession of the Property to us or if, following reasonable investigation by us, we consider you have abandoned the Property.
 
-### 10 Changes to the Terms of the Agreement
+## 10 Changes to the Terms of the Agreement
 
 10.1 We can make any changes to the terms of our agreement with your consent.
 
@@ -880,11 +783,11 @@ We will give you not less than 28 days' written notice of any new charge which w
 
 We will provide you with reasonable notice in advance of: (a) any significant changes to these terms and conditions.; or (b) any changes to the payments that you are required to make resulting from interest rate changes.
 
-### 11 Other Provisions
+## 11 Other Provisions
 
 The provisions of clauses 25 to 31 of the legal mortgage apply to these terms and conditions as if they were set out these terms and conditions.
 
-### 12 Complaints
+## 12 Complaints
 
 12.1 We understand that things do not always go to plan, and if this happens, we want you to tell us. We will do our very best to put things right, as quickly as possible and to your satisfaction.
 

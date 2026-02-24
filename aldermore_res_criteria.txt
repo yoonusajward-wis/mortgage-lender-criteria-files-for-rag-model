@@ -1,87 +1,82 @@
-LENDER NAME: Aldermore
-PRODUCT: Residential
-
-# Aldermore - Residential Mortgages Criteria Guide
-
-**Source:** [https://www.aldermore.co.uk/media/5rwlkece/residential_criteria.pdf](https://www.aldermore.co.uk/media/5rwlkece/residential_criteria.pdf)
-**Last Updated:** November 2025
-
-**FOR INTERMEDIARY USE ONLY**
-
-Aldermore Bank PLC is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (Financial Services Register number: 204503). Registered Office: Apex Plaza, Forbury Road, Reading, RG1 1AX. Registered in England. Company No. 9411662.
-
-**Contact:** 0333 321 1000 | [aldermore.co.uk/intermediaries/mortgages](https://aldermore.co.uk/intermediaries/mortgages)
-
-**Note:** Our lending criteria is now searchable on our website. If you want to find something quickly in this guide, just hit **CTRL** and **F**, add the keyword you're searching for and you'll see a list of the options.
+# ALDERMORE – RESIDENTIAL MORTGAGES CRITERIA GUIDE
 
 ---
 
-## Loan
+**LENDER:** Aldermore
+**PRODUCT:** Residential
+**DOCUMENT TYPE:** Residential lending criteria. 7 sections: 1 Loan, 2 Applicant, 3 Income and Affordability, 4 Key Lending Criteria, 5 Property, 6 Legal Fees, 7 Criteria Q&As.
+**SOURCE:** [https://www.aldermore.co.uk/media/5rwlkece/residential_criteria.pdf](https://www.aldermore.co.uk/media/5rwlkece/residential_criteria.pdf)
+**LAST VERIFIED:** November 2025
 
-### Purpose
+**IMPORTANT:**
+For intermediary use only. Aldermore Bank PLC is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (Financial Services Register number: 204503). Registered Office: Apex Plaza, Forbury Road, Reading, RG1 1AX. Registered in England. Company No. 9411662.
 
-Purchase or remortgage of residential property occupied by the applicant.
+**RAG convention:** Where applicable, criteria use explicit labels **Maximum:** **Minimum:** **Allowed:** **Not Acceptable:** **Condition:** so that rules are self-contained for retrieval.
 
-A purchase transaction involving a property that was previously sold within the last 6 months is not acceptable. (This will not apply when the property is being purchased from a housebuilder that acquired the property in a part-exchange transaction)
+**Contact:** 0333 321 1000 | [aldermore.co.uk/intermediaries/mortgages](https://aldermore.co.uk/intermediaries/mortgages)
 
-### Loan limits
+**Note:** Our lending criteria is now searchable on our website.
 
-| Loan limits | |
-| --- | --- |
-| Minimum loan | £25,000 |
-| Maximum loan | Maximum loan is dependent on the product type and LTV, please refer to the product guide |
-| Minimum term | 10 years |
-| Maximum term | 40 years |
+---
 
-### Repayment type
+# SECTION 1 – LOAN
+
+## Purpose
+
+**Allowed:** Purchase or remortgage of residential property occupied by the applicant.
+
+**Not Acceptable:** A purchase transaction involving a property that was previously sold within the last 6 months (exceptions: property purchased from a housebuilder that acquired the property in a part-exchange transaction).
+
+## Loan limits
+
+**Minimum (loan):** £25,000
+**Maximum (loan):** Dependent on product type and LTV – refer to product guide
+**Minimum (term):** 10 years
+**Maximum (term):** 40 years
+
+## Repayment type
 
 * Capital & interest repayment
 * Interest only with an acceptable repayment strategy
 * Part-repayment and-part interest-only is not available
 
-### Standard LTV and loan amount limits
+## Standard LTV and loan amount limits
 
-| Repayment type | Maximum LTV (%) | Maximum Loan Amount (£) |
-| --- | --- | --- |
-| Capital Repayment | 95% | £1,000,000 |
-| Interest Only | 75% | £1,000,000 |
+* **Capital Repayment:** Max 95% LTV, £1,000,000
+* **Interest Only:** Max 75% LTV, £1,000,000
 
-### Other LTV and loan amount limits
+## Other LTV and loan amount limits
 
-| Scenario | Maximum LTV (%) | Maximum Loan Amount (£) |
-| --- | --- | --- |
-| Like for like remortgage, and capital raising for property | 90% | Standard limits |
-| Remortgage with capital raising for non-property related purposes | 85% | |
-| Applicant with only 1 year's accounting information | 90% | |
-| Let to Buy (Residential Purchase) | 80% | |
-| New build houses | 90% | |
-| New build flats | 85% | |
-| Ex-public sector flats and maisonettes | 85% | |
-| Help to Buy: equity loan (England & London) | 75% | £450,000 |
-| Adverse credit - level 2 | 75% / 90% | £1,000,000 / £750,000 |
-| Adverse credit - level 3 | 75% / 80% | £600,000 / £500,000 |
+* **Like for like remortgage, capital raising for property:** Max 90% LTV, standard limits
+* **Remortgage with capital raising for non-property related purposes:** Max 85% LTV
+* **Applicant with only 1 year's accounting information:** Max 90% LTV
+* **Let to Buy (Residential Purchase):** Max 80% LTV
+* **New build houses:** Max 90% LTV
+* **New build flats:** Max 85% LTV
+* **Ex-public sector flats and maisonettes:** Max 85% LTV
+* **Help to Buy: equity loan (England & London):** Max 75% LTV, £450,000
+* **Adverse credit - level 2:** 75% or 90% LTV, £1,000,000 or £750,000
+* **Adverse credit - level 3:** 75% or 80% LTV, £600,000 or £500,000
 
-### Addition of fees
+## Addition of fees
 
 The LTV limits exclude fees. Fees can be added if the net LTV is 90% or less. The gross loan cannot exceed 95%.
 
-### Legal representation
+## Legal representation
 
 We can use the applicant's solicitors to act on behalf of Aldermore, subject to them being on our wider panel, or by them meeting our qualification criteria to join.
 
-### Purchase
+## Purchase
 
-Property must have previously been owned by the seller for a minimum of 6 months, unless it is being sold by a housebuilder / developer who obtained the property in part exchange.
+**Condition:** Property must have previously been owned by the seller for a minimum of 6 months, unless sold by a housebuilder/developer who obtained the property in part exchange.
 
-### Remortgage
+## Remortgage
 
-Remortgaging with additional borrowing not considered for:
-* Payment of overdue income/corporation tax
-* Repayment of debts that haven't been satisfactorily maintained
+**Not Acceptable (additional borrowing for):** Payment of overdue income/corporation tax; repayment of debts that haven't been satisfactorily maintained.
 
 Property owned for less than 6 months - only acceptable where the property was purchased via a bridging loan or cash transaction more than 1 month ago. For all other applications the property must have been owned for at least 6 months.
 
-### Additional borrowing
+## Additional borrowing
 
 Additional borrowing on an existing mortgage is acceptable as part of a new remortgage application.
 
@@ -94,11 +89,11 @@ Applicants must have a suitable repayment strategy in place in order to fully re
 * Sale of another mortgaged property
 * Other repayment strategies, including sale of other assets and occasional payments from income will be considered
 
-Sale of property or other assets held in a foreign currency is not acceptable.
+**Not Acceptable:** Sale of property or other assets held in a foreign currency as repayment strategy.
 
 Interest only Repayment Strategy Declaration Form will be required. This will require the applicants to clearly set out the repayment strategy and amount(s) to be used.
 
-### Concessionary purchase
+## Concessionary purchase
 
 **Key criteria:**
 * A concessionary purchase will only be considered when the property is being purchased from a close family member, ie. parent, child, grandparent, brother, sister, uncle, aunt, foster parent or legal guardian (including step relatives), or from landlord by a sitting tenant.
@@ -115,29 +110,29 @@ Interest only Repayment Strategy Declaration Form will be required. This will re
 * The seller will be required to complete a Gifted Equity and Solvency Declaration Form and obtain an appropriate Insolvency Act Indemnity Insurance policy.
 * Separate legal representation is required for buyer and seller.
 
-### Let to buy
+## Let to buy
 
-Where the current home will be let, we'll allow the onward purchase of a new residential home, up to a maximum 80% LTV (excluding fees).
+**Allowed:** Where the current home will be let, onward purchase of a new residential home up to maximum 80% LTV (excluding fees).
 
-### Deposit
+## Deposit
 
-#### Applicant's own funds
+## Applicant's own funds
 
 Evidence of deposit funds in bank account.
 
-#### Gifted deposit
+## Gifted deposit
 
 A non-repayable gift from a parent, child, grandparent, brother, sister, uncle/aunt, foster parent or legal guardian (including step relatives) is acceptable.
 
-#### Builder gifted deposit
+## Builder gifted deposit
 
 The total value of all financial incentives, including deposit gifted by the builder, can't exceed 5% of the purchase price.
 
-#### Builder part exchange
+## Builder part exchange
 
 Equity from the sale of existing property to a builder.
 
-#### House builder incentives
+## House builder incentives
 
 **Up to 90% LTV:**
 Monetary sales incentives, such as builder gifted deposit, payment of legal costs and stamp duty are acceptable if the total value of these financial incentives don't exceed 5% of the purchase price.
@@ -145,47 +140,43 @@ Monetary sales incentives, such as builder gifted deposit, payment of legal cost
 **Any LTV:**
 Non-monetary sales incentives, such as white goods, electrical equipment, flooring and curtains/blinds and the upgrade of kitchen/bathroom are acceptable.
 
-#### Deed of gift and transfer at undervalue
+## Deed of gift and transfer at undervalue
 
 If the price being paid for the property is less than the full market value, the solicitor acting in the mortgage transaction will be asked to confirm that the property is not subject to a transfer at undervalue or a deed of gift. Deed of gift is defined as a transfer of interest in a property from the owner to another without money or other consideration being exchanged in return for that interest. If there is such a transaction taking place or has taken place within the last 5 years, the solicitor must confirm to Aldermore that an acceptable defective title indemnity will be obtained. A transfer from single to joint ownership does not require indemnity if the transfer is simultaneous with completion.
 
 Following the deed of gift the person making the gift must not continue to reside in the property.
 
-### We don't provide lending for
+## We don't provide lending for
 
-* Second charge mortgage
-* Borrowing funds to satisfy CCJ, IVA and Bankruptcy Orders
-* Loans for purchase of a property under Right to Buy
-* Remortgage applications of a property previously purchased under Right to Buy and within the five year pre-emption period
-* Properties purchased via the Rent to buy scheme
+**Not Acceptable:** Second charge mortgage; borrowing funds to satisfy CCJ, IVA and Bankruptcy Orders; loans for purchase under Right to Buy; remortgage of property previously purchased under Right to Buy and within the five year pre-emption period; properties purchased via the Rent to buy scheme.
 
 ---
 
-## Applicant
+# SECTION 2 – APPLICANT
 
-### Maximum applicants
+## Maximum applicants
 
-2 applicants.
+**Maximum:** 2 applicants.
 
-### Minimum age
+## Minimum age
 
-21 years at application.
+**Minimum:** 21 years at application.
 
-### Maximum age
+## Maximum age
 
-70 years at the end of the term.
+**Maximum:** 70 years at the end of the term.
 
 75 years (maximum age not exceeding the applicant's 55th birthday at time of application). We can consider up to age 80 years for the older applicant (joint application) when basing affordability on the younger applicant's income.
 
-### Married / cohabiting applicants
+## Married / cohabiting applicants
 
-Applications in sole names for married, common law or civil partnerships are not allowed. We expect joint applications to be the norm in these circumstances. Anyone on the Title Deeds must be on the mortgage application.
+**Not Acceptable:** Applications in sole names for married, common law or civil partnerships. Joint applications expected. Anyone on the Title Deeds must be on the mortgage application.
 
-### Other occupants of the property
+## Other occupants of the property
 
 Anyone aged 17 or more at the time of completion, who is living in the property and is not an applicant, will be required to sign an adult occupier form.
 
-### Residency status
+## Residency status
 
 All applicants must have been resident in the UK for the last 2 years; and
 
@@ -196,55 +187,52 @@ All applicants must have been resident in the UK for the last 2 years; and
 
 *Work eVisas are not acceptable for confirmation of residency
 
-### We don't lend to applicants where
+## We don't lend to applicants where
 
-* Has Power of Attorney for another joint applicant
-* With diplomatic immunity
-* Employed on a commission only basis, unless applying jointly with another applicant and income is not being taken into consideration
-* With seasonally based job (e.g. crop picker/holiday rep), or piece-workers, unless applying jointly with another applicant and income is not being taken into consideration
+**Not Acceptable:** Power of Attorney for another joint applicant; diplomatic immunity; employed on commission only basis (unless applying jointly and income not taken into consideration); seasonally based job (e.g. crop picker/holiday rep) or piece-workers (unless applying jointly and income not taken into consideration).
 
 ---
 
 ## Income and Affordability
 
-### Affordability
+## Affordability
 
 Aldermore uses an affordability calculation to assess the maximum available loan using the income and expenditure for the applicant(s).
 
-### General requirements
+## General requirements
 
 At least one applicant must be employed, self-employed or in receipt of a private pension or investment income.
 
-### Minimum income
+## Minimum income
 
-Total allowable income for applicants must be at least £10,000 per year.
+**Minimum:** Total allowable income for applicants must be at least £10,000 per year.
 
-### Income multiple
+## Income multiple
 
-Income multiple must not exceed 5.5 x total allowable income. Where the total Allowable Income on the application is less than £60,000, the loan to income multiple must not exceed 4.49x.
+**Maximum:** Income multiple must not exceed 5.5 x total allowable income. Where total Allowable Income is less than £60,000, loan to income multiple must not exceed 4.49x.
 
-### Employed applicants
+## Employed applicants
 
-#### Requirements
+## Requirements
 
 * The applicants position must be permanent
 * The applicants must not be under notice of termination or redundancy
 * The applicants must be able to demonstrate a minimum of three months record of employment immediately preceding the mortgage application in the same line of work
 
-#### Evidence of income
+## Evidence of income
 
 * Last month's payslip prior to application (the year to date figure must cover 3 months); and
 * Latest P60 or March payslip (to evidence total earnings for previous year)
 
 Hand-written documents will not be acceptable and bank statements may be requested in support of poor quality references or payslips.
 
-### Self employed applicants
+## Self employed applicants
 
-#### Minimum trading period
+## Minimum trading period
 
 Accounting information for at least 2 years is normally required (can consider less than 2 years).
 
-#### Classification
+## Classification
 
 Self-employed applicants may be classified into one of four categories:
 1. Sole traders
@@ -255,7 +243,7 @@ Self-employed applicants may be classified into one of four categories:
 * If the applicant's shareholding of a limited company is less than 25% they will normally be classified as being an employee of the company
 * Where joint applicants are directors of the same private limited company and their joint shareholding is greater than 25% of the company they will be treated as self-employed
 
-#### Evidence of income
+## Evidence of income
 
 Last 2 years Tax Calculations and corresponding HMRC Tax Year Overview documents.
 
@@ -269,9 +257,9 @@ Where 1 year's accounting information is used the following will be required in 
 * If appropriate, VAT returns for the two previous quarters
 * Personal and business bank statements for the previous 3 months
 
-### Contractor criteria
+## Contractor criteria
 
-#### Requirements
+## Requirements
 
 * The applicant must have a minimum of 12 months contractor history or 24 months in the same line of work
 * There must be 2 months remaining on the current contract or a renewal agreed. Our underwriters may consider less than 2 months remaining, on a case-by-case basis, if there is a longer-term history of renewal
@@ -279,13 +267,13 @@ Where 1 year's accounting information is used the following will be required in 
 * A maximum of 2 contracts can be worked at the same time, subject to total hours per week being reasonable
 * It is acceptable for applicants to be paid via an umbrella company, which pays tax and NI for the applicant
 
-#### Income calculation
+## Income calculation
 
 * Affordability can be assessed on a gross income / employed basis for contractors working via an umbrella company, those with a Fixed Term Contract where tax and NICs are paid at source and self-employed Limited Company Directors / sole traders where there are no other employees. Limited company directors must be the only shareholder, except where partner / spouse is the other shareholder and they are jointly applying for the mortgage
 * Daily / weekly rate on the latest contract will be multiplied by 46 weeks for self-employed and other day rate contractors. For those working via an umbrella company, gross income will be considered based on income received by the contractor from the umbrella company, once 'umbrella expenses' have been removed, such as commission and employer pension
 * All other cases, including those contractors working via Construction Industry Scheme (CIS) will be assessed on a self-employed basis.
 
-#### Evidence of income
+## Evidence of income
 
 * Copies of the current and previous contracts for the last 12 months will be required to confirm that contract period meets criteria
 * Where there has been a significant gap in recent contractor history (more than 6 weeks in last 12 months), we require contracts for previous 24 months in total and an explanation for the gap
@@ -294,19 +282,19 @@ Where 1 year's accounting information is used the following will be required in 
 
 Consideration may be given to an application outside current criteria, on a case-by-case basis, but only where the case is strong elsewhere. Please discuss with your Business Development Manager in the first instance.
 
-### Professional sportspeople
+## Professional sportspeople
 
 Where applicants are self-employed the standard requirements relating to self-employment will apply.
 
-#### Requirements
+## Requirements
 
 If employed on a contract, applicants must have competed professionally for 24 months and the current contract must have at least 12 months left.
 
 Additional income earned from endorsements will be considered if this can be evidenced.
 
-### Income we accept at 100%
+## Income we accept at 100%
 
-#### From employment
+## From employment
 
 * Overtime
 * Car allowance
@@ -318,7 +306,7 @@ Additional income earned from endorsements will be considered if this can be evi
 * Teaching and learning responsibility payments if TLR1 or TLR2
 * Shift allowance
 
-#### From self-employment
+## From self-employment
 
 Salary and share of net profits, subject to the following exclusions:
 * Sole Trader: net profit
@@ -330,14 +318,14 @@ Salary and share of net profits, subject to the following exclusions:
 * Where the business has carried forward losses from previous trading years
 * Where the nature of the business requires the profits to be retained to enable on-going trading
 
-#### Benefit Income
+## Benefit Income
 
 * Universal credit
 * Child Tax Credits (CTC)
 * Working Tax Credits (WTC)
 * Disability Living Allowance (DLA)
 
-#### Other income
+## Other income
 
 * Income from trust funds
 * War disablement pension
@@ -348,20 +336,20 @@ Salary and share of net profits, subject to the following exclusions:
 * War widows or widowers' pension
 * Rental income, adjusted to reflect the estimated impact of future tax liability
 
-### Income we accept at 75%
+## Income we accept at 75%
 
-#### From employment
+## From employment
 
 * Bonus
 * Commission
 
-### Income we accept at 50%
+## Income we accept at 50%
 
-#### From employment
+## From employment
 
 * Profit Related Pay
 
-#### Benefit income
+## Benefit income
 
 * Income-related Employment & Support Allowance (ESA)
 * Industrial Injuries Disablement Benefit (IIDB)
@@ -372,38 +360,31 @@ Salary and share of net profits, subject to the following exclusions:
 * Severe Disability Allowance
 * Constant Attendance Allowance
 
-#### Other income
+## Other income
 
 * Maintenance Payments supported by the latest 3 months bank statements. A copy of the Court order/ CMS may be requested upon review
 
-### Foreign currency income
+## Foreign currency income
 
-Income received in a foreign currency is not acceptable.
+**Not Acceptable:** Income received in a foreign currency.
 
-### Accountants qualifications
+## Accountants qualifications
 
 Aldermore will only accept accounts or accountant's certificates from practitioners with accredited qualifications.
 
 ---
 
-## Key Lending Criteria
+# SECTION 4 – KEY LENDING CRITERIA
 
-### Credit history criteria by level
+## Credit history criteria by level
 
-| Criteria | Level 1 (up to 95%) | Level 2 (up to 90%) | Level 3 (up to 80%) |
-| --- | --- | --- | --- |
-| Mortgage or Secured Loan Arrears | 0 in last 36 months | 0 in last 18 months | 0 in last 6 months |
-| Unsecured Loan Arrears | Max status 2 in 12 months | Max status 3 in 12 months | Latest month up to date |
-| | Latest month up to date | | |
-| Defaults & County Court Judgements (CCJ) / Sheriff Court Decrees | 0 in last 36 months | 0 in last 18 months | 0 in last 6 months |
-| | All communication defaults ignored | | |
-| | All other combined CCJ & Defaults up to £300 ignored per applicant | | |
-| Individual Voluntary Arrangement (IVA) / Trust Deed | Discharged for 3+ years | Discharged for 2+ years | Discharged for 1+ year |
-| Bankruptcy / Sequestration / Debt Relief Order | Discharged for 6 years | Discharged for 6 years | Discharged for 3 years |
-| Forced or Voluntary Possessions | None in last 6 years | None in last 3 years | |
-| Debt Management plans | Considered when satisfactorily maintained for the last 12 months | | |
+**Level 1 (up to 95% LTV):** Mortgage/secured arrears 0 in last 36 months; Unsecured arrears max status 2 in 12 months, latest month up to date; Defaults & CCJ 0 in last 36 months, communication defaults ignored, combined CCJ & Defaults up to £300 ignored per applicant; IVA/Trust Deed discharged 3+ years; Bankruptcy/Sequestration/DRO discharged 6 years; No forced/voluntary possessions in last 6 years; DMP considered when satisfactorily maintained 12 months.
 
-### Additional credit criteria
+**Level 2 (up to 90% LTV):** Mortgage/secured arrears 0 in last 18 months; Unsecured arrears max status 3 in 12 months; Defaults & CCJ 0 in last 18 months; IVA discharged 2+ years; Bankruptcy etc. discharged 6 years; No possessions in last 3 years.
+
+**Level 3 (up to 80% LTV):** Mortgage/secured arrears 0 in last 6 months; Unsecured latest month up to date; Defaults & CCJ 0 in last 6 months; IVA discharged 1+ year; Bankruptcy etc. discharged 3 years.
+
+## Additional credit criteria
 
 Where the applicant has revolving credit that is 3 or more months in arrears at any time in the last 12 months where total combined revolving credit balances are £3k or more in the same period, the maximum LTV is 80%.
 
@@ -411,11 +392,11 @@ If an applicant falls under the FCA definition of Credit Impaired, all outstandi
 
 ---
 
-## Property
+# SECTION 5 – PROPERTY
 
-### Use
+## Use
 
-Security property must be the applicant's main residence.
+**Condition:** Security property must be the applicant's main residence.
 
 * Aldermore must have a first charge over the property
 * The security must be used for owner occupied residential purposes only
@@ -427,43 +408,43 @@ Security property must be the applicant's main residence.
 * Where a property has been altered for multi-occupation it must be converted back to single occupation prior to completion and will be subject to re-inspection
 * Granny annexes will be considered as long as the immediate family of the applicant will be in occupation
 
-### Location
+## Location
 
-England (including the Isle of Wight), Wales (including Anglesey) and mainland Scotland.
+**Condition:** England (including the Isle of Wight), Wales (including Anglesey) and mainland Scotland.
 
-### Minimum property value
+## Minimum property value
 
-£50,000.
+**Minimum:** £50,000.
 
-### Tenure
+## Tenure
 
-Freehold (heritable title in Scotland) or leasehold (with 85 years unexpired at completion and 45 years at end of mortgage term).
+**Condition:** Freehold (heritable title in Scotland) or leasehold (85 years unexpired at completion and 45 years at end of mortgage term).
 
-### Acceptable property
+## Acceptable property
 
 The property must be acceptable security for the mortgage, confirmed by a valid valuation report. Valuations and reviews of property valuation must conform to regulatory Capital Requirements Regulation (CRR) requirements.
 
-### Buildings insurance
+## Buildings insurance
 
 Buildings insurance must be in place for the security property from the start of the mortgage and must be maintained throughout the mortgage term.
 
-### Other occupants
+## Other occupants
 
 Anyone aged 17 or more at the time of completion, who is shown on the application to be living in the property and is not an applicant in the mortgage, will be required to sign a deed of consent surrendering interest in the security property. In addition, solicitors will be required to ask for additional occupants, should any be revealed who are absent in the mortgage application they too will be required to sign a deed of consent.
 
-### Ground rent & service charges
+## Ground rent & service charges
 
 We require the associated monthly costs for ground rent and/or service charges to be entered as an ongoing commitment for all applications within the 'Commitments' section of the broker portal.
 
-### London and South East area
+## London and South East area
 
 **Greater London:** E (East London), EC (Central London), N (North London), NW (North West London), SE (South East London), SW (South West London), W (West London), WC (West Central London).
 
 **South East:** BN (Brighton), BR (Bromley), CT (Canterbury), CR (Croydon), DA (Dartford), GU (Guilford), HA (Harrow), HP (Hemel Hempstead), KT (Kingston upon Thames), ME (Medway), OX (Oxford), PO (Portsmouth), RG (Reading), RH (Redhill), SL (Slough), SM (Sutton), TN (Tunbridge Wells), TW (Twickenham), UB (Uxbridge), WD (Watford).
 
-### New build properties
+## New build properties
 
-#### Definition
+## Definition
 
 New build property is defined as any property being occupied and/or sold for the first time on the open market in its current state and includes converted and refurbished properties.
 
@@ -473,15 +454,15 @@ Examples include:
 * Refurbished properties with significant alterations
 * Re-build of an existing residential property where the vendor is a builder/developer and the property has been vacated to allow for the re-build to be undertaken.
 
-#### New build houses
+## New build houses
 
 Accepted up to 90% LTV.
 
-#### New build flats
+## New build flats
 
 Accepted up to 85% LTV.
 
-#### New build warranties
+## New build warranties
 
 Properties built within the last ten years must hold an acceptable guarantee/certificate. Acceptable guarantees/certificates include:
 
@@ -509,19 +490,19 @@ Properties built within the last ten years must hold an acceptable guarantee/cer
 
 Properties built using professional consultant monitoring can be considered subject to suitable qualifications, professional indemnity limits and development size. Consultant monitoring will only be acceptable on individual or small development schemes comprising no more than 15 units in total.
 
-### Ex-public sector
+## Ex-public sector
 
-#### Definition
+## Definition
 
 Local authority, housing association, Ministry of Defence, etc.
 
-#### Houses
+## Houses
 
 Accepted up to product maximum LTV, subject to the following conditions:
 * No outstanding pre-emption requirement to repay a proportion of the discount
 * Valuer indicating that there is evidence of a meaningful level of private ownership within the estate
 
-#### Flats and maisonettes
+## Flats and maisonettes
 
 Can be considered up to 85% LTV, subject to the following conditions:
 * No outstanding pre-emption requirement to repay a proportion of the discount
@@ -530,23 +511,23 @@ Can be considered up to 85% LTV, subject to the following conditions:
 * Valuer indicating that there is evidence of a meaningful level of private ownership within the estate
 * The property being of standard construction
 
-### Other property types
+## Other property types
 
-#### Properties with land/outbuildings
+## Properties with land/outbuildings
 
 Normal lending terms apply providing the applicant does not intend to carry out a business from the property and there are no agricultural/restrictions of usage on the land.
 
 Aldermore will require our charge to be registered on the property and all the land, splitting of title to avoid our full registered charge is not acceptable.
 
-### Blocks of flats
+## Blocks of flats
 
 There is no maximum limit on number of floors (excluding Ex-Local Authority), permitting there is a lift to the floor of the property.
 
 Where there is no lift in the block, and the subject property is located higher than the 4th floor (ground plus three floors) this would be unacceptable.
 
-### Restricted covenants
+## Restricted covenants
 
-#### Acceptable covenants
+## Acceptable covenants
 
 Restrictive covenants will be acceptable in following circumstances:
 
@@ -560,7 +541,7 @@ Any properties which are subject to a Section 106 or Section 75 agreement are no
 
 Where the property is subject to such a restriction this must have been taken into consideration by the valuer.
 
-#### Unacceptable covenants
+## Unacceptable covenants
 
 * Property restricted to agriculture or equestrian use
 * Purchaser(s) must be living and/or working in a small geographical area (e.g. specific parish), which is not in the list of acceptable areas
@@ -571,11 +552,11 @@ Where the property is subject to such a restriction this must have been taken in
 * Limit on mortgage payment as a proportion of income
 * Fixed capital values i.e. a property cannot be sold for more than the purchase price into perpetuity or a value cap is implemented
 
-### Property types we do not lend on
+## Property types we do not lend on
 
 Please note this list may not cover all property types, so if you have any questions about what we will lend on, please contact your BDM for more information.
 
-#### Property with Planning Use Classes Order other than C3(a)(b)©
+## Property with Planning Use Classes Order other than C3(a)(b)©
 
 We do not lend on properties:
 * being acquired under an assignable contract
@@ -623,51 +604,51 @@ We do not lend on properties:
 
 ---
 
-## Legal Fees
+# SECTION 6 – LEGAL FEES
 
-### For residential owner occupiers
+## For residential owner occupiers
 
 We can use the applicant's solicitors to act on behalf of Aldermore, subject to them being on our wider panel, or by them meeting our qualification criteria to join.
 
 Where applicant(s) choose to nominate a Conveyancer that does not qualify (or is not accepted) onto our panel, we will require separate legal representation, based on the fees detailed in our legal fees scale.
 
-### Legal process Q&As
+## Legal process Q&As
 
-#### How can I check if my applicant's solicitors are on your panel?
+## How can I check if my applicant's solicitors are on your panel?
 
 You can search for them on lender exchange, either by solicitor's name or postcode. If they appear then they're on the panel.
 
 If they aren't on the panel, please register them before offer to prevent delays.
 
-#### Why does my client have to wait until the offer is issued before your free legal solicitor is instructed?
+## Why does my client have to wait until the offer is issued before your free legal solicitor is instructed?
 
 Our agreement with our free legal partners is that a mortgage offer is required before we contact the solicitor.
 
-#### Can you email a copy of the offer directly to my solicitors and if not why?
+## Can you email a copy of the offer directly to my solicitors and if not why?
 
 Our process is to send the offer to our solicitors via secure email to ensure your data is safe, our solicitors will then make contact with your solicitor and securely send them the offer document.
 
 ---
 
-## Criteria Q&As
+# SECTION 7 – CRITERIA Q&As
 
-### How do you treat clients with pre-settled or settled status?
+## How do you treat clients with pre-settled or settled status?
 
 We accept clients with settled or pre-settled status and those with permanent rights to reside.
 
-### Do you consider unpaid defaults registered over 36 months ago?
+## Do you consider unpaid defaults registered over 36 months ago?
 
 Yes, we can consider defaults registered over 36 months regardless of whether they have been settled/repaid. For defaults relating to mobile phone contracts, we can ignore them even if only recently registered.
 
-### Can you use just one year's accounts?
+## Can you use just one year's accounts?
 
 If your client is experienced in their role and has only one set of accounts, we can consider up to a maximum of 90% loan to value. Please note, this only applies to our residential owner-occupied mortgages.
 
-### If self employed income has increased from the previous year, are you able to use the latest years figures?
+## If self employed income has increased from the previous year, are you able to use the latest years figures?
 
 Yes, potentially if the accountant can confirm both a good rationale and sustainability.
 
-### How do you work out overtime for employed income?
+## How do you work out overtime for employed income?
 
 We use 100% of overtime or 75% of bonus income. We calculate an average for the last 3 months overtime and annualise this figure. You need to put the full figure into our calculator, and we will take 50% off in the background.
 

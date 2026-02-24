@@ -1,82 +1,77 @@
-LENDER NAME: Aldermore
-PRODUCT: Buy to Let
-
-# Aldermore - Buy to Let Criteria Guide
-
-**Source:** [https://www.aldermore.co.uk/media/1sjlueh1/btl_criteria.pdf](https://www.aldermore.co.uk/media/1sjlueh1/btl_criteria.pdf)
-**Last Updated:** 13 October 2025
-
-**FOR INTERMEDIARY USE ONLY**
-
-Aldermore Bank PLC is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (Financial Services Register number: 204503). Registered Office: Apex Plaza, Forbury Road, Reading, RG1 1AX. Registered in England. Company No. 947662.
-
-**Contact:** 0333 321 1000 | [aldermore.co.uk/intermediaries/mortgages](https://aldermore.co.uk/intermediaries/mortgages)
-
-**Note:** Our lending criteria is now searchable on our website. If you want to find something quickly in this guide, just hit **CTRL** and **F**, add the keyword you're searching for and you'll see a list of the options.
-
-Cases will only be passed for underwriter review once our office based BDM team are confident everything is supplied to our minimum standards. This helps us to make quicker lending decisions and improve our app to offer time.
+# ALDERMORE – BUY TO LET CRITERIA GUIDE
 
 ---
 
-## Loan
+**LENDER:** Aldermore
+**PRODUCT:** Buy to Let
+**DOCUMENT TYPE:** Buy to Let criteria. 7 sections: 1 Loan, 2 Applicants, 3 Income and Affordability, 4 Credit Status, 5 Property, 6 Legal Fees, 7 Legal Q&As.
+**SOURCE:** [https://www.aldermore.co.uk/media/1sjlueh1/btl_criteria.pdf](https://www.aldermore.co.uk/media/1sjlueh1/btl_criteria.pdf)
+**LAST VERIFIED:** 13 October 2025
 
-### Purpose
+**IMPORTANT:**
+For intermediary use only. Aldermore Bank PLC is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (Financial Services Register number: 204503). Registered Office: Apex Plaza, Forbury Road, Reading, RG1 1AX. Registered in England. Company No. 947662.
 
-Purchase or remortgage of residential investment property.
+**RAG convention:** Where applicable, criteria use explicit labels **Maximum:** **Minimum:** **Allowed:** **Not Acceptable:** **Condition:** so that rules are self-contained for retrieval.
 
-### Applicant type
+**Contact:** 0333 321 1000 | [aldermore.co.uk/intermediaries/mortgages](https://aldermore.co.uk/intermediaries/mortgages)
 
-Individual (including sole traders) or Corporate body (Limited Companies, Partnerships and Limited Liability Partnerships).
+**Note:** Our lending criteria is now searchable on our website. Cases will only be passed for underwriter review once our office based BDM team are confident everything is supplied to our minimum standards.
 
-### Property type
+---
+
+# SECTION 1 – LOAN
+
+## Purpose
+
+**Allowed:** Purchase or remortgage of residential investment property.
+
+## Applicant type
+
+**Allowed:** Individual (including sole traders) or Corporate body (Limited Companies, Partnerships and Limited Liability Partnerships).
+
+## Property type
 
 * Single residential investment properties
 * Houses of multiple occupation, up to 6 bedrooms
 * Multi unit freehold, up to 4 units
 * Up to 6 flats in a block per customer
 
-### Loan limits
+## Loan limits
 
-| Loan limits | |
-| --- | --- |
-| Minimum loan | £25,000 |
-| Minimum term | 6 years |
-| Maximum term | 40 years |
+**Minimum (loan):** £25,000
+**Minimum (term):** 6 years
+**Maximum (term):** 40 years
 
-### Repayment type
+## Repayment type
 
 * Capital and interest only repayments
 * Interest only
 
-### LTV & Loan Amount
+## LTV & Loan Amount
 
-| Maximum LTV (%) | Maximum Loan Amount (£) |
-| --- | --- |
-| 80% | £500k |
-| 75% | £1m (Residential investment properties), £1.5m (HMO & Multi unit freehold) |
-| 65% | £2m (HMO & Multi unit freehold) |
+* **80% LTV:** Max loan £500k
+* **75% LTV:** £1m (Residential investment properties), £1.5m (HMO & Multi unit freehold)
+* **65% LTV:** £2m (HMO & Multi unit freehold)
 
-### LTV & Loan Amount - Other Limits
+## LTV & Loan Amount - Other Limits
 
-| Scenario | Maximum LTV (%) | Maximum Loan Amount (£) |
-| --- | --- | --- |
-| First time landlord | 75% | £500k |
-| Let to Buy (Experienced Landlord) | 75% | £1m |
-| Portfolios (i.e. applications submitted via the Multi property product) | 75% | £5m |
-| | 65% | £10m* |
-| New build flats - see property section | | |
-| Up to 6 flats in a block (subject to exposure limits) | | |
-| Purchase / remortgage (see page 4) | | |
+* **First time landlord:** Max 75% LTV, £500k
+* **Let to Buy (Experienced Landlord):** Max 75% LTV, £1m
+* **Portfolios (Multi property product):** Max 75% LTV, £5m
+* **Portfolios 65% LTV:** £10m
+* **New build flats:** See property section
+* **Up to 6 flats in a block:** Subject to exposure limits
+* **Purchase / remortgage:** See page 4
 
-*Where the total Aldermore lending exceeds £5m, the maximum lending on any new borrowing will be considered on a case-by-case basis. Please get in touch with your Relationship Manager to discuss your borrowing requirements.
+Where total Aldermore lending exceeds £5m, maximum lending on new borrowing is considered case-by-case – contact Relationship Manager.
 
-### Purchase
+## Purchase
 
-Property must have previously been owned by the seller for a minimum of 6 months.
+**Condition:** Property must have previously been owned by the seller for a minimum of 6 months.
 
-### Remortgage
+## Remortgage
 
-#### Single Residential Unit Applications
+### Single Residential Unit Applications
 
 Remortgage applications for properties owned for less than 6 months can be considered from day one subject to the following:
 
@@ -90,7 +85,7 @@ In all cases, ownership at Land Registry (or Registers of Scotland) must be evid
 
 To support an early remortgage application, brokers must indicate in Notes section of the Broker Application Portal that this is a 'Less Than 6 Months BTL Remo application', along with date and price of purchase. Failure to do this may lead to a delay in the processing of your application.
 
-#### HMO and Multi-Unit Applications
+### HMO and Multi-Unit Applications
 
 Property owned for more than 1 month, but less than 6 months – bought using bridging or cash can be considered subject to the following:
 
@@ -100,53 +95,51 @@ Property owned for more than 1 month, but less than 6 months – bought using br
 
 For all other applications, the property must have been owned for at least 6 months.
 
-### Remortgage with additional borrowing
+## Remortgage with additional borrowing
 
-Remortgage with additional borrowing not considered when for:
+**Not Acceptable (additional borrowing for):**
 * Payment of overdue income/corporation tax; or
 * Repayment of debts that haven't been satisfactorily maintained; or
 * Capital raising to support an ailing business
 
-### Let to Buy
+## Let to Buy
 
-Let to buy refinance of current residential home to a buy to let product acceptable. Any additional borrowing must relate to the purchase of a new residence.
+**Allowed:** Let to buy refinance of current residential home to a buy to let product acceptable. Any additional borrowing must relate to the purchase of a new residence.
 
-### Consumer buy to let
+## Consumer buy to let
 
-Acceptable - maximum 75% LTV.
+**Allowed:** Maximum 75% LTV.
 
-### Exposure limits
+## Exposure limits
 
-Exposure limits when lending on multiple single residential units within the same block, street or full postcode or close proximity.
+**Condition (exposure limits when lending on multiple single residential units within the same block, street or full postcode or close proximity):**
 
-| Overall number of properties | Maximum LTV (subject to initial review) |
-| --- | --- |
-| 2 - 5 | 75% |
-| 6 - 10 | 70% |
-| 11 - 15 | 65% |
-| 16 and over | 60% |
+* **2–5 properties:** Max 75% LTV (subject to initial review)
+* **6–10 properties:** Max 70% LTV
+* **11–15 properties:** Max 65% LTV
+* **16 and over:** Max 60% LTV
 
-### Deposit
+## Deposit
 
-#### Applicant's own funds
+### Applicant's own funds
 
 Evidence required - If from equity being raised on other property a copy of ESIS is required.
 
-#### Gifted deposit
+### Gifted deposit
 
 Full or part deposit as a non-repayable gift from a spouse, parent, child, grandparent, brother, sister, uncle/aunt, foster parent or legal guardian and includes step relatives.
 
-We do not accept gifted equity.
+**Not Acceptable:** Gifted equity.
 
-#### Builder gifted deposit
+### Builder gifted deposit
 
 The total value of all financial incentives, including deposit gifted by the builder, can't exceed 5% of the purchase price.
 
-#### Builder part exchange
+### Builder part exchange
 
 Equity from the sale of existing property to a builder.
 
-#### House builder incentives
+### House builder incentives
 
 Monetary sales incentives, such as builder gifted deposit, payment of legal costs and stamp duty are acceptable if the total value of these financial incentives don't exceed 5% of the purchase price.
 
@@ -154,14 +147,12 @@ Non-monetary sales incentives, such as white goods, electrical equipment, floori
 
 ---
 
-## Applicants
+# SECTION 2 – APPLICANTS
 
-### Maximum number of applicants and properties
+## Maximum number of applicants and properties
 
-| Portal | Applicants | Applicant type | Property type |
-| --- | --- | --- | --- |
-| Residential | Up to 2 individuals | Individuals | Single residential investment properties |
-| Specialist buy to let | Up to 6 individuals | Sole Traders<br>General Partnerships*<br>Limited Liability Partnerships (LLP)*<br>Limited Companies (Ltd)* | Single residential investment properties<br>Houses in multiple occupation, up to 6 bedrooms<br>Multi unit freehold, up to 4 units |
+* **Residential portal:** Up to 2 individuals; Individuals; Single residential investment properties only
+* **Specialist buy to let portal:** Up to 6 individuals; Sole Traders, General Partnerships, LLP, Limited Companies (registered and/or based in UK, IoM or Channel Islands); Single residential investment properties, HMOs up to 6 bedrooms, Multi unit freehold up to 4 units
 
 Applications from corporate entities must include all:
 * Directors, Members (in the cases of LLP), Partners (in the cases of Partnerships); and
@@ -171,21 +162,21 @@ All directors, members, partners, and ultimate beneficial owners must be UK base
 
 *Registered and/or based in the United Kingdom, the Isle of Man or the Channel Islands.
 
-### Minimum age at application
+## Minimum age at application
 
-21 years (for existing landlords) and 25 years for first time landlords.
+**Minimum:** 21 years (for existing landlords) and 25 years for first time landlords.
 
 Applications where directors are under the minimum age of 21 years can be considered subject to:
 * there being no directors within the company under the age of 18 years; and
 * the remaining directors must meet the minimum age requirements and be able to evidence that they have appropriate experience of running the business.
 
-### Maximum age at application
+## Maximum age at application
 
-85 years (at end of mortgage term) for individual landlords.
+**Maximum:** 85 years (at end of mortgage term) for individual landlords.
 
 For Limited Companies, Limited Liability Partnerships and established professional partnerships at least one of the directors/partners must meet the minimum age requirements and there should be clear evidence of appropriate experience for the principal's capability of running the business as a going concern.
 
-### Residency status
+## Residency status
 
 All applicants must have been resident in the UK for the last 2 years; and
 
@@ -197,68 +188,64 @@ All applicants must have been resident in the UK for the last 2 years; and
 
 *Work eVisas are not acceptable for confirmation of residency.
 
-### Power of Attorney
+## Power of Attorney
 
-Not accepted.
+**Not Acceptable:** Not accepted.
 
-### Personal guarantees
+## Personal guarantees
 
 For applications from limited companies, personal guarantees from UK based shareholders/directors, who have a shareholding of 25% or more are required.
 
-### Debentures
+## Debentures
 
 Where the applicant is a Limited Company and the loan amount is £1m and over we reserve the right to require a Debenture.
 
-### First time landlords
+## First time landlords
 
-| Criteria | Requirements |
-| --- | --- |
-| Max loan | £500,000 |
-| Max LTV | 75% |
-| Min age | 25 |
-| Min income | £25,000 |
-| Residency requirement | Must have been an owner occupier for 12 months |
-| Property type | Single dwelling residential security only |
-| Additional requirements | * Where both applicants are first time landlords, one of the applicants must meet the key criteria<br>* A minimum of 6 months is required following a completed application for a first time landlord before a subsequent application can be submitted<br>* For multi unit freeholds, at least one applicant must have been a landlord for 6 months<br>* For HMO's at least one applicant must have been a landlord for 1 year |
+**Maximum (loan):** £500,000
+**Maximum (LTV):** 75%
+**Minimum (age):** 25
+**Minimum (income):** £25,000
+**Condition (Residency):** Must have been an owner occupier for 12 months
+**Condition (Property type):** Single dwelling residential security only
+**Condition (Additional):** Where both applicants are first time landlords, one must meet the key criteria; minimum 6 months required following a completed first time landlord application before a subsequent application; for multi unit freeholds at least one applicant must have been a landlord for 6 months; for HMOs at least one applicant must have been a landlord for 1 year
 
 ---
 
-## Income and Affordability
+# SECTION 3 – INCOME AND AFFORDABILITY
 
-### Minimum Interest Cover Ratio (ICR) affordability
+## Minimum Interest Cover Ratio (ICR) affordability
 
 Aldermore uses an affordability calculation to assess the maximum loan for the applicant(s). Please refer to our online affordability calculator.
 
-| Property type | Applicant type | Minimum ICR | Stressed interest rate calculation |
-| --- | --- | --- | --- |
-| Single residential investment property<br>- including multi unit freehold | Individual<br>- higher or additional rate tax payer | 140% | 2 year fixed and discount: Higher of (i) pay rate + 2% or (ii) 5.5%<br>5 year fixed rate: Higher of (i) pay rate or (ii) 4.0% |
-| | Company or individual<br>- basic rate tax payer | 125% | |
-| Houses in multiple occupation (HMO) | Individual<br>- higher or additional rate tax payer | 145% | Background portfolio: 5.1% |
-| | Company or individual<br>- basic rate tax payer | 130% | |
+* **Single residential investment property / multi unit freehold – higher or additional rate taxpayer:** Minimum ICR 140%. Stressed rate: 2yr fixed/discount – higher of pay rate + 2% or 5.5%; 5yr fixed – higher of pay rate or 4.0%
+* **Single residential / multi unit – basic rate taxpayer (Company or individual):** Minimum ICR 125%
+* **HMO – higher or additional rate taxpayer:** Minimum ICR 145%. Stressed rate: Background portfolio 5.1%
+* **HMO – basic rate taxpayer (Company or individual):** Minimum ICR 130%
 
-Loans on capital repayment must meet interest only ICR requirements as well as the rental income alone being at least 100% of the stressed mortgage payment.
+**Condition:** Loans on capital repayment must meet interest only ICR requirements and rental income alone must be at least 100% of the stressed mortgage payment.
 
-### Income verification
+## Income verification
 
-#### Income verification requirements
+### Income verification requirements
 
 All applicants must be either employed, self employed or in receipt of pension income.
 
 Income must be verified for Basic Rate Tax Payers and First Time Landlords.
 
-#### Basic Rate Taxpayer
+### Basic Rate Taxpayer
 
 Income verification must be completed where the applicant is an individual and declares themselves as a basic rate tax payer and where the ICR calculation does not meet the higher threshold.
 
 To be accepted as a basic rate tax payer the applicant's total annual income (including all gross earned income and total gross rental income) must not exceed the basic rate taxpayer thresholds. Different thresholds apply in Scotland and the rest of the UK.
 
-#### First Time Landlords
+### First Time Landlords
 
 Income verification must be completed to verify that total annual income is equal to or in excess of £25,000.
 
 No verification is required for experienced landlords, although they are required to demonstrate they have sufficient income to cover their existing expenditure.
 
-#### Evidence of income
+### Evidence of income
 
 Required for First Time Landlords and Basic Rate Taxpayers:
 
@@ -271,11 +258,11 @@ Required for First Time Landlords and Basic Rate Taxpayers:
 **Applicants in receipt of pension income:**
 * Latest Pension statement
 
-### Portfolio landlords
+## Portfolio landlords
 
 Portfolio landlords - 4 or more mortgaged buy to let properties in total.
 
-#### Documentation required
+### Documentation required
 
 **Up to 10 mortgaged buy to let properties with Aldermore:**
 * Portfolio schedule
@@ -289,90 +276,85 @@ Portfolio landlords - 4 or more mortgaged buy to let properties in total.
 
 ---
 
-## Credit Status
+# SECTION 4 – CREDIT STATUS
 
-### Acceptable adverse credit
+## Acceptable adverse credit
 
 This refers to the maximum acceptable credit status within the stated term:
 
-| Credit status | Requirements |
-| --- | --- |
-| Mortgage or secured loan arrears - worst status | 0 in the last 3 months<br>1 in the last 12 months<br>2 in the last 24 months |
-| Unsecured loan arrears - worst status | 0 in last 3 months<br>2 in last 24 months |
-| County Court Judgements (CCJ) / Sheriff Court Decrees | 0 recorded in last 36 months<br>None active in the last 36 months over £500 |
-| Defaults | 0 in the last 12 months<br>Max 1 in last 13-36 months up to £500 and settled |
-| Communication defaults | All communication defaults are ignored |
-| Payday loans | 0 in the last 6 months |
-| Individual or Corporate Voluntary Arrangement / Trust Deed / Debt Relief Order | 0 in the last 36 months |
-| Bankruptcy / Sequestration | 0 in the last 6 years |
-| Repossessions | Forced or voluntarily repossessions are unacceptable |
-| Corporate Gazette History | No directorships with the following active in the last 3 years:<br>* Creditors Voluntary or Compulsory Liquidation<br>* Administration Orders<br>* Winding Up Orders<br>* Receiverships |
-| Debt Management Plan | Considered when satisfactorily maintained for the last 12 months |
+* **Mortgage or secured loan arrears (worst status):** 0 in last 3 months; 1 in last 12 months; 2 in last 24 months
+* **Unsecured loan arrears (worst status):** 0 in last 3 months; 2 in last 24 months
+* **CCJ / Sheriff Court Decrees:** 0 recorded in last 36 months; none active in last 36 months over £500
+* **Defaults:** 0 in last 12 months; max 1 in last 13–36 months up to £500 and settled
+* **Communication defaults:** All ignored
+* **Payday loans:** 0 in last 6 months
+* **IVA / Trust Deed / DRO:** 0 in last 36 months
+* **Bankruptcy / Sequestration:** 0 in last 6 years
+* **Repossessions:** Not Acceptable – forced or voluntary repossessions unacceptable
+* **Corporate Gazette History:** No directorships with Creditors Voluntary or Compulsory Liquidation, Administration Orders, Winding Up Orders or Receiverships active in last 3 years
+* **Debt Management Plan:** Considered when satisfactorily maintained for last 12 months
 
 ---
 
-## Property
+# SECTION 5 – PROPERTY
 
-### Use
+## Use
 
-Residential buy to let purposes only.
+**Condition:** Residential buy to let purposes only. The customer and/or a family member cannot live or intend to live in the property at any time.
 
-The customer and /or a family member cannot live or intend to live in the property at any time.
+## Location
 
-### Location
+**Condition:** The security must be in England (including the Isle of Wight), Wales (including Anglesey) or mainland Scotland only.
 
-The security must be in England (including the Isle of Wight), Wales (including Anglesey) or mainland Scotland only.
+## Minimum property value
 
-### Minimum property value
+**Minimum:** Single residential unit £50,000; HMOs and multi units £75,000
 
-* Single residential unit: £50,000
-* Minimum £75,000 for HMOs and multi units
+## Tenure
 
-### Tenure
+**Condition:** Freehold (heritable title in Scotland) or leasehold (85 years unexpired at completion and 45 years at end of mortgage term).
 
-Freehold (heritable title in Scotland) or leasehold (with 85 years unexpired at completion and 45 years at end of mortgage term).
-
-### Core criteria
+## Core criteria
 
 * The property must have a proven market and demand
 * The property must have a minimum habitable floor area of 30 sqm
 * A property must meet the minimum criteria of being habitable, readily saleable, structurally sound and mortgageable
 
-### Building insurance
+## Building insurance
 
 The property must have buildings insurance cover and this cover must be maintained at all times.
 
-### Rental assessment
+## Rental assessment
 
 Based on an unfurnished single family dwelling except for HMO's and multi unit freeholds.
 
 Minimum ICR affordability is based on either: (i) Gross rental income to the higher limits; or (ii) Gross rental income to the lower cover limits, plus surplus personal income to top up to the higher limits.
 
-### EPC requirements
+## EPC requirements
 
-All BTL properties must have a valid energy performance certificate (EPC) rating of E or above or evidence that the property has a valid exemption.
+**Condition:** All BTL properties must have a valid EPC rating of E or above or evidence of a valid exemption.
 
-### HMOs
+## HMOs
 
 Where the property falls within a HMO licensing scheme, the license must be in place or an application in progress.
 
-### London and South East area
+## London and South East area
 
 **Greater London:** E (East London), EC (Central London), N (North London), NW (North West London), SE (South East London), SW (South West London), W (West London), WC (West Central London).
 
 **South East:** BN (Brighton), BR (Bromley), CT (Canterbury), CR (Croydon), DA (Dartford), GU (Guilford), HA (Harrow), HP (Hemel Hempstead), KT (Kingston upon Thames), ME (Medway), OX (Oxford), PO (Portsmouth), RG (Reading), RH (Redhill), SL (Slough), SM (Sutton), TN (Tunbridge Wells), TW (Twickenham), UB (Uxbridge), WD (Watford).
 
-### New build properties
+## New build properties
 
-#### Definition
+### Definition
 
 New build property is defined as any property being occupied and/or sold for the first time on the open market in its current state and includes converted and refurbished properties.
 
-#### New build flats
+### New build flats
 
 Acceptable for experienced landlords. For first time landlords the maximum loan size is £500,000 on new build flats to a maximum 70% LTV.
 
-#### New build warranties
+### New build warranties
 
 Properties built within the last ten years must hold an acceptable guarantee/certificate. Acceptable guarantees/certificates include:
 
@@ -398,15 +380,15 @@ Properties built within the last ten years must hold an acceptable guarantee/cer
 
 Properties built using professional consultant monitoring can be considered subject to suitable qualifications, professional indemnity limits and development size. Consultant monitoring will only be acceptable on individual or small development schemes comprising no more than 15 units in total.
 
-### Ex-public sector properties
+## Ex-public sector properties
 
-#### Houses
+### Houses
 
 Acceptable, subject to the following conditions:
 * No outstanding pre-emption requirement to repay a proportion of the discount
 * Valuer indicating that there is evidence of a meaningful level of private ownership within the estate
 
-#### Flats and maisonettes
+### Flats and maisonettes
 
 Can be considered, subject to the following conditions:
 * No outstanding pre-emption requirement to repay a proportion of the discount
@@ -415,15 +397,15 @@ Can be considered, subject to the following conditions:
 * Valuer indicating that there is evidence of a meaningful level of private ownership
 * The property being of standard construction
 
-### Blocks of flats
+## Blocks of flats
 
 There is no maximum limit on number of floors (excluding ex-Local Authority), permitting there is a lift to the floor of the property.
 
 Where there is no lift in the block, and the subject property is located higher than the 4th floor (ground plus three floors) this would be unacceptable.
 
-### Restricted covenants
+## Restricted covenants
 
-#### Acceptable covenants
+### Acceptable covenants
 
 Restrictive covenants will be acceptable in following circumstances:
 
@@ -437,11 +419,11 @@ Any properties which are subject to a Section 106 or Section 75 agreement are no
 
 Where the property is subject to such a restriction this must have been taken into consideration by the valuer.
 
-### Property types we do not lend on
+## Property types we do not lend on
 
 Please note this list may not cover all property types, so if you have any questions about what we will lend on, please contact your BDM for more information.
 
-#### Unacceptable properties
+### Unacceptable properties
 
 * Part let or part possession
 * Commonhold properties
@@ -476,21 +458,21 @@ Please note this list may not cover all property types, so if you have any quest
 
 ---
 
-## Legal Fees
+# SECTION 6 – LEGAL FEES
 
-### For buy to let landlords purchasing / remortgaging property through the Residential Portal (X case reference)
+## For buy to let landlords purchasing / remortgaging property through the Residential Portal (X case reference)
 
 We can use the applicant's solicitors to act on behalf of Aldermore, subject to them being on our wider panel, or by them meeting our qualification criteria to join.
 
 Where applicant(s) choose to nominate a Conveyancer that does not qualify (or is not accepted) onto our panel, we will require separate legal representation, based on the fees detailed in our legal fees scale.
 
-#### For purchase
+### For purchase
 
 Applicants can select to use one of Aldermore's managed panel solicitors to act for themselves and the bank or choose to instruct their own solicitor to act. This is subject to them being on Aldermore's approved panel.
 
 Free legals are not available on Purchase transactions.
 
-#### For remortgage
+### For remortgage
 
 We offer free legals via our managed panel Solicitors.
 
@@ -498,9 +480,9 @@ Aldermore will instruct our own conveyancer and pay for the costs of the legal w
 
 We will use title and search insurance to remove the need for local authority and other searches. Title and search insurance will be for the benefit of Aldermore.
 
-### Legal fees - for buy to let landlords (individuals and companies) purchasing / remortgaging through the Specialist buy to let Portal (Y case reference)
+## Legal fees - for buy to let landlords (individuals and companies) purchasing / remortgaging through the Specialist buy to let Portal (Y case reference)
 
-#### For purchase
+### For purchase
 
 Borrowers can use their own conveyancers to represent both themselves and the bank. The selected conveyancer must be registered with Aldermore via Lender Exchange, and meet the following criteria:
 
@@ -510,7 +492,7 @@ Borrowers can use their own conveyancers to represent both themselves and the ba
 
 Assisted legal fees are not available on purchase transactions.
 
-#### For remortgage
+### For remortgage
 
 We offer assisted legal fees for Company buy to let transactions. We'll appoint our own solicitor to act for Aldermore Bank only, but they can also act for the borrower for an additional fee if required.
 
@@ -520,7 +502,7 @@ For any non-assisted legal fee transactions, please select your own conveyancer 
 
 For any transaction not using assisted legal fees, the borrower will be liable for all conveyancing costs.
 
-#### Model Articles
+### Model Articles
 
 The 'model articles' as set out by the Companies Act 2006, sets out what a director is authorised to do on behalf of the company. At present there is a challenge as to the clauses held within the standard model articles, therefore, a sole director, under the unamended model articles, does not have the power to enter into contracts - including mortgage deeds.
 
@@ -530,19 +512,19 @@ See our buy to let conveyancing guide for more information.
 
 ---
 
-## Legal Q&As
+# SECTION 7 – LEGAL Q&As
 
-### How can I check if my applicant's solicitors are on your panel for a case I've submitted?
+## How can I check if my applicant's solicitors are on your panel for a case I've submitted?
 
 Your nominated solicitor will represent Aldermore and your client. You can see which firms are on our panel by searching on **lender exchange**, either by solicitor's name or postcode. If they appear on this list, they are on our panel.
 
 If they aren't on the panel, please register them before offer to prevent delays.
 
-### Why does my client have to wait until the offer is issued before your free/assisted legal solicitor is instructed?
+## Why does my client have to wait until the offer is issued before your free/assisted legal solicitor is instructed?
 
 Our agreement with our free legal partners is that a mortgage offer is required before we contact the solicitor.
 
-### How do I choose and instruct a solicitor for a buy to let transaction submitted through your Specialist buy to let portal (Y case reference)?
+## How do I choose and instruct a solicitor for a buy to let transaction submitted through your Specialist buy to let portal (Y case reference)?
 
 You can choose to instruct your own solicitor to act dual representation for yourself and the bank. Please enter their details during the application process, ensuring that they meet our qualification criteria as noted earlier in this document.
 
