@@ -1,250 +1,124 @@
-LENDER NAME: Hinckley & Rugby Building Society (HRBS)
-PRODUCT: Buy to Let
+# Hinckley & Rugby Building Society – Buy to Let Criteria
 
-# Hinckley & Rugby Building Society (HRBS) - Buy to Let Lending Criteria
-**Source:** https://intermediaries.hrbs.co.uk/criteria/criteria-buy-to-let/
-**Last Updated:** 2025
+---
 
+**LENDER:** Hinckley & Rugby Building Society (HRBS)
+**PRODUCT:** Buy to Let
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 2025
 **FOR INTERMEDIARY USE ONLY**
 
-Hinckley & Rugby Building Society is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and Prudential Regulation Authority. The Society's registration number is 206043.
+**Source:** https://intermediaries.hrbs.co.uk/criteria/criteria-buy-to-let/
 
 **Contact:**
-* **For a new case enquiry:** 01455 894084
-* **Case recently submitted:** 01455 894736
-* **Case with the underwriting team:** 01455 894738
-* **Broker Portal:** https://intermediaries.hrbs.co.uk/broker-portal/
-* **Website:** https://intermediaries.hrbs.co.uk/
+- New case enquiry: 01455 894084
+- Case recently submitted: 01455 894736
+- Case with underwriting team: 01455 894738
+- Office hours: Monday to Friday, 9:00am – 5:00pm (closed weekends and bank holidays)
+- Broker Portal: https://intermediaries.hrbs.co.uk/broker-portal/
+- Website: https://intermediaries.hrbs.co.uk
+- Contact page: https://intermediaries.hrbs.co.uk/contact-us/
 
-**Office Hours:**
-* Monday to Friday: 9:00am – 5:00pm
-* Closed on weekends and bank holidays
-
----
-
-## Overview
-
-Hinckley & Rugby Building Society offers Buy to Let mortgages for property investors. The Society provides flexible criteria for both standard Buy to Let applications and portfolio landlords.
-
-### Key Features
-
-* **Flexible underwriting** - Individual assessment of each case
-* **Portfolio landlord support** - Dedicated criteria for portfolio landlords
-* **Top-slicing available** - Can consider combination of rental and personal income for non-portfolio landlords
-* **Visa BTL available** - Buy to Let mortgages for skilled worker visa holders
+**Regulatory:** Authorised by the Prudential Regulation Authority. Regulated by the Financial Conduct Authority and the Prudential Regulation Authority. Registration number: 206043.
 
 ---
 
-## Buy to Let Criteria
+## SECTION 1 – PRODUCT OVERVIEW
 
-**Source:** https://intermediaries.hrbs.co.uk/criteria/criteria-buy-to-let/
-
-### Standard Buy to Let
-
-The Society offers a comprehensive range of Buy to Let mortgage products. For detailed criteria on specific topics, please refer to the interactive criteria search tool on the website or contact the intermediary team.
-
-**Key Features:**
-* Individual underwriting assessment for all cases
-* Interest Coverage Ratio (ICR) requirements apply
-* Maximum LTV varies by product and property type
-* Comprehensive property and applicant criteria
-
-### Product Selection
-
-View products at: https://intermediaries.hrbs.co.uk/product-category/buy-to-let-products/
+- Buy to Let mortgages available for property investors.
+- All cases reviewed manually with individual underwriting assessment.
+- Portfolio landlord support available.
+- Top-slicing available for non-portfolio landlords (not available on Visa BTL).
+- Visa Buy to Let products available for eligible skilled worker visa holders.
 
 ---
 
-## Portfolio Landlord
+## SECTION 2 – PORTFOLIO LANDLORD DEFINITION
 
-**Source:** https://intermediaries.hrbs.co.uk/criteria/portfolio-landlord/
+An applicant is classed as a portfolio landlord where they have 4 or more qualifying buy to let mortgaged properties.
 
-### Definition of a Portfolio Landlord
+**Qualifying properties include:**
+- Properties owned in the name of a limited company where the applicant holds more than 25% of the shares.
+- Properties held on a consent to let basis.
+- Holiday lets.
 
-An applicant who has **four or more qualifying Buy to Let mortgaged properties**, including:
-
-* Properties owned in the name of a limited company where the applicant holds more than 25% of the shares
-* Properties held on a consent to let basis
-* Holiday lets
-
-**For joint applications:** If the combined number of qualifying properties exceeds three, then the application will be classed as portfolio lending.
-
-### Portfolio Landlord Specific Criteria
-
-The easiest way to check if your client's portfolio is likely to be acceptable for lending purposes is to get in touch with our team. This calculator considers the Interest Coverage Ratio (ICR) of the subject property individually and of the portfolio as a whole, the number of properties in the portfolio, the LTV of the portfolio, the level of experience of the applicant(s) and the rate at which the portfolio has grown.
-
-**Our criteria for this is:**
-
-* **ICR Requirement:** The ICR of the subject property, and the portfolio as a whole, must be at least **145%** when calculating the monthly payment at a reference rate of **5.5%**
-* **Maximum Number of Properties:** The maximum number of qualifying properties to be held in a portfolio is **20**
-* **Acquisition Rate:** Applicants must not have acquired more than **three BTL properties in the last 12 months**
-* **Landlord Experience:** At least one applicant must have a minimum of **24 months' experience as a landlord**
-* **Maximum LTV:** The maximum LTV of the portfolio of qualifying properties, including the subject property and any unencumbered properties, is **70%**
-* **Maximum Age:** The applicant's age must not exceed **80 at the end of the mortgage term**
-
-### Important Notes
-
-* In addition to the general and portfolio landlord-specific criteria, each case will be assessed individually by our portfolio underwriting team
-* Checks will include consideration as to whether there is any over reliance on background properties with energy performance ratings below the minimum regulatory requirements, to deliver overall affordability
-* **Top-slicing is NOT available for portfolio landlords** - Whilst we accept a combination of rental income and personal income for non-portfolio landlords (commonly known as top-slicing), this is not true for portfolio landlords
-
-### Submitting an Application
-
-The application process and required documentation for portfolio landlords are the same as for non-portfolio applications. Details of the background properties are requested on the application form – please ensure that you capture in readiness, for both mortgaged and unencumbered properties:
-
-* Names of the account holders
-* Property address
-* Rental income
-* Monthly mortgage payment (if any)
-* Current lender and account number
-* Balance outstanding (if any)
-* Mortgage repayment basis
-* Current property value
-* EPC rating
-
-### Product Selection
-
-View products at: https://intermediaries.hrbs.co.uk/product-category/buy-to-let-products/
+**Joint applications:**
+- If the combined qualifying properties of all applicants exceed 3, the application is classed as portfolio lending.
 
 ---
 
-## Top-Slicing
+## SECTION 3 – PORTFOLIO LANDLORD CRITERIA
 
-**Source:** https://intermediaries.hrbs.co.uk/criteria/topslicing/
-
-### Overview
-
-Every case is reviewed manually, and if there is a shortfall in rental income for the affordability assessment we are here to help.
-
-If the mortgage is not self-supporting at the stressed rate and top-slicing is to be considered, the shortfall in rental income must be assessed as coverable by the borrower's personal income.
-
-### Key Criteria
-
-**Please note:**
-
-* **Product Availability:** Top-slicing is available on all our BTL products **except Visa BTL**
-* **Minimum ICR:** The rental income must meet the minimum ICR allowable for top slicing of **100%**
-* **Portfolio Landlords:** Top-slicing is **not available to portfolio landlords** (having four or more rental properties currently mortgaged)
-* **JBSP Mortgages:** Top-slicing can also be considered on Joint Borrower Sole Proprietor (JBSP) mortgages
-
-### How It Works
-
-Top-slicing allows the Society to consider a combination of rental income and personal income to meet affordability requirements. This is particularly useful where:
-
-* The rental income alone does not meet the required ICR at the stressed rate
-* The applicant has sufficient personal income to cover the shortfall
-* The property is not self-supporting but the applicant can demonstrate ability to cover the shortfall
-
-### Contact for Eligibility
-
-If you have any questions or wish to discuss the eligibility of your case for top-slicing, please contact our Telephone BDM Team using the contact details below.
+- ICR requirement: the subject property and entire portfolio must meet a minimum 145% ICR, calculated at a reference rate of 5.5%.
+- Maximum number of BTL properties acquired in the last 12 months: 3.
+- Landlord experience: at least 1 applicant must have a minimum of 24 months' experience as a landlord.
+- Maximum LTV: 70% (includes subject property and any unencumbered properties).
+- Maximum age: applicant must not exceed age 80 at end of mortgage term.
+- Top-slicing: not available for portfolio landlords.
+- Each case assessed individually by the portfolio underwriting team.
+- Consideration given to over-reliance on properties with EPC ratings below minimum regulatory requirements.
 
 ---
 
-## Visa Buy to Let
+## SECTION 4 – PORTFOLIO APPLICATION REQUIREMENTS
 
-**Source:** https://intermediaries.hrbs.co.uk/criteria/skilled-worker-visas/
+For each mortgaged and unencumbered property in the portfolio, the following must be provided:
 
-### Overview
-
-As part of our ongoing drive to support deserving applicants who are typically neglected by most high street lenders, we've launched Buy to Let mortgages for skilled foreign workers investing in the UK property market.
-
-### Visa Buy-to-Let Criteria
-
-* **Limited Companies:** Limited Companies are **not acceptable**
-* **ICR Requirements:** Property must meet minimum Interest Coverage Ratios
-* **Top-slicing:** Top-slicing is **not permitted** for Visa BTL
-* **Residency Status:** Applicants who don't own a UK residential property will need to confirm residency status as part of their application
-* **Minimum Income:** Applicants must have a minimum income of **£35,000**
-* **Maximum LTV:** Buy to Let lending is available up to **75% LTV**
-
-### Visas Accepted
-
-* Skilled Worker
-* Health and Care
-* Global Talent
-* Ancestry
-
-If your client holds a visa that isn't listed above, please call us on 01455 894084 to discuss their application.
+- Account holder names.
+- Property address.
+- Rental income.
+- Monthly mortgage payment (if any).
+- Current lender and account number.
+- Outstanding balance (if any).
+- Mortgage repayment basis.
+- Current property value.
+- EPC rating.
 
 ---
 
-## Additional Information
+## SECTION 5 – TOP-SLICING
 
-### Interactive Criteria Search Tool
+- Available on all BTL products except Visa BTL.
+- Not available for portfolio landlords.
+- Can be considered on Joint Borrower Sole Proprietor (JBSP) mortgages.
+- Minimum ICR for top-slicing: 100%.
 
-The Society provides an interactive criteria search tool on the Buy to Let criteria page that allows intermediaries to search for specific criteria by category or topic.
-
-### Calculators
-
-Portfolio landlord calculator available to check if your client's portfolio is likely to be acceptable for lending purposes. Contact the team for access.
-
-### Application Process
-
-For information on the application process, please visit: https://intermediaries.hrbs.co.uk/resources/application-process/
-
-### Required Documentation
-
-For portfolio landlords, ensure you have ready:
-
-* Details of all background properties (both mortgaged and unencumbered)
-* Account holder names
-* Property addresses
-* Rental incomes
-* Monthly mortgage payments (if any)
-* Current lenders and account numbers
-* Outstanding balances (if any)
-* Mortgage repayment bases
-* Current property values
-* EPC ratings
-
-### Resources
-
-* **FAQs** - Available at: https://intermediaries.hrbs.co.uk/resources/faqs/
-* **Product Transfers** - Information available on the website
-* **Manage/Submit Case** - Broker portal available
+**How it works:**
+- Rental income must meet a minimum 100% ICR.
+- Where rental income does not meet the stressed ICR, the shortfall must be coverable by the borrower's personal income.
+- A combination of rental and personal income may be considered.
 
 ---
 
-## Contact Information
+## SECTION 6 – VISA BUY TO LET
 
-### Intermediary Sales Team
+- Limited companies: not acceptable.
+- Minimum income: £35,000.
+- Maximum LTV: 75%.
+- Property must meet minimum ICR requirements.
+- Top-slicing: not permitted.
+- Applicants who do not own a UK residential property must confirm residency status as part of the application.
 
-* **For a new case enquiry:** 01455 894084
-* **Case recently submitted:** 01455 894736
-* **Case with the underwriting team:** 01455 894738
-* **Office Hours:** Monday to Friday, 9:00am – 5:00pm
-* **Closed:** Weekends and bank holidays
+**Accepted visas:**
+- Skilled Worker.
+- Health and Care.
+- Global Talent.
+- Ancestry.
 
-### Additional Contact Options
-
-* **Email:** Available through contact form on website
-* **LiveChat:** Available on website
-* **Business Development Managers:** Available - contact details on website
-* **Contact Page:** https://intermediaries.hrbs.co.uk/contact-us/
-
-### Portfolio Landlord Enquiries
-
-Please contact us to check affordability for portfolio landlord cases. If you would like to be the first to know about product changes in future please sign up to the newsletter.
+If the visa type is not listed above, contact HRBS to discuss the application.
 
 ---
 
-## Important Notes
+## SECTION 7 – GENERAL UNDERWRITING
 
-* All lending criteria is subject to full underwriting assessment
-* Criteria may vary by product and individual circumstances
-* Always check the latest criteria on the website or contact the intermediary team for specific cases
-* Some products may have additional criteria not listed here
-* For cases outside standard criteria, contact HRBS for consideration
-* The Society reserves the right to decline applications that do not meet their lending criteria
-* Portfolio landlord cases are assessed individually by the portfolio underwriting team
-* Top-slicing is not available for portfolio landlords or Visa BTL
-* Each case is reviewed manually to ensure appropriate assessment
+- All lending subject to full underwriting assessment.
+- Each case reviewed manually on an individual basis.
+- Criteria may vary by product and individual circumstances.
+- Some products may have additional criteria.
+- The Society reserves the right to decline applications not meeting criteria.
+- Always check the latest criteria before submission.
+- Contact the intermediary team for cases outside standard criteria.
 
 ---
 
-**Last Updated:** 2025
-**Source:** https://intermediaries.hrbs.co.uk/criteria/criteria-buy-to-let/
-**Company Registration:** 206043
-**Regulatory Authority:** Prudential Regulation Authority and Financial Conduct Authority
-
+*END OF DOCUMENT*

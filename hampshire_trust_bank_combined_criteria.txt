@@ -1,356 +1,194 @@
-LENDER NAME: Hampshire Trust Bank
-PRODUCT: Combined
+# Hampshire Trust Bank – Combined Lending Criteria
 
-# Hampshire Trust Bank (HTB) - Combined Lending Criteria
-**Source:** https://www.htb.co.uk/intermediaries/specialist-mortgages/
-**Last Updated:** 2025
+---
 
+**LENDER:** Hampshire Trust Bank (HTB)
+**PRODUCT:** Combined (Specialist Buy to Let, Semi-Commercial, Bridging, Portfolio Edge, Development Finance)
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 2025
 **FOR INTERMEDIARY USE ONLY**
 
-Hampshire Trust Bank Plc is a company registered in England and Wales, registration number 01311315 and with registered office at 80 Fenchurch Street, London, EC3M 4BY. It is authorised by the Prudential Regulation Authority and regulated by the Prudential Regulation Authority and the Financial Conduct Authority. FRN 204601.
+**Source:** https://www.htb.co.uk/intermediaries/specialist-mortgages/
 
 **Contact:**
-* **Specialist Mortgages Team:** 020 7862 6244
-* **Email:** specialistmortgages@htb.co.uk
-* **Broker Portal (PUMA):** https://puma.htb.co.uk/go/login
-* **Website:** https://www.htb.co.uk/
+- Phone: 020 7862 6244
+- Email: specialistmortgages@htb.co.uk
+- Broker Portal (PUMA): https://puma.htb.co.uk/go/login
+- Website: https://www.htb.co.uk
+- Specialist Mortgages BDM: https://www.htb.co.uk/intermediaries/specialist-mortgages/find-your-specialist-mortgages-bdm/
+- Bridging BDM: https://www.htb.co.uk/intermediaries/residential-commercial-bridging/find-your-bridging-bdm/
+- Broker registration: brokerregistration@htb.co.uk
+- Bridging registration: bridging@htb.co.uk
+- Office hours: Monday to Friday, 9:00am – 5:00pm (excluding bank holidays)
+- Note: Office lines closed until 10:00am on the first Wednesday of each month for staff training.
 
-**Office Hours:**
-* Monday to Friday: 9:00am – 5:00pm (excluding bank holidays)
-* Office lines closed until 10am on the first Wednesday of each month for staff training
+**Regulatory:** Hampshire Trust Bank Plc is registered in England and Wales, Company number 01311315. Registered office: 80 Fenchurch Street, London, EC3M 4BY. Authorised by the Prudential Regulation Authority and regulated by the Prudential Regulation Authority and the Financial Conduct Authority. FCA Reference number: 204601.
 
----
-
-## Overview
-
-Hampshire Trust Bank (HTB) is a specialist bank offering specialist mortgages, bridging finance, and development finance. As a specialist lender with the strength of a bank, we offer what others can't. We have the power to help you deliver bespoke and complex specialist mortgage solutions for your clients.
-
-### Key Features
-
-* **Specialist lender with bank strength** - The power to help deliver bespoke and complex solutions
-* **Innovative product range** - From specialist Buy to Let to bridging finance
-* **Dedicated specialists** - Expert teams at each stage of the process
-* **PUMA for Intermediaries** - System allows you to submit applications, upload documents and track your applications through to completion
-* **Direct access to underwriters** - Quicker responses when it matters
-* **Regional expertise** - Business Development Managers and Lending Managers across the country
+> **Warning:** Any property used as security may be repossessed if you do not keep up repayments or other obligations on your loan.
 
 ---
 
-## Specialist Buy to Let Mortgages
+## SECTION 1 – SPECIALIST BUY TO LET MORTGAGES
 
-### Overview
+### Loan Amounts and LTV
 
-HTB offers specialist Buy to Let mortgages for a wide range of property types and borrower structures, including Limited Companies, SPVs, offshore entities, expats, foreign nationals, and more.
+- Maximum loan size: £25,000,000.
+- Maximum LTV: 75%.
 
-### Key Criteria
+### Interest Cover Ratio (ICR)
 
-**Loan Amounts:**
-* Maximum loan size: Up to £25 million
+- Companies: minimum 125%.
+- Individuals: minimum 140%.
 
-**Loan to Value (LTV):**
-* Up to 75% LTV
+### Accepted Borrower Types and Property Types
 
-**Interest Cover Ratio (ICR):**
-* **Companies:** 125% minimum
-* **Individuals:** 140% minimum
+- Limited Companies (trading, SPVs, new SPVs).
+- Offshore entities.
+- Expats.
+- Foreign nationals.
+- First-time landlords.
+- Houses in Multiple Occupation (HMOs).
+- Multi-Unit Freehold Blocks (MUFBs).
+- Semi-commercial properties.
+- New build flats.
+- Short-term lets.
 
-**Property Types Accepted:**
-* Limited Companies (Trading, SPVs, New SPVs)
-* Offshore entities
-* Expats
-* Foreign nationals
-* First-time landlords
-* Houses in Multiple Occupation (HMOs)
-* Multi-Unit Freehold Blocks (MUFBs)
-* Semi-commercial properties
-* New build flats
-* Short-term lets
+### Underwriting
 
-### Product Features
-
-* Flexible underwriting for complex cases
-* Support for professional landlords
-* Portfolio lending capabilities
-* Specialist structures accepted
+- Flexible underwriting for complex cases.
+- Support for professional landlords.
+- Portfolio lending capabilities.
+- Specialist structures accepted.
 
 ---
 
-## Semi-Commercial Mortgages
+## SECTION 2 – SEMI-COMMERCIAL MORTGAGES
 
-### Overview
-
-HTB offers specialist mortgages for semi-commercial properties, combining residential and commercial elements.
-
-### Key Features
-
-* Specialist underwriting for mixed-use properties
-* Flexible criteria for semi-commercial structures
-* Part of the specialist mortgages product range
+- Specialist mortgages available for semi-commercial (mixed-use) properties combining residential and commercial elements.
+- Specialist underwriting for mixed-use property structures.
+- Part of the specialist mortgages product range.
 
 ---
 
-## Bridging Finance
+## SECTION 3 – BRIDGING FINANCE
 
-### Overview
+### Loan Amounts
 
-HTB offers residential and commercial bridging finance for a variety of property types and purposes.
+- Minimum loan: £100,000.
+- Maximum loan: £10,000,000.
+- Developer Exit loans: up to £25,000,000.
 
-### Key Criteria
+### LTV and Term
 
-**Loan Amounts:**
-* **Minimum:** £100,000
-* **Maximum:** £10 million
-* **Developer Exit loans:** Up to £25 million
+- Maximum LTV: 75%.
+- Loan term: 12 to 24 months.
 
-**Loan to Value (LTV):**
-* Up to 75% LTV
+### Interest Rates and Fees
 
-**Loan Term:**
-* 12 to 24 months
+- Interest rates starting from 0.75% per month (varies based on LTV and property type).
+- Arrangement fee: 2%.
+- Early repayment charge: minimum of 3 months' interest.
 
-**Property Types:**
-* Residential (including light refurbishment)
-* Commercial
-* Semi-commercial
-* Development exit
-* Land
-* Heavy refurbishment projects
+### Accepted Property Types
 
-**Interest Rates:**
-* Starting from 0.75% per month
-* Varies based on LTV and property type
-
-**Fees:**
-* **Arrangement Fee:** 2%
-
-**Early Repayment Charges (ERCs):**
-* Minimum of 3 months' interest
-
-### Bridging Finance Features
-
-* Fast decision making
-* Flexible terms
-* Support for various property types
-* Development exit finance available
+- Residential (including light refurbishment).
+- Commercial.
+- Semi-commercial.
+- Development exit.
+- Land.
+- Heavy refurbishment projects.
 
 ---
 
-## Portfolio Edge
+## SECTION 4 – PORTFOLIO EDGE
 
-### Overview
+Portfolio Edge is designed for professional landlords with complex portfolios that do not fit standard affordability models. It combines a two-year fixed-rate mortgage with a bridging facility.
 
-Portfolio Edge is designed for professional landlords with complex portfolios that don't fit standard affordability models. It combines a two-year fixed-rate mortgage with a bridging facility.
+### Loan Structure and Amounts
 
-### Key Criteria
+- Structure: two-year fixed-rate mortgage combined with a bridging facility.
+- Term loan minimum: £3,000,000.
+- Bridge minimum: £1,000,000.
 
-**Loan Structure:**
-* Two-year fixed-rate mortgage combined with a bridging facility
+### Interest Rates and Fees
 
-**Loan Amounts:**
-* **Term loan:** Minimum £3 million
-* **Bridge:** Minimum £1 million
+- Term loan: 4.99% with 5% arrangement fee.
+- Bridge: 0.70% per month with 2% arrangement fee.
 
-**Interest Rates:**
-* **Term loan:** 4.99% with 5% arrangement fee
-* **Bridge:** 0.7% per month with 2% arrangement fee
+### Property Criteria
 
-**Property Types:**
-* Portfolios may include up to 20% commercial assets
-* Complex portfolio structures
-
-### Portfolio Edge Features
-
-* Designed for professional landlords
-* Combines term loan and bridging facility
-* Suitable for complex portfolios
-* Flexible structure for portfolios that don't fit standard models
+- Portfolios may include up to 20% commercial assets.
+- Complex portfolio structures accepted.
 
 ---
 
-## Development Finance
+## SECTION 5 – DEVELOPMENT FINANCE
 
-### Overview
+### LTV and Term
 
-HTB offers development finance for professional property developers building residential and commercial developments.
+- Maximum LTV: 65% of Gross Development Value (GDV).
+- Loan term: 12 to 36 months.
 
-### Key Criteria
+### Loan Amounts
 
-**Loan Amounts:**
-* Tailored based on project needs
+- Tailored based on project needs.
 
-**Loan to Value (LTV):**
-* Up to 65% of Gross Development Value (GDV)
+### Accepted Development Types
 
-**Loan Term:**
-* 12 to 36 months
+- Residential developments.
+- Student accommodation.
+- Mixed-use schemes.
 
-**Property Types:**
-* Residential developments
-* Student accommodations
-* Mixed-use schemes
+### Eligibility
 
-**Eligibility:**
-* Experienced property developers
-
-### Development Finance Features
-
-* Structured development finance
-* Moves at the pace of the property project
-* Tailored funding structures
-* Pragmatic underwriting
-* Direct access to decision-makers
-* Confidence from acquisition to completion
+- Experienced property developers only.
 
 ---
 
-## Intermediary Services
+## SECTION 6 – INTERMEDIARY SERVICES
 
-### PUMA for Intermediaries
+### PUMA Broker Portal
 
-**Broker Portal:** https://puma.htb.co.uk/go/login
-
-**Features:**
-* Submit applications online
-* Upload documents
-* Track applications through to completion
-* Access to rate cards and key documents
-* User guides and demos available
+- Portal: https://puma.htb.co.uk/go/login
+- Submit applications online.
+- Upload documents.
+- Track applications through to completion.
+- Access rate cards and key documents.
+- User guides and demos available.
 
 ### Broker Registration
 
-**Registration:**
-* Download and complete appropriate forms from the documents page
-* Return by email to: brokerregistration@htb.co.uk
-* For Bridging broker registration, contact: bridging@htb.co.uk
+- Download and complete the appropriate forms from the documents page.
+- Return by email to: brokerregistration@htb.co.uk
+- For bridging broker registration, contact: bridging@htb.co.uk
 
-### Support Services
+### Documents and Resources
 
-**Team Structure:**
-* Regional Business Development Managers - to keep you up to speed with our business
-* Regional Lending Managers - to help you construct your deal
-* Dedicated case manager, underwriter and completions experts - to ensure a smooth end-to-end process
+- Documents page: https://www.htb.co.uk/intermediaries/specialist-mortgages/documents/
 
-**Training:**
-* User guides available
-* Demo available for PUMA system
-* Training on system and criteria available
+**Specialist Mortgages downloads:**
+- Application forms.
+- Broker registration forms.
+- Fee scales.
+- Product guide and interest rates.
 
----
-
-## Documents and Resources
-
-### Available Downloads
-
-**Specialist Mortgages:**
-* Application Forms
-* Broker Registration forms
-* Fee Scales
-* Product Guide and Interest Rates
-
-**Bridging:**
-* Bridging Application Forms
-* Bridging Supporting Documents
-* Bridging Fee Scales
-* Product Guide
-
-**Location:** https://www.htb.co.uk/intermediaries/specialist-mortgages/documents/
+**Bridging downloads:**
+- Bridging application forms.
+- Bridging supporting documents.
+- Bridging fee scales.
+- Product guide.
 
 ---
 
-## Contact Information
+## SECTION 7 – IMPORTANT NOTES
 
-### Specialist Mortgages Team
-
-* **Phone:** 020 7862 6244
-* **Email:** specialistmortgages@htb.co.uk
-* **Office Hours:** 9:00am – 5:00pm Monday to Friday (excluding bank holidays)
-* **Note:** Office lines closed until 10am on the first Wednesday of each month for staff training
-
-### Find Your BDM
-
-Business Development Managers are available across the country. Contact details available through the website:
-* Specialist Mortgages BDM: https://www.htb.co.uk/intermediaries/specialist-mortgages/find-your-specialist-mortgages-bdm/
-* Bridging BDM: https://www.htb.co.uk/intermediaries/residential-commercial-bridging/find-your-bridging-bdm/
-
-### Broker Registration
-
-* **Email:** brokerregistration@htb.co.uk
-* **Bridging Registration:** bridging@htb.co.uk
+- Bank of England base rate is currently 4.00%. Changes to the base rate will be applied to customers' accounts within 31 days of the end of the month in which the change occurs, subject to the minimum rate stipulated in the mortgage offer.
+- All criteria are subject to change and should be verified with Hampshire Trust Bank directly.
+- Product availability and rates are subject to change.
+- Always refer to the latest Product Guide and Rate Cards for the most up-to-date information.
+- For cases outside standard criteria, contact HTB for consideration.
+- Some products may have additional criteria not listed here — always check the latest product guide.
 
 ---
 
-## Important Information
-
-### Bank of England Base Rate
-
-The Bank of England base rate is currently 4.00%. This rate is set periodically by the Bank of England's Monetary Policy Committee. Any changes to base rate will be applied to customers' accounts within 31 days of the end of the month in which a base rate change occurs, subject to the minimum rate stipulated in the mortgage offer.
-
-### Property Repossession Warning
-
-ANY PROPERTY USED AS SECURITY MAY BE REPOSSESSED IF YOU DO NOT KEEP UP REPAYMENTS OR OTHER OBLIGATIONS ON YOUR LOAN
-
----
-
-## Case Studies
-
-HTB has completed numerous successful cases including:
-* £6 million refinance across multi-asset London portfolio for an experienced high net worth landlord with a portfolio valued at around £100 million
-
-Case studies available on the website:
-* Specialist Mortgages: https://www.htb.co.uk/intermediaries/specialist-mortgages/specialist-mortgages-case-studies/
-* Bridging: https://www.htb.co.uk/intermediaries/residential-commercial-bridging/case-studies/
-
----
-
-## Additional Information
-
-### Awards
-
-HTB has received multiple awards for their specialist lending services. Details available on the website.
-
-### Service Commitment
-
-HTB's Specialist Mortgages team aim to provide the best possible service from beginning to end, driven by experts who understand how to tailor the right deal and deliver in the right time frame.
-
-### Our Approach
-
-* Cutting complexity out of specialist mortgages
-* When it's complex, we go for more
-* Bespoke and complex specialist mortgage solutions
-* Confidence your client is in safe hands
-
----
-
-## Important Notes
-
-* All criteria are subject to change and should be verified with Hampshire Trust Bank directly
-* Product availability and rates are subject to change
-* Always refer to the latest Product Guide and Rate Cards for the most up-to-date information
-* For cases outside standard criteria, contact HTB for consideration
-* Detailed criteria, rates, and fees are available in the Product Guide and Rate Cards downloadable from the documents page
-* Some products may have additional criteria not listed here - always check the latest product guide
-
----
-
-## About Hampshire Trust Bank
-
-Hampshire Trust Bank (HTB) is the specialist bank helping build lives, businesses and communities. We focus on delivering attentive, award-winning service, from specialists who really understand your needs.
-
-We're driven to find ways to invest in Britain's businesses and communities so, rather than being 'everything to everyone', our approach allows us to truly support those who are often overlooked by other banks.
-
-We call this 'excellence through specialism' and, we believe it's rather special.
-
-### What We Offer
-
-* **Development finance** - Professional property developers and brokers
-* **Specialist mortgages** - Specialist BTL, semi-commercial and residential and commercial bridging
-* **Bridging finance** - Residential and commercial bridging
-
----
-
-**Last Updated:** 2025
-**Source:** https://www.htb.co.uk/intermediaries/specialist-mortgages/
-**Company Registration:** England & Wales No. 01311315
-**FCA Reference:** 204601
-**Registered Office:** 80 Fenchurch Street, London, EC3M 4BY
-
+*END OF DOCUMENT*

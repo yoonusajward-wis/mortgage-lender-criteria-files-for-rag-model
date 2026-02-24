@@ -1,314 +1,160 @@
-LENDER NAME: Cambridge & Counties Bank
-PRODUCT: BTL Personal
+# Cambridge & Counties Bank – Buy to Let (Personal) Criteria
 
-# Cambridge & Counties Bank - Buy to Let (Personal) Lending Criteria
-**Source:** https://ccbank.co.uk/intermediaries/property-finance/#resi
-**PDF:** https://ccbank.co.uk/wp-content/uploads/2025/10/PF-Buy-to-Let-Product-Guide-1025.pdf
-**Last Updated:** 2025
+---
 
+**LENDER:** Cambridge & Counties Bank
+**PRODUCT:** Buy to Let – Personal (Individual Applicants)
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 2025
 **FOR INTERMEDIARY USE ONLY**
 
-Cambridge & Counties Bank Ltd is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority under firm registration number 579415.
+**Source:** https://ccbank.co.uk/intermediaries/property-finance/#resi
+**PDF:** https://ccbank.co.uk/wp-content/uploads/2025/10/PF-Buy-to-Let-Product-Guide-1025.pdf
 
 **Contact:**
-* **Website:** https://ccbank.co.uk/intermediaries/property-finance/
-* **Property Finance Team:** https://ccbank.co.uk/intermediaries/property-finance/our-property-finance-team/
-* **Phone:** 0344 225 3939
-* **Email:** info@ccbank.co.uk
-* **Property Finance Email:** borrow@ccbank.co.uk
+- Phone: 0344 225 3939
+- Email: borrow@ccbank.co.uk
+- Property Finance Team: https://ccbank.co.uk/intermediaries/property-finance/our-property-finance-team/
+- Website: https://ccbank.co.uk/intermediaries/property-finance/
 
-**Registered Office:**
-Charnwood Court, 5B New Walk, Leicester, England, LE1 6TE
+**Regulatory:** Cambridge & Counties Bank Ltd is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority. FRN: 579415. Registered Office: Charnwood Court, 5B New Walk, Leicester, LE1 6TE.
 
 ---
 
-## Overview
+## SECTION 1 – GENERAL LENDING CRITERIA
 
-Cambridge & Counties Bank offers Buy to Let (BTL) mortgages for personal applicants (individuals). The Bank provides flexible BTL products suitable for experienced property investors, with products designed for both individual name(s) and limited company lending.
-
-### Key Features
-
-* **Experienced frontline team** - Assist in structuring the right deal for your client
-* **Support through application process** - And beyond
-* **Manual underwriting process** - Combined with wide market knowledge
-* **Documentation prepared by us** - Commission paid at the same time as the loan is drawn down
-* **Outstanding customer satisfaction scores**
-
----
-
-## General Lending Criteria
-
-### Where We Lend
-
-* **Location:** England, Scotland, and Wales
-
-### Loan-to-Value (LTV)
-
-* **Maximum LTV:** Varies by product type (see product-specific sections below)
-
-### Loan Amounts
-
-* **Minimum loan:** £250,000 in England and Wales
-* **Minimum loan:** £500,000 in Scotland
-* **Maximum borrowings:** Up to £15m per customer with no restriction on property numbers (varies by product)
-
-### Loan Terms
-
-* **Term:** From 12 months to 30 years (varies by product and rate type)
-* **Rate types:** Variable and fixed rates available
-* **Fixed rate terms:** 3 or 5 years (depending on the product)
-* **Variable rate terms:** From 12 months to 30 years
-
-### Repayment Methods
-
-* **Interest-only:** Available (varies by product)
-* **Capital and Interest:** Available
+- Lending in England, Scotland and Wales.
+- Security: first legal charge on a property in England, Scotland or Wales.
+- Only available to experienced property investors.
+- Individual borrowers must be UK residents.
+- No limit to the number of properties a borrower can own.
+- Maximum borrowings: up to £15,000,000 per customer (varies by product).
+- Minimum loan: £250,000 in England and Wales; £500,000 in Scotland.
+- Loan terms: from 12 months to 30 years (varies by product and rate type).
+- Rate types: variable and fixed (3 or 5 year fixed terms available).
+- Repayment methods: interest only or capital and interest.
+- No valuation fee payable until the loan is approved.
+- Gifted deposits permitted between family members.
+- Commission paid at the same time as the loan is drawn down.
+- Manual underwriting process.
 
 ---
 
-## Applicant Requirements
+## SECTION 2 – BUY TO LET
 
-### Applicant Types
-
-* **Individuals** - Personal applicants (UK residents)
-* **Limited companies** - UK registered limited companies
-* **LLPs** - Limited Liability Partnerships
-* **Experienced property investors** - Only available to experienced property investors
-
-### Residency Requirements
-
-* **For borrowing in personal name(s):** Individual must be a UK resident
-* **Corporate borrowers:** Must be registered in the UK or Crown dependencies
-
-### Experience Requirements
-
-* **Only available to experienced property investors** - All products require experienced property investors
-* **HMO products:** Only available to experienced HMO investors in their local area
-
-### Personal Guarantees
-
-* **Personal guarantees requested** - From business owners/directors but are not always mandatory
+- Available to experienced property investors only.
+- Available to individual names and limited companies.
+- Individual borrowers must be UK residents.
+- Maximum LTV: 75% of open market value.
+- Minimum loan: £250,000 in England and Wales; £500,000 in Scotland.
+- Maximum borrowings: up to £15,000,000 per customer with no restriction on property numbers.
+- Variable rate terms: 12 months to 30 years.
+- Fixed rate terms: 3 or 5 years.
+- Interest only available.
+- Equity release for purchase and refinance.
+- Gifted deposits permitted between family members.
+- Security: first legal charge on a property in England, Scotland or Wales.
 
 ---
 
-## Property Criteria
+## SECTION 3 – EXPAT BUY TO LET
 
-### Property Location
-
-* **Location:** England, Scotland, and Wales
-* **Security:** Secured by way of a first legal charge on a property located in England, Scotland or Wales
-
-### Property Types
-
-**Acceptable Properties:**
-* **Standard buy to let properties** - Single unit residential properties
-* **Houses in Multiple Occupation (HMOs)** - Single or multiple tenancy agreements
-* **Holiday lets** - Properties with C1 or C3 planning
-* **Large portfolios** - No limit to the number of properties you can own
-* Subject to product-specific criteria
-
----
-
-## Product Types
-
-### 1. Buy-to-Let
-
-**Key Features:**
-* **No limit to the number of properties** you can own
-* **Limited company lending or individual name(s)** - Available
-* **Funding available for large portfolios and borrowings**
-* **No valuation fee payable** until loan is approved
-* **Equity release** for purchase and refinance
-* **Gifted deposits permitted** (between family members)
-* **Interest-only options available**
-* **Lending available in England, Scotland & Wales**
-
-**Interest Rate Options:**
-* **Variable rate:** Terms from 12 months to 30 years
-* **Fixed rate:** Terms of 3 or 5 years (depending on the product)
-
-**Lending Criteria:**
-* **Maximum LTV:** Up to 75% LTV of open market value
-* **Only available to experienced property investors**
-* **Minimum loan:** £250k in England and Wales
-* **Minimum loan:** £500k in Scotland
-* **Maximum borrowings:** Up to £15m per customer with no restriction on property numbers
-* **Terms:** From 12 months to 30 years
-* **Personal guarantees:** Requested from business owners/directors but are not always mandatory
-* **Corporate borrowers:** Must be registered in the UK or Crown dependencies
-* **For borrowing in personal name(s):** Individual must be a UK resident
-* **Security:** Secured by way of a first legal charge on a property located in England, Scotland or Wales
+- Available to experienced property investors only.
+- Borrowing must be through a limited company or LLP — not available in individual names.
+- Maximum LTV: 60% of open market value.
+- Minimum loan: £250,000 in England and Wales; £500,000 in Scotland.
+- Maximum borrowings: up to £15,000,000 per customer with no restriction on property numbers.
+- Variable rate terms: 12 months to 30 years.
+- Fixed rate terms: 3 or 5 years.
+- Interest only available.
+- Equity release for purchase and refinance.
+- Gifted deposits permitted between family members.
+- All identification and paperwork can be signed and witnessed by a legal firm on the Global 500 list — travel to the UK is not required.
+- Security: first legal charge on a property in England, Scotland or Wales.
 
 ---
 
-### 2. Expat Buy-to-Let
+## SECTION 4 – HOLIDAY LETS
 
-Living abroad shouldn't be a barrier to purchasing and managing property in the UK. Our expat buy-to-let finance gives you the ability to continue expanding your property portfolio by purchasing new property, refinancing or releasing equity and all whilst based abroad.
+- Available to experienced property investors only.
+- Available to individual names and limited companies.
+- Individual borrowers must be UK residents.
+- No minimum earned income required; however, resilience to loan repayments must be demonstrated.
+- Maximum LTV: 75% of an independent professional valuation.
+- Minimum loan: £250,000 in England and Wales; £500,000 in Scotland.
+- Maximum borrowings: up to £15,000,000 per customer with no restriction on property numbers.
+- Interest only available.
+- Equity release for purchase and refinance.
+- Gifted deposits permitted between family members.
+- Security: first legal charge on a property in England, Scotland or Wales.
 
-**Key Features:**
-* **All identification and paperwork** can be signed and witnessed by a legal firm on the Global 500 list so you don't need to travel to the UK
-* **Borrowing must be through limited company or LLP entities** - Not available for individual name(s)
-* **No limit to the number of properties** you can own
-* **No valuation fee payable** until loan is approved
-* **Equity release** for purchase and refinance
-* **Gifted deposits permitted** (between family members)
-* **Interest-only options available**
-* **Lending available in England, Scotland & Wales**
-* **Funding available for large portfolios and borrowings**
+### Commercial Holiday Let (C1 Planning)
 
-**Interest Rate Options:**
-* **Variable rate:** Terms from 12 months to 30 years
-* **Fixed rate:** Terms of 3 or 5 years (depending on the product)
+- Available for: holiday villages, holiday parks, complexes and owner-occupied properties with C1 planning permission.
+- Variable rate terms: 12 months to 25 years.
+- Fixed rate terms: 3 or 5 years.
 
-**Lending Criteria:**
-* **Maximum LTV:** Up to 60% LTV of open market value
-* **Only available to experienced property investors**
-* **Minimum loan:** £250k in England and Wales
-* **Minimum loan:** £500k in Scotland
-* **Maximum borrowings:** Up to £15m per customer with no restriction on property numbers
-* **Terms:** From 12 months to 30 years
-* **Personal guarantees:** Requested from business owners/directors but are not always mandatory
-* **Corporate borrowers:** Must be registered in the UK or Crown dependencies
-* **Security:** Secured by way of a first legal charge on a property located in England, Scotland or Wales
+### Residential Holiday Let (C3 Planning)
+
+- Available for single self-contained properties only with no restrictive covenants regarding occupancy.
+- Property must be capable of being let on an AST basis and have an acceptable level of rental demand.
+- Variable rate terms: 12 months to 30 years.
+- Fixed rate terms: 3 or 5 years.
 
 ---
 
-### 3. Holiday Lets
+## SECTION 5 – HOUSES IN MULTIPLE OCCUPATION (HMO)
 
-With staycations on the rise, the future potential of the UK's expanding holiday market is becoming popular. Our holiday let mortgages are designed for properties that will be let out on a short-term basis. Built on an understanding of the market, we offer finance aimed at investors looking to buy and develop UK holiday lettings properties.
-
-**Key Features:**
-* **Gifted deposits permitted** (between family members)
-* **Equity release** for purchase and refinance
-* **No valuation fee payable** until loan is approved
-* **Interest-only options available**
-* **Available in England, Scotland & Wales**
-
-**Commercial Loan Interest Rate Options (C1 planning):**
-* **Variable rate:** Terms from 12 months to 25 years
-* **Fixed rate:** 3 & 5 year fixed rates available (depending on the product)
-
-**Residential Loan Interest Rate Options (C3 planning):**
-* **Variable rate:** Terms from 12 months to 30 years
-* **Fixed rate:** 3 & 5 year fixed rates available (depending on the product)
-
-**Lending Criteria:**
-* **Maximum LTV:** Up to 75% LTV of an independent professional valuation
-* **Only available to experienced property investors**
-* **No minimum earned income required** - However, resilience to loan repayments must be demonstrated
-* **Minimum loan:** £250k in England and Wales
-* **Minimum loan:** £500k in Scotland
-* **Maximum borrowings:** Up to £15m per customer with no restriction on property numbers
-* **Personal guarantees:** Requested from business owners/directors but are not always mandatory
-* **Corporate borrowers:** Must be registered in the UK or Crown dependencies
-* **For borrowing in personal name(s):** Individual must be a UK resident
-* **Security:** Secured by way of a first legal charge on a property located in England, Scotland or Wales
-
-**Commercial (C1 planning):**
-* **Terms:** 12 months to 25 years dependent upon the repayment type
-* **Available for properties such as:** Holiday villages, holiday parks, complexes and owner occupier with C1 planning permissions
-
-**Residential (C3 planning):**
-* **Terms:** 12 months to 30 years dependent upon the repayment type
-* **Available for:** Single self-contained properties only, with no restrictive covenants regarding occupancy in place
-* **The property must be capable of being let on an AST basis** and have an acceptable level of rental demand
+- Available to experienced HMO investors in their local area only.
+- Available to individual names and limited companies.
+- Individual borrowers must be UK residents.
+- Maximum LTV: 70% of open market value or 80% of vacant possession value.
+- Planning consent: all properties must hold C4 HMO or Sui Generis planning consent to qualify for an investment-based valuation; otherwise a single dwelling house valuation applies.
+- HMO with single or multiple tenancy agreements accepted.
+- Investment-based valuations apply to properties with appropriate planning.
+- Minimum loan: £250,000 in England and Wales; £500,000 in Scotland.
+- Maximum borrowings: up to £15,000,000 per customer.
+- Variable rate terms: 12 months to 30 years.
+- Fixed rate terms: 3 or 5 years.
+- Interest only available.
+- Equity release for purchase and refinance.
+- Gifted deposits permitted between family members.
+- Security: first legal charge on a property in England, Scotland or Wales.
 
 ---
 
-### 4. House in Multiple Occupation (HMO)
+## SECTION 6 – SUPPORTING DOCUMENTATION
 
-**Key Features:**
-* **Gifted deposits permitted** (between family members)
-* **No limit on the number of investment properties** per client
-* **Equity release** for purchase and refinance
-* **Investment based valuations apply** to properties with appropriate planning
-* **No valuation fee payable** until loan is approved
-* **Limited company lending or individual name(s)** - Available
-* **Interest only options available**
-* **HMO with single or multiple tenancy agreements** - Available
-* **Lending available in England, Scotland & Wales**
+### Property Documentation
 
-**Interest Rate Options:**
-* **Variable rate:** Terms from 12 months to 30 years
-* **Fixed rate:** 3 & 5 year fixed rates available
+- Property details and professional valuation.
+- Planning consent documentation (required for HMOs — C4 HMO or Sui Generis).
+- Rental assessment from appropriate sources.
+- Tenancy agreement for existing tenancies (if applicable).
 
-**Lending Criteria:**
-* **Maximum LTV:** Up to 70% LTV of open market value or 80% of vacant possession value
-* **Only available to experienced HMO investors in their local area**
-* **Minimum loan:** £250k in England and Wales
-* **Minimum loan:** £500k in Scotland
-* **Maximum borrowings:** Up to £15m per customer
-* **Terms:** From 12 months to 30 years
-* **Personal guarantees:** Requested from business owners/directors but are not always mandatory
-* **Corporate borrowers:** Must be registered in the UK or Crown dependencies
-* **For borrowing in personal name(s):** Individual must be a UK resident
-* **Security:** Secured by way of a first legal charge on a property in England, Scotland or Wales
-* **Planning consent:** All properties must hold planning consent for C4 HMO or Sui Generis to qualify for an investment based valuation, otherwise a single dwelling house valuation will apply
+### Other Documentation
+
+- Credit checks performed by the Bank.
+- Additional forms as required by the Bank.
 
 ---
 
-## Fees
+## SECTION 7 – FEES
 
-* **Valuation fees:** No valuation fee payable until loan is approved
-* **Arrangement fees:** May apply (refer to product-specific terms)
-* **Early repayment charges:** May apply (refer to product-specific terms)
-
----
-
-## Application Process
-
-### Supporting Documentation
-
-Standard BTL mortgage application documentation required, including:
-
-**Income Documentation:**
-* **Resilience to loan repayments** must be demonstrated (for Holiday Lets)
-* **No minimum earned income required** for Holiday Lets (subject to demonstrating resilience)
-
-**Property Documentation:**
-* Property details and valuation
-* **Planning consent** - Required for HMOs (C4 HMO or Sui Generis)
-* **Rental assessment** - Required (from appropriate sources)
-* **Tenancy agreement** - For existing tenancies (if applicable)
-
-**Other Documentation:**
-* Credit checks (performed by Bank)
-* Additional forms as required
+- Valuation fee: not payable until the loan is approved.
+- Arrangement fees: may apply — refer to product-specific terms.
+- Early repayment charges: may apply — refer to product-specific terms.
 
 ---
 
-## Additional Information
+## SECTION 8 – IMPORTANT NOTES
 
-### Product Guides
-
-* **Buy-to-Let Product Guide:** Available as PDF download
-* **Expat Buy-to-Let Product Guide:** Available as PDF download
-* **Holiday Lets Product Guide:** Available as PDF download
-* **HMO Product Guide:** Available as PDF download
-
-### Contact Information
-
-* **Property Finance Team:** https://ccbank.co.uk/intermediaries/property-finance/our-property-finance-team/
-* **Phone:** 0344 225 3939
-* **Email:** info@ccbank.co.uk
+- All criteria subject to individual assessment.
+- The Bank reserves the right to decline applications that do not meet lending criteria.
+- Product availability and rates are subject to change.
+- Expat Buy to Let: must be through a limited company or LLP — not available in individual names.
+- Always refer to the latest product guides or contact the property finance team for the most up-to-date information.
 
 ---
 
-## Notes
-
-* All criteria are subject to individual assessment
-* The Bank reserves the right to decline applications that do not meet lending criteria
-* Product availability and rates are subject to change
-* For the most up-to-date information, refer to the latest product guides or contact the property finance team
-* **Personal BTL only** - This criteria applies to individual applicants (UK residents), not limited companies for standard BTL (though limited companies are accepted for all products)
-* **Expat Buy-to-Let** - Must be through limited company or LLP entities only
-* Manual underwriting process combined with wide market knowledge
-* Documentation prepared by the Bank
-* Commission paid at the same time as the loan is drawn down
-
----
-
-**Document Version:** 2025
-**Source:** https://ccbank.co.uk/intermediaries/property-finance/#resi
-**Product Type:** Buy to Let - Personal (Individual Applicants, UK Residents)
-
+*END OF DOCUMENT*

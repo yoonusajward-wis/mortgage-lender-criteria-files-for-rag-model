@@ -1,196 +1,160 @@
-LENDER NAME: Stepone Finance
-PRODUCT: Combined
-
-# Step One Finance - Secured Loans and Second Mortgages Lending Criteria
-
-**Last Updated:** 2025
-**Source:** Step One Finance
-**For Intermediaries and Customers**
+# Step One Finance – Secured Loans and Second Mortgages Criteria
 
 ---
 
-## Document Information
+**LENDER:** Step One Finance
+**PRODUCT:** Secured Loans / Second Mortgages (Residential & Buy to Let)
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 2025
+**FOR INTERMEDIARY AND CUSTOMER USE**
 
-This document contains comprehensive lending criteria for Step One Finance secured loans (second mortgages) for residential and buy-to-let properties.
+**Source:** https://www.steponefinance.co.uk/mortgage-loans/
 
-**Website:** https://www.steponefinance.co.uk/mortgage-loans/
-**Contact:** info@steponefinance.co.uk
-
----
-
-## Table of Contents
-
-This guide contains 11 main sections organized by topic:
-
-
-### General Information
-
-1. Overview
-2. Key Features
-10. Regulatory Information
-11. Product Features
-
-### Loan Details
-
-3. Lending Criteria
-
-### Property and Use
-
-4. Typical Uses for Mortgage Loans
-
-### Application Process
-
-5. Important Factors for Application Review
-6. Application Review Process
-
-### Important Information
-
-7. Important Warnings and Disclaimers
-8. Advice and Guidance
-
-### Contact
-
-9. Contact Information
+**Contact:**
+- Phone: 01483 661 100
+- Email: info@steponefinance.co.uk
+- Address: Premier House, 15–19 Church Street West, Woking, Surrey, GU21 6DJ
 
 ---
 
-## Overview
+## SECTION 1 – PRODUCT OVERVIEW
 
-A Step One mortgage loan is also known as a secured loan or a second mortgage loan. Our mortgage loans are available to qualifying homeowners and owners of Buy-to-Let properties in England, Scotland and Wales. Choose from flexible loan amounts available up to £250,000 (loans over £250,000 may be considered on a case by case basis). A mortgage loan is a way to use available equity in your house to obtain the capital you need for your current financial priorities and goals in life.
+- A Step One mortgage loan is also known as a secured loan or second mortgage loan.
+- Available to qualifying homeowners and owners of buy to let properties.
+- Available in England, Scotland and Wales.
+- Secured against available equity in the property.
+- Total LTV includes the amount of the current first mortgage.
+- Loan amounts available up to £250,000; loans over £250,000 may be considered on a case-by-case basis.
 
-Step One Finance is a specialist consumer and secured lending business established in 2010. The company seeks to design and deliver creative consumer loan products based on core values of responsibility, transparency, fairness and simplicity.
+---
 
-Step One Finance provides residential mortgage loans (secured loans/second mortgages) with specific criteria and requirements. This comprehensive guide covers all aspects of their lending policy for residential mortgages and buy-to-let properties.
-
-## Key Features
-
-- Borrow up to 95% loan to value (LTV). The total LTV includes the amount of your current first mortgage
-- Competitive loan rates
-- Loan amounts available from £5,000 up to £250,000 for residential and £200,000 for buy-to-let (loans over £250,000 may be considered on a case by case basis)
-- Repayment periods available from 6 years to 30 years
-- 5-year fixed rates available across our product range
-- No hidden fees. We will always tell you about all of our fees in a clear and transparent manner
-
-## Lending Criteria
+## SECTION 2 – LOAN AMOUNTS AND LTV
 
 ### Loan Amounts
-- **Minimum loan size:** £5,000
-- **Maximum loan size:** £250,000 for residential properties
-- **Buy-to-Let maximum:** £200,000
-- Loans over £250,000 may be considered on a case-by-case basis
-### Age Requirements
-- **Minimum age:** 21 years
-- **Maximum age:** No maximum age limit
-### Income Requirements
-- **Minimum income:** £16,000 for sole applicants
-- **Minimum income:** £20,000 for joint applications
-### Residency Requirements
-- **Minimum 6 months** at current address required
-### Geographical Coverage
-- Available in **England, Wales and Scotland**
-### Loan-to-Value (LTV) Limits
-- Up to **95% LTV** for residential properties
-- Up to **90% LTV** for Buy-to-Let properties
-- Total LTV includes the amount of your current first mortgage
-### Repayment Terms
-- Repayment periods available from **6 years to 30 years**
-- **5-year fixed rates** available across product range
-### Property Types
-- Residential properties
-- Buy-to-Let properties (up to £200,000 maximum)
-### Fees and Charges
-- No hidden fees
-- All fees disclosed in a clear and transparent manner
-- **No up-front fees** for loan enquiries or applications
 
-## Typical Uses for Mortgage Loans
+- Minimum loan size: £5,000.
+- Maximum loan size (residential): £250,000.
+- Maximum loan size (buy to let): £200,000.
+- Loans over £250,000 may be considered on a case-by-case basis.
 
-Step One Finance mortgage loans can be used for a variety of purposes:
-- **Home improvements** - Update your kitchen, add a conservatory, or refresh your rooms
-- **Deposit or purchase of a new property** - Use equity to fund a deposit or purchase
-- **Wedding or other significant life events** - Finance your special day or milestone celebrations
-- **Debt consolidation** - Consolidate multiple credit card and loan bills into a single loan
-- **Dream holiday** - Finance your family vacation or trip of a lifetime
-- **Purchases for children** - Help with education, first car, or other expenses
-- **Education and training expenses** - Fund further education or professional development
-- **Unexpected car maintenance costs** - Cover unexpected vehicle repairs
-- **Repairing damage to property or other assets** - Fix damage to your home or belongings
-- **Medical expenses** - Cover medical bills or treatments
-- **Moving costs** - Finance relocation expenses
-- **Lifestyle changes** - Support major life transitions
-- **Relocation** - Fund moving to a new area
-- **Car, boat or other large purchase** - Finance significant purchases
-- **Equity release for the purchase of another property** - Use equity to buy additional property
-- **Unexpected tax bill** - Cover unexpected tax liabilities
-- **Business expansion** - Fund business growth or investment
+### Loan to Value
 
-## Important Factors for Application Review
-
-Your mortgage loan will be reviewed based on a series of factors that will determine the response to your application. While this calculation is quite complex, the following points will be considered. Knowing these may help you to plan and prepare for your application in advance and will also help you if a mortgage loan is something you wish to consider in the future instead of the present.
-### Affordability
-As a responsible lender, Step One will want to ensure you have the means to make your monthly repayments for your chosen loan term. We will carry out a full review of your income and outgoings to determine that the mortgage loan is affordable for you both now and in the foreseeable future.
-### Employment History
-Taking a mortgage loan is a serious financial obligation. This means that as lenders we review your employment history to provide a sense of your ability to repay your loan consistently. Where employment is concerned, this means that we will review your history to see if there are large gaps in your previous employment.
-The length of your time employed with individual companies will also be factored into your application. As a rule, longer stays in one position are ideal as opposed to regular movement between jobs that may indicate unreliability in making repayments on your mortgage loan.
-### Credit History
-Your credit history is one of the most important factors in your application and will be reviewed closely. When reviewing your application for a Step One mortgage loan, your credit history will be analysed to discern trends of repayments and debt.
-As a loan of this kind is a significant obligation, your credit history is important in demonstrating your previous consistency in making repayments and managing debt.
-### Equity
-A primary consideration in your mortgage loan application is equity. This is the difference between the amount still owed in the mortgage and your home's fair market value. Equity is determined by subtracting the balance remaining on your primary mortgage from the current market value of your home. A percentage of this amount would be the equity used to secure the amount you wish to borrow on your mortgage loan.
-
-While your application will be approved or declined based on a combination of factors, a greater amount of equity will typically result in the best possible rates for your personal circumstances.
-
-## Application Review Process
-
-Applications are reviewed based on multiple factors including:
-- Affordability assessment
-- Employment history
-- Credit history
-- Available equity
-- Income verification
-- Outgoing commitments
-All loans are subject to status. The rate you are offered will depend on your personal circumstances, past credit conduct and other related factors.
-
-## Important Warnings and Disclaimers
-
-### APR
-
-Please note that Step One Finance does not charge up-front fees for any loan enquiries or applications. You should be wary of any parties purporting to arrange a Step One Finance loan who are seeking to charge up-front fees. Please contact us if you have any doubts regarding a Step One Finance loan application. Customers can also obtain additional information on the FCA's website on the dangers of Loan Fee Fraud by clicking here.
-### Repossession Warning
-**THINK CAREFULLY BEFORE SECURING OTHER DEBTS AGAINST YOUR HOME. YOUR HOME MAY BE REPOSSESSED IF YOU DO NOT KEEP UP REPAYMENTS ON A MORTGAGE OR ANY OTHER DEBT SECURED ON IT.**
-### Debt Consolidation Warning
-**IF YOU ARE THINKING OF CONSOLIDATING EXISTING BORROWING YOU SHOULD BE AWARE THAT IF YOU ARE EXTENDING THE TERM OF THE DEBT YOU MAY BE INCREASING THE TOTAL AMOUNT YOU NEED TO REPAY.**
-
-## Advice and Guidance
-
-If you are considering taking out a mortgage with us, you should seek advice from a firm authorised by the Financial Conduct Authority. You can find FCA authorised firms on the FCA website.
-
-## Contact Information
-
-**Phone:** 01483 661 100
-**Email:** info@steponefinance.co.uk
-**Address:** Premier House, 15-19 Church Street West, Woking, Surrey GU21 6DJ
-
-## Regulatory Information
-
-- Step One Finance is a specialist consumer and secured lending business established in 2010
-- Authorized and regulated by the Financial Conduct Authority
-- Core values: responsibility, transparency, fairness and simplicity
-- Customers should seek advice from FCA authorized firms
-
-## Product Features
-
-- Competitive loan rates
-- Flexible loan amounts
-- Fixed rate options available
-- Transparent fee structure
-- Use available equity in your house
-- Second mortgage/secured loan products
-**Source URL:** https://www.steponefinance.co.uk/mortgage-loans/
+- Maximum LTV (residential): 95%.
+- Maximum LTV (buy to let): 90%.
+- Total LTV includes the amount of the current first mortgage.
 
 ---
 
-## Main URLs
+## SECTION 3 – REPAYMENT TERMS
 
-- https://www.steponefinance.co.uk/mortgage-loans/
-- info@steponefinance.co.uk
+- Repayment periods available from 6 years to 30 years.
+- 5-year fixed rates available across the product range.
+- Mortgages available on a repayment basis.
+
+---
+
+## SECTION 4 – APPLICANT ELIGIBILITY
+
+### Age
+
+- Minimum age: 21 years.
+- No maximum age limit.
+
+### Income
+
+- Minimum income (sole applicant): £16,000.
+- Minimum income (joint applicants): £20,000.
+
+### Residency
+
+- Minimum 6 months at current address required.
+- Available in England, Wales and Scotland.
+
+---
+
+## SECTION 5 – PROPERTY TYPES
+
+- Residential properties.
+- Buy to let properties (maximum loan size £200,000).
+
+---
+
+## SECTION 6 – PERMITTED USES OF FUNDS
+
+- Home improvements.
+- Deposit or purchase of a new property.
+- Equity release for purchase of another property.
+- Debt consolidation.
+- Wedding or significant life events.
+- Dream holiday.
+- Purchases for children.
+- Education and training expenses.
+- Medical expenses.
+- Unexpected car maintenance costs.
+- Car, boat or other large purchase.
+- Repairing damage to property or other assets.
+- Moving costs and relocation.
+- Lifestyle changes.
+- Unexpected tax bill.
+- Business expansion.
+
+---
+
+## SECTION 7 – APPLICATION ASSESSMENT
+
+All loans are subject to status. The rate offered will depend on personal circumstances, past credit conduct and other related factors.
+
+### Affordability
+
+- Full review of income and outgoings undertaken.
+- Assessment to determine affordability both now and in the foreseeable future.
+
+### Employment History
+
+- Employment history reviewed for gaps.
+- Length of employment with individual companies considered.
+- Longer periods in one role viewed positively compared to frequent job movement.
+
+### Credit History
+
+- Credit history reviewed closely.
+- Assessment includes repayment trends and debt management history.
+- Consistency in repayments considered important.
+
+### Equity
+
+- Equity calculated as current market value minus outstanding primary mortgage balance.
+- A percentage of available equity is used to secure the loan.
+- Greater equity may result in better available rates.
+
+---
+
+## SECTION 8 – FEES AND CHARGES
+
+- No up-front fees charged by Step One Finance for loan enquiries or applications.
+- All fees disclosed in a clear and transparent manner.
+- Customers should be cautious of third parties seeking up-front fees for arranging a Step One Finance loan — refer to the FCA website for information on loan fee fraud.
+
+---
+
+## SECTION 9 – IMPORTANT WARNINGS
+
+**Repossession Warning:**
+Think carefully before securing other debts against your home. Your home may be repossessed if you do not keep up repayments on a mortgage or any other debt secured on it.
+
+**Debt Consolidation Warning:**
+If you are thinking of consolidating existing borrowing, you should be aware that if you are extending the term of the debt you may be increasing the total amount you need to repay.
+
+---
+
+## SECTION 10 – REGULATORY INFORMATION
+
+- Step One Finance established in 2010.
+- Specialist consumer and secured lending business.
+- Authorised and regulated by the Financial Conduct Authority.
+- Core values: responsibility, transparency, fairness and simplicity.
+- Customers considering a mortgage should seek advice from a firm authorised by the Financial Conduct Authority. FCA authorised firms can be found via the FCA website.
+
+---
+
+*END OF DOCUMENT*

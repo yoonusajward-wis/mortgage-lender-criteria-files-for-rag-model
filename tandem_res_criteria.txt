@@ -1,321 +1,258 @@
-LENDER NAME: Tandem
-PRODUCT: Residential
+# Tandem Bank – Residential Mortgage Criteria
 
-# Tandem Bank - Residential Mortgage Lending Criteria
+---
 
-**Last Updated:** 2025  
-**Version:** 2.0  
-**Source:** Tandem Bank Intermediaries  
-**For Intermediaries Only**
+**LENDER:** Tandem Bank (Tandem Bank Limited t/a Tandem)
+**PRODUCT:** Residential Mortgage
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 2025 (Version 2.0)
+**FOR INTERMEDIARY USE ONLY**
 
-**Contact Information:**
-- Telephone: 01253 603951
+**Source:** https://www.intermediary.tandem.co.uk
+
+**Contact:**
+- Phone: 01253 603951
 - Email: underwriting@tandem.co.uk
 - Website: www.intermediary.tandem.co.uk
 
----
-
-## Document Information
-
-This document contains comprehensive residential mortgage lending criteria for Tandem Bank. The criteria covers standard residential mortgages, product tier requirements, and lending policies for intermediaries.
+**Regulatory:** Tandem Bank Limited t/a Tandem is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (FRN: 204479). Registered in England and Wales, Company number 00955491. Registered office: Viscount Court, Sir Frank Whittle Way, Blackpool, FY4 2FB.
 
 ---
 
-## Table of Contents
+## SECTION 1 – LOAN PARAMETERS
 
-This guide contains criteria sections organized by topic:
+- Minimum term: 5 years.
+- Maximum term: 35 years.
+- Maximum LTV: 90%.
+- Maximum LTI: 5x (inclusive of any fees added to the loan).
+- Repayment type: capital and interest only.
+- Minimum property value: £75,000.
+- Lending in England and Wales only.
 
-### General Information
+### Maximum Loan by LTV
 
-- Offer Validity
-- Validity Periods
-- LTV Calculation
-- First Time Buyers Definition
-- New Build Properties Definition
+- Up to 90% LTV: maximum loan £499,999.
+- Up to 85% LTV: maximum loan £624,999.
+- Up to 80% LTV: maximum loan £750,000.
+- Maximum unsecured debt consolidation on remortgage: £60,000.
 
-### Deposits
+### New Build LTV Limits
 
-- Proof of Deposit
-- Acceptable Sources of Deposits
-- Gifted Deposits from Family Members
-- Purchases Undervalue and Gifted Equity Transactions
-- Where the Source of Deposit is by a Personal Loan
-
-### Applicants
-
-- Applicant is Married or Co-habiting
-- Where the Property is/or to be Registered in a Sole Name
-
-### Income and Affordability
-
-- Income / Affordability
-- Unsecured Loans/HP
-- Debt Consolidation and Purchases
-
-### Credit History
-
-- Fair View Credit Assessment
-- CCJs and Defaults
-- Secured & Unsecured Arrears / Missed Payments
-- Debt Management Plans / Bankruptcy / IVA
-
-### Loan Details
-
-- LTV / Consolidation Limits
-- Legal Representation
-- General Criteria
-
-### Property
-
-- New Build
-- The Following Properties are Not Accepted
-
-### Product Tiers
-
-- Product Tier Criteria
-
-### Additional Information
-
-- And there's more
+- New build houses: maximum 85% LTV.
+- New build flats: maximum 75% LTV.
+- Maximum 10% exposure on one new build site.
+- New build definition: construction complete and/or property first occupied within the previous 2 years.
 
 ---
 
-## Offer Validity
+## SECTION 2 – APPLICANT ELIGIBILITY
 
-- 6 months from the date of offer for a purchase application
-- 3 months from the date of offer for a remortgage application
-- On expiry we require a rescore and reunderwrite of the application. Please contact us for confirmation of next steps.
+- Minimum age: 21.
+- Maximum age: 70 (loan must be repaid before the borrower's 70th birthday).
+- Maximum 2 applicants.
+- 3-year address history required.
+- Nationality: UK resident; non-UK residents must have indefinite right to remain or permanent settlement.
 
----
+### Employment
 
-## New Build Properties are Defined as
+- Employed: minimum 1 month in current job with 12 months' continuous employment.
+- Contracts: minimum 6 months remaining at time of offer; where less than 6 months remaining, evidence of renewal or extension taking it past 6 months must be provided.
+- Agency workers: acceptable where with the same agency for 12 months or more.
+- Self-employed: minimum 2 years' trading; latest year's figures used for affordability.
+- CIS contractors: considered.
 
-- Where construction is complete and/or where property has been first occupied within the previous 2 years
-- No more than 10% exposure on one new build site
+### Married or Co-habiting Applicants
 
----
+- Loan must be in joint names unless there is a plausible reason to proceed in sole name (e.g. existing property currently owned in sole name).
+- Where the property is or will be registered in one applicant's sole name: acceptable subject to both borrowers residing in the property and Independent Legal Advice (ILA) for the applicant who is not a registered owner (ILA cannot be obtained via remortgage free legals).
 
-## New Build
+### First-Time Buyer Definition
 
-- Maximum 85% LTV for houses
-- Maximum 75% LTV for flats
-
----
-
-## First Time Buyers are Defined as
-
-- Someone who has previously never had a mortgage OR
-- Someone with no mortgage in last 36 months
-- 3 months personal bank statements required for ALL tiers
-
----
-
-## LTV is Calculated Based on
-
-- The lower of the purchase price or
-- The open market value
+- Someone who has never previously had a mortgage; or
+- Someone with no mortgage in the last 36 months.
+- 3 months' personal bank statements required for all tiers.
 
 ---
 
-## Proof of Deposit
+## SECTION 3 – INCOME AND AFFORDABILITY
 
-- 6 month history required, except where the deposit is being funded by equity in the existing residential property (which is validated by Tandem's solicitors)
+- Maximum LTI: 5x (inclusive of fees added to the loan).
+- Up to 100% of consistent monthly or quarterly bonus and commission considered.
+- Up to 100% of consistent monthly or quarterly overtime, shift allowance and car allowance considered.
+- Up to 100% of second income considered (minimum 6 months in the role).
 
----
+### Unsecured Loans and Hire Purchase
 
-## Acceptable Sources of Deposits are
+- Unsecured loans or HP with 3 months or fewer remaining (6 months for purchases) can be excluded from the affordability assessment.
+- Time remaining calculated as: outstanding balance ÷ monthly instalment.
+- Care should be taken with car leases where renewal/continuation is expected.
 
-- Equity from sale of property
-- Savings, Investments, Shares, or Inheritance
-- Family Gifted Deposit
-- Family Gifted Equity
-- Assisted deposits such as builder deposit and builder incentive
-- Personal Loan (cannot be provided by any Tandem Group product)
+### Debt Consolidation
 
----
-
-## Gifted Deposits from Family Members are Subject to
-
-- A completed gifted deposit form
-
----
-
-## Purchases Undervalue and Gifted Equity Transactions are Only Permitted Where the Donor is a Family Member and are Subject to
-
-- Receipt of a gifted equity form
-- Declaration of solvency from the vendor - this is required to ensure that the vendor is not bankrupt or approaching bankruptcy
-- Vendors must have owned property they are selling for minimum 6 months
+- Debt consolidation available on remortgage applications only.
+- On purchase applications: a solicitor's undertaking to evidence that an account will be settled on completion may be accepted, allowing it to be excluded from affordability.
+- Evidence that the account was settled post-completion may be requested.
+- Where a monthly payment is used for affordability, the account may be part-settled but the remaining balance is only excluded if it equates to fewer than 3 months' payments (6 months for purchases).
 
 ---
 
-## Where the Source of Deposit is by a Personal Loan
+## SECTION 4 – CREDIT HISTORY
 
-- Copy of the credit agreement confirming the amount borrowed and monthly repayments
-- The monthly payments factored into the affordability assessment
+- Credit assessment based on the last 24 months.
+- Credit conduct assessed per applicant, not per application.
 
----
+### CCJs and Defaults
 
-## Applicant is Married or Co-habiting
+- Number of CCJs and defaults reviewed (not the value).
+- CCJs and defaults do not need to be satisfied.
+- CCJs and defaults owed to utility or communications providers with a value under £350 are not used to determine the product tier.
+- CCJ or default balances over £2,000 must be referred and explained to an underwriter.
 
-- The loan must be in joint names unless there is a plausible reason to proceed in sole name, e.g., the existing property is currently owned in sole name
+### Secured and Unsecured Arrears
 
----
+- Mortgage and secured loan arrears considered.
+- Secured arrears assessed on missed payments: 1 late payment on one account allowed before tier cascade.
+- Unsecured arrears assessed on worst status basis: 1 late payment on one account allowed before tier cascade.
+- Utility and communications providers not used to determine the product tier.
 
-## Where the Property is/or to be Registered in a Sole Name of One Applicant, is Acceptable Subject to
+### Debt Management Plans, Bankruptcy and IVA
 
-- Both borrowers residing in the property
-- ILA for the applicant who is not a registered owner (cannot be obtained via remortgage free legals)
-
----
-
-## Unsecured Loans/HP
-
-- Any unsecured loans/HP with 3 months (6 for purchase) left to run can be ignored from the affordability assessment
-- Extra care should be taken where HPs are concerned as some car leases will be expected to be renewed/continued
-- The time remaining must be calculated by taking the outstanding balance divided by the monthly instalment
-
----
-
-## Debt Consolidation and Purchases
-
-- Debt consolidation is only available on remortgage applications
-- However, on purchase applications, Tandem may consider accepting a solicitor's undertaking to evidence that an account will be settled on completion which can therefore be ignored from the affordability calculation
-- Tandem may request evidence that the account was settled post completion of the loan
-- For accounts where a monthly payment is used for affordability purposes, Tandem allows the account to be part settled but only ignores the remaining balance if it equates to less than 3 months (6 for purchase) payments
+- Discharged bankruptcy: considered if discharged more than 36 months ago.
+- Discharged IVA: considered if discharged more than 36 months ago.
+- Debt management plans: must be satisfactorily completed more than 12 months ago.
 
 ---
 
-## Legal Representation
+## SECTION 5 – PRODUCT TIER CRITERIA
 
-- Where Tandem is lending to purchase the property it is a standard legal process
-- Where Tandem is lending to remortgage the property, we will provide standard lender only legals and cover the costs of consolidating any credit. If the applicant requires representing in any way, they must be represented by his or her own solicitor, legal executive, or licensed conveyancer
+### Tier 0 – Maximum 90% LTV
 
----
+- CCJs: 0 in last 24 months.
+- Defaults: 0 in last 24 months.
+- Unsecured account conduct: highest status 0–24 months = 0.
+- Mortgage/secured loan conduct: 0 missed payments in last 24 months.
+- IVA, bankruptcy, DRO: none ever.
+- Debt management plans: none ever.
+- Payday loans: none in last 12 months.
+- Maximum loan: £499,999 at 90% LTV; £624,999 at 85% LTV.
 
-## The Following Properties are Not Accepted
+### Tier 1 – Maximum 90% LTV
 
-- Properties containing Mundic Block materials (unless classified as class A1, A2 or A3, and there is a valid report completed in accordance with the 2nd edition (or later) of the RICS Guidance Note - The Mundic Problem)
-- Steel framed houses built prior to the year 2000
-- Timber framed properties built prior to 1970. (Properties built in 1970 or later are acceptable if they have a masonry outer skin)
-- Properties with significant areas of single skin construction, for example half brick thick, less than 225 mm or other types of insubstantial material considered to adversely affect saleability, thermal and/or structural performance
-- Large panel construction for flats
-- Timber framed properties with retrospective cavity fill
-- If non standard construction please refer prior to submission
+- CCJs: maximum 1 in last 24 months, with 0 in last 3 months.
+- Defaults: maximum 1 in last 24 months, with 0 in last 3 months.
+- Unsecured account conduct: highest status 0–6 months = 0; 7–24 months = 1.
+- Mortgage/secured loan conduct: 0 missed payments in last 6 months; maximum 1 in last 7–24 months.
+- IVA, bankruptcy, DRO: none in last 6 years.
+- Debt management plans: none ever.
+- Payday loans: maximum 3 in last 12 months; maximum 1 currently active.
+- Maximum loan: £499,999 at 90% LTV; £624,999 at 85% LTV.
 
----
+### Tier 2 – Maximum 85% LTV
 
-## LTV / Consolidation Limits
+- CCJs: maximum 2 in last 24 months, with 0 in last 3 months.
+- Defaults: maximum 2 in last 24 months, with 0 in last 3 months.
+- Unsecured account conduct: highest status 0–6 months = 1; 7–24 months = 2; current status = 1.
+- Mortgage/secured loan conduct: 0 missed payments in last 6 months; maximum 2 in last 7–24 months; current status = 1.
+- IVA, bankruptcy, DRO: discharged more than 36 months ago.
+- Debt management plans: none ever.
+- Payday loans: maximum 3 in last 12 months; maximum 1 currently active.
+- Maximum loan: £500,000 at below 85% LTV.
 
-- Maximum 90% LTV up to £499,999 for purchase and remortgage
-- Maximum 85% LTV up to £624,999 for purchase and remortgage
-- Maximum 80% LTV up to £750,000 for purchase and remortgage
-- Maximum £60,000 unsecured debt consolidation for remortgages
+### Tier 3 – Maximum 80% LTV
 
----
+- CCJs: maximum 3 in last 24 months, with 0 in last 3 months.
+- Defaults: maximum 3 in last 24 months, with 0 in last 3 months.
+- Unsecured account conduct: highest status 0–6 months = 2; 7–24 months = 3; current status = 2.
+- Mortgage/secured loan conduct: 0 missed payments in last 6 months; maximum 3 in last 7–24 months; current status = 1.
+- IVA, bankruptcy, DRO: discharged more than 36 months ago.
+- Debt management plans: completed satisfactorily more than 12 months ago.
+- Payday loans: maximum 3 in last 12 months; maximum 1 currently active.
+- Maximum loan: £500,000 at below 80% LTV.
 
-## Fair View Credit Assessment
-
-- We base our credit assessment on 24 months
-- We look at credit conduct per applicant not per application
-
----
-
-## CCJs and Defaults
-
-- We review the number of CCJs and Defaults not the value
-- CCJs and Defaults do not need to be satisfied
-- CCJs & Defaults for utility and communications providers with a value of <£350 are not used to determine the product tier
-- Provided the applicant meets Tandem's score, and product tier criteria, there is no cascade
-
----
-
-## Secured & Unsecured Arrears / Missed Payments
-
-- Mortgage and secured loan arrears considered
-- Secured arrears are assessed on missed payments. 1 late payment on one account is allowed before tier cascade
-- Unsecured arrears are assessed on worst status basis. 1 late payment on one account is allowed before tier cascade
-
----
-
-## Income / Affordability
-
-- Up to 100% of consistent monthly or quarterly bonus and commission considered
-- Up to 100% of consistent monthly or quarterly overtime, shift and car allowance considered
-- CIS contractors considered
-- Up to 100% of second income considered (minimum of 6 months in the role)
+**Notes applying to all tiers:**
+- CCJs and defaults for utility and communications providers under £350 are not used to determine the product tier.
+- CCJs and defaults do not need to be satisfied; balances over £2,000 must be referred to an underwriter.
+- 1 late payment on one account is allowed before tier cascade (both secured and unsecured).
 
 ---
 
-## Debt Management Plans / Bankruptcy / IVA
+## SECTION 6 – DEPOSIT CRITERIA
 
-- >36 month discharged bankruptcy considered
-- >36 months discharged IVA considered
-- Debt management plans must be satisfactorily satisfied > 12 months ago
+- 6 months' deposit history required (except where funded by equity in an existing residential property, validated by Tandem's solicitors).
 
----
+### Acceptable Deposit Sources
 
-## And there's more
+- Equity from sale of property.
+- Savings, investments, shares or inheritance.
+- Family gifted deposit.
+- Family gifted equity.
+- Assisted deposits (builder deposit or builder incentive).
+- Personal loan (cannot be provided by any Tandem Group product).
 
-- No Application fee
-- No valuation fee for remortgages up to £700,000
-- Free standard lender-only legals for remortgages
-- Broker fee of £2,495 or 8% plus Tandem's lender fee can be added to the loan with no interest charged
-- Fees can be added above max LTVs (subject to affordability)
-- Residential EPC discounts of up to 0.30% for EPC A, & B rated properties
-- Further advances considered after 6 months
-- Rates reserved for 7 days after accepted DIP & ESIS produced
+### Gifted Deposits from Family Members
 
----
+- A completed gifted deposit form is required.
 
-## Product Tier Criteria
+### Purchases at Undervalue and Gifted Equity Transactions
 
-|   | T0 – 90% | T1 – 90% | T2 – 85% | T3 – 80% |
-| --- | --- | --- | --- | --- |
-| **CCJs** | 0 in 24 months | 1 in 24 months with 0 in 3 months | 2 in 24 months with 0 in 3 months | 3 in 24 months with 0 in 3 months |
-|   | CCJs for utility and communications providers with a value of <£350 are not used to determine the product tier. CCJs do not have to be satisfied but any balances over £2,000 will need to be referred and explained to an underwriter |   |   |   |
-| **Defaults** | 0 in 24 months | 1 in 24 months with 0 in 3 months | 2 in 24 months with 0 in 3 months | 3 in 24 months with 0 in 3 months |
-|   | Defaults for utility and communications providers with a value of <£350 are not used to determine the product tier. Defaults do not have to be satisfied but any balances over £2,000 will need to be referred and explained to an underwriter |   |   |   |
-| **Unsecured account conduct** | Highest Status 0 - 24 months = 0 | Highest Status 0 - 6 months = 0, 7 - 24 months = 1 | Highest Status 0 - 6 months = 1, 7 - 24 months = 2, Current status = 1 | Highest Status 0 - 6 months = 2, 7 - 24 months = 3, Current status = 2 |
-|   | 1 late payment on one account is allowed before tier cascade. Utility and communications providers are not used to determine the product tier |   |   |   |
-| **Mortgage / secured loan conduct** | Missed Payments 0 - 24 months = 0 | Missed Payments 0 - 6 months = 0, 7 - 24 months = 1 | Missed Payments 0 - 6 months = 0, 7 - 24 months = 2, Current status = 1 | Missed Payments 0 - 6 months = 0, 7 - 24 months = 3, Current status = 1 |
-|   | 1 late payment on one account is allowed before tier cascade |   |   |   |
-| **Discharged IVA / Bankruptcy / DRO** | None ever | None in 6 years | > 36 months discharged on IVA & Bankruptcy | > 36 months discharged on IVA & Bankruptcy |
-| **Debt Management Plans** | None ever | None ever | None ever | Accepted subject to completed satisfactorily > 12 months ago |
-| **Pay Day Loan** | None in the last 12 months | Max 3 in last 12 months, Max 1 currently active | Max 3 in last 12 months, Max 1 currently active | Max 3 in last 12 months, Max 1 currently active |
-| **Max loan** | £624,999 - 85% LTV, £499,999 - 90% LTV | £624,999 - 85% LTV, £499,999 - 90% LTV | £500,000 - 85% LTV | £500,000 - 80% LTV |
+- Permitted only where the donor is a family member.
+- Required: gifted equity form; declaration of solvency from the vendor (to confirm the vendor is not bankrupt or approaching bankruptcy); evidence that vendors have owned the property for a minimum of 6 months.
+
+### Deposit by Personal Loan
+
+- Copy of the credit agreement confirming the amount borrowed and monthly repayments required.
+- Monthly payments factored into the affordability assessment.
 
 ---
 
-## General Criteria
+## SECTION 7 – PROPERTY CRITERIA
 
-| Criteria | Details |
-| --- | --- |
-| **Max Loan Advance / LTV** | Tier 0: £624,999 - 85%, £499,999 - 90%<br>Tier 1: £624,999 - 85% LTV, £499,999 - 90% LTV<br>Tier 2: £500,000 <85%<br>Tier 3: £500,000 <80% |
-| **Term** | Min: 5 Years, Max: 35 Years |
-| **Affordability** | Our maximum LTI is x5 inclusive of fees added to the loan |
-| **Maximum LTV** | 90% LTV |
-| **Repayment** | Capital and Interest |
-| **Age** | Min age: 21, Max age: 70 (Loan must be repaid before the borrowers 70th birthday) |
-| **Residential status** | 3 Years address history |
-| **Nationality** | UK resident. Non-UK residents must have indefinite rights to remain or permanent settlement |
-| **Maximum applicants** | 2 |
-| **Employed** | Minimum of 1 month in current job with 12 months continuous employment |
-| **Contract** | There must be a minimum of 6 months remaining on the applicants current contract at the time of offer. Where there is less than 6 months remaining, evidence of a renewal or extension that takes it past 6 months must be provided |
-| **Agency** | Agency workers who have been with the same agency for 12 months or more |
-| **Self-employed** | Minimum of 2 years trading latest years used for affordability |
-| **Minimum property value** | £75,000 |
-| **Locations considered** | England and Wales only |
-| **Remortgage AVM** | AVM up to 75% LTV subject to:<br>- No Flats<br>- Min confidence level 5<br>- Property purchased/remortgaged in last 5 years<br>RICS Full valuation up to max LTV |
-| **Purchase valuations** | A physical valuation for all purchases is required. Please refer to our valuation fee scale |
+### Valuations
+
+- Purchases: physical valuation required for all purchases.
+- Remortgage AVM: acceptable up to 75% LTV subject to: no flats; minimum confidence level 5; property purchased or remortgaged in last 5 years.
+- RICS full valuation: required up to maximum LTV in all other cases.
+
+### Unacceptable Property Types and Construction
+
+- Properties containing Mundic Block materials (unless classified as A1, A2 or A3 with a valid report in accordance with the 2nd edition or later of the RICS Guidance Note — The Mundic Problem).
+- Steel-framed houses built prior to the year 2000.
+- Timber-framed properties built prior to 1970 (1970 or later acceptable if they have a masonry outer skin).
+- Properties with significant areas of single-skin construction (e.g. half-brick thick, less than 225mm, or other insubstantial materials adversely affecting saleability, thermal or structural performance).
+- Large panel construction flats.
+- Timber-framed properties with retrospective cavity fill.
+- Any other non-standard construction: please refer prior to submission.
 
 ---
 
-## Validity Periods
+## SECTION 8 – LEGAL REPRESENTATION
 
-- Decisions in Principle valid for 7 Days
-- Decision in Principle to Offer - Documents and Credit Search are valid for 60 Days. After 60 Days a new Credit Search will be required. New Payslips and other documents may also be required
+- Purchases: standard legal process.
+- Remortgages: standard lender-only legals provided; Tandem covers the cost of consolidating any credit. If the applicant requires their own representation, they must instruct their own solicitor, legal executive or licensed conveyancer.
 
 ---
 
-**Tandem Bank Limited t/a Tandem** is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (FRN: 204479). Registered in England and Wales under company number 00955491 with registered office address at Viscount Court, Sir Frank Whittle Way, Blackpool, United Kingdom, FY4 2FB.
+## SECTION 9 – FEES AND ADDITIONAL FEATURES
 
+- No application fee.
+- No valuation fee for remortgages up to £700,000.
+- Free standard lender-only legals for remortgages.
+- Broker fee of £2,495 or 8% plus Tandem's lender fee can be added to the loan with no interest charged.
+- Fees can be added above maximum LTVs subject to affordability.
+- Residential EPC discount: up to 0.30% for EPC A and B rated properties.
+- Further advances considered after 6 months.
+- Rates reserved for 7 days after accepted DIP and ESIS produced.
+
+---
+
+## SECTION 10 – VALIDITY PERIODS
+
+- Offer validity (purchase): 6 months from date of offer.
+- Offer validity (remortgage): 3 months from date of offer.
+- On expiry: rescore and reunderwrite required.
+- Decision in Principle: valid for 7 days.
+- DIP to Offer: documents and credit search valid for 60 days; after 60 days a new credit search is required and new payslips and other documents may also be required.
+
+---
+
+*END OF DOCUMENT*

@@ -1,351 +1,315 @@
-LENDER NAME: Principality Building Society
-PRODUCT: Residential
-
-# Principality Building Society - Residential Mortgage Lending Criteria
-
-**Last Updated:** 2025
-**Source:** Principality Building Society Intermediaries
-**For Intermediaries Only**
+# Principality Building Society – Residential Mortgage Criteria
 
 ---
 
-## Document Information
+**LENDER:** Principality Building Society
+**PRODUCT:** Residential Mortgage
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 2025
+**FOR INTERMEDIARY USE ONLY**
 
-This document contains comprehensive residential mortgage lending criteria covering all topics from the Principality Building Society intermediaries website.
-
-**Website:** https://www.principality.co.uk/intermediaries/our-mortgage-lending-criteria/our-full-lending-criteria
-
----
-
-## Table of Contents
-
-This guide contains 11 main sections organized by topic:
-
-
-### Product and Loan Information
-
-1. Product information
-2. Loan to value limits
-3. Mortgage term
-4. Product fee
-
-### Application Requirements
-
-6. Application information
-
-### Repayment Methods
-
-7. Interest only - residential
-8. Debt consolidation
-
-### Special Schemes
-
-9. Schemes
-
-### Property and General Information
-
-5. Lending in England and Wales
-10. General residential information
-11. Porting
+**Source:** https://www.principality.co.uk/intermediaries/our-mortgage-lending-criteria/our-full-lending-criteria
 
 ---
 
-## Product information
+## SECTION 1 – LEGAL FEES
 
-### Legal fees
+- Where the product allows for legal fee assistance, solicitors used are Optima Legal or O'Neill Patient Solicitor (ONP).
 
-Where the product allows for legal fee assistance, we use either Optima Legal or O'Neill Patient Solicitor (ONP).
+---
 
-## Loan to value limits
+## SECTION 2 – LOAN TO VALUE LIMITS (RESIDENTIAL PURCHASES)
 
-Loan to value limits on residential purchases are: 
+### New Purchase
 
-New purchase
-Loan to value	Maximum loan size
-95%	£500,000
-75-90% 	£650,000
-65-75%	£750,000
-<65% 	£1,000,000 
-The 95% should include any product fees. 
+- At 95% LTV: maximum loan size £500,000. The 95% must include any product fees.
+- At 75–90% LTV: maximum loan size £650,000.
+- At 65–75% LTV: maximum loan size £750,000.
+- At below 65% LTV: maximum loan size £1,000,000.
 
-New build
-Loan to value 	Maximum loan size
-95% (excluding flats – 90%).	£650,000
-The 95% should include any product fees.
+### New Build
 
- 
+- At 95% LTV (excluding flats — capped at 90%): maximum loan size £650,000. The 95% must include any product fees.
 
-Re-mortgage 
-Loan to value	Maximum loan size
-75%-90%	£650,000
-65%-75%	£750,000
-<65%	£1,000,000
- 
+### Remortgage
 
-Debt consolidation on a capital repayment basis
-Loan to value	  Maximum loan size 
-75%	 £750,000
+- At 75–90% LTV: maximum loan size £650,000.
+- At 65–75% LTV: maximum loan size £750,000.
+- At below 65% LTV: maximum loan size £1,000,000.
 
-## Mortgage term
+### Debt Consolidation (Capital Repayment Basis)
 
-The minimum repayment term is 5 years. We will consider a maximum term of 40 years.
+- Maximum LTV: 75%.
+- Maximum loan size: £750,000.
 
-If any element of the mortgage loan is interest only a maximum term of 25 years will be considered. 
+---
 
-We accept residential applications from applicants who are aged 18 or over. For buy to let or holiday let applications the minimum lending age is 21. 
+## SECTION 3 – MORTGAGE TERM
 
-All residential mortgages should be repaid on or before the eldest applicant’s 85th birthday.
+- Minimum repayment term: 5 years.
+- Maximum term: 40 years.
+- Maximum term where any element is interest only: 25 years.
+- Minimum applicant age (residential): 18.
+- Maximum age at end of term (residential repayment): mortgage must be repaid on or before the eldest applicant's 85th birthday.
+- Maximum age at end of term where any element is interest only: mortgage must be repaid on or before the eldest applicant's 70th birthday.
+- Leasehold requirement: minimum unexpired lease term at start of mortgage is 85 years.
 
-If any element of the mortgage loan is interest only, the mortgage will need to be repaid on or before the eldest applicant’s 70th birthday. 
+---
 
-For buy to let or holiday let applications we consider a mortgage term until the eldest applicant’s 85th birthday.
+## SECTION 4 – PRODUCT FEE
 
-Where the property is leasehold, the unexpired term of the lease at the start of the mortgage loan must be a minimum of 85 years.
+- Product fee can be added to the loan if total borrowing meets the affordability calculation.
+- At 95% LTV: adding a product fee must not exceed the maximum LTV cap for the product.
+- All product fees are non-refundable and non-transferable.
 
-Please search for 'lending into retirement' for more information.
+---
 
-## Product fee
+## SECTION 5 – LENDING IN ENGLAND AND WALES
 
-The product fee can be added to the loan as long as the total borrowing meets the affordability calculation.
+- Allowed: freehold and leasehold properties in England and Wales.
 
-For 95% loan to value applications if you add a product fee you must not exceed the maximum LTV cap for the product.
+### Minimum Loan Amounts
 
-All product fees are non-refundable and non-transferable.
+- Minimum loan (new residential advance): £5,000.
+- Minimum loan (new build, buy to let or holiday let): £25,000.
 
-## Lending in England and Wales
+### Standard Variable Rate
 
-### Property
-
-We provide mortgages on freehold and leasehold properties in England and Wales.
-
-### Minimum loan amounts
-
-£5,000 is the minimum loan amount for a new residential mortgage advance.
-
-£25,000 is the minimum loan amount for a new build, buy to let or holiday let.
-
-### Standard variable rate
-
-If our standard variable rate increases or decreases, the discounted rate paid will also increase or decrease.
-
-The standard variable rate will apply at the end of the fixed or discount period.
+- If the standard variable rate increases or decreases, the discounted rate paid will also increase or decrease accordingly.
+- The standard variable rate applies at the end of the fixed or discount period.
 
 ### Overpayments
 
-Overpayments are available on all non-flexible residential, buy to let and holiday let mortgages. 
-
-The overpayment allowance is 10% of the outstanding balance as at January 1st every calendar year. 
-
-Overpayments can be made regularly or as occasional lump sums.
-
-Overpayments received above the annual allowance may incur an early repayment charge.
-
-## Application information
-
-### Valuations
-
-We'll arrange a desk valuation on any residential purchase or re-mortgage application with a LTV cap of 75%.
-
-The property value is limited to £500,000 with a maximum loan size of £400,000.
-
-It must be a house that is not listed, has no more than two storeys and has a standard construction.
-
-For all other application types, a physical valuation is required.
-
-### Foreign nationals
-
-All applicants must be a UK resident at the time of application and have at least 2 years UK residential address history.*
-
-We’ll lend to: 
-
-A European Economic Area (EEA) national who is resident in the UK and at the time of application has permanent legal right of residence in the UK, pre-settled status or settled status; or
-A Non-EEA national resident in the UK who has obtained indefinite leave to remain or has more than 12 months on their visa at the time of application.
-And, for joint applications only one applicant needs to meet our visa criteria.
-
-We’ll allow:
-
-Up to 95% LTV lending for EEA and non-EEA applicants*
-*Subject to successfully passing a credit check.
-
-For any strong cases (up to 90% LTV) outside of this criteria which you feel have a good rationale for lending please speak to your local BDM.
-
-### Deposit
-
-The deposit and costs for the purchase should be provided out of the applicant's own resources. However, gifts from family are acceptable. We accept any family members including step family.
-
-### Applicant numbers
-
-The maximum number of applicants is 4.
-
-We will consider all applicants incomes.
-
-All 4 applicants must live at the property.
-
-## Interest only - residential
-
-### Mortgage types
-
-We'll accept interest only residential mortgage applications on this basis:
-
-The maximum loan to value is 50%. A mix of interest only and repayment is allowed but the total borrowing must not exceed 50% LTV;
-The maximum term is 25 years; 
-Mortgages will need to be repaid on or before the eldest applicant’s 70th birthday; and 
-The minimum equity in the property is £150,000. 
-Evidence of a repayment strategy that meets our criteria and documentary evidence is required for interest only or part interest only mortgages.
-
-Please see our Interest only residential mortgage applications: Repayment strategy, evidence and assessment guide.
-
-All income and affordability for interest only mortgages is assessed by our standard affordability calculator model on a repayment basis. 
-
-Capital raising for debt consolidation is not acceptable on an interest only basis.
-
-## Debt consolidation
-
-If the new loan is shown to be affordable, we will consider loans where part of the total advance is used to repay other secured or unsecured debts.
-
-This includes agreements with family or friends.
-
-Applications will be considered on the following basis:
-
-- Maximum Loan to Value (LTV) 75%;
-- Capital repayment only; 
-- A special condition is added to the mortgage offer which requires the applicant to repay the debts in the application; and 
-- All current debts (including those being repaid) are included in the affordability calculation.
-
-### Proof of address
-
-When we can't locate applicants on the electoral register, we'll ask for proof of the applicant/s address for the last 3 years.
-
-This must be a UK address.
-
-## Schemes
-
-### Joint borrower sole proprietor
-
-#### Mortgage types
-
-We will accept joint residential new mortgage applications made between an applicant and a sponsor.
-
-A sponsor can be a parent, grandparent, child, grandchild, sibling, spouse or legal guardian using all income for affordability.
-
-The sponsor does not need to be on the deeds. 
-
-A sponsor cannot live in the property.
-
-We only accept applications for purchases only. We do not accept remortgage applications.
-
-Contact your local BDM for your JBSP applications or visit Family boosts for more information.
-
-### Forces Help to Buy
-
-#### Lending schemes
-
-We accept applications from our armed forces.
-
-They may have access to schemes to help them purchase their own home e.g. Forces Help to Buy. As part of their application, applicants will need to provide a confirmation document from their employer.
-
-Some schemes have a loan repayment element and some applicants must maintain a residence on or near their work base. Any monthly outgoings related to this must be included as expenditure for the mortgage calculation.
-
-### Let to Buy
-
-#### Mortgage types
-
-Where the existing residential property is to be let rather than sold, we'll need a copy of the Assured Shorthold Tenancy Agreement (England) / Written Statement of Standard Occupation (Wales), or a letter from the letting agency confirming the intention to let.
-
-For let to buy, we will require rental coverage of 145% of the monthly mortgage payment @ 5.50%*
-
-* This is for 5-year fixed products. For 2-year fixed products we will require 7.65% as rental coverage.
-
-If another lender is involved, a consent to let letter will also be required.
-
-### Affordable housing schemes
-
-#### Lending schemes
-
-We will consider Help to Buy Wales with as little as a 5% deposit.
-
-**Right to Buy council schemes.**  
-The mortgage loan must have the same names as those being offered the discount on the legal paperwork. We can lend the total discounted purchase price up to 95% of the property value. Where a clause exists that, for example, restricts the re-sale of the property the maximum loan will be 95% of the lower valuation and the tenant's discounted purchase price. We don't lend additional funds for home improvements on a right to buy application. We will consider house only, no flats.
-
-We will include rent as a cost to the client when assessing maximum affordability for shared equity purchases.
-
-## General residential information
-
-### Age limits
-
-#### General information
-
-**Residential applications**
-
-We accept residential applications from applicants who are aged 18 or over. 
-All residential mortgages should be repaid before the eldest applicant's 76th birthday. Underwriters will consider repayment before the eldest applicant's 85th birthday.
-If any element of the mortgage loan is interest only, the mortgage will need to be repaid before the eldest applicant's 70th birthday. 
-For joint borrowers, where the term extends beyond the oldest borrower's 76th birthday, the underwriter must be satisfied that the loan is still affordable following the death of either borrower. 
-
-**Buy to let mortgage applications including holiday lets**
-
-Applicants should be 21 years old or older. 
-All buy to let / holiday let mortgages should be repaid before the eldest applicant's 85th birthday.
-
-**Retired applicants**
-
-If lending is past the age of 70 or the applicant's intended retirement age (whichever comes first), the following applies:
-
-If retirement is more than 10 years away, and the term does not extend beyond age 75 then we will use current income for affordability purposes, as long as the customer can prove they are paying into a private pension (payslip, bank statement or pension statement accepted). 
-In all other circumstances affordability is reliant on a projected pension income. 
-For joint borrowers, where the term extends beyond the oldest borrower's 76th birthday, the underwriter must be satisfied that the loan is still affordable following the death of either borrower. 
-
-For more, search for lending into retirement.
-
-### Property types
-
-#### Property
-
-We lend up to 95% loan to value (LTV) for first time buyers, 90% LTV for home movers and 90% LTV on re-mortgage of residential houses, flats, maisonettes and apartments.
-
-We will consider loans for the purchase or re-mortgage of a residential second home i.e. for the borrower's own use to a maximum of 75% LTV.
-
-#### Leasehold properties
-
-All leasehold properties must have at least 85 years remaining on the lease at the time of application.
-
-#### Flats, studios, maisonettes and apartments
-
-Flats, studios, maisonettes and apartments will be considered as long as the block is not more than 10 storeys.
-We will only lend between 6-10 storeys if the block is a 'good quality' residential development for private occupation and built by an established and recognised developer.
-Flats or maisonettes must be leasehold. 
-We are able to lend on ex local authority or housing association flats on developments where demand is high and accommodation is considered desirable.
-
-#### New builds
-
-On buy-to-let new build houses, flats, apartments, studios and maisonettes we lend up to a maximum of 75% LTV.
-On residential new build we lend up to 95% loan to value (LTV) for new build houses. For new build flats, we lend up to 90% loan to value (LTV).
-
-**We will not lend on:**
-
-Any property that has a restricted occupancy clause i.e. 157 (relating to the sale of properties in national parks) or 106 (relating to property affordability).
-
-## Porting
-
-### Mortgage types
-
-Where redemption of the loan is 90 calendar days or less from the expiration of any product special rate restriction, the early repayment charge (ERCs) will be waived and the customer can select a new product from Principality's mortgage acquisition range available at the time.
-
-This is subject to a simultaneous redemption and completion of a new mortgage loan with Principality. 
-
-We will not waive the ERC in these circumstances:
-
-Where the client already owns the property to which they wish to transfer this mortgage; 
-Where the amount the client wishes to transfer to their new property is less than the balance outstanding at the time of transfer; 
-Where the client chooses not to transfer their loan on its existing terms; 
-The client may not borrow additional sums on the terms governing the amount they wish to transfer. They may only borrow additional amounts by choosing another non-flexible product from our range current at the time; or 
-The client or their new property does not meet our lending criteria current at the time of the transfer.
-This list is not exhaustive.
-
-All intermediary porting enquiries should be submitted to your local BDM or via our support desk.
+- Overpayments allowed on all non-flexible residential, buy to let and holiday let mortgages.
+- Maximum annual overpayment: 10% of outstanding balance as at 1 January each calendar year.
+- Regular or lump sum overpayments are allowed.
+- Overpayments above the annual allowance may incur an early repayment charge.
 
 ---
 
-## Main URLs
+## SECTION 6 – VALUATIONS
 
-- https://www.principality.co.uk/intermediaries/our-mortgage-lending-criteria/our-full-lending-criteria
+### Desk Valuation
+
+Allowed for residential purchase or remortgage applications with LTV cap of 75%, subject to:
+- Property value: maximum £500,000.
+- Maximum loan size: £400,000.
+- Must be a house.
+- Not listed.
+- No more than 2 storeys.
+- Standard construction.
+
+### All Other Application Types
+
+- A physical valuation is required.
+
+---
+
+## SECTION 7 – FOREIGN NATIONALS
+
+**Requirements:**
+- Applicant must be UK resident at time of application.
+- Minimum 2 years UK residential address history.
+- Address history must be a UK address.
+
+**EEA nationals resident in the UK — lending accepted with:**
+- Permanent legal right of residence; or
+- Pre-settled status; or
+- Settled status.
+
+**Non-EEA nationals resident in the UK — lending accepted with:**
+- Indefinite leave to remain; or
+- More than 12 months remaining on visa at time of application.
+
+**Joint applications:**
+- Only one applicant must meet the visa criteria.
+
+- Maximum LTV for EEA and non-EEA applicants: 95%, subject to successfully passing a credit check.
+- Strong cases up to 90% LTV outside criteria may be discussed with the local BDM.
+
+---
+
+## SECTION 8 – DEPOSIT
+
+- Deposit and purchase costs must be from the applicant's own resources.
+- Gifts from family, including step-family, are allowed.
+
+---
+
+## SECTION 9 – APPLICANT NUMBERS
+
+- Maximum number of applicants: 4.
+- All applicants' incomes are considered.
+- All 4 applicants must live at the property.
+
+---
+
+## SECTION 10 – INTEREST ONLY (RESIDENTIAL)
+
+- Maximum LTV: 50%.
+- Part interest only and part repayment is allowed, provided total borrowing does not exceed 50% LTV.
+- Maximum term: 25 years.
+- Maximum age at end of term: repayment required on or before the eldest applicant's 70th birthday.
+- Minimum equity required: £150,000.
+- Evidence of an acceptable repayment strategy with documentary proof is required.
+- All income is assessed using the standard affordability calculator on a repayment basis.
+- Capital raising for debt consolidation on an interest only basis: not acceptable.
+
+---
+
+## SECTION 11 – DEBT CONSOLIDATION
+
+- Allowed where the new loan is affordable and part of the advance is used to repay secured or unsecured debts, including agreements with family or friends.
+
+**Conditions:**
+- Maximum LTV: 75%.
+- Capital repayment only.
+- A special condition is added to the mortgage offer requiring repayment of debts listed in the application.
+- All current debts (including those being repaid) must be included in the affordability calculation.
+
+**Proof of Address:**
+- If the applicant is not on the electoral register, proof of address is required for the last 3 years.
+- UK address required.
+
+---
+
+## SECTION 12 – JOINT BORROWER SOLE PROPRIETOR (JBSP)
+
+- Allowed for joint residential new purchase applications between an applicant and a sponsor.
+
+**Acceptable sponsor relationships:**
+- Parent.
+- Grandparent.
+- Child.
+- Grandchild.
+- Sibling.
+- Spouse.
+- Legal guardian.
+
+- All income from both applicant and sponsor is used for affordability.
+- Sponsor does not need to be on the deeds.
+- Sponsor cannot live in the property.
+- Available for purchase only — remortgage applications are not acceptable.
+
+---
+
+## SECTION 13 – FORCES HELP TO BUY
+
+- Applications from armed forces personnel are allowed.
+- Confirmation document from employer is required.
+- Any scheme loan repayment or required residence costs must be included as expenditure in the affordability calculation.
+
+---
+
+## SECTION 14 – LET TO BUY
+
+- Required: copy of Assured Shorthold Tenancy Agreement (England) or Written Statement of Standard Occupation Contract (Wales), or a letting agency letter confirming intention to let.
+- If another lender is involved, a consent to let letter is required.
+
+**Rental coverage requirements:**
+- 5-year fixed products: 145% of monthly mortgage payment at 5.50%.
+- 2-year fixed products: 7.65% as rental coverage.
+
+---
+
+## SECTION 15 – AFFORDABLE HOUSING SCHEMES
+
+### Help to Buy Wales
+
+- Minimum deposit: 5%.
+
+### Right to Buy (Council Schemes)
+
+- Mortgage loan names must match those receiving the discount.
+- Maximum lending: 95% of property value.
+- Where a resale restriction clause exists (e.g. Section 157 or 106): maximum loan is 95% of the lower of the valuation and the tenant's discounted purchase price.
+- Additional funds for home improvements on right to buy: not acceptable.
+- Property type restriction: houses only, no flats.
+
+### Shared Equity
+
+- Rent must be included as a cost in the affordability assessment.
+
+---
+
+## SECTION 16 – AGE LIMITS (RESIDENTIAL)
+
+- Minimum age: 18.
+- Standard repayment age limit: before the eldest applicant's 76th birthday.
+- Underwriter discretion: may consider repayment before the eldest applicant's 85th birthday.
+- Interest only: repayment required before the eldest applicant's 70th birthday.
+
+### Joint Borrowers
+
+- Where the term extends beyond the oldest borrower's 76th birthday, the underwriter must be satisfied the loan remains affordable following the death of either borrower.
+
+### Retired Applicants
+
+Where lending extends past age 70 or the intended retirement age (whichever comes first):
+
+If retirement is more than 10 years away AND the term does not extend beyond age 75:
+- Affordability assessed using current income.
+- Proof of payment into a private pension required (payslip, bank statement, or pension statement).
+
+In all other circumstances:
+- Affordability assessed based on projected pension income.
+
+---
+
+## SECTION 17 – PROPERTY TYPES
+
+### Maximum LTV by Buyer Type
+
+- First time buyers: 95%.
+- Home movers: 90%.
+- Remortgage (residential houses, flats, maisonettes, apartments): 90%.
+
+### Second Homes (for borrower's own use)
+
+- Maximum LTV: 75%.
+
+### Leasehold Properties
+
+- Minimum 85 years remaining on the lease at time of application.
+
+### Flats, Studios, Maisonettes and Apartments
+
+- Allowed if the block is no more than 10 storeys.
+- Between 6–10 storeys: only if a good quality residential development for private occupation, built by an established recognised developer.
+- Flats and maisonettes must be leasehold.
+- Ex local authority or housing association flats are allowed where demand is high and the accommodation is desirable.
+
+### New Builds
+
+- Buy to let new build: maximum LTV 75%.
+- Residential new build houses: maximum LTV 95%.
+- Residential new build flats: maximum LTV 90%.
+
+### Not Acceptable
+
+- Properties with a restricted occupancy clause (Section 157 or 106).
+
+---
+
+## SECTION 18 – PORTING
+
+### Early Repayment Charge Waiver
+
+An ERC waiver is allowed if:
+- Redemption occurs 90 calendar days or less from expiration of the product special rate restriction; and
+- There is simultaneous redemption and completion of a new mortgage loan with Principality.
+
+**ERC will not be waived where:**
+- The client already owns the property to which the mortgage is being transferred.
+- The amount transferred is less than the balance outstanding at the time of transfer.
+- The client chooses not to transfer the loan on existing terms.
+- Additional borrowing is requested on the transferred amount terms.
+- The client or new property does not meet current lending criteria.
+
+### Additional Borrowing
+
+- Must be on a separate non-flexible product from the current range.
+
+---
+
+*END OF DOCUMENT*

@@ -1,375 +1,262 @@
-LENDER NAME: Strideup
-PRODUCT: Residential
+# StrideUp – Residential Home Purchase Plan (HPP) Criteria
 
-# StrideUp - Residential Home Purchase Plan (HPP) Lending Criteria
-**Source:** https://intermediaries.strideup.co/home-purchase-plan-criteria
-**Last Updated:** 2025
+---
 
+**LENDER:** StrideUp (trading name of StrideUp Homes Limited)
+**PRODUCT:** Residential Home Purchase Plan (HPP) – Shariah-Compliant
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 2025
 **FOR INTERMEDIARY USE ONLY**
 
-StrideUp is the trading name of StrideUp Homes Limited, authorised and regulated by the Financial Conduct Authority (785299). Registered in England and Wales with company number 10848518. Registered office: Third Floor, 20 Old Bailey, London, United Kingdom, EC4M 7AN.
-
-StrideUp's home purchase plan product has been certified as Shariah-compliant by Amanah Advisors.
+**Source:** https://intermediaries.strideup.co/home-purchase-plan-criteria
 
 **Contact:**
-* **Broker Success Team:** 07981 836 999 or 07301 163 836
-* **Email:** brokers@strideup.co
-* **Broker Portal:** https://intermediaries.strideup.co/
-* **Website:** https://intermediaries.strideup.co/
+- Broker Success Team: 07981 836 999 or 07301 163 836
+- Email: brokers@strideup.co
+- Broker Portal: https://intermediaries.strideup.co
 
-**Important Notice:**
-YOUR CLIENTS HOME MAY BE REPOSSESSED IF YOU DO NOT KEEP UP PAYMENTS ON YOUR HOME PURCHASE PLAN.
+**Regulatory:** StrideUp Homes Limited is authorised and regulated by the Financial Conduct Authority (FRN: 785299). Registered in England and Wales, Company number 10848518. Registered office: Third Floor, 20 Old Bailey, London, EC4M 7AN. The Home Purchase Plan product has been certified as Shariah-compliant by Amanah Advisors.
 
----
-
-## Overview
-
-StrideUp offers Home Purchase Plan (HPP) products, which are Shariah-compliant alternatives to conventional mortgages. The HPP is a finance partner that caters to your needs, providing flexible financing solutions for residential property purchases.
-
-### Key Features
-
-* **Shariah-compliant** - Certified by Amanah Advisors
-* **Up to 90% Finance to Value (FTV)** - Maximum financing available
-* **Flexible income assessment** - Multiple income sources accepted
-* **No minimum income restriction**
-* **Maximum term:** 40 years
-* **Maximum financing:** Up to £1,500,000
+> **Warning:** Your client's home may be repossessed if they do not keep up payments on their Home Purchase Plan.
 
 ---
 
-## Financing Details
+## SECTION 1 – FINANCING PARAMETERS
 
-### Finance to Value (FTV) / Loan to Value (LTV)
-
-* **Maximum FTV:** 90% for all acceptable financing amounts (see product guide for latest availability which may be lower)
-* **New Build Houses:** Maximum 85% FTV
-* **New Build Flats:** Maximum 80% FTV
-
-### Financing Amounts
-
-* **Minimum financing:** £50,000
-* **Maximum financing:**
-  * £1,500,000 up to 70% FTV
-  * £1,000,000 up to 80% FTV
-  * £750,000 up to 90% FTV
-
-### Loan Terms
-
-* **Minimum term:** 10 years
-* **Maximum term:** 40 years
-
-### Property Values
-
-* **Minimum value:** £85,000
-* **Maximum value:** Uncapped
+- Minimum financing: £50,000.
+- Maximum financing at up to 70% FTV: £1,500,000.
+- Maximum financing at up to 80% FTV: £1,000,000.
+- Maximum financing at up to 90% FTV: £750,000.
+- Maximum FTV: 90% (see product guide for latest availability, which may be lower).
+- New build houses: maximum 85% FTV.
+- New build flats: maximum 80% FTV.
+- Minimum term: 10 years.
+- Maximum term: 40 years.
+- Minimum property value: £85,000.
+- Maximum property value: uncapped.
+- Products are not portable.
 
 ---
 
-## Applicant Requirements
+## SECTION 2 – APPLICANT ELIGIBILITY
 
-### Age Requirements
+### Age
 
-* **Minimum age:** 21 years
-* **Maximum age:** Not to exceed the 75th birthday at the end of the term based on the eldest applicant (whose income is used for affordability)
+- Minimum age: 21.
+- Maximum age: 75 at end of term (based on the eldest applicant whose income is used for affordability).
 
-### Maximum Applicants
+### Number of Applicants
 
-* **Maximum applicants:** 4 applicants per application
+- Maximum 4 applicants per application.
 
-### Residency Requirements
+### Residency
 
-* **UK Residency:** All applicants must have been UK residents for the last 2 years
-* **Joint Applications:** For a joint application where 1 applicant hasn't been resident for the required time, the application may still be considered with additional criteria
-* **Crown Employees:** Crown employees, including members of the diplomatic service working overseas, will be considered as UK residents
-* **HM Armed Forces:** Members of the British armed forces stationed overseas will be considered
+- All applicants must have been UK residents for the last 2 years.
+- Joint applications where one applicant has not met the 2-year residency requirement may still be considered with additional criteria.
+- Crown employees (including members of the diplomatic service working overseas): treated as UK residents.
+- Members of the British Armed Forces stationed overseas: considered.
 
 ### Foreign Nationals
 
-* Foreign national applicants accepted if they have permanent rights to reside or are on a visa with at least 1 year remaining
-* Residency criteria applies
+- Accepted if the applicant has permanent right to reside or is on a visa with at least 1 year remaining.
+- Residency criteria applies.
 
 ### Marital Status
 
-* We can consider a sole application even if the applicant is in a legally sanctioned relationship, for both purchases and refinances (an ILA may be required)
+- A sole application can be considered even where the applicant is in a legally sanctioned relationship, for both purchases and refinances. Independent Legal Advice (ILA) may be required.
 
 ---
 
-## Income & Affordability
+## SECTION 3 – INCOME AND AFFORDABILITY
 
-### Minimum Income
-
-* **No restriction on minimum income**
+- No minimum income restriction.
+- Foreign currency income: not accepted.
+- Expenditure evidence: latest 3 months' bank statements (further statements may be requested at underwriter discretion).
 
 ### Acceptable Income Sources (100% Considered)
 
-We can consider up to 100% of the following income sources:
-
-* **PAYE Income**
-* **Car allowance**
-* **London / regional weighting**
-* **Special duties allowance**
-* **Travel allowance**
-* **Unsocial hours payment**
-* **Second job income**
-* **Contract income**
-* **Pension income**
-* **Rental income**
-* **Maintenance payments**
-* **Child / working tax credits**
-* **Child benefit**
-* **Carer's allowance** (including foster allowance)
-* **Widowed parents Attendance**
-* **Employment & support Allowance**
-* **Universal Credit**
-* **Incapacity allowance**
-* **Industrial injuries disablement benefit**
-* **Disability living allowance**
-* **Personal independence payment**
-* **Armed forces compensation scheme**
-* **Armed forces independence scheme**
-* **Overtime**
+- PAYE income.
+- Car allowance.
+- London/regional weighting.
+- Special duties allowance.
+- Travel allowance.
+- Unsocial hours payment.
+- Overtime.
+- Second job income.
+- Contract income.
+- Pension income.
+- Rental income.
+- Maintenance payments.
+- Child/working tax credits.
+- Child benefit.
+- Carer's allowance (including foster allowance).
+- Widowed parents' attendance allowance.
+- Employment and Support Allowance.
+- Universal Credit.
+- Incapacity allowance.
+- Industrial injuries disablement benefit.
+- Disability Living Allowance.
+- Personal Independence Payment.
+- Armed Forces Compensation Scheme.
+- Armed Forces Independence Scheme.
 
 ### Income Sources (Partial Consideration)
 
-We can consider a portion of:
+- Bonus: 50%.
+- Commission: 66%.
 
-* **Bonus:** 50%
-* **Commission:** 66%
+### Employed
 
-### Employment Status
+- Minimum 3 months' employment history required (can include both current and previous roles where there are no gaps in employment).
+- Applicants during probationary period considered (excluding zero hours contracts).
 
-**Employed:**
-* A minimum of 3 months employment history is required, which can include both current and previous roles where there are no gaps in employment
-* We can consider applicants during their probationary period and who have been employed in their current job for less than 3 months (excluding zero hours contracts)
+### Zero Hours Contracts
 
-**Zero Hours Contracts:**
-* We can accept zero hour contract income where it is not the primary income source on an application
-* The applicant must have been employed on a zero hour contract within the same industry for at least 12 months
+- Accepted where not the primary income source on the application.
+- Applicant must have been employed on a zero hours contract within the same industry for at least 12 months.
 
-**Second Job:**
-* We can consider 100% of this income
-* If PAYE, our customer must have been working their primary job and second job for 6 months
-* We will need the latest P60 & 3 most recent payslips
+### Second Job
 
-**Contractor:**
-* We are flexible on how we look at contractors, and realise one size does not fit all:
-  * **First time contracting:** If less than 6 months to run on the contract, we need confirmation the applicant has been previously employed for 24 months in the same line of work
-  * **Single contract:** 3 month history of contracting is required, with a minimum 12 months history in the same industry (unless first time contracting). There must be a minimum of 3 months remaining on the contract. However, we will accept confirmation of the renewal from the employer if the next contract is not yet available
-  * **Multiple contracts:** If customer has multiple contracts, we will treat them as Sole Traders, Ltd Co Director and will request the same evidence as detailed above
-  * **Umbrella Company:** We treat contractors that are paid via an Umbrella Company, which pays tax & NI for our customer, as PAYE employed customers, so we will be looking for the latest P60 & latest 3 payslips
-  * **Medical professionals:** Whether they work under one or multiple Trusts, we will treat them as a single contractor rather than looking at the SA302s for evidence. Day rates can be considered
+- 100% of income considered.
+- If PAYE: applicant must have been working both primary and second job for at least 6 months.
+- Evidence: latest P60 and 3 most recent payslips.
 
-**Self-Employed:**
-* Most recent year's income accepted if trading for more than 2 years
-* SA302 for the last 2 years, together with the Tax Year Overview (or 1 year if trading for less than 2 years) and business bank statements
-* Where 2 years' SA302/Tax Year Overviews cannot be provided, other sources to evidence stability of income can be considered, subject to underwriter discretion
+### Contractors
+
+- First-time contracting: if less than 6 months remaining on the contract, confirmation of 24 months' previous employment in the same line of work is required.
+- Single contract: 3 months' contracting history required; minimum 12 months' history in the same industry (unless first-time contracting); minimum 3 months remaining on contract; confirmation of renewal from employer accepted if next contract is not yet available.
+- Multiple contracts: treated as sole trader or limited company director; same evidence as above required.
+- Umbrella company: treated as PAYE employed; evidence required: latest P60 and latest 3 payslips.
+- Medical professionals: treated as a single contractor regardless of whether they work under one or multiple Trusts; day rates considered; SA302s not required.
+
+### Self-Employed
+
+- Most recent year's income accepted if trading for more than 2 years.
+- Evidence: SA302 for last 2 years and Tax Year Overview (or 1 year if trading for less than 2 years), plus business bank statements.
+- Where 2 years' SA302/Tax Year Overviews cannot be provided, other evidence of income stability may be considered at underwriter discretion.
 
 ### Financing into Retirement
 
-* We can consider applications where the term is due to expire beyond age 70 to (max) age 75 years
-* Where retirement is less than 10 years away, affordability will be assessed considering the anticipated retirement income
+- Applications where the term expires beyond age 70 up to a maximum age of 75 may be considered.
+- Where retirement is less than 10 years away: affordability assessed on anticipated retirement income.
 
-**Financing into Retirement Evidence:**
-* **<10 years away from retirement age:** If pension income is to be used for affordability, we will need to see the latest pension statement which will show a forecast of the pension amount
-* **>10 years away from retirement age:** Evidence of contributions into a pension fund (including sale of other property and/or buy to let rental income) must be provided and will be reviewed on a proportionate basis
-
-### Foreign Currency Income
-
-* **Not accepted**
-
-### Expenditure
-
-* Latest 3 months' bank statements
-* Further statements may be requested at underwriter discretion
+**Evidence required:**
+- Less than 10 years from retirement: latest pension statement showing a forecast of the pension amount.
+- More than 10 years from retirement: evidence of contributions into a pension fund (including sale of other property and/or buy to let rental income), reviewed on a proportionate basis.
 
 ---
 
-## Credit History
+## SECTION 4 – CREDIT HISTORY
 
 ### Secured Arrears or Missed Payments
 
-* **1 missed payment in 36 months**
-* **0 in last 6 months**
+- Maximum 1 missed payment in last 36 months.
+- 0 in last 6 months.
 
 ### Unsecured Arrears or Missed Payments
 
-* **Worst status of 2 in last 24 months**
-* We ignore communications up to £250
+- Worst status of 2 in last 24 months.
+- Communications arrears up to £250 ignored.
 
-### County Court Judgments (CCJs)
+### CCJs
 
-* **0 in 36 months (none outstanding)**
+- 0 in last 36 months; none outstanding.
 
 ### Defaults
 
-* **0 in 36 months (none unsatisfied)**
-* We ignore communications up to £250
+- 0 in last 36 months; none unsatisfied.
+- Communications defaults up to £250 ignored.
 
 ### Payday Loans
 
-* **1 not exceeding £300 in 36 months**
-* **0 in last 12 months**
+- Maximum 1 payday loan not exceeding £300 in last 36 months.
+- 0 in last 12 months.
 
-### Debt Management Plan
+### Debt Management Plans
 
-* Must have been satisfied at least 24 months before
-* Should not relate to a credit event in the previous 60 months
+- Must have been satisfied at least 24 months before application.
+- Must not relate to a credit event in the previous 60 months.
 
 ### Guarantors
 
-* **Guarantors are not considered**
+- Not considered.
 
 ---
 
-## Property Criteria
+## SECTION 5 – PROPERTY CRITERIA
 
-### Property Location
+- England only.
+- Property must be used for the customer's own occupation; no commercial use (work from a home office or study is not considered commercial use).
+- Minimum unexpired lease: 85 years remaining at date of application.
+- Right to Buy: not accepted.
+- Retentions: not allowed, unless the property is a new build under construction (where the valuer will note a retention amount equal to the finished basis value).
 
-* **England only**
+### Accepted Property Types
 
-### Property Use
-
-* The property must be used by the customer for their own occupation
-* No commercial use is allowed (work from a home office / study is not considered commercial use)
-
-### Property Tenure
-
-* **Minimum unexpired lease:** 85 years must be remaining on the lease at the date of application
-
-### Property Types
-
-**Acceptable Properties:**
-* Standard residential properties
-* New build houses (up to 85% FTV)
-* New build flats (up to 80% FTV)
-
-**Retentions:**
-* Not allowed - unless the property is a new build under construction, whereby the valuer will note within the valuation report, a retention amount equal to the 'finished basis' value
-
-### Right to Buy
-
-* **Not accepted**
+- Standard residential properties.
+- New build houses (maximum 85% FTV).
+- New build flats (maximum 80% FTV).
 
 ---
 
-## Deposit & Equity
+## SECTION 6 – DEPOSIT AND EQUITY
+
+- 100% gifted deposit acceptable from any number of sources (including outside close family members).
+- Deposits from overseas accounts considered.
+- Builder's deposit/incentives accepted up to 5%.
 
 ### Evidence of Deposit
 
-* **Savings from income:** Latest 6 months' bank statements
-* **Sale of current home:** Memorandum of Sale together with redemption statement from current lender
-* **Gift:** Gifted deposit form from each donor
-
-### Gifted Deposit
-
-* **100% gifted deposit acceptable**, from any number of sources
-* We can consider gifted deposits outside of close family members
-
-### Overseas Deposits
-
-* Deposits from overseas accounts can be considered
-
-### Builder's Deposit
-
-* We can accept builder's deposit / incentives up to 5%
+- Savings from income: latest 6 months' bank statements.
+- Sale of current home: Memorandum of Sale and redemption statement from current lender.
+- Gift: gifted deposit form from each donor.
 
 ---
 
-## Application Types
+## SECTION 7 – APPLICATION TYPES
 
-### First-Time Buyers
-
-* **Allowed**
-
-### Remortgage / Refinance
-
-* **Accepted** where the property was last purchased or remortgaged at least 6 months ago (unless remortgaging out of bridge financing)
-
-### Capital Raising Remortgage / Refinance
-
-* **Accepted**
-
-### Porting
-
-* **StrideUp products are not portable**
+- First-time buyers: accepted.
+- Remortgage/refinance: accepted where the property was last purchased or remortgaged at least 6 months ago (unless remortgaging out of bridge financing).
+- Capital raising remortgage/refinance: accepted.
+- Porting: not available — StrideUp products are not portable.
 
 ---
 
-## Documentation Requirements
+## SECTION 8 – DOCUMENTATION REQUIREMENTS
 
-### Proof of Income: Employed
+### Employed Income
 
-* Latest P60
-* 3 most recent payslips
-* Latest bank statement showing the salary credit
-* If the applicant has just started their new role, and no payslips are available, we will accept a copy of the contract confirming the level of salary, and in addition, we will need the last 3 payslips from their previous role
+- Latest P60.
+- 3 most recent payslips.
+- Latest bank statement showing salary credit.
+- If recently started a new role with no payslips available: copy of contract confirming salary level, plus last 3 payslips from previous role.
 
-### Proof of Income: Self-Employed
+### Self-Employed Income
 
-* Most recent year's income accepted if trading for more than 2 years
-* SA302 for the last 2 years, together with the Tax Year Overview (or 1 year if trading for less than 2 years) and business bank statements
-* Where 2 years' SA302/Tax Year Overviews cannot be provided, other sources to evidence stability of income can be considered, subject to underwriter discretion
+- SA302 for last 2 years and Tax Year Overview (or 1 year if trading for less than 2 years) plus business bank statements.
+- Where 2 years' SA302/Tax Year Overviews cannot be provided: alternative evidence of income stability considered at underwriter discretion.
 
-**Note:** The website shows different requirements in different sections (6 months vs 3 months business bank statements). Please confirm with StrideUp which requirement applies, or provide both if acceptable.
+### Other Income Sources
 
-### Proof of Income: Other Sources
-
-* **Child benefit:** Most recent award letter and most recent bank statement showing the credit
-* **Working or Child Tax Credits:** Most recent award letter and most recent bank statement showing the credit
-* **Maintenance:** A copy of the maintenance agreement, received under a Court Order and latest bank statement showing the credit
-* **Pension income:** Most recent pension statement (dated within last 12 months) and latest bank statement showing the pension credit
-* **Universal credit:** Most recent award letter and most recent bank statement showing the credit
-* **State disability allowances:** Latest benefits statement and latest bank statement showing the credit
-* **Carers Allowance:** Latest award notice
-* **Widowed parents attendance:** Latest award notice
-* **Employment and support allowance:** Latest award notice
-
-### Evidence of Deposit
-
-* **Savings from income:** Latest 6 months' bank statements
-* **Sale of current home:** Memorandum of Sale together with redemption statement from current lender
-* **Gift:** Gifted deposit form from each donor
-
-### Expenditure
-
-* Latest 3 months' bank statements
-* Further statements may be requested at underwriter discretion
+- Child benefit: most recent award letter and most recent bank statement showing the credit.
+- Working or Child Tax Credits: most recent award letter and most recent bank statement showing the credit.
+- Maintenance: copy of maintenance agreement received under a Court Order and latest bank statement showing the credit.
+- Pension income: most recent pension statement (dated within last 12 months) and latest bank statement showing the pension credit.
+- Universal Credit: most recent award letter and most recent bank statement showing the credit.
+- State disability allowances: latest benefits statement and latest bank statement showing the credit.
+- Carer's Allowance: latest award notice.
+- Widowed Parents' Attendance: latest award notice.
+- Employment and Support Allowance: latest award notice.
 
 ---
 
-## Additional Information
+## SECTION 9 – IMPORTANT NOTES
 
-### Product Features
-
-* **Shariah-compliant** - Certified by Amanah Advisors
-* **Home Purchase Plan (HPP)** - Alternative to conventional mortgages
-* **Not portable** - Products cannot be ported to another property
-
-### Service Levels
-
-* Dedicated broker success team available
-* Contact via phone or email
-* Broker portal for case management
-
-### Calculators
-
-* Affordability calculators available
-* Product calculators available
-* Access via broker portal
+- All criteria subject to individual assessment.
+- StrideUp reserves the right to decline applications that do not meet lending criteria.
+- Product availability and rates are subject to change.
+- Always refer to the latest criteria guide or contact the broker success team for the most up-to-date information.
 
 ---
 
-## Notes
-
-* All criteria are subject to individual assessment
-* StrideUp reserves the right to decline applications that do not meet lending criteria
-* Product availability and rates are subject to change
-* For the most up-to-date information, refer to the latest criteria guide or contact the broker success team
-* The Home Purchase Plan is a Shariah-compliant product certified by Amanah Advisors
-
----
-
-**Document Version:** 2025
-**Source:** StrideUp Home Purchase Plan Criteria Guide
-**Website:** https://intermediaries.strideup.co/home-purchase-plan-criteria
-
+*END OF DOCUMENT*

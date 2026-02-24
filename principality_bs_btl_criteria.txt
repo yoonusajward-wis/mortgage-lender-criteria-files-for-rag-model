@@ -1,218 +1,213 @@
-LENDER NAME: Principality Building Society
-PRODUCT: Buy to Let
-
-# Principality Building Society - Buy to Let & Holiday Let Mortgage Lending Criteria
-
-**Last Updated:** 2025
-**Source:** Principality Building Society Intermediaries
-**For Intermediaries Only**
+# Principality Building Society – Buy to Let & Holiday Let Criteria
 
 ---
 
-## Document Information
+**LENDER:** Principality Building Society
+**PRODUCT:** Buy to Let & Holiday Let
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 2025
+**FOR INTERMEDIARY USE ONLY**
 
-This document contains comprehensive buy to let and holiday let mortgage lending criteria covering all topics from the Principality Building Society intermediaries website.
-
-**Website:** https://www.principality.co.uk/intermediaries/our-mortgage-lending-criteria/buy-to-let-and-holiday-let
-
----
-
-## Table of Contents
-
-This guide contains 5 main sections organized by topic:
-
-
-### General Information
-
-1. General information
-
-### Holiday Lets
-
-2. Holiday lets
-
-### Buy to Let
-
-3. Consumer Buy to Let
-4. Buy to Let
-
-### Other
-
-5. Gifted Equity
+**Source:** https://www.principality.co.uk/intermediaries/our-mortgage-lending-criteria/buy-to-let-and-holiday-let
 
 ---
 
-## General information
-
-### Mortgage term
-
-The minimum repayment term is 5 years. We will consider a maximum term of 40 years.
-
-If any element of the mortgage loan is interest only a maximum term of 25 years will be considered.
-
-For buy to let or holiday let applications the minimum lending age is 21.
-
-For buy to let or holiday let applications we consider a mortgage term until the eldest applicant's 85th birthday.
-
-Where the property is leasehold, the unexpired term of the lease at the start of the mortgage loan must be a minimum of 85 years.
-
-Please search for 'lending into retirement' for more information.
-
-### Offer period
-
-Residential and buy to let mortgage and re-mortgage offers are valid for a 180 day period (6 months), except in the case of a new build purchase, where offers are valid for 240 days (8 months).
-
-### Capital raising
-
-Capital raising is available for existing borrowers by way of further lending, Lifestyle Loan, or re-mortgage. This can help with house purchase, buy to let and further advances for home improvements, purchase of freehold and transfer of equity.
-
-We won't lend on buy to lets for debt consolidation.
-
-### Minimum loan amounts
-
-£25,000 is the minimum loan amount for a new build, buy to let or holiday let.
-
-### HMO
-
-We don't lend on houses with multiple occupancy or student lets.
-
-### Age limits
-
-**Buy to let mortgage applications including holiday lets**
-
-Applicants should be 21 years old or older. 
-All buy to let / holiday let mortgages should be repaid before the eldest applicant's 85th birthday.
-
-**Retired applicants**
-
-If lending is past the age of 70 or the applicant's intended retirement age (whichever comes first), the following applies:
-
-If retirement is more than 10 years away, and the term does not extend beyond age 75 then we will use current income for affordability purposes, as long as the customer can prove they are paying into a private pension (payslip, bank statement or pension statement accepted). 
-In all other circumstances affordability is reliant on a projected pension income. 
-For joint borrowers, where the term extends beyond the oldest borrower's 76th birthday, the underwriter must be satisfied that the loan is still affordable following the death of either borrower.
-
-For more, search for lending into retirement.
-
-### Overpayments
-
-Overpayments are available on all non-flexible residential, buy to let and holiday let mortgages.
-
-The overpayment allowance is 10% of the outstanding balance as at January 1st every calendar year.
-
-Overpayments can be made regularly or as occasional lump sums.
-
-Overpayments received above the annual allowance may incur an early repayment charge.
-
-## Holiday lets
-
-### Property
-
-We consider non-regulated holiday let applications on an advised basis. 
-
-We will accept applications from applicants who do not currently own and live in their own home.
-
-**Applicants:**
-
-* Should be 21 years old or older
-* Should have no more than 2 mortgaged holiday lets, whether in sole or joint names including the current application.
-* There is no minimum income requirement.
-
-The maximum LTV for a holiday let mortgage is 75% with the minimum property value and purchase price of £50,000 and a minimum loan size at £25,000.
-
-| Loan-to-Value | Minimum loan size | Maximum Loan Size |
-|:--------------|:------------------|:------------------|
-| 60% | £25,000 | £1,000,000 |
-| 75% | £25,000 | £750,000 |
-
-**For different lending scenarios, we will require as rental coverage:**
-
-* If the application is a £4£ re-mortgage on a property purchased on a holiday lets basis before January 2017, we will require 125% @ 7.80% as rental coverage.
-* If the application is a £4£ re-mortgage on a property purchased on a holiday lets basis after January 2017, we will require 145% @ 7.80% as rental coverage.
-
-### Rental income calculation
-
-Rental income is calculated using an average of the projected low, mid and high season weekly rental yields.
-
-This is usually multiplied by an assumed occupancy level of 30 weeks and divided by 12 months. This is then applied to the rental coverage calculation.
-
-**For example:**
-
-* High season £700, Mid season - £500, Low season - £300, Season Average = £500
-* Multiplied by 30 weeks ÷ 12mths = £1,250
-* Rental coverage calculation (RCC) is £1,250 ÷ 1.45 = £862.07
-* RCC divided by current stress rate is £862.07 ÷ 0.0780 = £11,052.18
-* RCC multiplied by 12 months is £11,052.18 x 12 = £132,626
-* Maximum lend value = £132,626
-
-Applicants can stay in the property for up to 2 months per annum.
-
-## Consumer Buy to Let
-
-### Mortgage types
-
-We will consider consumer buy to let (CBTL) applicants when:
-
-The applicant does not own other rental properties; and
-The applicant or related person has previously lived in the property or the applicant has inherited the property or the property has been received as a gift.
-
-We don't accept new applications for regulated buy to let mortgages. We do service existing accounts.
-
-## Buy to Let
-
-### Mortgage types
-
-We consider non-regulated buy to let mortgage applications on an advised basis. 
-
-Properties must have an energy performance certificate rating of E or above.  We will accept applications from applicants who do not currently own and live in their own home.
-
-**Applicants:**
-
-* Should be 21 years old or older and
-* Collectively own not more than 3 mortgaged buy to lets.
-* We consider Non-EEA applicants.
-
-There is no minimum income requirement.
-
-The maximum total borrowing must not exceed £2m including our lending. This should include any mortgages the applicant/s is included on jointly. This can exclude any residential and/or holiday let mortgages.
-
-The maximum LTV for a buy to let mortgage is 75% with the minimum property value and purchase price of £50,000 and a minimum loan size of £25,000.
-
-| Loan-to-Value | Minimum loan size | Maximum Loan Size |
-|:--------------|:------------------|:------------------|
-| 60% | £25,000 | £1,000,000 |
-| 75% | £25,000 | £750,000 |
-
-Interest Only applications are acceptable for buy to let up to 75% LTV.
-
-### Rental coverage requirements
-
-**Standard applications:**
-
-For new purchases, we will require 145% @ 5.50% as rental coverage.
-
-**For different lending scenarios, we will require as rental coverage:**
-
-* If the application is a £4£ re-mortgage on a property purchased on a BTL basis before January 2017, we will require 125% @ 5.50% as rental coverage.
-* If the application is a £4£ re-mortgage on a property purchased on a BTL basis after January 2017, we will require 145% @ 5.50% as rental coverage.
-* If the application is a re-mortgage with additional borrowing on a property purchased on a BTL basis, we will require 145% @ 5.50% as rental coverage.
-
-### Consumer Buy to Let
-
-We accept consumer buy to let applications.
-
-**Note:** The Society does not currently lend for regulated buy to let mortgage loans but continues to service existing accounts.
-
-### Lettings
-
-Lettings must be Assured Shorthold Tenancy Agreements (ASTA, England) / Written Statement of Standard Occupation Contract (WSSOC, Wales) with no more than 12 months remaining at application. Where a tenant (England) / contract holder (Wales) is continuing tenancy beyond the initial ASTA/WSSOC, a new rolling contract is acceptable. This will be verified by the solicitor in line with our mortgage conditions. All borrowers must be named on the tenancy agreement/Written Statement of Standard Occupation Contract.
-
-We won't lend on third party or sub lettings, this includes company lets and local authorities.
-
-## Gifted Equity
-
-For any purchases using gifted equity, please contact your local BDM before submitting your case.
+## SECTION 1 – MORTGAGE TERM
+
+- Minimum repayment term: 5 years.
+- Maximum total mortgage term: 40 years.
+- Maximum term where any element is interest only: 25 years.
+- For buy to let or holiday let applications, the mortgage must be repaid before the eldest applicant's 85th birthday.
+- Leasehold properties: minimum unexpired lease term at start of mortgage is 85 years.
 
 ---
 
-## Main URLs
+## SECTION 2 – OFFER PERIOD
 
-- https://www.principality.co.uk/intermediaries/our-mortgage-lending-criteria/buy-to-let-and-holiday-let
+- Residential and buy to let purchase and remortgage offers: maximum validity 180 days (6 months).
+- New build purchase offers: maximum validity 240 days (8 months).
+
+---
+
+## SECTION 3 – CAPITAL RAISING
+
+Further lending, Lifestyle Loan, or remortgage for existing borrowers is allowed.
+
+**Allowed purposes:**
+- House purchase.
+- Buy to let.
+- Further advances for home improvements.
+- Purchase of freehold.
+- Transfer of equity.
+
+- Debt consolidation on buy to let mortgages: not acceptable.
+
+---
+
+## SECTION 4 – MINIMUM LOAN AMOUNT
+
+- Minimum loan amount (new build, buy to let, holiday let): £25,000.
+
+---
+
+## SECTION 5 – HMO AND STUDENT LETS
+
+Not acceptable:
+- Houses with multiple occupancy (HMOs).
+- Student lets.
+
+---
+
+## SECTION 6 – AGE LIMITS (BUY TO LET AND HOLIDAY LET)
+
+- Minimum applicant age: 21.
+- Maximum age at end of term: mortgage must be repaid before the eldest applicant's 85th birthday.
+
+### Retired Applicants
+
+Where lending extends past age 70 or the intended retirement age (whichever comes first):
+
+If retirement is more than 10 years away AND the term does not extend beyond age 75:
+- Affordability assessed using current income.
+- Proof of payment into a private pension required (payslip, bank statement, or pension statement).
+
+In all other circumstances:
+- Affordability assessed based on projected pension income.
+
+### Joint Borrowers
+
+- Where the term extends beyond the oldest borrower's 76th birthday, the underwriter must be satisfied the loan remains affordable following the death of either borrower.
+
+---
+
+## SECTION 7 – OVERPAYMENTS
+
+- Overpayments are allowed on all non-flexible residential, buy to let and holiday let mortgages.
+- Maximum annual overpayment allowance: 10% of outstanding balance as at 1 January each calendar year.
+- Regular or lump sum overpayments are allowed.
+- Overpayments above the annual allowance may incur an early repayment charge.
+
+---
+
+## SECTION 8 – HOLIDAY LET ELIGIBILITY
+
+- Mortgage type: non-regulated holiday let (advised basis).
+- Applicants who do not currently own and live in their own home are allowed.
+- Minimum applicant age: 21.
+- Maximum number of mortgaged holiday lets: 2 (including current application, in sole or joint names).
+- No minimum income requirement.
+- Maximum LTV: 75%.
+- Minimum property value: £50,000.
+- Minimum purchase price: £50,000.
+- Minimum loan size: £25,000.
+
+### Loan Limits by LTV
+
+At 60% LTV:
+- Minimum loan: £25,000.
+- Maximum loan: £1,000,000.
+
+At 75% LTV:
+- Minimum loan: £25,000.
+- Maximum loan: £750,000.
+
+---
+
+## SECTION 9 – HOLIDAY LET RENTAL COVERAGE
+
+- Remortgage where property was purchased before January 2017 on a holiday let basis: minimum 125% at 7.80%.
+- Remortgage where property was purchased after January 2017 on a holiday let basis: minimum 145% at 7.80%.
+
+---
+
+## SECTION 10 – HOLIDAY LET RENTAL INCOME CALCULATION
+
+- Rental income is calculated as the average of projected low, mid and high season weekly rental yields.
+
+**Calculation method:**
+- Average weekly rent × 30 weeks.
+- Divide by 12 months.
+- Result applied to the rental coverage calculation.
+
+- Assumed occupancy level: 30 weeks.
+- Maximum personal use by applicant: 2 months per annum.
+
+---
+
+## SECTION 11 – CONSUMER BUY TO LET (CBTL)
+
+**Allowed when:**
+- The applicant does not own other rental properties; and
+- The applicant or a related person previously lived in the property; or
+- The applicant inherited the property; or
+- The property was received as a gift.
+
+- New regulated buy to let applications: not acceptable.
+- Existing regulated buy to let accounts: serviced.
+
+---
+
+## SECTION 12 – BUY TO LET ELIGIBILITY
+
+- Mortgage type: non-regulated buy to let (advised basis).
+- Minimum energy performance certificate (EPC) rating: E.
+- Applicants who do not currently own and live in their own home are allowed.
+- Minimum applicant age: 21.
+- Applicants may collectively own no more than 3 mortgaged buy to lets.
+- Non-EEA applicants considered.
+- No minimum income requirement.
+- Maximum total borrowing including Principality lending: £2,000,000 (includes any mortgages the applicant is party to jointly; may exclude residential and/or holiday let mortgages).
+- Maximum LTV: 75%.
+- Minimum property value: £50,000.
+- Minimum purchase price: £50,000.
+- Minimum loan size: £25,000.
+- Interest Only: allowed up to 75% LTV.
+
+### Loan Limits by LTV
+
+At 60% LTV:
+- Minimum loan: £25,000.
+- Maximum loan: £1,000,000.
+
+At 75% LTV:
+- Minimum loan: £25,000.
+- Maximum loan: £750,000.
+
+---
+
+## SECTION 13 – BUY TO LET RENTAL COVERAGE
+
+- Standard new purchases: minimum 145% at 5.50%.
+- Remortgage where property was purchased before January 2017 on a BTL basis: minimum 125% at 5.50%.
+- Remortgage where property was purchased after January 2017 on a BTL basis: minimum 145% at 5.50%.
+- Remortgage with additional borrowing on a BTL property: minimum 145% at 5.50%.
+
+---
+
+## SECTION 14 – BUY TO LET LETTINGS REQUIREMENTS
+
+Lettings must be conducted under:
+- Assured Shorthold Tenancy Agreements (ASTA) — England.
+- Written Statement of Standard Occupation Contract (WSSOC) — Wales.
+
+**Conditions:**
+- No more than 12 months remaining on the tenancy at application.
+- Rolling contract is acceptable where the tenant/contract holder continues beyond the initial ASTA/WSSOC.
+- Verified by solicitor in line with mortgage conditions.
+- All borrowers must be named on the tenancy agreement or Written Statement of Standard Occupation Contract.
+
+**Not acceptable:**
+- Third party lettings.
+- Sub-lettings.
+- Company lets.
+- Local authority lets.
+
+---
+
+## SECTION 15 – GIFTED EQUITY
+
+- For purchases using gifted equity, contact the local BDM before submitting the case.
+
+---
+
+*END OF DOCUMENT*

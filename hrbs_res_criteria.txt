@@ -1,388 +1,396 @@
-LENDER NAME: Hinckley & Rugby Building Society (HRBS)
-PRODUCT: Residential
+# Hinckley & Rugby Building Society – Residential Criteria
 
-# Hinckley & Rugby Building Society (HRBS) - Residential Lending Criteria
-**Source:** https://intermediaries.hrbs.co.uk/criteria/criteria-residential/
-**Last Updated:** 2025
+---
 
+**LENDER:** Hinckley & Rugby Building Society (HRBS)
+**PRODUCT:** Residential
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 2025
 **FOR INTERMEDIARY USE ONLY**
 
-Hinckley & Rugby Building Society is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and Prudential Regulation Authority. The Society's registration number is 206043.
+**Source:** https://intermediaries.hrbs.co.uk/criteria/criteria-residential/
 
 **Contact:**
-* **For a new case enquiry:** 01455 894084
-* **Case recently submitted:** 01455 894736
-* **Case with the underwriting team:** 01455 894738
-* **Broker Portal:** https://intermediaries.hrbs.co.uk/broker-portal/
-* **Website:** https://intermediaries.hrbs.co.uk/
+- New case enquiry: 01455 894084
+- Case recently submitted: 01455 894736
+- Case with underwriting team: 01455 894738
+- Office hours: Monday to Friday, 9:00am – 5:00pm (closed weekends and bank holidays)
+- Broker Portal: https://intermediaries.hrbs.co.uk/broker-portal/
+- Website: https://intermediaries.hrbs.co.uk
+- Contact page: https://intermediaries.hrbs.co.uk/contact-us/
 
-**Office Hours:**
-* Monday to Friday: 9:00am – 5:00pm
-* Closed on weekends and bank holidays
-
----
-
-## Overview
-
-Currently lending in England, Scotland and Wales, our residential criteria is designed to help you check if the case is likely to be accepted to Hinckley & Rugby Building Society.
-
-### Key Features
-
-* **Comprehensive criteria search tool** - Interactive tool to find specific criteria
-* **Flexible underwriting** - Individual assessment of each case
-* **Multiple product ranges** - Core mortgages, Income Flex, Credit Flex, Flex Plus, and more
-* **Specialist solutions** - JBSP, Skilled Worker Visas, Green Mortgages, Self-build
+**Regulatory:** Authorised by the Prudential Regulation Authority. Regulated by the Financial Conduct Authority and the Prudential Regulation Authority. Registration number: 206043. Currently lending in England, Scotland and Wales.
 
 ---
 
-## Core Residential Mortgages
+## SECTION 1 – CORE RESIDENTIAL MORTGAGES
 
-### Standard Residential Criteria
-
-The Society offers a comprehensive range of residential mortgage products with flexible criteria. For detailed criteria on specific topics, please refer to the interactive criteria search tool on the website or contact the intermediary team.
-
-**Key Standard Criteria:**
-* Income multiples apply (standard policy)
-* Maximum LTV varies by product and property type
-* Individual underwriting assessment for all cases
-* Comprehensive property and applicant criteria
+- Income multiples apply (standard policy).
+- Maximum LTV varies by product and property type.
+- Individual underwriting assessment for all cases.
+- Comprehensive property and applicant criteria apply.
 
 ---
 
-## Joint Borrower Sole Proprietor (JBSP)
+## SECTION 2 – JOINT BORROWER SOLE PROPRIETOR (JBSP)
 
-**Source:** https://intermediaries.hrbs.co.uk/criteria/jbsp/
+- Allows family and friends to be included on the mortgage.
+- All parties share responsibility for the mortgage.
+- Only the main purchaser is on the property deeds.
+- Applicant not party to the mortgage deed must receive Independent Legal Advice prior to completion.
+- Up to 4 borrowers.
+- Non-family members accepted.
 
-### Overview
+### Income Multiple
 
-Our enhanced Joint Borrower Sole Proprietor (JBSP) mortgage allows **family and friends** to be included on the mortgage application, boosting the amount that can be borrowed. All parties share responsibility for the mortgage, but only the main purchaser is on the property deeds.
+- 4.49x for the 2 highest earners.
+- 1x for additional applicants.
+- Tailored Term option available.
 
-**Important Note:** For applications of this nature, the applicant who will not be party to the mortgage deed must receive Independent Legal Advice prior to the completion of the mortgage.
+### Maximum LTV by Relationship
 
-### Key Features
-
-* **Up to four borrowers** on a joint application
-* **Non-family members accepted** - We can accept borrowers who are not family members
-* **Flexible income calculation** - Affordability based on an income multiple of x4.49 for the two highest earners and x1 for any additional applicants
-* **Tailored Term available** - Can add a Tailored Term element to the mortgage, allowing different applicants to share the mortgage over different timescales
-
-### Maximum LTV
-
-| Relationship to Main Applicant | Maximum LTV |
-|-------------------------------|-------------|
-| Parent | 95%* |
-| Spouse | 95%* |
-| Sister | 95%* |
-| Brother | 95%* |
-| Non-family members/other joint applicants | 80% (Must be referred to the MRC and be residential home owners.) |
-
-*When products are available.
+- Parent: 95% (when products available).
+- Spouse: 95% (when products available).
+- Sister: 95% (when products available).
+- Brother: 95% (when products available).
+- Non-family members / other joint applicants: 80% — must be referred to the MRC and must be residential homeowners.
 
 ### Tailored Term
 
-For even greater flexibility, we can add a Tailored Term element to the mortgage, allowing different applicants to share the mortgage over different timescales. This is a major advantage where there is a significant age gap between applicants, because unlike many other lenders we don't restrict all borrowers to a term that's based on the oldest applicant. Instead, we calculate what the youngest applicant can afford over the maximum term, and tailor an older applicant's contribution over a shorter term.
+- Allows different applicants to share the mortgage over different timescales.
+- Younger applicant affordability calculated over maximum term.
+- Older applicant contribution can be calculated over a shorter term.
 
 ---
 
-## Income Flex
+## SECTION 3 – INCOME FLEX
 
-**Source:** https://intermediaries.hrbs.co.uk/criteria/income-flex/
+- Available up to 95% LTV.
+- Flexible income assessment allowing inclusion of additional income sources.
 
-### Overview
+**Income types considered include:**
+- Investment income.
+- Commission.
+- Bonuses.
+- Overtime.
+- Rental income.
+- Stocks and shares income.
 
-Hinckley & Rugby's Income Flex product solution is for borrowers requiring more than just a simple average of their payslips or SA302s. With Income Flex, we can help your clients to flex their income's muscles by including various secondary sources of income.
+### Agency Workers
 
-**Key Features:**
-* **Available up to 95% LTV**
-* **Flexible income assessment** - Can consider various types of additional income
-* **Multiple income sources** - Whether the applicant is salaried, self-employed or a contractor
-* **Combination of income types** - Investment income, commission earnings, regular bonuses and overtime, rental income, and income from stocks and shares
+- Maximum LTV: 80%.
 
-### Income Flex Criteria Comparison
+### Bank Work / Locum Work
 
-| Income Type | Standard Policy | Income Flex Policy |
-|-------------|----------------|-------------------|
-| **Agency workers** | Not accepted. | Maximum of 80% LTV |
-| **Bank Work / Locum Work** | 1 year's evidence | 6 months' evidence |
-| **Benefits & Tax Credits** | Maximum 50%. | Maximum 100%. |
-| **Bonus, Commission and Overtime** | Maximum 50%. 2 years' evidence required. | Maximum 100%. 1 year's evidence required. Cannot be more than 100% of basic income. |
-| **Bursary** | Not accepted. | Maximum 100% providing there is another form of earned income on the application. |
-| **CIS Contractors** | Average income from SA302s. | Treated as PAYE if taxed at source. 3 months' payslips required. |
-| **Day Rate Contractors** | Average income from SA302s. | Contract day rate x 48 weeks. No Minimum Income and Minimum Remaining Term on Contract at least 3 months. |
-| **Fixed-term Contractors** | 12-month contract in place with at least one renewal. | 12-month contract in place, no renewal required. |
-| **Investment Income** | Not accepted. | Maximum 100%. 2 years SA302s evidence required. |
-| **Lodger Income** | N/A | Can use 100% of lodger income up to the government's current tax-free allowance (currently £7,500pa). Primary income must be more than £7,500pa. |
-| **Net Profit & Salary (Limited Company)** | Not accepted. Salary and dividends only. | Accepted. |
-| **Probation Period** | Not accepted. | Considered for borrowers where new and previous roles were similar or where borrower has been promoted. |
-| **Retained profits** | Not accepted. | Up to maximum 80% LTV. The applicant must be the main shareholder. The company must have been trading for a minimum of two years. Minimum of two years of accounts required. The share of retained profit used cannot be more than the applicant's shareholding. If salary and net profit are insufficient to meet affordability requirements, a percentage of retained profit can be used. |
-| **Second Income** | Maximum 50%. | Maximum 100%. Maximum of 55 hours per week. |
-| **Self-employed Income** | Average of 2 years SA302s up to 80% LTV, 3 years SA302a up to 95% LTV. | One years accounts/SA302s. Declining profits and loss years acceptable. Projections also permitted from an accountant. |
-| **Short-term Contracts** | Considered subject to referral. | Considered for borrowers with a 6 month contract history who have had one contract renewal. |
-| **Sports Professionals** | Considered subject to referral. | Accepted. |
-| **Stipend Income** | N/A | Use up to 100% allowable income. 12 months' evidence of payments. If primary income, consider up to Maximum 80% LTV. |
-| **Tronc Payments (Tips)** | N/A | Accept up to 100%, subject to a minimum of 12 months evidence. |
-| **Units of Dental Activity (UDA)** | Not accepted. | Value of current annual contract accepted. |
-| **Umbrella Companies** | Not accepted. | Accepted. |
-| **Zero Hour Contracts** | 3 years' evidence. Maximum 75% LTV. | 12 months' evidence. Maximum 80% LTV if it is the only or highest source of income. |
+- 6 months' evidence required.
 
-**Important:** All lending criteria is subject to full underwriting assessment.
+### Benefits and Tax Credits
+
+- Maximum 100%.
+
+### Bonus, Commission and Overtime
+
+- Maximum 100%.
+- 1 year's evidence required.
+- Cannot exceed 100% of basic income.
+
+### Bursary
+
+- Maximum 100%.
+- Another earned income required.
+
+### CIS Contractors
+
+- Treated as PAYE if taxed at source.
+- 3 months' payslips required.
+
+### Day Rate Contractors
+
+- Day rate × 48 weeks.
+- No minimum income.
+- Minimum remaining contract term: 3 months.
+
+### Fixed-Term Contractors
+
+- 12-month contract in place.
+- No renewal required.
+
+### Investment Income
+
+- Maximum 100%.
+- 2 years' SA302s required.
+
+### Lodger Income
+
+- Up to 100% up to the current tax-free allowance (£7,500 per annum).
+- Primary income must exceed £7,500 per annum.
+
+### Net Profit and Salary (Limited Company)
+
+- Accepted.
+
+### Probation Period
+
+- Considered if new and previous roles are similar or represent a promotion.
+
+### Retained Profits
+
+- Up to 80% LTV.
+- Applicant must be main shareholder.
+- Company must have been trading for a minimum of 2 years.
+- Minimum 2 years' accounts required.
+- Cannot exceed applicant's shareholding percentage.
+- Can be used if salary and net profit are insufficient.
+
+### Second Income
+
+- Maximum 100%.
+- Maximum 55 hours per week.
+
+### Self-Employed Income
+
+- 1 year's accounts/SA302s accepted.
+- Declining profits acceptable.
+- Projections permitted from an accountant.
+
+### Short-Term Contracts
+
+- Considered with 6 months' contract history and 1 renewal.
+
+### Sports Professionals
+
+- Accepted.
+
+### Stipend Income
+
+- Up to 100%.
+- 12 months' evidence required.
+- If primary income: maximum 80% LTV.
+
+### Tronc Payments (Tips)
+
+- Up to 100%.
+- Minimum 12 months' evidence required.
+
+### Units of Dental Activity (UDA)
+
+- Value of current annual contract accepted.
+
+### Umbrella Companies
+
+- Accepted.
+
+### Zero Hours Contracts
+
+- 12 months' evidence required.
+- Maximum 80% LTV if sole or highest income source.
 
 ---
 
-## Credit Flex
+## SECTION 4 – CREDIT FLEX
 
-**Source:** https://intermediaries.hrbs.co.uk/criteria/credit-flex/
+- Available up to 80% LTV.
+- Standard income multiple: 4.49x.
+- Maximum loan size: £500,000 (LTV dependent).
 
-### Overview
+### CCJs
 
-Credit Flex offers a flexible approach to providing competitive mortgage solutions to borrowers with credit issues.
+- None in last 3 months.
+- Maximum 2 between 3–36 months.
+- Total value up to £500.
 
-**Key Features:**
-* **Available to 80% LTV**
-* **Flexible credit history assessment** - Can consider various levels and recency of imperfect credit history
-* **Individual assessment** - Each case reviewed on its merits
+### Communications
 
-### Credit Flex Criteria
+- Any number of late payments (including settled default).
 
-| Credit Type | Criteria |
-|-------------|----------|
-| **County Court Judgements (CCJs)** | None within the last 3 months. Maximum 2 allowed between 3 – 36 months up to a total value of £500. |
-| **Communication** | Any number of late payments (including settled default). |
-| **Credit Card, Mail Order, Current Account, Utilities** | Up to 5 months late payments within the last 24 months. Over 24 months any number of late payments considered. |
-| **Debt Management Plans** | None registered within the last 12 months. Satisfied & discharged before completion. |
-| **Defaults – Utilities, Credit cards, Telecoms** | None within the last 3 months. Maximum total value £2,500 last 36 months. Above £2,500 please refer to the Intermediary Sales team. |
-| **Hire Purchase or Unsecured loan** | Up to 2 months late payments within the last 24 months. Up to 3 months late 24 – 36 months. |
-| **Individual Voluntary Arrangement (IVA), Debt Relief Order, Bankruptcy** | None within the last 3 years. Any historical must be satisfied. |
-| **Mortgage Or Secured Loan** | Up to 2 months late payments within the last 24 months. Up to 3 months late 24 – 36 months. |
-| **Pay Day Loans** | None within the last six months. The maximum total value of £500 last 36 months. |
+### Credit Card / Mail Order / Current Account / Utilities
 
-### Important Points to Note
+- Up to 5 months late within last 24 months.
+- Over 24 months: any number considered.
 
-* Standard income multiple of 4.49 applies
-* Maximum loan size £500,000 (LTV dependent)
-* No secured arrears permitted in the last 3 months
-* For unsecured loan payments, the latest payment must be made
-* All CCJs, defaults, and debt management plans are required to be satisfied before completion
-* No arrears on Payday Loans are accepted
-* Income type must meet our standard policy. See our Income Criteria here
-* Explanations for imperfect credit history may be requested
-* Debt consolidation is not permissible
-* Individual Voluntary Arrangement (IVA) must be satisfied for at least 3 years before application
+### Debt Management Plans
 
-**Important:** All lending criteria is subject to full underwriting assessment.
+- None registered in last 12 months.
+- Must be satisfied before completion.
+
+### Defaults (Utilities, Credit Cards, Telecoms)
+
+- None in last 3 months.
+- Maximum £2,500 total in last 36 months.
+- Above £2,500: refer to sales team.
+
+### Hire Purchase / Unsecured Loan
+
+- Up to 2 months late in last 24 months.
+- Up to 3 months late between 24–36 months.
+
+### IVA / Debt Relief Order / Bankruptcy
+
+- None in last 3 years.
+- Historical cases must be satisfied.
+
+### Mortgage or Secured Loan
+
+- Up to 2 months late in last 24 months.
+- Up to 3 months late between 24–36 months.
+
+### Payday Loans
+
+- None in last 6 months.
+- Maximum total £500 in last 36 months.
+- No arrears permitted.
+
+### Important Credit Conditions
+
+- No secured arrears in last 3 months.
+- Latest unsecured loan payment must be up to date.
+- All CCJs, defaults and DMPs must be satisfied before completion.
+- Debt consolidation not permissible.
+- IVA must be satisfied for at least 3 years before application.
+- Explanations for imperfect credit may be requested.
 
 ---
 
-## Skilled Worker Visas
+## SECTION 5 – SKILLED WORKER VISAS (RESIDENTIAL)
 
-**Source:** https://intermediaries.hrbs.co.uk/criteria/skilled-worker-visas/
+- No minimum UK residency required.
+- No minimum income requirement.
+- No minimum time remaining on visa required; if less than 6 months remaining, confirmation of extension required.
+- 1-year employment track record required.
+- Joint applications accepted where the partner holds a spousal visa.
+- Self-employed accepted.
 
-### Overview
+### LTV Limits
 
-As part of our ongoing drive to support deserving applicants who are typically neglected by most high street lenders, we've launched a range of mortgages to help skilled foreign workers own their own home or invest in the UK property market.
+- Residential lending: up to 95% LTV (restricted to 90% LTV if UK residency is less than 12 months).
+- Buy to Let lending: up to 75% LTV.
 
-### Barrier Busting Criteria
+### Accepted Visas
 
-* **No minimum residency** within the UK is required
-* **No minimum income requirements**
-* **No minimum time remaining on the Visa** is required (If there is less than six months remaining on the current visa, confirmation the applicant will seek an extension is required)
-* **1-year employment track record** is required
-* **Joint applications welcome** - We welcome joint applications on the same terms, where the partner is on a spousal visa
-* **Self-employed available** - Available to self-employed
-* **Residential lending** - Available up to a Maximum LTV of 95% (restricted to 90% LTV if residency within the UK is less than 12 months)
-* **Buy to Let lending** - Available up to 75% LTV
+- Skilled Worker.
+- Health and Care.
+- Global Talent.
+- Ancestry.
 
-### Visas That We Accept
-
-* Skilled Worker
-* Health and Care
-* Global Talent
-* Ancestry
-
-If your client holds a visa that isn't listed above, please call us on 01455 894084 to discuss their application.
+If the visa type is not listed, contact HRBS to discuss the application.
 
 ### New Build Purchases
 
-For new-build purchases, we can accept builder deposits of up to 5% with no adjustment of the purchase price for LTV purposes. This means we can offer up to 90% LTV gross to visa holders regardless of their UK residency period. Applicants simply need to match a builder's typical 5% deposit-paid deal – making a new-build more affordable.
+- Builder deposits up to 5% accepted.
+- No adjustment of purchase price for LTV.
+- Up to 90% LTV gross to visa holders regardless of residency period.
 
-### Visa Buy-to-Let Criteria
+### Visa Buy to Let
 
-* Limited Companies are not acceptable
-* Property must meet minimum Interest Coverage Ratios, Top-slicing is not permitted
-* Applicants who don't own a UK residential property will need to confirm residency status as part of their application
-* Applicants must have a minimum income of £35,000
+- Limited companies: not acceptable.
+- Must meet minimum ICR requirements.
+- Top-slicing: not permitted.
+- If no UK residential property is owned, residency confirmation required.
+- Minimum income: £35,000.
 
-### Visa Self-Employed Criteria
+### Visa Self-Employed
 
-* Available up to 90% LTV
-* A minimum of one years of accounts required
-* There must be a minimum of three months remaining on the contract
-* Applicants must be sponsored by a licensed UK employer
-* **Only the following professions can apply:**
-  * IT and technology contractors
-  * Education professionals
-  * Healthcare professionals beyond doctors and dentists (nurses, physiotherapists, paramedics, and others might work shifts or contracts with NHS trusts or care providers.)
-  * Legal professionals
-  * Architects
-  * Surveyors
-  * Engineers
+- Up to 90% LTV.
+- Minimum 1 year's accounts required.
+- Minimum 3 months remaining on contract.
+- Must be sponsored by a licensed UK employer.
 
-### Extra Need-to-Knows
+**Eligible professions:**
+- IT and technology contractors.
+- Education professionals.
+- Healthcare professionals (excluding doctors and dentists).
+- Legal professionals.
+- Architects.
+- Surveyors.
+- Engineers.
 
-* Only available on a repayment basis
-* Contractors accepted
-* Must be able to provide proof of address in the UK
-* Deposit for purchases must be held in a UK bank account
+### Additional Requirements
 
----
-
-## Flex Plus
-
-**Source:** https://intermediaries.hrbs.co.uk/criteria/flex-plus/
-
-### Overview
-
-Our Flex Plus mortgages are designed for individuals with unique or complex circumstances, such as irregular income, employment, credit issues, or unusual properties.
-
-At H&R for Intermediaries, we assess each applicant's situation individually.
-
-**Important:** These products are available for first-time buyers, new home purchases, and remortgages, but **not for existing customers renewing or borrowing more**. Due to its niche nature, it may come with a premium and is not suitable for those who meet our standard mortgage criteria.
-
-### Qualifying Scenarios for Flex Plus
-
-| Criteria | Core mortgages | Credit Flex | Income Flex | Flex Plus |
-|----------|----------------|-------------|-------------|-----------|
-| **Second home purchase – up to 90% LTV** | x | x | x | ✔ |
-| **Buying a unique or non-standard property** | x | x | x | ✔ |
-| **Concessionary purchase – up to 90%** | x | x | x | ✔ |
-| **Using family loan towards deposit** | x | x | x | ✔ |
-| **Using 100% of benefit income** | x | x | ✔ | ✔ |
-| **Using 100% of commission income** | x | x | ✔ | ✔ |
-| **Capital raise – up to 90% property value** | x | x | x | ✔ |
-| **Debt consolidation – up to 30% of property value** | x | x | x | ✔ |
-| **Income multiples – up to x4.49 for all 4 applicants** | x | x | x | ✔ |
-| **Multiple jobs and working over 55 hours per week** | x | x | x | ✔ |
-| **Combination of Income Flex and Credit Flex (Max 80% LTV)** | x | x | x | ✔ |
+- Repayment basis only.
+- Contractors accepted.
+- Proof of UK address required.
+- Deposit must be held in a UK bank account.
 
 ---
 
-## Green Mortgages
+## SECTION 6 – FLEX PLUS
 
-**Source:** https://intermediaries.hrbs.co.uk/criteria/green-mortgages/
+**Available for:**
+- First-time buyers.
+- New home purchases.
+- Remortgages.
 
-### Overview
+**Not available for:**
+- Existing customers renewing.
+- Borrowing more.
 
-Our homes account for 30% of the country's total energy use. We are keen to play our part in reducing home energy consumption by offering cost-friendly funding solutions to existing borrowers seeking to improve their EPC rating.
-
-If you're planning to renovate your property or enhance your home's energy efficiency, our green mortgages may be able to support you.
-
-We offer Green Mortgage products to borrowers pledging to use at least 50% of the additional funds for energy efficiency improvements. If your client has plans for their property, you may be eligible for a Green Mortgage.
-
-### Retrogreen Partnership
-
-The Society has partnered with green retrofit specialist **Retrogreen** to help residential and investment property owners understand their property's energy efficiency and consider the steps they might take to improve it, reduce energy consumption, and improve the property's EPC rating.
-
-Integral to the service is the ease with which people can gain an understanding of their property's current energy efficiency and create a plan for improving it.
-
-Supported financially by Hinckley & Rugby, projects can be managed end to end by Retrogreen.
-
-### What Energy Efficiency Home Improvements Qualify?
-
-| Energy-efficiency measures | Heating measures | Renewable energy generation | Property resilience measures |
-|----------------------------|------------------|----------------------------|------------------------------|
-| Insulation to existing envelope components, such as external walls, roofs, lofts, basements, and ground floors (including measures to ensure airtightness and reduce the effects of thermal bridges) | Installation and replacement of heating, ventilation, air conditioning (HVAC) and domestic hot water systems equipment related to district heating | Solar hot water | BS 851188 standard products to enhance resistance to flooding, such as flood-doors and windows, demountable barriers |
-| Energy-efficient external doors | Ground source heat pumps | Solar photovoltaic | Resilient insulation |
-| Loft insulation | Micro combined heat and power (Micro-CHP) | Rainfall capture | Enhanced resilience to flooding, such as resilient wall and floor finishes |
-| Low-energy lights | Replacement of old pumps with efficient circulating pumps | | Enhanced resistance to heatwaves such as external shutters and external insulation |
-| Tank and pipe insulation | Heating controls | | |
-| Cavity wall insulation | Air source heat pumps | | |
-| Internal wall insulation | | | |
-| Double glazing | | | |
-| Insulated render | | | |
-| External wall insulation | | | |
-| Draught proofing | | | |
+**Scenarios include:**
+- Second home purchase up to 90% LTV.
+- Unique or non-standard property.
+- Concessionary purchase up to 90%.
+- Family loan towards deposit.
+- 100% benefit income.
+- 100% commission income.
+- Capital raise up to 90% of property value.
+- Debt consolidation up to 30% of property value.
+- Income multiples up to 4.49x for all 4 applicants.
+- Multiple jobs exceeding 55 hours per week.
+- Combination of Income Flex and Credit Flex (maximum 80% LTV).
 
 ---
 
-## Additional Information
+## SECTION 7 – GREEN MORTGAGES
 
-### Interactive Criteria Search Tool
+- Available to borrowers pledging to use at least 50% of additional funds for energy efficiency improvements.
+- Retrogreen partnership available for energy efficiency assessment, EPC improvement planning and end-to-end project management.
 
-The Society provides an interactive criteria search tool on the residential criteria page that allows intermediaries to search for specific criteria by category or topic. Categories include:
+### Qualifying Improvements – Energy Efficiency
 
-* Applicant
-* Employment and Income
-* Property
-* Loan
-* Loan to Value
-* Buy To Let
-* Shared Ownership
-* Retirement Interest Only (RIO)
-* Further Advances
-* Self Build
-* Custom Build
-* Foreign Nationals
+- Insulation: walls, roofs, lofts, basements and floors.
+- External wall insulation.
+- Internal wall insulation.
+- Loft insulation.
+- Double glazing.
+- Draught proofing.
+- Energy-efficient doors.
+- Insulated render.
+- Low-energy lights.
+- Tank and pipe insulation.
+- Cavity wall insulation.
 
-### Calculators
+### Qualifying Improvements – Heating
 
-* **Residential calculator** - See what your client could borrow using our affordability calculator
-* Available at: https://intermediaries.hrbs.co.uk/resources/calculators/
+- HVAC installation/replacement.
+- Ground source heat pumps.
+- Air source heat pumps.
+- Heating controls.
+- Efficient circulating pumps.
+- Micro-CHP.
 
-### Product Categories
+### Qualifying Improvements – Renewables
 
-* Core Mortgages (incl. JBSP)
-* Income Flex Mortgages
-* Credit Flex Mortgages
-* Flex Plus Mortgages
-* Skilled Worker Visa Mortgages
-* Green Mortgages
-* Self-build solutions
-* Tailored Term Mortgages
+- Solar hot water.
+- Solar photovoltaic.
+- Rainfall capture.
 
-### Application Process
+### Qualifying Improvements – Resilience
 
-For information on the application process, please visit: https://intermediaries.hrbs.co.uk/resources/application-process/
-
-### Resources
-
-* **FAQs** - Available at: https://intermediaries.hrbs.co.uk/resources/faqs/
-* **Product Transfers** - Information available on the website
-* **Manage/Submit Case** - Broker portal available
+- Flood-resistant doors and windows (BS 851188).
+- Demountable barriers.
+- Resilient insulation.
+- Resilient wall and floor finishes.
+- Heatwave resistance measures (external shutters, external insulation).
 
 ---
 
-## Contact Information
+## SECTION 8 – IMPORTANT NOTES
 
-### Intermediary Sales Team
-
-* **For a new case enquiry:** 01455 894084
-* **Case recently submitted:** 01455 894736
-* **Case with the underwriting team:** 01455 894738
-* **Office Hours:** Monday to Friday, 9:00am – 5:00pm
-* **Closed:** Weekends and bank holidays
-
-### Additional Contact Options
-
-* **Email:** Available through contact form on website
-* **LiveChat:** Available on website
-* **Business Development Managers:** Available - contact details on website
-* **Contact Page:** https://intermediaries.hrbs.co.uk/contact-us/
+- All lending subject to full underwriting assessment.
+- Criteria may vary by product and individual circumstances.
+- Additional product-specific criteria may apply.
+- The Society reserves the right to decline applications not meeting criteria.
+- Always verify the latest criteria prior to submission.
 
 ---
 
-## Important Notes
-
-* All lending criteria is subject to full underwriting assessment
-* Criteria may vary by product and individual circumstances
-* Always check the latest criteria on the website or contact the intermediary team for specific cases
-* Some products may have additional criteria not listed here
-* For cases outside standard criteria, contact HRBS for consideration
-* The Society reserves the right to decline applications that do not meet their lending criteria
-
----
-
-**Last Updated:** 2025
-**Source:** https://intermediaries.hrbs.co.uk/criteria/criteria-residential/
-**Company Registration:** 206043
-**Regulatory Authority:** Prudential Regulation Authority and Financial Conduct Authority
-
+*END OF DOCUMENT*

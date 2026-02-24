@@ -1,591 +1,281 @@
-LENDER NAME: Teachers Building Society
-PRODUCT: Combined
-
-# Teachers Building Society - Combined Lending Criteria
-
-**Last Updated:** 2025  
-**Source:** [Teachers Building Society Intermediaries - Lending Criteria](https://www.teachersbuildingsociety.co.uk/intermediaries/standard-mortgages/lending-criteria)  
-**For Intermediaries Only**
+# Teachers Building Society – Combined Lending Criteria (Residential and Buy to Let)
 
 ---
 
-## Document Information
+**LENDER:** Teachers Building Society
+**PRODUCT:** Combined – Standard Mortgages (Residential) and Buy to Let / Holiday Let
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 2025
+**FOR INTERMEDIARY USE ONLY**
 
-This document contains comprehensive lending criteria for Teachers Building Society, including standard residential mortgages and buy-to-let mortgages. The criteria covers TFI Standard Mortgages applicable to teachers and those of other professions.
+**Source:** https://www.teachersbuildingsociety.co.uk/intermediaries/standard-mortgages/lending-criteria
 
----
-
-## Table of Contents
-
-This guide contains criteria sections organized by topic:
-
-### General Information
-
-- Need To Know
-- TFI Standard Mortgages - Lending Criteria
-- Age
-- Applicants
-- Commitments
-- Credit History
-- Geographical Restrictions
-- Guarantor
-- Residency
-- Term
-
-### Income and Affordability
-
-- Income
-- Primary Income Types
-- Secondary Income Types
-- Future Income
-- Pay Rises
-- Interest Only
-- Maternity
-
-### Deposits and Fees
-
-- Deposit
-- Fees
-- Forces Help to Buy
-- Help to Buy
-- New Build
-
-### Loan Details
-
-- Loan Purpose
-- Loan Size
-- LTV Restrictions
-- Capital Raising
-
-### Property
-
-- Property Types
-- Leasehold
-- Right to Buy
-- Sale Under Value
-- Second Home
-- Shared Ownership
-- Warranty Types (New Builds)
-
-### Special Circumstances
-
-- Dependants
-- Family Assist (JBSP)
-- Foreign Currency Mortgages
-- Foreign Nationals
-- Retirement
-- Self-Employed
-
-### Credit and Financial History
-
-- Pay Day Loans
-
-### Buy to Let
-
-- Standard BTL (Lending on AST Basis) & Standard Holiday Lets
-- Additional Criteria Specific to Standard BTL
-- Additional Criteria Specific to Standard Holiday Lets
+**Affordability check:** 0800 378669
 
 ---
 
-## Need To Know
-
-**Need a quick affordability check?** No problem. Give us a call on **0800 378669**
+## PART A – RESIDENTIAL CRITERIA
 
 ---
 
-## TFI Standard Mortgages - Lending Criteria
+## SECTION 1 – APPLICANT ELIGIBILITY
 
-Below you'll find details of lending criteria for the standard mortgage range available from TFI, applicable to teachers and those of other professions.
+- Minimum age: 18.
+- Maximum age: 83 at end of term (see Help to Buy and Shared Ownership for product-specific limits).
+- Maximum applicants: 4 per application.
+- All applicants must reside in the property at completion, except where a family member is assisting (see Family Assist / JBSP).
+- 100% income from 2 earners can be used with 50% of one further applicant.
+- Where a couple are married or in a long-term relationship (co-habited 12 months or more), both parties must be named on the mortgage except where an applicant does not have permanent rights to reside in the UK. Affordability is based on the number of people residing in the property (see Dependants).
+- Residency: applicants must have resided in the UK for 6 months. For non-UK nationals see Foreign Nationals.
+- Geographical restrictions: lending in England and Wales only, excluding islands off Great Britain (other than Isle of Wight and Anglesey).
+- Guarantor: not available.
 
----
+### Foreign Nationals
 
-## Age
+- EU, EEA or Switzerland, resident in UK prior to 31 December 2020: must have been granted settled status; evidence required.
+- Outside EU/EEA/Switzerland, or arrived from EU/EEA/Switzerland after 31 December 2020: proof of indefinite leave to remain, permanent rights of residency or settled status required.
+- Copy of passport and/or residence permit including Home Office/Immigration stamp or confirmation of settled status must be provided.
+- All applicants must have lived in the UK for a minimum of 6 months prior to application.
 
-- Minimum age: 18
-- Maximum age: 83 (at end of term)
+### Dependants
 
-For Help to Buy and Shared Ownership, see relevant sections below.
-
----
-
-## Applicants
-
-- Maximum of 4 applicants per application
-- All applicants must reside in the property at completion, except where a family member is looking to assist. Refer to Family Assist (JBSP)
-- 100% income from 2 earners can be used with 50% of one further applicant
-- Where a couple are married or in a long-term relationship (co-habited for a period of 12 months or more) both parties must be named on the mortgage except where an applicant does not have permanent rights to reside in the UK. In all cases, affordability is based on the number of people residing in the property (refer to Dependants)
-
----
-
-## Commitments
-
-Financial commitments such as loans and credit cards can be excluded where these have less than 6 months to run or are to be repaid at completion. Hire Purchase agreements can only be excluded in cases when these will not need to be replaced/renewed.
-
-Childcare costs can be reduced/excluded where it is clear these will cease or reduce within the next 6 months due to:
-- The child's age
-- A change in the employment circumstances of an applicant which have been taken into account for affordability
-- Applicants are relocating closer to family in order to assist with childcare
-
-In all cases, full details must be provided.
+- Household composition for affordability: number of adults and children who will reside in the property on a regular basis after completion, regardless of employment status.
+- Adults over 18 not on the mortgage (e.g. adult children, short-term partners, lodgers) can be excluded where applicant confirms they are self-sufficient and do not add to household expenditure.
+- Child at university not residing during term time: include support as committed expenditure (childcare/school fees).
 
 ---
 
-## Credit History
+## SECTION 2 – CREDIT HISTORY
 
-- No IVA or Bankruptcy Order having been in force or outstanding at any time within the last 5 years
-- No repossession in last 6 years
-- No CCJs outstanding in the last 3 years
-- No defaults outstanding in last 3 years (single defaults for communication suppliers ignored if under £100)
-- No debt management plans outstanding in last 2 years
-- No missed mortgage payments in the last 3 years or, in the case of existing customers, up to 2 consecutive missed mortgage payments can be considered within the last 2 years subject to none in the last 6 months
-- No missed loan payments in the last 12 months and no more than 2 consecutive missed loan payments within the last 2 years
-- No more than 1 missed credit card payment in the last 3 months and no more than 2 consecutive missed credit card payments in the last 2 years
-- Poor conduct of current accounts including exceeding/reliance on overdrafts, returned payments and adverse spending habits such as gambling may impact our ability to lend. Please refer with full details.
-
----
-
-## Deposit
-
-A minimum of 5% deposit from an applicant's personal funds or gift is required in addition to any funds received under government loan schemes (see Help to Buy), forces help to buy (see Forces Help to Buy) or builders' incentives (see New Build).
-
-Private vendor deposits are not acceptable.
-
-Deposit funds raised by an applicant through an unsecured loan facility (e.g. personal loan with a bank) are not acceptable.
-
-Where a gifted deposit is being provided, the Society's pro forma gifted deposit form must be completed. The person providing the gift is limited to parents, grandparents, siblings, aunts and uncles.
-
-Gifted deposits are allowed only from EU countries, United States of America, Canada, Australia and New Zealand. Other countries will be at the discretion of the Credit Committee.
-
-If the deposit is from outside the UK, this must be evidenced via the applicant's UK bank account and, if the country is non UK speaking, a certified translation should be obtained.
-
-The Society will accept gifted deposits that are subject to a 2nd charge subject to the following:
-- No other interest or claim will be made upon the property
-- The funds are from a family member
-- The only condition is repayment of the original sum of the funds being gifted upon the sale of property and is not subject to any interest, charges or repayments
-
-Where the property is being sold to the applicant at a reduced purchase price and the deposit is, in effect, equity, regardless of whether the full or reduced purchase price is recorded on the Transfer Deed - please refer to Sale Under Value.
+- No IVA or Bankruptcy Order in force or outstanding at any time within the last 5 years.
+- No repossession in the last 6 years.
+- No CCJs outstanding in the last 3 years.
+- No defaults outstanding in the last 3 years (single defaults for communication suppliers ignored if under £100).
+- No debt management plans outstanding in the last 2 years.
+- No missed mortgage payments in the last 3 years; for existing customers up to 2 consecutive missed mortgage payments can be considered within the last 2 years subject to none in the last 6 months.
+- No missed loan payments in the last 12 months and no more than 2 consecutive missed loan payments within the last 2 years.
+- No more than 1 missed credit card payment in the last 3 months and no more than 2 consecutive missed credit card payments in the last 2 years.
+- Poor conduct of current accounts (exceeding/reliance on overdrafts, returned payments, adverse spending e.g. gambling) may impact lending — refer with full details.
+- Payday loans: not acceptable if used in the last 12 months.
 
 ---
 
-## Dependants
+## SECTION 3 – INCOME AND AFFORDABILITY
 
-For affordability purposes, the household composition is based on the number of adults and children who will reside in the property on a regular basis following completion, regardless of their employment status.
+- Maximum 5× LTI; all income annualised.
+- Minimum income: one applicant must earn a minimum of £13,000 per annum.
+- 3 months' bank statements required for all applicants showing relevant salary credits.
 
-Adults over the age of 18 not named on the mortgage such as adult children, short-term partners and lodgers can be excluded where it is confirmed by the applicant they are self-sufficient and do not add to household expenditure.
+### Commitments
 
-Where an applicant is committed to supporting a child at University who will not reside in the property during term time, the expenditure should be included as committed expenditure item childcare/school fees.
-
----
-
-## Family Assist (JBSP)
-
-A non-occupying applicant can be named on the mortgage, and be used to assist with affordability, but not be a legal owner of the property (referred to as Joint borrower/sole proprietor) subject to the following:
-- Max LTV 80%
-- The non-occupying applicant(s) being a parent(s)/grandparents(s) of one of the occupying applicants
-- The number of non-occupying applicants not to exceed 2
-- With a maximum of 4 applicants on the mortgage in total
-- 100% of the income, allowed under policy, from all applicants can be used for affordability purposes
-- The affordability assessment to be compliant with MCOB and cover expenditure for both the applicants and the parent(s)/grandparent(s) households
-- A recommendation to be included in the mortgage offer that the parties to the mortgage discuss/agree their personal future 'exit' plans separately to the legal requirements/obligations under the mortgage
-
-The Society receiving independent legal advice that:
-- The applicant understands that they will have no beneficial interest in the property
-- Acknowledges that they are joint and severally liable for payments on the full mortgage if the Sole Proprietor is unable to make them at any point during the mortgage term
-- Is not a vulnerable individual, or has been coerced into agreeing to be a joint borrower
-- It has been highlighted that there could be a reduction in the value of their own estate by virtue of funding a property they won't own and the potential for family disputes (siblings set against one another)
-- They have been recommended to take independent tax advice
-
-Lending will be on the basis of specific 'Family Assist' products which have been appropriately risk priced by the Product Governance Committee. The assistance cannot be used in conjunction with any other home ownership scheme such as shared ownership or help to buy.
-
-**Note:** Where a parent(s)/grandparent(s) requests to be named as joint legal owner this is permitted, with all above criteria points available to the parent(s)/grandparent(s), with the requirement for independent legal advice removed. In this instance it will be necessary for the Solicitors acting for the parent(s)/grandparent(s) to confirm that: The parent(s)/grandparent(s) understand that they will be joint and severally liable for payments on the full mortgage even of the child is unable to make them at any point during the mortgage term.
-
----
-
-## Fees
-
-Application fees and valuation fees cannot be added to the loan.
-
-Arrangement fees can be added subject to this not increasing the level of borrowing beyond the LTV applicable to the product sold where this is at 90% or 95%. For 80% products fees can be added to the loan and remain on an <=80% LTV product even if it takes the LTV over 80%, but must be covered by MIG (and will be reported as a >80% LTV with insurance).
-
----
-
-## Forces Help to Buy
-
-Deposit provided under the Forces Help to Buy scheme are acceptable. The deposit is provided interest free repayable in monthly instalments over a 10 year period. The instalment should be classed as a financial commitment for affordability purposes.
-
-The scheme can be used in conjunction with other affordable housing schemes subject to the applicant providing a 5% deposit in the form of savings or a gift from a family member.
-
----
-
-## Foreign Currency Mortgages
-
-This Society does not lend on mortgages classed as a Foreign Currency Mortgage under MCOB/MCD.
-
----
-
-## Foreign Nationals
-
-Applicants from the EU, EEA or Switzerland, who resided in the UK prior to 31st December 2020, must have been granted settled status in the UK and provide evidence of the same.
-
-For applicants outside of the EU, EEA or Switzerland, or who arrived from the EU, EEA or Switzerland after 31 December 2020, proof of indefinite leave to remain, permanent rights of residency or settled status is required.
-
-A copy of the customer's passport, and or residence permit, including the relevant Home Office/Immigration Department stamp or confirmation of settled status must be provided.
-
-All applicants must have lived in the UK for a minimum of 6 months prior to application.
-
----
-
-## Geographical Restrictions
-
-Lending is permitted in England and Wales, excluding islands off of Great Britain (other than the Isle of Wight and Anglesey).
-
----
-
-## Guarantor
-
-Not available.
-
----
-
-## Help to Buy
-
-The Society will accept applications for HTB England, Wales & England administered through the Homes and Communities Agency.
-
-- Customer must provide 5% deposit in addition to any equity loan received
-- Maximum age at end of term is 70, or retirement date if earlier
-- Where the equity loan has less than 15 years to run, consideration of how the equity loan will be repaid must be included in the assessment of affordability
-
----
-
-## Income
-
-Max 5x LTI. All income should be annualised.
-
-**Minimum Income:** One applicant must earn a minimum of £13K pa
-
-**Note:** 3 months bank statements are required for all applicants showing relevant salary credits.
+- Loans and credit cards can be excluded where they have less than 6 months to run or are to be repaid at completion. Hire Purchase can only be excluded when it will not need to be replaced/renewed.
+- Childcare costs can be reduced/excluded where they will cease or reduce within 6 months (e.g. child's age, change in employment, relocating closer to family for childcare). Full details must be provided.
 
 ### Primary Income Types (100% of income can be used)
 
-| Income Type | Conditions | Evidence |
-|------------|-----------|----------|
-| **Permanent Employment – basic salary** | Those employed on a permanent, open ended contract. Accepted within probation period excluding temp to perm. | Last 3 months payslips if available or available payslips and Signed Contract or letter of confirmation of employment previously sent to applicant. |
-| **Employed by family business** | Where shareholding is less than 20% applicant must have been employed by the firm for 3 months on the salary used for affordability and the level of income must be consistent for the type of work/experience of the applicant. Where the applicants shareholding is 20% or more treat as self employed. | Last 3 months payslips & last 3 months bank statements. |
-| **Newly Qualified Teacher (1 year contract)** | Contract must be 1 year fixed term contract. Where 1 year fixed term contract offered as Maternity cover, and contract states can be ended earlier on return of post holder, this is acceptable subject to the Head Teacher confirming it is anticipated employment will run for the full academic year. Where an NQT has yet to start employment evidence they have passed their PGCE is required prior to offer. | Last 3 months payslips if available or available payslips and Signed Contract. |
-| **Fixed term contract (PAYE)** | 12 months contract history with current employer, or for qualified teachers 12 months current history of teaching, with 6 months remaining on current contract at application. Alternatively 18 months contract history in same line of work and 6 months remaining on current contract at application. | Last 3 months payslips and copy of signed current and previous contracts covering the required periods. Completion or contractor Declaration. |
-| **Self Employed** | Average of last 2 years Self Assessment Tax Calculation (SA302). Most recent income proofs no more than 18 months before the date of the application. Where there is a variation of more than 20% from one year to another an explanation must be provided. Greater flexibility may be considered for HNW / higher earning clients under our specialist lending range. | Last 2 years SA302 plus Tax Year Overviews. In addition for LTD companies last 2 years full accounts signed by a suitably qualified accountant. |
-| **Music Teachers** | 6 months history required. Combination of, or either, employed and self employed income can be used. Average of last 6 months annualised. | Evidence of last 6 months income. |
-| **Supply** | 2 Academic terms in area purchasing. Take total pay earned over last 2 terms, divide by total number of available weeks in terms and times by 38. | Payslips covering 2 academic terms. Completion of supply worker declaration. |
-| **Bank Nurse** | 6 months history in area purchasing. Average of last 6 months annualised. | Last 6 months payslips. |
-| **Locum** | 6 months history in area purchasing. Average of last 6 months annualised. | Last 6 months payslips. |
-| **Private/company pensions and annuities** | Must be payable for duration of mortgage. See Retirement. | **Projected:** Full Pension projection from the pension company confirming the pension amount and period that pension will be paid. **Current:** Last 3 months bank statement evidencing the payment from the pension company together with full annuity/pension letter confirming pension amount and period that pension will be paid. Note: Pension/annuity letter may not be handwritten or amended and must show the applicant's name and address which must match that stated on the application form it should also show pension/annuity company's name, address, telephone number and company's registration number (if Limited) and be on headed paper or show company stamp. Completion of lending into retirement declaration. |
-| **State Pension** | See Retirement. | Payments evidenced from last 3 months bank statements for assessing future affordability in retirement. Individual personal projection through Government web site required showing customer NI number. Completion of lending into retirement declaration. |
-| **Car Allowance** | Shown on last 3 months payslips. | Last 3 months payslips. |
-| **Regular Shift Allowance** | Average of last 3 months payslips. | Last 3 months payslips. |
-| **TLR (Teacher Learning & Responsibility)** | Shown on last 3 months payslips. | Last 3 months payslips. |
-| **Mortgage Subsidy** | Shown on last 3 months payslips. | Last 3 months payslips. |
-| **London Weighting/Large town Allowance** | Shown on last 3 months payslips. | Last 3 months payslips. |
-| **Child Benefit*** | *Not available where either applicants income exceeds £50K. Available where the child is aged 13 or under at point of application. | Payments evidenced from bank statements. |
-| **Second Job – where zero hours/temporary** | Restricted to 60%. Must meet conditions for type of employment and been carried out in conjunction with main job for period of 3 months. | Last 3 months payslips. |
-| **Cabin Crew Allowance** | Average of last 3 months payslips. | Last 3 months payslips. |
-| **Flight Attendance Allowance** | Average of last 3 months payslips. | Last 3 months payslips. |
-| **NHS Banding/Enhanced Pay** | Average of last 3 months payslips. | Last 3 months payslips. |
-| **Other allowances which are consistent** | Excluding expenses. For workers employed by the NHS and Police 100% of all income can be used. Average of last 3 months payslips. | Last 3 months payslips. |
-| **Stipend received by Clergy** | | Last 3 months payslips or bank statement entries. |
+- **Permanent employment (basic salary):** permanent, open-ended contract; accepted within probation excluding temp-to-perm. Evidence: last 3 months payslips, or available payslips and signed contract or letter of confirmation.
+- **Employed by family business:** shareholding less than 20% — must have been employed 3 months on salary used; income consistent with work/experience. Shareholding 20% or more: treat as self-employed. Evidence: last 3 months payslips and bank statements.
+- **Newly Qualified Teacher (1 year contract):** must be 1-year fixed term. Maternity cover with clause allowing earlier end acceptable if Head Teacher confirms employment anticipated for full academic year. NQT not yet started: evidence of passed PGCE required prior to offer. Evidence: last 3 months payslips or available payslips and signed contract.
+- **Fixed-term contract (PAYE):** 12 months contract history with current employer (or for qualified teachers 12 months current teaching history) with 6 months remaining on current contract at application; or 18 months contract history in same line of work and 6 months remaining. Evidence: last 3 months payslips, copy of signed current and previous contracts, completion of contractor declaration.
+- **Self-employed:** average of last 2 years SA302; most recent proofs no more than 18 months before application. Variation more than 20% year to year requires explanation. Greater flexibility for HNW/higher earners under specialist lending. Evidence: last 2 years SA302 plus Tax Year Overviews; for Ltd companies last 2 years full accounts signed by suitably qualified accountant.
+- **Music teachers:** 6 months history; employed and/or self-employed; average of last 6 months annualised. Evidence: last 6 months income.
+- **Supply:** 2 academic terms in area purchasing; total pay over last 2 terms ÷ total available weeks in terms × 38. Evidence: payslips covering 2 academic terms; supply worker declaration.
+- **Bank nurse:** 6 months history in area purchasing; average of last 6 months annualised. Evidence: last 6 months payslips.
+- **Locum:** 6 months history in area purchasing; average of last 6 months annualised. Evidence: last 6 months payslips.
+- **Private/company pensions and annuities:** must be payable for duration of mortgage (see Retirement). Evidence: projected — full pension projection; current — last 3 months bank statement plus full annuity/pension letter (name, address, company details, on headed paper). Lending into retirement declaration required.
+- **State pension:** see Retirement. Evidence: last 3 months bank statements; individual personal projection via Government website (NI number); lending into retirement declaration.
+- **Car allowance:** shown on last 3 months payslips.
+- **Regular shift allowance:** average of last 3 months payslips.
+- **TLR (Teacher Learning & Responsibility):** shown on last 3 months payslips.
+- **Mortgage subsidy:** shown on last 3 months payslips.
+- **London weighting / large town allowance:** shown on last 3 months payslips.
+- **Child benefit:** not available where either applicant's income exceeds £50,000. Available where child aged 13 or under at application. Evidence: bank statements.
+- **Second job (zero hours/temporary):** restricted to 60%; must meet conditions for employment type and carried out with main job for 3 months. Evidence: last 3 months payslips.
+- **Cabin crew allowance, flight attendance allowance, NHS banding/enhanced pay, other consistent allowances (excluding expenses):** average of last 3 months payslips. For NHS and Police workers 100% of all income can be used.
+- **Stipend (clergy):** evidence: last 3 months payslips or bank statement entries.
 
-### Secondary Income Types (60% of income can be used. Must be supported by a Primary Income type)
+### Secondary Income Types (60% of income; must be supported by a primary income type)
 
-| Income Type | Conditions | Evidence |
-|------------|-----------|----------|
-| **Overtime** | For workers employed by NHS or Police 100% can be used. Average of last 3 months to be used. | Last 3 months payslips. |
-| **Monthly Commission/Bonus** | Average of last 3 months to be used. | Last 3 months payslips. |
-| **Quarterly Commission/Bonus** | Average of last 2 quarters to be used. | Payslip showing last 2 quarterly payments. |
-| **Annual Commission/Bonus** | Greater flexibility may be considered for HNW / higher earning clients or financial services employees under our specialist lending range. | Payslip showing last annual payment. |
-| **Child Maintenance** | Available where the child is aged 13 or under at point of application. Must be on each of last 3 months bank statements. Where amount varies use lowest amount. Not available on lending over 90% or shared ownership. | Evidenced from last 3 months banks statements. |
-| **Zero Hours/Temporary Contracts** | 12 months employment history must be evidenced with same employer or in same type of work. | Last 12 months payslips. |
-| **Lodger Income** | Re-mortgage only. Lodger must not be related to applicants and must sign consent to mortgage form. Not available on lending over 90% or shared ownership. | Evidenced from last 3 months bank statements. |
-| **Tax Credits** | Lowest Projected figures contained in the award notice to be used. Available where the child is aged 13 or under at point of application. Award notice must reflect, broadly, circumstances under which mortgage is applied under for relationship status, income and childcare costs. Not available on lending over 90% or shared ownership. | Full Tax Credit Award Notice. |
-| **Stipend / Bursary** | 12 months remaining. Not available on lending over 90% or shared ownership. | Letter confirming amount, frequency and award period. |
-| **DLA/PIP** | Must be in relation to the applicant or a dependant. Not available on lending over 90% or shared ownership. | Evidenced from last 3 months bank statements and award letter. |
+- **Overtime:** for NHS or Police 100% can be used. Average of last 3 months. Evidence: last 3 months payslips.
+- **Monthly commission/bonus:** average of last 3 months. Evidence: last 3 months payslips.
+- **Quarterly commission/bonus:** average of last 2 quarters. Evidence: payslip showing last 2 quarterly payments.
+- **Annual commission/bonus:** greater flexibility for HNW/financial services under specialist lending. Evidence: payslip showing last annual payment.
+- **Child maintenance:** child aged 13 or under; must be on each of last 3 months bank statements; use lowest amount if varies. Not available over 90% LTV or shared ownership. Evidence: last 3 months bank statements.
+- **Zero hours/temporary contracts:** 12 months employment history with same employer or same type of work. Evidence: last 12 months payslips.
+- **Lodger income:** remortgage only; lodger not related to applicants; must sign consent to mortgage form. Not available over 90% LTV or shared ownership. Evidence: last 3 months bank statements.
+- **Tax credits:** use lowest projected figures from award notice; child aged 13 or under; award notice must reflect relationship status, income, childcare. Not available over 90% LTV or shared ownership. Evidence: full Tax Credit Award Notice.
+- **Stipend/bursary:** 12 months remaining. Not available over 90% LTV or shared ownership. Evidence: letter confirming amount, frequency and award period.
+- **DLA/PIP:** must relate to applicant or dependant. Not available over 90% LTV or shared ownership. Evidence: last 3 months bank statements and award letter.
 
-### Future Income
+### Future Income and Pay Rises
 
-**NEWLY QUALIFIED TEACHERS**
+- **Newly Qualified Teachers:** can complete 2 months before role commences subject to evidence of passed PGCE prior to mortgage offer.
+- **Other applicants:** where new employment is commencing, completion unaffected if affordable on both current and future salary. Where affordability relies on new salary, completion can be 2 months before new role if applicant currently in employment. Family business: 3 months employment history (payslips and bank statements) required.
+- **Pay rises:** most recent payslip showing increase or award letter. Family business: 3 months history of pay increase (payslips and bank statements).
 
-Newly Qualified Teachers can complete 2 months before their role commences subject to evidence being received that they have passed their PGCE prior to the mortgage offer being issued.
+### Maternity
 
-**OTHER APPLICANTS**
+- If returning to work within 2 months: full pay can be used subject to reference.
+- Otherwise: full affordability on future plans (e.g. after maternity, childcare costs) with evidence of ability to make mortgage payments whilst on maternity.
 
-Where an applicant is commencing new employment completion is unaffected subject to the mortgage being affordable on both the current salary and future salary. Where affordability is reliant on the new salary completion can take place 2 months before the new role commencing subject to the applicant being currently in employment. For applicants employed by a family business 3 months employment history evidenced by payslips and bank statements is required.
+### Retirement
 
----
+- Where mortgage term exceeds age 70 or retirement date (whichever earlier), affordability must be met on pre- and post-retirement income. Pension income evidenced by bank statements (current) or projections (future).
+- Already retired or term goes into retirement or exceeds age 70: maximum age at end of term 83; maximum 70% LTV; Lending into Retirement Declaration required (intermediary cases).
+- Greater flexibility for HNW/higher earners under specialist lending.
 
-## Pay Rises
+### Interest Only
 
-Where an applicant has been awarded a pay rise with their current employer the most recent payslip showing the increase or award letter sent to the applicant must be provided. For applicants employed by a family business 3 months history of the pay increase must be evidenced by payslips and bank statements.
+- Considered for HNW/higher earning clients under specialist lending range.
 
----
+### Foreign Currency Mortgages
 
-## Interest Only
-
-Interest only is considered for HNW / higher earning clients under our specialist lending range.
+- The Society does not lend on mortgages classed as Foreign Currency Mortgages under MCOB/MCD.
 
 ---
 
-## Leasehold
+## SECTION 4 – DEPOSITS AND FEES
 
-For new build properties, we require that the lease should be a minimum of 125 years.
-
-For properties owned previously, a minimum term outstanding on the lease when the mortgage starts should be 80 years.
-
-Ground rent should not exceed 0.25% of the market value of the property. Example: If the market value of the property is £150,000, the initial ground rent cannot exceed £375 per year (e.g. £150,000 x 0.25% = £375).
-
-If the lease contains a clause confirming that ground rent can be reviewed, we require that:
-- The reviews cannot occur more frequently than once every 10 years
-- Any increases should be limited to the rate of inflation as measured by the Retail Price Index (RPI) or equivalent
-
-If event fees are charged for changing the terms of the lease (e.g. to extend or alter the property), Teachers Building Society requires that the fees must be based on reasonable cost of the administration of such changes.
-
----
-
-## Loan Purpose
-
-- House purchase available up to 95%
-- Remortgage available up to 95%
-- Remortgage with capital raising available up to 90%
-- Capital raising acceptable for home improvements, debt consolidation and for releasing equity to provide a deposit for a separate house purchase by the applicants or their children, grandchildren
-- Capital raising is not permitted where the funds are for business purposes
+- Minimum 5% deposit from applicant's personal funds or gift required, in addition to government loan schemes (Help to Buy), Forces Help to Buy or builders' incentives (New Build).
+- Private vendor deposits not acceptable.
+- Deposit from unsecured loan (e.g. personal loan) not acceptable.
+- Gifted deposit: Society pro forma gifted deposit form required. Donor limited to parents, grandparents, siblings, aunts and uncles. Allowed only from EU, USA, Canada, Australia and New Zealand; other countries at Credit Committee discretion. If from outside UK: evidence via applicant's UK bank account; certified translation if country is non-English-speaking.
+- Gifted deposits subject to 2nd charge acceptable if: no other interest/claim on property; funds from family member; only condition is repayment of original sum on sale of property (no interest, charges or repayments).
+- Sale at reduced price where deposit is effectively equity: refer to Sale Under Value.
+- **Application and valuation fees:** cannot be added to the loan.
+- **Arrangement fees:** can be added provided this does not increase borrowing beyond the LTV for the product (90% or 95%). For 80% products fees can be added to the loan and remain on ≤80% LTV product even if LTV goes over 80%, but must be covered by MIG (reported as >80% LTV with insurance).
+- **Forces Help to Buy:** acceptable. Deposit interest-free, repayable over 10 years; instalment classed as financial commitment for affordability. Can be used with other affordable housing schemes if applicant provides 5% from savings or family gift.
+- **Help to Buy:** HTB England, Wales & England (Homes and Communities Agency). Customer must provide 5% deposit in addition to equity loan. Maximum age at end of term 70 or retirement if earlier. Where equity loan has less than 15 years to run, consideration of repayment of equity loan must be in affordability assessment.
+- **New build incentives:** stamp duty and legal fees incentives acceptable up to 5% of purchase price; over 5% must be referred. Purchase price as on Mortgage Deed; incentives disclosed to valuer; lending on valuation. Mortgage offers valid 6 months. Houses: max LTV 90% (95% of share for shared ownership). Flats: max 85% on open market. Help to Buy: max 75% LTV (95% of share for shared ownership).
 
 ---
 
-## Loan Size
+## SECTION 5 – LOAN PARAMETERS
 
-**MINIMUM LOAN SIZES**
-- New Advance: £20,000
-
-**MAXIMUM LOAN SIZES**
-- LTV 0 - 75%: £2,000,000 (5 x LTI)
-- LTV 75.01 - 80%: £1,500,000 (5 x LTI)
-- LTV 80.01 - 95%: £500,000 (5 x LTI)
-
----
-
-## LTV Restrictions
-
-**LTV 60% – 90%**
-- Restriction when lending in or into retirement (refer to Retirement)
-
-**LTV 90% – 95%**
-- No lending past retirement or age 70
-- Must be only property owned
-- Earned income and child benefit only
-- Age at expiry of mortgage not to exceed 70
-- For re-mortgage cases no additional borrowing allowed
+- **Loan purpose:** house purchase up to 95%; remortgage up to 95%; remortgage with capital raising up to 90%. Capital raising acceptable for home improvements, debt consolidation, releasing equity for deposit for separate purchase by applicants or their children/grandchildren. Capital raising not permitted for business purposes.
+- **Minimum loan:** £20,000 (new advance).
+- **Maximum loan:** LTV 0–75%: £2,000,000 (5× LTI); LTV 75.01–80%: £1,500,000 (5× LTI); LTV 80.01–95%: £500,000 (5× LTI).
+- **LTV 60–90%:** restriction when lending in or into retirement (see Retirement).
+- **LTV 90–95%:** no lending past retirement or age 70; must be only property owned; earned income and child benefit only; age at expiry not to exceed 70; remortgage — no additional borrowing.
+- **Term:** minimum 5 years; maximum 40 years. Shorter term may be considered for HNW/higher earners under specialist lending.
 
 ---
 
-## Maternity
+## SECTION 6 – PROPERTY (RESIDENTIAL)
 
-If returning to work within 2 months, full pay can be used subject to reference.
-
-For all other cases, full affordability should be based on future plans, e.g. situation after maternity, childcare costs etc. with evidence of the ability to make mortgage payments whilst on maternity.
-
----
-
-## New Build
-
-Incentives such as payment of stamp duty and legal fees are acceptable up to 5% of the purchase price. Incentives totalling greater than 5% must be referred to the Society.
-
-The purchase price must be that entered on the Mortgage Deed. Incentives must be disclosed to the valuer with lending based on the valuation figure provided.
-
-Mortgage offers are valid for a period of 6 months to allow for completion of the property.
-
-In all cases:
-- Houses: Max LTV 90% (95% of share for shared ownership)
-- Flats: Max 85% on open market
-- Help to Buy: max 75% LTV (95% of share for shared ownership)
-
----
-
-## Pay Day Loans
-
-Not acceptable if used in the last 12 months.
-
----
-
-## Property
+- **Lending area:** England and Wales (excluding islands off Great Britain other than Isle of Wight and Anglesey).
 
 ### Unacceptable Property Types
 
-- Property value less than £60,000.00
-- Properties not in a habitable state
-- Freehold Flats/Maisonettes/Common hold Tenure unless:
-  - There is a leasehold interest in the flat and the freehold relates to a share of the freehold interest in the block which does not comprise of more than 4 units. The other flats in the block are all leasehold and the applicant will own the overall freehold which will form part of the security and the block does not comprise of more than 4 units.
-  - The property is one of two flats and there are reciprocated lease/freehold reversion arrangements. (such as a Tyneside Flat arrangement).
-- Leasehold properties with less than 80 years left on the lease
-- Properties with Agricultural Restrictions/ties
-- Small Holdings
-- Live/work units or properties with mix of residential and commercial
-- Mobile homes/river boats
-- Farms where the farm and accommodation are together
-- Flats in buildings which have more than 6 floors. For buildings over 4 floors the building must contain a lift.
-- Studio/Basement Flats <30sqm
-- Bedsit
-- Properties above or adjacent to commercial premises which are likely to have detrimental impact on the enjoyment of the property (ie fast food outlets/public houses)
-- Properties designated defective under the Housing Act 1985
-- Concrete or steel framed houses
-- Any property the Valuer and/or Society deem not to be suitable security. This could be due to a combination of property aspects that could reduce desirability.
+- Property value less than £60,000.
+- Properties not in habitable state.
+- Freehold flats/maisonettes/commonhold unless: leasehold interest in flat and freehold is share of freehold in block of no more than 4 units, other flats leasehold, applicant owns overall freehold as security, block no more than 4 units; or property is one of two flats with reciprocated lease/freehold reversion (e.g. Tyneside Flat).
+- Leasehold with less than 80 years remaining.
+- Agricultural restrictions/ties; small holdings; live/work or mixed residential/commercial; mobile homes/river boats; farms with accommodation; flats in buildings with more than 6 floors (over 4 floors must have lift); studio/basement flats under 30 sq m; bedsit; above/adjacent to commercial likely to impact enjoyment (e.g. fast food, public houses); designated defective under Housing Act 1985; concrete or steel framed houses; any property valuer/Society deem unsuitable.
 
 ### Acceptable Property Types With Restrictions
 
-- New Build House: max 90% LTV (95% shared ownership)
-- New Build Flat: max 85% LTV (95% shared ownership)
-- Studio Flats >=30sqm: max 80% - Purpose built only
-- Properties with Deck Access: max 80% LTV
-- Flying freeholds: subject to only part of the property being affected and the existence of rights of support, entry and repair enforceable by covenant
-- Coach House freehold flats: subject to the garages underneath being subject to a long lease
-- Properties above/adjacent commercial deemed acceptable: max 75% LTV
-- Flats in commercial/office conversion: max 75% LTV
-- Thatched and timber framed properties: the latter subject to valuers comments
+- New build house: max 90% LTV (95% shared ownership).
+- New build flat: max 85% LTV (95% shared ownership).
+- Studio flats ≥30 sq m: max 80% LTV; purpose-built only.
+- Deck access: max 80% LTV.
+- Flying freehold: only part of property affected; rights of support, entry and repair enforceable by covenant.
+- Coach house freehold flats: garages underneath subject to long lease.
+- Above/adjacent commercial deemed acceptable: max 75% LTV.
+- Flats in commercial/office conversion: max 75% LTV.
+- Thatched and timber framed: latter subject to valuer's comments.
+- More complex (mixed use, acreage, annex, conversions): may be considered for HNW/higher earners under specialist lending.
 
-More complex property types such as mixed use, property with acreage, an annex or conversions can be considered for HNW / higher earning clients under our specialist lending range.
+### Leasehold
 
----
+- New build: minimum 125-year lease.
+- Previously owned: minimum 80 years outstanding at mortgage start.
+- Ground rent: not to exceed 0.25% of market value (e.g. £150,000 → £375 p.a. max). If reviewable: no more than once every 10 years; increases limited to RPI or equivalent. Event fees for lease changes must be based on reasonable administration cost.
 
-## Residency
+### Right to Buy
 
-Applicants must have resided in the UK for 6 months. For non UK nationals, refer to Foreign Nationals.
+- Up to 75% of valuation; no lending over purchase price. Applicants' names must match those on sale document. Where property within pre-emption clause: Deed of Postponement required.
 
----
+### Sale Under Value
 
-## Retirement
+- Purchase under market value only where: vendor is immediate family member; offer subject to Declaration of Solvency and suitable indemnity policy (Section 339 Insolvency Act 1986); for LTV, full market value can be used if materially different from reduced price (minimum 20%); no additional personal deposit required. Existing tenant purchasing below market value: lending/LTV on purchase price (monies changing hands), deposit evidenced, Declaration of Solvency paragraph in offer as above.
 
-For all lending where the mortgage term exceeds age 70, or retirement date if earlier, affordability must meet based on pre and post retirement income. Pension income must be evidenced by either bank statements for current pensions or projections for future pensions.
+### Second Home
 
-Those already retired or where the mortgage term goes into retirement or exceeds age 70:
-- Maximum lending age at end of term of 83
-- Maximum 70% LTV
-- Lending into Retirement Declaration to be submitted with application (intermediary cases only)
+- Considered subject to affordability up to 75% LTV where property primarily for applicant's use (e.g. holiday home or closer to place of work).
 
-Greater flexibility may be considered for HNW / higher earning clients under our specialist lending range.
+### Shared Ownership
 
----
+- New build purchase only. Max 95% of share (see 95% criteria under LTV Restrictions). Remortgage not considered except staircasing to 100%. Lease must contain Mortgagee Protection Clause; landlord to notify Society in advance of forfeiture action. Applicants must be able to staircase to 100%. Max age at end of term 70 or retirement if earlier. Earned income and child benefit only. No other properties owned.
 
-## Right to Buy
+### New Build Warranties
 
-- Loans may be provided up to 75% of the valuation of the property - no lending over the purchase is allowed
-- The name of the applicants must fully match those on sale document
-- Where the property is still within the pre-emption clause, we will require a Deed of Postponement
+- Properties under 10 years old: NHBC Buildmark, Premier Guarantee, Zurich Municipal BLP, LABC Warranty, Build Zone 10 year, Checkmate New Home Warranty, ICW. Other mainstream warranties/Architects Certificates considered on merit.
 
 ---
 
-## Sale Under Value
+## SECTION 7 – FAMILY ASSIST (JOINT BORROWER SOLE PROPRIETOR)
 
-Where a property is being purchased under current market value this is only acceptable where:
-- The vendor is an immediate family member
-- The mortgage offer being subject to a Declaration of Solvency being obtained, together with a suitable indemnity policy against the effects of Section 339 of the Insolvency Act 1986
-- For LTV purposes, the full market value can be used subject to this being materially different than the reduced purchase price (minimum 20%). No additional personal deposit is required
-
-Cases where the applicant is an existing tenant and purchasing the property at below market value can be considered where the lending and LTV is based on the purchase price (monies changing hands) with the applicant's deposit funds evidenced and the Declaration of Solvency offer paragraph being included in the offer as detailed above.
+- Non-occupying applicant can be on mortgage for affordability but not legal owner (JBSP) subject to: max LTV 80%; non-occupying applicant(s) must be parent(s)/grandparent(s) of one occupying applicant; max 2 non-occupying applicants; max 4 applicants in total; 100% of income (allowed under policy) from all applicants for affordability; affordability compliant with MCOB covering both applicants' and parent(s)/grandparent(s) households; recommendation in offer that parties agree personal future exit plans separately from legal obligations.
+- Society must receive independent legal advice that: applicant understands no beneficial interest; acknowledges joint and several liability for full mortgage if sole proprietor cannot pay; is not vulnerable or coerced; reduction in own estate and potential family disputes highlighted; recommended to take independent tax advice.
+- Lending on specific Family Assist products (risk priced by Product Governance Committee). Cannot be used with shared ownership or help to buy.
+- Where parent(s)/grandparent(s) are named as joint legal owner: above criteria available; ILA not required; solicitors for parent(s)/grandparent(s) must confirm they understand joint and several liability for full mortgage if child cannot pay.
 
 ---
 
-## Second Home
-
-Second home loans may be considered subject to affordability and up to 75% LTV where the property being purchased is primarily for the use of the applicant(s) such as a holiday home or where an applicant works away from home and property is being purchased closer to an applicant's place of work.
+## PART B – BUY TO LET CRITERIA
 
 ---
 
-## Self-Employed
+## SECTION 8 – BTL SCOPE AND GENERAL CRITERIA
 
-See Income.
+- Lending on: BTL on single Assured Shorthold Tenancy of no more than 12 months; Holiday Lets (short-term lets of less than 1 month for holiday purposes).
+- Consumer BTL accepted. Does not lend on BTL regulated under MCOB.
+- Does not lend on multiple tenancies or HMO.
+- Let mortgages only for customers who will hold (personally or via limited companies) 3 or fewer mortgaged BTL/Holiday Let properties after completion; exception for existing portfolio landlords with the Society who demonstrate long-term understanding of BTL (full assets and liabilities required).
+- All let properties including Holiday Lets: minimum EPC rating E unless exempt.
 
----
+### Standard BTL and Holiday Let – Key Parameters
 
-## Shared Ownership
-
-- New build purchase only
-- Max 95% of share being purchased (see criteria for 95% lending under LTV Restrictions)
-- With the exception of staircasing to 100% ownership, we are unable to consider remortgage applications
-- Lease must contain Mortgagee Protection Clause and landlord will undertake to notify the Society in advance of any action for forfeiture of the lease
-- Applicants must be able to staircase up to 100%
-- Max age at end of term 70 or retirement age if earlier
-- Earned income and child benefit only
-- No other properties owned
-
----
-
-## Term
-
-- Minimum term: 5 years
-- Maximum term: 40 years
-
-A shorter mortgage term maybe considered for HNW / higher earning clients under our specialist lending range.
+- Maximum age at end of term: 83.
+- Minimum age: 25 at application.
+- Minimum income: 1 applicant must earn from employment minimum £25,000 or both applicants combined minimum £40,000. Where term exceeds age 70, pension income in retirement must also meet these limits.
+- Minimum property value: £75,000.
+- Maximum loan: £1,000,000.
+- Minimum loan: £50,000.
+- Maximum LTV: purchase 75%; remortgage 75%.
+- Maximum term: 40 years.
+- Stress rate: 5.5% or 2% above pay rate, whichever is greater.
+- Repayment: capital and repayment or interest only; sale of property acceptable as repayment vehicle.
+- Restrictions: not available for debt consolidation; private individuals only; not available on new build, bedsits or studio flats; existing homeowners only; cannot be used with Shared Ownership, Right to Buy or similar schemes.
 
 ---
 
-## Warranty Types (New Builds)
+## SECTION 9 – STANDARD BTL (AST) ADDITIONAL CRITERIA
 
-For properties under 10 years old, including new builds, the following Warranties are acceptable:
-- NHBC Buildmark
-- Premier Guarantee
-- Zurich Municipal Building Life Plan (BLP)
-- LABC Warranty
-- Build Zone 10 year warranty
-- Checkmate New Home Warranty
-- International Construction Warranties (ICW)
-
-Other mainstream warranties/Architects Certificates will be considered on their own merits.
+- **Coverage ratio:** higher rate taxpayer 145%; lower rate taxpayer 125%. If using lower tax banding, income evidenced by payslips, P60 and SA302 as appropriate; income must include all income and gross rental for the BTL/holiday let with the Society. If more than 1 applicant, highest tax banding applies.
+- **Rental assessment:** annual rent on AST basis.
+- **Occupancy:** single AST of no more than 12 months to a single family unit. Multiple tenancies or HMO not acceptable.
 
 ---
 
-# Lending Criteria - Buy to Let
+## SECTION 10 – HOLIDAY LET ADDITIONAL CRITERIA
 
-## Standard BTL (Lending on AST Basis) & Standard Holiday Lets
-
-The Society lends on:
-- BTL's on a Single Assured Shorthold Tenancy of no more than 12 months; and
-- Holiday Lets defined as a property that will only be occupied on short term lets of less than 1 month's duration for holiday purposes
-- The Society lends on BTL's classed as Consumer BTL
-- The Society does not lend on BTL's regulated under MCOB
-- The Society does not lend on BTL's where there are multiple tenancies or where the property is classed as an HMO (House in multiple occupation)
-- Let Mortgages are only available to customers who will hold, personally or via limited companies, 3 or less mortgaged BTL/Holiday Let properties following completion of the transaction with the exception of existing portfolio landlords with the Society who can demonstrate a long term understanding of the BTL sector. In these cases, a full assets and liabilities sheet will be obtained.
-- All properties that are to be used for letting purposes, including Holiday Lets, must have a minimum EPC rating of E unless exempt.
-
-| Criteria | Details |
-|----------|---------|
-| **Maximum age at end of term** | 83 |
-| **Minimum age** | 25 at application |
-| **Minimum income** | 1 applicant must earn, from employment, a minimum of £25,000 or both applicants between them a minimum of £40,000. Where term exceeds the age of 70, pension income in retirement must also meet these limits. |
-| **Minimum property value** | £75,000 |
-| **Maximum loan** | £1,000,000 |
-| **Minimum loan** | £50,000 |
-| **Maximum LTV** | Purchase: 75%<br>Remortgage: 75% |
-| **Maximum term** | 40 years |
-| **Stress rate** | 5.5% or 2% higher than pay rate, whichever is greater |
-| **Repayment type** | Available on capital and repayment or interest only. Sale of property can be used as the repayment vehicle. |
-| **Restrictions** | Not available for debt consolidation<br>Private individuals only<br>Not available on new build<br>Not available on bed sits or studio flats<br>Existing home owners only<br>Cannot be used in conjunction with other schemes (e.g. Shared Ownership, Right to Buy etc.) |
+- **Location:** areas with demand for holiday let properties.
+- **Coverage ratio:** 135%.
+- **Rental assessment — purchase:** average of low, medium and high season weekly rates × 30; evidenced by letting agent confirmation.
+- **Rental assessment — remortgage:** 100% of actual rental receipts over last 12 months; evidenced by letting agent confirmation and/or bank statements. Where less than 12 months rental history use purchase assessment.
+- **Restrictions:** not available for properties on holiday parks or with restrictive usage covenants (e.g. holiday let covenant).
+- **Marketing:** property can be marketed via Airbnb-type platforms.
 
 ---
 
-### Additional Criteria Specific to Standard BTL (Lending on an AST Basis)
+## SECTION 11 – IMPORTANT NOTES
 
-| Criteria | Details |
-|----------|---------|
-| **Coverage ratio** | Higher rate tax payer: 145%<br>Lower rate tax payer*: 125%<br><br>*If using lower tax banding, income is evidenced by payslips, P60 and SA302's as appropriate to each client. Income must include all income received and include gross rental for BTL or holiday let to be mortgaged with the Society. If more than 1 applicant, highest tax banding applies. |
-| **Rental assessment** | Annual rent received on an AST basis |
-| **Occupancy** | Must be let on a single Assured Shorthold Tenancy of no more than 12 months to a single family unit. Multiple tenancies or properties classed as HMO's are not acceptable. |
+- All criteria subject to individual assessment and product availability.
+- For specialist lending (HNW/higher earners), greater flexibility may apply — contact the Society.
+- Main criteria URL: https://www.teachersbuildingsociety.co.uk/intermediaries/standard-mortgages/lending-criteria
 
 ---
 
-### Additional Criteria Specific to Standard Holiday Lets
-
-| Criteria | Details |
-|----------|---------|
-| **Location** | Areas associated with a demand for Holiday let properties |
-| **Coverage Ratio** | 135% |
-| **Rental Assessment** | **Purchase:** Average of low, medium & high season weekly rates x 30 - Evidenced by Letting Agent Confirmation<br><br>**Remortgage:** Based on 100% of actual rental receipts over last 12 months. Evidenced by letting agent confirmation and/or bank statements<br><br>Where less than 12 months rental history based on purchase assessment |
-| **Restrictions** | Not available for properties on holiday parks or which have restrictive usage covenants such as a holiday let covenant |
-| **Marketing** | Property can be marketed for rent through Airbnb type platforms |
-
+*END OF DOCUMENT*

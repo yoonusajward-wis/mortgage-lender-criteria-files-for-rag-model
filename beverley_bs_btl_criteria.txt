@@ -1,259 +1,223 @@
-LENDER NAME: Beverley Building Society
-PRODUCT: Buy to Let
+# Beverley Building Society – Buy to Let Criteria
 
-BEVERLEY BUILDING SOCIETY - BUY TO LET LENDING CRITERIA
-====================================================
+---
 
-Source: https://beverleybs.co.uk/lending-criteria-buy-to-let/
-Last Updated: Information updated daily
+**LENDER:** Beverley Building Society
+**PRODUCT:** Buy to Let
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** Updated daily
+**FOR INTERMEDIARY USE ONLY**
 
-================================================================================
-LOAN DETAILS
-================================================================================
+**Source:** https://beverleybs.co.uk/lending-criteria-buy-to-let/
 
-Minimum Loan Size:
-- £45,000
+---
 
-Maximum Loan Size:
-- £850,000 up to 65% LTV
-- £500,000 up to 70% LTV
+## SECTION 1 – LOAN PARAMETERS
 
-Maximum LTV:
-- Maximum: 70% LTV
+- Minimum loan size: £45,000.
+- Maximum loan at up to 65% LTV: £850,000.
+- Maximum loan at up to 70% LTV: £500,000.
+- Maximum LTV: 70%.
+- Minimum property value: £100,000.
+- Minimum term: 2 years.
+- Maximum term: 40 years.
+- Repayment methods: capital and interest or interest only are acceptable.
 
-Minimum Property Value:
-- £100,000
+---
 
-Loan Term:
-- Minimum Term: 2 years
-- Maximum Term: 40 years
+## SECTION 2 – APPLICANT ELIGIBILITY
 
-Repayment Methods:
-- Capital Repayment (Capital & Interest): Acceptable
-- Interest Only: Acceptable
+- Minimum age at application: 21 years (all applicants).
+- Maximum age at end of term: 90 years.
+- Maximum number of applicants: 4.
+- Applicants must have permanent right to reside in the UK.
+- Available for purchase and remortgage, including further advances.
+- First-time buyers: not acceptable (applies to any applicant on the application).
+- First-time landlords: acceptable.
+- Maximum exposure: an applicant cannot hold more than 1 main residence and 3 BTL properties.
 
-================================================================================
-APPLICANT CRITERIA
-================================================================================
+---
 
-Age Limits:
-- Minimum Age at Application: 21 years (both applicants)
-- Maximum Age at End of Term: 90 years
-- Maximum Age for Mortgage Lending: 90 years
+## SECTION 3 – AFFORDABILITY AND RENTAL INCOME
 
-Availability:
-- Available to both purchase and remortgage customers including further advances
-- Maximum Number of Applicants: 4
-- Applicants must have permanent rights to reside in the UK
-- First Time Buyers: Not Acceptable (not available to first time buyers - any applicant)
-- First Time Landlords: Acceptable (first time landlords allowed)
+### Interest Cover Ratio (ICR)
 
-Exposure:
-- Maximum Properties: An applicant cannot have more than 1 main residence and 3 BTL properties
+- Stress rate: the higher of pay rate + 2% or 5.5%.
+- Minimum ICR for higher rate taxpayers: 130%.
+- Minimum ICR for basic rate taxpayers: 130%.
+- Top-slicing: not permitted.
 
-================================================================================
-AFFORDABILITY AND RENTAL INCOME
-================================================================================
+### Minimum Income
 
-Income Coverage Ratio (ICR) / Rental Coverage:
-- Rate Used to Stress: The higher of 2% above payrate or 5.5%
-- Higher Rate Taxpayers: Minimum ICR is 130%
-- Basic Rate Taxpayers: Minimum ICR is 130%
+- Minimum income: £20,000 per annum.
+- For joint applicants: £20,000 is the combined joint income minimum.
 
-Top-Slicing:
-- Not Permitted - Top slicing cannot be used in affordability assessment
+### Acceptable Income Types
 
-Minimum Income Requirements:
-- Minimum Income: £20,000 per annum (Buy-to-Let applicants must be in receipt of a minimum income of £20k)
-- Joint Applicants: For joint applicants this is the joint income minimum
+- Employed: basic PAYE income only.
+- Pension income: acceptable.
+- Self-employed: latest year's income acceptable.
 
-Income Types (Acceptable):
-- Employed: Basic PAYE income only
-- Pension Income: Acceptable
-- Self Employed: Latest year's income
+### Unacceptable Income Types (for Minimum Income Purposes)
 
-Income Types (Not Acceptable for Minimum Income):
-- Overtime: Not acceptable for minimum income purposes
-- Bonus: Not acceptable for minimum income purposes
-- Commission: Not acceptable for minimum income purposes
-- Additional Benefit Incomes: Not acceptable for minimum income purposes
+- Overtime.
+- Bonus.
+- Commission.
+- Additional benefit income.
 
-Employment Requirements:
-- Minimum Term of Employment: No minimum term of employment (outside probation)
-- Self-Employed Minimum Business Ownership: 1 year (self-employed applicants must have owned the business for a minimum of 1 year)
+### Employment Requirements
 
-================================================================================
-ADVERSE CREDIT CRITERIA
-================================================================================
+- Minimum term of employment: no minimum (outside probation).
+- Self-employed: must have owned the business for a minimum of 1 year.
 
-CCJs (County Court Judgments):
-- All CCJs: Must be settled over three years
-- One Satisfied CCJ: Under £500 in the last three years and not credit related, must be satisfied over three months
+---
 
-Defaults:
-- All Defaults: Must be settled over three years
-- Maximum of Two Defaults: Under £1,000 and not credit related, can be accepted if settled less than three years
+## SECTION 4 – CREDIT HISTORY
 
-IVAs (Individual Voluntary Arrangements):
-- Discharged IVA: After three years
+### CCJs
 
-Debt Management Plans:
-- Discharged DMP: After three years
-- Debt Management Plans: After two years
+- All CCJs: must be settled for over 3 years.
+- One satisfied CCJ under £500 in the last 3 years: acceptable if not credit-related and satisfied for over 3 months.
 
-Discharged Bankrupt:
-- Acceptable: After six years
+### Defaults
 
-================================================================================
-PROPERTY CRITERIA
-================================================================================
+- All defaults: must be settled for over 3 years.
+- Maximum of 2 defaults under £1,000 and not credit-related: acceptable if settled less than 3 years ago.
 
-Property Location:
-- England: Acceptable
-- Wales: Acceptable
-- Scotland: Not Acceptable (will only lend on buy to let properties within England and Wales only)
+### IVAs
 
-Property Types:
-- Flats: Acceptable (leasehold flats and apartments only, where the borrower has a deposit of at least 30%)
-- Maximum Number of Storeys for Flats: 4 residential storeys (as a rule, will only consider flats in complexes with no more than four residential stories)
-- Flats in Larger Buildings: Acceptable at lower LTVs (will consider flats in larger buildings at lower LTVs. In such cases, requires a copy of an appropriate external fire wall review, conducted by a suitably-qualified and competent professional)
-- Freehold Flats: Not Acceptable (does not offer mortgages for freehold flats)
+- Discharged IVA: acceptable after 3 years.
 
-Unacceptable Properties:
-- Bed-sits: Not Acceptable
-- Flats over 4 storeys: Not Acceptable
-- Property Split into Multiple Units: Not Acceptable (e.g. house converted into two flats without separate leases)
-- Freehold Flats: Not Acceptable
-- Ex Local Authority Flats: Not Acceptable
-- Flats Over Commercial: Not Acceptable
-- Farms or Small Holdings: Not Acceptable
-- Grade 1 Listed Properties: Not Acceptable
-- Grade 2 Listed Properties: Not Acceptable
-- Non-traditional PRC Houses (Not Repaired): Not Acceptable (including any adjoining properties)
-- Properties with More Than 10 Acres of Land: Not Acceptable
-- Properties with Restricted Occupancy/Covenants: Not Acceptable, including:
-  * Age restriction (e.g. over 55s)
-  * Time spent at property (e.g. 11/12 months)
-  * Agricultural use
+### Debt Management Plans
 
-Leasehold Properties:
-- Minimum Remaining Lease: Must exceed the mortgage term by at least 50 years
-- Lease Terms: Must be acceptable to solicitors
+- Discharged DMP: acceptable after 3 years.
+- Active DMP: acceptable after 2 years.
 
-Energy Performance Certificate (EPC):
-- Minimum EPC Rating: E or above (all properties at application must have an EPC rating of E or above)
+### Bankruptcy
 
-New Build Properties:
-- Acceptable: Will lend on new properties or modern conversions, such as barn conversions, which is backed by appropriate certification and insurance from reputable providers
-- NHBC or Equivalent Certificate: All newbuild property must be subject to a NHBC or equivalent certificate issued by a registered builder
-- Alternative: Construction must be designed and supervised by a suitably-qualified chartered architect or chartered surveyor who can provide written confirmation that they carry professional indemnity insurance of at least the value of the finished property, and will produce the Royal Institute of British Architects (RIBA)/Royal Institute of Chartered Surveyors (RICS) standard New Built Professional Consultants Certificate on completion of construction
-- Minimum Insurance/Certification Period: 10 years (all new builds are subject to an appropriate insurance/certification scheme covering a minimum of 10 years, and this will be brought to the attention of the valuer, for them to consider as part of the valuation)
+- Discharged bankrupt: acceptable after 6 years.
 
-================================================================================
-TENANCY CRITERIA
-================================================================================
+---
 
-Tenancy Type:
-- Must be Assured Shorthold Tenancy (AST)
-- Minimum Length of AST: 6 months
-- Maximum Length of AST: 12 months
-- Purchase Applications with Tenants in Situ: Acceptable (purchase applications where tenants will remain in the property)
+## SECTION 5 – PROPERTY CRITERIA
 
-Unacceptable Tenancy Types:
-- Multiple Tenancies: Not Acceptable (where each tenant signs a separate agreement and/or has separate facilities)
-- Rent Act Protected Tenants: Not Acceptable (or an agent of these)
-- Housing Association or Local Authority Lets: Not Acceptable (intended letting to housing association or local authority)
+### Location
 
-Unacceptable Lets:
-- Companies or Trusts: Not Acceptable
-- Houses of Multiple Occupancy (HMOs): Not Acceptable
-- Holiday Lets: Not Acceptable
-- Sale and Leaseback: Not Acceptable (where the purchaser intends letting the property to the seller on a 'sale and leaseback' arrangement)
-- Sub-letting: Not Acceptable
+- England: acceptable.
+- Wales: acceptable.
+- Scotland: not acceptable.
 
-Family Occupancy:
-- Letting to Immediate Family Member: Acceptable (allows letting to an immediate family member)
+### Accepted Property Types
 
-================================================================================
-DEPOSITS
-================================================================================
+- Leasehold flats and apartments: acceptable where the borrower has a deposit of at least 30%.
+- Flats in complexes of up to 4 residential storeys: acceptable.
+- Flats in larger buildings: acceptable at lower LTVs — a copy of an appropriate external fire wall review conducted by a suitably qualified and competent professional is required.
+- New build and modern conversions (e.g. barn conversions): acceptable, subject to appropriate certification and insurance from reputable providers.
 
-Source of Deposit (Acceptable):
-- Savings/Investments: Acceptable
-- Family Gift: Acceptable
-- Concessionary: Acceptable (minimum 20% concession)
-- Raised from Another Property: Acceptable
+### Not Acceptable Properties
 
-================================================================================
-REPAYMENT AND TERM
-================================================================================
+- Bed-sits.
+- Freehold flats.
+- Flats over 4 storeys (standard).
+- Ex-local authority flats.
+- Flats over commercial premises.
+- Properties split into multiple units without separate leases.
+- Houses of Multiple Occupation (HMOs).
+- Farms or small holdings.
+- Grade 1 listed properties.
+- Grade 2 listed properties.
+- Non-traditional PRC houses (not repaired), including any adjoining properties.
+- Properties with more than 10 acres of land.
+- Properties with restricted occupancy or covenants (e.g. age restrictions, time limits at property, agricultural use).
 
-Repayment Methods:
-- Capital Repayment (Capital & Interest): Acceptable
-- Interest Only: Acceptable
+### Leasehold Requirements
 
-Term:
-- Minimum Term: 2 years
-- Maximum Term: 40 years
+- Minimum remaining lease: must exceed the mortgage term by at least 50 years.
+- Lease terms must be acceptable to solicitors.
 
-================================================================================
-CAPITAL RAISING / REMORTGAGE PURPOSES
-================================================================================
+### Energy Performance Certificate (EPC)
 
-Capital Raising - Acceptable Reasons:
-- Debt Consolidation: Acceptable (maximum debt consolidation amount £35,000)
-- Home Improvements: Acceptable
-- Repaying Family Gift: Acceptable
-- Giving Family Gift: Acceptable
-- Deposit for Another Property Purchase: Acceptable
+- Minimum EPC rating: E or above.
 
-Capital Raising - Unacceptable Reasons:
-- For Business Purposes: Not Acceptable
-- Pay Tax Bill: Not Acceptable
+### New Build Requirements
 
-Debt Consolidation:
-- Maximum Amount: £35,000
-- Maximum Number of Debts: 5 debts (maximum debt consolidation amount is £35,000 across a maximum of 5 debts)
+- Must be subject to an NHBC or equivalent certificate issued by a registered builder; or
+- Construction must be designed and supervised by a suitably qualified chartered architect or chartered surveyor who carries professional indemnity insurance of at least the value of the finished property, and who will produce the RIBA/RICS standard New Build Professional Consultants Certificate on completion.
+- All new builds must be covered by an appropriate insurance/certification scheme for a minimum of 10 years.
 
-================================================================================
-CONSUMER BUY TO LET
-================================================================================
+---
 
-Consumer Buy to Let:
-- Acceptable - Can lend on properties that have either been inherited; where the applicant wishes to rent out a property they have previously lived in or intends to let to a family member
+## SECTION 6 – TENANCY CRITERIA
 
-================================================================================
-EX-PAT APPLICATIONS
-================================================================================
+### Acceptable Tenancy
 
-Ex-Pat Buy to Let:
-- Acceptable - Available to ex-pats
+- Must be Assured Shorthold Tenancy (AST).
+- Minimum AST length: 6 months.
+- Maximum AST length: 12 months.
+- Purchase applications with tenants in situ: acceptable.
+- Letting to an immediate family member: acceptable.
 
-Ex-Pat Requirements:
-- Applicants: Must be UK citizens or have permanent rights to reside who are currently resident abroad
-- Maximum LTV: 70%
-- Employment: Available to employed applicants only
-- Minimum Income: £40,000 (GBP equivalent) following a currency exchange using XE.com
-- Contract of Employment: Must provide contract of employment
-- UK Bank Statement: Must provide UK bank statement
-- Rent Payment: Rent must be received in GBP into UK bank account
-- Mortgage Payment: Mortgage to be paid from UK bank account in GBP
-- Deposit Source: Deposits can come from non UK source (e.g. country they are currently residing in)
+### Unacceptable Tenancy Types
 
-Ex-Pat Eligible Countries:
-- Austria, Belgium, Bulgaria, Canada, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Italy, Japan, Kingdom of the Netherlands (The Netherlands, the Netherlands Antilles and Aruba), Latvia, Lithuania, Luxembourg, Malta, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, South Korea, Spain, Sweden, Switzerland, United Kingdom*, and UAE
-- Note: *Does not include UK Crown dependencies; the Isle of Man and the Bailiwicks of Jersey and Guernsey
+- Multiple tenancies where each tenant signs a separate agreement and/or has separate facilities.
+- Rent Act protected tenants (or an agent of these).
+- Housing association or local authority lets.
+- Company or trust lets.
+- Holiday lets.
+- Sale and leaseback arrangements.
+- Sub-letting.
 
-Ex-Pat Service of Notices:
-- A UK named individual (a family member or solicitor) and their address for service of notices will be required
+---
 
-================================================================================
-ADDITIONAL NOTES
-================================================================================
+## SECTION 7 – DEPOSIT CRITERIA
 
-- If you can't find the answer you want or you're dealing with a particularly complex case that warrants a chat, call or email us and we'll do our best to help
-- For any further questions about criteria, please contact the Intermediary team
+- Savings and investments: acceptable.
+- Family gift: acceptable.
+- Concessionary purchase: acceptable (minimum 20% concession).
+- Raised from another property: acceptable.
 
-================================================================================
-END OF CRITERIA
-================================================================================
+---
+
+## SECTION 8 – CAPITAL RAISING AND REMORTGAGE
+
+### Acceptable Purposes
+
+- Debt consolidation: acceptable (maximum £35,000 across a maximum of 5 debts).
+- Home improvements: acceptable.
+- Repaying a family gift: acceptable.
+- Giving a family gift: acceptable.
+- Deposit for another property purchase: acceptable.
+
+### Not Acceptable Purposes
+
+- Business purposes.
+- Paying a tax bill.
+
+---
+
+## SECTION 9 – CONSUMER BUY TO LET
+
+- Acceptable where the property has been inherited; where the applicant wishes to rent out a property they have previously lived in; or where the applicant intends to let to a family member.
+
+---
+
+## SECTION 10 – EX-PAT BUY TO LET
+
+- Available to ex-pat applicants who are UK citizens or have permanent right to reside and are currently resident abroad.
+- Maximum LTV: 70%.
+- Available to employed applicants only.
+- Minimum income: £40,000 (GBP equivalent, converted using XE.com).
+- Must provide a contract of employment.
+- Must provide a UK bank statement.
+- Rent must be received in GBP into a UK bank account.
+- Mortgage payments must be made from a UK bank account in GBP.
+- Deposits may come from a non-UK source (e.g. the country of current residence).
+- A UK-named individual (family member or solicitor) and their address must be provided for service of notices.
+
+### Eligible Countries
+
+Austria, Belgium, Bulgaria, Canada, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Italy, Japan, Kingdom of the Netherlands (including the Netherlands Antilles and Aruba), Latvia, Lithuania, Luxembourg, Malta, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, South Korea, Spain, Sweden, Switzerland, UAE, and United Kingdom (excludes UK Crown dependencies: Isle of Man, Bailiwick of Jersey and Bailiwick of Guernsey).
+
+---
+
+*END OF DOCUMENT*

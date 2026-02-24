@@ -1,366 +1,353 @@
-LENDER NAME: Beverley Building Society
-PRODUCT: Residential
-
-BEVERLEY BUILDING SOCIETY - RESIDENTIAL LENDING CRITERIA
-====================================================
-
-Source: https://beverleybs.co.uk/lending-criteria/
-Last Updated: Information updated daily
-
-================================================================================
-LOAN DETAILS
-================================================================================
-
-Minimum Loan Size:
-- £45,000
-
-Maximum Loan Sizes:
-- Up to 65% LTV: £850,000
-- Up to 80% LTV: £600,000
-- Up to 90% LTV: £300,000
-- Up to 95% LTV: £250,000
-
-Minimum Property Value:
-- £100,000
-
-Loan Term:
-- Minimum Term: 2 years (for all mortgages apart from retirement interest-only (RIO) loans)
-- Maximum Term: 40 years (or 25 years for commonhold properties)
-- Longer Terms: Will consider longer terms in exceptional cases, depending on the age, financial and other relevant circumstances of the applicant
-
-Loan-to-Value (LTV):
-- Standard Properties: Up to 95% of purchase price or value, whichever is the lower
-- Remortgages: Up to 90%
-- Interest-Only Loans: Lower LTV limits apply
-- Flats and Apartments: Maximum 80% LTV
-
-Repayment Types:
-- Capital & Interest (Repayment): Available
-- Interest Only: Available
-
-================================================================================
-APPLICANT CRITERIA
-================================================================================
-
-Age Limits and Lending into Retirement:
-- Maximum Age: 90 years for mortgage lending (with the exception of RIO which has no maximum age when a mortgage term must end)
-- Lending Beyond Retirement Age: Can agree mortgage terms beyond state retirement age, including for people who are already retired, so long as the potential borrower(s) can demonstrate they are reasonably expected to have sufficient income and affordability to maintain their mortgage payments
-- Conditions for Lending into Retirement:
-  * Can consider employed or self-employed income if there is a likelihood of this continuing to a maximum age of 75, otherwise can only consider pension income or other forms of non-salaried income
-  * Need to be satisfied that the payments would remain sustainable in the event of the death of a joint borrower, for example, through life insurance, savings or pension income. Where this is not the case, will consider downsizing as a repayment vehicle
-
-Geographical Reach of Lending:
-- England: Acceptable
-- Wales: Acceptable
-- Scotland: Not Acceptable (will lend on owner-occupied residential properties within England and Wales only)
-
-Non-UK Nationals:
-- EU Nationals: Acceptable (applicants who are EU Nationals who were living in the UK as of 31st December 2020 and have been granted Settled or Pre-Settled status. Proof of residency in the UK for the last 3 years and that the applicants were resident in the UK on 31st December 2020 is required)
-- Foreign Nationals (EU or Non-EU) with Permanent Right to Reside: Acceptable (EU nationals or foreign nationals with permanent right to reside in the UK ("indefinite leave to remain") who have lived in the UK for the last 3 years - subject to underwriting)
-- Foreign Nationals (EU or Non-EU) on Specified Visa Types: Acceptable (subject to being in the UK a minimum of 3 years, having a UK bank account and having a credit footprint)
-  * Skilled Worker Visa
-  * Health & Care Worker Visa
-  * British National Overseas Visa
-  * UK Ancestry Visa
-  * Maximum LTV: 80% (on residential owner-occupied property, excluding self-build)
-  * Deposit: Must come from a UK bank account
-  * Minimum Visa Remaining: At least 1 year remaining on visa
-  * Subject to underwriting
-
-Identity (ID) Verification:
-- Required: Proof of identity for each mortgage applicant, to protect against fraud
-- Acceptable Forms of ID:
-  * Photo ID documents such as passport or driving licence
-  * Proof of address in the form of a letter from an official source, dated within the last three months
-  * Anti-money laundering (AML) report, credit reference and electoral roll confirmation for all applicants
-
-Intermediary/Broker Requirements:
-- FCA-Registered Intermediaries: Will only consider applications on behalf of general members of the public from FCA-registered intermediaries
-- Due Diligence: Will carry out thorough due diligence and cross-referencing on all applications received, both through intermediaries and direct
-
-================================================================================
-AFFORDABILITY ASSESSMENT
-================================================================================
-
-Affordability Assessment - Stressed Payment Level:
-- Stress Rate: The Society calculates affordability at a stress payment rate of our standard variable rate (SVR) plus 1%
-
-Affordability Assessment - Loan-to-Income Ratio:
-- Standard LTI Ratio: Usually apply a loan-to-income (LTI) ratio of 4.49x or less
-- Higher LTIs: Will consider higher LTIs, subject to status, for 'trapped borrowers' or in other exceptional cases, at the discretion of our Head of Lending
-
-Affordability Assessment - Qualifying Income:
-- Acceptable Income Sources: Will consider qualifying income from employment, self-employment, investments, pensions, rental income, foster income - or a combination of these - as part of our affordability assessment
-
-Affordability Assessment - Investment Income:
-- Non-Guaranteed Income: Will accept non-guaranteed qualifying income from pensions and investments, but will apply a 10% reduction to anticipated income protections, to allow for the impact of potential market downturns
-
-Income Verification:
-- Required: Income to be verified in all cases
-- Self-Certified Applications: Will not accept self-certified mortgage applications
-- Probationary Period: Applicants in a probationary period will be considered on a case-by-case basis, taking into account affordability and previous continuity of employment
-- Evidence Required: All applicants must provide evidence of their income and track record of maintaining existing credit arrangements, to confirm that they can afford their desired mortgage
-
-Income Assessment - In and Into Retirement:
-- Maximum Income Multiple: Will lend a maximum of four-times income
-- Employed Income: Will only take employed income into account up to the age of 75
-- Other Forms of Income: Will consider other forms of non-salaried income, such as rental income, investments and pensions, so long as it is expected to continue. Will consider cases such as professional landlords or company directors who are not physically working but derive income from their involvement/investments, at the discretion of our Head of Lending
-- Pension Income: Look at the certainty of ongoing pension income, including the potential exhaustion of draw-down pension pots. Will ask for pension valuation statements dated within one month of the mortgage application. Apply a 10% 'haircut' to the value of any income that is not guaranteed
-- Joint Mortgages: Where the mortgage is in joint names, also assess the affordability of both borrowers to ensure that they could continue to maintain their payments should the other die. Will consider a declaration that they will sell the property and downsize in this event as acceptable for affordability purposes
-
-Qualifying Income:
-- Acceptable Sources: Will consider income from employment, self-employment, investments, pensions, rental income, or a combination of these, as part of our affordability assessment
-
-================================================================================
-ADVERSE CREDIT CRITERIA
-================================================================================
-
-Adverse Credit:
-- Discharged Bankrupt: After six years
-- All CCJs: Must be settled over three years
-- One Satisfied CCJ: Under £500 in the last three years and not credit related, must be satisfied over three months
-- All Defaults: Must be settled over three years
-- Maximum of Two Defaults: Under £1,000 and not credit related, can be accepted if settled less than three years
-- Discharged IVA/DMP: After three years
-- Debt Management Plans: After two years
-
-Credit Impairment:
-- General Policy: The Society does not lend to customers with impaired credit histories, such as a history of missed payments to other lenders, or taking payment holidays without having made previous overpayments and credit providers, or county court judgements (CCJs)
-- Common Sense View: Will take a common sense view where someone's credit record shows a small 'blip' such as one late or missed payment over a substantial period of time which was swiftly settled, and where circumstances suggest it resulted from genuine oversight or error
-- COVID-19 Payment Breaks: Will also consider cases where the applicant has taken temporary payment breaks in line with special UK government measures introduced during the COVID-19 pandemic
-
-================================================================================
-INCOME TYPES
-================================================================================
-
-Self-Employed:
-- Income Assessment: Will ask all self-employed applicants to provide confirmation of business accounts and income, and/or HMRC confirmations (SA302's), for periods appropriate to the LTV
-- Rising Income: If income has risen, year-on-year, will normally apply the most recent income level, unless there has been a significant increase which needs an explanation and consideration that this is to continue
-- Significant Increase: If income has risen, year-on-year, will normally apply the most recent income level, although a review by our risk director may be required in cases where the latest year's income is more than 20 per cent higher than previous ones
-- Income Calculation: In general, will apply the applicant's share of net profit, salary and dividends for multiplier and affordability purposes
-- Falling Income: Rarely accept applications where income has fallen, year-on-year
-- Unusual Circumstances: In cases of standard, non-complex income, will consider personalised cases of unusual circumstances, outlined to us
-
-Contractor Mortgages:
-- Product Range: Borrowers can choose from any product in the Society's current range, depending on circumstances, up to a maximum LTV of 80%
-- Day 1 Contracting Mortgages: Available for NHS and medical professionals with a 12-month track record of earnings in a related field
-- Zero-Hours Contract Mortgages: Available for people in professional occupations with 12 months' history with no gaps; and non-professionals with a minimum of two years' track record and no gaps in the last 12 months
-- All Forms of Contractors: All forms of contractors considered including Construction Industry Scheme (CIS) members, agency, nursing bank, fixed, temporary and short-term contracts, IT consultants and self-employed contractors, all considered on a case-by-case basis, from one year's contract with evidence of track record in a related field
-- Umbrella Companies: People employed by umbrella companies with evidence of one year's track record in a related field
-- Credit Scoring: No credit-scoring - instead, the Society makes its lending decisions on a case-by-case basis, backed by individual underwriting
-
-================================================================================
-REPAYMENT AND TERM
-================================================================================
-
-Interest-Only Lending:
-- Declaration Required: Require interest-only borrowers to declare, in writing, how they intend to repay their mortgage at the end of the term, and for all parties to sign this written document. In introduced cases, these signatures must be witnessed by the broker
-- Maximum LTV: 70% for interest-only mortgages
-- Downsizing as Repayment Vehicle: Where downsizing is to be used for repayment, require minimum equity of £150,000 – or more, depending on typical house prices in the borrower's local area
-- Other Repayment Vehicles:
-  1. Savings and investments held for at least two years, evidenced by statements, held in the names of all borrowers and in British pounds, where the value is at least equal to the loan advance or the lowest projections predict it will be so, evidenced by statements from within the past 12 months. Do not accept high-risk investments such as those involving single stock, or which are exotic in nature or speculative
-     * Documentary evidence required:
-       - Managed investment plans, unit trusts, open-ended investment companies, investment bonds and stocks and shares ISAs: statements less than 12 months old
-       - Managed share holdings: copies of share certificates, nominated account statements or confirmation from an authorised stockbroker evidencing holdings and valuation
-       - Endowment policies: latest projected pension value statement, dated within one month of the mortgage application
-     * Note: Where affordability is being assessed on the basis of non-guaranteed investments, will apply a 10% haircut to values, to safeguard against any downward movement
-  2. Sale of other property, where the property is based in England and Wales. Require evidence of equity and, in some cases, will carry out our own valuation and, if mortgaged, review the most recent statements
-  3. Sale of the mortgaged property. Will only consider downsizing as a means of meeting affordability where the borrower has at least £150,000 of equity in it, up to an overall maximum LTV of 70%. When the property is sold, the borrower will need to commit to repaying their existing mortgage and demonstrate that this will give them sufficient funds to purchase a new home
-
-Retirement Interest-Only (RIO) Lending:
-- Description: These are interest-only loans which only need to be repaid when the borrower dies, moves into long-term care or sells their house
-- Criteria: All of the criteria applicable to our other forms of lending into retirement apply to RIO loans, with the addition of the following restrictions:
-  * Minimum Eligible Age: 55
-  * Maximum Borrowers: A maximum of two borrowers and no other occupiers of the property (although the Society may consent to a family carer residing at the property, subject to them providing an appropriately-worded, signed Occupiers' Consent form confirming that they have no interest in the property and will vacate on the death or move into care of the borrower(s), or when the property is sold)
-  * Maximum LTV: 60%, or 30% where the property is located within a retirement complex
-  * Minimum Property Valuation: £125,000
-  * Minimum Loan Size: £25,000 (purchase) and £40,000 (remortgage)
-  * Flats: If the mortgageable property is a flat, it must have lift access if not on the ground floor
-  * Acceptable Income for RIO:
-    - Net income from buy-to-let property
-    - Pension income
-    - Other forms of non-salaried income, investments such as stocks and shares ISAs, defined contribution, pensions etc. – where we will apply a 10% 'haircut' as a reasonable allowance for any potential fluctuations in value
-
-Floor Rate:
-- Policy: During any discounted payment period the Society will operate a floor rate. This means that, the discounted interest rate will not fall below a specified level, as shown in our product details
-
-================================================================================
-CAPITAL RAISING / REMORTGAGE PURPOSES
-================================================================================
-
-Capital-Raising:
-- General Policy: Will consider lending to borrowers looking to extract capital from their home, for almost any purpose
-- Acceptable Purposes: Purposes for which we will consider capital-raising include purchases such as purchasing another property or high-value item, on a case-by-case basis
-
-Debt Consolidation:
-- Acceptable: Will consider lending on purchases and remortgages with an element of debt consolidation, for personal debts primarily (although will consider business debts, at the Head of Lending's discretion and subject to individual circumstances)
-- Maximum Amount: £35,000 (anything above this needs to be referred)
-- Maximum LTV: 75%
-
-Remortgages - Additional Borrowing:
-- Home Improvements: 80% LTV
-- Debt Consolidation: 75% LTV
-- Lifestyle/Major Purchase/Project: 75% LTV (to raise capital for lifestyle, a major purchase or project)
-- Purchase of Equity: 90% LTV
-- Freehold Reversion: 90% LTV
-
-Trapped Borrowers:
-- Policy: Will consider flexing our normal affordability criteria for loan-to-income ratios for trapped borrowers' or in other exceptional cases, for remortgage purposes, subject to status and at the discretion of our Head of Lending, and where doing so is clearly in the borrower's best interests
-- Requirements:
-  * The customer's mortgage existed before 26 April 2014
-  * The contract they took out was in keeping with affordability requirements at that time
-  * The application does not involve any additional borrowing and the borrower has not taken out any additional borrowing since they first secured their mortgage
-  * The borrower's existing mortgage must be fully up to date at the time of application and must have been so for the previous 12 months
-  * The monthly payment at the Society's standard variable rate (SVR) would not be higher than the amount they are paying to their current lender
-  * Can validate the borrower's ability to maintain their payments via an affordability assessment, based on their current level of income
-
-================================================================================
-PROPERTY CRITERIA
-================================================================================
-
-Property Location:
-- England: Acceptable
-- Wales: Acceptable
-- Scotland: Not Acceptable (will lend on owner-occupied residential properties within England and Wales only)
-
-Property Types:
-- Freeholds: Acceptable
-- Agricultural or Forestry Restricted: Acceptable (within Yorkshire & the Humber only)
-- Leasehold Flats: Acceptable
-- Commonhold Properties: Acceptable
-- Unusual Properties: Will also consider unusual properties including those built using modern construction methods
-
-Flats/Apartments:
-- Deposit Requirement: Will only consider lending on leasehold flats and apartments where the borrower has a deposit of at least 20%, and which are going to be owner-occupied
-- Maximum Storeys: As a rule, will only consider flats in complexes with no more than four residential stories
-- Flats in Larger Buildings: Will consider flats in larger buildings at lower LTVs. In such cases, require a copy of an appropriate external fire wall review, conducted by a suitably-qualified and competent professional
-- Freehold Flats: Not Acceptable (do not offer mortgages for freehold flats)
-- Local Authority Flats: Not Acceptable (do not offer mortgages for local authority flats)
-
-Leasehold Property:
-- Minimum Remaining Lease: Will only lend on leasehold property subject to the unexpired term of the lease exceeding the mortgage term by at least 50 years
-- Lease Terms: The lease's terms must be acceptable to our solicitors
-
-Commonhold Property:
-- Acceptable: Will consider lending on commonhold property, subject to the borrower supplying details of the relevant commonhold association to verify the common parts of the property under their management
-- Maximum Term: Offer a maximum term of 25 years for mortgages on such properties
-
-Second Homes:
-- Acceptable: Will consider second-home mortgages, so long as the borrower(s) can demonstrate that they are genuinely using the additional property for residential (not letting) purposes
-
-Annexe/Outbuilding:
-- Properties with Annexe/Outbuilding: Will lend on properties that have an annexe/outbuilding
-- Holiday Let/AirBnB: Will also lend on properties where the annexe/outbuilding will be a holiday let or AirBnB
-
-Agricultural Restrictions:
-- Acceptable: Consider lending on properties with agricultural restrictions anywhere in England and Wales
-
-Defective Properties:
-- Not Acceptable: Do not lend on any properties classed as defective under Part XVI of the Housing Act 1985 (for a definition see www.defectiveproperties.com/defective-property-list)
-
-Unusual Properties (Unconventional/Modern Construction):
-- Acceptable: Will consider lending on properties in categories such as the following, and others, on a case-by-case basis:
-  * Timber-framed
-  * 100% timber
-  * Thatch-roofed
-  * System-built using non-traditional methods, such as modular buildings (subject to a licenced repair scheme being in place)
-  * Grade II listed buildings (do not lend on Grade I listed properties)
-
-Non-Standard Construction:
-- Acceptable: The Society accepts schemes such as the Build offsite Property Assurance Scheme (BOPAS)
-
-Newbuild Properties/Property Conversions:
-- Acceptable: Will lend on new properties or modern conversions, such as barn conversions, which is backed by appropriate certification and insurance from reputable providers
-- NHBC or Equivalent Certificate: All newbuild property must be subject to a NHBC or equivalent certificate issued by a registered builder
-- Alternative: The construction must be designed and supervised by a suitably-qualified chartered architect or chartered surveyor who can provide written confirmation that they carry professional indemnity insurance of at least the value of the finished property, and will produce the Royal Institute of British Architects (RIBA)/Royal Institute of Chartered Surveyors (RICS) standard New Built Professional Consultants Certificate on completion of construction
-- Minimum Insurance/Certification Period: 10 years (all new builds are subject to an appropriate insurance/certification scheme covering a minimum of 10 years, and this will be brought to the attention of the valuer, for them to consider as part of the valuation)
-- Professional Consultants Certificates (PCCs): May accept Professional Consultants Certificates (PCCs), subject to them being in standard Council of Mortgage Lenders (CML) format, where the property has been built or converted within the last 10 years
-
-Self-Build Certificates and Guarantees:
-- Available: Offer self-build mortgages subject to satisfactory certification and insurance
-- NHBC or Equivalent Certificate: All new properties must be subject to a National House Building Council (NHBC) or equivalent certificate issued by a registered builder
-- Alternative: The construction must be designed and supervised by a suitably-qualified chartered architect or chartered surveyor who has provided written confirmation of carrying professional indemnity insurance of at least the value of the finished property. They must also produce the Royal Institute of British Architects (RIBA)/or Royal Institute of Chartered Surveyors (RICS) standard New Build Professional Consultants Certificate on completion of the construction
-- Minimum Insurance/Certification Period: 10 years (all new builds have an appropriate insurance/certification scheme in place, covering them for a minimum of 10 years)
-
-Self-Build Staged Funds Release:
-- Available: Will consider staged payment advances for self-build mortgages, subject to valuation at each stage
-- Maximum LTV: Must not exceed 80% LTV at any stage
-- Planning Permission: Will only release monies once the borrower produces written confirmation from the local authority that the planning permission has been activated by the building work
-- Payment Stages: Usually release payments in four equal instalments, as follows:
-  * 25%: roof plate level
-  * 25%: roof on
-  * 25%: plastered out
-  * 25%: on completion
-- Different Release Stage Combinations: Will consider different release stage combinations, at the Head of Lending's discretion
-
-Japanese Knotweed:
-- Acceptable: Subject to the valuer's advice, will consider lending on properties where knotweed or other invasive species are present, provided that the borrowers enter into an insurance-backed eradication scheme with a specialist company
-
-Solar/Photovoltaic Panels:
-- Leased Solar Panels: Not Acceptable (will not lend on properties with solar panels that are subject to leases)
-- Wholly-Owned Solar Panels: Acceptable (will consider lending on properties with solar panels which will be wholly-owned with the property, subject to specific mortgage conditions and on the basis that the Society does not offer advice on such instances and would advise purchasers to seek independent advice regarding any ongoing servicing or other obligations relating to the solar panels)
-
-Overages:
-- Acceptable: Will consider mortgages on overages, on properties where:
-  * The proposed clause is reasonable and not likely to be triggered passively, for example as a result of general price inflation or the actions of unconnected third parties, and only as a result of a deliberate action taken by the buyer
-  * The valuer is made aware of the clause and takes it into consideration in their valuation
-  * The maximum LTV does not exceed 75%
-
-Property Insurance:
-- Required: Require all borrowers to insure their property, as a means of protecting the Society's liability
-- Upon Completion: Buildings insurance must be in place and evidenced, and will require all borrowers to sign a declaration that insurance is in place
-
-Property Valuation:
-- Valuers: Only use Royal Institute of Chartered Surveyors (RICS)-qualified valuers to assess properties for mortgage purposes
-- Acceptable Valuation Types: Will accept these types of valuations carried out in accordance with the RICS Guidance Notes: Valuation for mortgage purposes, Homebuyers report and valuation or Building survey together with the Society's standard mortgage valuation report
-- Hometrack Database: Can consider the use of a Hometrack Database internet-based valuation service and automated valuation (AMV), to draw on estimated valuation information from the Land Registry and estate agents for like properties in a particular area
-- Hometrack Valuation Criteria: Can use a Hometrack valuation for remortgage and further advance applications for properties which fall into these categories: LTVs of less than 75%; total loan size of less than £500,000
-
-Roads/Sewers:
-- Adoption Required: All access roads and sewers serving properties we mortgage must be adopted by the local authority or subject to a road agreement supported by a bond under Section 38 of the Highways Act 1980 and, in the case of sewers, section 104 of the Water Resources Act 1991, as principally amended by the Water Act 2003
-- Non-Adopted Roads/Sewers: Should we agree to lend despite roads or sewers not being adopted or subject to a bond, there must be an adequate margin between the advance and the security to enable the Society to have the roads or sewers adopted if necessary, retaining funds for the purpose. The borrower will face a maintenance charge until adoption takes place
-
-Right to Buy:
-- Acceptable: Lend on Right to Buy Properties in our local region of East Yorkshire
-- Maximum LTV: Will consider lending up to 100 per cent of the discounted purchase price
-
-Commercial Lending:
-- Not Available: The Society does not currently lend on commercial properties, although we do regularly review our policy and may consider re-entering this market in the future
-
-Second-Charge Lending:
-- Not Available: The Society does not offer second-charge lending. The Society must always hold the first-charge
-
-================================================================================
-GUARANTORS AND FAMILY-ASSIST
-================================================================================
-
-Guarantors and Family-Assist:
-- Acceptable: Will consider family members as guarantors on a case-by-case basis, assessing them for affordability in the same way as the borrowers themselves
-- Borrower Requirements: While the guarantor can aid the borrower(s) in satisfying our income multiple and affordability requirements, the borrower must be working and not wholly reliant on the support of their guarantor
-- Options Available:
-  1. Straight Guarantor Not Party to the Mortgage: Where the guarantor legally agrees to step in and takes on liability for the mortgage payments
-  2. Joint Borrower, Sole Proprietor: Where we allow the guarantor to be party to the mortgage without incurring any implications for stamp duty or ongoing mortgage payments on their part
-
-================================================================================
-SUPPORTING DOCUMENTATION
-================================================================================
-
-Supporting Documentation:
-- Application Form: Require a fully-completed application form from all potential borrowers
-- Income from Employment: Most recent P60(s) and three most recent payslips, and 3 months' bank statements for all bank accounts held by the applicants
-- Current Mortgages: Most recent mortgage statements for any current mortgages
-- Retirement Interest-Only Mortgages: For retirement interest-only mortgages, require other, specific additional information as detailed in that section
-- Self-Employed Applicants: Will ask all self-employed applicants to provide confirmation of business accounts and income, and/or HMRC confirmations (SA302's), for periods appropriate to the LTV. If income has risen, year-on-year, will normally apply the most recent income level, unless there has been a significant increase which needs an explanation and consideration that this is to continue. In general, will apply the applicant's share of net profit, salary and dividends for multiplier and affordability purposes. Rarely accept applications where income has fallen, year-on-year
-- Additional Information: Where applicable, may require additional information including evidence of deposits in savings, shares and other forms of assets
-- Bank Statements: Documentation such as bank statements will also be needed with additional information dependent upon the case submitted, either by the Society or by the introducing broker
-
-================================================================================
-ADDITIONAL NOTES
-================================================================================
-
-- If you can't find the answer you want or you're dealing with a particularly complex case that warrants a chat, call or email us and we'll do our best to help
-- For any further questions about criteria, please contact the Intermediary team
-
-================================================================================
-END OF CRITERIA
-================================================================================
+# Beverley Building Society – Residential Criteria
+
+---
+
+**LENDER:** Beverley Building Society
+**PRODUCT:** Residential
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** Updated daily
+**FOR INTERMEDIARY USE ONLY**
+
+**Source:** https://beverleybs.co.uk/lending-criteria/
+
+---
+
+## SECTION 1 – LOAN PARAMETERS
+
+- Minimum loan size: £45,000.
+- Minimum property value: £100,000.
+- Minimum term: 2 years (all mortgages except Retirement Interest Only — RIO has no maximum age at which the term must end).
+- Maximum term: 40 years (25 years for commonhold properties).
+- Longer terms may be considered in exceptional cases depending on the applicant's age, financial and other relevant circumstances.
+- Repayment types: capital and interest or interest only.
+
+### Maximum Loan by LTV
+
+- Up to 65% LTV: £850,000.
+- Up to 80% LTV: £600,000.
+- Up to 90% LTV: £300,000.
+- Up to 95% LTV: £250,000.
+
+### LTV Limits by Lending Type
+
+- Standard residential properties: up to 95% of purchase price or value, whichever is lower.
+- Remortgages: up to 90%.
+- Flats and apartments: maximum 80% LTV.
+- Interest-only loans: lower LTV limits apply (see Section 5).
+
+---
+
+## SECTION 2 – APPLICANT ELIGIBILITY
+
+### Age and Lending into Retirement
+
+- Maximum age for mortgage lending: 90 years (RIO has no maximum age).
+- Mortgage terms beyond state retirement age can be agreed, including for applicants already retired, provided they can demonstrate sufficient income and affordability to maintain payments.
+
+**Conditions for lending into retirement:**
+- Employed or self-employed income considered only where there is a likelihood of it continuing to a maximum age of 75; otherwise only pension income or other non-salaried income is considered.
+- Must be satisfied that payments would remain sustainable in the event of the death of a joint borrower — evidenced via life insurance, savings or pension income. Where this is not the case, downsizing may be considered as a repayment vehicle.
+
+### Geographic Reach
+
+- England: acceptable.
+- Wales: acceptable.
+- Scotland: not acceptable.
+
+### Non-UK Nationals
+
+- EU nationals who were resident in the UK as of 31 December 2020 and have been granted Settled or Pre-Settled status: acceptable. Proof of UK residency for the last 3 years and of residence in the UK on 31 December 2020 required.
+- EU or non-EU nationals with permanent right to reside (indefinite leave to remain) who have lived in the UK for the last 3 years: acceptable, subject to underwriting.
+- Foreign nationals on specified visas, subject to a minimum of 3 years in the UK, a UK bank account and a credit footprint:
+  - Skilled Worker Visa.
+  - Health and Care Worker Visa.
+  - British National Overseas Visa.
+  - UK Ancestry Visa.
+  - Maximum LTV: 80% (residential owner-occupied, excluding self-build).
+  - Deposit must come from a UK bank account.
+  - Minimum 1 year remaining on visa.
+  - Subject to underwriting.
+
+### Identity Verification
+
+- Proof of identity required for all applicants.
+- Acceptable: photo ID (passport or driving licence); proof of address from an official source dated within the last 3 months; AML report, credit reference and electoral roll confirmation.
+
+### Intermediary Requirements
+
+- Applications on behalf of members of the public accepted only from FCA-registered intermediaries.
+- Thorough due diligence and cross-referencing carried out on all applications.
+
+---
+
+## SECTION 3 – AFFORDABILITY ASSESSMENT
+
+### Stress Rate
+
+- Affordability calculated at the Society's standard variable rate (SVR) plus 1%.
+
+### Loan-to-Income (LTI)
+
+- Standard LTI ratio: 4.49x or less.
+- Higher LTIs may be considered for trapped borrowers or in other exceptional cases, at the discretion of the Head of Lending.
+- Maximum income multiple when lending into retirement: 4x.
+
+### Acceptable Income Sources
+
+- Employment income.
+- Self-employment income.
+- Pension income.
+- Investment income (with 10% reduction applied to non-guaranteed income to allow for market downturns).
+- Rental income.
+- Foster income.
+- A combination of the above.
+
+### Income Verification
+
+- Income must be verified in all cases.
+- Self-certified applications: not accepted.
+- Applicants in a probationary period: considered on a case-by-case basis, taking into account affordability and previous employment continuity.
+
+### Income Assessment — In and Into Retirement
+
+- Employed income: considered only up to age 75.
+- Other non-salaried income (rental, investments, pensions): considered where expected to continue. Professional landlords or company directors deriving income from investments considered at the Head of Lending's discretion.
+- Pension income: certainty of ongoing income assessed, including potential exhaustion of drawdown pension pots. Pension valuation statements dated within 1 month of application required. 10% haircut applied to non-guaranteed income.
+- Joint mortgages: affordability assessed to ensure both borrowers could maintain payments should the other die. A declaration to sell and downsize is acceptable for affordability purposes.
+
+---
+
+## SECTION 4 – CREDIT HISTORY
+
+- Discharged bankrupt: acceptable after 6 years.
+- All CCJs: must be settled for over 3 years.
+- One satisfied CCJ under £500 in the last 3 years: acceptable if not credit-related and satisfied for over 3 months.
+- All defaults: must be settled for over 3 years.
+- Maximum of 2 defaults under £1,000 and not credit-related: acceptable if settled less than 3 years ago.
+- Discharged IVA or DMP: acceptable after 3 years.
+- Active DMP: acceptable after 2 years.
+- A common sense view will be taken where a credit record shows a minor blip (e.g. one late or missed payment over a substantial period, swiftly settled, resulting from genuine oversight).
+- COVID-19 payment breaks taken in line with UK government measures: considered.
+
+---
+
+## SECTION 5 – INTEREST ONLY
+
+- Interest-only borrowers must declare in writing how they intend to repay the mortgage at the end of the term; all parties must sign this document (in introduced cases, signatures must be witnessed by the broker).
+- Maximum LTV: 70%.
+
+### Repayment Vehicles
+
+**Downsizing:**
+- Minimum equity required: £150,000 (or more, depending on local house prices).
+
+**Savings and Investments (held for at least 2 years):**
+- Must be in the names of all borrowers, held in GBP, and be at least equal to the loan advance (or projected to be so on lowest projections evidenced by statements within the last 12 months).
+- High-risk investments (single stock, exotic or speculative) not accepted.
+- Acceptable investment types and evidence:
+  - Managed investment plans, unit trusts, OEICs, investment bonds, stocks and shares ISAs: statements less than 12 months old.
+  - Managed shareholdings: share certificates, nominated account statements or confirmation from an authorised stockbroker.
+  - Endowment policies: latest projected value statement dated within 1 month of application.
+- 10% haircut applied to non-guaranteed investment values.
+
+**Sale of Another Property:**
+- Must be in England and Wales.
+- Evidence of equity required; valuation may be carried out by the Society; most recent mortgage statements required if mortgaged.
+
+**Sale of the Mortgaged Property (Downsizing):**
+- Minimum equity: £150,000; maximum LTV: 70%.
+- Borrower must commit to repaying the existing mortgage on sale and demonstrate sufficient remaining funds to purchase a new home.
+
+---
+
+## SECTION 6 – RETIREMENT INTEREST ONLY (RIO)
+
+- Interest-only loans repaid when the borrower dies, moves into long-term care, or sells the property.
+- All general lending-into-retirement criteria apply, plus:
+  - Minimum eligible age: 55.
+  - Maximum of 2 borrowers; no other occupiers (a family carer may reside with the borrower subject to a signed Occupiers' Consent form confirming no interest in the property).
+  - Maximum LTV: 60%; 30% where the property is in a retirement complex.
+  - Minimum property valuation: £125,000.
+  - Minimum loan size: £25,000 (purchase); £40,000 (remortgage).
+  - If the property is a flat, it must have lift access if not on the ground floor.
+
+### Acceptable Income for RIO
+
+- Net income from buy-to-let property.
+- Pension income.
+- Other non-salaried income, investments (e.g. stocks and shares ISAs, defined contribution pensions) — 10% haircut applied.
+
+---
+
+## SECTION 7 – INCOME TYPES
+
+### Self-Employed
+
+- Business accounts and income confirmation and/or SA302s required for periods appropriate to the LTV.
+- Rising income: most recent income level applied unless the latest year is more than 20% higher than previous years, in which case a risk director review may be required.
+- Income calculation: applicant's share of net profit, salary and dividends used for multiplier and affordability purposes.
+- Falling income: rarely accepted.
+- Unusual circumstances: personalised cases considered on an individual basis.
+
+### Contractors
+
+- Available across the current product range up to a maximum LTV of 80%.
+- Day 1 contracting: available for NHS and medical professionals with a 12-month track record of earnings in a related field.
+- Zero-hours contracts: available for professionals with 12 months' history and no gaps; and non-professionals with a minimum of 2 years' track record and no gaps in the last 12 months.
+- All contractor types considered on a case-by-case basis: CIS members, agency, nursing bank, fixed, temporary and short-term contracts, IT consultants and self-employed contractors — from 1 year's contract with evidence of a track record in a related field.
+- Umbrella companies: accepted with evidence of 1 year's track record in a related field.
+- No credit scoring — all decisions made on a case-by-case basis with individual underwriting.
+
+---
+
+## SECTION 8 – CAPITAL RAISING AND REMORTGAGE
+
+### Capital Raising
+
+- Lending considered for almost any legal purpose, including purchasing another property or a high-value item, on a case-by-case basis.
+
+### Debt Consolidation
+
+- Acceptable on purchases and remortgages for personal debts (business debts considered at the Head of Lending's discretion).
+- Maximum amount: £35,000 (above this requires referral).
+- Maximum LTV: 75%.
+
+### Remortgage — Additional Borrowing LTV Limits
+
+- Home improvements: 80% LTV.
+- Debt consolidation: 75% LTV.
+- Lifestyle, major purchase or project: 75% LTV.
+- Purchase of equity: 90% LTV.
+- Freehold reversion: 90% LTV.
+
+### Trapped Borrowers
+
+Affordability criteria for LTI ratios may be flexed for remortgage purposes, subject to the following conditions:
+- The customer's mortgage existed before 26 April 2014.
+- The contract was in keeping with affordability requirements at that time.
+- No additional borrowing is involved and no additional borrowing has been taken since the original mortgage.
+- The existing mortgage is fully up to date at application and has been so for the previous 12 months.
+- The monthly payment at the Society's SVR would not exceed the amount currently paid to the existing lender.
+- Affordability can be validated based on the borrower's current income.
+
+---
+
+## SECTION 9 – PROPERTY CRITERIA
+
+### Location
+
+- England: acceptable.
+- Wales: acceptable.
+- Scotland: not acceptable.
+
+### Accepted Property Types
+
+- Freehold properties.
+- Leasehold flats and apartments (minimum 20% deposit; owner-occupied only).
+- Commonhold properties (maximum 25-year term).
+- Agricultural or forestry restricted properties: acceptable within Yorkshire and the Humber only.
+- Second homes: acceptable where borrowers can demonstrate genuine residential (non-letting) use.
+- Properties with an annexe or outbuilding: acceptable; annexe/outbuilding used as a holiday let or AirBnB also acceptable.
+- Unusual or non-standard construction: considered on a case-by-case basis, including:
+  - Timber-framed and 100% timber properties.
+  - Thatch-roofed properties.
+  - System-built or modular buildings (subject to a licensed repair scheme).
+  - Grade II listed buildings.
+  - BOPAS-accredited schemes.
+- Properties with agricultural restrictions anywhere in England and Wales: considered.
+- Overages: considered where the overage clause is reasonable and not passively triggered, the valuer is made aware, and maximum LTV does not exceed 75%.
+- Properties with Japanese knotweed or other invasive species: considered subject to the valuer's advice and an insurance-backed eradication scheme with a specialist company.
+- Properties with wholly-owned solar panels: acceptable (the Society does not advise on servicing obligations — independent advice recommended).
+
+### Not Acceptable Properties
+
+- Freehold flats.
+- Local authority flats.
+- Grade I listed properties.
+- Properties classed as defective under Part XVI of the Housing Act 1985.
+- Properties with leased solar panels.
+- Commercial properties.
+
+### Flats and Apartments
+
+- Leasehold flats and apartments only; minimum 20% deposit; owner-occupied only.
+- Maximum 4 residential storeys (standard).
+- Flats in larger buildings considered at lower LTVs — an appropriate external fire wall review by a suitably qualified professional is required.
+
+### Leasehold Requirements
+
+- Minimum remaining lease: must exceed the mortgage term by at least 50 years.
+- Lease terms must be acceptable to the Society's solicitors.
+
+### Commonhold Properties
+
+- Acceptable subject to the borrower supplying details of the relevant commonhold association.
+- Maximum mortgage term: 25 years.
+
+### New Build and Conversions
+
+- Acceptable with appropriate certification and insurance from reputable providers.
+- Must have NHBC or equivalent certificate issued by a registered builder; or
+- Construction must be designed and supervised by a suitably qualified chartered architect or chartered surveyor carrying professional indemnity insurance of at least the finished property value, producing the RIBA/RICS standard New Build Professional Consultants Certificate on completion.
+- Minimum insurance/certification period: 10 years.
+- Professional Consultants Certificates (PCCs) in standard CML format may be accepted for properties built or converted within the last 10 years.
+
+### Self-Build
+
+- Self-build mortgages available subject to satisfactory certification and insurance (same requirements as new build above).
+- Staged payment advances available, subject to valuation at each stage.
+- Maximum LTV at any stage: 80%.
+- Monies released only once written confirmation of activated planning permission is received from the local authority.
+- Standard payment stages: 25% at roof plate level; 25% at roof on; 25% plastered out; 25% on completion. Different combinations considered at the Head of Lending's discretion.
+
+### Property Insurance
+
+- Buildings insurance must be in place and evidenced at completion.
+- All borrowers must sign a declaration confirming insurance is in place.
+
+### Valuations
+
+- RICS-qualified valuers only.
+- Accepted valuation types (RICS Guidance Notes): mortgage valuation, Homebuyers report and valuation, building survey with the Society's standard mortgage valuation report.
+- Hometrack automated valuation (AVM): acceptable for remortgages and further advances at LTV below 75% and total loan below £500,000.
+
+### Roads and Sewers
+
+- All access roads and sewers must be adopted by the local authority or subject to a road agreement backed by a bond under Section 38 of the Highways Act 1980 (roads) and Section 104 of the Water Resources Act 1991 as amended by the Water Act 2003 (sewers).
+- Where roads or sewers are not adopted, there must be adequate margin between the advance and the security; funds will be retained to cover adoption costs and a maintenance charge will apply to the borrower until adoption.
+
+### Right to Buy
+
+- Acceptable in East Yorkshire only.
+- Maximum LTV: 100% of the discounted purchase price.
+
+### Second-Charge Lending
+
+- Not available; the Society must always hold the first charge.
+
+---
+
+## SECTION 10 – GUARANTORS AND FAMILY ASSIST
+
+- Family members accepted as guarantors on a case-by-case basis, assessed for affordability in the same way as the borrowers.
+- The borrower must be working and not wholly reliant on the guarantor's support.
+
+**Options available:**
+- Straight guarantor (not party to the mortgage): guarantor legally agrees to assume liability for mortgage payments.
+- Joint Borrower, Sole Proprietor: guarantor is party to the mortgage without incurring stamp duty or ongoing mortgage payment obligations.
+
+---
+
+## SECTION 11 – SUPPORTING DOCUMENTATION
+
+- Fully completed application form from all potential borrowers.
+- Employed income: most recent P60(s), three most recent payslips, and 3 months' bank statements for all accounts.
+- Current mortgages: most recent mortgage statements.
+- Self-employed: business accounts and/or SA302s for periods appropriate to the LTV; bank statements also required.
+- Investments and assets: evidence of deposits in savings, shares and other asset forms where applicable.
+- Additional documentation may be required depending on the case, as directed by the Society or the introducing broker.
+- RIO mortgages: additional specific documentation required (see Section 6).
+
+---
+
+*END OF DOCUMENT*

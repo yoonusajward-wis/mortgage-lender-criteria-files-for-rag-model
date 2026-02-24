@@ -1,602 +1,416 @@
-LENDER NAME: Hodge Bank
-PRODUCT: Residential
+# Hodge Bank – Residential, Resi-Retire (50+) and RIO Criteria
 
-================================================================================
-HODGE BANK - RESIDENTIAL, RESI-RETIRE (50+), AND RIO MORTGAGE CRITERIA & AFFORDABILITY GUIDE
-================================================================================
+---
 
-Source: https://hodgebank.co.uk/intermediaries/wp-content/uploads/2024/08/Residential-Mortgage-Criteria-and-Affordability-Guide.pdf
+**LENDER:** Hodge Bank (trading name of Julian Hodge Bank Limited)
+**PRODUCT:** Residential / Resi-Retire (50+) / Retirement Interest Only (RIO)
+**DOCUMENT TYPE:** Lending Criteria and Affordability Guide
+**LAST UPDATED:** 31 October 2025
+**FOR INTERMEDIARY USE ONLY**
 
-Document: Residential Mortgage Criteria & Affordability Guide
-Effective from: 31 October 2025
+**Source:** https://hodgebank.co.uk/intermediaries/wp-content/uploads/2024/08/Residential-Mortgage-Criteria-and-Affordability-Guide.pdf
 
-Note: This document is for adviser use only.
+**Contact:**
+- Phone: 0800 138 9109
+- Email: Lendingsupport@hodge.co.uk
+- Adviser site: hodgebank.co.uk/intermediaries
 
-Last Verified: Based on PDF content as of the file creation date
+**Regulatory:** Julian Hodge Bank Limited is authorised and regulated by the Prudential Regulation Authority and the Financial Conduct Authority. Registered Office: One Central Square, Cardiff, CF10 1FS.
 
-================================================================================
-1. LOAN & BORROWER CRITERIA
-================================================================================
+---
 
-NUMBER OF BORROWERS
---------------------------------------------------------------------------------
+## SECTION 1 – LOAN PARAMETERS
 
-- Maximum 2 applicants
+- Maximum 2 applicants.
+- Minimum loan (Hodge Residential): £50,000.
+- Minimum loan (Resi-Retire 50+ and RIO): £20,000.
+- Maximum loan: £2,000,000.
+- Minimum term: 5 years.
+- Maximum term: 40 years.
+- RIO: lifetime mortgage with no end date.
+- Repayment types: capital and interest, or interest only.
 
-MINIMUM / MAXIMUM LOAN
---------------------------------------------------------------------------------
+### Maximum Loan by LTV
 
-- Hodge Residential: Minimum £50,000
-- Hodge Resi Retire (50+) / RIO: Minimum £20,000
-- Maximum Loan: £2,000,000
+- Up to £600,000: maximum LTV 95%.
+- Up to £850,000: maximum LTV 90%.
+- Up to £1,000,000: maximum LTV 85%.
+- Up to £2,000,000: maximum LTV 75%.
 
-MAXIMUM LOAN BY LTV BAND
---------------------------------------------------------------------------------
+### LTV Limits by Repayment Type
 
-| Loan Size | Max LTV |
-|-----------|---------|
-| Up to £600,000 | 95% LTV |
-| Up to £850,000 | 90% LTV |
-| Up to £1,000,000 | 85% LTV |
-| Up to £2,000,000 | 75% LTV |
+- 95% LTV: repayment purchase (Resi and Resi-Retire).
+- 90% LTV: repayment remortgage (Resi and Resi-Retire).
+- 75% LTV: interest only (all products).
+- Debt consolidation: allowed; maximum LTV 85% (repayment only).
 
-LOAN TERM
---------------------------------------------------------------------------------
+---
 
-- Minimum 5 years
-- Maximum 40 years
+## SECTION 2 – LOAN PURPOSES
 
-AGE AT APPLICATION
---------------------------------------------------------------------------------
+### Permitted
 
-- Minimum age: 21
-- Maximum age:
-  - 75 – Hodge Resi
-  - 88 – Resi Retire (50+) & RIO
+- Purchase of main residence or second home.
+- Remortgage with capital raising.
+- Debt consolidation.
+- Transfer of equity.
+- Business injection.
+- Payment of taxes.
 
-REPAYMENT TYPES
---------------------------------------------------------------------------------
+### Not Permitted
 
-- Repayment (C&I)
-- Interest Only
+- Clearing gambling debts.
+- Purchase of timeshare.
+- Right to Buy.
+- Shared Equity.
+- Shared Ownership.
 
-LTV LIMITS:
---------------------------------------------------------------------------------
+---
 
-- 95% – Repayment Purchase (Resi & Resi Retire)
-- 90% – Repayment Remortgage (Resi & Resi Retire)
-- 75% – Interest Only (all products)
+## SECTION 3 – INCOME MULTIPLES
 
-DEBT CONSOLIDATION
---------------------------------------------------------------------------------
+### Hodge Residential
 
-- Allowed
-- Max LTV capped at 85% (Repayment only)
+- At 90% LTV: 5x income.
+- At 80–90% LTV: 5.5x income.
+- At 80% LTV or below: 6x income.
+- Interest only: 5x income.
 
-================================================================================
-2. LOAN PURPOSES
-================================================================================
+### Hodge Resi-Retire (50+) and RIO
 
-PERMITTED
---------------------------------------------------------------------------------
+- At 90% LTV: 5x income.
+- At 90% LTV or below: 5.5x income.
+- Interest only: 5x income.
 
-- Purchase of main residence or second home
-- Remortgage with capital raising
-- Debt consolidation
-- Transfer of equity
-- Business injection
-- Payment of taxes
+### Special Rule
 
-NOT PERMITTED
---------------------------------------------------------------------------------
+- Like-for-like remortgages (£ for £): 6x income regardless of LTV.
 
-- Clearing gambling debts
-- Purchase of timeshare
-- Right-to-Buy
-- Shared Equity
-- Shared Ownership
+---
 
-================================================================================
-3. INCOME MULTIPLES
-================================================================================
+## SECTION 4 – INCOME AND AFFORDABILITY
 
-HODGE RESI
---------------------------------------------------------------------------------
+### Employed Income
 
-- 90% LTV → 5× income
-- 80%–90% → 5.5× income
-- ≤80% → 6× income
-- Interest Only: 5× income
+- 100% of PAYE income used up to the expected retirement date.
+- Can be used up to age 80.
+- If used past age 70, plausibility of continued employment is assessed.
 
-HODGE RESI RETIRE (50+) & RIO
---------------------------------------------------------------------------------
+### Overtime and Commission
 
-- 90% LTV → 5× income
-- ≤90% → 5.5× income
-- Interest Only: 5× income
+- Average of last 12 months used.
+- If stable: up to 100%.
+- If not stable: 50% or 2-year average.
 
-SPECIAL RULE
---------------------------------------------------------------------------------
+### Bonus
 
-- £ for £ remortgages = 6× income regardless of LTV
+- Annual bonus: up to 75% of the average of the last 2 payments.
+- Monthly bonus: treated as overtime/commission.
 
-================================================================================
-4. INCOME & AFFORDABILITY CRITERIA
-================================================================================
+### Self-Employed – Sole Traders and Partners
 
-EMPLOYED INCOME
---------------------------------------------------------------------------------
+- Minimum 12 months' trading.
+- Latest year's figures used if sustainable; projections may be requested.
 
-- 100% of PAYE income used up to expected retirement date
-- Can be used up to age 80
-- If used past age 70, plausibility of continued employment assessed
+**Evidence requirements:**
+- Trading 2 years or more: 2 years' SA302s and tax year overviews.
+- Trading less than 2 years: minimum 1 year's accounts; accountant's projection plus latest 3 months' business bank statements.
 
-OVERTIME / COMMISSION
---------------------------------------------------------------------------------
+**New partners:**
+- Replacing an existing partner: 2 years' partnership accounts plus actual drawings.
+- Newly created partner: expected percentage of drawings.
+- If insufficient evidence: accountant's certificate acceptable.
 
-- Average of last 12 months
-- If stable → up to 100%
-- If not stable → 50% or 2-year average
+### Limited Company Directors
 
-BONUS
---------------------------------------------------------------------------------
+- Minimum 12 months' trading.
+- Affordability based on salary plus dividends; retained profit considered in certain cases.
 
-- Annual: up to 75% of average of last 2 payments
-- Monthly: treated as overtime/commission
+**Retained profit allowed if:**
+- Borrower(s) own 100% of shares.
+- Business has been trading for 2 years or more.
+- Retained profit is stable or increasing.
+- Accountant confirms funds can be drawn safely.
+- Evidence requirements mirror sole trader requirements.
 
-SELF-EMPLOYED – SOLE TRADERS & PARTNERS
---------------------------------------------------------------------------------
+### Contractors
 
-- Minimum 12 months trading
-- Latest year's figures used if sustainable (projections may be requested)
+**Day Rate Contractors:**
+- Minimum 12 months' contracting.
+- Minimum 3 months remaining on contract or evidence of renewal.
+- Affordability: 48 weeks × day rate.
+- Maximum 3-month gap between contracts in the last year.
+- Day-1 contractors: considered with relevant experience and minimum income of £50,000.
+- Multiple concurrent contracts may be accepted on a case-by-case basis.
 
-Evidence Requirements:
+**Fixed-Term Contractors:**
+- Employer must pay Tax and National Insurance.
+- Minimum 12 months' experience in a similar role.
+- Minimum 3 months remaining on contract or evidence of renewal.
+- No minimum income.
 
-- If trading ≥2 years:
-  - 2 years SA302s & tax overviews
-- If trading <2 years:
-  - Minimum 1 year's accounts
-  - Accountant's projection + latest 3 months business bank statements
+---
 
-New Partners:
-- Replacing existing partner → 2 years partnership accounts + actual drawings
-- Newly created partner → expected % drawings
-- If insufficient evidence → accountant's certificate acceptable
+## SECTION 5 – RETIREMENT INCOME
 
-LIMITED COMPANY DIRECTORS
---------------------------------------------------------------------------------
+### State Pension
 
-- Minimum 12 months trading
-- Affordability based on salary + dividends, plus retained profit in certain cases
+- Amounts in payment or expected entitlement accepted.
 
-Retained Profit Allowed If:
-- Borrower(s) own 100% of shares
-- Business trading ≥2 years
-- Retained profit stable/increasing
-- Accountant confirms funds can be drawn safely
+### Pensions in Payment
 
-Evidence mirrors Sole Trader requirements.
+- 100% accepted (annuities, personal and company pensions).
 
-CONTRACTORS
---------------------------------------------------------------------------------
+### UFPLS, Drawdown and Collective Investments
 
-Day Rate Contractors:
-- Min 12 months contracting
-- Min 3 months remaining OR evidence of renewal
-- Affordability: 48 weeks × day rate
-- Max 3 months gap between contracts in last year
-- Day-1 contractors: considered with relevant experience + £50k min income
-- Multiple concurrent contracts may be accepted case-by-case
+- Income calculated based on projected fund value × drawdown rate.
 
-Fixed-Term Contractors:
-- Employer must pay Tax/NI
-- Min 12 months experience in similar role
-- Min 3 months remaining OR evidence of renewal
-- No minimum income
+**Drawdown rate by age:**
+- Age 50–59: 3.3–3.9%.
+- Age 60–69: 4.2–5.6%.
+- Age 70–76: 5.7–7.6%.
+- Age 77 and above: 7%.
 
-================================================================================
-5. RETIREMENT INCOME
-================================================================================
+**Additional rules:**
+- Use 100% of projected pot less declared tax-free withdrawal.
+- Investments: use 75% of projected pot.
 
-STATE PENSION
---------------------------------------------------------------------------------
+### Surviving Partner Stress Test
 
-- Amounts in payment OR expected entitlement
+- If term extends beyond the 87th birthday of either applicant: affordability tested for each borrower individually.
+- Life insurance can be used if it repays the loan.
 
-PENSIONS IN PAYMENT
---------------------------------------------------------------------------------
+### Guarantors
 
-- 100% accepted (annuities, personal, company)
+- Not permitted.
 
-UFPLS / DRAWDOWN / COLLECTIVE INVESTMENTS
---------------------------------------------------------------------------------
+---
 
-Used based on projected fund value × % drawdown rate
+## SECTION 6 – CREDIT CRITERIA
 
-Sliding scale:
+### Unsecured Arrears
 
-| Age | Income % allowed |
-|-----|------------------|
-| 50–59 | 3.3–3.9% |
-| 60–69 | 4.2–5.6% |
-| 70–76 | 5.7–7.6% |
-| 77+ | 7% |
+- Maximum 2 months' arrears in last 2 years.
+- Must be up to date at application.
+- Communications and utilities arrears ignored.
 
-Additional rules:
-- Use 100% of projected pot less declared tax-free withdrawal
-- Investments: use 75% of projected pot
+### Secured and Mortgage Arrears
 
-SURVIVING PARTNER STRESS TEST
---------------------------------------------------------------------------------
+- No arrears in last 6 months.
+- Maximum 1 month's arrears in last 12 months.
+- Maximum 2 months' arrears in last 2 years.
 
-- If term extends beyond 87th birthday of either applicant:
-  - Affordability tested for each borrower individually
-  - Life insurance can be used if it repays the loan
+### Defaults
 
-GUARANTORS
---------------------------------------------------------------------------------
+- Satisfied: up to £500 in last 3 years.
+- Unsatisfied: allowed if over 3 years old and total under £250.
+- Communications and utilities ignored.
 
-- Not permitted
+### CCJs
 
-================================================================================
-6. CREDIT CRITERIA
-================================================================================
+- Satisfied: maximum £500 in last 3 years, or over 3 years old regardless of amount.
+- Unsatisfied: under £250 and over 3 years old.
+- Communications and utilities: allowed at underwriter discretion.
 
-UNSECURED ARREARS
---------------------------------------------------------------------------------
+### Debt Management Plan and IVA
 
-- Max 2 months arrears in last 2 years
-- Must be up to date at application
-- Comms/utilities ignored
+- Acceptable if discharged 3 or more years ago.
 
-SECURED / MORTGAGE ARREARS
---------------------------------------------------------------------------------
+### Repossession
 
-- No arrears in last 6 months
-- Max 1 month arrears in last year
-- Max 2 months in last 2 years
+- Acceptable if over 6 years ago.
 
-DEFAULTS
---------------------------------------------------------------------------------
+### Bankruptcy and Sequestration
 
-- Satisfied: up to £500 in last 3 years
-- Unsatisfied: allowed if > 3 years old and total <£250
-- Comms/utilities ignored
+- Acceptable if discharged 6 or more years ago.
 
-CCJs
---------------------------------------------------------------------------------
+---
 
-- Satisfied: max £500 in last 3 years OR >3 years regardless of amount
-- Unsatisfied: <£250 AND >3 years old
-- Comms/utilities allowed at underwriter discretion
+## SECTION 7 – RESIDENCY CRITERIA
 
-DEBT MANAGEMENT PLAN / IVA
---------------------------------------------------------------------------------
+### Foreign Nationals
 
-- Acceptable if discharged ≥3 years
+- With Indefinite Leave to Remain (ILR): treated as UK nationals.
+- Without ILR: acceptable on the following visas:
+  - Global Talent Visa (minimum 18 months' evidence).
+  - Skilled Worker Visa (permanent employment).
+  - Health and Care Visa.
+  - Spousal Visa (joint applications only).
+  - Maximum LTV: 90%.
+  - Minimum 2 years' UK residency.
+  - Minimum 2 years' UK credit history.
 
-REPOSSESSION
---------------------------------------------------------------------------------
+### EU Settlement Scheme and Irish Nationals
 
-- Acceptable >6 years ago
+- Minimum 2 years' UK residency.
+- Must be a UK taxpayer.
+- Must have 2 years' UK credit history.
 
-BANKRUPTCY / SEQUESTRATION
---------------------------------------------------------------------------------
-
-- Acceptable if discharged ≥6 years
-
-CREDIT SCORE
---------------------------------------------------------------------------------
-
-- Used to assess plausibility
-
-================================================================================
-7. RESIDENCY CRITERIA
-================================================================================
-
-FOREIGN NATIONALS
---------------------------------------------------------------------------------
-
-- With ILR: treated as UK nationals
-- Without ILR: acceptable if:
-  - Global Talent Visa (≥18 months evidence)
-  - Skilled Worker Visa (permanent employment)
-  - Health & Care Visa
-  - Spousal Visa (joint applications only)
-  - Max LTV 90%
-  - Minimum 2 years UK residency
-  - Minimum 2 years UK credit history
-
-EU SETTLEMENT SCHEME / IRISH NATIONALS
---------------------------------------------------------------------------------
-
-- Min 2 years UK residency
-- Must be UK taxpayer
-- Must have 2 years credit history
-
-RETURNING EXPATS
---------------------------------------------------------------------------------
+### Returning Expats
 
 Accepted from day 1 if:
-- Returning to permanent employment OR retired
-- Residing in UK at application
-- UK credit conduct identifiable
-- Max time abroad: 2 years
+- Returning to permanent employment or retired.
+- Residing in the UK at time of application.
+- UK credit conduct identifiable.
+- Maximum time abroad: 2 years.
 
-If abroad >2 years OR self-employed OR no credit file:
-- Min 6 months UK residency
+If abroad more than 2 years, or self-employed, or no UK credit file:
+- Minimum 6 months' UK residency required before application.
 
-================================================================================
-8. INTEREST ONLY
-================================================================================
+---
 
-ACCEPTABLE REPAYMENT STRATEGIES
---------------------------------------------------------------------------------
+## SECTION 8 – INTEREST ONLY
 
-- Sale of mortgaged property (subject to regional equity minimums)
-- Sale of other property (equity must fully cover loan)
-- Realisation of investments
-- Existing endowment (mid-growth projection)
-- Pension lump sum: 25% of midpoint projected maturity value
+- Maximum LTV: 75% (including debt consolidation).
+- No minimum income requirement for interest only.
 
-MINIMUM EQUITY FOR SALE OF MORTGAGED PROPERTY
---------------------------------------------------------------------------------
+### Acceptable Repayment Strategies
 
-| Region | Minimum Equity |
-|--------|----------------|
-| Scotland (ex. Edinburgh & Dundee), North East | £100k |
-| North West, Yorkshire & Humber, Wales | £120k |
-| Rest of UK | £150k |
-| London | £250k |
+- Sale of mortgaged property (subject to regional equity minimums below).
+- Sale of another property (equity must fully cover the loan).
+- Realisation of investments.
+- Existing endowment (mid-growth projection).
+- Pension lump sum: 25% of midpoint projected maturity value.
 
-MAX LTV
---------------------------------------------------------------------------------
+### Minimum Equity for Sale of Mortgaged Property
 
-- 75%, including debt consolidation
+- Scotland (excluding Edinburgh and Dundee) and North East: £100,000.
+- North West, Yorkshire and Humber, and Wales: £120,000.
+- Rest of UK: £150,000.
+- London: £250,000.
 
-MINIMUM INCOME
---------------------------------------------------------------------------------
+---
 
-- No minimum income requirement for Interest Only
+## SECTION 9 – RETIREMENT INTEREST ONLY (RIO)
 
-================================================================================
-9. PROPERTY CRITERIA
-================================================================================
+- Minimum age: 50.
+- Maximum age: 88.
+- Repayment type: interest only.
+- No repayment vehicle required.
+- Loan repaid on death or move into long-term care.
+- Lifetime mortgage — no end date.
+- Maximum LTV: 75%.
+- Minimum property value: £100,000 (no specific minimum equity requirement).
+- Borrower must demonstrate ability to maintain payments for life.
+- Joint cases: affordability assessed on each applicant individually in the event of one borrower's death.
+- Life insurance proceeds may be considered.
 
-MINIMUM / MAXIMUM VALUE
---------------------------------------------------------------------------------
+---
 
-- Minimum £100,000
-- Maximum £10 million
-- 95% LTV: min property value £300,000
+## SECTION 10 – PROPERTY CRITERIA
 
-LOCATIONS ACCEPTED
---------------------------------------------------------------------------------
+### Property Values
 
-- England (including Isle of Wight)
-- Wales
-- Scotland (incl. road-bridge islands)
+- Minimum property value: £100,000.
+- Maximum property value: £10,000,000.
+- At 95% LTV: minimum property value £300,000.
 
-LOCATIONS NOT ACCEPTED
---------------------------------------------------------------------------------
+### Acceptable Locations
 
-- Northern Ireland
-- Isle of Man
-- Channel Islands
-- Any island without road bridge (except IoW)
-- Holiday parks / complexes
-- London Holiday Lets (due to >90-day letting ban)
+- England (including Isle of Wight).
+- Wales.
+- Scotland (including road-bridge connected islands).
 
-UNACCEPTABLE PROPERTY TYPES
---------------------------------------------------------------------------------
+### Unacceptable Locations
 
-- Retirement, sheltered or age-restricted
-- Park homes
-- Mobile homes
-- Caravans
-- Houseboats
+- Northern Ireland.
+- Isle of Man.
+- Channel Islands.
+- Any island without a road bridge (Isle of Wight excepted).
+- Holiday parks and complexes.
 
-================================================================================
-10. NEW BUILD
-================================================================================
+### Unacceptable Property Types
 
-ACCEPTABLE
---------------------------------------------------------------------------------
+- Retirement, sheltered or age-restricted properties.
+- Park homes.
+- Mobile homes.
+- Caravans.
+- Houseboats.
 
-- Houses & flats built/converted within last 12 months
-- Developer must be NHOS registered
-- Must have warranty or PCC
+---
 
-DEVELOPMENTS >3 UNITS
---------------------------------------------------------------------------------
+## SECTION 11 – PROPERTY FEATURES
 
-- Must be registered with the New Homes Quality Board (NHQB)
+### Bedrooms
 
-RESTRICTIONS
---------------------------------------------------------------------------------
+- Up to 6 bedrooms; more than 6 by referral.
 
-- No 95% LTV on new builds
-- Allowed incentives up to 5%, e.g.:
-  - Cashback
-  - SDLT contribution
-  - Deposit gift
-  - Legal fees
-- Incentives do NOT reduce valuation
-- Incentives must be matched by borrower
+### Kitchens
 
-================================================================================
-11. EX-PUBLIC-SECTOR PROPERTIES
-================================================================================
+- Up to 2 kitchens acceptable.
 
-MINIMUM VALUES
---------------------------------------------------------------------------------
+### Annexes
 
-- Houses: £150,000
-- Flats/maisonettes: £250,000
+- One self-contained annexe acceptable if let on a short-term basis only.
 
-FLATS / MAISONETTES ONLY ACCEPTED IF:
---------------------------------------------------------------------------------
+### Non-Standard Construction
 
-- ≤4 storeys
-- No communal balconies
-- No open walkways
+- Single-skin walls: accepted only in single-storey non-habitable rooms.
+- Modern timber-frame: accepted (post-1950 in Scotland; post-1970 in England and Wales).
+- Timber-frame with retrospectively filled cavities: not accepted.
+- Modern methods of construction (MMC): considered on a case-by-case basis.
 
-NOT ALLOWED
---------------------------------------------------------------------------------
+### Above or Adjacent to Commercial Premises
 
-- Ex-public-sector at 95% LTV
-- Properties still within Right to Buy pre-emption period
+- Restaurants, takeaways, cafes and pubs may be considered.
+- Minimum property value: £150,000 (outside London); £250,000 (London).
 
-================================================================================
-12. PROPERTY FEATURES
-================================================================================
+---
 
-BEDROOMS
---------------------------------------------------------------------------------
+## SECTION 12 – FLATS AND MAISONETTES
 
-- Up to 6 (more by referral)
+- Maximum 6 storeys as standard.
+- Over 6 storeys: accepted only if developer has signed the Developer Remediation Contract (England or Welsh Government equivalent).
+- Flats above the 3rd floor: building must have a lift (except Scottish tenements).
+- Non-standard construction flats: maximum 4 storeys.
+- Freehold flats and maisonettes: not accepted.
+- Minimum lease remaining at completion: 85 years.
+- New build flats: acceptable when fully complete with appropriate warranty; not allowed at 95% LTV.
 
-KITCHENS
---------------------------------------------------------------------------------
+### Service Charge and Ground Rent
 
-- Up to 2 acceptable
+- Service charge: must not exceed 1% of property value.
+- Ground rent: must not exceed 0.1% of property value.
+- Ground rent must not double more frequently than every 20 years.
+- Ground rent must not be linked to property value.
 
-ANNEXES
---------------------------------------------------------------------------------
+### Scottish Tenement Flats
 
-- 1 self-contained annexe acceptable if short-term let only
+Acceptable if all of the following apply:
+- Minimum value £100,000 (£120,000 if above commercial premises).
+- Built before 1915.
+- Masonry construction with pitched roof.
+- Maximum 5 storeys.
+- No communal balconies or open-access walkways.
 
-NON-STANDARD CONSTRUCTION
---------------------------------------------------------------------------------
+---
 
-- Single-skin accepted only in single-storey, non-habitable rooms
-- Modern timber frame accepted (post-1950 Scotland / post-1970 England & Wales)
-- Timber frames with retro-filled cavities not accepted
-- MMC considered case-by-case
+## SECTION 13 – NEW BUILD
 
-ABOVE / ADJACENT TO COMMERCIAL
---------------------------------------------------------------------------------
+- Houses and flats built or converted within the last 12 months: acceptable.
+- Developer must be registered with the New Homes Ombudsman Service (NHOS).
+- Must have a structural warranty or Professional Consultant's Certificate (PCC).
+- Developments of more than 3 units: must be registered with the New Homes Quality Board (NHQB).
+- Not available at 95% LTV.
 
-- Restaurants, takeaways, cafes, pubs may be considered
-- Minimum values:
-  - £150,000 outside London
-  - £250,000 in London
+### New Build Incentives
 
-================================================================================
-13. FLATS & MAISONETTES
-================================================================================
+- Maximum 5% incentives allowed, including: cashback, Stamp Duty Land Tax contribution, deposit gift and legal fees.
+- Incentives do not reduce the valuation or purchase price.
+- Incentive value must be matched by the borrower's own funds.
 
-STOREYS
---------------------------------------------------------------------------------
+---
 
-- Up to 6 as standard
-- 6 storeys allowed if developer signed Developer Remediation Contract (England/Wales)
+## SECTION 14 – EX-PUBLIC-SECTOR PROPERTIES
 
-LIFT REQUIREMENT
---------------------------------------------------------------------------------
+- Houses: acceptable with minimum value £150,000.
+- Flats and maisonettes: acceptable with minimum value £250,000, subject to:
+  - Maximum 4 storeys.
+  - No communal balconies.
+  - No open-access walkways.
+- Not allowed at 95% LTV.
+- Properties still within the Right to Buy pre-emption period: not acceptable.
 
-- If >3rd floor → building must have a lift
-- Except Scottish tenements
+---
 
-NON-STANDARD FLATS
---------------------------------------------------------------------------------
-
-- Max 4 storeys
-
-SERVICE CHARGE / GROUND RENT
---------------------------------------------------------------------------------
-
-- Service charge ≤ 1% of property value
-- Ground rent ≤ 0.1%
-- Ground rent must not double more often than 20 years
-- Must not be linked to property value
-
-NEW BUILD FLATS
---------------------------------------------------------------------------------
-
-- Acceptable when fully complete with warranty
-- Not allowed at 95% LTV
-
-LEASEHOLD REQUIREMENTS
---------------------------------------------------------------------------------
-
-- Minimum 85 years remaining at completion
-- Freehold flats / maisonettes NOT accepted
-
-SCOTTISH TENEMENT FLATS
---------------------------------------------------------------------------------
-
-Acceptable if:
-- Min value £100,000 (or £120,000 above commercial)
-- Pre-1915 masonry build
-- ≤5 storeys
-- No communal balconies or access
-
-================================================================================
-14. RIO (RETIREMENT INTEREST ONLY)
-================================================================================
-
-AGE
---------------------------------------------------------------------------------
-
-- Minimum 50
-- Maximum 88
-
-REPAYMENT TYPE
---------------------------------------------------------------------------------
-
-- Interest Only
-- No repayment vehicle required
-- Loan repaid on death or move into care
-
-TERM
---------------------------------------------------------------------------------
-
-- Lifetime mortgage – no end date
-
-LTV
---------------------------------------------------------------------------------
-
-- Max 75%
-
-MINIMUM EQUITY
---------------------------------------------------------------------------------
-
-- No specific minimum, but property must be £100k+
-
-AFFORDABILITY
---------------------------------------------------------------------------------
-
-- Must demonstrate ability to maintain payments for life
-- Joint cases: affordability assessed on each applicant individually if one dies
-- Life insurance proceeds may be considered
-
-================================================================================
-15. CONTACT DETAILS
-================================================================================
-
-ADVISER SUPPORT
---------------------------------------------------------------------------------
-
-**Telephone:** 0800 138 9109
-
-**Email:** Lendingsupport@hodge.co.uk
-
-WEBSITES
---------------------------------------------------------------------------------
-
-- Customer: hodgebank.co.uk
-- Intermediaries: hodgebank.co.uk/intermediaries
-
-REGULATION
---------------------------------------------------------------------------------
-
-Hodge is a trading name of Julian Hodge Bank Limited, authorised and regulated by the PRA and FCA.
-
-**Registered Office:**
-One Central Square, Cardiff, CF10 1FS
-
-**Privacy:**
-For more detail on how we handle your information, please go to hodgebank.co.uk/privacy or call 0800 289 358
-
-================================================================================
+*END OF DOCUMENT*

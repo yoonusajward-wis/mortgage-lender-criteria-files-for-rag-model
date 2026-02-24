@@ -1,277 +1,200 @@
-LENDER NAME: Landbay
-PRODUCT: Buy to Let
+# Landbay – Buy to Let Criteria
 
-================================================================================
-LANDBAY - BUY TO LET LENDING CRITERIA
-================================================================================
+---
 
-Source: https://landbay.co.uk/intermediaries/lending-criteria/
-Scraped: 2025-09-08 15:08:47
+**LENDER:** Landbay
+**PRODUCT:** Buy to Let
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 2025
+**FOR INTERMEDIARY USE ONLY**
 
-Note: This document is for intermediary use only.
+**Source:** https://landbay.co.uk/intermediaries/lending-criteria/
 
-Last Verified: Based on website content as of the file creation date
+**Contact:**
+- Find your local BDM: https://landbay.co.uk/intermediaries/bdm/
+- Broker Portal: https://mortgages.landbay.co.uk
+- Broker registration: https://mortgages.landbay.co.uk/registration/
+- Criteria Assessment Tool: https://landbay.co.uk/intermediaries/lending-criteria/criteria-assessment-tool/
 
-================================================================================
-OVERVIEW
-================================================================================
+**Regulatory:** Landbay Partners Limited, registered office 111 Buckingham Palace Road, London, SW1W 0SR (Company No. 08668507). Registered with the Financial Conduct Authority (FRN: 1007789). Registered with the Office of the Information Commissioner (Reg No. ZA036027).
 
-Here's everything you need to know about our buy-to-let lending criteria. If you can't find the answer you're looking for then use our Criteria Assessment Tool or get in touch with the team.
+> Landbay only lends on properties intended for rent. An advance will not be agreed where the owners or their relatives plan to occupy the property.
 
-For more information, visit: https://landbay.co.uk/intermediaries/lending-criteria/criteria-assessment-tool/
+---
 
-================================================================================
-1. WHO DO WE LEND TO?
-================================================================================
+## SECTION 1 – APPLICANT ELIGIBILITY
 
-We lend to:
+### Accepted Borrower Types
 
-- Individuals
-- Limited Companies (SPVs and Trading)
-- Limited Liability Partnerships (LLPs)
-- First-time landlords
+- Individuals.
+- Limited Companies (SPVs and trading).
+- Limited Liability Partnerships (LLPs).
+- First-time landlords.
 
-IMPORTANT NOTE
---------------------------------------------------------------------------------
+### All Applicants Must Meet
 
-We only lend on properties which are intended for rent. We will not agree an advance where the owners (or their relatives) plan to occupy the property.
+- Minimum age: 21.
+- Maximum age: 95, provided at least one director is under 85 at end of term.
+- A UK credit footprint is required.
+- No adverse credit history.
+- Minimum income of £25,000 per annum (no minimum income required for landlords with more than 24 months' experience).
+- All income must be evidenced.
 
-================================================================================
-2. ALL APPLICANTS MUST HAVE/BE
-================================================================================
+---
 
-- Minimum age of 21
-- Maximum age 95 if at least one director is under 85 at End of Term
-- A UK credit footprint
-- No adverse credit history
-- Minimum income of £25,000 PA (there is no minimum for landlords with more than 24 months experience)
-- Note that all income must be proved
+## SECTION 2 – FIRST-TIME LANDLORDS
 
-================================================================================
-3. FIRST-TIME LANDLORDS
-================================================================================
+- Maximum LTV: 75%.
+- Must be owner-occupiers of their current main residence.
 
-- Maximum LTV of 75%
-- Must be owner occupiers of current main residence
+---
 
-================================================================================
-4. PREMIER PRODUCTS
-================================================================================
+## SECTION 3 – PROPERTY ELIGIBILITY
 
-- Available for Individuals and Limited Company SPVs
-- Maximum 15 BTL properties in portfolio
-- Intercompany loans are acceptable
-- Maximum exposure – £5M
-- Property must be let on an AST of maximum 3 years
-- See full lending guide for more information
+### Location
 
-================================================================================
-5. HOLIDAY LETS
-================================================================================
+- England and Wales only.
+- Must not be consumer buy-to-lets, shared ownership, Help to Buy, Right to Buy or residential properties.
 
-- Maximum lending 5 properties
-- All holiday lets require a physical valuation
-- Excludes first-time landlords
-- Landlords cannot live in the property
+### Minimum Property Values
 
-================================================================================
-6. HMOs & MUFBs
-================================================================================
+- Standard properties: £65,000.
+- HMOs (in qualifying areas): £75,000.
+- MUFBs: £120,000.
 
-HMO MINIMUM PROPERTY VALUE
---------------------------------------------------------------------------------
+### Other Requirements
 
-- £75,000 in qualifying areas
+- Must be in an area with strong rental demand, as determined by Landbay's surveyor partners.
+- Must be suitable for letting at completion.
+- Rental income must meet the applicable ICR percentage — see Section 5 and the BTL calculator at: https://landbay.co.uk/intermediaries/products-and-btl-calculator/
 
-MUFB MINIMUM PROPERTY VALUE
---------------------------------------------------------------------------------
+---
 
-- £120,000
+## SECTION 4 – ACCEPTED PROPERTY TYPES
 
-MAXIMUM LTV
---------------------------------------------------------------------------------
+- Standard residential properties.
+- Houses of Multiple Occupation (HMOs).
+- Multi-Unit Freehold Blocks (MUFBs).
+- Properties adjacent to or above commercial premises: considered up to a maximum LTV of 75%, provided the commercial use is in line with the local market and does not affect the property's security or long-term rental opportunities.
 
-- Maximum LTV for HMO is 80%
-- Maximum LTV for MUFB is 75%
+---
 
-EXPERIENCE REQUIREMENTS
---------------------------------------------------------------------------------
+## SECTION 5 – HMOs AND MUFBs
 
-- Applicants must have a minimum of 12 months prior experience as a landlord
+### Size Definitions
 
-SIZE DEFINITIONS
---------------------------------------------------------------------------------
+- Small HMO/MUFB: up to 6 beds/units.
+- Large HMO/MUFB: 7–12 beds/units.
+- HMOs: maximum 12 bedrooms.
+- MUFBs: maximum 12 units.
+- MUFB definition: multiple flats on a single freehold.
+- HMO minimum room dimensions must comply with statutory and local authority requirements.
 
-- Small HMO/MUFB is up to 6 beds/units
-- Large HMO/MUFB is 7-12 beds/units
-- HMOs – max. 12 bedrooms
-- MUFBs – max. 12 units
+### LTV Limits
 
-DEFINITIONS
---------------------------------------------------------------------------------
+- Maximum LTV for HMOs: 80%.
+- Maximum LTV for MUFBs: 75%.
 
-- The definition of an MUFB is multiple flats on a single freehold
-- HMO minimum room dimensions must be determined by statute and local authority requirements
+### Experience Requirements
 
-================================================================================
-7. FIRST-TIME HMO OR MUFB LANDLORDS
-================================================================================
+- Applicants must have a minimum of 12 months' prior experience as a landlord.
 
-Subject to availability: We offer a specific range of products for first-time landlords wishing to purchase an HMO or MUFB.
+---
 
-- Maximum 75% LTV
-- Max loan size – £1,000,000
-- Up to 6 beds or units
-- Maximum 2 borrowers
-- Excludes trading limited companies
-- Excludes new builds
-- Investment valuations
-- Borrowers must be residential homeowners
+## SECTION 6 – FIRST-TIME HMO OR MUFB LANDLORDS
 
-================================================================================
-8. WE LEND AGAINST
-================================================================================
+Subject to product availability:
 
-- Standard properties
-- Houses of Multiple Occupancy (HMO)
-- Multi-Unit Freehold Blocks (MUFB)
-- Properties adjacent or above commercial premises*
+- Maximum LTV: 75%.
+- Maximum loan size: £1,000,000.
+- Up to 6 beds or units.
+- Maximum 2 borrowers.
+- Borrowers must be residential homeowners.
+- Excludes trading limited companies.
+- Excludes new builds.
+- Investment valuations required.
 
-*We will consider applications adjacent or above commercial premises, provided that the use for the commercial properties are in line with the local market and that they do not affect the property's security or long-term rental opportunities. This is restricted to max. LTV of 75%.
+---
 
-================================================================================
-9. PROPERTIES MUST HAVE/BE
-================================================================================
+## SECTION 7 – HOLIDAY LETS
 
-LOCATION
---------------------------------------------------------------------------------
+- Maximum lending: 5 holiday let properties.
+- All holiday lets require a physical valuation.
+- First-time landlords excluded.
+- Landlords cannot live in the property.
 
-- In England and Wales**
+---
 
-**Must not be consumer buy-to-lets, shared ownerships, Help to Buy, Right to Buy or residential properties.
+## SECTION 8 – PREMIER PRODUCTS
 
-RENTAL INCOME
---------------------------------------------------------------------------------
+- Available for individuals and limited company SPVs.
+- Maximum 15 BTL properties in portfolio.
+- Intercompany loans are acceptable.
+- Maximum exposure: £5,000,000.
+- Property must be let on an AST of maximum 3 years.
 
-- Rental income that meets a certain percentage of monthly mortgage repayments. To find out the percentage value that applies to your case, visit: https://landbay.co.uk/intermediaries/products-and-btl-calculator/
+---
 
-MINIMUM PROPERTY VALUES
---------------------------------------------------------------------------------
+## SECTION 9 – ICR AND AFFORDABILITY
 
-- A minimum property value of £65,000 for standard properties
-- A minimum property value of £75,000 for HMOs in qualifying areas
-- A minimum property value of £120,000 for MUFBs
+### 2-Year Fixed Rate and Tracker Rate Products
 
-OTHER REQUIREMENTS
---------------------------------------------------------------------------------
+Stressed at the greater of 5.50% or pay rate +2%.
 
-- Be in an area with strong rental demand, as determined by our surveyor partners
-- Be suitable for letting at completion
+**Individual – Basic Rate Taxpayer:**
+- Standard: 125%.
+- HMO/MUFB: 125%.
+- First-time landlord HMO/MUFB: 135%.
+- Holiday lets: 140%.
 
-================================================================================
-10. ICR RULES
-================================================================================
+**Individual – Higher Rate Taxpayer:**
+- Standard: 140%.
+- HMO/MUFB: 140%.
+- First-time landlord HMO/MUFB: 140%.
+- Holiday lets: 140%.
 
-2 YEAR FIXED RATE AND TRACKER RATE PRODUCTS
---------------------------------------------------------------------------------
+**Limited Company / LLP:**
+- Standard: 125%.
+- HMO/MUFB: 125%.
+- First-time landlord HMO/MUFB: 135%.
+- Holiday lets: 125%.
 
-Stressed at the greater of either 5.50% or pay rate + 2%
+### 5-Year Fixed Rate Products
 
-| | Standard | HMO/MUFB | First-time landlord HMO/MUFB | Holiday lets |
-|---|---|---|---|---|
-| **Individual – Basic rate** | 125% | 125% | 135% | 140% |
-| **Individual – Higher rate** | 140% | 140% | 140% | 140% |
-| **LTD Company/LLP** | 125% | 125% | 135% | 125% |
+Stressed at pay rate.
 
-5 YEAR FIXED RATE PRODUCTS
---------------------------------------------------------------------------------
+**Individual – Basic Rate Taxpayer:**
+- Standard: 125%.
+- HMO/MUFB: 125%.
+- First-time landlord HMO/MUFB: 135%.
+- Holiday lets: 140%.
 
-Stressed at pay rate
+**Individual – Higher Rate Taxpayer:**
+- Standard: 140%.
+- HMO/MUFB: 140%.
+- First-time landlord HMO/MUFB: 140%.
+- Holiday lets: 140%.
 
-| | Standard | HMO/MUFB | First-time landlord HMO/MUFB | Holiday lets |
-|---|---|---|---|---|
-| **Individual – Basic rate** | 125% | 125% | 135% | 140% |
-| **Individual – Higher rate** | 140% | 140% | 140% | 140% |
-| **LTD Company/LLP** | 125% | 125% | 135% | 125% |
+**Limited Company / LLP:**
+- Standard: 125%.
+- HMO/MUFB: 125%.
+- First-time landlord HMO/MUFB: 135%.
+- Holiday lets: 125%.
 
-================================================================================
-11. AFFORDABILITY NOTES
-================================================================================
+### Affordability Notes
 
-- Where the application meets more than one of the above stress rates, the higher stress rate will apply to the application
-- The underlying affordability of the background portfolio for an applicant will be considered against a minimum underlying ICR rate of 125% @ 5.00%
+- Where an application meets more than one of the above stress rates, the higher stress rate will apply.
+- The underlying affordability of the background portfolio is assessed against a minimum underlying ICR of 125% at 5.00%.
+- For tracker rate products: affordability will be recalculated if there is a change to the Bank of England base rate.
 
-================================================================================
-12. APPLICATION TIMELINES
-================================================================================
+---
 
-IMPORTANT NOTES FOR INTERMEDIARY PARTNERS
---------------------------------------------------------------------------------
+## SECTION 10 – APPLICATION TIMELINES
 
-- All applications must reach offer within 50 days from full submission. If an offer is not made by this time, a new product will need to be selected, which could affect the loan size, rate and criteria
-- All mortgage offers are valid for 90 days
-- All property inspections must be completed within 20 days of instruction. If this timescale is not met, a new application may be requested
+- All applications must reach offer within 50 days of full submission. If an offer is not made within this time, a new product must be selected, which could affect the loan size, rate and criteria.
+- All mortgage offers are valid for 90 days.
+- All property inspections must be completed within 20 days of instruction. If this timescale is not met, a new application may be requested.
 
-TRACKER RATES
---------------------------------------------------------------------------------
+---
 
-- We will recalculate affordability should there be a change to BBR
-
-================================================================================
-13. USEFUL RESOURCES
-================================================================================
-
-CRITERIA ASSESSMENT TOOL
---------------------------------------------------------------------------------
-
-All the answers at your fingertips with our online knowledge base.
-
-Visit: https://landbay.co.uk/intermediaries/lending-criteria/criteria-assessment-tool/
-
-POPULAR DOWNLOADS
---------------------------------------------------------------------------------
-
-CRITERIA
-- Criteria highlights: https://hubs.ly/Q019Ys9y0
-- Criteria guide: https://hubs.ly/Q019YPlF0
-
-PRODUCTS
-- Product guide: https://hubs.ly/Q01gxv6V0
-- Application form: https://hubs.ly/Q01b6BlP0
-- Application checklist: https://hubs.ly/Q01lm9rH0
-
-GUIDES
-- Tips for faster completions: https://hubs.ly/Q019YRQD0
-- Fee Tariff: https://hubs.ly/Q01b6BRl0
-- Solicitor panel: https://hubs.ly/Q01bkgZj0
-
-================================================================================
-14. CONTACT INFORMATION
-================================================================================
-
-FIND YOUR LOCAL BDM
---------------------------------------------------------------------------------
-
-Visit: https://landbay.co.uk/intermediaries/bdm/
-
-BROKER PORTAL
---------------------------------------------------------------------------------
-
-Register as a broker: https://mortgages.landbay.co.uk/registration/
-Login: https://mortgages.landbay.co.uk/
-
-Choose Landbay and you'll find experts at the end of the line, smart technology designed for you, and fast decisions you can count on.
-
-================================================================================
-15. REGULATORY INFORMATION
-================================================================================
-
-Landbay Partners Limited ("Landbay"), registered office 111 Buckingham Palace Road, London, SW1W 0SR (Company No. 08668507).
-
-Landbay is registered with the Office of the Information Commissioner (Reg no. ZA036027).
-
-Landbay is registered with the Financial Conduct Authority (Firm Reference No. 1007789).
-
-© 2025 Landbay Partners Limited
-
-================================================================================
+*END OF DOCUMENT*

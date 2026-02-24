@@ -1,627 +1,266 @@
-LENDER NAME: Suffolk Building Society
-PRODUCT: Residential
-
-# Suffolk Building Society - Residential Mortgage Lending Criteria
-
-**Last Updated:** 2025
-**Source:** Suffolk Building Society Intermediaries Website
-**For Intermediaries Only**
+# Suffolk Building Society – Residential Mortgage Criteria
 
 ---
 
-## Document Information
+**LENDER:** Suffolk Building Society
+**PRODUCT:** Residential Mortgages
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 2025
+**FOR INTERMEDIARY USE ONLY**
 
-This document contains comprehensive residential lending criteria for Suffolk Building Society, organized alphabetically and by category.
-
-**Website:** https://www.suffolkforintermediaries.co.uk/lending-criteria/?type=residential
-
----
-
-## Table of Contents
-
-This guide contains 75 criteria sections organized by topic:
-
-
-### General Information
-
-1) Age & Income
-28) Fixed-Term Contracts
-40) Lending Areas / Products
-46) Maximum Age
-47) Maximum Loan
-48) Minimum Age / Income / Loan
-53) Offers
-59) Portability
-72) Term
-
-### Applicant Requirements
-
-2) Applicants
-9) CIFAS
-15) Criminal Convictions
-45) Married Applicants Applying in Sole Names
-52) Non-Dependent Applicants
-
-### Income and Employment
-
-12) Contractors
-24) Employed Income (Treatment & Age Limits)
-51) New Employment
-61) Probation Period
-69) Self-Employed Income (Assessment)
-70) Sports Professionals
-71) Sub-Contractors
-75) Zero-Hours Contracts
-
-### Income Types
-
-6) Benefits (as Income)
-30) Foreign Currency Income (General Rule)
-38) Investment Income
-44) Maintenance (as Income)
-55) Other Income Types
-58) Pension Income
-63) Rental Income (as Income)
-
-### Affordability
-
-5) Background Residential Mortgages
-18) Debt to Income Ratio (DTI)
-21) Deductions (Treatment in Affordability)
-35) Income Multiples / LTI
-
-### Credit History
-
-3) Arrangements (Historic Arrangements / Adverse)
-4) Arrears
-8) CCJs
-16) Debt Management Plans
-17) Debt Relief Order (DRO)
-19) Debts Being Repaid
-20) Debts with Less than 6 Months Remaining
-22) Defaults
-36) Individual Voluntary Arrangements (IVA)
-49) Missed Payments
-57) Payday Loans
-65) Repossessions
-
-### Deposits
-
-7) Builder / Vendor Deposits
-11) Concessionary Purchase (Transaction Under Value)
-23) Deposits – Accepted Sources & Rules
-
-### Loan Details
-
-27) Fees
-41) Length of Time Property Owned
-56) Overpayments
-62) Remortgage / Additional Borrowing – Purposes
-
-### Property Types
-
-10) Close to Commercial Premises
-29) Flats (England & Wales)
-33) General Property / Geography Notes
-50) New Build
-54) Other Property / Security Points
-67) Second Homes / Holiday Homes
-
-### Repayment Methods
-
-37) Interest-Only
-64) Repayment Types
-
-### Special Products
-
-34) Help to Buy
-39) JBSP (Joint Borrower Sole Proprietor)
-42) Let-to-Buy
-43) Lodgers
-66) Right to Buy
-68) Self Build
-
-### Nationality and Residency
-
-25) EU / EEA / Swiss Nationals with Pre-Settled Status (No ILR)
-26) Expats
-31) Foreign Nationals with ILR
-32) Foreign Nationals without ILR
-73) Visas
-
-### Other
-
-13) Credit Agency
-14) Credit Score
-60) Power of Attorney
-
-### Other Criteria
-
-74) Voters’ Roll
+**Source:** https://www.suffolkforintermediaries.co.uk/lending-criteria/?type=residential
 
 ---
 
-## 1) Age & Income
+## SECTION 1 – APPLICANT ELIGIBILITY
 
-* **Earned income (manual employment):** acceptable up to age **70**.
-* **Earned income (non-manual employment):** acceptable up to age **75**.
-* **Self-employed income:** acceptable up to age **75**.
-* **Using pension assets:** from age **55**, pension assets can be used in the background.
+- Minimum age: 18 at application.
+- Maximum age: no maximum at application or at term end; applicants 75+ at application must obtain Independent Legal Advice (ILA).
+- Standard application: up to 2 incomes accepted.
+- Credit reference agency: TransUnion.
+- No credit scoring used.
+- Applicants not on voter's roll accepted; proof of address required.
 
-## 2) Applicants
+### Joint Borrower Sole Proprietor (JBSP)
 
-* **Standard application:** up to **2 incomes** accepted.
-* **Joint Borrower Sole Proprietor (JBSP), UK applications:** up to **4 incomes** accepted from a maximum of **2 households**.
-* **Expat JBSP:** maximum **2 incomes**.
+- Accepted for UK and Expat.
+- UK: maximum 4 applicants / 4 incomes.
+- Expat: maximum 2 applicants / 2 incomes.
+- Residential LTV: up to 90%, with restrictions — 70% max if all applicants retired; 80% max if term takes youngest into retirement; 90% max if term does not take youngest into retirement. If >70% LTV, max age of any applicant at end of term is 90.
+- Joint borrower(s) should be close family relative(s).
+- Any applicant may provide the deposit (including non-proprietor). If non-proprietor gifts the deposit they cannot reside at the property.
+- Fee-assisted legals not available for JBSP.
 
-## 3) Arrangements (Historic Arrangements / Adverse)
+### Married Applicants in Sole Names
 
-* **Debt Management / similar “arrangements”:**
-* Maximum **75% LTV**.
-* Must have been **satisfied for 3 years**.
+- Accepted where partner will also reside.
+- Not available if partner omitted due to adverse credit.
 
-## 4) Arrears
+### Non-Dependent Applicants
 
-* **Historic arrears:** can be considered.
-* **Requirement:** **no arrears in the last 3 years**.
+- Ignored for affordability if they have own income to self-support.
+- Committed debts still included.
+- Personal borrowing for self-employed business ignored if not in client's sole name.
 
-## 5) Background Residential Mortgages
+### CIFAS and Criminal Convictions
 
-* **Affordability:** include **monthly payment and running costs**.
-
-## 6) Benefits (as Income)
-
-* **Acceptable at 100%:**
-* **Child Benefit**\*, **Child Tax Credits**\*, **Working Tax Credits**\*.
-* *Must be payable for the **next 5 years** minimum.*
-* **Acceptable at 50%:**
-* **Attendance Allowance**\*, **Constant Attendance Allowance**\*, **Disability Living Allowance (applicants only)**,
-**Employment & Support Allowance**, **Industrial Injuries Disablement Benefit**, **Personal Independence Payment (PIP)**,
-**Universal Credit**.
-* *Must be payable **for life**.*
-
-## 7) Builder / Vendor Deposits
-
-* **Maximum builder/vendor deposit:** **5%**.
-* **Applicant must also contribute:** **5%** deposit.
-
-## 8) CCJs
-
-* **Ignored:** CCJs **satisfied for more than 12 months**.
-* **Refer to Business Development Team (BDM):**
-* **More than 1 CCJ**, or
-* CCJs **over £1,000** up to **80% LTV**, and **over £500** **above 80% LTV**.
-
-## 9) CIFAS
-
-* Applicants **on the CIFAS register** can be considered — **refer cases**.
-
-## 10) Close to Commercial Premises
-
-* **Potentially acceptable** for properties **above/next to/near commercial**—**contact BDM** with details.
-
-## 11) Concessionary Purchase (Transaction Under Value)
-
-* Treated as **purchase under value**.
-* **Deposit** required in line with product (e.g., **90% LTV** scenario still needs the balance deposit).
-
-## 12) Contractors
-
-* **Track record:** **12 months** in the **same line of work**.
-* If **< 3 months** remaining on current contract → need **2 years’ contract history**.
-* **Income calculation:** **Day rate × 5 days × 46 weeks** per annum.
-* **Minimum income:** **No minimum** for contractors.
-* **CIS contractors:** treated as **self-employed** → **tax returns/accounts required**.
-* **Umbrella companies:** calculated **the same as basic contractors**.
-
-## 13) Credit Agency
-
-* **Agency used:** **TransUnion**.
-
-## 14) Credit Score
-
-* **No credit scoring** is used.
-
-## 15) Criminal Convictions
-
-* **Must be spent**, **not monetary-related** (e.g., **no fraud, money laundering**).
-* Applicant must be able to obtain **home insurance on standard terms**.
-
-## 16) Debt Management Plans
-
-* **Must be satisfied for 3 years**.
-* **Maximum LTV:** **75%**.
-
-## 17) Debt Relief Order (DRO)
-
-* **Up to 75% LTV**.
-* Must have been **satisfied 3 years**.
-
-## 18) Debt to Income Ratio (DTI)
-
-* **No formal DTI**.
-* **Recommend referral to BDM** where **debts outweigh income**.
-
-## 19) Debts Being Repaid
-
-* **Ignored** where the **debt is being repaid**.
-
-## 20) Debts with Less than 6 Months Remaining
-
-* **Ignored** if **< 6 months** to run.
-
-## 21) Deductions (Treatment in Affordability)
-
-* **Ignored (do not deduct):** additional **voluntary pension contributions**, **charitable donations**, **company pension payments**, **sharesave scheme**.
-* **Deducted:** **childcare vouchers**, **maintenance payments**, **school fees**, **private healthcare**, **student loans**.
-
-## 22) Defaults
-
-* **Ignored:** **satisfied** defaults **> 12 months** ago.
-* **Refer to helpdesk:**
-* **More than 1 default**, or
-* Defaults **over £1,000** up to **80% LTV**, and **over £500** **above 80% LTV**.
-
-## 23) Deposits – Accepted Sources & Rules
-
-* **Forces Help to Buy:** **accepted**.
-* **Gifted deposit:** **accepted up to 100%**\*
-* *Gift must be from **close family**: parent, grandparent, son/daughter, brother/sister.*
-* *If **only 5%** is gifted, client must **add 5%** themselves **or** have **12 months’ rental history**.*
-* *Gifted deposits **not acceptable** on **Expat** or **Foreign National** applications.*
-* **Sale of property** or **capital raise** against a property owned in the applicant’s **limited company**: **Accepted**\*
-* *Ltd Co must be an **SPV**.*
-* *All applicants must be **named directors and shareholders**.*
-* *Deposit must be from **drawings**, **not** a director’s loan.*
-* **Loan repayable on sale of property** (divorce cases): **acceptable** — **contact BDM**.
-* **Raising funds on another property:** **acceptable** (included in affordability).
-
-## 24) Employed Income (Treatment & Age Limits)
-
-* **Manual roles:** income taken to **age 70** or **retirement**, whichever is earlier.
-* **Non-manual roles:** income taken to **age 75** or **retirement**, whichever is earlier.
-* **50% accepted** for:
-* Overtime, Commission, Bonus.
-* **Second job** (with **6 months’ track record**).
-* **Earned income (manual)** up to age rules above (if guaranteed → see note).
-* **100% accepted** for **allowances**:
-* Employer’s **housing allowance**, **mortgage subsidy**, **large town/London weighting**, **car allowance**.
-* **Shift allowance** and **bank income** accepted at **100%** if **18-month track record**.
-* **If guaranteed, 100% can be taken** (applies to the income types noted).
-* **Employed by family:** acceptable; **income must be verified by a qualified accountant**.
-* **Maternity/Parental leave:** acceptable if employer **confirms return date and salary in writing**.
-
-## 25) EU / EEA / Swiss Nationals with Pre-Settled Status (No ILR)
-
-* **Maximum LTV:** **80%**.
-* **Evidence:** successful **pre-settled status**.
-* **UK residence:** **12 months** minimum.
-* **Work permit/visa:** **12 months remaining**.
-* **Permitted sectors:** Education, Healthcare, Finance & Banking, IT, Legal, Marketing Professionals, Science R\&D, Energy Sector, **Construction Industry Professionals (not trades)** e.g., Architects.
-
-## 26) Expats
-
-* **Residential LTV:** up to **90%**.
-* **Residential and regulated BTL:** **accepted**.
-* **Acceptable currencies:** GBP, EUR, CHF, NOK, USD, CAD, SGD, HKD, AED, KWD, QAR, AUD, NZD, DKK, SEK, SAR.
-* **Foreign currency income treatment:** convert to GBP and apply a **20% haircut** before affordability (then deduct tax/NI).
-* **Minimum income:** **£40,000** (or equivalent).
-* A **non-UK national** can be included if the case fits policy and affordability **using the UK national’s income and details**.
-* **Not acceptable:** sanctioned or war-torn/in-conflict countries; **self-employed Expats**.
-* **Returning Expats:** can be accepted — **refer to BDM**.
-
-## 27) Fees
-
-* **Arrangement fees / CHAPS fees:** **can be added** or **paid upfront**.
-* **Fees may be added above LTV limits**.
-
-## 28) Fixed-Term Contracts
-
-* **Accepted.**
-* Need **2 years’ history** in the same line of contract work **and** **≥ 3 months** remaining on current contract.
-* If **< 2 years** contracting history → current contract must have **≥ 12 months** remaining.
-
-## 29) Flats (England & Wales)
-
-* **New build flats:** up to **90% LTV**.
-* **Standard flats:** up to **95% LTV**.
-* **No management company:** acceptable if **≤ 4 units** and all flats **hold a share of freehold**.
-* **Lease terms:** **≥ 85 years** remaining at start; **new build flats: 125-year** lease required.
-* **Ground rent:** ≤ **£250** (≤ **£1,000** if in London).
-* **Ex-local authority flats:** **Right to Buy only**.
-* **Storeys:** max **10**; **no lift** → max **5** storeys.
-* **Absentee freeholder:** **not accepted**.
-* **Basement flats:** **refer to BDM**.
-* **Above commercial:** **accepted** subject to type/location — **referral recommended**.
-
-## 30) Foreign Currency Income (General Rule)
-
-* **Accepted** as income type; convert to GBP and apply **20% haircut**, then standard affordability.
-* **Currencies permitted (residential/regulated BTL):** GBP, EUR, CHF, NOK, USD, CAD, SGD, HKD, AED, KWD, QAR, AUD, NZD, DKK, SEK, SAR.
-* If applicant is an **Expat** with foreign income → **Expat product** applies.
-
-## 31) Foreign Nationals with ILR
-
-* **Accepted on standard criteria.**
-
-## 32) Foreign Nationals without ILR
-
-* **Maximum LTV:** **80%**.
-* **Pre-settled status:** must evidence successful application.
-* **UK residence:** **12 months** minimum.
-* **Visa/work permit:** **12 months** remaining.
-* **Permitted sectors:** same list as in §25.
-
-## 33) General Property / Geography Notes
-
-* **Lending area:** **England and Wales**.
-* **Section 106:** can consider — dependent on wording and LTV; **contact BDM**.
-* **Age-restricted properties:** **not accepted**.
-* **Ex-local authority houses:** **accepted**.
-* **Ex-local authority flats:** **not accepted** (unless **Right to Buy**).
-* **Annexes:** accepted if **no separate utilities** (separate council tax allowed); up to **80% LTV**; **not** acceptable on **BTL**.
-* **Annex used as short-term holiday let:** acceptable (no formal AST).
-* **Leasehold houses:** **new build** minimum **250 years**; **non-new build** minimum **85 years**.
-* **Wimpey No-Fines:** by referral, considered up to **80% LTV** case-by-case.
-
-## 34) Help to Buy
-
-* **Not accepted**.
-
-## 35) Income Multiples / LTI
-
-* **Standard:** **4.49×** (single or joint).
-* **Enhanced to 5.49×** (single or joint) if **one applicant earns > £75,000**.
-* **Enhanced to 5.49×** also where **12 months’ rent** can evidence payments **at/above** or **within 10% of** the new mortgage payment.
-
-## 36) Individual Voluntary Arrangements (IVA)
-
-* **Up to 75% LTV**.
-* Must have been **satisfied 3 years**.
-
-## 37) Interest-Only
-
-* **Accepted.**
-* **Repayment vehicles (acceptable):** **Endowment/ISA**, **pension lump sum**, **sale of security/downsizing**\*, **sale of background property**, **other investments**.
-* *Downsizing:* require **≥ £250,000 equity on day 1**, and **max 70% LTV** on the IO element (can **top up to 80%** with repayment, i.e., **part & part**).
-* **Unacceptable vehicle:** **annual lump sum repayments**.
-* **LTV caps:** **70%** if standard/going into retirement (may be **topped up** with **10% repayment** to **80%**).
-* **Minimum income:** **no minimum** as standard.
-
-## 38) Investment Income
-
-* **Use 75%** of investment income.
-
-## 39) JBSP (Joint Borrower Sole Proprietor)
-
-* **Accepted** (UK and Expat).
-* **UK:** max **4 applicants / 4 incomes**.
-* **Expat:** max **2 applicants / 2 incomes**.
-* **Residential LTV:** up to **90%**, with restrictions:
-* **70%** max if **all applicants retired**.
-* **80%** max if **term takes youngest into retirement**.
-* **90%** max if **term does not** take the youngest into retirement.
-* If **>70% LTV**, **max age** of any applicant at end of term is **90**.
-* **Relationship:** joint borrower(s) should be **close family relative(s)**.
-* **Deposit:** on UK/Expat JBSP, **any applicant** may provide the deposit (including non-proprietor).
-* If **non-proprietor gifts** the deposit, they **cannot reside** at the property.
-* **Fee-assisted legals:** **not available** for JBSP.
-
-## 40) Lending Areas / Products
-
-* **Residential UK:** accepted.
-* **Residential Expat:** accepted.
-* **Self Build:** accepted.
-* **Shared Ownership:** **temporarily withdrawn**.
-
-## 41) Length of Time Property Owned
-
-* Must have been **owned for 6 months** before **remortgage/additional borrowing**.
-
-## 42) Let-to-Buy
-
-* **Accepted.**
-
-## 43) Lodgers
-
-* **Accepted** (no AST; no independent utilities; **max 1 lodger**).
-* **Lodger income:** **not used** for affordability.
-
-## 44) Maintenance (as Income)
-
-* **100%** accepted.
-* Must be **court-ordered** **or** show **12 months’ receipt history**.
-
-## 45) Married Applicants Applying in Sole Names
-
-* **Accepted** where partner will also reside.
-* **Not available** if partner is omitted **due to adverse credit**.
-
-## 46) Maximum Age
-
-* **No maximum age** at application or at term end.
-* **Applicants 75+ at application** must obtain **Independent Legal Advice (ILA)**.
-
-## 47) Maximum Loan
-
-* **Per individual product** (see product sheets).
-
-## 48) Minimum Age / Income / Loan
-
-* **Minimum age:** **18** at application.
-* **Minimum income:** **none** on standard; **£20,000** if **already in retirement** (single or joint).
-* **Minimum loan:** **£75,000**.
-
-## 49) Missed Payments
-
-* **No missed payments** in the **last 12 months**.
-
-## 50) New Build
-
-* **Flats:** up to **90% LTV** (England & Wales).
-* **Houses:** up to **95% LTV**.
-* **Acceptable warranties:** NHBC, Premier, Building Life Plans, Build-Zone (incl. BuildCare), Checkmate (Castle 10), ICW, LABC, and **Professional Consultants Certificate** meeting the listed professional bodies (RICS FRICS/MRICS, IStructE F/M, CIOB F/M, A/SI F/M, ABE F/M, CIAT, ARB-registered architect, ICE F/M).
-* **PI insurance:** conveyancer must obtain proof; cover **≥ 6 years**.
-
-## 51) New Employment
-
-* If **< 6 months** in current job → must have **12 months’ continuous employment** history (else **contact BDM**).
-* Can accept **new salary** if employer confirms and **≥ 1 payslip** can be provided **prior to offer**.
-
-## 52) Non-Dependent Applicants
-
-* **Ignored for affordability** if they have **own income to self-support**.
-* **Committed debts** will still be included.
-* **Personal borrowing for self-employed business** ignored if **not in client’s sole name**.
-
-## 53) Offers
-
-* **Valid for 6 months**.
-* **Extensions** possible; may require **no-change confirmation** or updated affordability — **contact BDM**.
-
-## 54) Other Property / Security Points
-
-* **Splitting of title on completion:** considered.
-* **EWS1:** required where applicable; **no combustible cladding/materials** on balconies without EWS1. **A1, A2, B1** acceptable (subject to valuer).
-* **Max storeys:** **10**.
-* **Overage clause:** can be accepted — **contact BDM**.
-* **Solar panels:** accepted; if **leased**, must include **lender repossession break clause**.
-* **Unadopted roads:** require **full access and maintenance** agreement.
-* **Flying freehold:** max **25%**, subject to **standard-terms insurance** — **refer to BDM**.
-* **Listed properties (Grade I / II / II*):*\* acceptable.
-* **Maximum acreage:** **10 acres**.
-
-## 55) Other Income Types
-
-* **Foster income:** considered if **3 years’ fostering** and **not sole income** — **contact BDM**.
-* **Seafarers:** considered — **contact BDM**.
-
-## 56) Overpayments
-
-* **Fee-free** overpayments up to **50% of the original loan** (subject to product availability).
-
-## 57) Payday Loans
-
-* **Refer to BDM** with **frequency, value, and time period**.
-
-## 58) Pension Income
-
-* **100%** accepted: annuity, company/private, war disablement, war widower, private, state pension.
-* **Drawdown pensions:** use **100% of drawdown** (must last to end of term). Can **utilise uncrystallised funds** for income: take **80% of the pension fund ÷ mortgage term**.
-* **SIPPs:** **100%** of drawn amount (must last to end of term). Uncrystallised funds treated the same (80% ÷ term).
-
-## 59) Portability
-
-* **Portable** as standard (subject to product availability).
-
-## 60) Power of Attorney
-
-* **Acceptable** on **remortgages / like-for-like**.
-* **Not acceptable**: POA converting to BTL or purchasing into their own name a property they have powers over.
-
-## 61) Probation Period
-
-* **Can consider** if **ends before completion** and prior job was in **same line of work**.
-
-## 62) Remortgage / Additional Borrowing – Purposes
-
-* **Home improvements:** up to **90% LTV**.
-* **Debt consolidation:** up to **90% LTV**.
-* **Gifting:** accepted (≥ **£100,000** → **refer**).
-* **Second home (UK only):** up to **80% LTV**.
-* **Purchase of BTL or Holiday Let:** up to **90% LTV** (≤ **80%**: no simultaneous completion; **> 80%**: **simultaneous completion required**).
-* **Purchase property in Ltd Co:** must be **SPV**; all applicants **named directors and shareholders**.
-* **Repay Help to Buy:** up to **95% LTV** if sole reason for capital raise.
-* **Shared Ownership staircasing:** accepted (subject to availability of SO products).
-* **Extend a lease:** accepted.
-* **Medical expenses:** **referral recommended**.
-* **Purchase of land:** accepted.
-* **School fees:** accepted.
-
-## 63) Rental Income (as Income)
-
-* **Accepted**.
-* Use **tax calculation profit** (average of **latest 2 years**).
-* **Note:** profit will be **net of finance costs**.
-
-## 64) Repayment Types
-
-* **Capital & Interest (Repayment):** accepted.
-* **Part & Part:** accepted.
-* **Interest-Only:** accepted.
-
-## 65) Repossessions
-
-* **Acceptable up to 75% LTV** if **> 3 years ago** and **any shortfall repaid in full** by the applicant.
-
-## 66) Right to Buy
-
-* **Accepted.**
-* All applicants must be on **RTB paperwork**.
-* **Capital raising:** **not accepted**.
-* Can lend up to **100% of the discounted purchase price** provided **LTV on valuation ≤ 80%**.
-* **Joint RTB where only one resides:** accepted; **max 80% LTV**; subject to affordability (including running costs of RTB property and any other residence).
-
-## 67) Second Homes / Holiday Homes
-
-* **Accepted** up to **80% LTV**.
-* Acceptable for **dependant family members**.
-
-## 68) Self Build
-
-* **Accepted** up to **80% LTV** (**70%** for larger loans).
-* **Acceptable construction:** ICF, MMC, Modular/POD, No-Fines, Off-site manufactured (MMC), Potton Homes, repaired PRC, steel frame, SIPs, thatched roof, modern timber framed (not with timber cladding), timber framed 1900–1970, post-1970 (with masonry skin), pre-1900.
-* **BOPAS** accreditation required for **non-standard construction**.
-* **Not habitable** properties can go through **Self Build** range.
-* **Renovations:** may be Self Build or standard (depends on works) — **contact BDM**.
-* **Shared access:** acceptable.
-* **Multiplot:** acceptable if builder owns **< 25%** of site and there are **≤ 10** properties/sites.
-* **Fee-assisted legals:** **not available** for Self Build.
-
-## 69) Self-Employed Income (Assessment)
-
-* **Taken to age 75** or retirement (whichever first).
-* **≥ 25% shareholding** → classed as **self-employed**.
-* **Ltd company owners:** use **higher of** (Net profit after tax + salary) **or** (salary + dividends).
-* **Evidence:**
-* **Ltd Co Directors:** **2 years** tax returns **and** accounts.
-* **Sole Trader:** **2 years** tax returns.
-* **LLP:** **2 years** tax returns **and** accounts (if available).
-* **Projections** can be considered case-by-case — **contact BDM**.
-* **Year-on-year movement rules:**
-* **Increase < 20%:** use **most recent year**.
-* **Increase > 20%:** use **average of last 2 years**.
-* **Decline:** use **latest year** (referral recommended).
-
-## 70) Sports Professionals
-
-* **Assessed individually** — **contact BDM**.
-
-## 71) Sub-Contractors
-
-* **Accepted at 100%** — treated as **self-employed**.
-
-## 72) Term
-
-* **Minimum:** **6 years**.
-* **Maximum:** **40 years**.
-
-## 73) Visas
-
-* **Family/Spousal:** can be considered — **referral recommended**.
-* **Tier 1 working visas:** **not accepted**.
-* **Skilled Worker Visa (formerly Tier 2):** **accepted** — must have **12 months** remaining at application.
-
-## 74) Voters’ Roll
-
-* **Applicants not on voter’s roll** can be accepted, but **proof of address** is required.
-
-## 75) Zero-Hours Contracts
-
-* Accepted if the applicants have been in the role for >18 months.
+- Applicants on the CIFAS register can be considered — refer cases.
+- Criminal convictions: must be spent and not monetary-related (e.g. no fraud, money laundering); applicant must be able to obtain home insurance on standard terms.
 
 ---
 
-## Main URLs
+## SECTION 2 – CREDIT HISTORY
 
-- https://www.suffolkforintermediaries.co.uk/lending-criteria/?type=residential
+- Arrears: historic arrears considered; no arrears in the last 3 years.
+- Missed payments: none in the last 12 months.
+- CCJs: ignored if satisfied for more than 12 months. Refer to Business Development Team if more than 1 CCJ, or CCJs over £1,000 up to 80% LTV / over £500 above 80% LTV.
+- Defaults: ignored if satisfied more than 12 months ago. Refer to helpdesk if more than 1 default, or defaults over £1,000 up to 80% LTV / over £500 above 80% LTV.
+- Arrangements (debt management / similar): maximum 75% LTV; must have been satisfied 3 years.
+- Debt Management Plans: must have been satisfied 3 years; maximum 75% LTV.
+- Debt Relief Order (DRO): up to 75% LTV; must have been satisfied 3 years.
+- IVA: up to 75% LTV; must have been satisfied 3 years.
+- Debts being repaid: ignored.
+- Debts with less than 6 months remaining: ignored.
+- Repossessions: acceptable up to 75% LTV if more than 3 years ago and any shortfall repaid in full by the applicant.
+- Payday loans: refer to BDM with frequency, value and time period.
+
+---
+
+## SECTION 3 – INCOME AND AFFORDABILITY
+
+### Age and Income Limits
+
+- Earned income (manual employment): acceptable up to age 70.
+- Earned income (non-manual employment): acceptable up to age 75.
+- Self-employed income: acceptable up to age 75.
+- Using pension assets: from age 55, pension assets can be used in the background.
+- Minimum income: none on standard; £20,000 if already in retirement (single or joint).
+- No formal DTI; recommend referral to BDM where debts outweigh income.
+
+### Debt to Income and Deductions
+
+- Background residential mortgages: include monthly payment and running costs in affordability.
+- Ignored (not deducted): voluntary pension contributions, charitable donations, company pension payments, sharesave scheme.
+- Deducted: childcare vouchers, maintenance payments, school fees, private healthcare, student loans.
+
+### Income Multiples (LTI)
+
+- Standard: 4.49× (single or joint).
+- Enhanced to 5.49× (single or joint) if one applicant earns more than £75,000.
+- Enhanced to 5.49× also where 12 months' rent can evidence payments at or above (or within 10% of) the new mortgage payment.
+
+### Employed Income
+
+- Manual roles: income taken to age 70 or retirement, whichever earlier.
+- Non-manual roles: income taken to age 75 or retirement, whichever earlier.
+- 50% accepted: overtime, commission, bonus; second job (with 6 months' track record).
+- 100% accepted for allowances: employer's housing allowance, mortgage subsidy, large town/London weighting, car allowance. Shift allowance and bank income at 100% if 18-month track record. If guaranteed, 100% can be taken for the income types noted.
+- Employed by family: acceptable; income must be verified by a qualified accountant.
+- Maternity/Parental leave: acceptable if employer confirms return date and salary in writing.
+- New employment: if less than 6 months in current job, must have 12 months' continuous employment history (else contact BDM). Can accept new salary if employer confirms and at least 1 payslip can be provided prior to offer.
+- Probation period: can consider if probation ends before completion and prior job was in same line of work.
+
+### Contractors and Fixed-Term Contracts
+
+- Contractors: 12 months' track record in same line of work. If less than 3 months remaining on current contract, need 2 years' contract history. Income: day rate × 5 days × 46 weeks per annum. No minimum income for contractors. CIS contractors treated as self-employed (tax returns/accounts required). Umbrella companies calculated same as basic contractors.
+- Fixed-term contracts: accepted; need 2 years' history in same line of contract work and at least 3 months remaining on current contract. If less than 2 years contracting history, current contract must have at least 12 months remaining.
+
+### Self-Employed and Sub-Contractors
+
+- Self-employed income taken to age 75 or retirement (whichever first).
+- 25% or more shareholding: classed as self-employed.
+- Ltd company owners: use higher of (net profit after tax + salary) or (salary + dividends).
+- Evidence: Ltd Co directors — 2 years tax returns and accounts; sole trader — 2 years tax returns; LLP — 2 years tax returns and accounts (if available). Projections considered case-by-case — contact BDM.
+- Year-on-year: increase less than 20% — use most recent year; increase more than 20% — use average of last 2 years; decline — use latest year (referral recommended).
+- Sub-contractors: accepted at 100%; treated as self-employed.
+
+### Zero-Hours and Other
+
+- Zero-hours contracts: accepted if applicant has been in the role for more than 18 months.
+- Sports professionals: assessed individually — contact BDM.
+- Foster income: considered if 3 years' fostering and not sole income — contact BDM.
+- Seafarers: considered — contact BDM.
+
+---
+
+## SECTION 4 – INCOME TYPES
+
+- Benefits (100%): Child Benefit, Child Tax Credits, Working Tax Credits — must be payable for next 5 years minimum.
+- Benefits (50%): Attendance Allowance, Constant Attendance Allowance, Disability Living Allowance (applicants only), Employment & Support Allowance, Industrial Injuries Disablement Benefit, PIP, Universal Credit — must be payable for life.
+- Maintenance: 100% accepted; must be court-ordered or show 12 months' receipt history.
+- Pension income: 100% accepted — annuity, company/private, war disablement, war widower, private, state pension. Drawdown: 100% of drawdown (must last to end of term); uncrystallised funds: 80% of pension fund ÷ mortgage term. SIPPs: 100% of drawn amount (must last to end of term); uncrystallised same (80% ÷ term).
+- Rental income: accepted; use tax calculation profit (average of latest 2 years); profit net of finance costs.
+- Investment income: use 75%.
+- Foreign currency income: accepted; convert to GBP and apply 20% haircut, then standard affordability. Permitted currencies (residential/regulated BTL): GBP, EUR, CHF, NOK, USD, CAD, SGD, HKD, AED, KWD, QAR, AUD, NZD, DKK, SEK, SAR. If Expat with foreign income, Expat product applies.
+
+---
+
+## SECTION 5 – NATIONALITY AND RESIDENCY
+
+- Foreign nationals with ILR: accepted on standard criteria.
+- EU/EEA/Swiss with pre-settled status (no ILR): maximum 80% LTV; evidence pre-settled status; 12 months UK residence; work permit/visa 12 months remaining; permitted sectors: Education, Healthcare, Finance & Banking, IT, Legal, Marketing Professionals, Science R&D, Energy Sector, Construction Industry Professionals (not trades) e.g. Architects.
+- Foreign nationals without ILR: maximum 80% LTV; same pre-settled evidence and sector requirements.
+- Expats: residential LTV up to 90%; residential and regulated BTL accepted. Currencies: GBP, EUR, CHF, NOK, USD, CAD, SGD, HKD, AED, KWD, QAR, AUD, NZD, DKK, SEK, SAR. Foreign currency income: convert to GBP, 20% haircut, then deduct tax/NI. Minimum income £40,000 (or equivalent). Non-UK national can be included if case fits policy and affordability using UK national's income and details. Not acceptable: sanctioned or war-torn countries; self-employed Expats. Returning Expats: can be accepted — refer to BDM.
+- Visas: Family/Spousal — can be considered (referral recommended). Tier 1 working visas not accepted. Skilled Worker Visa (formerly Tier 2): accepted; must have 12 months remaining at application.
+- Gifted deposits not acceptable on Expat or Foreign National applications.
+
+---
+
+## SECTION 6 – LOAN PARAMETERS
+
+- Maximum loan: per individual product (see product sheets).
+- Minimum loan: £75,000.
+- Minimum term: 6 years.
+- Maximum term: 40 years.
+- Arrangement fees / CHAPS fees: can be added to loan or paid upfront; fees may be added above LTV limits.
+- Overpayments: fee-free up to 50% of original loan (subject to product).
+- Portability: portable as standard (subject to product).
+- Offers: valid for 6 months; extensions possible; may require no-change confirmation or updated affordability — contact BDM.
+- Length of time property owned: must have been owned for 6 months before remortgage/additional borrowing.
+- Lending areas: Residential UK and Residential Expat accepted; Self Build accepted; Shared Ownership temporarily withdrawn.
+
+---
+
+## SECTION 7 – DEPOSITS
+
+- Gifted deposit: accepted up to 100%; gift must be from close family (parent, grandparent, son/daughter, brother/sister). If only 5% is gifted, client must add 5% themselves or have 12 months' rental history. Not acceptable on Expat or Foreign National applications.
+- Builder/vendor deposits: maximum 5%; applicant must also contribute 5% deposit.
+- Concessionary purchase (transaction under value): treated as purchase under value; deposit required in line with product (e.g. 90% LTV scenario still needs the balance deposit).
+- Sale of property or capital raise against applicant's limited company: accepted; Ltd Co must be SPV; all applicants must be named directors and shareholders; deposit must be from drawings, not director's loan.
+- Forces Help to Buy: accepted.
+- Loan repayable on sale of property (divorce cases): acceptable — contact BDM.
+- Raising funds on another property: acceptable (included in affordability).
+
+---
+
+## SECTION 8 – PROPERTY CRITERIA
+
+- Lending area: England and Wales.
+- Age-restricted properties: not accepted.
+- Ex-local authority houses: accepted.
+- Ex-local authority flats: not accepted (unless Right to Buy).
+- Section 106: can consider — dependent on wording and LTV; contact BDM.
+- Annexes: accepted if no separate utilities (separate council tax allowed); up to 80% LTV; not acceptable on BTL. Annex used as short-term holiday let: acceptable (no formal AST).
+- Leasehold houses: new build minimum 250 years; non-new build minimum 85 years.
+- Wimpey No-Fines: by referral, considered up to 80% LTV case-by-case.
+- Close to commercial: potentially acceptable — contact BDM with details.
+
+### Flats (England & Wales)
+
+- New build flats: up to 90% LTV.
+- Standard flats: up to 95% LTV.
+- No management company: acceptable if 4 or fewer units and all flats hold share of freehold.
+- Lease: 85 years or more remaining at start; new build flats 125-year lease required.
+- Ground rent: £250 or less (£1,000 or less if in London).
+- Ex-local authority flats: Right to Buy only.
+- Storeys: max 10; no lift — max 5 storeys.
+- Absentee freeholder: not accepted.
+- Basement flats: refer to BDM.
+- Above commercial: accepted subject to type/location — referral recommended.
+
+### New Build
+
+- New build flats: up to 90% LTV (England & Wales).
+- New build houses: up to 95% LTV.
+- Acceptable warranties: NHBC, Premier, Building Life Plans, Build-Zone (incl. BuildCare), Checkmate (Castle 10), ICW, LABC, and Professional Consultants Certificate from listed professional bodies (RICS FRICS/MRICS, IStructE F/M, CIOB F/M, A/SI F/M, ABE F/M, CIAT, ARB-registered architect, ICE F/M). Conveyancer must obtain proof of PI insurance; cover 6 years or more.
+
+### Other Security Points
+
+- Splitting of title on completion: considered.
+- EWS1: required where applicable; no combustible cladding/materials on balconies without EWS1. A1, A2, B1 acceptable subject to valuer. Max storeys: 10.
+- Overage clause: can be accepted — contact BDM.
+- Solar panels: accepted; if leased, must include lender repossession break clause.
+- Unadopted roads: require full access and maintenance agreement.
+- Flying freehold: max 25%, subject to standard-terms insurance — refer to BDM.
+- Listed properties (Grade I / II / II*): acceptable.
+- Maximum acreage: 10 acres.
+
+---
+
+## SECTION 9 – REPAYMENT METHODS
+
+- Capital & Interest (Repayment): accepted.
+- Part & Part: accepted.
+- Interest-Only: accepted.
+- Acceptable repayment vehicles: Endowment/ISA, pension lump sum, sale of security/downsizing (downsizing requires £250,000 or more equity on day 1 and max 70% LTV on IO element; can top up to 80% with repayment/part & part), sale of background property, other investments.
+- Unacceptable vehicle: annual lump sum repayments.
+- Interest-only LTV caps: 70% if standard/going into retirement (may be topped up with 10% repayment to 80%).
+- Minimum income for IO: no minimum as standard.
+
+---
+
+## SECTION 10 – SPECIAL PRODUCTS AND REMORTGAGE PURPOSE
+
+- Help to Buy: not accepted.
+- Let-to-Buy: accepted.
+- Lodgers: accepted (no AST; no independent utilities; max 1 lodger). Lodger income not used for affordability.
+- Right to Buy: accepted. All applicants must be on RTB paperwork. Capital raising not accepted. Can lend up to 100% of discounted purchase price provided LTV on valuation 80% or less. Joint RTB where only one resides: accepted; max 80% LTV; subject to affordability (including running costs of RTB property and any other residence).
+- Second homes / holiday homes: accepted up to 80% LTV; acceptable for dependant family members.
+- Self Build: accepted up to 80% LTV (70% for larger loans). Acceptable construction: ICF, MMC, Modular/POD, No-Fines, off-site manufactured (MMC), Potton Homes, repaired PRC, steel frame, SIPs, thatched roof, modern timber framed (not with timber cladding), timber framed 1900–1970, post-1970 (with masonry skin), pre-1900. BOPAS accreditation required for non-standard construction. Not habitable properties can go through Self Build range. Renovations may be Self Build or standard — contact BDM. Shared access and multiplot acceptable (multiplot if builder owns less than 25% of site and 10 or fewer properties/sites). Fee-assisted legals not available for Self Build.
+- Power of Attorney: acceptable on remortgages/like-for-like. Not acceptable: POA converting to BTL or purchasing into their own name a property they have powers over.
+
+### Remortgage / Additional Borrowing – Purposes
+
+- Home improvements: up to 90% LTV.
+- Debt consolidation: up to 90% LTV.
+- Gifting: accepted (£100,000 or over — refer).
+- Second home (UK only): up to 80% LTV.
+- Purchase of BTL or Holiday Let: up to 90% LTV (80% or less: no simultaneous completion; above 80%: simultaneous completion required).
+- Purchase property in Ltd Co: must be SPV; all applicants named directors and shareholders.
+- Repay Help to Buy: up to 95% LTV if sole reason for capital raise.
+- Shared Ownership staircasing: accepted (subject to availability of SO products).
+- Extend a lease: accepted.
+- Medical expenses: referral recommended.
+- Purchase of land: accepted.
+- School fees: accepted.
+
+---
+
+## SECTION 11 – IMPORTANT NOTES
+
+- Main criteria URL: https://www.suffolkforintermediaries.co.uk/lending-criteria/?type=residential
+- For referrals and case-by-case discussions contact the Business Development Team (BDM).
+
+---
+
+*END OF DOCUMENT*

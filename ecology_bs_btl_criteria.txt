@@ -1,156 +1,214 @@
-LENDER NAME: Ecology Building Society
-PRODUCT: Buy to Let
-
-================================================================================
-ECOLOGY BUILDING SOCIETY - BUY-TO-LET CRITERIA
-================================================================================
-
-**Source:** [https://www.ecology.co.uk/mortgages/residential-mortgages/buy-to-let/](https://www.ecology.co.uk/mortgages/residential-mortgages/buy-to-let/)
-**Scraped:** 2025-09-08 13:22:21
-
-## OVERVIEW
+# Ecology Building Society – Buy to Let Criteria
 
 ---
 
-We are a building society that specialises in mortgages for buy-to-let projects which meet specific energy ratings - whether you are looking for a self-build property to buy-to-let or improving the energy performance of an existing property to buy-to-let, see our buy-to-let mortgage in the UK.
+**LENDER:** Ecology Building Society
+**PRODUCT:** Buy to Let
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 2025
+**FOR INTERMEDIARY USE ONLY**
 
-YOUR PROPERTY MAY BE REPOSSESSED IF YOU DO NOT KEEP UP REPAYMENTS ON YOUR MORTGAGE
+**Source:** https://www.ecology.co.uk/mortgages/residential-mortgages/buy-to-let/
 
-# =================================================================================
+**Contact:**
+- Phone: 01535 650 770
+- Email: info@ecology.co.uk
+- Website: https://www.ecology.co.uk/contact-us/
+- Address: Ecology Building Society, 7 Belton Road, Silsden, West Yorkshire, BD20 0EE
 
-# KEY FEATURES
-
-• Our current buy-to-let Variable Rate is 6.79%
-• To assess affordability the rental income derived from the property must be at least 35% more than the mortgage repayment due. We also need to evidence you have sufficient personal income to maintain your personal expenditure
-• Energy-efficient homes are rewarded with discounts, which are called C-Change sustainable homes, C-Change retrofit and C-Change energy improvements, off our Variable Rate – see how C-Change discounts work, below
-• You can borrow up to 80% of the property's value or purchase price (whichever is the lower) on a repayment or interest-only basis
-• An early repayment charge may be payable if you repay all or part of your mortgage within the first two years
-• A non-refundable mortgage application fee of £350 is payable in addition to a mortgage valuation fee
-• A maximum mortgage term of 25 years is available, subject to eligibility
-• Mortgages are available on a repayment or interest-only basis, subject to eligibility
-• Applicants can only have three buy-to-let mortgages, this includes the buy-to-let mortgage they are applying for with Ecology
-• Buy-to-lets which need a renovation mortgage need to improve the Energy Performance Certificate by at least two grades
-• Our mortgages for buy-to-let are not regulated by the Financial Conduct Authority
-• Borrowers must be aged 18 or over. This mortgage is only available to UK residents.
-
-# =================================================================================
-
-# WHAT WE LEND ON
-
-We are experts in providing buy-to-let mortgages for self-build, renovation, conversion projects and where you are extensively improving the energy performance of a property. We don't have a 'tick box' approach to assessing projects – in many instances, we'll welcome projects that standard lenders may not accept. We will consider:
-
-• Energy efficient self-build projects
-• Renovations to existing residential properties that improve the energy efficiency
-• Barn conversion projects
-
-Our mortgages are available in the UK (England, Scotland, Wales and Northern Ireland).
-
-# =================================================================================
-
-# OUR APPROACH TO LENDING FOR BUY-TO-LET MORTGAGES
-
-• We release stage payments during the project as and when the value of your property increases during the works
-• Our buy-to-let Variable Rate applies during the works and our discounts are applied from the date we receive evidence that the works are completed and, if applicable, the Energy Standard rating required has been achieved.
-
-# =================================================================================
-
-# OUR STANDARD OF SERVICE
-
-Where a mortgage is not regulated by the FCA (as shown on the 'Key features' tab), you will be provided with full information about the mortgage products available from the Society so that you can make an informed decision as to which is suitable for your requirements.
-
-# =================================================================================
-
-# C-CHANGE DISCOUNTS EXPLAINED
-
-As a building society with a unique mission to build a greener society, we lend on projects and properties that support our aims through their reduced impact on our environment. Making your home energy efficient is a major way you can support tackling climate change – while saving on your energy bills.
-
-We reward borrowers whose properties are energy efficient (therefore have lower carbon emissions) with our C-Change discounts off our Variable Rate which helps them save money on their mortgage. We call our discounts 'C-Change discounts' simply because we're aiming to make a 'sea-change' of difference to our climate with each property or project we fund.
-
-The level of our C-Change sustainable homes or C-Change retrofit discount that applies is based on the Energy Standard rating achieved on the self-build, off-site build, renovation or conversion when the work is completed. Our C-Change energy improvements discount is based on the qualifying energy measures being installed. The discount is applied from the date we receive evidence that the work has been completed and if applicable the Energy Standard rating required has been achieved.
-
-## WHEN YOUR BUY-TO-LET PROJECT IS COMPLETE
+> Authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority. Financial Services Register No. 162090.
 
 ---
 
-For us to apply the C-Change sustainable homes or C-Change retrofit, once your work is complete you need to provide an Energy Standard certificate and, if applicable an Architect or Building Control certificate. Or, for us to apply the C-Change energy improvement discount, please send us all invoices for qualifying works.
+## SECTION 1 – REGULATORY STATUS
 
-The discounts are only applied to our Variable Rate from the date we receive evidence that the work has been completed and, if applicable, the Energy Standard rating required has been achieved.
+- Buy to let mortgages are not regulated by the Financial Conduct Authority.
+- Borrowers must be aged 18 or over.
+- Mortgage is only available to UK residents.
+- Property may be repossessed if repayments are not maintained.
 
-## HOW WE WORK OUT YOUR BUY-TO-LET VARIABLE MORTGAGE RATE:
+---
+
+## SECTION 2 – APPLICANT ELIGIBILITY
+
+- Minimum age: 18.
+- Must be a UK resident.
+- Maximum of 3 buy to let mortgages in total, including the one being applied for with Ecology.
+- The Society will not lend to an individual with a portfolio of more than 3 buy to let properties, including the one being applied for with Ecology.
 
 ---
 
-Buy-to-let Variable Rate (VR) minus C-Change discount = Variable Mortgage Rate
+## SECTION 3 – AFFORDABILITY AND RENTAL COVERAGE
 
-# =================================================================================
-
-# BUY-TO-LET FAQs
-
-### Do you lend on holiday let accommodation?
-
-We do not provide buy-to-let mortgages for holiday let or second homes, any letting must be conducted on a 6 or 12 month shorthold assured tenancy agreement.
-
-### Is there a maximum number of buy-to-let properties I can own?
-
-We will not lend to an individual who has a portfolio of more than 3 buy-to-let properties, including the one being applied for with Ecology.
-
-### Is there a limit on the number of units I can have in a single property?
-
-The property must not have more than 3 self-contained units.
-
-### Can the property be let to a family member?
-
-The property cannot be let to a family member.
-
-# =================================================================================
-
-# CONTACT INFORMATION
-
-Phone: 01535 650 770
-Email: [info@ecology.co.uk](mailto:info@ecology.co.uk)
-Website: [https://www.ecology.co.uk/contact-us/](https://www.ecology.co.uk/contact-us/)
-
-Address:
-Ecology Building Society
-7 Belton Road
-Silsden
-West Yorkshire
-BD20 0EE
-
-Authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority. Financial Services Register No. 162090 
-
-# =================================================================================
-
-# END OF DOCUMENT
-
-# =================================================================================
-
-**ADDITIONAL SECTIONS FROM ECOLOGY WEBSITE & GUIDES**
-=============================================
-
-## ADDITIONAL LENDING CRITERIA – PROPERTY & SECURITY
-
-• Flats: Maximum 4 storeys for standard residential lending.
-• Leasehold flats must have at least 35 years remaining **at the end** of the mortgage term.
-• Acceptable security types include: houses, bungalows, flats, shared ownership, etc., provided they meet Ecology's ecological requirements.
-• Unacceptable security includes: freehold flats, holiday/second homes, mobile homes, park homes, bedsits, houseboats, HMO properties.
-• Renovations, conversions, self-build, and shared ownership lending require full plans, build costs and—where applicable—planning permission.
-• Property must comply with the Society’s ecological and sustainability requirements.
-
-## ADDITIONAL APPLICATION & INCOME CRITERIA
-
-• Employed applicants: last 3 months’ payslips (6 months if using variable income such as commission or overtime).
-• Self-employed applicants: last 3 years’ tax calculations and accounts.
-• If the most recent year’s figures are lower than the average, the average will be used.
-• 100% of net rental income is used for affordability.
-• Unacceptable income types include: crypto income, foreign income, trust income, retained profits, gifted income, cash-paid income.
-
-## ADDITIONAL CREDIT HISTORY & COMMITMENTS CRITERIA
-
-• For LTV < 80%: no more than 1 missed secured loan payment within the last 2 years.
-• For LTV > 90%: stricter credit performance requirements apply.
-• Applications will not be accepted if the applicant has previously had a property repossessed.
-• Major gambling expenditure may be assessed case-by-case.
-• Overdraft misuse may lead to an assumed commitment: 3% of the highest overdraft level over the last 3 months.
+- Rental income must be at least 35% more than the mortgage repayment due.
+- Applicants must evidence sufficient personal income to maintain personal expenditure.
+- 100% of net rental income is used for affordability.
 
 ---
+
+## SECTION 4 – LOAN TO VALUE AND BORROWING
+
+- Maximum LTV: 80% of the property's value or purchase price, whichever is lower.
+- Mortgages available on a repayment or interest only basis, subject to eligibility.
+- Maximum mortgage term: 25 years, subject to eligibility.
+
+---
+
+## SECTION 5 – INTEREST RATE AND EARLY REPAYMENT
+
+- Current buy to let Variable Rate: 6.79%.
+- Early repayment charge may be payable if all or part of the mortgage is repaid within the first 2 years.
+- The buy to let Variable Rate applies during works on renovation or self-build projects.
+- C-Change discounts are applied from the date evidence of completed works and the required Energy Standard rating is received.
+
+### C-Change Discount Calculation
+
+- Buy to let Variable Rate minus C-Change discount = Variable Mortgage Rate.
+- Discount level is based on the Energy Standard rating achieved or qualifying energy measures installed.
+- Discount is applied only after evidence of completed works and the required Energy Standard rating (if applicable) is received.
+
+---
+
+## SECTION 6 – FEES
+
+- Non-refundable mortgage application fee: £350.
+- Mortgage valuation fee payable in addition to the application fee.
+
+---
+
+## SECTION 7 – ENERGY AND ECOLOGICAL REQUIREMENTS
+
+- Buy to lets requiring a renovation mortgage must improve the Energy Performance Certificate (EPC) by at least 2 grades.
+- Property must comply with the Society's ecological and sustainability requirements.
+
+### C-Change Discounts Available
+
+- C-Change sustainable homes.
+- C-Change retrofit.
+- C-Change energy improvements.
+
+### Evidence Required for C-Change Discounts
+
+For sustainable homes or retrofit:
+- Energy Standard certificate.
+- Architect or Building Control certificate (if applicable).
+
+For energy improvement discount:
+- All invoices for qualifying works.
+
+---
+
+## SECTION 8 – PROPERTY TYPES AND GEOGRAPHIC AVAILABILITY
+
+### Allowed Project Types
+
+- Energy efficient self-build projects.
+- Renovations to existing residential properties that improve energy efficiency.
+- Barn conversion projects.
+- Conversion projects.
+- Extensive energy performance improvement projects.
+
+### Stage Payments
+
+- Stage payments released during the project as the property value increases during works.
+
+### Geographic Availability
+
+- England.
+- Scotland.
+- Wales.
+- Northern Ireland.
+
+---
+
+## SECTION 9 – TENANCY REQUIREMENTS
+
+- Letting must be conducted on a 6 or 12 month shorthold assured tenancy agreement.
+- Holiday lets: not acceptable.
+- Second homes: not acceptable.
+- Property cannot be let to a family member.
+
+---
+
+## SECTION 10 – PROPERTY AND SECURITY CRITERIA
+
+### Property Limits
+
+- Property must not have more than 3 self-contained units.
+- Flats: maximum 4 storeys for standard residential lending.
+- Leasehold flats must have at least 35 years remaining at the end of the mortgage term.
+
+### Acceptable Security Types (subject to ecological requirements)
+
+- Houses.
+- Bungalows.
+- Flats.
+- Shared ownership.
+
+### Unacceptable Security Types
+
+- Freehold flats.
+- Holiday homes.
+- Second homes.
+- Mobile homes.
+- Park homes.
+- Bedsits.
+- Houseboats.
+- HMO properties.
+
+### Renovations, Conversions, Self-Build and Shared Ownership
+
+The following are required:
+- Full plans.
+- Build costs.
+- Planning permission (where applicable).
+
+---
+
+## SECTION 11 – INCOME CRITERIA
+
+### Employed Applicants
+
+- Last 3 months' payslips.
+- Last 6 months' payslips where variable income such as commission or overtime is being used.
+
+### Self-Employed Applicants
+
+- Last 3 years' tax calculations.
+- Last 3 years' accounts.
+- If the most recent year's figures are lower than the average, the average will be used.
+
+### Unacceptable Income Types
+
+- Crypto income.
+- Foreign income.
+- Trust income.
+- Retained profits.
+- Gifted income.
+- Cash-paid income.
+
+---
+
+## SECTION 12 – CREDIT HISTORY
+
+- For LTV below 80%: no more than 1 missed secured loan payment within the last 2 years.
+- For LTV above 90%: stricter credit performance requirements apply.
+- Not acceptable: applicant has previously had a property repossessed.
+
+### Gambling
+
+- Major gambling expenditure assessed on a case-by-case basis.
+
+### Overdraft
+
+- Overdraft misuse may lead to an assumed commitment of 3% of the highest overdraft level over the last 3 months.
+
+---
+
+## SECTION 13 – STANDARD OF SERVICE
+
+- Where a mortgage is not regulated by the FCA, full information about available mortgage products will be provided so the borrower can make an informed decision.
+
+---
+
+*END OF DOCUMENT*
