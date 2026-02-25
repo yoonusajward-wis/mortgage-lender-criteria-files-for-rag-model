@@ -1,2081 +1,3178 @@
-LENDER NAME: Hanley Building Society
-PRODUCT: Residential
-
-================================================================================
-HANLEY ECONOMIC BUILDING SOCIETY - RESIDENTIAL LENDING CRITERIA
-================================================================================
-
-Source: https://cdn.sanity.io/files/kupyyjpp/production/afa5b2ccc66daf320730e347d53f79fbef664702.pdf
-Website: https://www.thehanley.co.uk/intermediaries/lending-criteria
-
-Document: Lending Policy Appendix 1: Lending Criteria
-Policy Date: November 2024
-Author: O'Ward & J. Condliffe
-Committee: Board
-Next review: September 2025
-Version: V2.1
-
-Note: This document is for intermediary use only.
-
-Last Verified: Based on PDF content as of the file creation date
-
-================================================================================
-
---- Page 1 ---
-
-Lending Policy Appendix 1:
-Lending Criteria
-
-Policy Date: November 2024
-Author: O'Ward & J. Condliffe
-Committee: Board
-Next review: September 2025
-
---- Page 2 ---
-Lending Policy Appendix 1: Lending Criteria V2.1
-TABLE OF CONTENTS
-TABLE OF CONTENTS 1
-1 CHANGES SINCE LAST REVIEW 1
-2 TARGET AUDIENCE 3
-3 NOTES FOR USAGE 3
-4 APPLICANT 3
-4.1 AGE 3
-4.2 ADDRESS HISTORY 4
-4.3 NUMBER OF APPLICANTS 4
-4.4 RESIDENCY STATUS 4
-4.5 CREDIT CHECK 4
-4.6 ACCEPTABLE CREDIT HISTORY 4
-4.7 IDENTIFICATION AND VERIFICATION 5
-4.8 SOURCE AND EVIDENCE OF DEPOSIT 6
-5.1 EMPLOYMENT CRITERIA 8
-5.2 ACCEPTABLE EMPLOYED SOURCES OF INCOME AND PROOF REQUIRED 8
-5.3 PROBATIONARY PERIODS 10
-5.4 PENDING PAY RISES 10
-5.5 BUSINESS GRANTS AND LOANS 10
-5.6 ACCEPTABLE OTHER SOURCES OF INCOME AND PROOF REQUIRED 11
-5.7 APPROVED ACCOUNTANCY BODIES 12
-5.8 AFFORDABILITY 12
-5.8.1 FINANCIAL COMMITMENTS 13
-5.8.2 GAMBLING 13
-5.8.3 BANK STATEMENTS 13
-5.9 INCOME MULTIPLES 13
-5.10 PROOF OF MORTGAGE/RENT PAYMENT 13
-5.11 BACKGROUND PROPERTIES/BUY TO LETS 13
-5.11.1 BACKGROUND BUY TO LET 14
-5.11.2 BACKGROUND PROPERTY (NOT BTL) 14
-5.12 LENDING IN RETIREMENT 14
-5.13 LENDING INTO RETIREMENT 14
-
---- Page 3 ---
-Lending Policy Appendix 1: Lending Criteria V2.1
-6 PROPERTY 14
-6.1 PROPERTY LOCATION 14
-6.2 TENURE 15
-6.2.1 FREEHOLD 15
-6.2.2 LEASEHOLD 15
-6.3 MAXIMUM ACREAGE 16
-6.4 PROPERTY TYPE/CONSTRUCTION 16
-6.4.1 FLATS 17
-6.4.2 SELF-BUILD, RENOVATIONS AND CONVERSIONS 18
-6.5 PERIOD OF OWNERSHIP 19
-6.6 RESTRICTIONS 19
-6.7 MAXIMUM NUMBER OF BEDROOMS 19
-6.8 NEW BUILDS 20
-6.9 RIGHT TO BUY 20
-6.10 BUILDERS INCENTIVES 20
-6.11 PROPERTIES SOLD AT UNDER-VALUE 20
-6.12 PROPERTIES CLOSE TO COMMERCIAL OUTLETS 20
-6.13 VALUATION 20
-6.14 MINIMUM VALUATION 21
-6.15 PURCHASING AT AUCTION 21
-6.16 SUB LETTING 21
-6.17 BUILDINGS INSURANCE 21
-7 LOAN CRITERIA 22
-7.1 MINIMUM LOAN 22
-7.2 ACCEPTABLE LOAN TYPES 22
-7.3 CAPITAL RAISING RESTRICTIONS 22
-7.3.1 DEBT CONSOLIDATION 23
-7.4 UNACCEPTABLE LOAN TYPES 23
-7.5 MULTIPLE RESIDENTIAL MORTGAGES 23
-7.6 MAXIMUM REPAYMENT TERM 23
-7.7 REPAYMENT TYPES 24
-7.8 ACCEPTABLE REPAYMENT STRATEGIES FOR INTEREST ONLY BORROWING 24
-
---- Page 4 ---
-Lending Policy Appendix 1: Lending Criteria V2.1
-7.9 UNACCEPTABLE REPAYMENT STRATEGIES FOR INTEREST ONLY BORROWING 24
-8 OFFER VALIDITY 24
-9 LOAN TO VALUE CRITERIA 25
-9.1REPAYMENT TYPES 25
-9.2 APPLICATION TYPE - PURCHASE AND REMORTGAGE (NO ADDITIONAL BORROWING) 25
-9.3 APPLICATION TYPE - REMORTGAGE (ADDITIONAL BORROWING) 26
-9.4 FURTHER ADVANCES 26
-9.5 SELF-BUILD AND CUSTOM BUILD 27
-10 BUY-TO-LET CRITERIA 28
-10.1 STANDARD BUY TO LET & CONSUMER BUY TO LET 28
-10.2 AFFORDABILITY 28
-STANDARD BUY TO LET 28
-CONSUMER BUY TO LET 29
-10.3 EMPLOYMENT AND INCOME 29
-10.3.1 MINIMUM INCOME 29
-10.4 TOP SLICING 29
-10.4.1 INCOME INCLUDED IN AFFORDABILITY 29
-10.4.2 INCOME EXCLUDED FROM AFFORDABILITY 30
-10.4.3 COMMITMENTS 30
-10.5 TENANCY AGREEMENTS AND OCCUPANCY 30
-10.6 EXPOSURE 30
-10.7 PROPERTY REQUIREMENTS 30
-10.8 EX-PAT BTL 30
-10.9 EX-PAT BTL - IDENTIFICATION AND VERIFICATION 31
-10.10 EX-PAT BTL – EMPLOYMENT 31
-10.11 DEPOSIT AND SOURCE OF WEALTH 31
-10.12 EX PAT ACCEPTABLE COUNTRIES 32
-11 ST RENT TO OWN 32
-11.1 APPLICANT REQUIREMENTS 32
-11.2 FINANCIAL CRITERIA 32
-11.3 PROPERTY CRITERIA 33
-11.4 CREDIT HISTORY 33
-
---- Page 5 ---
-Lending Policy Appendix 1: Lending Criteria V2.1
-11.5 LOAN REQUIREMENTS 33
-12 SHARED OWNERSHIP CRITERIA 33
-12.1 BORROWERS SHARE 33
-12.2 INCOME 33
-12.3 APPLICANT REQUIREMENTS 33
-12.4 LANDLORD RESTRICTIONS 34
-12.5 LOCATIONS 34
-12.6 LEASE 34
-12.6.1 ALIENATION PROVISIONS 34
-12.6.2 MORTGAGE PROTECTION CLAUSE 34
-12.6.3 RENT REVIEW 34
-12.6.4 SHARED OWNERSHIP STAIRCASING 34
-12.6.5 RIGHT OF FIRST REFUSAL (PRE-EMPTION RIGHT) 35
-12.7 TERM 35
-12.8 OWNERSHIP 35
-12.9 MEMORANDUM OF SALE 35
-12.10 RENT 35
-12.11 STAIRCASING 35
-12.12 SHARED OWNERSHIP PERMITTED SCHEMES 35
-12.13 ADDITIONAL BORROWING 35
-13 RETIREMENT INTEREST ONLY CRITERIA (RIO) 36
-13.1 INCOME 36
-13.2 AFFORDABILITY 36
-13.3 RESTRICTIONS 36
-13.4 OTHER CONSIDERATIONS 36
-14 FURTHER ADVANCE CRITERIA 37
-14.1 REGULATED V PRE REGULATED APPLICATIONS 37
-14.2 RESTRICTIONS 37
-15 SELF-BUILD CRITERIA 38
-15.1 PERMITTED LENDING AND RESTRICTIONS 38
-15.1.1 PERMITTED LENDING 38
-
---- Page 6 ---
-Lending Policy Appendix 1: Lending Criteria V2.1
-15.1.2 RESTRICTIONS 38
-15.2 SPECIALIST ADVISORS 39
-15.3 PARTIALLY COMPLETE PROPERTIES/PROJECTS 39
-15.4 DURATION OF PROJECT AND TIMESCALES 39
-15.5 SECOND HOMES 39
-15.6 ACCEPTABLE WARRANTY CERTIFICATION 40
-15.7 SITE INSURANCE MINIMUM REQUIREMENTS 40
-15.8 PLANNING PERMISSION 40
-15.9 BUILDING REGULATION 40
-15.10 INTERIM VALUATIONS 40
-15.11 REPAYMENT TYPES 41
-15.12 ACCEPTABLE CERTIFYING PROFESSIONALS 41
-15.13 CUSTOMERS RETAINING THEIR EXISTING PROPERTY/RENTING DURING THE BUILD 41
-16 CUSTOM BUILD CRITERIA 42
-16.1 DEFINITION 42
-16.2 EXPOSURE LIMITS 42
-16.3 PERMITTED LENDING AND RESTRICTIONS 42
-16.3.1 PERMITTED LENDING 42
-16.3.2 RESTRICTIONS 42
-16.4 SPECIALIST ADVISORS 42
-16.5 PARTIALLY COMPLETE PROPERTIES/PROJECTS 42
-16.6 DURATION OF PROJECT AND TIMESCALES 42
-16.7 ACCEPTABLE WARRANTY CERTIFICATION 43
-16.8 SITE INSURANCE MINIMUM REQUIREMENTS 43
-16.9 PLANNING PERMISSION 43
-16.10 BUILDING REGULATION 43
-16.11 INTERIM VALUATIONS 43
-16.12 REPAYMENT TYPES 44
-16.13 PROPERTY TYPE 44
-16.14 ACCEPTABLE CERTIFYING PROFESSIONALS 44
-16.15 CUSTOMERS RETAINING THEIR EXISTING PROPERTY/RENTING DURING THE BUILD 45
-17 HOME RENOVATION 45
-
---- Page 7 ---
-Lending Policy Appendix 1: Lending Criteria V2.1
-17.1 PERMITTED LENDING 45
-17.2 RESTRICTIONS 45
-17.3 LOAN TO VALUE (LTV) LIMITS 45
-17.4 ACCEPTABLE RENOVATIONS 46
-17.5 DURATION OF THE PROJECT AND TIMESCALES 46
-17.6 STAGE PAYMENTS 46
-17.7 AFFORDABILITY – CUSTOMER RETAINING THEIR EXISTING PROPERTY/RENTING DURING THE REFURBISHMENT 47
-17.8 SIGN OFF REQUIREMENTS 47
-17.9 WHAT HAPPENS WHEN THE PROJECT IS COMPLETED? 47
-17.10 PACKAGING REQUIREMENTS 47
-18 VALUATIONS 48
-DESKTOP VALUATION 48
-
---- Page 8 ---
-
-Lending Policy Appendix 1: Lending Criteria V2.1
-
-================================================================================
-1 CHANGES SINCE LAST REVIEW
-================================================================================
-
-| Date of change | Section | Description of change | Author | Effective from |
-|----------------|---------|----------------------|--------|----------------|
-| March 23 | Business Bank statements | Reduction to 3 months statements | JC | |
-| March 23 | Proof of Deposit | Reduction to 6 months statements | JC | |
-| Sept 23 | Credit History – 4.6 | Window of time reduced to 3 years from 6 years | JC | |
-| Sept 23 | ID – credit/debit card – 4.7 | Removed from acceptable list | JC | |
-| Sept 23 | Deposit – 5.1 | Extended to include siblings. Gifted deposits from donors outside UK excluded | JC | |
-| Sept 23 | Income – Bonus/commission/overtime 6.2 | Wording amended to make our requirements clear. | JC | |
-| Sept 23 | Agency Workers – 6.2 | Permitted – subject to same criteria as zero hours and NHS bank work | JC | |
-| Sept 23 | Maternity Pay - 6.6 | Use of salary for affordability | JC | |
-| Sept 23 | Pension Credit – 6.6 | Added to list of acceptable benefits | JC | |
-| Sept 23 | Income Multiples – 6.8 | Removal of wording re HLC approval | JC | |
-| Sept 23 | Builder incentive 7.8 | Wording amended to make our requirements clear | JC | |
-| Sept 23 | Remortgage, additional for home improvements – 10.3 | Shared Ownership marked as n/a | JC | |
-| Sept 23 | Remortgage, additional for home improvements – 10.3 | Home improvements for over £30k exceeding 80% LTV are subject to HLC approval | JC | |
-| Sept 23 | Property – 7.3.2 | Flats with cladding accepted if built post Jan 2020 | JC | |
-| Sept 23 | Property 7.4.2 | Leasehold properties – Ground Rent £0 on leases granted after June 2022 | JC | |
-| Sept 23 | Property – new | Period of Ownership introduced (6 months) | JC | |
-| Sept 23 | Property – new | Acreage – no maximum added but clarity around acceptance subject to valuers comments | JC | |
-| Nov 23 | Maximum loan and LTV bandings | Updated to reflect Lending Policy | JC | |
-| Dec 23 | Deposits | Builder cash incentives and mortgage subsidies accepted up to 5% of property value | JC | |
-| Jan 24 | Consumer and Ex-pat BTL | Minimum income for loans up to £200k increased to £30k | JC | |
-| Jan 24 | Consumer BTL | Criteria brought into line with standard BTL for case assessment | JC | |
-| Jan 24 | Ex-pat BTL | Documentation requirements for ID/address verification updated | JC | |
-| Jan 24 | Ex-pat BTL | List of acceptable countries amended | JC | |
-| Jan 24 | Ex-pat BTL | Countries not on acceptable list added on a referral basis | JC | |
-| Jan 24 | Light Refurb | New section added | JC | |
-| May 24 | Acceptable Loan Types – 7.2 & 7.3 | Maximum for debt consolidation | JC | |
-| May 24 | Application Type – 9.3 | Increase the max LTV for debt consolidation to 85% | JC | |
-
---- Page 9 ---
-
-Lending Policy Appendix 1: Lending Criteria V2.1
-
-| May 24 | Application Type – 9.3 | Remove £30k limit for home improvements and introduce a percentage of property value | JC | |
-| June 24 | Custom Build | | JC | |
-| June 24 | Evidence to support capital raising | Wording added to state we may need evidence of home improvements or purpose of capital raising | JC | |
-| Sept 24 | Property | No change in requirements but wording and classifications updated in line with current government guidelines | JC | 01/10/24 |
-| Sept 24 | Employment - Agency Workers - 5.2 | Remove the requirement for an applicant to have worked for the same agency for 12 months | JC | 01/10/24 |
-| Sept 24 | Income – 4.1, 5.13 | Permit the use of earned income up to the age of 75 | JC | 01/10/24 |
-| Sept 24 | Employment – Fixed term contracts - 5.2 | Reduce the requirement for an applicant to have been on a fixed term contract from 18m to 12m | JC | 01/10/24 |
-| Sept 24 | Income – Maintenance - 5.6 | Increase the amount of court order maintenance to 75% and introduce the acceptance on non-court order maintenance | JC | 01/10/24 |
-| Sept 24 | Income – Maintenance and child benefit - 5.6 | Introduce an upper age limit for children where maintenance or child benefit is being used for affordability | JC | 01/10/24 |
-| Sept 24 | Employment – permanent contracts - 5.2 | Reduce the requirement for applicants to have been continuously employed on a permanent contract from 12 months to 3 months | JC | 01/10/24 |
-| Sept 24 | RIO - 12 | Wording made clearer to state we don't accept applications from an Attorney. Remove the restriction for properties set up as tenants in common | JC | 01/10/24 |
-| Nov 24 | Overtime/bonus/commission | Accept 100% of overtime/bonus/commission where it can be evidenced for 2 years | JC | 01/11/2024 |
-| Nov 24 | Maximum Age | Increase from 80 to 85 | JC | 01/11/2024 |
-| Nov 24 | Buy now Pay Later | Wording clarification around Klarna/pay in 3 | JC | 01/11/2024 |
-| Dec 24 | Shared Ownership – section 11 | Removal of "for profit" Housing Associations for Shared Ownership applications | JC | 04/12/2024 |
-| Dec 24 | Valuations | New section added to include criteria for desktop valuations | JC | 04/12/2024 |
-| Jan 25 | 5.6 Income - Maternity Leave | No change in criteria – wording change only | JC | 13/01/2025 |
-| Jan 25 | Missed Payments | Clarity around overdrafts | JC | 13/01/2025 |
-| Jan 25 | Warranty Providers | ICW added to our list of acceptable providers | JC | 13/01/2025 |
-| Feb 25 | Rent to Own – new lending initiative: 4.6 Credit History, 9.1 Repayment types, 11 – New section | New criteria | JC | 19/02/2025 |
-
---- Page 10 ---
-
-Lending Policy Appendix 1: Lending Criteria V2.1
-
-| March 25 | Ground Rent for leasehold properties 6.2 | wording updated to state ground rent exceeding £250 (£1000 in London) | JC | 20/05/2025 |
-| April 25 | Eco Self Build Product launched | Update to wording and requirements | JC | 20/05/2025 |
-| April 25 | Rent to Own | Amendment to rent vs mortgage payment requirements. Increase in maximum loan | JC | 20/05/2025 |
-| April 25 | Warranty providers | Advantage Structural Defects Insurance (ASDI) added to the list of acceptable providers | JC | 20/05/2025 |
-| May 25 | Light Refurbishment | Re-named as Home Renovation and Structural work under Permitted Development rules are allowed. | JC | 20/05/2025 |
-
-================================================================================
-2 TARGET AUDIENCE
-================================================================================
-The target audience for this criteria document is:
-• Society employees, predominantly Mortgage Advisors and Underwriters
-• Third party intermediaries
-
-================================================================================
-3 NOTES FOR USAGE
-================================================================================
-
-Text highlighted in green is criteria which is written into policy.
-Text which is underlined and blue is hyperlinked to another relevant section.
-
-================================================================================
-4 APPLICANT
-================================================================================
-
-4.1 AGE
---------------------------------------------------------------------------------
-| | All loan types except RIO | RIO |
-|----------------|---------------------------|-----|
-| Minimum age | 18 | 55 |
-| Maximum age | 85 (the mortgage needs to finish before the 85th birthday of the oldest applicant) | No Maximum |
-
-We do not consider earned income beyond the age of 75 years. Affordability for mortgages which extend beyond the age of 75 will be based on retirement income.
-
-The applicants' plans should be discussed in view of their occupation and reasonability of working beyond state pension age and this should be documented.
-
---- Page 11 ---
-
-Lending Policy Appendix 1: Lending Criteria V2.1
-
-4.2 ADDRESS HISTORY
---------------------------------------------------------------------------------
-A minimum of 3 years residential history is required, and applicants should be on the electoral role for this period.
-
-Link to details of acceptable proofs for Identification and Verification purposes.
-
-4.3 NUMBER OF APPLICANTS
---------------------------------------------------------------------------------
-
-We allow up to 2 applicants on a mortgage application.
-
-4.4 RESIDENCY STATUS
---------------------------------------------------------------------------------
-Applicants must have a minimum 3 years residency in the UK.
-
-Applicants must have a permanent right to reside and work in the UK and/or have Settled Status for EU, EEA and Swiss citizens. Pre-settled status is not permitted.
-
-The Society will check Settlement Status via the Gov.UK website using a Share Code which the applicant must provide with their application.
-
-4.5 CREDIT CHECK
---------------------------------------------------------------------------------
-
-We will carry out a credit check on all mortgage applicants.
-
-4.6 ACCEPTABLE CREDIT HISTORY
---------------------------------------------------------------------------------
-**Type:** Standard, Shared Ownership, Further Advance, Buy to Let, Self-Build, Custom Build
-
-**CCJs/Defaults**
-
-A maximum of 1 CCJ and 1 default per applicant*, which must have been satisfied at least 12 months** prior to application and subject to the following restrictions:
-
-| Amount | Registered in last 12 months | Registered between 1 – 3 years ago | Registered over 3 years ago and showing on the credit report |
-|--------|------------------------------|-----------------------------------|------------------------------------------------------------|
-| Up to £500 | Not permitted | Acceptable | Acceptable |
-| £501 - £2500 | Not permitted | Not permitted | Acceptable |
-| >£2500 | Not permitted | Not permitted | Not permitted |
-
-*Applicants with more than one CCJ/Default will be considered on a case-by-case basis.
-
-** Cases will be considered on an individual basis where the CCJ/default has been satisfied for less than 12 months.
-
-**Mortgage/ Rent/ Loan/ Secured/ Unsecured Arrears**
-
-Below 80% Loan to value:
-- A maximum of 3 missed payments in the last 24 months.
-- Reaching no more than a status 2 at any one time within a 24-month period.
-- Applicants will need to be clear of any arrears for the previous 12 months.
-
-Above 80% Loan to Value:
-- Need to be clear of any mortgage/loan arrears for 24 months prior to application.
-
-**Rent**
-
-Need to be clear of any arrears for 12 months prior to application.
-
-**Missed Payments – revolving credit** (e.g., mail order, credit cards, mobile phone, overdrafts)
-
-Below 80% Loan to Value:
-- Maximum of 3 missed payments in the last 12 months totalling no more than £500. No missed payments in the last 6 months.
-
-Above 80% and up to 95% Loan to Value:
-- In addition to the above no account(s) must have had a missed payment status greater than '1' in the 12-month period.
-
-Above 95%:
-- No missed payments in the last 12 months.
-
-**NOTE:** use of unauthorised overdrafts or exceeding an arranged overdraft or credit limit is generally unacceptable. This information may appear on bank statements which are reviewed during the underwriting process. Further information/approval maybe required.
-
-**Undisclosed Credit**
-
-Not acceptable
-
-**Pay Day Loans**
-
-Applicants who have entered into a pay day loan agreement within the last 24 months are unacceptable.
-
-**Debt Management Plans (DMP) and Arranged Payments**
-
-Applicants who have had a previous debt management/arranged payment plan must have redeemed it in full more than 24 months ago.
-
-**Bankruptcy and Debt Relief Order**
-
-Applications will be considered from discharged bankrupts/DRO subject to the applicant being discharged for a minimum of 6 years.
-
-**IVAs**
-
-Applications will be considered from discharged IVAs subject to the applicant being discharged for a minimum of 3 years.
-
-**Repossession**
-
-Not Acceptable
-
-4.7 IDENTIFICATION AND VERIFICATION
---------------------------------------------------------------------------------
-Identity will be verified using an Electronic Identity search (EID) where possible. Proof of Identification/address may be required in some instances and one document from List A and one from List B below should be provided as evidence.
-
-**Please note:**
-- The same document cannot be used as evidence of both name and address.
-- Documents are only acceptable if they are dated within the period stated.
-- Internet statements are not acceptable.
-- There are additional Identification and Verification requirement for Ex Pat BTL borrowers which are listed here Ex Pat BTL Identification and Verification
-
-| List A - Proof of Name/Identification | List B - Proof of Residential Address |
-|--------------------------------------|--------------------------------------|
-| Current Signed Passport | Utility bill or certificate from a supplier of utilities or prepay terms issued within the last 3 months. |
-| Resident Permit issued by Home Office | Local Authority tax bill valid for current year |
-| Current Full or Provisional UK photo card driving licence (showing correct address)<br>If not used for address ID | Current Full or Provisional UK photo card driving licence (showing correct address)<br>If not used for name ID |
-| Current full driving licence (old style – showing correct address)<br>If not used for address ID | Current full driving licence (old style – showing correct address)<br>If not used for name ID |
-| Letter from the Department of Work and Pensions<br>If not used for address ID | Letter from the Department of Work and Pensions<br>If not used for name ID |
-| Inland Revenue tax notification | Bank, Building Society or Credit Union statement or passbook showing current address issued within the last 3 months. |
-| | Most recent mortgage statement from a recognised lender issued within the last 12 months. |
-| | Local council rent card or tenancy agreement within the last 3 months. |
-
---- Page 13 ---
-
-Lending Policy Appendix 1: Lending Criteria V2.1
-All documents must be original or certified copies of documents. Copies of original documents can only be certified by one of the following:
-- UK Lawyer or Notary
-- Banker
-- Authorised financial intermediary.
-- FCA regulated mortgage broker.
-- Accountant.
-- Teacher or Lecturer.
-- Doctor.
-- Dentist.
-- Minister of religion.
-- Postmaster/sub postmaster.
-- Councillor.
-
-We will require the certifier to print their name, occupation, professional body that they belong to and contact details on each document/page (in case we need to confirm their status).
-
-4.8 SOURCE AND EVIDENCE OF DEPOSIT
---------------------------------------------------------------------------------
-
-Applicants must provide at least a 5% deposit from savings/gift.
-
-We require confirmation of the source of deposit and evidence of the deposit:
-
-| Source of Deposit | Evidence |
-|------------------|----------|
-| Savings in the UK | Provide the latest 6 months bank statements showing the savings being built up. Any large lump sum credits must be explained to verify their source. |
-| Savings outside the UK | Not acceptable |
-| Builder cashback/deposit<br>Acceptable providing it doesn't exceed 5% of the lower of the purchase price/valuation | Letter from the Solicitor |
-| Gifts<br>Acceptable if no conditions are attached, meaning the person giving the gift will have no claim or interest in the property and the gifted funds are not repayable.<br>The gift must come from a family member, such as parents, grandparents, siblings, or legal guardians. | A gifted deposit form should be completed and uploaded with the application. Where the gift is more than £25,000, a bank statement showing the deposit monies will be required from the person gifting the funds. Further evidence may be requested by the Underwriters. |
-| Gifts from spouses or partners living at the property but not listed on the mortgage are generally not accepted. | |
-| Equity from sale of property | The Memorandum of Sale |
-| Funds from the sale of an overseas property | Solicitors letter or completion statement detailing the sale. This must include the address of the property, the amount it was sold for and the date. The funds must be in a UK bank account and statements for this must be |
-| Inheritance | A letter from the Solicitor for the estate confirming the amount that will be/has been inherited. Evidence that funds have been received via a bank statement. |
-
---- Page 15 ---
-
-Lending Policy Appendix 1: Lending Criteria V2.1
-
-================================================================================
-5.1 EMPLOYMENT CRITERIA
-================================================================================
-Cases which do not meet the criteria listed below will be considered by the Society on their individual merits.
-
-All applicants must be paid in Sterling (GBP), with the exception of Ex-Pat BTL applicants, and hold a UK bank account.
-
-We reserve the right to ask for additional accounting information at the discretion of our underwriters.
-
-Please refer to BTL - Employment and Income and RIO for additional criteria for these applicants
-
-5.2 ACCEPTABLE EMPLOYED SOURCES OF INCOME AND PROOF REQUIRED
---------------------------------------------------------------------------------
-
-| Income Type | Criteria | Proof Required | What we Can Use |
-|-------------|----------|----------------|-----------------|
-| Employed | Applicants must have been continuously employed for at least 3 months on a permanent contract. | Latest 3 months payslips or equivalent if paid weekly* and most recent P60. | 100% of basic salary<br>100% of guaranteed contractual shift allowance |
-| Bonus/Overtime/Commission (BOC) | The amount we can consider depends on how long the applicant has been in their role and if the payments are guaranteed. If the additional payments are more than the basic salary, we'll limit them to no more than the basic annual salary.<br><br>- Guaranteed BOC: Where applicants have been with their current employer for at least 3 months<br>- Regular BOC: Where applicants have been with their current employer for at least 2 years<br>- Regular BOC: Where applicants have been with their current employer for at least 1 year | An employment reference will be requested. *<br><br>*Payslip Requirements to evidence BOC where an employment reference cannot be obtained:<br>- Weekly Paid: 52 payslips<br>- Monthly Paid: 12 months' payslips showing the additional payment/s received.<br>- Quarterly Paid: 4 payslips<br>- Half-Yearly Paid: 2 payslips<br>- Annually Paid: 1 payslip | - Guaranteed BOC: 100%<br>- Regular BOC (2+ years): 100%<br>- Regular BOC (1+ year): 50% |
-
---- Page 16 ---
-
-Lending Policy Appendix 1: Lending Criteria V2.1
-| Fixed Term Contract | Applicants must have been continuously employed on a fixed-term contract basis for a minimum of 12 months in the same line of work.<br>There must be at least 6 months remaining on the current contract.<br>Contracts are acceptable directly from the company for which the employee is providing services and not via a third party | Latest 3 months payslips or equivalent if paid weekly*; and<br>Current and previous contract. | 100% of basic salary |
-| Zero Hours Contract | Applicants must have been continuously employed for at least 12 months with the same employer.<br>They must have a contract of employment in place.<br>Not acceptable on an Interest Only Basis.<br>Not acceptable for Near Prime applications | Latest 6 months pay slips or equivalent if paid weekly*; and<br>Contract of employment. | 100% of average pay (calculated by dividing the total 6 months income by 6, and multiplying by 12 to give an average annual income) |
-| Bank Hours (applies to NHS professionals only e.g., doctors and nurses) | Applicants must have been continuously employed for at least 12 months on a bank hours basis.<br>They must have a contract of employment in place.<br>Not acceptable on an Interest Only Basis.<br>Not acceptable for Near Prime applications | Latest 6 months pay slips or equivalent if paid weekly*; and<br>Contract of employment. | 100% of average pay (calculated by dividing the total 6 months income by 6, and multiplying by 12 to give an average annual income) |
-| Agency workers | Applicants must have been continuously employed for at least 12 months and have a contract of employment in place | Latest 6 months payslips and<br>an employment reference from the agency | 100% of average pay (calculated by dividing the total 6 months income by 6 and multiplying by 12 to give an average annual income. |
-| Self-Employed<br>Not acceptable for Ex Pat lending | Self-employed for a minimum of 2 years | Latest 2 years audited/certified accounts: and<br>Latest 2 years tax calculations and tax overviews; and<br>Accountants reference (this will be requested by the Society); and<br>The latest 3 months business bank statements (to identify whether the business income has been affected by covid/lockdown) | The average of the last 2 years net profit; or<br>The average of the last 2 years tax calculations, whichever is the lower.<br>Note; if the latest years figures are lower than the average, the lower will be used.<br>Declining profits are not normally acceptable.<br>Applicants with 1 years accounts will not be accepted. |
-| Company Directors <25% shareholding | Applicants will be treated as employed and will be subject to the same criteria as an employed applicant. | As employed. | As employed. |
-| Company Directors with >25% shareholding | Applicants will be treated as self-employed and will be subject to the same criteria as a self- employed applicant. | As self-employed. | As self-employed. |
-| Second Job | Applicants with income from a second job may be considered either on an employed or self-employed basis, provided this has been held concurrently with the main job for a minimum period of 12 months for employed and 24 months for self-employed income.<br>The total hours for both jobs cannot exceed 50 hours per week.<br>No overtime can be used for either job. | As per employed/self-employed/company directors. | Both jobs on employed basis:<br>100% of basic pay from both jobs.<br><br>Combination of employed and self-employed basis:<br>100% basic pay plus as per self-employed criteria. |
-| Car Allowance | Applicants' car allowance must be confirmed as a guaranteed feature of employment | Latest 3 months pay slips or equivalent if paid weekly* | 100% |
-| Large Town Allowance | Applicants' large town allowance must be confirmed as a guaranteed feature of employment | Latest 3 months pay slips or equivalent if paid weekly* | 100% |
-
-*Online pay slips are acceptable, hand-written pay slips are not.
-
-5.3 PROBATIONARY PERIODS
---------------------------------------------------------------------------------
-
-Probationary periods are acceptable subject to 12 months continuous employment and remaining in a similar role.
-
-5.4 PENDING PAY RISES
---------------------------------------------------------------------------------
-
-Pending pay rises are acceptable subject to written confirmation.
-
-5.5 BUSINESS GRANTS AND LOANS
---------------------------------------------------------------------------------
-
-Applicants who have received government assistance in the form of a business grant of business loan will be accepted.
-
---- Page 18 ---
-
-Lending Policy Appendix 1: Lending Criteria V2.1
-
-Where an applicant has received support in the form of a non-repayable government grant such as the Small Business Grant, Discretionary Grant or Retail, Hospitality Leisure Grant (RHLGF), this will be treated neutrally i.e., it should not be treated an income nor a commitment.
-
-Where a business has received a government loan such as the Business Interruption Loan or Bounce Back Loan, this will be treated as a commitment when affordability is assessed.
-
-5.6 ACCEPTABLE OTHER SOURCES OF INCOME AND PROOF REQUIRED
---------------------------------------------------------------------------------
-
-| Income Type | Criteria | Proof | What we Can Use |
-|-------------|----------|-------|----------------|
-| Retirement Income - State Pension | Applicants must be in receipt of state pension income. | A letter from DWP confirming pension amount | 100% of state pension |
-| Retirement Income - Private/Occupational Pension | Applicants must be in receipt of private/occupational pension income. | A statement from the pension provider confirming pension amount | 100% of private and occupational pension.<br>4% of Self-Invested Personal Pension (SIPP) value (used as annual income), a minimum fund value of £100,000 is required. |
-| Benefit Income | Income derived from benefits may be considered where it is not the sole income and where earned income is a minimum of £10,000. The amount of benefits received cannot exceed the earned income.<br>Child Benefit will be accepted where children are under the age of 13 | A letter from the relevant department/benefit provider confirming the level of benefit income | A maximum of 50% of the following benefit types is permitted:<br>Child Benefit<br>Child Tax Credit<br>Working Tax Credit, Pension Credit (or equivalent stated under Universal Credit)<br>Disability Living Allowance (DLA)<br>Disability Income Support |
-| BTL Rental Income | The BTL property must have been rented out for at least 2 years.<br>The income must have been declared using Self-Assessment tax returns. | Latest 2 years tax calculations and tax overviews.<br>AST for each property.<br>Latest 3 months bank statements to show rental income. | An average of the last 2 years tax calculations or the latest years figure if this is lower. |
-| Investment Income | Applicants must have been in receipt of the income for at least 2 years.<br>The income must have been declared using Self-Assessment tax returns. | Latest 2 years tax calculations and tax overviews.<br>Most recent statement from the provider confirming the total fund value | An average of the last 2 years tax calculations or the latest years figure if this is lower.<br>A maximum of 4% of the fund value can be used for income purposes. |
-| Maintenance Income – Court order | Maintenance awarded for children under a Court Order can be considered when children are under the age of 13 | A certified copy of the Court Order.<br>Latest 3 months bank statements showing maintenance payments. | 75% of the amount stated in the Court Order. |
-| Maintenance – No Court Order | Maintenance payments made outside of a court order can be considered where the children are under the age of 13. | Last 12 months bank statements showing consistent and regular payments | 25% of the regular payment received. |
-| Maternity/Paternity Income | If an applicant is on maternity leave and the mortgage will complete before they return to work, affordability will generally be assessed based on the lowest income they receive during their leave.<br>However, if the applicant can provide evidence of savings equal to their net monthly income for the duration of their leave, affordability will instead be assessed based on their salary upon returning to work. | Latest 3 months pay slips or equivalent, if paid weekly, and a reference from the employer confirming the return-to-work date and salary.<br>Latest savings statement if applicable. | The salary as stated in the employment reference where the applicant can evidence sufficient savings equating to their net monthly income for the period of leave OR the lowest amount of pay, usually SMP, that will be paid during the leave. |
-
---- Page 19 ---
-
-Lending Policy Appendix 1: Lending Criteria V2.1
-
-5.7 APPROVED ACCOUNTANCY BODIES
---------------------------------------------------------------------------------
-
-Accountant's certificates should be prepared by an Associate or Fellow of an approved accountancy body:
-- Association of Accounting Technicians (AAT)
-- Association of Authorised Public Accountants (APA)
-- Association of Chartered Certified Accountants (ACCA)
-- Association of International Accountants (AIA)
-- Chartered Institute of Management Accountants (CIMA)
-- Chartered Institute of Public Finance and Accountancy (CIPFA)
-- Chartered Institute of Taxation (CIOT)
-- Institute of Chartered Accountants (ICA)
-- Institute of Financial Accountants (IFA)
-- Fellow of Chartered Accountants (FCA)
-
-5.8 AFFORDABILITY
---------------------------------------------------------------------------------
-
-The amount we will lend is based upon an applicant's income and expenditure. The Society uses ONS data to determine some areas of spending and this is based on household composition and the geographical area of the property.
-
-We will also review your Credit Report and Bank Statements to ensure all expenditure has been included. Adjustments will be made where necessary e.g. If additional expenditure is noted such as gambling transactions.
-
-A stressed mortgage rate is applied in calculating affordability other than where the mortgage rate is fixed for 5 years or more.
-
-Whilst affordability is the overriding factor when assessing a mortgage, income multiples are used as a guide. The maximum is 5 x joint income.
-
-For all Buy to Let applications where the rental income (confirmed by the valuer) does not meet the rental criteria interest coverage ratio (ICR) a full affordability assessment is required. BTL – Applications based on affordability.
-
-There are specific requirements for RIO applicants RIO - Affordability
-
---- Page 20 ---
-
-Lending Policy Appendix 1: Lending Criteria V2.1
-
-5.8.1 Financial Commitments
---------------------------------------------------------------------------------
-
-The monthly commitments and balances outstanding in respect of the following should be declared as part of the application:
-- Bank Loans, Hire Purchase, Car Loans, Student Loans, Second Mortgages, Buy to Let Mortgages, Child Maintenance, car lease agreements, nursery education, education fees or any other financial commitment.
-- For credit cards, store cards and mail order accounts 3% of the current balance will used as the monthly commitment.
-- Commitments can be ignored in the affordability calculation if there is less than 3 months to run. This would include Klarna/Pay Pal Pay in 3.
-
-5.8.2 Gambling
---------------------------------------------------------------------------------
-
-Gambling transactions will be considered for affordability. Bank statements will be checked, and an average of the amount gambled over the last 3 months will be used. Additional bank statements may be requested at the underwriter's discretion.
-
-5.8.3 Bank Statements
---------------------------------------------------------------------------------
-
-Where possible we will use Open Banking to check bank statements but in the absence of this the latest 3 months' bank statements for each applicant are required. These should show salary credits and other regular expenditure. Additional bank statements may be requested by the Underwriter to support your application.
-
-5.9 INCOME MULTIPLES
---------------------------------------------------------------------------------
-
-Basic income multiples (for guidance purposes)
-
-| | All lending |
-|----------------|------------|
-| Single | Income x 5 |
-| Joint | Joint income x 5 |
-
-5.10 PROOF OF MORTGAGE/RENT PAYMENT
---------------------------------------------------------------------------------
-
-The conduct of Mortgages/Loans (secured/unsecured) are checked against Credit Bureau information for the last 2 years. Where this cannot be evidenced mortgage statements/bank statements to cover this period will be required.
-
-The conduct of tenancy agreements will be checked using the latest 12 months bank statements and/or a tenancy reference.
-
-5.11 BACKGROUND PROPERTIES/BUY TO LETS
---------------------------------------------------------------------------------
-
-Background properties/buy to lets are not permitted for shared ownership lending.
-
---- Page 21 ---
-
-Lending Policy Appendix 1: Lending Criteria V2.1
-
-5.11.1 Background Buy to Let
---------------------------------------------------------------------------------
-Applicants must have no more than 3 BTL properties (per application).
-
-The following will apply:
-
-**Background BTL will be treated as self-funding where:**
-- There is at least 3 months rental history (AST and bank statements showing rental income are required) AND
-- The rent received is equal to or more than the stressed mortgage payment (e.g., £100,000 x current stressed rate x 145%)
-
-If an existing BTL is let on an HMO basis the rent will be evidenced via tax assessments.
-
-**The expenditure associated with a Background BTL will be included in affordability if:**
-- There is no rental history (if this applies the stressed mortgage payment will be used for affordability, but no rental income considered) AND/OR
-- There is a shortfall between the rent received and the stressed mortgage payment. The shortfall amount will be included for affordability.
-
-5.11.2 Background property (Not BTL)
---------------------------------------------------------------------------------
-
-The mortgage, if applicable, will be included in affordability calculations at the current pay rate.
-
-Additional household costs e.g., council tax, heating etc will be considered for affordability.
-
-5.12 LENDING IN RETIREMENT
---------------------------------------------------------------------------------
-
-Lending in retirement is where all borrowers are a minimum of 60 years old, have already retired, and the only source of income is retirement income and that derived from investments, including rental property.
-
-The maximum LTV is 70%.
-
-5.13 LENDING INTO RETIREMENT
---------------------------------------------------------------------------------
-
-Lending into retirement is where the mortgage term will extend beyond the applicants stated retirement age or over the age of 75.
-
-The maximum LTV is 80%.
-
-================================================================================
-6 PROPERTY
-================================================================================
-
-6.1 PROPERTY LOCATION
---------------------------------------------------------------------------------
-
-Lending in England (including the Isle of Wight), Wales and Scotland including the below Scottish Isles is considered:
-- The Orkneys
-- The Shetlands
-- Arran
-- Bute
-- Harris and Lewis
-- Islay
-- Mull
-- Skye
-
-The Society does not lend in the Isle of Man
-
-There are restrictions by lending and property type summarized in the table below.
-
-| | England | Wales | Mainland Scotland | Scottish Isles |
-|----------------|---------|-------|-------------------|----------------|
-| **Lending Types** | | | | |
-| Standard | ✓ | ✓ | ✓ | ✓ |
-| Shared Ownership | ✓ | ✓ | x | x |
-| Near Prime | ✓ | ✓ | ✓ | ✓ |
-| Buy To Let | ✓ | ✓ | x | x |
-| Self-Build | ✓ | ✓ | ✓ | ✓ |
-| Custom Build | ✓ | ✓ | ✓ | ✓ |
-| **Property and Tenure Types** | | | | |
-| Freehold Flats/Maisonettes | x | x | x | x |
-| Freehold House/Bungalows | ✓ | ✓ | ✓ | ✓ |
-| Leasehold Flats/Maisonettes | ✓ | ✓ | x | x |
-| Leasehold House/Bungalow | ✓ | ✓ | x | x |
-
-6.2 TENURE
---------------------------------------------------------------------------------
-
-6.2.1 Freehold
---------------------------------------------------------------------------------
+# HANLEY BUILDING SOCIETY – RESIDENTIAL LENDING CRITERIA (RAG STRUCTURED)
+
+---
+
+**LENDER:** Hanley Building Society
+**PRODUCT:** Residential
+**DOCUMENT TYPE:** Lending Policy Appendix 1: Lending Criteria
+**POLICY DATE:** November 2024
+**VERSION:** V2.1
+**NEXT REVIEW:** September 2025
+**FOR INTERMEDIARY USE ONLY**
+
+---
+
+# SECTION 1 – APPLICANT AGE
+
+## Minimum Age
+
+**All loan types except Retirement Interest Only (RIO):**
+Minimum: 18.
+
+**Retirement Interest Only (RIO):**
+Minimum: 55.
+
+---
+
+## Maximum Age
+
+**All loan types except RIO:**
+Maximum: 85.
+Condition: The mortgage must finish before the 85th birthday of the oldest applicant.
+
+**RIO:**
+Maximum: No maximum.
+
+---
+
+## Earned Income Age Limit
+
+**Condition:**
+Earned income will not be considered beyond age 75.
+
+If the mortgage term extends beyond age 75:
+
+* Affordability must be based on retirement income.
+
+---
+
+## Retirement Planning Requirement
+
+**Requirement:**
+Applicants’ plans for working beyond state pension age must be discussed, assessed for reasonability, and documented.
+
+---
+
+# SECTION 2 – ADDRESS HISTORY
+
+## Residential History
+
+**Minimum Requirement:**
+3 years residential history.
+
+---
+
+## Electoral Roll
+
+**Requirement:**
+Applicants must be registered on the electoral roll for the 3-year period.
+
+---
+
+# SECTION 3 – NUMBER OF APPLICANTS
+
+**Maximum:** 2 applicants per mortgage application.
+
+---
+
+# SECTION 4 – RESIDENCY STATUS
+
+## UK Residency
+
+**Minimum Requirement:**
+3 years residency in the UK.
+
+---
+
+## Right to Reside
+
+**Requirement:**
+Applicants must:
+
+* Have permanent right to reside and work in the UK; OR
+* Hold Settled Status (EU, EEA, Swiss citizens).
+
+---
+
+## Not Acceptable
+
+* Pre-settled status.
+
+---
+
+## Settlement Status Verification
+
+**Requirement:**
+Settlement Status will be checked via Gov.UK using a Share Code provided by the applicant.
+
+---
+
+# SECTION 5 – CREDIT CHECK
+
+**Requirement:**
+A credit check will be carried out on all mortgage applicants.
+
+---
+
+# SECTION 6 – ACCEPTABLE CREDIT HISTORY
+
+**Applicable To:**
+Standard, Shared Ownership, Further Advance, Buy to Let, Self-Build, Custom Build.
+
+---
+
+## CCJs and Defaults
+
+**Maximum:** 1 CCJ and 1 Default per applicant.
+
+**Requirement:**
+Must have been satisfied at least 12 months prior to application.
+
+---
+
+### CCJ / Default Amount Criteria
+
+**Up to £500**
+
+* Registered in last 12 months: Not acceptable
+* Registered 1–3 years ago: Acceptable
+* Registered over 3 years ago: Acceptable
+
+**£501 – £2500**
+
+* Registered in last 12 months: Not acceptable
+* Registered 1–3 years ago: Not acceptable
+* Registered over 3 years ago: Acceptable
+
+**Above £2500**
+
+* Not acceptable in all cases.
+
+---
+
+### Additional Conditions
+
+* Applicants with more than 1 CCJ/Default: Considered case-by-case.
+* CCJs/defaults satisfied for less than 12 months: Considered individually.
+
+---
+
+## Mortgage / Loan Arrears
+
+### Below 80% LTV
+
+* Maximum: 3 missed payments in last 24 months.
+* Maximum status: 2 at any one time in 24-month period.
+* Requirement: Clear of arrears for previous 12 months.
+
+### Above 80% LTV
+
+* Requirement: Clear of mortgage/loan arrears for 24 months prior to application.
+
+---
+
+## Rent Arrears
+
+**Requirement:**
+Clear of arrears for 12 months prior to application.
+
+---
+
+## Missed Payments – Revolving Credit
+
+Includes: mail order, credit cards, mobile phone, overdrafts.
+
+### Below 80% LTV
+
+* Maximum: 3 missed payments in last 12 months.
+* Total missed payments must not exceed £500.
+* No missed payments in last 6 months.
+
+### Above 80% and up to 95% LTV
+
+* Must meet below 80% criteria; AND
+* No account may have had missed payment status greater than 1 in last 12 months.
+
+### Above 95% LTV
+
+* No missed payments in last 12 months.
+
+---
+
+## Overdrafts
+
+**Not acceptable (generally):**
+
+* Use of unauthorised overdrafts.
+* Exceeding arranged overdraft or credit limit.
+
+Condition: Further approval may be required.
+
+---
+
+## Undisclosed Credit
+
+Not acceptable.
+
+---
+
+## Pay Day Loans
+
+Applicants who have entered into a pay day loan agreement within the last 24 months:
+Not acceptable.
+
+---
+
+## Debt Management Plans (DMP)
+
+Applicants must have redeemed the DMP in full more than 24 months ago.
+
+---
+
+## Bankruptcy and Debt Relief Order (DRO)
+
+Applications acceptable where:
+
+* Discharged for minimum 6 years.
+
+---
+
+## Individual Voluntary Arrangements (IVA)
+
+Applications acceptable where:
+
+* Discharged for minimum 3 years.
+
+---
+
+## Repossession
+
+Not acceptable.
+
+---
+
+# SECTION 7 – IDENTIFICATION AND VERIFICATION
+
+## Identity Verification
+
+Identity will be verified using Electronic Identity search (EID) where possible.
+
+Proof of identification/address may be required.
+
+---
+
+## Document Requirement
+
+**Requirement:**
+One document from List A AND one document from List B.
+
+Condition:
+
+* The same document cannot be used for both name and address.
+* Documents must be dated within required timeframe.
+* Internet statements are not acceptable.
+* Additional requirements apply for Ex Pat BTL borrowers.
+
+---
+
+## List A – Proof of Name
+
+Allowed:
+
+* Current signed passport
+* Resident Permit issued by Home Office
+* Current full or provisional UK photocard driving licence (if not used for address ID)
+* Current full driving licence (old style) (if not used for address ID)
+* Letter from Department of Work and Pensions (if not used for address ID)
+* Inland Revenue tax notification
+
+---
+
+## List B – Proof of Address
+
+Allowed:
+
+* Utility bill issued within last 3 months
+* Local Authority tax bill valid for current year
+* UK driving licence (if not used for name ID)
+* Letter from Department of Work and Pensions (if not used for name ID)
+* Bank/Building Society/Credit Union statement issued within last 3 months
+* Mortgage statement issued within last 12 months
+* Local council rent card or tenancy agreement within last 3 months
+
+---
+
+## Certification Requirements
+
+Documents must be original or certified copies.
+
+Certifier must:
+
+* Print name
+* State occupation
+* State professional body
+* Provide contact details
+
+---
+
+## Acceptable Certifiers
+
+* UK Lawyer or Notary
+* Banker
+* Authorised financial intermediary
+* FCA regulated mortgage broker
+* Accountant
+* Teacher or Lecturer
+* Doctor
+* Dentist
+* Minister of religion
+* Postmaster/sub postmaster
+* Councillor
+
+---
+
+# SECTION 8 – SOURCE AND EVIDENCE OF DEPOSIT
+
+## Minimum Deposit
+
+**Minimum:** 5% from savings or gift.
+
+---
+
+## Source of Deposit – Acceptable
+
+### UK Savings
+
+Requirement:
+
+* Latest 6 months bank statements.
+* Large lump sums must be explained.
+
+---
+
+### Savings Outside UK
+
+Not acceptable.
+
+---
+
+### Builder Cashback / Deposit
+
+Allowed:
+
+* Must not exceed 5% of lower of purchase price or valuation.
+
+Evidence:
+
+* Solicitor letter.
+
+---
+
+### Gifted Deposit
+
+Allowed where:
+
+* No conditions attached.
+* No repayment required.
+* Donor has no interest in property.
+* Donor must be family member (parents, grandparents, siblings, legal guardians).
+
+Requirement:
+
+* Gifted deposit form.
+
+If gift exceeds £25,000:
+
+* Donor bank statement required.
+
+Further evidence may be requested.
+
+---
+
+### Gifts from Spouse/Partner Not on Mortgage
+
+Generally not accepted.
+
+---
+
+### Equity from Sale of Property
+
+Evidence:
+
+* Memorandum of Sale.
+
+---
+
+### Funds from Sale of Overseas Property
+
+Requirement:
+
+* Solicitor letter or completion statement.
+* Must include property address, sale amount and date.
+* Funds must be in UK bank account.
+
+---
+
+### Inheritance
+
+Requirement:
+
+* Solicitor letter confirming amount.
+* Bank statement showing funds received.
+
+---
+
+# SECTION 5.1 – EMPLOYMENT CRITERIA
+
+## General Policy
+
+Cases which do not meet the criteria listed will be considered by the Society on their individual merits.
+
+## Currency Requirement
+
+All applicants must:
+
+* Be paid in Sterling (GBP),
+* Hold a UK bank account.
+
+Exception:
+
+* Ex-Pat BTL applicants.
+
+## Underwriter Discretion
+
+The Society reserves the right to request additional accounting information at the discretion of underwriters.
+
+---
+
+# SECTION 5.2 – ACCEPTABLE EMPLOYED SOURCES OF INCOME AND PROOF REQUIRED
+
+---
+
+## Employed
+
+### Criteria
+
+* Must have been continuously employed for at least 3 months.
+* Must be on a permanent contract.
+
+### Proof Required
+
+* Latest 3 months payslips (or equivalent if paid weekly).
+* Most recent P60.
+
+### Income Used
+
+* 100% of basic salary.
+* 100% of guaranteed contractual shift allowance.
+
+---
+
+## Bonus / Overtime / Commission (BOC)
+
+### Criteria
+
+* Amount considered depends on:
+
+  * Length of time in role.
+  * Whether payments are guaranteed.
+* If additional payments exceed basic salary:
+
+  * Additional payments will be limited to no more than the basic annual salary.
+
+### Length of Service Rules
+
+* Guaranteed BOC:
+
+  * Minimum 3 months with current employer.
+* Regular BOC:
+
+  * Minimum 2 years with current employer.
+* Regular BOC:
+
+  * Minimum 1 year with current employer.
+
+### Proof Required
+
+* Employment reference requested.
+
+If employment reference cannot be obtained, payslip requirements are:
+
+* Weekly paid: 52 payslips.
+* Monthly paid: 12 months payslips showing additional payments.
+* Quarterly paid: 4 payslips.
+* Half-yearly paid: 2 payslips.
+* Annually paid: 1 payslip.
+
+### Income Used
+
+* Guaranteed BOC: 100%.
+* Regular BOC (2+ years): 100%.
+* Regular BOC (1+ year): 50%.
+
+---
+
+## Fixed Term Contract
+
+### Criteria
+
+* Must have been continuously employed on a fixed-term contract basis for minimum 12 months.
+* Must be in the same line of work.
+* At least 6 months remaining on current contract.
+* Contract must be directly with the company providing services.
+* Contracts via third party not acceptable.
+
+### Proof Required
+
+* Latest 3 months payslips (or equivalent if weekly).
+* Current contract.
+* Previous contract.
+
+### Income Used
+
+* 100% of basic salary.
+
+---
+
+## Zero Hours Contract
+
+### Criteria
+
+* Minimum 12 months continuous employment with same employer.
+* Must have a contract of employment.
+* Not acceptable on an Interest Only basis.
+* Not acceptable for Near Prime applications.
+
+### Proof Required
+
+* Latest 6 months payslips (or equivalent if weekly).
+* Contract of employment.
+
+### Income Used
+
+* 100% of average pay.
+* Calculation method:
+
+  * Total 6 months income ÷ 6 × 12.
+
+---
+
+## Bank Hours (NHS Professionals Only)
+
+Applies to doctors and nurses only.
+
+### Criteria
+
+* Minimum 12 months continuous employment on bank hours basis.
+* Must have a contract of employment.
+* Not acceptable on an Interest Only basis.
+* Not acceptable for Near Prime applications.
+
+### Proof Required
+
+* Latest 6 months payslips (or equivalent if weekly).
+* Contract of employment.
+
+### Income Used
+
+* 100% of average pay.
+* Calculation:
+
+  * Total 6 months income ÷ 6 × 12.
+
+---
+
+## Agency Workers
+
+### Criteria
+
+* Minimum 12 months continuous employment.
+* Must have contract of employment.
+
+### Proof Required
+
+* Latest 6 months payslips.
+* Employment reference from agency.
+
+### Income Used
+
+* 100% of average pay.
+* Calculation:
+
+  * Total 6 months income ÷ 6 × 12.
+
+---
+
+## Self-Employed
+
+Not acceptable for Ex Pat lending.
+
+### Criteria
+
+* Self-employed for minimum 2 years.
+
+### Proof Required
+
+* Latest 2 years audited/certified accounts.
+* Latest 2 years tax calculations.
+* Latest 2 years tax overviews.
+* Accountant’s reference (requested by Society).
+* Latest 3 months business bank statements (to identify impact of covid/lockdown).
+
+### Income Used
+
+* Average of last 2 years net profit; OR
+* Average of last 2 years tax calculations,
+* Whichever is lower.
+* If latest year is lower than average:
+
+  * Lower figure used.
+* Declining profits:
+
+  * Not normally acceptable.
+* 1 year accounts:
+
+  * Not accepted.
+
+---
+
+## Company Directors <25% Shareholding
+
+### Treatment
+
+* Treated as employed.
+* Subject to employed criteria.
+
+### Proof
+
+* As employed.
+
+### Income Used
+
+* As employed.
+
+---
+
+## Company Directors >25% Shareholding
+
+### Treatment
+
+* Treated as self-employed.
+* Subject to self-employed criteria.
+
+### Proof
+
+* As self-employed.
+
+### Income Used
+
+* As self-employed.
+
+---
+
+## Second Job
+
+### Criteria
+
+* Must be held concurrently with main job.
+* Minimum duration:
+
+  * 12 months (employed basis).
+  * 24 months (self-employed basis).
+* Total hours across both jobs must not exceed 50 hours per week.
+* No overtime can be used for either job.
+
+### Proof Required
+
+* As per employed/self-employed/company director criteria.
+
+### Income Used
+
+If both employed:
+
+* 100% of basic pay from both jobs.
+
+If combination employed and self-employed:
+
+* 100% of employed basic pay.
+* Self-employed income as per self-employed criteria.
+
+---
+
+## Car Allowance
+
+### Criteria
+
+* Must be confirmed as guaranteed feature of employment.
+
+### Proof
+
+* Latest 3 months payslips (or equivalent if weekly).
+
+### Income Used
+
+* 100%.
+
+---
+
+## Large Town Allowance
+
+### Criteria
+
+* Must be confirmed as guaranteed feature of employment.
+
+### Proof
+
+* Latest 3 months payslips (or equivalent if weekly).
+
+### Income Used
+
+* 100%.
+
+---
+
+### Payslip Format Rule
+
+Online payslips: acceptable.
+Hand-written payslips: not acceptable.
+
+---
+
+# SECTION 5.3 – PROBATIONARY PERIODS
+
+Probationary periods are acceptable subject to:
+
+* 12 months continuous employment.
+* Remaining in a similar role.
+
+---
+
+# SECTION 5.4 – PENDING PAY RISES
+
+Pending pay rises are acceptable subject to:
+
+* Written confirmation.
+
+---
+
+# SECTION 5.5 – BUSINESS GRANTS AND LOANS
+
+Applicants who have received:
+
+* Government business grant.
+* Government business loan.
+
+Are acceptable.
+
+## Non-Repayable Government Grants
+
+Examples:
+
+* Small Business Grant.
+* Discretionary Grant.
+* Retail, Hospitality Leisure Grant (RHLGF).
+
+Treatment:
+
+* Treated neutrally.
+* Not treated as income.
+* Not treated as a commitment.
+
+## Government Loans
+
+Examples:
+
+* Business Interruption Loan.
+* Bounce Back Loan.
+
+Treatment:
+
+* Treated as a commitment in affordability assessment.
+
+---
+
+# SECTION 5.6 – ACCEPTABLE OTHER SOURCES OF INCOME
+
+---
+
+## Retirement Income – State Pension
+
+### Criteria
+
+* Must be in receipt of state pension income.
+
+### Proof
+
+* Letter from DWP confirming pension amount.
+
+### Income Used
+
+* 100% of state pension.
+
+---
+
+## Retirement Income – Private/Occupational Pension
+
+### Criteria
+
+* Must be in receipt of private/occupational pension income.
+
+### Proof
+
+* Statement from pension provider confirming pension amount.
+
+### Income Used
+
+* 100% of private pension.
+* 100% of occupational pension.
+* 4% of SIPP fund value used as annual income.
+* Minimum SIPP fund value: £100,000.
+
+---
+
+## Benefit Income
+
+### Criteria
+
+* Cannot be sole income.
+* Earned income must be minimum £10,000.
+* Benefit income cannot exceed earned income.
+* Child Benefit accepted where children under 13.
+
+### Proof
+
+* Letter from relevant department confirming benefit amount.
+
+### Income Used
+
+Maximum 50% of:
+
+* Child Benefit.
+* Child Tax Credit.
+* Working Tax Credit.
+* Pension Credit.
+* Equivalent under Universal Credit.
+* Disability Living Allowance (DLA).
+* Disability Income Support.
+
+---
+
+## BTL Rental Income
+
+### Criteria
+
+* Property must have been rented at least 2 years.
+* Income must be declared via Self-Assessment.
+
+### Proof
+
+* Latest 2 years tax calculations.
+* Latest 2 years tax overviews.
+* AST for each property.
+* Latest 3 months bank statements showing rental income.
+
+### Income Used
+
+* Average of last 2 years tax calculations; OR
+* Latest year if lower.
+
+---
+
+## Investment Income
+
+### Criteria
+
+* Must have received income for at least 2 years.
+* Must be declared via Self-Assessment.
+
+### Proof
+
+* Latest 2 years tax calculations.
+* Latest 2 years tax overviews.
+* Most recent provider statement confirming fund value.
+
+### Income Used
+
+* Average of last 2 years tax calculations; OR
+* Latest year if lower.
+* Maximum 4% of fund value.
+
+---
+
+## Maintenance Income – Court Order
+
+### Criteria
+
+* Children must be under age 13.
+
+### Proof
+
+* Certified copy of Court Order.
+* Latest 3 months bank statements showing payments.
+
+### Income Used
+
+* 75% of Court Order amount.
+
+---
+
+## Maintenance – No Court Order
+
+### Criteria
+
+* Children must be under age 13.
+
+### Proof
+
+* Last 12 months bank statements showing consistent payments.
+
+### Income Used
+
+* 25% of regular payment.
+
+---
+
+## Maternity / Paternity Income
+
+### Criteria
+
+If completion before return to work:
+
+* Affordability based on lowest income during leave.
+
+If savings equal to net monthly income for duration of leave:
+
+* Affordability based on return-to-work salary.
+
+### Proof
+
+* Latest 3 months payslips (or weekly equivalent).
+* Employer reference confirming return-to-work date and salary.
+* Latest savings statement (if applicable).
+
+### Income Used
+
+* Return-to-work salary (if sufficient savings evidenced); OR
+* Lowest pay during leave (usually SMP).
+
+---
+Understood. Below is the full structured conversion of the requested sections, with tables converted to bullet format and no summarising or condensing.
+
+---
+
+# 5.7 APPROVED ACCOUNTANCY BODIES
+
+Accountant's certificates must be prepared by an Associate or Fellow of one of the following approved accountancy bodies:
+
+* Association of Accounting Technicians (AAT)
+* Association of Authorised Public Accountants (APA)
+* Association of Chartered Certified Accountants (ACCA)
+* Association of International Accountants (AIA)
+* Chartered Institute of Management Accountants (CIMA)
+* Chartered Institute of Public Finance and Accountancy (CIPFA)
+* Chartered Institute of Taxation (CIOT)
+* Institute of Chartered Accountants (ICA)
+* Institute of Financial Accountants (IFA)
+* Fellow of Chartered Accountants (FCA)
+
+---
+
+# 5.8 AFFORDABILITY
+
+* The amount the Society will lend is based upon an applicant's income and expenditure.
+* The Society uses ONS data to determine some areas of spending.
+* ONS data is based on:
+
+  * Household composition.
+  * The geographical area of the property.
+* The Society will review:
+
+  * Credit Report.
+  * Bank Statements.
+* Adjustments will be made where necessary if additional expenditure is identified, for example gambling transactions.
+* A stressed mortgage rate is applied when calculating affordability.
+* Exception: where the mortgage rate is fixed for 5 years or more.
+* Affordability is the overriding factor when assessing a mortgage.
+* Income multiples are used as a guide.
+* The maximum income multiple is 5 x joint income.
+* For all Buy to Let applications where rental income (confirmed by the valuer) does not meet the rental criteria interest coverage ratio (ICR):
+
+  * A full affordability assessment is required.
+* There are specific affordability requirements for RIO applicants.
+
+---
+
+# 5.8.1 FINANCIAL COMMITMENTS
+
+The following monthly commitments and balances outstanding must be declared as part of the application:
+
+* Bank Loans
+* Hire Purchase
+* Car Loans
+* Student Loans
+* Second Mortgages
+* Buy to Let Mortgages
+* Child Maintenance
+* Car lease agreements
+* Nursery education
+* Education fees
+* Any other financial commitment
+
+Credit card, store card and mail order accounts:
+
+* 3% of the current balance will be used as the monthly commitment.
+
+Commitments may be ignored in affordability calculations if:
+
+* There is less than 3 months remaining to run.
+* This includes Klarna / PayPal Pay in 3.
+
+---
+
+# 5.8.2 GAMBLING
+
+* Gambling transactions will be considered for affordability.
+* Bank statements will be checked.
+* An average of the amount gambled over the last 3 months will be used.
+* Additional bank statements may be requested at the underwriter's discretion.
+
+---
+
+# 5.8.3 BANK STATEMENTS
+
+* Where possible, Open Banking will be used to check bank statements.
+* If Open Banking is not used:
+
+  * The latest 3 months’ bank statements for each applicant are required.
+* Bank statements must show:
+
+  * Salary credits.
+  * Other regular expenditure.
+* Additional bank statements may be requested by the Underwriter to support the application.
+
+---
+
+# 5.9 INCOME MULTIPLES
+
+Basic income multiples (for guidance purposes):
+
+* Single applicant:
+
+  * Income x 5
+* Joint applicants:
+
+  * Joint income x 5
+
+---
+
+# 5.10 PROOF OF MORTGAGE / RENT PAYMENT
+
+* Conduct of Mortgages/Loans (secured and unsecured) is checked against Credit Bureau information for the last 2 years.
+* Where this cannot be evidenced:
+
+  * Mortgage statements or bank statements covering the 2-year period will be required.
+* Conduct of tenancy agreements will be checked using:
+
+  * Latest 12 months bank statements; and/or
+  * A tenancy reference.
+
+---
+
+# 5.11 BACKGROUND PROPERTIES / BUY TO LETS
+
+* Background properties / buy to lets are not permitted for shared ownership lending.
+
+---
+
+# 5.11.1 BACKGROUND BUY TO LET
+
+* Applicants must have no more than 3 BTL properties per application.
+
+Background BTL will be treated as self-funding where:
+
+* There is at least 3 months rental history, and
+
+  * AST and bank statements showing rental income are required; and
+* The rent received is equal to or more than the stressed mortgage payment.
+
+  * Example calculation: £100,000 x current stressed rate x 145%.
+
+If an existing BTL is let on an HMO basis:
+
+* The rent must be evidenced via tax assessments.
+
+The expenditure associated with a Background BTL will be included in affordability if:
+
+* There is no rental history.
+
+  * In this case, the stressed mortgage payment will be used in affordability.
+  * No rental income will be considered; and/or
+* There is a shortfall between rent received and stressed mortgage payment.
+
+  * The shortfall amount will be included in affordability.
+
+---
+
+# 5.11.2 BACKGROUND PROPERTY (NOT BTL)
+
+* The mortgage (if applicable) will be included in affordability calculations at the current pay rate.
+* Additional household costs such as:
+
+  * Council tax
+  * Heating
+  * Other similar costs
+* These will be considered in affordability.
+
+---
+
+# 5.12 LENDING IN RETIREMENT
+
+Lending in retirement applies where:
+
+* All borrowers are a minimum of 60 years old.
+* Borrowers have already retired.
+* The only source of income is:
+
+  * Retirement income; and
+  * Income derived from investments, including rental property.
+
+Maximum Loan to Value (LTV):
+
+* 70%
+
+---
+
+# 5.13 LENDING INTO RETIREMENT
+
+Lending into retirement applies where the mortgage term will extend beyond the applicant’s stated retirement age or over the age of 75.
+
+Maximum Loan to Value (LTV): 80%
+
+# 6 PROPERTY
+
+---
+
+# 6.1 PROPERTY LOCATION
+
+Lending is considered in:
+
+* England (including the Isle of Wight)
+* Wales
+* Scotland, including the following Scottish Isles:
+
+  * The Orkneys
+  * The Shetlands
+  * Arran
+  * Bute
+  * Harris and Lewis
+  * Islay
+  * Mull
+  * Skye
+
+The Society does not lend in the Isle of Man.
+
+Restrictions apply by lending type and property/tenure type as detailed below.
+
+---
+
+## Lending Types by Location
+
+### Standard
+
+* England: Allowed
+* Wales: Allowed
+* Mainland Scotland: Allowed
+* Scottish Isles: Allowed
+
+### Shared Ownership
+
+* England: Allowed
+* Wales: Allowed
+* Mainland Scotland: Not allowed
+* Scottish Isles: Not allowed
+
+### Near Prime
+
+* England: Allowed
+* Wales: Allowed
+* Mainland Scotland: Allowed
+* Scottish Isles: Allowed
+
+### Buy To Let
+
+* England: Allowed
+* Wales: Allowed
+* Mainland Scotland: Not allowed
+* Scottish Isles: Not allowed
+
+### Self-Build
+
+* England: Allowed
+* Wales: Allowed
+* Mainland Scotland: Allowed
+* Scottish Isles: Allowed
+
+### Custom Build
+
+* England: Allowed
+* Wales: Allowed
+* Mainland Scotland: Allowed
+* Scottish Isles: Allowed
+
+---
+
+## Property and Tenure Types by Location
+
+### Freehold Flats / Maisonettes
+
+* England: Not allowed
+* Wales: Not allowed
+* Mainland Scotland: Not allowed
+* Scottish Isles: Not allowed
+
+### Freehold Houses / Bungalows
+
+* England: Allowed
+* Wales: Allowed
+* Mainland Scotland: Allowed
+* Scottish Isles: Allowed
+
+### Leasehold Flats / Maisonettes
+
+* England: Allowed
+* Wales: Allowed
+* Mainland Scotland: Not allowed
+* Scottish Isles: Not allowed
+
+### Leasehold Houses / Bungalows
+
+* England: Allowed
+* Wales: Allowed
+* Mainland Scotland: Not allowed
+* Scottish Isles: Not allowed
+
+---
+
+# 6.2 TENURE
+
+---
+
+# 6.2.1 FREEHOLD
 
 Freehold tenure is acceptable for houses and bungalows in England, Wales and Scotland.
 
 Freehold flats and maisonettes are unacceptable.
 
-6.2.2 Leasehold
---------------------------------------------------------------------------------
+---
 
-Leasehold tenure is acceptable for houses, bungalows, flats and maisonettes in England and Wales
+# 6.2.2 LEASEHOLD
+
+Leasehold tenure is acceptable for houses, bungalows, flats and maisonettes in England and Wales.
 
 The unexpired lease term at valuation must be at least 85 years.
 
-Leasehold tenure is acceptable provided Ground rent, Service Charges and the review process is reasonable as confirmed by the valuer.
+Leasehold tenure is acceptable provided that ground rent, service charges and the review process are reasonable as confirmed by the valuer.
 
-**Examples of unacceptable terms are:**
-- Where ground rent escalation is linked to the value of the property or an index greater than the Retail Price Index (RPR)
-- The current ground rent is 0.5% or higher of the property value.
-- The rent review period is 5 years or less.
-- The ground rent doubles in less than 20 years.
-- Ground rent exceeds £250 (£1000 in Greater London)
-- For leases issued after June 2022 no ground rent should be payable other than Peppercorn Rent.
-- There are disproportionate Service Charges
+Examples of unacceptable terms include:
 
-The above list is not exhaustive, and we will be guided by the valuer and Solicitor when determining whether a leasehold property is acceptable.
+* Ground rent escalation linked to the value of the property or an index greater than the Retail Price Index (RPR).
+* Current ground rent of 0.5% or higher of the property value.
+* Rent review period of 5 years or less.
+* Ground rent doubling in less than 20 years.
+* Ground rent exceeding £250 (£1000 in Greater London).
+* For leases issued after June 2022, any ground rent payable other than Peppercorn Rent.
+* Disproportionate service charges.
 
-6.3 MAXIMUM ACREAGE
---------------------------------------------------------------------------------
+The above list is not exhaustive. The Society will be guided by the valuer and Solicitor when determining whether a leasehold property is acceptable.
 
-The Society does not state a maximum acreage; We rely on the Valuers feedback and confirmation from the Solicitor that there are no agricultural ties/restrictions.
+---
 
-6.4 PROPERTY TYPE/CONSTRUCTION
---------------------------------------------------------------------------------
+# 6.3 MAXIMUM ACREAGE
 
-The following criteria applies to ALL lending types:
+The Society does not state a maximum acreage.
 
-| Type/Construction | Residential | BTL | Self-Build | Renovation/Conversion |
-|-------------------|-------------|-----|------------|----------------------|
-| Houses and bungalows of standard construction | ✓ | ✓ | ✓ | ✓ |
-| Grade II and Grade II* buildings subject to valuation | ✓ | ✓ | ✓ | ✓ |
-| Modern timber framed properties with external brick skin | ✓ | ✓ | ✓ | ✓ |
-| Properties with a thatched roof | ✓ | ✓ | ✓ | ✓ |
-| Modern oak framed properties | ✓ | ✓ | ✓ | ✓ |
-| Houses with a Flying Freehold<br>Subject to valuation and legal opinion | ✓ | ✓ | ✓ | ✓ |
-| Modern steel frame properties subject to referral and valuer's comment to HLC | ✓ | ✓ | ✓ | ✓ |
-| Solar panels providing that the following applies:<br>Where solar panels are subject to a lease, confirmation from the Society's Solicitor and valuer that the lease does not affect the Society's security | ✓ | ✓ | ✓ | ✓ |
-| Private water supply subject to certification for the water being fit for consumption.<br>The local authority will be required to undertake the testing. In respect of shared private water supplies these will be referred to our solicitors on any anomaly | ✓ | ✓ | ✓ | ✓ |
-| Properties with 100% flat roof<br>Subject to referral and valuer's comments to HLC (excluding "living roof" e.g. – grass, vegetation planting) | ✓ | ✓ | ✓ | ✓ |
-| Septic Tank<br>Where a shared septic tank is in place, the Society will consider these subject to formal documented responsibilities being in place for all parties in respect of maintenance and repair/replacement and confirmation that the tank fully complies with statutory requirements. | ✓ | ✓ | ✓ | ✓ |
-| Underpinned properties with guarantees | ✓ | ✓ | x | ✓ |
-| Former local authority homes | ✓ | ✓ | x | x |
-| Right to Buy houses of standard construction | ✓ | x | x | x |
-| WIMPEY No Fines Construction in good condition | ✓ | ✓ | x | x |
-| Properties that have a granny flat or annex (subject to details of the proposed usage and occupancy) | ✓ | x | ✓ | ✓ |
-| Properties of non-traditional construction deemed defective under the Housing Defects Act 1984 which have not been modernised under an approved scheme. | x | x | x | x |
-| Properties with ongoing structural movement. | x | x | x | x |
-| Back-to-Back terrace or cluster | x | x | x | x |
-| Woolaway houses as named in the Building Research Establishment Report 1983 and built between 1945 and 1960. | x | x | x | x |
-| High Alumina Cement | x | x | x | x |
-| Any purchase where part-exchange is involved | ✓ | x | x | x |
-| Smallholding | x | x | x | x |
-| Holiday Lets | x | x | x | x |
-| Property or Land with Commercial Use | x | x | x | x |
-| Properties designated with HMO | x | x | x | x |
-| Land only in any circumstances | x | x | x | x |
-| Live/Work Units | x | x | x | x |
-| Over 55s residential to retirement properties | x | x | x | x |
-| Log Homes<br>Including Erland House log homes and Jim Barna Log homes, Easiform cavity walled concrete houses, Wimpey no fines, Elliot eHouse and PRC systems designed defective | x | x | x | x |
-| Properties with spray foam insulation | x | x | x | x |
+Reliance is placed on:
 
-6.4.1 Flats
---------------------------------------------------------------------------------
+* The valuer’s feedback.
+* Confirmation from the Solicitor that there are no agricultural ties or restrictions.
 
-The Society does not lend on flats in Scotland. Other considerations are listed below.
+---
 
-| Type/Construction | Residential | BTL | Self-Build | Renovation/Conversion |
-|-------------------|-------------|-----|------------|----------------------|
-| Flats up to 10 floors | ✓ | ✓ | x | x |
-| Flats with external wall cladding and/or balconies with cladding.<br>Are acceptable on properties built after January 2020 with Building Regulation approval from no later than January 2020. | ✓ | ✓ | x | x |
-| Converted Flats up to 10 floors.<br>Subject to conversion being undertaken with full planning and building regulation consent and that there are no onerous conditions contained within the lease and that the building is being professionally managed. | ✓ | ✓ | x | x |
-| Commercial to Residential are not acceptable other than hospitals, schools, churches, pubs, doctors, police stations<br><br>Flats above commercial premises are acceptable subject to:<br>• Maximum of 10 floors<br>• Acceptable Property Classifications: Properties with certain Class E activities in the same block may be considered, including:<br>  - Hairdressers<br>  - Undertakers<br>  - Travel and ticket agencies<br>  - Post offices<br>  - Pet shops<br>  - Sandwich bars<br>  - Showrooms<br>  - Domestic hire shops<br>  - Dry cleaners<br>  - Funeral directors<br>  - Internet cafes<br>  - Banks and building societies<br>  - Solicitors, architects, accountants<br>  - Estate agencies and employment agencies<br>• Nuisance Potential: Lending may not be approved if commercial activities within the block are likely to cause nuisance due to noise, smell, or unsocial hours.<br>• Access - Some flats over commercial premises have unsatisfactory access. Due to this we may not be prepared to lend if any of the below factors apply:<br>  - involves passing through the business area<br>  - passing through yards containing commercial refuse<br>• Valuer's Comments: Lending decisions will be based on the valuer's assessment. Even if the activity is generally acceptable, lending may be declined if it negatively impacts marketability and saleability. | ✓ | ✓ | x | x |
-| Flats with an internal floor area of 35 square metres or less | x | x | x | x |
-| Studio Flats | x | x | x | x |
-| Basement Flats | x | x | x | x |
-| Local Authority built flats and maisonettes | x | x | x | x |
+# 6.4 PROPERTY TYPE / CONSTRUCTION
 
-6.4.2 Self-Build, Renovations and Conversions
---------------------------------------------------------------------------------
+The following criteria apply to all lending types (Residential, BTL, Self-Build, Renovation/Conversion).
 
-The following build types are acceptable for Self-Build and Renovation/Conversion only.
+---
 
-| Type / Construction                                                                                                                                | Residential | BTL | Self-Build | Renovation / Conversion |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --- | ---------- | ----------------------- |
-| **SIPS (Structurally Insulated Panels)**                                                                                                           |             |     |            |                         |
-| With external cladding of brick, brick slip finish, cement/polymer render or cement weatherboard.                                                  |             |     |            |                         |
-| Treated timber cladding (e.g. Larch or Western Red Cedar) will only be considered where it does not exceed 50% of the total external wall surface. | x           | x   | ✓          | ✓                       |
-| **ICF (Insulated Concrete Forms)**                                                                                                                 |             |     |            |                         |
-| With external brick, brick slip, cement/polymer render or cement weatherboard finishes.                                                            |             |     |            |                         |
-| Treated timber cladding (e.g. Larch or Western Red Cedar) accepted only where ≤ 50% of the total external wall surface.                            | x           | x   | ✓          | ✓                       |
-| **Modern Timber Framed Properties**                                                                                                                |             |     |            |                         |
-| With brick slip, cement/polymer render or cement weatherboard external finishes.                                                                   |             |     |            |                         |
-| Treated timber cladding (e.g. Larch or Western Red Cedar) accepted only where ≤ 50% of total external wall surface.                                | x           | x   | ✓          | ✓                       |
-| **Partially built properties** (subject to):                                                                                                       |             |     |            |                         |
+## Acceptable for Residential, BTL, Self-Build and Renovation/Conversion
 
-* Certification and inspection certification
-* Confirmation construction complies with planning/building requirements
-* Valuer confirmation they have viewed all documentation and guarantees for completed work | x | x | ✓ | ✓ |
-  | **Semi-detached builds where the new property is built onto an existing house**, and not dependent on a third party completing an adjoining plot.
-  Example: detached property becoming semi-detached, or semi-detached extended to a terrace (maximum total 3 properties). | x | x | ✓ | ✓ |
+The following property types are acceptable for all four lending types:
 
---- Page 26 ---
+* Houses and bungalows of standard construction.
+* Grade II and Grade II* buildings, subject to valuation.
+* Modern timber framed properties with external brick skin.
+* Properties with a thatched roof.
+* Modern oak framed properties.
+* Houses with a Flying Freehold, subject to valuation and legal opinion.
+* Modern steel frame properties, subject to referral and valuer’s comment to HLC.
+* Solar panels, provided:
 
-6.5 PERIOD OF OWNERSHIP
-Properties must have been owned for a minimum of six months before we will consider a remortgage.
+  * Where subject to a lease, confirmation from the Society’s Solicitor and valuer that the lease does not affect the Society’s security.
+* Private water supply, subject to certification confirming the water is fit for consumption.
+
+  * Local authority testing required.
+  * Shared private water supplies referred to solicitors if anomalies arise.
+* Properties with 100% flat roof, subject to referral and valuer’s comments to HLC (excluding “living roof” such as grass or vegetation planting).
+* Septic tanks, where:
+
+  * Shared septic tanks require formal documented responsibilities for maintenance and repair/replacement.
+  * Confirmation that the tank complies fully with statutory requirements.
+
+---
+
+## Acceptable for Residential, BTL and Renovation/Conversion (Not Self-Build)
+
+* Underpinned properties with guarantees.
+
+---
+
+## Acceptable for Residential and BTL Only
+
+* Former local authority homes.
+* WIMPEY No Fines construction in good condition.
+
+---
+
+## Acceptable for Residential Only
+
+* Right to Buy houses of standard construction.
+* Any purchase where part-exchange is involved.
+
+---
+
+## Acceptable for Residential, Self-Build and Renovation/Conversion (Not BTL)
+
+* Properties with a granny flat or annex, subject to details of proposed usage and occupancy.
+
+---
+
+## Not Acceptable for Any Lending Type
+
+The following are not acceptable for Residential, BTL, Self-Build or Renovation/Conversion:
+
+* Properties of non-traditional construction deemed defective under the Housing Defects Act 1984 which have not been modernised under an approved scheme.
+* Properties with ongoing structural movement.
+* Back-to-back terrace or cluster properties.
+* Woolaway houses as named in the Building Research Establishment Report 1983 and built between 1945 and 1960.
+* High Alumina Cement properties.
+* Smallholdings.
+* Holiday lets.
+* Property or land with commercial use.
+* Properties designated as HMO.
+* Land only in any circumstances.
+* Live/Work units.
+* Over 55s residential to retirement properties.
+* Log homes, including:
+
+  * Erland House log homes
+  * Jim Barna log homes
+  * Easiform cavity walled concrete houses
+  * Wimpey no fines
+  * Elliot eHouse
+  * PRC systems designed defective
+* Properties with spray foam insulation.
+
+---
+
+# 6.4.1 FLATS
+
+The Society does not lend on flats in Scotland.
+
+---
+
+## Acceptable for Residential and BTL (Not Self-Build or Renovation/Conversion)
+
+* Flats up to 10 floors.
+* Flats with external wall cladding and/or balconies with cladding, provided:
+
+  * Built after January 2020; and
+  * Building Regulation approval from no later than January 2020.
+* Converted flats up to 10 floors, subject to:
+
+  * Full planning consent.
+  * Full building regulation consent.
+  * No onerous lease conditions.
+  * Professionally managed building.
+
+---
+
+## Commercial to Residential
+
+Commercial to residential conversions are not acceptable other than:
+
+* Hospitals
+* Schools
+* Churches
+* Pubs
+* Doctors
+* Police stations
+
+---
+
+## Flats Above Commercial Premises
+
+Acceptable subject to:
+
+* Maximum of 10 floors.
+* Acceptable Class E property classifications in the same block, including:
+
+  * Hairdressers
+  * Undertakers
+  * Travel and ticket agencies
+  * Post offices
+  * Pet shops
+  * Sandwich bars
+  * Showrooms
+  * Domestic hire shops
+  * Dry cleaners
+  * Funeral directors
+  * Internet cafes
+  * Banks and building societies
+  * Solicitors, architects, accountants
+  * Estate agencies and employment agencies
+* Nuisance potential assessment:
+
+  * Lending may be declined if commercial activity causes noise, smell or unsocial hours.
+* Access considerations:
+
+  * Not acceptable where access involves passing through business areas.
+  * Not acceptable where access involves passing through yards containing commercial refuse.
+* Lending decisions based on valuer’s comments.
+
+  * Even if activity is generally acceptable, lending may be declined if marketability or saleability is negatively impacted.
+
+---
+
+## Not Acceptable Flats (All Lending Types)
+
+* Flats with internal floor area of 35 square metres or less.
+* Studio flats.
+* Basement flats.
+* Local Authority built flats and maisonettes.
+
+---
+
+# 6.4.2 SELF-BUILD, RENOVATIONS AND CONVERSIONS
+
+The following build types are acceptable for Self-Build and Renovation/Conversion only (not Residential or BTL unless stated).
+
+---
+
+## SIPS (Structurally Insulated Panels)
+
+Acceptable for Self-Build and Renovation/Conversion only, where:
+
+* External cladding is brick, brick slip finish, cement/polymer render or cement weatherboard.
+* Treated timber cladding (e.g. Larch or Western Red Cedar) does not exceed 50% of total external wall surface.
+
+---
+
+## ICF (Insulated Concrete Forms)
+
+Acceptable for Self-Build and Renovation/Conversion only, where:
+
+* External finish is brick, brick slip, cement/polymer render or cement weatherboard.
+* Treated timber cladding (e.g. Larch or Western Red Cedar) does not exceed 50% of total external wall surface.
+
+---
+
+## Modern Timber Framed Properties
+
+Acceptable for Self-Build and Renovation/Conversion only, where:
+
+* External finish is brick slip, cement/polymer render or cement weatherboard.
+* Treated timber cladding (e.g. Larch or Western Red Cedar) does not exceed 50% of total external wall surface.
+
+---
+
+## Partially Built Properties
+
+Acceptable for Self-Build and Renovation/Conversion only, subject to:
+
+* Certification and inspection certification.
+* Confirmation construction complies with planning and building requirements.
+* Valuer confirmation they have viewed all documentation and guarantees for completed work.
+
+---
+
+## Semi-Detached Builds onto Existing Houses
+
+Acceptable for Self-Build and Renovation/Conversion only, where:
+
+* The new property is built onto an existing house.
+* Not dependent on a third party completing an adjoining plot.
+* Example:
+
+  * Detached property becoming semi-detached.
+  * Semi-detached extended to a terrace.
+* Maximum total properties: 3.
+
+---
+# 6.5 PERIOD OF OWNERSHIP
+
+Properties must have been owned for a minimum of six months before the Society will consider a remortgage.
 
 Anything outside of this will be considered on a case-by-case basis.
 
-6.6 RESTRICTIONS
---------------------------------------------------------------------------------
+---
 
-**The following restrictions are acceptable to the Society:**
-- Plots/properties subject to Restrictive Covenants – considered individually by the Society on a case-by-case basis.
-- Plots/properties subject Section 106 agreement
+# 6.6 RESTRICTIONS
 
-**Estate Rent Charges are acceptable subject to the following:**
-- The Provisions under section 121 of the Law of Property Act have been excluded under the estate rent charge clause.
-- The estate rent charge clause includes a mortgagee protection clause, which states that notice of at least 28 days is to be given to the mortgagee prior to any enforcement action being taken by the owner of the estate rent charge.
-- The owner of the estate rent charge is a management company comprising of the residents, who are shareholders of a private freehold development.
+## Acceptable Restrictions
 
-**The following restrictions are not acceptable to the Society:**
-- Properties with statutory tenants
-- Properties subject to agricultural or other planning restrictions
-- Properties that have previously flooded
-- Properties with possessory title
-- Properties subject to a local occupancy clause
-- A group development e.g., builder/developer offering multiple plots – unless submitted under our Custom Build product.
-- Properties identified with contaminated land or within the vicinity of the property.
+The following restrictions are acceptable:
 
-6.7 MAXIMUM NUMBER OF BEDROOMS
---------------------------------------------------------------------------------
+* Plots/properties subject to Restrictive Covenants, considered individually on a case-by-case basis.
+* Plots/properties subject to Section 106 agreement.
 
-The maximum number of bedrooms is 6.
---- Page 27 ---
+## Estate Rent Charges
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+Estate Rent Charges are acceptable subject to all of the following:
 
-6.8 NEW BUILDS
---------------------------------------------------------------------------------
+* The provisions under section 121 of the Law of Property Act have been excluded under the estate rent charge clause.
+* The estate rent charge clause includes a mortgagee protection clause stating that notice of at least 28 days must be given to the mortgagee prior to any enforcement action.
+* The owner of the estate rent charge is a management company comprising residents who are shareholders of a private freehold development.
 
-The following new build warranty schemes are acceptable to the Society:
-- NHBC
-- Premier Guarantee
-- Castle 10 (Checkmate)
-- Build Zone
-- Building Lifeplans Ltd (BLP Allianz Guarantee) Review – this has ceased.
-- LABC New Home Warranty
-- Protek
-- ICW
-- Advantage Structural Defects Insurance (ASDI)
-- Professional Consultants' Certificates (meeting the UK Finance Handbook requirements)
+## Not Acceptable Restrictions
 
-6.9 RIGHT TO BUY
---------------------------------------------------------------------------------
+The following are not acceptable:
 
-HEBS will permit lending on a 'Right to Buy' property up to 100% of the discounted purchase price.
+* Properties with statutory tenants.
+* Properties subject to agricultural or other planning restrictions.
+* Properties that have previously flooded.
+* Properties with possessory title.
+* Properties subject to a local occupancy clause.
+* A group development, for example a builder/developer offering multiple plots, unless submitted under the Custom Build product.
+* Properties identified with contaminated land or within the vicinity of contaminated land.
 
-The loan cannot exceed 70% of the market value.
+---
 
-The Right to Buy paperwork should be submitted with the supporting documents at the time of the application. This should include a copy of the offer provided by the Local Authority.
+# 6.7 MAXIMUM NUMBER OF BEDROOMS
 
-6.10 BUILDERS INCENTIVES
---------------------------------------------------------------------------------
+Maximum number of bedrooms: 6.
 
-Applicants must have saved/been gifted their own deposit of at least 5%.
+---
 
-Builder cash incentives and builder mortgage subsidies are acceptable subject to them being no more than 5% of the property value. Examples of other acceptable incentives include contribution towards legal fees, carpets, landscaping, stamp duty, white goods.
+# 6.8 NEW BUILDS
+
+The following new build warranty schemes are acceptable:
+
+* NHBC
+* Premier Guarantee
+* Castle 10 (Checkmate)
+* Build Zone
+* Building Lifeplans Ltd (BLP Allianz Guarantee) Review – this has ceased.
+* LABC New Home Warranty
+* Protek
+* ICW
+* Advantage Structural Defects Insurance (ASDI)
+* Professional Consultants' Certificates (meeting the UK Finance Handbook requirements)
+
+---
+
+# 6.9 RIGHT TO BUY
+
+HEBS will permit lending on a ‘Right to Buy’ property up to 100% of the discounted purchase price.
+
+The loan must not exceed 70% of the market value.
+
+Right to Buy paperwork must be submitted with supporting documents at the time of application, including a copy of the offer provided by the Local Authority.
+
+---
+
+# 6.10 BUILDERS INCENTIVES
+
+Applicants must have saved or been gifted their own deposit of at least 5%.
+
+Builder cash incentives and builder mortgage subsidies are acceptable provided they do not exceed 5% of the property value.
+
+Examples of other acceptable incentives include:
+
+* Contribution towards legal fees.
+* Carpets.
+* Landscaping.
+* Stamp duty.
+* White goods.
 
 The incentive must be disclosed to the valuer prior to valuation.
 
-6.11 PROPERTIES SOLD AT UNDER-VALUE
---------------------------------------------------------------------------------
+---
 
-Where a property is being sold for less than it is worth, we will base our lending on the price being paid rather than the value. Applicants will therefore need to provide a deposit.
+# 6.11 PROPERTIES SOLD AT UNDER-VALUE
 
-6.12 PROPERTIES CLOSE TO COMMERCIAL OUTLETS
---------------------------------------------------------------------------------
+Where a property is being sold for less than it is worth, lending will be based on the price being paid rather than the value.
+
+Applicants will therefore need to provide a deposit.
+
+---
+
+# 6.12 PROPERTIES CLOSE TO COMMERCIAL OUTLETS
 
 Properties close to commercial outlets will be considered but are subject to valuation.
 
-6.13 VALUATION
---------------------------------------------------------------------------------
+---
+
+# 6.13 VALUATION
 
 Valuation reports are valid for 6 months.
 
-Valuation/re-valuation/re-inspection fees are payable by the borrower.
---- Page 28 ---
+Valuation, re-valuation and re-inspection fees are payable by the borrower.
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+The borrower is responsible for the cost of further valuations.
 
-The borrower will be responsible for the cost of further valuations. Valuations will be instructed by the Society through the Panel Manager.
+Valuations will be instructed by the Society through the Panel Manager.
 
-**Further Advance Only - Home Improvement Loans** – For cases that are below 75% on last valuation including the proposed new borrowing, a re-valuation is not required. For any other borrowing other than home improvements, a re-valuation is required if the one on the system is more than 2 years old.
+Further Advance Only – Home Improvement Loans:
 
-There are specific valuation requirements for Self-Build Self Build - Valuation and Custom Build Custom Build - Valuation.
+* If below 75% LTV on the last valuation including proposed new borrowing, a re-valuation is not required.
+* For borrowing other than home improvements, a re-valuation is required if the valuation held is more than 2 years old.
 
-6.14 MINIMUM VALUATION
---------------------------------------------------------------------------------
+There are specific valuation requirements for Self-Build and Custom Build applications.
 
-A minimum property value of £50,000 is applicable to all lending types.
+---
 
-6.15 PURCHASING AT AUCTION
---------------------------------------------------------------------------------
+# 6.14 MINIMUM VALUATION
 
-Plots/properties bought at auction are acceptable for Self-Build applications only, subject to details below being provided to the Society within 15 days prior the auction:
-- A minimum of outline planning permission.
-- A full report and valuation.
-- Decision in Principle (DIP)
+Minimum property value: £50,000.
 
-6.16 SUB LETTING
---------------------------------------------------------------------------------
+Applies to all lending types.
+
+---
+
+# 6.15 PURCHASING AT AUCTION
+
+Plots/properties bought at auction are acceptable for Self-Build applications only.
+
+The following must be provided to the Society within 15 days prior to the auction:
+
+* A minimum of outline planning permission.
+* A full report and valuation.
+* Decision in Principle (DIP).
+
+---
+
+# 6.16 SUB-LETTING
 
 Sub-letting a residential property is not acceptable.
 
-6.17 BUILDINGS INSURANCE
---------------------------------------------------------------------------------
+---
 
-The Society requires Buildings Insurance cover to be arranged as follows:
-1. To start no later than completion of the mortgage.
-2. Index linked.
-3. Arranged for the insurance valuation as per the valuation report.
+# 6.17 BUILDINGS INSURANCE
+
+Buildings Insurance must:
+
+1. Start no later than completion of the mortgage.
+2. Be index linked.
+3. Be arranged for the insurance valuation stated in the valuation report.
 4. Be in joint names of the Society and the borrower(s).
-5. On standard terms.
-
-If the Solicitor advises the Society that standard terms are not available e.g., an increased policy excess being applied, we will consider on a case-by-case basis subject to valuer's comments and a copy of the insurance schedule being made available.
---- Page 29 ---
-
-Lending Policy Appendix 1: Lending Criteria V2.1
-
-================================================================================
-7 LOAN CRITERIA
-================================================================================
-
-7.1 MINIMUM LOAN
---------------------------------------------------------------------------------
-
-| Lending Type | Minimum Loan |
-|--------------|--------------|
-| Standard | £30,000 |
-| Shared Ownership | £30,000 |
-| Near Prime | £30,000 |
-| Further Advance | £10,000 |
-| RIO | £10,000 |
-| Buy to Let | £30,000 |
-| Self-Build/Custom Build | £30,000 |
-
-7.2 ACCEPTABLE LOAN TYPES
---------------------------------------------------------------------------------
-The Society will consider full status applications for the following types of lending to individuals:
-- To purchase residential properties for owner occupation (including Right to Buy and Shared Ownership)
-- To remortgage residential properties (encumbered or unencumbered) for owner occupation which may include raising further funds for home improvements or capital raising subject to restrictions.
-- To purchase property that is or will be let.
-- To remortgage property that is or will be let (encumbered or unencumbered) which may include raising further funds for home improvements or capital raising. Evidence may be required and will be requested as part of the underwriting process. Subject to restrictions.
-- To build a residential property or refurbish an existing property – this includes demolition and rebuild, and completion of a partially built property.
-- To buy, build, convert or refurbish a property to be used as a second home.
-- To undertake a conversion where the property is uninhabitable including barn conversions.
-- To purchase the freehold title of a leasehold property which is already in mortgage to us.
-- To purchase the equity of another party to the mortgage
-- To purchase additional land
-- To raise money by way of a further advance on an existing mortgage for home improvements or capital raising, subject to restrictions.
-
-7.3 CAPITAL RAISING RESTRICTIONS
---------------------------------------------------------------------------------
-
-Capital Raising is acceptable for any purpose other than:
-- Business purposes
-- Illegal purposes
-- Clearing gambling debts
-- Tax liability.
-- Timeshare debts/purchase
+5. Be on standard terms.
 
-The Society will request and record the purpose of the capital raising and may ask for additional documentation to verify.
-
---- Page 30 ---
-
-Lending Policy Appendix 1: Lending Criteria V2.1
-
-7.3.1 Debt Consolidation
---------------------------------------------------------------------------------
-Where capital is being raised for the purpose of debt consolidation, the following restrictions will apply:
-- A maximum of £30,000 or 35% of the applicants gross annual salary if this is higher. E.g. Salary = £100,000, the maximum loan for debt consolidation is £35,000.
-- A solicitor must repay the debts on the borrowers' behalf and all associated costs must be paid by the borrower.
-- Debt consolidation will be restricted to a maximum of two instances during the lifetime of the mortgage, with a two-year gap between requests.
-
-7.4 UNACCEPTABLE LOAN TYPES
---------------------------------------------------------------------------------
-
-The Society does not consider application for the following types of lending:
-- Non status.
-- Second charge lending.
-- Lifetime mortgage lending.
-- Home reversion plans.
-- Negative equity loans.
-- Equity.
-- Index linked.
-- Self-certified.
-- New commercial lending for owner occupiers.
-- Commercial mortgages for investors.
-- Commercial property development loans, both on residential and commercial real estate.
-- Lending to registered social landlords/housing associations.
-- Unsecured lending to individuals (by way of personal loan, overdraft, credit card or otherwise).
-- Lending to anyone who wishes to purchase a property in their own name from a limited company in which they are a director of the company.
-- Portfolio Landlords. A customer is considered to be a Portfolio landlord where they have four or more buy to let properties across all lenders in aggregate.
-- Over 55s retirement properties.
-- Lending on a residential basis to anyone intending to sub-let the property.
+If the Solicitor advises that standard terms are not available, for example an increased policy excess, this will be considered on a case-by-case basis subject to:
 
-7.5 MULTIPLE RESIDENTIAL MORTGAGES
---------------------------------------------------------------------------------
-
-These are acceptable subject to affordability and on the basis that the properties are for the sole use of the borrower e.g., holiday home, weekend home, future retirement property.
-
-7.6 MAXIMUM REPAYMENT TERM
---------------------------------------------------------------------------------
-
-The maximum repayment term is 40 years, this must not take the applicant beyond the maximum age of 85.
-
-RIO mortgage has a maximum term of 55 years and no maximum age.
-
-7.7 REPAYMENT TYPES
---------------------------------------------------------------------------------
-
-The Society will consider both Capital and Interest and Interest Only repayment types singularly for new mortgage borrowing.
-
-Interest only borrowing is limited by borrower type and LTV.
+* Valuer’s comments.
+* A copy of the insurance schedule being provided.
 
-7.8 ACCEPTABLE REPAYMENT STRATEGIES FOR INTEREST ONLY BORROWING
---------------------------------------------------------------------------------
+---
 
-The following are acceptable repayment vehicles in conjunction with interest only mortgages:
-- Sale of existing property with a minimum cash equity value of £250,000
-- 25% of the project Personal Pension Policy – the cash lump sum acceptable must cover the capital. The lowest current projection rate will be used.
-- Equity Based ISA – Current projection via Proprietorial Funds Platform
-- Deposit based savings account.
-- Unencumbered residential property(ies) valued in excess of £250,000 – subject to a collateral charge being taken by the Society.
+# 7 LOAN CRITERIA
 
-Please note that for Retirement Interest Only (RIO) lending there is no need for a repayment strategy. The mortgage is repayable on death or moving into residential care / alternative accommodation.
+---
 
-7.9 UNACCEPTABLE REPAYMENT STRATEGIES FOR INTEREST ONLY BORROWING
---------------------------------------------------------------------------------
+# 7.1 MINIMUM LOAN
 
-The following are unacceptable repayment strategies in conjunction with interest only mortgages:
-- An expectation that the value of the property in mortgage will increase over the mortgage term sufficiently to enable the customer to sell the property to repay the capital (and any interest accrued). (In accordance with MCOB)
-- An intention to utilise an expected, but uncertain, inheritance to repay the capital (and any interest accrued).
-- The sale of the property where it is the customer's main residence, and it is considered that the property will not have the potential to provide sufficient funds for the borrowers to repay the capital (and any interest accrued).
-- Interest roll up is not acceptable.
+Minimum loan amounts by lending type:
 
-================================================================================
-8 OFFER VALIDITY
-================================================================================
+* Standard: £30,000
+* Shared Ownership: £30,000
+* Near Prime: £30,000
+* Further Advance: £10,000
+* RIO: £10,000
+* Buy to Let: £30,000
+* Self-Build / Custom Build: £30,000
 
-Offers are valid for a period of 6 months.
+---
 
-Offer extensions can be considered on an individual basis and are subject to a full case assessment i.e., up to date payslips, bank statements, credit report and valuation report.
+# 7.2 ACCEPTABLE LOAN TYPES
 
-One extension can be considered which is valid for a maximum of 3 months.
+The Society will consider full status applications for:
 
---- Page 32 ---
+* Purchase of residential properties for owner occupation, including Right to Buy and Shared Ownership.
+* Remortgage of residential properties (encumbered or unencumbered) for owner occupation, including raising further funds for home improvements or capital raising, subject to restrictions.
+* Purchase of property that is or will be let.
+* Remortgage of property that is or will be let (encumbered or unencumbered), including raising further funds for home improvements or capital raising, subject to restrictions. Evidence may be required.
+* Building a residential property or refurbishing an existing property, including demolition and rebuild and completion of partially built property.
+* Buying, building, converting or refurbishing a property to be used as a second home.
+* Conversion of an uninhabitable property, including barn conversions.
+* Purchase of the freehold title of a leasehold property already mortgaged to the Society.
+* Purchase of the equity of another party to the mortgage.
+* Purchase of additional land.
+* Raising money by way of further advance for home improvements or capital raising, subject to restrictions.
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+---
 
-================================================================================
-9 LOAN TO VALUE CRITERIA
-================================================================================
+# 7.3 CAPITAL RAISING RESTRICTIONS
 
-These are the maximum LTV and maximum advance limits we apply. If applicants are Lending in Retirement or Lending into Retirement, there are LTV caps which over-ride those set in other elements of criteria
+Capital raising is acceptable for any purpose other than:
 
-9.1 REPAYMENT TYPES
---------------------------------------------------------------------------------
+* Business purposes.
+* Illegal purposes.
+* Clearing gambling debts.
+* Tax liability.
+* Timeshare debts or purchase.
 
-| Lending Type | Max LTV Capital and Interest Repayment | Max LTV if Interest Only | Adjustment of Max LTV if Lending in Retirement | Adjustment of Max LTV if Lending into Retirement |
-|--------------|----------------------------------------|--------------------------|------------------------------------------------|--------------------------------------------------|
-| Prime | 95%** | 80% | 70% | 80% |
-| Near Prime | 70% | Not Permitted | 70% | 70% |
-| Shared Ownership | 95% | Not Permitted | 70% | 80% |
-| Buy to Let | 80% | 80% | 70% | 80% |
-| Self-Build/Custom Build* | 80% | 80% | 70% | 80% |
-| Right to Buy | 70% | Not Permitted | 70% | 70% |
-| Second Homes | 80% | 80% | 70% | 80% |
-| Further Advance | 90% | Not Permitted | 70% | 80% |
-| RIO | Not Permitted | 70% | Not Permitted | Not Permitted |
+The Society will request and record the purpose of capital raising and may request additional documentation.
 
-*Self-Build/Custom Build interest only is permitted for a maximum of 2 years following mortgage completion. The account will be transferred to a repayment basis 2 years after inception. In some instances, the account can remain on an interest only basis following completion of the project and receipt of a Warranty or Professional Consultants Certificate however approval is required by the Society.
+---
 
-**up to 100% LTV is available for direct applications on our "ST Rent to Own product".
+# 7.3.1 DEBT CONSOLIDATION
 
-9.2 APPLICATION TYPE - PURCHASE AND REMORTGAGE (NO ADDITIONAL BORROWING)
---------------------------------------------------------------------------------
+Where capital is raised for debt consolidation:
 
-| Maximum Loan | Standard LTV | Shared Ownership LTV | Near Prime LTV | Buy To Let LTV | Right to Buy LTV (Purchase and RTB) |
-|--------------|--------------|---------------------|----------------|----------------|-------------------------------------|
-| Up to £500,000 | Up to 95%* | Up to 95% (inc. Shared Ownership Only) | Up to 70% | Up to 80% | 100% of discounted purchase price<br>Max 70% of valuation |
-| Over £500k up to £750k | Up to 80% | n/a | n/a | n/a | n/a |
-| Over £750k up to £1m | Up to 70% | n/a | n/a | n/a | n/a |
-| Over £1m up to £1.50m | Up to 65% | n/a | n/a | n/a | n/a |
-| Over £1.5m up to £2m | Up to 50% | n/a | n/a | n/a | n/a |
+* Maximum amount: £30,000 or 35% of the applicant’s gross annual salary, whichever is higher.
 
-* The Society's ST Rent to Own product permits up to 100% LTV and has a maximum loan size of £250,000.00. This product is available for properties in the ST postcode area only.
+  * Example: Salary £100,000 → maximum loan £35,000.
+* A solicitor must repay debts on behalf of the borrower.
+* All associated costs must be paid by the borrower.
+* Restricted to a maximum of two instances during the lifetime of the mortgage.
+* A minimum two-year gap must apply between requests.
 
---- Page 33 ---
+---
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+# 7.4 UNACCEPTABLE LOAN TYPES
 
-9.3 APPLICATION TYPE - REMORTGAGE (ADDITIONAL BORROWING)
---------------------------------------------------------------------------------
+The Society does not consider:
 
-| Application Type | Maximum Loan | Standard LTV | Shared Ownership LTV | Near Prime LTV | Buy To Let LTV |
-|------------------|--------------|--------------|---------------------|----------------|----------------|
-| Remortgage – Additional Borrowing for Home Improvements | Up to £500,000 | Up to 95%* | n/a | Up to 70% | Up to 75% |
-| | Over £500k up to £750k | Up to 80% | n/a | n/a | n/a |
-| | Over £750k up to £1m | Up to 70% | n/a | n/a | n/a |
-| | Over £1m up to £1.5m | Up to 65% | n/a | n/a | n/a |
-| | Over £1.5m up to £2m | Up to 50% | n/a | n/a | n/a |
-| Remortgage – Additional is for Capital Raising** | Up to £500,000 | Up to 85% | Up to 95% (to purchase additional shares only) | Up to 70% | Up to 75% |
-| | Over £500k up to £750k | Up to 80% | n/a | n/a | n/a |
-| | Over £750k up to £1m | Up to 70% | n/a | n/a | n/a |
-| | Over £1m up to £1.5m | Up to 65% | n/a | n/a | n/a |
-| | Over £1.5m up to £2m | Up to 50% | n/a | n/a | n/a |
+* Non status lending.
+* Second charge lending.
+* Lifetime mortgage lending.
+* Home reversion plans.
+* Negative equity loans.
+* Equity.
+* Index linked.
+* Self-certified lending.
+* New commercial lending for owner occupiers.
+* Commercial mortgages for investors.
+* Commercial property development loans (residential or commercial).
+* Lending to registered social landlords / housing associations.
+* Unsecured lending to individuals.
+* Lending to anyone purchasing a property in their own name from a limited company where they are a director.
+* Portfolio landlords (four or more buy to let properties across all lenders).
+* Over 55s retirement properties.
+* Residential lending where the applicant intends to sub-let.
 
-The maximum available for home improvements is 50% of the property value (based on the value following completion of works). Anything outside of this will be considered on an exception basis.
+---
 
-**Capital raising restrictions apply to debt consolidation see Capital Raising Restrictions in Loan Criteria Section 7.3.1
+# 7.5 MULTIPLE RESIDENTIAL MORTGAGES
 
-9.4 FURTHER ADVANCES
---------------------------------------------------------------------------------
+Multiple residential mortgages are acceptable subject to:
 
-Further advances are available to existing customers for the following purposes:
+* Affordability.
+* Properties being for sole use of the borrower, for example:
 
-| Maximum Loan | Standard for Home Improvements | Standard for Capital Raising | Shared Ownership for Capital Raising to Purchase Additional Shares | Buy To Let for Home Improvements | BTL for Capital Raising | RIO for Capital Raising |
-|--------------|-------------------------------|------------------------------|---------------------------------------------------------------------|----------------------------------|------------------------|------------------------|
-| Up to £500,000 | Up to 90%* | Unlimited up to 85% | Up to 95% | Up to 75% | Up to 75% | Up to 70% |
-| Over £500k up to £750k | Up to 80% | Up to 80% | n/a | n/a | n/a | Up to 70% |
-| Over £750k up to £1m | Up to 70% | Up to 70% | n/a | n/a | n/a | n/a |
-| Over £1m up to £1.5m | Up to 65% | Up to 65% | n/a | n/a | n/a | n/a |
-| Over £1.5m up to £2m | Up to 50% | Up to 50% | n/a | n/a | n/a | n/a |
+  * Holiday home.
+  * Weekend home.
+  * Future retirement property.
 
---- Page 34 ---
+---
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+# 7.6 MAXIMUM REPAYMENT TERM
 
-The maximum available for home improvements is 50% of the property value (based on the value following completion of works). Anything outside of this will be considered on an exception basis.
+Maximum repayment term: 40 years.
 
-**Capital raising restrictions apply to debt consolidation - see Capital Raising Restrictions in Loan Criteria Section 7.3.1
+The term must not take the applicant beyond age 85.
 
-**Self-build projects** – additional lending is only permitted during the construction/conversion/renovation phase of the project where the project is at risk of not reaching final completion subject to the following:
-- A valuation report.
-- A breakdown of works and associated costs.
-- All available funds on the account must have been drawn down.
+RIO mortgage:
 
-**Right to Buy** – additional lending is not permitted whilst the applicant is in the discounted period.
+* Maximum term: 55 years.
+* No maximum age.
 
-9.5 SELF-BUILD AND CUSTOM BUILD
---------------------------------------------------------------------------------
+---
 
-| Maximum Loan | Maximum LTV During Construction | Maximum LTV on Completion |
-|--------------|--------------------------------|---------------------------|
-| Up to £750,000 | Up to 80% | Up to 80% |
-| Over £750k up to £1m | Up to 70% | Up to 70% |
-| Over £1m up to £1.5m | Up to 65% | Up to 65% |
-| Over £1.5m up to £2m | Up to 50% | Up to 50% |
+# 7.7 REPAYMENT TYPES
 
---- Page 35 ---
+The Society will consider:
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+* Capital and Interest.
+* Interest Only.
 
-================================================================================
-10 BUY-TO-LET CRITERIA
-================================================================================
+Interest Only borrowing is limited by borrower type and LTV.
 
-The following table details the acceptable lending types for Buy to Let applications:
+---
 
-| Type | Description | Accepted |
-|------|-------------|----------|
-| Standard Buy to Let | Unregulated lending to individuals who are looking to remortgage an existing buy to let or purchase a property for investment purposes. | Yes |
-| Consumer Buy to Let | Regulated lending to individuals who have inherited a property or previously lived in the property that they want to rent out. | Yes |
-| Regulated Buy to Let (Family Buy to Let) | Regulated lending to individuals wishing to purchase/remortgage a property which is or will be rented out to a family member. | No |
-| Ex-Pat Buy to Let | Unregulated lending to individuals who are UK citizens currently living and working abroad who want to purchase a property in the UK for investment purposes.<br>The applicant cannot have lived in or intend to live in the property. | Yes |
-| Ex-Pat Consumer Buy to Let | Regulated lending to individuals who are UK citizens currently living and working abroad who have inherited a property or previously lived in the property that they want to rent out. | Yes |
+# 7.8 ACCEPTABLE REPAYMENT STRATEGIES FOR INTEREST ONLY
 
-10.1 STANDARD BUY TO LET & CONSUMER BUY TO LET
---------------------------------------------------------------------------------
+Acceptable repayment vehicles include:
 
-The following are not acceptable for BTL applications:
-- More than 2 applicants.
-- Portfolio landlords.
-- Guarantors.
-- Where the mortgage introducer is also the applicant.
-- Where the applicant is related to the vendor.
-- Tenanted by family/close relatives.
+* Sale of existing property with minimum cash equity value of £250,000.
+* 25% of the project Personal Pension Policy, where the cash lump sum covers the capital and the lowest current projection rate is used.
+* Equity Based ISA, current projection via Proprietorial Funds Platform.
+* Deposit-based savings account.
+* Unencumbered residential property valued in excess of £250,000, subject to a collateral charge by the Society.
 
-10.2 AFFORDABILITY
---------------------------------------------------------------------------------
+For Retirement Interest Only (RIO):
 
-**Standard Buy to Let**
+* No repayment strategy required.
+* Mortgage is repayable on death or moving into residential care / alternative accommodation.
 
-Affordability is assessed using the anticipated rental income from the property, as confirmed by the valuer, and applying an interest coverage ratio (ICR) of 145% using our current stressed mortgage rate.
+---
 
-Example: - £100,000 x 7.17% x 145% = £9657/12 = £804.75 (the rental income confirmed by the valuer must be equal to or more than this figure to meet ICR criteria.
+# 7.9 UNACCEPTABLE REPAYMENT STRATEGIES FOR INTEREST ONLY
 
-The ICR calculation considers any potential rental voids, maintenance and repair costs associated with property. Where the ICR is not met, we will consider "top slicing" and a full affordability check will be undertaken. The case will "refer" in the system to allow this check to be undertaken.
+The following are unacceptable:
 
-Personal income will be assessed in addition to the above to ensure that the applicant meets the minimum income requirements.
+* Expectation that property value will increase sufficiently to repay capital and interest (in accordance with MCOB).
+* Expected but uncertain inheritance.
+* Sale of main residence where insufficient funds are expected to repay capital and interest.
+* Interest roll up.
+# 8 OFFER VALIDITY
 
---- Page 36 ---
+Offer validity period: 6 months.
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+Offer extensions:
 
-**Consumer Buy to Let**
+* Can be considered on an individual basis.
+* Subject to full case assessment including up to date payslips, bank statements, credit report and valuation report.
+* One extension only.
+* Maximum extension period: 3 months.
 
-Affordability is assessed using the applicant's net income, rental income from the property being mortgaged, a stressed mortgage payment and using the ICR calculation to ensure rental voids, maintenance and repair costs are considered.
+---
 
-Personal income will be assessed in addition to the above to ensure that the applicant meets the minimum income requirements and can afford their current financial commitments and expenditure.
+# 9 LOAN TO VALUE CRITERIA
 
-10.3 EMPLOYMENT AND INCOME
---------------------------------------------------------------------------------
+These are the maximum LTV and maximum advance limits applied.
 
-Applicants must be employed/self-employed or in receipt of pension income and the source of income must be from within the UK except for Ex-Pat BTL.
+If applicants are Lending in Retirement or Lending into Retirement, specific LTV caps apply which override other LTV criteria.
 
-Income will be verified as per sections 5.2 and 5.6.
+---
 
-10.3.1 Minimum Income
---------------------------------------------------------------------------------
+# 9.1 REPAYMENT TYPES
 
-A BTL sole applicant is required to meet the requirements below. For joint applications, at least one applicant should meet the minimum income.
+### Prime
 
-| Loan Amount | Minimum basic/pension income |
-|-------------|------------------------------|
-| Loans up to £200,000 | £30,000 |
-| Loans from £200,001 - £300,000 | £40,000 |
-| Loan for £300,001 - £500,000 | £55,000 |
+* Capital and Interest: 95%**
+* Interest Only: 80%
+* Lending in Retirement: 70%
+* Lending into Retirement: 80%
 
-Income from housing allowances, rent allowances and state benefits are not considered.
+### Near Prime
 
-10.4 TOP SLICING
---------------------------------------------------------------------------------
+* Capital and Interest: 70%
+* Interest Only: Not permitted
+* Lending in Retirement: 70%
+* Lending into Retirement: 70%
 
-Top slicing enables customers who don't meet the ICR criteria to use a proportion of their earned income to support the lending.
+### Shared Ownership
 
-**Note:** Top slicing is not permitted on Ex-Pat BTL. If the application fails the ICR criteria a reduced loan amount may be offered.
+* Capital and Interest: 95%
+* Interest Only: Not permitted
+* Lending in Retirement: 70%
+* Lending into Retirement: 80%
 
-Cases failing the ICR criteria described in 10.2 will automatically refer to an underwriter prior to full application. A full affordability assessment will be carried out as part of an application/DIP to ensure that the applicants have enough disposable income to cover any rental shortfall on this and any other buy to let properties together with existing financial commitments e.g. residential mortgage, loan, credit cards.
+### Buy to Let
 
-The following details our requirements when using top slicing:
+* Capital and Interest: 80%
+* Interest Only: 80%
+* Lending in Retirement: 70%
+* Lending into Retirement: 80%
 
-10.4.1 INCOME INCLUDED IN AFFORDABILITY
---------------------------------------------------------------------------------
+### Self-Build / Custom Build*
 
-- PAYE
-- Self-employed
-- Pension
+* Capital and Interest: 80%
+* Interest Only: 80%
+* Lending in Retirement: 70%
+* Lending into Retirement: 80%
 
---- Page 37 ---
+### Right to Buy
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+* Capital and Interest: 70%
+* Interest Only: Not permitted
+* Lending in Retirement: 70%
+* Lending into Retirement: 70%
 
-10.4.2 INCOME EXCLUDED FROM AFFORDABILITY
---------------------------------------------------------------------------------
+### Second Homes
 
-- Other income e.g. benefits
-- Profit from UK land and property (unless this can be verified from the latest 2 years SA302's/tax overviews).
+* Capital and Interest: 80%
+* Interest Only: 80%
+* Lending in Retirement: 70%
+* Lending into Retirement: 80%
 
-10.4.3 COMMITMENTS
---------------------------------------------------------------------------------
+### Further Advance
 
-- Residential mortgages at their pay rate
-- Loans, credit cards, HP, PCP, lease agreements, mail order, buy now, pay later.
-- School, nursery, childcare fees
-- Shortfalls on other buy to let properties.
+* Capital and Interest: 90%
+* Interest Only: Not permitted
+* Lending in Retirement: 70%
+* Lending into Retirement: 80%
 
-10.5 TENANCY AGREEMENTS AND OCCUPANCY
---------------------------------------------------------------------------------
+### RIO
 
-**The property must be:**
-- Available to let immediately and remain available for letting throughout the term of the mortgage.
-- Let on an Assured Shorthold Tenancy for a minimum period of 6 months and a maximum of 12 months.
+* Capital and Interest: Not permitted
+* Interest Only: 70%
+* Lending in Retirement: Not permitted
+* Lending into Retirement: Not permitted
 
-**The following tenants/tenancies are not acceptable:**
-- Multi-Unit Freehold Properties - Multiple tenancies.
-- Student lets or Holiday lets.
-- Asylum seekers.
-- Sale and leaseback arrangements.
-- Family/Close relatives.
+*Self-Build/Custom Build interest only is permitted for a maximum of 2 years following mortgage completion. The account will transfer to repayment 2 years after inception. In some instances, interest only may continue following completion of the project and receipt of a Warranty or Professional Consultants Certificate, subject to Society approval.
 
-10.6 EXPOSURE
---------------------------------------------------------------------------------
+**Up to 100% LTV is available for direct applications on the "ST Rent to Own product".
 
-The maximum portfolio exposure is no more than 3 Buy to Let properties in total (this includes unencumbered properties). Anything above this places the applicant in the "portfolio landlord" category.
+---
 
-10.7 PROPERTY REQUIREMENTS
---------------------------------------------------------------------------------
+# 9.2 APPLICATION TYPE – PURCHASE AND REMORTGAGE (NO ADDITIONAL BORROWING)
 
-BTL properties must meet a minimum EPC Standard acceptable rating of A – E only.
+### Up to £500,000
 
-10.8 EX-PAT BTL
---------------------------------------------------------------------------------
+* Standard: Up to 95%*
+* Shared Ownership: Up to 95% (Shared Ownership only)
+* Near Prime: Up to 70%
+* Buy to Let: Up to 80%
+* Right to Buy: 100% of discounted purchase price, maximum 70% of valuation
 
-Ex-Pat Buy to Let mortgages are available to individuals who are UK citizens currently/soon to be living and working abroad who want to purchase a property in the UK for investment purposes.
+### Over £500,000 up to £750,000
 
-Applications must meet an Interest Coverage Ratio (ICR) of 145% using the Society's current stressed mortgage rate. The loan amount will be reduced if a case doesn't meet this requirement.
+* Standard: Up to 80%
+* Others: Not applicable
 
-Applicants must have held a current UK bank account for a minimum of 3 years at the point of application.
+### Over £750,000 up to £1m
 
---- Page 38 ---
+* Standard: Up to 70%
+* Others: Not applicable
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+### Over £1m up to £1.5m
 
-Applicants must use a UK Solicitor.
+* Standard: Up to 65%
+* Others: Not applicable
 
-Applicants must engage a Managing Agent to oversee the property. Full details to be provided on application.
+### Over £1.5m up to £2m
 
-Applicants must make mortgage repayments in GBP from a UK bank account in the borrower's name.
+* Standard: Up to 50%
+* Others: Not applicable
 
-10.9 EX-PAT BTL - IDENTIFICATION AND VERIFICATION
---------------------------------------------------------------------------------
+*The ST Rent to Own product permits up to 100% LTV with a maximum loan size of £250,000.00 and is available for properties in the ST postcode area only.
 
-Applicants must hold a UK passport.
+---
 
-Electronic ID (EID) checks will be carried out and additional documents from list A and B, as detailed in section 4.7, are required:
-- EID Pass – 1 from A and 1 from B
-- EID Fail – 2 from A and 2 from B
+# 9.3 APPLICATION TYPE – REMORTGAGE (ADDITIONAL BORROWING)
 
-You will be notified of the requirements by the underwriting team.
+## Remortgage – Additional Borrowing for Home Improvements
 
-Documents must be certified as true copies of the originals by the applicant's employer, preferably a Director or Head of Human Resources and must note the name, position in the company, email address and contact telephone number of the person certifying.
+### Up to £500,000
 
-10.10 EX-PAT BTL – EMPLOYMENT
---------------------------------------------------------------------------------
+* Standard: Up to 95%*
+* Near Prime: Up to 70%
+* Buy to Let: Up to 75%
 
-Applicants must be employed and meet the criteria in section 5.
+### Over £500,000 up to £750,000
 
-10.11 DEPOSIT AND SOURCE OF WEALTH
---------------------------------------------------------------------------------
+* Standard: Up to 80%
 
-The deposit funds should be held in a UK bank account, and we may request further evidence to support the source of deposit and/or source of wealth.
+### Over £750,000 up to £1m
 
---- Page 39 ---
+* Standard: Up to 70%
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+### Over £1m up to £1.5m
 
-10.12 EX PAT ACCEPTABLE COUNTRIES
---------------------------------------------------------------------------------
+* Standard: Up to 65%
 
-Applications from Ex Pats residing in the following locations are permitted.
+### Over £1.5m up to £2m
 
-| | | | |
-|------------|-----------|------------|------------|
-| Andorra | Finland | Latvia | Slovakia |
-| Australia | France | Lithuania | Slovenia |
-| Austria | Germany | Netherlands | South Korea |
-| Belgium | Greece | New Zealand | Spain |
-| Canada | Iceland | Norway | Sweden |
-| Chile | Ireland | Poland | Switzerland |
-| Costa Rica | Israel | Portugal | Taiwan |
-| Czech Republic | Italy | San Marino | United States |
-| Denmark | Lichtenstein | Singapore | Uruguay |
+* Standard: Up to 50%
 
-Applicants living and working in a country not included in the list above can be considered subject to them working for a large, recognised company with UK presence.
+## Remortgage – Additional Borrowing for Capital Raising**
 
-Please contact the Broker Helpdesk Team (intermediaries@thehanley.co.uk) if you have any queries or would like us to consider an application outside of the permitted countries list above. Further information may be requested in order to provide a decision.
+### Up to £500,000
 
-================================================================================
-11 ST RENT TO OWN
-================================================================================
+* Standard: Up to 85%
+* Shared Ownership: Up to 95% (to purchase additional shares only)
+* Near Prime: Up to 70%
+* Buy to Let: Up to 75%
 
-The following criteria is specific to the Society's "ST Rent to Own" product:
+### Over £500,000 up to £750,000
 
-11.1 APPLICANT REQUIREMENTS
---------------------------------------------------------------------------------
+* Standard: Up to 80%
 
-- Must be currently renting and have at least 12 months rental history.
-- Must provide evidence of bill payments (e.g., utilities, council tax) via bank statements for at least 3 months
+### Over £750,000 up to £1m
 
-11.2 FINANCIAL CRITERIA
---------------------------------------------------------------------------------
+* Standard: Up to 70%
 
-- Minimum household income: £25,000
-- Loan-to-Value (LTV): up to 100%
-- Maximum loan amount: £350,000.
-- Rent payments should equate to a minimum of 75% of the mortgage payment. (the maximum mortgage payment can be calculated by taking the rent payment x 133%).
-- Bank statements must evidence consistent rental payments with no missed or late payments. 12 months proof of rental payments is required.
+### Over £1m up to £1.5m
 
---- Page 40 ---
+* Standard: Up to 65%
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+### Over £1.5m up to £2m
 
-11.3 PROPERTY CRITERIA
---------------------------------------------------------------------------------
+* Standard: Up to 50%
 
-- New build properties accepted
-- Property must be in ST postcode area
+Maximum available for home improvements: 50% of property value (based on value following completion of works). Anything outside this will be considered on an exception basis.
 
-11.4 CREDIT HISTORY
---------------------------------------------------------------------------------
+**Capital raising restrictions apply to debt consolidation (see Section 7.3.1).
 
-- Adverse credit considered in line with existing policy
-- No missed payments on any financial commitments in the last 12 months.
-- Bank accounts should be well conducted.
-- Overdraft usage must remain within the agreed limit and not exceed the applicant's net monthly salary.
+---
 
-11.5 LOAN REQUIREMENTS
---------------------------------------------------------------------------------
+# 9.4 FURTHER ADVANCES
 
-- Repayment mortgage only (no interest-only options)
-- Maximum term 40 years
+Further advances are available for:
 
-================================================================================
-12 SHARED OWNERSHIP CRITERIA
-================================================================================
+### Up to £500,000
 
-The following criteria is specific to Shared Ownership lending.
+* Standard (Home Improvements): Up to 90%*
+* Standard (Capital Raising): Unlimited up to 85%
+* Shared Ownership (Capital Raising to purchase additional shares): Up to 95%
+* Buy to Let (Home Improvements): Up to 75%
+* Buy to Let (Capital Raising): Up to 75%
+* RIO (Capital Raising): Up to 70%
 
-12.1 BORROWERS SHARE
---------------------------------------------------------------------------------
+### Over £500,000 up to £750,000
 
-- 25% minimum
-- 75% maximum of the property value on initial purchase
+* Standard (Home Improvements): Up to 80%
+* Standard (Capital Raising): Up to 80%
+* RIO: Up to 70%
 
-12.2 INCOME
---------------------------------------------------------------------------------
+### Over £750,000 up to £1m
 
-Household income should be £80,000 per annum or less (£90,000 per annum or less in London)
+* Standard (Home Improvements): Up to 70%
+* Standard (Capital Raising): Up to 70%
 
-12.3 APPLICANT REQUIREMENTS
---------------------------------------------------------------------------------
+### Over £1m up to £1.5m
 
-The applicant must satisfy at least one of the following requirements:
-- Is a first-time buyer.
-- Used to own a home but cannot afford to buy one now.
-- Is forming a new household e.g., following a relationship breakdown.
+* Standard (Home Improvements): Up to 65%
+* Standard (Capital Raising): Up to 65%
 
---- Page 41 ---
+### Over £1.5m up to £2m
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+* Standard (Home Improvements): Up to 50%
+* Standard (Capital Raising): Up to 50%
 
-- Is an existing Shared Owner and wants to move.
-- Owns a home and wants to move but cannot afford a home that meets their needs.
+Maximum available for home improvements: 50% of property value (based on value following completion of works). Exceptions considered.
 
-12.4 LANDLORD RESTRICTIONS
---------------------------------------------------------------------------------
+Self-Build projects: Additional lending only permitted during construction/conversion/renovation phase where the project is at risk of not reaching final completion, subject to:
 
-The provider must be a registered Housing Association or a registered provider appearing on the:
-https://www.gov.uk/government/publications/current-registered-providers-of-social-housing
+* Valuation report.
+* Breakdown of works and associated costs.
+* All available funds on account drawn down.
 
-**NOTE:** Housing Associations which are "for profit" are unacceptable.
+Right to Buy: Additional lending not permitted during the discounted period.
 
-12.5 LOCATIONS
---------------------------------------------------------------------------------
+---
+
+# 9.5 SELF-BUILD AND CUSTOM BUILD
+
+### Up to £750,000
+
+* Maximum LTV during construction: 80%
+* Maximum LTV on completion: 80%
+
+### Over £750,000 up to £1m
+
+* During construction: 70%
+* On completion: 70%
+
+### Over £1m up to £1.5m
+
+* During construction: 65%
+* On completion: 65%
+
+### Over £1.5m up to £2m
+
+* During construction: 50%
+* On completion: 50%
+
+---
+
+# 10 BUY-TO-LET CRITERIA
+
+## Accepted Lending Types
+
+### Standard Buy to Let
+
+* Unregulated lending.
+* For remortgage or purchase for investment.
+* Accepted: Yes.
+
+### Consumer Buy to Let
+
+* Regulated lending.
+* For inherited property or previously lived in property to rent out.
+* Accepted: Yes.
+
+### Regulated Buy to Let (Family Buy to Let)
+
+* Regulated lending.
+* Property rented to family member.
+* Accepted: No.
+
+### Ex-Pat Buy to Let
+
+* Unregulated lending.
+* UK citizens living and working abroad.
+* Applicant cannot have lived in or intend to live in the property.
+* Accepted: Yes.
+
+### Ex-Pat Consumer Buy to Let
+
+* Regulated lending.
+* UK citizens abroad who inherited or previously lived in property.
+* Accepted: Yes.
+
+---
+
+# 10.1 STANDARD BUY TO LET & CONSUMER BUY TO LET
+
+Not acceptable:
+
+* More than 2 applicants.
+* Portfolio landlords.
+* Guarantors.
+* Mortgage introducer also being the applicant.
+* Applicant related to the vendor.
+* Tenanted by family or close relatives.
+
+---
+
+# 10.2 AFFORDABILITY
+
+## Standard Buy to Let
+
+Affordability assessed using anticipated rental income confirmed by valuer.
+
+Interest Coverage Ratio (ICR): 145% using current stressed mortgage rate.
+
+Example:
+£100,000 x 7.17% x 145% = £9,657 / 12 = £804.75
+
+Rental income must be equal to or greater than £804.75 to meet ICR.
+
+If ICR not met:
+
+* Top slicing may be considered.
+* Full affordability check undertaken.
+* Case will refer in system.
+
+Personal income assessed to meet minimum income requirements.
+
+## Consumer Buy to Let
+
+Affordability assessed using:
+
+* Applicant's net income.
+* Rental income from mortgaged property.
+* Stressed mortgage payment.
+* ICR calculation.
+
+Personal income assessed to ensure ability to meet commitments and expenditure.
+
+---
+
+# 10.3 EMPLOYMENT AND INCOME
+
+Applicants must be:
+
+* Employed.
+* Self-employed.
+* In receipt of pension income.
+
+Income must be from within the UK, except for Ex-Pat BTL.
+
+Income verified as per Sections 5.2 and 5.6.
+
+---
+
+# 10.3.1 MINIMUM INCOME
+
+For sole applicants. For joint applications, at least one applicant must meet minimum.
+
+### Loans up to £200,000
+
+Minimum basic/pension income: £30,000
+
+### £200,001 – £300,000
+
+Minimum income: £40,000
+
+### £300,001 – £500,000
+
+Minimum income: £55,000
+
+Housing allowances, rent allowances and state benefits are not considered.
+
+---
+
+# 10.4 TOP SLICING
+
+Top slicing allows use of earned income where ICR not met.
+
+Not permitted on Ex-Pat BTL.
+
+If ICR fails:
+
+* Reduced loan amount may be offered.
+* Case refers to underwriter.
+* Full affordability assessment undertaken.
+
+Applicants must have sufficient disposable income to cover:
+
+* Rental shortfall.
+* Other BTL properties.
+* Existing commitments.
+
+---
+
+# 10.4.1 INCOME INCLUDED
+
+* PAYE
+* Self-employed
+* Pension
+
+---
+
+# 10.4.2 INCOME EXCLUDED
+
+* Other income such as benefits.
+* Profit from UK land and property unless verified by latest 2 years SA302s / tax overviews.
+
+---
+
+# 10.4.3 COMMITMENTS
+
+Included in affordability:
+
+* Residential mortgages at pay rate.
+* Loans, credit cards, HP, PCP, lease agreements, mail order, buy now pay later.
+* School, nursery, childcare fees.
+* Shortfalls on other BTL properties.
+
+---
+
+# 10.5 TENANCY AGREEMENTS AND OCCUPANCY
+
+Property must:
+
+* Be available to let immediately.
+* Remain available for letting throughout mortgage term.
+* Be let on an Assured Shorthold Tenancy for minimum 6 months and maximum 12 months.
+
+Not acceptable:
+
+* Multi-Unit Freehold Properties with multiple tenancies.
+* Student lets.
+* Holiday lets.
+* Asylum seekers.
+* Sale and leaseback arrangements.
+* Family or close relatives.
+
+---
+
+# 10.6 EXPOSURE
+
+Maximum exposure: 3 Buy to Let properties in total (including unencumbered).
+
+Above this = portfolio landlord.
+
+---
+
+# 10.7 PROPERTY REQUIREMENTS
+
+Minimum EPC rating: A to E only.
+
+---
+
+# 10.8 EX-PAT BTL
+
+Available to UK citizens living and working abroad.
+
+ICR: 145% using current stressed mortgage rate.
+
+Loan reduced if ICR not met.
+
+Applicant must:
+
+* Hold UK bank account for minimum 3 years.
+* Use a UK Solicitor.
+* Engage a Managing Agent.
+* Make repayments in GBP from UK bank account in borrower’s name.
+
+---
+
+# 10.9 EX-PAT BTL – IDENTIFICATION AND VERIFICATION
+
+Applicant must hold UK passport.
+
+Electronic ID checks:
+
+* EID Pass: 1 document from list A and 1 from list B.
+* EID Fail: 2 from list A and 2 from list B.
+
+Documents must be certified by employer (preferably Director or Head of HR) including:
+
+* Name.
+* Position.
+* Email address.
+* Contact telephone number.
+
+---
+
+# 10.10 EX-PAT BTL – EMPLOYMENT
+
+Applicants must be employed and meet criteria in Section 5.
+
+---
+
+# 10.11 DEPOSIT AND SOURCE OF WEALTH
+
+Deposit funds must be held in a UK bank account.
+
+Further evidence may be requested to support source of deposit and/or source of wealth.
+
+---
+
+# 10.12 EX PAT ACCEPTABLE COUNTRIES
+
+Permitted countries:
+
+Andorra, Australia, Austria, Belgium, Canada, Chile, Costa Rica, Czech Republic, Denmark, Finland, France, Germany, Greece, Iceland, Ireland, Israel, Italy, Lichtenstein, Latvia, Lithuania, Netherlands, New Zealand, Norway, Poland, Portugal, San Marino, Singapore, Slovakia, Slovenia, South Korea, Spain, Sweden, Switzerland, Taiwan, United States, Uruguay.
+
+Applicants in other countries may be considered if employed by a large, recognised company with UK presence.
+
+Broker Helpdesk contact: [intermediaries@thehanley.co.uk](mailto:intermediaries@thehanley.co.uk).
+
+Further information may be requested to provide a decision.
+
+# 11 ST RENT TO OWN
+
+The following criteria is specific to the Society's "ST Rent to Own" product.
+
+---
+
+# 11.1 APPLICANT REQUIREMENTS
+
+Applicants must:
+
+* Be currently renting.
+* Have at least 12 months rental history.
+* Provide evidence of bill payments (for example utilities and council tax) via bank statements for at least 3 months.
+
+---
+
+# 11.2 FINANCIAL CRITERIA
+
+Minimum household income: £25,000.
+
+Loan to Value (LTV): Up to 100%.
+
+Maximum loan amount: £350,000.
+
+Rent to mortgage affordability requirement:
+
+* Rent payments must equate to a minimum of 75% of the mortgage payment.
+* The maximum mortgage payment can be calculated as rent payment x 133%.
+
+Rental payment evidence requirements:
+
+* 12 months proof of rental payments is required.
+* Bank statements must evidence consistent rental payments.
+* No missed or late rental payments permitted.
+
+---
+
+# 11.3 PROPERTY CRITERIA
+
+* New build properties accepted.
+* Property must be located in the ST postcode area.
+
+---
+
+# 11.4 CREDIT HISTORY
+
+* Adverse credit considered in line with existing policy.
+* No missed payments on any financial commitments in the last 12 months.
+* Bank accounts must be well conducted.
+* Overdraft usage must remain within the agreed limit.
+* Overdraft must not exceed the applicant's net monthly salary.
+
+---
+
+# 11.5 LOAN REQUIREMENTS
+
+* Repayment mortgage only.
+* Interest-only options are not permitted.
+* Maximum term: 40 years.
+
+---
+
+# 12 SHARED OWNERSHIP CRITERIA
+
+The following criteria applies to Shared Ownership lending.
+
+---
+
+# 12.1 BORROWER'S SHARE
+
+Minimum initial share: 25%.
+
+Maximum initial share: 75% of the property value.
+
+---
+
+# 12.2 INCOME
+
+Maximum household income:
+
+* £80,000 per annum.
+* £90,000 per annum in London.
+
+---
+
+# 12.3 APPLICANT REQUIREMENTS
+
+The applicant must satisfy at least one of the following:
+
+* Is a first-time buyer.
+* Previously owned a home but cannot afford to buy one now.
+* Is forming a new household, for example following a relationship breakdown.
+* Is an existing Shared Owner and wants to move.
+* Owns a home and wants to move but cannot afford a home that meets their needs.
+
+---
+
+# 12.4 LANDLORD RESTRICTIONS
+
+The provider must be a registered Housing Association or registered provider appearing on the Government list of registered providers of social housing.
+
+Housing Associations which are "for profit" are not acceptable.
+
+---
+
+# 12.5 LOCATIONS
 
 Shared Ownership lending is restricted to England and Wales.
 
-12.6 LEASE
---------------------------------------------------------------------------------
+---
 
-The lease must be a Model Lease Agreement
+# 12.6 LEASE
 
-Shared Ownership leases issued prior to 6th April 2010 may require a Deed of Variation to ensure that the following Fundamental Clauses are included:
+The lease must be a Model Lease Agreement.
 
-12.6.1 Alienation Provisions
---------------------------------------------------------------------------------
+Shared Ownership leases issued prior to 6th April 2010 may require a Deed of Variation to ensure required Fundamental Clauses are included.
 
-It is essential that all shared ownership leases contain provisions ensuring that the shared owner cannot sell part or all of the property except through the specified sales procedure. In addition, these provisions prevent the shared owner from sub-letting or parting with possession of part of the property to protect public funds and ensure that applicants are not entering shared ownership for commercial gain.
+---
 
-12.6.2 Mortgage Protection Clause
---------------------------------------------------------------------------------
+# 12.6.1 ALIENATION PROVISIONS
 
-The Mortgagee Protection Clause is designed to cover the lender's loss (including from the Provider's share, where appropriate) should the lender have to take possession of the property on default. Under the most recent changes to the shared ownership lease, the amount that mortgagees can claim is now defined as the 'Mortgagee Protection Claim'.
+The lease must:
 
-The lease must provide that a mortgagee in possession has the option to (a) assign the lease as it is, or (b) staircase to 100% and then assign. There should be no time limits in the lease with regard to staircasing.
+* Ensure the shared owner cannot sell part or all of the property except through the specified sales procedure.
+* Prevent sub-letting or parting with possession of part of the property.
 
-12.6.3 Rent Review
---------------------------------------------------------------------------------
+These provisions are required to protect public funds and prevent commercial gain.
 
-All shared ownership leases offered by providers must include rent review provisions.
+---
 
-12.6.4 Shared Ownership Staircasing
---------------------------------------------------------------------------------
+# 12.6.2 MORTGAGE PROTECTION CLAUSE
 
-The lease must allow borrowers to staircase up to 100% ownership and is subject to:
-- Approval from the provider (Housing Association)
-- A minimum 10% tranche to be purchased.
+The lease must include a Mortgagee Protection Clause.
 
---- Page 42 ---
+The Mortgagee Protection Clause:
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+* Covers the lender’s loss, including from the Provider’s share where appropriate.
+* Defines the amount that mortgagees can claim as the "Mortgagee Protection Claim".
+* Must allow a mortgagee in possession to:
 
-- A solicitor must be used.
-- A new valuation will be obtained.
+  * Assign the lease as it is; or
+  * Staircase to 100% and then assign.
+* There must be no time limits in the lease regarding staircasing.
 
-12.6.5 Right of First Refusal (pre-emption right)
---------------------------------------------------------------------------------
+---
 
-The originating landlord can choose to exercise the option to buy back the property, at the prevailing market value, or nominate another provider to do so, to secure the property for further affordable housing use. This applies to pre-final staircasing situations.
+# 12.6.3 RENT REVIEW
 
-12.7 TERM
---------------------------------------------------------------------------------
+All Shared Ownership leases must include rent review provisions.
 
-The remaining term of the lease must be at least 85 years at the point of mortgage completion.
+---
 
-12.8 OWNERSHIP
---------------------------------------------------------------------------------
+# 12.6.4 SHARED OWNERSHIP STAIRCASE
 
-The lease must be granted to the borrower(s) alone. All borrowers named on the mortgage must also be parties to the lease.
+The lease must allow staircasing up to 100% ownership, subject to:
 
-The property must be wholly owned by the borrower(s) and not held on trust for others.
+* Approval from the provider (Housing Association).
+* A minimum 10% tranche to be purchased.
+* Use of a solicitor.
+* A new valuation being obtained.
 
-12.9 MEMORANDUM OF SALE
---------------------------------------------------------------------------------
+---
 
-A Memorandum of Sale, which states the share being purchased, ground rent, the rent payable and the services charges is required with the supporting documents.
+# 12.6.5 RIGHT OF FIRST REFUSAL (PRE-EMPTION RIGHT)
 
-12.10 RENT
---------------------------------------------------------------------------------
+The originating landlord may:
 
-Shared ownership rent, services charges and ground rent must be disclosed on the mortgage application form and will be treated as a commitment for the purposes of affordability.
+* Exercise the option to buy back the property at prevailing market value; or
+* Nominate another provider to do so.
 
-12.11 STAIRCASING
---------------------------------------------------------------------------------
+This applies to pre-final staircasing situations to secure the property for affordable housing use.
 
-The lease must allow borrowers to staircase up to 100% ownership and is subject to:
-- Approval from the provider (Housing Association)
-- A minimum 10% tranche to be purchased.
-- A solicitor must be used.
-- A new valuation will be obtained.
+---
 
-12.12 SHARED OWNERSHIP PERMITTED SCHEMES
---------------------------------------------------------------------------------
+# 12.7 TERM
 
-The following schemes are deemed unacceptable:
-- Older persons shared ownership.
-- Designated protected/rural areas.
-- Home ownership for people with long term disability (HOLD).
+Remaining lease term must be at least 85 years at the point of mortgage completion.
 
-12.13 ADDITIONAL BORROWING
---------------------------------------------------------------------------------
+---
 
---- Page 43 ---
+# 12.8 OWNERSHIP
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+* The lease must be granted to the borrower(s) alone.
+* All borrowers named on the mortgage must be parties to the lease.
+* The property must be wholly owned by the borrower(s).
+* The property must not be held on trust for others.
 
-Borrowers can apply for additional borrowing but only for the purpose of staircasing. For applicants wishing to staircase, approval from the Housing Association is required prior to making an application with the Society.
+---
 
-================================================================================
-13 RETIREMENT INTEREST ONLY CRITERIA (RIO)
-================================================================================
+# 12.9 MEMORANDUM OF SALE
 
-Retirement Interest Only (RIO) is an interest only mortgage restricted to older customers above a specified age where repayment of the loan will not be made until the occurrence of one or more specified life events (usually the customers death or moving into residential care). The following specific criteria applies:
+A Memorandum of Sale is required with supporting documents and must state:
 
-13.1 INCOME
---------------------------------------------------------------------------------
+* Share being purchased.
+* Ground rent.
+* Rent payable.
+* Service charges.
 
-Applicants should already be retired and in receipt of retirement income at the point of the application.
+---
 
-The Society will consider applicants who are working, however, earned income will NOT be taken into account. Affordability will be based on retirement income.
+# 12.10 RENT
 
-13.2 AFFORDABILITY
---------------------------------------------------------------------------------
+Shared Ownership rent, service charges and ground rent:
 
-For joint applications, each applicant will need to be able to afford the mortgage in their own right.
+* Must be disclosed on the mortgage application form.
+* Will be treated as a commitment for affordability purposes.
 
-13.3 RESTRICTIONS
---------------------------------------------------------------------------------
+---
 
-For applications with a Lasting Power of Attorney, the applicant must be mentally capable of making financial decisions. Applications submitted by the Attorney on the applicant's behalf are not allowed. Near Prime applicants will not be considered.
+# 12.11 STAIRCASING
 
-13.4 OTHER CONSIDERATIONS
---------------------------------------------------------------------------------
+Borrowers may staircase to 100% ownership subject to:
 
-If the customer has to go into a temporary home in the future, they may have to pay both the mortgage and the home costs. The affordability assessment will consider the possibility of a rise in rates, but also a potential change in the customers' circumstances in the future.
+* Approval from the provider (Housing Association).
+* A minimum 10% tranche.
+* Use of a solicitor.
+* A new valuation.
 
---- Page 44 ---
+---
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+# 12.12 SHARED OWNERSHIP PERMITTED SCHEMES
 
-================================================================================
-14 FURTHER ADVANCE CRITERIA
-================================================================================
+The following schemes are not acceptable:
 
-14.1 REGULATED V PRE REGULATED APPLICATIONS
---------------------------------------------------------------------------------
+* Older persons Shared Ownership.
+* Designated protected/rural areas.
+* Home ownership for people with long term disability (HOLD).
 
-- **Pre G40000** – Solicitors required. Additional borrowing for home improvements only
-- **G40000 onwards and Pre-Regulated M Accounts** – Additional borrowing for home improvements only
+---
 
-If the above accounts require additional borrowing for Capital Raising purposes, this should be treated as a completely new mortgage - refer to the current residential lending criteria. Fees will be charged where applicable.
+# 12.13 ADDITIONAL BORROWING
 
-- **Regulated Mortgage Accounts** – Additional borrowing for home improvements and capital raising.
+Additional borrowing is permitted only for staircasing.
 
-14.2 RESTRICTIONS
---------------------------------------------------------------------------------
+Approval from the Housing Association is required before applying with the Society.
+
+---
+
+# 13 RETIREMENT INTEREST ONLY CRITERIA (RIO)
+
+Retirement Interest Only (RIO) is an interest only mortgage for older customers where repayment of capital is not required until a specified life event, usually death or moving into residential care.
+
+---
+
+# 13.1 INCOME
+
+Applicants should:
+
+* Already be retired.
+* Be in receipt of retirement income at the point of application.
+
+Applicants who are working may be considered, however:
+
+* Earned income will not be taken into account.
+* Affordability will be based on retirement income only.
+
+---
+
+# 13.2 AFFORDABILITY
+
+For joint applications:
+
+* Each applicant must be able to afford the mortgage in their own right.
+
+---
+
+# 13.3 RESTRICTIONS
+
+* For applications with a Lasting Power of Attorney, the applicant must be mentally capable of making financial decisions.
+* Applications submitted by the Attorney on behalf of the applicant are not allowed.
+* Near Prime applicants will not be considered.
+
+---
+
+# 13.4 OTHER CONSIDERATIONS
+
+If the customer has to move into a temporary home in the future:
+
+* They may need to pay both mortgage and home costs.
+* Affordability assessment will consider potential rate rises.
+* Affordability assessment will consider potential future changes in the customer's circumstances.
+
+# 14 FURTHER ADVANCE CRITERIA
+
+---
+
+# 14.1 REGULATED V PRE REGULATED APPLICATIONS
+
+Pre G40000:
+
+* Solicitors required.
+* Additional borrowing permitted for home improvements only.
+
+G40000 onwards and Pre-Regulated M Accounts:
+
+* Additional borrowing permitted for home improvements only.
+
+If the above accounts require additional borrowing for capital raising:
+
+* Treated as a completely new mortgage.
+* Refer to current residential lending criteria.
+* Fees will be charged where applicable.
+
+Regulated Mortgage Accounts:
+
+* Additional borrowing permitted for home improvements and capital raising.
+
+---
+
+# 14.2 RESTRICTIONS
 
 There must be a minimum period of 6 months between applications for further borrowing.
 
---- Page 45 ---
+---
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+# 15 SELF-BUILD CRITERIA
 
-================================================================================
-15 SELF-BUILD CRITERIA
-================================================================================
+The following criteria applies to Self-Build lending.
 
-The following criteria is specific to Self-Build lending.
+---
 
-15.1 PERMITTED LENDING AND RESTRICTIONS
---------------------------------------------------------------------------------
+# 15.1 PERMITTED LENDING AND RESTRICTIONS
 
-15.1.1 Permitted Lending
---------------------------------------------------------------------------------
+## 15.1.1 Permitted Lending
 
-- New build (ground up)
-- Demolition and re-build
-- Renovation/Conversion – where the property is currently uninhabitable including barn conversions.
-- All the above on a second home
+* New build (ground up).
+* Demolition and re-build.
+* Renovation/Conversion where the property is currently uninhabitable, including barn conversions.
+* All of the above on a second home.
 
-15.1.2 Restrictions
---------------------------------------------------------------------------------
+## 15.1.2 Restrictions
 
-- Investment properties are excluded.
-- All applications are for owner occupier only, as an individual project and not part of a group development.
-- Properties offering a Retrospective Warranty are unacceptable.
-- Partially completed projects which have changed ownership part way through.
-- Where land is being divided into plots and sold to individuals, we require sight of individual planning permission, confirmation that the applicant is employing their own builder, confirmation that an individual warranty will be provided for the property. Costs must include an amount for the installation of any infrastructure.
+* Investment properties are excluded.
+* Applications must be for owner occupier only.
+* Must be an individual project and not part of a group development.
+* Properties offering a Retrospective Warranty are not acceptable.
+* Partially completed projects which have changed ownership part way through are not acceptable.
+* Where land is divided into plots and sold to individuals:
 
-ECO SELF- BUILD
---------------------------------------------------------------------------------
+  * Individual planning permission required.
+  * Confirmation applicant is employing their own builder required.
+  * Confirmation that an individual warranty will be provided required.
+  * Costs must include infrastructure installation.
 
-The criteria for eco self-build mortgage product will be the same as for standard self-build. However, there will be 2 additional criteria that the property will need to meet.
+---
 
-1. Applicants must intend to build or renovate/convert the property to an EPC rating of A or B
+# ECO SELF-BUILD
 
-2. They must plan to include at least two of the following qualifying energy efficient features:
-- photovoltaics,
-- solar panels,
-- air source heat pump,
-- ground source heat pump,
-- rainwater harvesting,
-- greywater collection,
-- triple glazing,
-- mechanical ventilation with heat recovery system,
-- biomass pellet boiler,
-- wind turbines,
-- higher than usual levels of thermal insulation,
-- geothermal heating,
-- compostable toilet
-- electric car charging stations.
---- Page 46 ---
+Criteria are the same as standard self-build plus:
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+1. Property must achieve EPC rating A or B.
+2. Must include at least two of the following energy efficient features:
 
-15.2 SPECIALIST ADVISORS
---------------------------------------------------------------------------------
+   * Photovoltaics.
+   * Solar panels.
+   * Air source heat pump.
+   * Ground source heat pump.
+   * Rainwater harvesting.
+   * Greywater collection.
+   * Triple glazing.
+   * Mechanical ventilation with heat recovery system.
+   * Biomass pellet boiler.
+   * Wind turbines.
+   * Higher than usual levels of thermal insulation.
+   * Geothermal heating.
+   * Compostable toilet.
+   * Electric car charging stations.
 
-In addition to the Valuer and Warranty provider the Society will use a Quantity Surveyor to review the applicant's costings and comment on whether the project is feasible. They will provide a written recommendation as to whether to accept or decline the costings which is used in the underwriting process.
+---
 
-15.3 PARTIALLY COMPLETE PROPERTIES/PROJECTS
---------------------------------------------------------------------------------
+# 15.2 SPECIALIST ADVISORS
 
-The property should be at a minimum of wall plate level for Self-build or full structural overhaul including roofing and damp-proof course in respect of a renovation/conversion.
+The Society will use:
 
-A Warranty, provided by an acceptable warranty provider, must be in place at the outset of the project. A retrospective warranty is not acceptable.
+* A Valuer.
+* A Warranty provider.
+* A Quantity Surveyor.
 
-Warranty sign off documentation should be submitted with supporting documents at the application stage as follows:
-- New build/Re-Build – foundations and wall plate sign off and building regulation approval.
-- Renovation/Conversion – full structural overhaul sign off and building regulation approval.
+The Quantity Surveyor will:
 
-15.4 DURATION OF PROJECT AND TIMESCALES
---------------------------------------------------------------------------------
+* Review costings.
+* Assess feasibility.
+* Provide written recommendation to accept or decline costings.
 
-Work must commence within 6 months of mortgage completion.
+---
 
-All works must be completed, and a final completion sign off received from the warranty provider within 2 years from the first date of funds are first released.
+# 15.3 PARTIALLY COMPLETE PROPERTIES / PROJECTS
 
-15.5 SECOND HOMES
---------------------------------------------------------------------------------
+Minimum stage required:
 
-A second home is a property which will only be used by the borrower(s) for residential purposes e.g., holiday home, weekend home, future retirement property.
+* Self-build: wall plate level.
+* Renovation/Conversion: full structural overhaul including roofing and damp-proof course.
 
-The property cannot be let out and cannot be in the same location as the current applicant's residence e.g., properties within the same postcode are not acceptable.
+Warranty requirements:
 
-Applicants will need to satisfy full affordability for 2 households.
+* Must be in place at outset.
+* Retrospective warranties are not acceptable.
 
-Only 1 second home is acceptable.
+Warranty sign-off required at application stage:
 
-Second homes are not permitted for Shared Ownership applicants.
+* New build / Re-build: foundations and wall plate sign off and building regulation approval.
+* Renovation / Conversion: full structural overhaul sign off and building regulation approval.
 
-The Society will require the borrower to use specialist advisors/project managers with experience and who will help to keep control of costs. Full details should be provided with the application.
+---
 
---- Page 47 ---
+# 15.4 DURATION OF PROJECT AND TIMESCALES
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+* Work must commence within 6 months of mortgage completion.
+* All works must be completed and final warranty sign off received within 2 years from first release of funds.
 
-15.6 ACCEPTABLE WARRANTY CERTIFICATION
---------------------------------------------------------------------------------
+---
 
-A Warranty, provided by one of the following acceptable warranty providers, must be in place at the outset of the project. No other warranty providers are acceptable.
+# 15.5 SECOND HOMES
 
-- Premier's "Guarantee for New Homes" (minimum warranty term 10 Years)
-- NHBC 'Buildmark' (minimum warranty term 10 years)
-- Self-Build Zone (minimum warranty term 10 years)
-- LABC Warranty (minimum warranty term 10 years)
-- Professional Consultants Certificate (minimum warranty term 6 years)
-- Building Lifeplans Ltd (BLP Allianz Guarantee)
-- Castle 10 (Checkmate)
-- Protek
-- ICW
-- Advantage Structural Defects Insurance (ASDI)
+Second home definition:
 
-15.7 SITE INSURANCE MINIMUM REQUIREMENTS
---------------------------------------------------------------------------------
+* Used by borrower(s) for residential purposes only.
+* Examples: holiday home, weekend home, future retirement property.
 
-A copy of the site insurance schedule is required which must include the following:
-- £5 million public liability.
-- £10 million employers' liability.
-- Contract works (for the re-instatement value).
-- Hanley Economic Building Society to be noted as mortgagee.
+Restrictions:
 
-15.8 PLANNING PERMISSION
---------------------------------------------------------------------------------
+* Cannot be let out.
+* Cannot be in same location as current residence.
+* Properties within same postcode are not acceptable.
+* Full affordability for 2 households required.
+* Only 1 second home permitted.
+* Not permitted for Shared Ownership applicants.
 
-Outline only is required to enable the purchase of the plot.
+Specialist advisors / project managers required with full details provided.
 
-Outline planning permission should have at least 12 months to run from receipt of the application.
+---
 
-Detailed planning permission should have at least 12 months to run from receipt of the application.
+# 15.6 ACCEPTABLE WARRANTY CERTIFICATION
 
-15.9 BUILDING REGULATION
---------------------------------------------------------------------------------
+Warranty must be in place at outset from one of:
 
-Copies of Building Regulations are required for all self-build, conversion and renovation projects.
+* Premier "Guarantee for New Homes" (minimum 10 years).
+* NHBC 'Buildmark' (minimum 10 years).
+* Self-Build Zone (minimum 10 years).
+* LABC Warranty (minimum 10 years).
+* Professional Consultants Certificate (minimum 6 years).
+* Building Lifeplans Ltd (BLP Allianz Guarantee).
+* Castle 10 (Checkmate).
+* Protek.
+* ICW.
+* Advantage Structural Defects Insurance (ASDI).
 
-The society does not accept a Builders Notice as suitable approval for the works carried out.
+No other providers acceptable.
 
-15.10 INTERIM VALUATIONS
---------------------------------------------------------------------------------
+---
 
-Valuations will be carried out at each stage release.
+# 15.7 SITE INSURANCE MINIMUM REQUIREMENTS
 
-Stage releases are made in arrears during the construction of the property against a valuation at every stage.
+Site insurance must include:
 
-The Society reserves the right to carry out interim valuations at any time during the build/renovation/conversion.
+* £5m public liability.
+* £10m employers' liability.
+* Contract works for reinstatement value.
+* Hanley Economic Building Society noted as mortgagee.
 
---- Page 48 ---
+---
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+# 15.8 PLANNING PERMISSION
 
-15.11 REPAYMENT TYPES
---------------------------------------------------------------------------------
+* Outline planning required for plot purchase.
+* Outline permission must have at least 12 months remaining.
+* Detailed planning permission must have at least 12 months remaining.
 
-The mortgage will be set up on an interest only basis for 2 years. After this it will revert to Capital and Interest basis for the remaining term. Lending is made in stages with stage payments released on an arrears basis.
+---
 
-If the project is completed within 2 years, the mortgage product can be reviewed, and the account switched to a repayment basis.
+# 15.9 BUILDING REGULATION
 
-15.12 ACCEPTABLE CERTIFYING PROFESSIONALS
---------------------------------------------------------------------------------
+* Copies of Building Regulations required.
+* Builders Notice is not acceptable.
 
-All architects supervising the build must have professional indemnity cover of no less than £1m and one of the qualifications below.
+---
 
-| Qualification | Description |
-|--------------|-------------|
-| ARB UK | Architects Registration Board UK (previously known as ARC) |
-| *RIBA/ARIBA/FRIBA<br>*Only acceptable if also registered with the Architect's Registration Board (ARB) | Chartered Member/Associate/Fellow of the Royal Institute of British Architects |
-| MCIAT | Corporate Member of the Chartered Institute of Architectural Technicians |
-| MASI/FASI | Corporate Member/Fellow Member of the Architects and Surveyors Institute (excludes AMSI) |
-| C. Build E MCABE/ C. Build E FCABE | Chartered Member/Chartered Fellow of the Chartered Association of Building Engineers (excludes A B Eng) |
-| MICE/FICE | Member/Fellow of the Chartered Institute of Civil Engineers (Excludes AMICE) |
-| FCIOB/MCIOB | Fellow or Member of the Chartered Institute of Building |
-| MRICS/FRICS | Member or Fellow of the Royal Institute of Chartered Surveyors (RICS) |
-| MI Struct Eng/FI Struct Eng | Chartered Member or Fellow of Institute of Structural Engineers |
+# 15.10 INTERIM VALUATIONS
 
-15.13 CUSTOMERS RETAINING THEIR EXISTING PROPERTY/RENTING DURING THE BUILD
---------------------------------------------------------------------------------
+* Valuations carried out at each stage release.
+* Stage releases made in arrears.
+* Society reserves right to carry out interim valuations at any time.
 
-Where an applicant wishes to retain their current mortgage/rented property during the self-build project the following applies:
+---
 
-- Ongoing mortgage payments will be included, at the current pay rate, for the purpose of affordability and income multiples.
-- Ongoing rent payments will be excluded from affordability and income multiples.
+# 15.11 REPAYMENT TYPES
 
---- Page 49 ---
+* Interest only for first 2 years.
+* Reverts to Capital and Interest for remaining term.
+* Stage payments released in arrears.
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+If completed within 2 years:
 
-================================================================================
-16 CUSTOM BUILD CRITERIA
-================================================================================
+* Mortgage product can be reviewed.
+* Account may be switched to repayment basis.
 
-16.1 DEFINITION
---------------------------------------------------------------------------------
+---
 
-Custom build is essentially self-build which enables purchasers to bespoke their own home without having to carry out the initial work of finding a plot, securing planning, installing services as this is already taken care of by an enabling developer. The serviced plots are sold to individuals who provide their input into the design.
+# 15.12 ACCEPTABLE CERTIFYING PROFESSIONALS
 
-16.2 EXPOSURE LIMITS
---------------------------------------------------------------------------------
+Architects must:
 
-The Society will finance a maximum of 20% of properties per site. Before applying, brokers are advised to contact the Broker Helpdesk on 01782 255000 (select option 1, then option 1) to verify acceptance of the case. You must submit a full mortgage application within 4 weeks from the reservation date.
+* Hold professional indemnity cover of at least £1m.
+* Hold one of the following qualifications:
 
-16.3 PERMITTED LENDING AND RESTRICTIONS
---------------------------------------------------------------------------------
+Accepted qualifications:
 
-16.3.1 Permitted Lending
---------------------------------------------------------------------------------
+* ARB UK.
+* RIBA/ARIBA/FRIBA (only if also registered with ARB).
+* MCIAT.
+* MASI/FASI (excludes AMSI).
+* C.Build E MCABE / C.Build E FCABE (excludes A B Eng).
+* MICE/FICE (excludes AMICE).
+* FCIOB/MCIOB.
+* MRICS/FRICS.
+* MI Struct Eng / FI Struct Eng.
 
-- New build (ground up, where services have been installed.
-- Detached houses only.
+---
 
-16.3.2 Restrictions
---------------------------------------------------------------------------------
+# 15.13 CUSTOMERS RETAINING EXISTING PROPERTY / RENTING DURING BUILD
 
-- Properties must be for owner occupier use only.
-- Custom build for a second home is not permitted.
-- Properties offering a Retrospective Warranty are unacceptable.
-- Partially completed projects which have changed ownership part way through are unacceptable.
-- The Society will not be the first funder on any one site.
-- The Society reserves the right to restrict lending exposure on the site.
-- Buy back clauses are unacceptable.
-- Investment properties are excluded.
-- Flats, terraced, semi-detached and mews type properties are not acceptable.
+If retaining existing mortgage:
 
-16.4 SPECIALIST ADVISORS
---------------------------------------------------------------------------------
+* Ongoing mortgage payments included at current pay rate for affordability and income multiples.
 
-In addition to the Valuer and Warranty provider the Society will use a Quantity Surveyor to review the applicant's costings and comment on whether the project is feasible. They will provide a written recommendation as to whether to accept or decline the costings which is used in the underwriting process.
+If renting:
 
-16.5 PARTIALLY COMPLETE PROPERTIES/PROJECTS
---------------------------------------------------------------------------------
+* Ongoing rent payments excluded from affordability and income multiples.
 
-Custom Build projects must have services installed at the point of application.
+---
 
-16.6 DURATION OF PROJECT AND TIMESCALES
---------------------------------------------------------------------------------
+# 16 CUSTOM BUILD CRITERIA
 
---- Page 50 ---
+---
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+# 16.1 DEFINITION
 
-Work must commence within 6 months of mortgage completion.
+Custom build is self-build where:
 
-All works must be completed, and a final completion sign off received from the warranty provider within 2 years from the first date of funds are first released.
+* Serviced plots provided by enabling developer.
+* Planning and services installed.
+* Purchasers input into design.
 
-16.7 ACCEPTABLE WARRANTY CERTIFICATION
---------------------------------------------------------------------------------
+---
 
-An acceptable Warranty, provided by one of the following must be in place at the outset of the project. Retrospective warranties are not accepted.
+# 16.2 EXPOSURE LIMITS
 
-- Premier's "Guarantee for New Homes" (minimum warranty term 10 Years)
-- NHBC 'Buildmark' (minimum warranty term 10 years)
-- Self-Build Zone (minimum warranty term 10 years)
-- LABC Warranty (minimum warranty term 10 years)
-- Professional Consultants Certificate (minimum warranty term 6 years)
-- Building Lifeplans Ltd (BLP Allianz Guarantee)
-- Castle 10 (Checkmate)
-- Protek
+* Maximum 20% of properties per site financed by the Society.
+* Full mortgage application must be submitted within 4 weeks of reservation date.
+* Brokers must contact Broker Helpdesk before applying.
 
-16.8 SITE INSURANCE MINIMUM REQUIREMENTS
---------------------------------------------------------------------------------
+---
 
-A copy of the site insurance schedule is required which must include the following:
-- £5 million public liability.
-- £10 million employers' liability.
-- Contract works (for the re-instatement value).
-- Hanley Economic Building Society to be noted as mortgagee.
+# 16.3 PERMITTED LENDING AND RESTRICTIONS
 
-16.9 PLANNING PERMISSION
---------------------------------------------------------------------------------
+## 16.3.1 Permitted Lending
 
-Outline only is required to enable the purchase of the plot.
+* New build (ground up, services installed).
+* Detached houses only.
 
-Outline planning permission should have at least 12 months to run from receipt of the application.
+## 16.3.2 Restrictions
 
-Detailed planning permission should have at least 12 months to run from receipt of the application.
+* Owner occupier use only.
+* Second homes not permitted.
+* Retrospective warranties not acceptable.
+* Partially completed projects with change of ownership not acceptable.
+* Society will not be first funder on site.
+* Society may restrict site exposure.
+* Buy back clauses not acceptable.
+* Investment properties excluded.
+* Flats, terraced, semi-detached and mews properties not acceptable.
 
-16.10 BUILDING REGULATION
---------------------------------------------------------------------------------
+---
 
-Copies of Building Regulations are required. The society does not accept a Builders Notice as suitable approval for the works carried out.
+# 16.4 SPECIALIST ADVISORS
 
-16.11 INTERIM VALUATIONS
---------------------------------------------------------------------------------
+Valuer, Warranty provider and Quantity Surveyor required.
 
-Valuations will be carried out at each stage release.
+Quantity Surveyor will review costings and provide written recommendation.
 
-Stage releases are made in arrears during the construction of the property against a valuation at every stage.
+---
 
-The Society reserves the right to carry out interim valuations at any time during the build.
+# 16.5 PARTIALLY COMPLETE PROJECTS
 
---- Page 51 ---
+Services must be installed at point of application.
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+---
 
-16.12 REPAYMENT TYPES
---------------------------------------------------------------------------------
+# 16.6 DURATION AND TIMESCALES
 
-The mortgage will be set up on an interest only basis for 2 years. After this it will revert to Capital and Interest basis for the remaining term.
+* Work must commence within 6 months.
+* Completion and final warranty sign off required within 2 years from first funds release.
 
-If the project is completed within 2 years, the mortgage product can be reviewed, and the account switched to a repayment basis.
+---
 
-16.13 PROPERTY TYPE
---------------------------------------------------------------------------------
+# 16.7 ACCEPTABLE WARRANTY CERTIFICATION
 
-Detached properties only; Flats, Terraced, Semi Detached and mews type properties are not acceptable.
+Must be in place at outset from one of:
 
-16.14 ACCEPTABLE CERTIFYING PROFESSIONALS
---------------------------------------------------------------------------------
+* Premier "Guarantee for New Homes" (minimum 10 years).
+* NHBC 'Buildmark' (minimum 10 years).
+* Self-Build Zone (minimum 10 years).
+* LABC Warranty (minimum 10 years).
+* Professional Consultants Certificate (minimum 6 years).
+* Building Lifeplans Ltd (BLP Allianz Guarantee).
+* Castle 10 (Checkmate).
+* Protek.
 
-**Professional Qualifications.**
+Retrospective warranties not accepted.
 
-All architects supervising the build must have professional indemnity cover of no less than £1m and one of the qualification below.
+---
 
-| Qualification | Description |
-|--------------|-------------|
-| ARB UK | Architects Registration Board UK (previously known as ARC) |
-| *RIBA/ARIBA/FRIBA<br>*Only acceptable if also registered with the Architect's Registration Board (ARB) | Chartered Member/Associate/Fellow of the Royal Institute of British Architects |
-| MCIAT | Corporate Member of the Chartered Institute of Architectural Technicians |
-| MASI/FASI | Corporate Member/Fellow Member of the Architects and Surveyors Institute (excludes AMSI) |
-| C. Build E MCABE/ C. Build E FCABE | Chartered Member/Chartered Fellow of the Chartered Association of Building Engineers (excludes A B Eng) |
-| MICE/FICE | Member/Fellow of the Chartered Institute of Civil Engineers (Excludes AMICE) |
-| FCIOB/MCIOB | Fellow or Member of the Chartered Institute of Building |
-| MRICS/FRICS | Member or Fellow of the Royal Institute of Chartered Surveyors (RICS) |
-| MI Struct Eng/FI Struct Eng | Chartered Member or Fellow of Institute of Structural Engineers |
+# 16.8 SITE INSURANCE MINIMUM REQUIREMENTS
 
---- Page 52 ---
+Must include:
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+* £5m public liability.
+* £10m employers' liability.
+* Contract works for reinstatement value.
+* Hanley Economic Building Society noted as mortgagee.
 
-16.15 CUSTOMERS RETAINING THEIR EXISTING PROPERTY/RENTING DURING THE BUILD
---------------------------------------------------------------------------------
+---
 
-Where an applicant wishes to retain their current mortgage/renting during the self-build project the following applies:
+# 16.9 PLANNING PERMISSION
 
-- Ongoing mortgage payments will be included, at the current pay rate, for the purpose of affordability and income multiples.
-- Ongoing Rent payments will be excluded from affordability and income multiples.
+* Outline planning required for plot purchase.
+* Must have at least 12 months remaining.
+* Detailed planning must have at least 12 months remaining.
 
-================================================================================
-17 HOME RENOVATION
-================================================================================
+---
 
-For applicants who want to purchase or who have inherited a property which requires refurbishment and/or works which fall within Permitted Development requirements for the local authority planning department. The applicant's intention must be to reside in the property upon completion of the works.
+# 16.10 BUILDING REGULATION
 
-17.1 PERMITTED LENDING
---------------------------------------------------------------------------------
+* Copies required.
+* Builders Notice not acceptable.
 
-- Available on properties built for residential purposes;
-- Extensions or other structural works must fall under Permitted Development for the local planning department i.e. no planning permission required.
+---
 
-17.2 RESTRICTIONS
---------------------------------------------------------------------------------
+# 16.11 INTERIM VALUATIONS
 
-- Properties not built for residential purposes e.g. churches, schools, barns;
+* Valuations at each stage release.
+* Stage releases in arrears.
+* Society may carry out interim valuations at any time.
 
-The Society offers specific self-build products for projects requiring works stated above.
+---
 
-17.3 LOAN TO VALUE (LTV) LIMITS
---------------------------------------------------------------------------------
+# 16.12 REPAYMENT TYPES
 
-Maximum 80% of the current value.
+* Interest only for 2 years.
+* Reverts to Capital and Interest.
+* If completed within 2 years, product may be reviewed and switched.
 
-Repayment method: Interest only for a maximum of two years reverting to capital and interest. If interest only is required for the term of the mortgage the Society's Lending Criteria for this type of borrowing needs to be met.
+---
 
---- Page 53 ---
+# 16.13 PROPERTY TYPE
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+Detached properties only.
 
-17.4 ACCEPTABLE RENOVATIONS
---------------------------------------------------------------------------------
+Flats, terraced, semi-detached and mews properties are not acceptable.
 
-- New kitchen.
-- New bathroom.
-- New flooring.
-- Plastering.
-- Painting and decoration.
-- New windows or doors.
-- Plumbing and rewiring.
-- Damp proofing/insulation.
-- Replacement heating system.
-- Roofing works – including solar panels.
-- Landscaping/drive/garden.
-- Extensions/works falling under Permitted Development.
+---
 
-17.5 DURATION OF THE PROJECT AND TIMESCALES
---------------------------------------------------------------------------------
+# 16.14 ACCEPTABLE CERTIFYING PROFESSIONALS
 
-Works must commence within 3 months of mortgage completion and be completed within 2 years of mortgage completion.
+Architects must:
 
-If works are not completed within 2 years, the Society reserves the right to transfer your mortgage to the Standard Variable Rate (SVR) on a capital & interest basis.
+* Hold professional indemnity cover of at least £1m.
+* Hold one of the approved qualifications listed in Section 15.12.
 
-17.6 STAGE PAYMENTS
---------------------------------------------------------------------------------
+---
 
-Where funds are to be released in stages a revaluation is required, payable by the borrower, to confirm the current value. The total borrowing cannot exceed 80% at any stage.
+# 16.15 CUSTOMERS RETAINING EXISTING PROPERTY / RENTING DURING BUILD
 
-There will be approximately 2 – 3 stage releases.
+* Ongoing mortgage payments included at current pay rate for affordability and income multiples.
+* Ongoing rent payments excluded from affordability and income multiples.
 
---- Page 54 ---
+---
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+# 17 HOME RENOVATION
 
-17.7 AFFORDABILITY – CUSTOMER RETAINING THEIR EXISTING PROPERTY/RENTING DURING THE REFURBISHMENT
---------------------------------------------------------------------------------
+Applies where property requires refurbishment and works under Permitted Development.
 
-Where an applicant wishes to retain their current mortgage/rented property during the refurbishment project the following will apply:
+Applicant must intend to reside in property upon completion.
 
-- Ongoing mortgage payments will be included, at the current pay rate, for the purposes of affordability.
-- Ongoing rent payments will be excluded from affordability.
+---
 
-17.8 SIGN OFF REQUIREMENTS
---------------------------------------------------------------------------------
+# 17.1 PERMITTED LENDING
 
-Guarantees, where available, should be provided for works completed together with Building Regulation approval, where applicable.
+* Properties built for residential purposes.
+* Extensions/structural works under Permitted Development (no planning required).
 
-17.9 WHAT HAPPENS WHEN THE PROJECT IS COMPLETED?
---------------------------------------------------------------------------------
+---
 
-When a project is completed, the product can be reviewed by the Society's Retentions team and, if available, an alternative rate offered. This is subject to the Society receiving a satisfactory valuation to confirm full completion of works together with building regulation approval, where applicable, and guarantees.
+# 17.2 RESTRICTIONS
 
-17.10 PACKAGING REQUIREMENTS
---------------------------------------------------------------------------------
+* Properties not built for residential purposes such as churches, schools, barns.
 
-1. Costings the costings form is available on our website.
-2. For extensions or other structural work, written confirmation from the local planning department that the proposal meets the requirements under Permitted Development.
-3. Reports and estimates for the proposed work. Reports for works such as damp proofing, electrical, roof (replacement/overhaul/solar panels) should be provided up-front where possible or if requested by the valuer.
-4. Submission form. This is available on our website.
+Self-build products apply where appropriate.
 
---- Page 55 ---
+---
 
-Lending Policy Appendix 1: Lending Criteria V2.1
+# 17.3 LOAN TO VALUE (LTV) LIMITS
 
-5. Solicitors to confirm that appropriate insurance is in place.
+Maximum LTV: 80% of current value.
 
-================================================================================
-18 VALUATIONS
-================================================================================
+Repayment method:
 
-The Society will arrange a valuation for all house purchase and remortgage applications. In certain cases, a "desktop" valuation may be utilised. This approach does not require a physical inspection of the property; instead, the valuer relies on sales data and digital tools to determine the property's value.
+* Interest only for maximum 2 years.
+* Reverts to Capital and Interest.
+* If interest only required for full term, standard lending criteria must be met.
 
-The use of desktop valuations is at the Society's discretion, and there may be circumstances where this method is not appropriate. If, after instruction, the valuer deems a desktop valuation unsuitable, they will recommend a physical inspection of the property.
+---
 
-For remortgage applications, where the property has recently undergone substantial alterations/home improvements you should include a note on the application so that a physical valuation can be obtained.
+# 17.4 ACCEPTABLE RENOVATIONS
 
-DESKTOP VALUATION
---------------------------------------------------------------------------------
+* New kitchen.
+* New bathroom.
+* New flooring.
+* Plastering.
+* Painting and decoration.
+* New windows or doors.
+* Plumbing and rewiring.
+* Damp proofing / insulation.
+* Replacement heating system.
+* Roofing works including solar panels.
+* Landscaping / drive / garden.
+* Extensions under Permitted Development.
 
-The Society will typically use a desktop valuation in the following scenarios:
+---
 
-- Application type: Remortgage applications
-- Loan-to-Value (LTV): Up to 70%
-- Property value: Not exceeding £750,000
+# 17.5 DURATION AND TIMESCALES
 
-**Exclusions (Out of Scope):** Desktop valuations are not suitable for the following property types:
+* Work must commence within 3 months of completion.
+* Must be completed within 2 years.
 
-- Flats or maisonettes
-- New builds or properties constructed in the last 24 months
-- Self-build properties
-- Shared ownership properties
-- Listed buildings
-- Converted properties, including barn conversions
-- Properties with land exceeding 1 acre
-- Non-standard construction
-- Ex-local authority properties
-- Properties requiring modernization or refurbishment
-- Properties with no online visibility on Rightmove
-- Properties located above or adjacent to commercial premises
-- Properties built using Modern Methods of Construction (MMC)
+If not completed within 2 years:
+
+* Society may transfer mortgage to SVR on Capital and Interest basis.
+
+---
+
+# 17.6 STAGE PAYMENTS
+
+* Revaluation required at each stage.
+* Borrower pays.
+* Total borrowing must not exceed 80% at any stage.
+* Approximately 2–3 stage releases.
+
+---
+
+# 17.7 AFFORDABILITY – RETAINING PROPERTY / RENTING
+
+If retaining mortgage:
+
+* Ongoing mortgage payments included at current pay rate.
+
+If renting:
+
+* Ongoing rent payments excluded.
+
+---
+
+# 17.8 SIGN OFF REQUIREMENTS
+
+* Guarantees where available.
+* Building Regulation approval where applicable.
+
+---
+
+# 17.9 PROJECT COMPLETION
+
+Upon completion:
+
+* Product may be reviewed.
+* Alternative rate may be offered.
+* Subject to satisfactory valuation.
+* Building Regulation approval and guarantees required.
+
+---
+
+# 17.10 PACKAGING REQUIREMENTS
+
+Required:
+
+1. Costings form.
+2. Written confirmation from local planning department for Permitted Development.
+3. Reports and estimates for works.
+4. Submission form.
+5. Solicitor confirmation of appropriate insurance.
+
+---
+
+# 18 VALUATIONS
+
+The Society will arrange a valuation for all purchase and remortgage applications.
+
+Desktop valuations may be used at the Society's discretion.
+
+If desktop deemed unsuitable:
+
+* Physical inspection required.
+
+For remortgages with substantial alterations:
+
+* Note must be included to request physical valuation.
+
+---
+
+# DESKTOP VALUATION
+
+Typically used where:
+
+* Remortgage application.
+* LTV up to 70%.
+* Property value not exceeding £750,000.
+
+## Not Suitable For:
+
+* Flats or maisonettes.
+* New builds or properties built within last 24 months.
+* Self-build properties.
+* Shared ownership properties.
+* Listed buildings.
+* Converted properties including barn conversions.
+* Properties with land exceeding 1 acre.
+* Non-standard construction.
+* Ex-local authority properties.
+* Properties requiring modernization or refurbishment.
+* Properties with no online visibility on Rightmove.
+* Properties above or adjacent to commercial premises.
+* Properties built using Modern Methods of Construction (MMC).

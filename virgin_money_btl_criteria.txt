@@ -1,49 +1,19 @@
-LENDER NAME: Virgin Money
-PRODUCT: Buy to Let
-
-# Virgin Money Buy-to-Let Lending Criteria
-
-**Last Updated:** September 2025  
-**Source:** [Virgin Money Intermediaries Buy-to-Let Criteria](https://intermediaries.virginmoney.com/lending-criteria/buy-to-let/)  
-**For Intermediaries Only**
+# VIRGIN MONEY – BTL LENDING CRITERIA
 
 ---
 
-## Document Information
-
-This document contains comprehensive buy-to-let lending criteria for Virgin Money. This information is for intermediary use only and its contents should not be distributed to members of the general public.
-
-**Contact Information:**
-- Website: https://intermediaries.virginmoney.com/lending-criteria/buy-to-let/
-- Product Guide: [Download PDF](https://intermediaries.virginmoney.com/downloads/pdf/product_guide.pdf)
-- Affordability Calculator: [BTL Affordability Calculator](https://intermediaries.virginmoney.com/affordability-calculator/)
-- Packaging Requirements: [View Packaging Requirements](https://intermediaries.virginmoney.com/packaging-requirements/)
-- Retrofit Boost: [Retrofit Boost Mortgage Information](https://intermediaries.virginmoney.com/retrofit-boost-mortgage/)
-- Useful Downloads: [View All Downloads](https://intermediaries.virginmoney.com/useful-downloads/)
+**LENDER:** Virgin Money
+**PRODUCT:** Buy to Let
+**DOCUMENT TYPE:** BTL Lending Criteria Guide
+**LAST UPDATED:** September 2025
+**SOURCE:** [Virgin Money Intermediaries BTL Criteria](https://intermediaries.virginmoney.com/lending-criteria/buy-to-let/)
+**FOR INTERMEDIARY USE ONLY**
 
 ---
 
-## Table of Contents
+## Links
 
-A - [Adverse credit](#adverse-credit) | [Affordability types](#affordability-types) | [Age](#age) | [Applicants](#applicants) | [Assignable contracts](#assignable-contracts)  
-B - [Back to back transactions](#back-to-back-transactions) | [Background buy-to-lets](#background-buy-to-lets) | [Bank statements](#bank-statements) | [Bonus and variable income](#bonus-and-variable-income)  
-C - [Capital raising](#capital-raising) | [Cladding](#cladding) | [Consumer buy-to-let](#consumer-buy-to-let) | [Contractors](#contractors)  
-D - [Debt consolidation](#debt-consolidation) | [Deposit](#deposit) | [Discounted purchase](#discounted-purchase)  
-E - [Energy Performance Certificate (EPC)](#energy-performance-certificate-epc) | [Existing customers - additional borrowing](#existing-customers---additional-borrowing) | [Existing customers - consent to reside](#existing-customers---consent-to-reside) | [Existing customers - overpayments or lump sum payments](#existing-customers---overpayments-or-lump-sum-payments) | [Existing customers - porting](#existing-customers---porting) | [Existing customers - product transfer](#existing-customers---product-transfer) | [Ex-pats](#ex-pats)  
-F - [First time buyers](#first-time-buyers) | [Flats](#flats) | [Foreign currency](#foreign-currency) | [Foreign nationals](#foreign-nationals) | [Foster carers](#foster-carers)  
-G - [Greener mortgages](#greener-mortgages) | [Guarantors](#guarantors)  
-H - [HMOs](#hmos)  
-I - [Income](#income) | [Interest only](#interest-only)  
-J - [Joint borrower sole owner](#joint-borrower-sole-owner)  
-L - [Leasehold](#leasehold) | [Lending into retirement](#lending-into-retirement) | [Lending limits](#lending-limits) | [Let-to-buy](#let-to-buy) | [Loan purpose](#loan-purpose) | [Loan size](#loan-size)  
-M - [Maximum LTV](#maximum-ltv) | [Minimum income](#minimum-income) | [Multi unit freehold blocks (MUFBs)](#multi-unit-freehold-blocks-mufbs)  
-N - [New build](#new-build) | [Non-advised](#non-advised)  
-O - [Offers](#offers)  
-P - [Parental leave](#parental-leave) | [Portfolio landlords](#portfolio-landlords) | [Probation](#probation) | [Product fees](#product-fees) | [Professional sportsperson or entertainer](#professional-sportsperson-or-entertainer) | [Promotion or pay rise](#promotion-or-pay-rise) | [Property](#property)  
-R - [Regulated BTL](#regulated-btl) | [Remortgage package](#remortgage-package) | [Rental cover](#rental-cover) | [Replacement property](#replacement-property) | [Residency](#residency) | [Retrofit Boost](#retrofit-boost)  
-S - [Self employed](#self-employed) | [Student lettings](#student-lettings)  
-T - [Tenancy](#tenancy) | [Term](#term) | [Top Slicing](#top-slicing) | [Transcripts](#transcripts)  
-V - [Valuation fees](#valuation-fees)
+* [BTL Criteria](https://intermediaries.virginmoney.com/lending-criteria/buy-to-let/) | [Product Guide PDF](https://intermediaries.virginmoney.com/downloads/pdf/product_guide.pdf) | [Affordability Calculator](https://intermediaries.virginmoney.com/affordability-calculator/) | [Packaging Requirements](https://intermediaries.virginmoney.com/packaging-requirements/) | [Retrofit Boost](https://intermediaries.virginmoney.com/retrofit-boost-mortgage/) | [Downloads](https://intermediaries.virginmoney.com/useful-downloads/)
 
 ---
 
@@ -169,10 +139,10 @@ We accept 100% of contractually guaranteed income from a customer's primary empl
 
 We accept 60% of variable income that's regular and reliable. For example, bonus, commission or overtime.
 
-| Variable pay frequency | Income used |
-|---|---|
-| Monthly or more regular | 60% of the lowest of the last 2 months. If the year to date figure is lower, we'll use 60% of the variable pay showing in the YTD. |
-| Annual, Half-yearly, Quarterly | 60% of the most recent year. If the total variable pay is more than basic pay, we use 60% of the 2 year average, or more recent if lower. |
+**Variable pay frequency – income used:**
+
+* **Monthly or more regular:** 60% of the lowest of the last 2 months. If the year to date figure is lower, we use 60% of the variable pay showing in the YTD.
+* **Annual, half-yearly, quarterly:** 60% of the most recent year. If the total variable pay is more than basic pay, we use 60% of the 2 year average, or more recent if lower.
 
 Exceptionally, we may be able to use up to 75% of variable income where a 3 year track record of stability is held (2 years if monthly or more regular). This must be agreed with us before applying.
 
@@ -819,18 +789,13 @@ Under a rental cover assessment, the rental income must cover the mortgage payme
 
 **ICR**
 
-| ICR | Remortgage with no additional borrowing | Purchase or remortgage with additional borrowing |
-|---|---|---|
-| Basic rate taxpayers | 125% | 125% |
-| Higher or additional rate taxpayers | | 145% |
+* **Basic rate taxpayers:** Remortgage with no additional borrowing 125%; Purchase or remortgage with additional borrowing 125%.
+* **Higher or additional rate taxpayers:** Remortgage with no additional borrowing – not applicable; Purchase or remortgage with additional borrowing 145%.
 
-**Stress Rate**
+**Stress rate**
 
-| Stress Rate | Remortgage with no additional borrowing | Purchase or remortgage with additional borrowing |
-|---|---|---|
-| | Basic rate taxpayers | Higher or additional rate taxpayers | All tax bands |
-| <5 year fixed or variable rate | The higher of 5% or pay rate + 1% | The higher of 5.5% or pay rate + 2% | |
-| 5+ year fixed rate | The higher of 4.5% or pay rate + 1% | The higher of 5% or pay rate + 1% | The higher of 4.5% or pay rate + 1% |
+* **Under 5 year fixed or variable rate:** Remortgage no additional borrowing – basic rate: higher of 5% or pay rate + 1%; higher/additional rate: higher of 5.5% or pay rate + 2%.
+* **5+ year fixed rate:** Remortgage no additional borrowing – basic rate: higher of 4.5% or pay rate + 1%; higher/additional rate: higher of 5% or pay rate + 1%. All tax bands: higher of 4.5% or pay rate + 1%.
 
 These apply to the property being mortgaged. You might also want to check our criteria on [Background BTLs](https://intermediaries.virginmoney.com/lending-criteria/buy-to-let/background-buy-to-lets/).
 
@@ -967,18 +932,22 @@ The only valuation type available is a lender's valuation report which is for Vi
 ### Fees
 The fees below include VAT and an administration fee. The cost to Virgin Money may differ from the fee charged. Our product details will make clear if a free valuation applies. We may also charge a reinspection fee of £56 where a valuation expires and needs to be updated or where work has been carried out and the valuation needs to be updated.
 
-| Valuation | Fee (£) |
-|---|---|
-| Up to £60,000 | 112 |
-| £60,001 - £100,000 | 132 |
-| £100,001 - £150,000 | 163 |
-| £150,001 - £200,000 | 188 |
-| £200,001 - £250,000 | 214 |
-| £250,001 - £500,000 | 275 |
-| £500,001 - £750,000 | 331 |
-| £750,001 - £1,000,000 | 377 |
-| £1,000,001 - £1,500,000 | 510 |
-| £1,500,001 - £2,000,000 | 663 |
-| £2,000,001 - £2,500,000 | 817 |
-| £2,500,001 - £3,000,000 | 970 |
-| Over £3,000,000 | Quoted individually |
+# VALUATION FEE BANDS (£)
+
+Up to £60,000: £112
+£60,001 – £100,000: £132
+£100,001 – £150,000: £163
+£150,001 – £200,000: £188
+£200,001 – £250,000: £214
+£250,001 – £500,000: £275
+£500,001 – £750,000: £331
+£750,001 – £1,000,000: £377
+£1,000,001 – £1,500,000: £510
+£1,500,001 – £2,000,000: £663
+£2,000,001 – £2,500,000: £817
+£2,500,001 – £3,000,000: £970
+Over £3,000,000: Quoted individually
+
+---
+
+# END OF DOCUMENT

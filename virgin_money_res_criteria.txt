@@ -1,89 +1,19 @@
-LENDER NAME: Virgin Money
-PRODUCT: Residential
-
-# Virgin Money Residential Lending Criteria - Complete Guide
-
-**Last Updated:** September 2025  
-**Source:** Virgin Money Intermediaries Website  
-**For Intermediaries Only**
+# VIRGIN MONEY – RESIDENTIAL LENDING CRITERIA
 
 ---
 
-## Document Information
-
-This site is just for mortgage brokers.
-
-**Website:** https://intermediaries.virginmoney.com/lending-criteria/residential/
-
-**Contact Information:**
-- Phone: 0345 601 0680
-- Website: https://intermediaries.virginmoney.com/
+**LENDER:** Virgin Money
+**PRODUCT:** Residential
+**DOCUMENT TYPE:** Residential Lending Criteria Guide
+**LAST UPDATED:** September 2025
+**SOURCE:** [Virgin Money Intermediaries](https://intermediaries.virginmoney.com/lending-criteria/residential/)
+**FOR INTERMEDIARY USE ONLY**
 
 ---
 
-## Table of Contents
+## Links
 
-This guide contains 66 criteria policies organized alphabetically:
-
-1. Adverse credit
-2. Age
-3. Applicants
-4. Assignable contracts
-5. Back to back transactions
-6. Bank statements
-7. Bonus and variable income
-8. Capital raising
-9. Cladding
-10. Contractors
-11. Debt consolidation
-12. Deposit
-13. Discounted purchase
-14. Execution only
-15. Existing customers - additional borrowing
-16. Existing customers - consent to let
-17. Existing customers - overpayments and lump sum payments
-18. Existing customers - porting
-19. Existing customers - product transfer
-20. Ex-pats
-21. First time buyers
-22. Flats
-23. Forces Help to Buy
-24. Foreign currency
-25. Foreign nationals
-26. Foster carers
-27. Greener mortgages
-28. Guarantors
-29. Help to Buy
-30. Income
-31. Income multiples
-32. Interest only
-33. Joint borrower sole owner
-34. Leasehold
-35. Lending into retirement
-36. Let-to-buy
-37. Loan purpose
-38. Loan size
-39. Maximum LTV
-40. New build
-41. Offers
-42. Parental leave
-43. Probation
-44. Product fees
-45. Professional product
-46. Professional sportsperson or entertainer
-47. Promotion or pay rise
-48. Property
-49. Remortgage package
-50. Replacement property
-51. Residency
-52. Retrofit Boost
-53. Right to Buy
-54. Second home
-55. Self employed
-56. Shared ownership
-57. Term
-58. Transcripts
-59. Valuation fees
+* [Residential criteria](https://intermediaries.virginmoney.com/lending-criteria/residential/) | **Phone:** 0345 601 0680 | [Intermediaries](https://intermediaries.virginmoney.com/)
 
 ---
 
@@ -729,18 +659,38 @@ Some of our products will have a minimum loan size and/or a different maximum lo
 
 ---
 
-## Maximum LTV
+# MAXIMUM LTV
 
-### Maximum LTV by Property Value
+## Maximum LTV by Property Value
 
-| Property Value | Full Capital and Interest | Interest Only | Part and Part |
-|---|---|---|---|
-| Up to £600,000 | 95% | 75% | 85% |
-| £600,001 - £750,000 | 85% | - | - |
-| £750,001 - £1,250,000 | 80% | 80% | - |
-| Over £1,250,000 | 75% | 75% | - |
+Up to £600,000:
 
-- Maximum loan size £1m
+* Capital and Interest: 95%
+* Interest Only: 75%
+* Part and Part: 85%
+
+£600,001 – £750,000:
+
+* Capital and Interest: 85%
+* Interest Only: Not available
+* Part and Part: Not available
+
+£750,001 – £1,250,000:
+
+* Capital and Interest: 80%
+* Interest Only: 80%
+* Part and Part: Not available
+
+Over £1,250,000:
+
+* Capital and Interest: 75%
+* Interest Only: 75%
+* Part and Part: Not available
+
+Notes:
+
+* Maximum loan size: £1,000,000
+
 - Full capital and interest shows the maximum LTV where the whole of the mortgage is on capital and interest
 - Interest only shows the maximum LTV for the amount of the mortgage being placed on interest only
 - Part and part shows the maximum total LTV for the mortgage where capital and interest is used to top up the LTV above the maximum LTV on interest only
@@ -1095,26 +1045,30 @@ The fees below include VAT and an administration fee. The cost to Virgin Money m
 
 We may also charge a reinspection fee of £56 where a valuation expires and needs to be updated or where work has been carried out and the valuation needs to be updated.
 
-| Valuation | Fee (£) |
-|---|---|
-| Up to £60,000 | 112 |
-| £60,001 - £100,000 | 132 |
-| £100,001 - £150,000 | 163 |
-| £150,001 - £200,000 | 188 |
-| £200,001 - £250,000 | 214 |
-| £250,001 - £500,000 | 275 |
-| £500,001 - £750,000 | 331 |
-| £750,001 - £1,000,000 | 377 |
-| £1,000,001 - £1,500,000 | 510 |
-| £1,500,001 - £2,000,000 | 663 |
-| £2,000,001 - £2,500,000 | 817 |
-| £2,500,001 - £3,000,000 | 970 |
-| Over £3,000,000 | Quoted individually |
+# VALUATION FEE BANDS (£)
+
+Up to £60,000: £112
+£60,001 – £100,000: £132
+£100,001 – £150,000: £163
+£150,001 – £200,000: £188
+£200,001 – £250,000: £214
+£250,001 – £500,000: £275
+£500,001 – £750,000: £331
+£750,001 – £1,000,000: £377
+£1,000,001 – £1,500,000: £510
+£1,500,001 – £2,000,000: £663
+£2,000,001 – £2,500,000: £817
+£2,500,001 – £3,000,000: £970
+Over £3,000,000: Quoted individually
 
 View [transcripts criteria](https://intermediaries.virginmoney.com/lending-criteria/residential/transcripts/).
 
 ---
 
-**Source:** https://intermediaries.virginmoney.com/lending-criteria/residential/
+# CONTACT
 
-**Contact:** Phone: 0345 601 0680 | Website: https://intermediaries.virginmoney.com/
+**Phone:** 0345 601 0680 | **Website:** https://intermediaries.virginmoney.com/
+
+---
+
+# END OF DOCUMENT

@@ -1,11 +1,14 @@
-LENDER NAME: Westbrom
-PRODUCT: Residential
+# WEST BROM – RESIDENTIAL LENDING CRITERIA
 
-# Lending and Security Guidelines 
+---
 
-## Intermediary Use Only
+**LENDER:** West Brom
+**PRODUCT:** Residential
+**DOCUMENT TYPE:** Lending and Security Guidelines
+**LAST UPDATED:** October 2025
+**FOR INTERMEDIARY USE ONLY**
 
-Last updated: October 2025
+---
 
 This document provides guidance for mortgage intermediaries on the areas the West Brom will consider as part of its mortgage underwriting processes.
 
@@ -1031,18 +1034,17 @@ Prefabricated concrete properties will be considered where:
 Oak Frame
 - Consideration on an individual basis with support from Residential Surveying Panel Manager
 
-# Definitions
+# DEFINITIONS
 
-| ADV | : | Advance |
-| --- | --- | --- |
-| BTL | : | Buy to Let |
-| CAIS | : | Credit Account Information Sharing |
-| CCJ | : | County Court Judgment |
-| CII | : | Consumer Indebtedness Index |
-| COMM | : | Commission |
-| KFI | : | Key Facts Illustration |
-| LTV | : | Loan to Value |
-| RMC | : | Regulated Mortgage Contract |
+ADV: Advance
+BTL: Buy to Let
+CAIS: Credit Account Information Sharing
+CCJ: County Court Judgment
+CII: Consumer Indebtedness Index
+COMM: Commission
+KFI: Key Facts Illustration
+LTV: Loan to Value
+RMC: Regulated Mortgage Contract
 
 ---
 

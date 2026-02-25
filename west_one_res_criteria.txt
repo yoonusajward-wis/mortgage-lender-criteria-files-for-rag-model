@@ -1,11 +1,13 @@
-LENDER NAME: West One
-PRODUCT: Residential
+# WEST ONE – RESIDENTIAL LENDING CRITERIA
 
-# West One Residential Mortgages - Complete Criteria Guide
+---
 
-**Last Updated:** September 2025  
-**Source:** West One Residential Mortgages Product Guide & Website  
-**For Intermediaries Only**
+**LENDER:** West One
+**PRODUCT:** Residential
+**DOCUMENT TYPE:** Residential Mortgages Criteria Guide
+**LAST UPDATED:** September 2025
+**SOURCE:** West One Residential Mortgages Product Guide & Website
+**FOR INTERMEDIARY USE ONLY**
 
 ---
 
@@ -516,21 +518,133 @@ West One offers the following product tiers:
 
 ---
 
-## Credit Tiers Comparison Table
+# CREDIT TIERS – COMPARISON
 
-| Credit Issue | Premier | Platinum | Prime Plus | Prime | Near Prime | Right to Buy | Shared Ownership |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Satisfied Defaults** | 0 > £500 in 36 months | 0 > £500 in 24 months | 0 > £500 in 12 months | Accepted | Accepted | 0 > £500 in 12 months | 0 > £500 in 12 months |
-| **Unsatisfied Defaults** | 0 > £500 in 36 months | 0 > £500 in 24 months | 0 > £500 in 12 months | 0 > £500 in 6 months | 1 > £500 in 12 months | 0 > £500 in 12 months | 0 > £500 in 12 months |
-| **Satisfied CCJs** | 0 > £500 in 36 months | 0 > £500 in 24 months | 0 > £500 in 12 months | Accepted | Accepted | 0 > £500 in 12 months | 0 > £500 in 12 months |
-| **Unsatisfied CCJs** | 0 > £500 in 36 months | 0 > £500 in 24 months | 0 > £500 in 12 months | 0 > £500 in 6 months | 1 > £500 in 12 months | 0 > £500 in 12 months | 0 > £500 in 12 months |
-| **Max CCJ Value** | £5,000 | Over £5,000 by referral | Over £7,500 by referral | Not applicable | Not applicable | Over £7,500 by referral | Over £7,500 by referral |
-| **Secured Arrears** | 0 in 36 months and up to date | 0 in 24 months and up to date | 0 in 12 months and up to date | 1 in 12, none in 6 months | 1 in 12, none in 3 months | 0 in 12 months and up to date | 0 in 12 months and up to date |
-| **Unsecured Arrears** | 1 in 12 months > £500 and up to date | 2 in 12 months > £500 and up to date | Accepted when being cleared by the mortgage | Accepted when being cleared by the mortgage | Accepted | Accepted if up to date | Accepted if up to date |
-| **Payday / High Interest / Short Term Loans** | 0 in 36 months | 0 in 24 months | 0 in 12 months | 0 in 6 months | 0 in 3 months | 0 in 12 months | 0 in 12 months |
-| **Discharged DMPs** | 0 in 72 months | 0 in 72 months | 0 in 72 months | 0 in 36 months | Accepted with satisfactory explanation | 0 in 72 months | 0 in 72 months |
-| **Current DMPs** | Not accepted | Not accepted | Not accepted | Not accepted | Accepted if discharged from mortgage proceeds | Not accepted | Not accepted |
-| **Bankruptcies/IVAs** | 0 in 72 months | 0 in 72 months | 0 in 72 months | 0 in 72 months | 0 in 72 months | 0 in 72 months | 0 in 72 months |
+---
+
+## Satisfied Defaults
+
+Premier: No defaults over £500 within last 36 months
+Platinum: No defaults over £500 within last 24 months
+Prime Plus: No defaults over £500 within last 12 months
+Prime: Accepted
+Near Prime: Accepted
+Right to Buy: No defaults over £500 within last 12 months
+Shared Ownership: No defaults over £500 within last 12 months
+
+---
+
+## Unsatisfied Defaults
+
+Premier: No defaults over £500 within last 36 months
+Platinum: No defaults over £500 within last 24 months
+Prime Plus: No defaults over £500 within last 12 months
+Prime: No defaults over £500 within last 6 months
+Near Prime: Maximum 1 default over £500 within last 12 months
+Right to Buy: No defaults over £500 within last 12 months
+Shared Ownership: No defaults over £500 within last 12 months
+
+---
+
+## Satisfied CCJs
+
+Premier: No CCJs over £500 within last 36 months
+Platinum: No CCJs over £500 within last 24 months
+Prime Plus: No CCJs over £500 within last 12 months
+Prime: Accepted
+Near Prime: Accepted
+Right to Buy: No CCJs over £500 within last 12 months
+Shared Ownership: No CCJs over £500 within last 12 months
+
+---
+
+## Unsatisfied CCJs
+
+Premier: No CCJs over £500 within last 36 months
+Platinum: No CCJs over £500 within last 24 months
+Prime Plus: No CCJs over £500 within last 12 months
+Prime: No CCJs over £500 within last 6 months
+Near Prime: Maximum 1 CCJ over £500 within last 12 months
+Right to Buy: No CCJs over £500 within last 12 months
+Shared Ownership: No CCJs over £500 within last 12 months
+
+---
+
+## Maximum CCJ Value
+
+Premier: £5,000
+Platinum: Over £5,000 by referral
+Prime Plus: Over £7,500 by referral
+Prime: Not applicable
+Near Prime: Not applicable
+Right to Buy: Over £7,500 by referral
+Shared Ownership: Over £7,500 by referral
+
+---
+
+## Secured Arrears
+
+Premier: None in last 36 months and must be up to date
+Platinum: None in last 24 months and must be up to date
+Prime Plus: None in last 12 months and must be up to date
+Prime: Maximum 1 in last 12 months, none in last 6 months
+Near Prime: Maximum 1 in last 12 months, none in last 3 months
+Right to Buy: None in last 12 months and must be up to date
+Shared Ownership: None in last 12 months and must be up to date
+
+---
+
+## Unsecured Arrears
+
+Premier: Maximum 1 in last 12 months over £500 and must be up to date
+Platinum: Maximum 2 in last 12 months over £500 and must be up to date
+Prime Plus: Accepted when being cleared by the mortgage
+Prime: Accepted when being cleared by the mortgage
+Near Prime: Accepted
+Right to Buy: Accepted if up to date
+Shared Ownership: Accepted if up to date
+
+---
+
+## Payday / High Interest / Short Term Loans
+
+Premier: None in last 36 months
+Platinum: None in last 24 months
+Prime Plus: None in last 12 months
+Prime: None in last 6 months
+Near Prime: None in last 3 months
+Right to Buy: None in last 12 months
+Shared Ownership: None in last 12 months
+
+---
+
+## Discharged DMPs
+
+Premier: None in last 72 months
+Platinum: None in last 72 months
+Prime Plus: None in last 72 months
+Prime: None in last 36 months
+Near Prime: Accepted with satisfactory explanation
+Right to Buy: None in last 72 months
+Shared Ownership: None in last 72 months
+
+---
+
+## Current DMPs
+
+Premier: Not accepted
+Platinum: Not accepted
+Prime Plus: Not accepted
+Prime: Not accepted
+Near Prime: Accepted if discharged from mortgage proceeds
+Right to Buy: Not accepted
+Shared Ownership: Not accepted
+
+---
+
+## Bankruptcies / IVAs
+
+All tiers: None within last 72 months.
 
 ---
 
