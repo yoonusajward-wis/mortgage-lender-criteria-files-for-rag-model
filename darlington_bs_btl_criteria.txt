@@ -1,377 +1,360 @@
-LENDER NAME: Darlington Building Society
-PRODUCT: Buy to Let
+# DARLINGTON BUILDING SOCIETY – BUY TO LET CRITERIA
 
-================================================================================
-DARLINGTON BUILDING SOCIETY - BUY TO LET CRITERIA
-================================================================================
+---
 
-SUMMARY
-----------------------------------------
-Total Sections: 43
-Total Tables: 3
-Content Length: 36,196 characters
+**LENDER:** Darlington Building Society
+**PRODUCT:** Buy to Let
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 2025
+**FOR INTERMEDIARY USE ONLY**
 
-TABLE OF CONTENTS
-----------------------------------------
- 1. Acceptable Deposits
- 2. Age
- 3. Applicants (Number)
- 4. Credit
- 5. Debt Consolidation
- 6. EEA Nationals
- 7. Employment types
- 8. Expat (British National)
- 9. Expat BTL
-10. Expat Holiday Let
-11. First Time Buyer/Landlord
-12. Flats
-13. Foreign Currency
-14. Foster Care Income
-15. Geographic Area
-16. Holiday Let
-17. Income – Employed/Self-Employed
-18. Income – Other
-19. Intereset Only repayment strategies
-20. Interest Only
-21. Locum/Bank work
-22. LTVs & Maximum Loan Amounts
-23. Maintenance Income
-24. Maternity Pay
-25. Mortgage Term
-26. New Build
-27. Offers
-28. Portfolio Landlords
-29. Probationary Period
-30. Relative of a customer
-31. Repayment Types
-32. Residency
-33. Self Build
-34. Self Employed
-35. Sitting Tenant
-36. Tenure – Common Hold
-37. Tenure – Freehold House
-38. Tenure – Leasehold Flats
-39. Tenure – Leasehold House
-40. Tenure – Outright or Absolute
-41. Tenure – Tyneside Flats
-42. Visas
-43. Warranty
+**Source:** [Buy to Let – intermediaries](https://www.darlington.co.uk/darlington-intermediaries/products/buy-to-let/)
 
-CRITERIA SECTIONS
-================================================================================
+---
 
-SECTION: ACCEPTABLE DEPOSITS
-------------------------------------------------------------
+## SECTION 1 – ACCEPTABLE DEPOSITS
+
 Savings and Investment. Inheritance (that has already been received by the applicant or funds already held by the solicitor). Builder’s deposit (New Build only and not available for shared ownership mortgages) – subject to confirmation by the valuer. Builder’s incentives (New Build Only) – If incentives are greater than 5% of the purchase price/ valuation (whichever is lower), must be deducted from the purchase price/ valuation when calculating the maximum amount DBS will lend. This will be subject to confirmation by the valuer. Gifted deposit (blood relative, step-parent, child, spouse, guardian or partner). Where a person(s) gifting the deposit intends on residing in the property then they must seek Independent Legal Advise (ILA) prior to any mortgage offer. The donor must be living in the UK. Equity from sale of another property owned. Deposit raised from another property owned. HTB government loan – up to 20% of purchase price/ valuation price. For BTL applications, gift may only be from Landlord or family (As defined above) Deposits coming from abroad can be considered on an individual basis. The deposit funds must be paid into the applicants UK bank and be evidenced for at least 28 days account and we must be able to evidence a trail of the funds from the overseas account. *Applicant must provide a minimum deposit of 5% from their own resources (excluding Right to Buy and gifted deposit) and will be subject to MIG approval in this instance. Where personal contributions are less than 5% then LTV will be restricted to 80%.
 
-Age The minimum age is 21. There is no maximum age.
+## SECTION 2 – AGE
 
-SECTION: AGE
-------------------------------------------------------------
 The minimum age is 21. There is no maximum age.
 
-Applicants (Number) The maximum number of applicants per application is 4.
+---
 
-SECTION: APPLICANTS (NUMBER)
-------------------------------------------------------------
+## SECTION 3 – APPLICANTS (NUMBER)
+
 The maximum number of applicants per application is 4.
 
-Credit Standard Credit applies
+---
 
-SECTION: CREDIT
-------------------------------------------------------------
+## SECTION 4 – CREDIT
+
 Standard Credit applies
 
-Debt Consolidation Not available for Buy To Let or Holiday Let.
+---
 
-SECTION: DEBT CONSOLIDATION
-------------------------------------------------------------
+## SECTION 5 – DEBT CONSOLIDATION
+
 Not available for Buy To Let or Holiday Let.
 
-EEA Nationals Subject to normal affordability and other criteria in this Policy being satisfied, the Society would be willing to provide a mortgage, providing they are residents in the UK.
+---
 
-SECTION: EEA NATIONALS
-------------------------------------------------------------
+## SECTION 6 – EEA NATIONALS
+
 Subject to normal affordability and other criteria in this Policy being satisfied, the Society would be willing to provide a mortgage, providing they are residents in the UK.
 
-Employment types The society will consider applications from: • Full/part/term time employed • Contractors • Self employed • Directors • Some benefit income • Retired • Stipend income* Bursary* • Zero Hours Contract** *The society will only consider Stipend and Bursary income where there is another source of income to support (Must be a minimum of 6 months in role) or a secondary customer to support the mortgage application. ** The society will only consider Zero Hours Contract where there is another source of income to support (Must be a minimum of 12 months) or a secondary customer to support the mortgage application
+---
 
-SECTION: EMPLOYMENT TYPES
-------------------------------------------------------------
-The society will consider applications from: • Full/part/term time employed • Contractors • Self employed • Directors • Some benefit income • Retired • Stipend income* Bursary* • Zero Hours Contract** *The society will only consider Stipend and Bursary income where there is another source of income to support (Must be a minimum of 6 months in role) or a secondary customer to support the mortgage application. ** The society will only consider Zero Hours Contract where there is another source of income to support (Must be a minimum of 12 months) or a secondary customer to support the mortgage application
+## SECTION 7 – EMPLOYMENT TYPES
 
-Expat (British National) Applicants will be considered against the criteria outlined below: •Joint applications – All applicants must be British nationals (If 1 applicant is going to be residing in the property this is not considered to be an Expat mortgage and will be considered as a Foreign Currency mortgage). •For purchase or re-mortgage of a UK property. •There is no minimum time in role required however Underwriters will assess areas such as tenure in sector, any probationary periods as per probation policy along with overall case characteristics •Available for self-employed applicants subject to accountants reference and 2yrs accounts. The acceptable accountants are: Baker Tilly International BDO Crowe Horwath International Deloitte Ernst & Young Grant Thornton International HLB International KPMG International PKF International Pricewaterhouse Cooper UHY International •Minimum loan amount of £25,000 within local operating area and £50,000 outside of this •Minimum age of 21 years old. •Currency – Please refer to foreign currency policy. •Must have an active UK bank account. •Must have UK correspondence address. •Must have permanent rights to reside. •Not available for Shared Ownership applications.
+The society will consider applications from: * Full/part/term time employed * Contractors * Self employed * Directors * Some benefit income * Retired * Stipend income* Bursary* * Zero Hours Contract** *The society will only consider Stipend and Bursary income where there is another source of income to support (Must be a minimum of 6 months in role) or a secondary customer to support the mortgage application. ** The society will only consider Zero Hours Contract where there is another source of income to support (Must be a minimum of 12 months) or a secondary customer to support the mortgage application
 
-SECTION: EXPAT (BRITISH NATIONAL)
-------------------------------------------------------------
-Applicants will be considered against the criteria outlined below: •Joint applications – All applicants must be British nationals (If 1 applicant is going to be residing in the property this is not considered to be an Expat mortgage and will be considered as a Foreign Currency mortgage). •For purchase or re-mortgage of a UK property. •There is no minimum time in role required however Underwriters will assess areas such as tenure in sector, any probationary periods as per probation policy along with overall case characteristics •Available for self-employed applicants subject to accountants reference and 2yrs accounts. The acceptable accountants are: Baker Tilly International BDO Crowe Horwath International Deloitte Ernst & Young Grant Thornton International HLB International KPMG International PKF International Pricewaterhouse Cooper UHY International •Minimum loan amount of £25,000 within local operating area and £50,000 outside of this •Minimum age of 21 years old. •Currency – Please refer to foreign currency policy. •Must have an active UK bank account. •Must have UK correspondence address. •Must have permanent rights to reside. •Not available for Shared Ownership applications.
+---
 
-Expat BTL Up to a maximum of 80% LTV. No minimum income Top Slicing not available • Must meet BTL criteria. • Rental must be received in sterling. • Maximum of 3 mortgaged BTL properties. • Available for first time buyer, and first-time landlord. • Not available for debt consolidation.
+## SECTION 8 – EXPAT (BRITISH NATIONAL)
 
-SECTION: EXPAT BTL
-------------------------------------------------------------
-Up to a maximum of 80% LTV. No minimum income Top Slicing not available • Must meet BTL criteria. • Rental must be received in sterling. • Maximum of 3 mortgaged BTL properties. • Available for first time buyer, and first-time landlord. • Not available for debt consolidation.
+Applicants will be considered against the criteria outlined below: * Joint applications – All applicants must be British nationals (If 1 applicant is going to be residing in the property this is not considered to be an Expat mortgage and will be considered as a Foreign Currency mortgage). * For purchase or re-mortgage of a UK property. * There is no minimum time in role required however Underwriters will assess areas such as tenure in sector, any probationary periods as per probation policy along with overall case characteristics * Available for self-employed applicants subject to accountants reference and 2yrs accounts. The acceptable accountants are: Baker Tilly International BDO Crowe Horwath International Deloitte Ernst & Young Grant Thornton International HLB International KPMG International PKF International Pricewaterhouse Cooper UHY International * Minimum loan amount of £25,000 within local operating area and £50,000 outside of this * Minimum age of 21 years old. * Currency – Please refer to foreign currency policy. * Must have an active UK bank account. * Must have UK correspondence address. * Must have permanent rights to reside. * Not available for Shared Ownership applications.
 
-Expat Holiday Let Freehold properties only (other than where a lease explicitly permits short-term letting or holiday letting activity). • Properties must be marketed on a recognised holiday letting platform, which includes (but is not limited to) Sykes Cottages, HomeAway, and Airbnb. • Maximum of 80% LTV • No minimum income Top Slicing is not available • Minimum property value £100,000. • Property must be let furnished. • Maximum of 3 mortgaged holiday lets per applicant. • Minimum age at application of 21 years old. • It must be available as a holiday let for at least 210 days, and up to a maximum of 301 days. • Maximum personal usage for the holiday let property is 90 days per year. • Limited to properties in England and Wales.
+---
 
-SECTION: EXPAT HOLIDAY LET
-------------------------------------------------------------
-Freehold properties only (other than where a lease explicitly permits short-term letting or holiday letting activity). • Properties must be marketed on a recognised holiday letting platform, which includes (but is not limited to) Sykes Cottages, HomeAway, and Airbnb. • Maximum of 80% LTV • No minimum income Top Slicing is not available • Minimum property value £100,000. • Property must be let furnished. • Maximum of 3 mortgaged holiday lets per applicant. • Minimum age at application of 21 years old. • It must be available as a holiday let for at least 210 days, and up to a maximum of 301 days. • Maximum personal usage for the holiday let property is 90 days per year. • Limited to properties in England and Wales.
+## SECTION 9 – EXPAT BTL
 
-First Time Buyer/Landlord The Society will consider FTB BTL landlords.
+Up to a maximum of 80% LTV. No minimum income. Top Slicing not available. * Must meet BTL criteria. * Rental must be received in sterling. * Maximum of 3 mortgaged BTL properties. * Available for first time buyer, and first-time landlord. * Not available for debt consolidation.
 
-SECTION: FIRST TIME BUYER/LANDLORD
-------------------------------------------------------------
+---
+
+## SECTION 10 – EXPAT HOLIDAY LET
+
+Freehold properties only (other than where a lease explicitly permits short-term letting or holiday letting activity). * Properties must be marketed on a recognised holiday letting platform, which includes (but is not limited to) Sykes Cottages, HomeAway, and Airbnb. * Maximum of 80% LTV. * No minimum income. Top Slicing is not available. * Minimum property value £100,000. * Property must be let furnished. * Maximum of 3 mortgaged holiday lets per applicant. * Minimum age at application of 21 years old. * It must be available as a holiday let for at least 210 days, and up to a maximum of 301 days. * Maximum personal usage for the holiday let property is 90 days per year. * Limited to properties in England and Wales.
+
+---
+
+## SECTION 11 – FIRST TIME BUYER/LANDLORD
+
 The Society will consider FTB BTL landlords.
 
-Flats We can consider blocks more than 4 stories, but this must not exceed 8 stories high and must have a Maximum 75% LTV. Where blocks are more than 4 stories high, the minimum property value must be £250,000, must only be considered where we have met the RICS guidance for cladding safety and approved by the Society. The Society will accept Ex Local authority flats in London only – please refer to Ex local authority criteria. Flats above commercial premises are acceptable in prime central London only, the minimum property value must be £250,000 at a maximum 60% LTV. Shops not to include fast food or alcohol sales and all such properties to be authorised on a referral basis. Studio flats are acceptable to the society in prime central London only. Must have a minimum value of £500,000 and maximum LTV of 60%. The Society has no appetite for: Maisonettes/ flats/ apartments above a shop or commercial premises outside of the prime central London area. HMOs Studio flats outside of the prime central London area. Flats with balcony/shared access
+---
 
-SECTION: FLATS
-------------------------------------------------------------
-We can consider blocks more than 4 stories, but this must not exceed 8 stories high and must have a Maximum 75% LTV. Where blocks are more than 4 stories high, the minimum property value must be £250,000, must only be considered where we have met the RICS guidance for cladding safety and approved by the Society. The Society will accept Ex Local authority flats in London only – please refer to Ex local authority criteria. Flats above commercial premises are acceptable in prime central London only, the minimum property value must be £250,000 at a maximum 60% LTV. Shops not to include fast food or alcohol sales and all such properties to be authorised on a referral basis. Studio flats are acceptable to the society in prime central London only. Must have a minimum value of £500,000 and maximum LTV of 60%. The Society has no appetite for: Maisonettes/ flats/ apartments above a shop or commercial premises outside of the prime central London area. HMOs Studio flats outside of the prime central London area. Flats with balcony/shared access
+## SECTION 12 – FLATS
 
-Foreign Currency The Society will accept applications from UK nationals. The following foreign currencies will be considered up to a maximum 80% LTV: •Euro •US dollar •Australian dollar •Saudi riyal •UAE dirham •Swiss franc •Singapore dollar •Qatari riyal •Norwegian krone •Danish krone •Swedish krone •Canadian dollar •New Zealand dollar •South African rand •Japanese Yen •Hong Kong Dollar No minimum income required Only 1 currency per application, multiple currencies not allowed The Society will not support applications with self-employed income from companies incorporated outside the UK – refer to Ex Pat section. Not acceptable for Right to Buy or First-Time Buyer applications.
+We can consider blocks more than 4 stories, but this must not exceed 8 stories high and must have a Maximum 75% LTV. Where blocks are more than 4 stories high, the minimum property value must be £250,000, must only be considered where we have met the RICS guidance for cladding safety and approved by the Society. The Society will accept Ex Local authority flats in London only – please refer to Ex local authority criteria. Flats above commercial premises are acceptable in prime central London only, the minimum property value must be £250,000 at a maximum 60% LTV. Shops not to include fast food or alcohol sales and all such properties to be authorised on a referral basis. Studio flats are acceptable to the society in prime central London only. Must have a minimum value of £500,000 and maximum LTV of 60%. The Society has no appetite for: Maisonettes/ flats/ apartments above a shop or commercial premises outside of the prime central London area. HMOs. Studio flats outside of the prime central London area. Flats with balcony/shared access.
 
-SECTION: FOREIGN CURRENCY
-------------------------------------------------------------
-The Society will accept applications from UK nationals. The following foreign currencies will be considered up to a maximum 80% LTV: •Euro •US dollar •Australian dollar •Saudi riyal •UAE dirham •Swiss franc •Singapore dollar •Qatari riyal •Norwegian krone •Danish krone •Swedish krone •Canadian dollar •New Zealand dollar •South African rand •Japanese Yen •Hong Kong Dollar No minimum income required Only 1 currency per application, multiple currencies not allowed The Society will not support applications with self-employed income from companies incorporated outside the UK – refer to Ex Pat section. Not acceptable for Right to Buy or First-Time Buyer applications.
+---
+
+## SECTION 13 – FOREIGN CURRENCY
+
+The Society will accept applications from UK nationals. The following foreign currencies will be considered up to a maximum 80% LTV: * Euro * US dollar * Australian dollar * Saudi riyal * UAE dirham * Swiss franc * Singapore dollar * Qatari riyal * Norwegian krone * Danish krone * Swedish krone * Canadian dollar * New Zealand dollar * South African rand * Japanese Yen * Hong Kong Dollar. No minimum income required. Only 1 currency per application, multiple currencies not allowed. The Society will not support applications with self-employed income from companies incorporated outside the UK – refer to Ex Pat section. Not acceptable for Right to Buy or First-Time Buyer applications.
 
 Foster Care Income The Society will look to support application from those in receipt of foster care income, up to a maximum of 75% LTV, income will be assessed in the same way as self-employed. Income should be taken from: The last 2 years SA302’s and the tax year overview Or 2 years Tax calculations and the tax year overviews
 
-SECTION: FOSTER CARE INCOME
-------------------------------------------------------------
+## SECTION 14 – FOSTER CARE INCOME
+---
 The Society will look to support application from those in receipt of foster care income, up to a maximum of 75% LTV, income will be assessed in the same way as self-employed. Income should be taken from: The last 2 years SA302’s and the tax year overview Or 2 years Tax calculations and the tax year overviews
 
-Geographic Area The Society’s current appetite is to only lend in England and Wales. There is no appetite to lend in the remainder of the UK. For our local operating area please see relevant section. London The “London” area refers to any property within the M25 boundary. LTV will be restricted within the London area as follows: • Residential house purchase/re-mortgage will be limited to 80% LTV. • Residential flat purchase/re-mortgage will be limited to 80% LTV (exclusions apply – refer to Flats section). • BTL will be limited 80% LTV and a maximum loan of £500,000 (exclusions apply – refer to Flats section). The limits will not apply to Shared Ownership mortgages where there is no differentiation on LTV by geographic area. All applications outside of this should be referred to underwriting.
+Geographic Area The Society’s current appetite is to only lend in England and Wales. There is no appetite to lend in the remainder of the UK. For our local operating area please see relevant section. London The “London” area refers to any property within the M25 boundary. LTV will be restricted within the London area as follows: * Residential house purchase/re-mortgage will be limited to 80% LTV. * Residential flat purchase/re-mortgage will be limited to 80% LTV (exclusions apply – refer to Flats section). * BTL will be limited 80% LTV and a maximum loan of £500,000 (exclusions apply – refer to Flats section). The limits will not apply to Shared Ownership mortgages where there is no differentiation on LTV by geographic area. All applications outside of this should be referred to underwriting.
 
-SECTION: GEOGRAPHIC AREA
-------------------------------------------------------------
-The Society’s current appetite is to only lend in England and Wales. There is no appetite to lend in the remainder of the UK. For our local operating area please see relevant section. London The “London” area refers to any property within the M25 boundary. LTV will be restricted within the London area as follows: • Residential house purchase/re-mortgage will be limited to 80% LTV. • Residential flat purchase/re-mortgage will be limited to 80% LTV (exclusions apply – refer to Flats section). • BTL will be limited 80% LTV and a maximum loan of £500,000 (exclusions apply – refer to Flats section). The limits will not apply to Shared Ownership mortgages where there is no differentiation on LTV by geographic area. All applications outside of this should be referred to underwriting.
+## SECTION 15 – GEOGRAPHIC AREA
+---
+The Society’s current appetite is to only lend in England and Wales. There is no appetite to lend in the remainder of the UK. For our local operating area please see relevant section. London The “London” area refers to any property within the M25 boundary. LTV will be restricted within the London area as follows: * Residential house purchase/re-mortgage will be limited to 80% LTV. * Residential flat purchase/re-mortgage will be limited to 80% LTV (exclusions apply – refer to Flats section). * BTL will be limited 80% LTV and a maximum loan of £500,000 (exclusions apply – refer to Flats section). The limits will not apply to Shared Ownership mortgages where there is no differentiation on LTV by geographic area. All applications outside of this should be referred to underwriting.
 
-Holiday Let The Society will consider Holiday let applications and will be subject to the following criteria: • Freehold properties only (other than where a lease explicitly permits short-term letting or holiday letting activity). • Where the property type meets lending criteria LTV may be restricted and the case referred to an underwriter. • Properties must be marketed on a recognised holiday letting platform, which includes (but is not limited to) Sykes Cottages, HomeAway, and Airbnb. • The property must be suitable to be sold as a residential property in the event of repossession. • Maximum of 80% LTV • No minimum income except where top slicing is used when the minimum income must be £30,000 • Minimum property value £100,000. • Property must be let furnished. • Maximum of 3 mortgaged holiday lets per applicant. • Only available for standard credit history criteria. • Minimum age at application of 21 years old. • It must be available as a holiday let for at least 210 days, and up to a maximum of 301 days. • Maximum personal usage for the holiday let property is 90 days per year. • Holiday lets are available for individuals only (not corporate bodies). • Limited to properties in England and Wales. • For a higher rate taxpayer, the minimum ICR is 145% and for basic rate tax payer the minimum ICR is 130%. • Top slicing is available for affordability assessment though not for Ex Pat customers. • A holiday letting agent must be in place for purchase applications. Where there is no track record of income (minimum of 12 months) a professional letting agent will need to confirm the likely net rental income and provide commentary on the likely occupancy levels. Where information is provided by a holiday letting agent, The Society require low, mid, and high seasons rental figures for the property. We will take an annual average of the letting period (minimum of 210 days/ 30 weeks) based on the 3 seasons income (after letting fees) to calculate the ICR coverage. This figure must cover the interest only monthly mortgage payments, which is the ICR
+Holiday Let The Society will consider Holiday let applications and will be subject to the following criteria: * Freehold properties only (other than where a lease explicitly permits short-term letting or holiday letting activity). * Where the property type meets lending criteria LTV may be restricted and the case referred to an underwriter. * Properties must be marketed on a recognised holiday letting platform, which includes (but is not limited to) Sykes Cottages, HomeAway, and Airbnb. * The property must be suitable to be sold as a residential property in the event of repossession. * Maximum of 80% LTV * No minimum income except where top slicing is used when the minimum income must be £30,000 * Minimum property value £100,000. * Property must be let furnished. * Maximum of 3 mortgaged holiday lets per applicant. * Only available for standard credit history criteria. * Minimum age at application of 21 years old. * It must be available as a holiday let for at least 210 days, and up to a maximum of 301 days. * Maximum personal usage for the holiday let property is 90 days per year. * Holiday lets are available for individuals only (not corporate bodies). * Limited to properties in England and Wales. * For a higher rate taxpayer, the minimum ICR is 145% and for basic rate tax payer the minimum ICR is 130%. * Top slicing is available for affordability assessment though not for Ex Pat customers. * A holiday letting agent must be in place for purchase applications. Where there is no track record of income (minimum of 12 months) a professional letting agent will need to confirm the likely net rental income and provide commentary on the likely occupancy levels. Where information is provided by a holiday letting agent, The Society require low, mid, and high seasons rental figures for the property. We will take an annual average of the letting period (minimum of 210 days/ 30 weeks) based on the 3 seasons income (after letting fees) to calculate the ICR coverage. This figure must cover the interest only monthly mortgage payments, which is the ICR
 
-SECTION: HOLIDAY LET
-------------------------------------------------------------
-The Society will consider Holiday let applications and will be subject to the following criteria: • Freehold properties only (other than where a lease explicitly permits short-term letting or holiday letting activity). • Where the property type meets lending criteria LTV may be restricted and the case referred to an underwriter. • Properties must be marketed on a recognised holiday letting platform, which includes (but is not limited to) Sykes Cottages, HomeAway, and Airbnb. • The property must be suitable to be sold as a residential property in the event of repossession. • Maximum of 80% LTV • No minimum income except where top slicing is used when the minimum income must be £30,000 • Minimum property value £100,000. • Property must be let furnished. • Maximum of 3 mortgaged holiday lets per applicant. • Only available for standard credit history criteria. • Minimum age at application of 21 years old. • It must be available as a holiday let for at least 210 days, and up to a maximum of 301 days. • Maximum personal usage for the holiday let property is 90 days per year. • Holiday lets are available for individuals only (not corporate bodies). • Limited to properties in England and Wales. • For a higher rate taxpayer, the minimum ICR is 145% and for basic rate tax payer the minimum ICR is 130%. • Top slicing is available for affordability assessment though not for Ex Pat customers. • A holiday letting agent must be in place for purchase applications. Where there is no track record of income (minimum of 12 months) a professional letting agent will need to confirm the likely net rental income and provide commentary on the likely occupancy levels. Where information is provided by a holiday letting agent, The Society require low, mid, and high seasons rental figures for the property. We will take an annual average of the letting period (minimum of 210 days/ 30 weeks) based on the 3 seasons income (after letting fees) to calculate the ICR coverage. This figure must cover the interest only monthly mortgage payments, which is the ICR
+## SECTION 16 – HOLIDAY LET
+---
+The Society will consider Holiday let applications and will be subject to the following criteria: * Freehold properties only (other than where a lease explicitly permits short-term letting or holiday letting activity). * Where the property type meets lending criteria LTV may be restricted and the case referred to an underwriter. * Properties must be marketed on a recognised holiday letting platform, which includes (but is not limited to) Sykes Cottages, HomeAway, and Airbnb. * The property must be suitable to be sold as a residential property in the event of repossession. * Maximum of 80% LTV * No minimum income except where top slicing is used when the minimum income must be £30,000 * Minimum property value £100,000. * Property must be let furnished. * Maximum of 3 mortgaged holiday lets per applicant. * Only available for standard credit history criteria. * Minimum age at application of 21 years old. * It must be available as a holiday let for at least 210 days, and up to a maximum of 301 days. * Maximum personal usage for the holiday let property is 90 days per year. * Holiday lets are available for individuals only (not corporate bodies). * Limited to properties in England and Wales. * For a higher rate taxpayer, the minimum ICR is 145% and for basic rate tax payer the minimum ICR is 130%. * Top slicing is available for affordability assessment though not for Ex Pat customers. * A holiday letting agent must be in place for purchase applications. Where there is no track record of income (minimum of 12 months) a professional letting agent will need to confirm the likely net rental income and provide commentary on the likely occupancy levels. Where information is provided by a holiday letting agent, The Society require low, mid, and high seasons rental figures for the property. We will take an annual average of the letting period (minimum of 210 days/ 30 weeks) based on the 3 seasons income (after letting fees) to calculate the ICR coverage. This figure must cover the interest only monthly mortgage payments, which is the ICR
 
 Income – Employed/Self-Employed Income type Max % Minimum evidence requirements Basic gross – guaranteed 100 2 months Overtime 100 1 year Second employment 100 6 months Applicant 3 income 100 2 months Applicant 4 income 100 2 months Bonus – guaranteed 75 2 years Bonus – non-guaranteed 50 2 years Shift allowance 100 1 year Car allowance 100 1 year Commission – regular 75 2 years Net profit 100 2 years Self-employed income (incl CIS contractors) 100 2 years Dividend for company Directors 100 2 years State pension 100 2 months Occupational pension 100 2 months Private pension 100 2 months NHS bank/locum/supply income 100 2 years’ experience in same industry and 6 months evidence of income required with average of this period used in affordability assessment
 
-SECTION: INCOME – EMPLOYED/SELF-EMPLOYED
-------------------------------------------------------------
+## SECTION 17 – INCOME – EMPLOYED/SELF-EMPLOYED
+---
 Income type Max % Minimum evidence requirements Basic gross – guaranteed 100 2 months Overtime 100 1 year Second employment 100 6 months Applicant 3 income 100 2 months Applicant 4 income 100 2 months Bonus – guaranteed 75 2 years Bonus – non-guaranteed 50 2 years Shift allowance 100 1 year Car allowance 100 1 year Commission – regular 75 2 years Net profit 100 2 years Self-employed income (incl CIS contractors) 100 2 years Dividend for company Directors 100 2 years State pension 100 2 months Occupational pension 100 2 months Private pension 100 2 months NHS bank/locum/supply income 100 2 years’ experience in same industry and 6 months evidence of income required with average of this period used in affordability assessment
 
 Income – Other Income type Max % Minimum evidence requirements Universal Credit 50 3 months * Benefits – guaranteed Child Benefit 50 3 months (household income must be under £60,000pa) Working Families Tax Credit 50 3 months Trust/ investment income (including savings interest/dividend) 50 1 year ** Rental income – actual 75% 2 years and most recent SA302’s/ tax year overviews Stipend income 100 6 months and refer to underwriting plus check employment types Bursary 100 6 months and refer to underwriting plus check employment types Zero-hour contract 100 1 year and check employment types Attendance allowance 50 3 months Carers allowance 50 3 months Maintenance 100 See maintenance section Other income 100 Refer to underwriting Benefits – not guaranteed for life (eg PIP, DLA) 100 6 months SIPP 4 4% of pot value and this will be assessed against the mortgage term London/Large City Allowance 100 3 months
 
-SECTION: INCOME – OTHER
-------------------------------------------------------------
+## SECTION 18 – INCOME – OTHER
+---
 Income type Max % Minimum evidence requirements Universal Credit 50 3 months * Benefits – guaranteed Child Benefit 50 3 months (household income must be under £60,000pa) Working Families Tax Credit 50 3 months Trust/ investment income (including savings interest/dividend) 50 1 year ** Rental income – actual 75% 2 years and most recent SA302’s/ tax year overviews Stipend income 100 6 months and refer to underwriting plus check employment types Bursary 100 6 months and refer to underwriting plus check employment types Zero-hour contract 100 1 year and check employment types Attendance allowance 50 3 months Carers allowance 50 3 months Maintenance 100 See maintenance section Other income 100 Refer to underwriting Benefits – not guaranteed for life (eg PIP, DLA) 100 6 months SIPP 4 4% of pot value and this will be assessed against the mortgage term London/Large City Allowance 100 3 months
 
 Intereset Only repayment strategies Managed Investment Plans. Tax Free Pension Lump Sum. Sale of Mortgaged Property (£350k equity for London properties, £250k for properties located elsewhere). Sale of other UK Property (Equity must be greater than 110% of the Interest Only element it is being used to cover). Managed Share Portfolio (Value must be greater than 110% of the Interest Only element it is being used to cover). Endowment Policy.
 
-SECTION: INTERESET ONLY REPAYMENT STRATEGIES
-------------------------------------------------------------
+## SECTION 19 – INTEREST ONLY REPAYMENT STRATEGIES
+---
 Managed Investment Plans. Tax Free Pension Lump Sum. Sale of Mortgaged Property (£350k equity for London properties, £250k for properties located elsewhere). Sale of other UK Property (Equity must be greater than 110% of the Interest Only element it is being used to cover). Managed Share Portfolio (Value must be greater than 110% of the Interest Only element it is being used to cover). Endowment Policy.
 
-Interest Only Max LTV is 80%
+## SECTION 20 – INTEREST ONLY
+---
+Max LTV is 80%.
 
-SECTION: INTEREST ONLY
-------------------------------------------------------------
-Locum/Bank work 2 years’ experience in same industry and 6 months evidence of income required, with average of this period used in affordability assessment.
-
-SECTION: LOCUM/BANK WORK
-------------------------------------------------------------
+## SECTION 21 – LOCUM/BANK WORK
+---
 2 years’ experience in same industry and 6 months evidence of income required, with average of this period used in affordability assessment.
 
 LTVs & Maximum Loan Amounts LTV Band Maximum Loan Amount Equal to or below 75.00% £1,500,000
 
-SECTION: LTVS & MAXIMUM LOAN AMOUNTS
-------------------------------------------------------------
+## SECTION 22 – LTVS & MAXIMUM LOAN AMOUNTS
+---
 LTV Band Maximum Loan Amount Equal to or below 75.00% £1,500,000
 
-Maintenance Income The Society will consider income from maintenance providing this is evidenced by: • Court order • Solicitor agreement • Government arrangement
+Maintenance Income The Society will consider income from maintenance providing this is evidenced by: * Court order * Solicitor agreement * Government arrangement
 
-SECTION: MAINTENANCE INCOME
-------------------------------------------------------------
-The Society will consider income from maintenance providing this is evidenced by: • Court order • Solicitor agreement • Government arrangement
+## SECTION 23 – MAINTENANCE INCOME
+---
+The Society will consider income from maintenance providing this is evidenced by: * Court order * Solicitor agreement * Government arrangement
 
 Maternity Pay The Society will consider maternity pay as part of our assessment of income. The applicant must have stated their intention to return to work. The customer and employer must provide written confirmation of the maternity pay plus return to work date and the salary. The application must be affordable throughout the whole maternity period. Consideration should also be given to childcare cost once the maternity period has finished. The society will agree to use the return to work salary providing written confirmation from the employer that the applicant will be returning to work within 3 month of mortgage completion.
 
-SECTION: MATERNITY PAY
-------------------------------------------------------------
+## SECTION 24 – MATERNITY PAY
+---
 The Society will consider maternity pay as part of our assessment of income. The applicant must have stated their intention to return to work. The customer and employer must provide written confirmation of the maternity pay plus return to work date and the salary. The application must be affordable throughout the whole maternity period. Consideration should also be given to childcare cost once the maternity period has finished. The society will agree to use the return to work salary providing written confirmation from the employer that the applicant will be returning to work within 3 month of mortgage completion.
 
 Mortgage Term The Maximum Term is 40 years The Minimum Term is product specific
 
-SECTION: MORTGAGE TERM
-------------------------------------------------------------
+## SECTION 25 – MORTGAGE TERM
+---
 The Maximum Term is 40 years The Minimum Term is product specific
 
 New Build The Society will lend on New Build Houses & Flats up to a maximum of 75% LTV
 
-SECTION: NEW BUILD
-------------------------------------------------------------
+## SECTION 26 – NEW BUILD
+---
 The Society will lend on New Build Houses & Flats up to a maximum of 75% LTV
 
 Offers Mortgage offers for new build properties are valid for 9 months. Mortgage offers for non-new build properties are valid for 6 months. Underwriter approved Decision in principle (DIP) assessments are valid for 3 months. Underwriter referrals are valid for 3 months.
 
-SECTION: OFFERS
-------------------------------------------------------------
+## SECTION 27 – OFFERS
+---
 Mortgage offers for new build properties are valid for 9 months. Mortgage offers for non-new build properties are valid for 6 months. Underwriter approved Decision in principle (DIP) assessments are valid for 3 months. Underwriter referrals are valid for 3 months.
 
 Portfolio Landlords The Society defines this as someone with 4 or more mortgaged properties, these applicants are not acceptable to the Society.
 
-SECTION: PORTFOLIO LANDLORDS
-------------------------------------------------------------
+## SECTION 28 – PORTFOLIO LANDLORDS
+---
 The Society defines this as someone with 4 or more mortgaged properties, these applicants are not acceptable to the Society.
 
 Probationary Period The society will accept employment within a probationary period, where there is a track record of a similar position. For any applicant new to role and are unable to provide an acceptable track record of employment, the society will seek an employment reference to confirm the permanency of role where employed less than 6 months, the mortgage will not be offered until an employer’s reference confirms this has been successfully completed and the position is permanent.
 
-SECTION: PROBATIONARY PERIOD
-------------------------------------------------------------
+## SECTION 29 – PROBATIONARY PERIOD
+---
 The society will accept employment within a probationary period, where there is a track record of a similar position. For any applicant new to role and are unable to provide an acceptable track record of employment, the society will seek an employment reference to confirm the permanency of role where employed less than 6 months, the mortgage will not be offered until an employer’s reference confirms this has been successfully completed and the position is permanent.
 
 Relative of a customer The Society define a Relative of the customer as the following: Blood relative (rationale should detail who the blood relative is). Step-parent. Child. Spouse. Guardian. Partner.
 
-SECTION: RELATIVE OF A CUSTOMER
-------------------------------------------------------------
+## SECTION 30 – RELATIVE OF A CUSTOMER
+---
 The Society define a Relative of the customer as the following: Blood relative (rationale should detail who the blood relative is). Step-parent. Child. Spouse. Guardian. Partner.
 
 Repayment Types The following repayment methods are acceptable to the Society: Repayment. Interest Only. Part & part.
 
-SECTION: REPAYMENT TYPES
-------------------------------------------------------------
+## SECTION 31 – REPAYMENT TYPES
+---
 The following repayment methods are acceptable to the Society: Repayment. Interest Only. Part & part.
 
 Residency Minimum UK residency: Darlington's published visa guidance mainly applies to residential products. For Buy-to-Let, they assess cases individually and require applicants to meet standard affordability and credit criteria. No specific "minimum UK residency" period is stated for BTL, but normal UK address and credit checks still apply. Currently all applicants from outside of the EU will need to evidence their legal right to remain and a UK correspondence address must be provided. Applications are not accepted from people who are resident in: Netherlands. Italy.
 
-SECTION: RESIDENCY
-------------------------------------------------------------
+## SECTION 32 – RESIDENCY
+---
 Minimum UK residency: Darlington's published visa guidance mainly applies to residential products. For Buy-to-Let, they assess cases individually and require applicants to meet standard affordability and credit criteria. No specific "minimum UK residency" period is stated for BTL, but normal UK address and credit checks still apply. Currently all applicants from outside of the EU will need to evidence their legal right to remain and a UK correspondence address must be provided. Applications are not accepted from people who are resident in: Netherlands. Italy.
 
 Self Build The Society will only consider applications from Buildstore/Buildloan.
 
-SECTION: SELF BUILD
-------------------------------------------------------------
+## SECTION 33 – SELF BUILD
+---
 The Society will only consider applications from Buildstore/Buildloan.
 
 Self Employed DBS regard customers with a shareholding of 20% or more in a business as self-employed. The business must have been in operation for 2 years, the customer must have held their 20%+ shareholding in the business for 2 years and been profitable in each of the 2 years – anything outside of this must be referred to an underwriter. DBS will accept 100% of the income for self-employed customers using an average of the last 2 years net profit which is evidenced by: Accounts (management accounts are not acceptable). Accountant Certificate. 2 years’ worth of SA302’s and the tax year overview or 2 years tax calculations and the corresponding tax year overviews. Where the net profit is decreasing DBS uses the lower figure provided the business is on track to make the same or increased profits in the net financial year (projection to be confirmed by the accountant). Refer to self-employed reduction in the latest year criteria for customers impacted by the coronavirus pandemic. Lending manual v2.2 January 26, 2022 Darlington Building Society Page 39 of 43 Restricted Sole Trader/ partnership If net profits are increasing – Average share of net profits over past 2 years If net profits have decreased – The most recent year must be used. Limited Company Where the customer has 20% or more shareholding (if less the customer is treated as employed). In a limited company situation the customer is usually paid a salary, often referred to as Directors Remuneration. This can be taken into account as income and added to the customer’s share of the profits after corporation tax. If net profits are increasing – Average of the share of profits after corporation tax plus the individual Directors Remuneration over the past 2 years. If net profits are decreasing – The most recent years share of profits after corporation tax plus the individual director’s remuneration for that year. Projections only to be used at the request of Underwriter and must be in the form of an accountants reference.
 
-SECTION: SELF EMPLOYED
-------------------------------------------------------------
+## SECTION 34 – SELF EMPLOYED
+---
 DBS regard customers with a shareholding of 20% or more in a business as self-employed. The business must have been in operation for 2 years, the customer must have held their 20%+ shareholding in the business for 2 years and been profitable in each of the 2 years – anything outside of this must be referred to an underwriter. DBS will accept 100% of the income for self-employed customers using an average of the last 2 years net profit which is evidenced by: Accounts (management accounts are not acceptable). Accountant Certificate. 2 years’ worth of SA302’s and the tax year overview or 2 years tax calculations and the corresponding tax year overviews. Where the net profit is decreasing DBS uses the lower figure provided the business is on track to make the same or increased profits in the net financial year (projection to be confirmed by the accountant). Refer to self-employed reduction in the latest year criteria for customers impacted by the coronavirus pandemic. Lending manual v2.2 January 26, 2022 Darlington Building Society Page 39 of 43 Restricted Sole Trader/ partnership If net profits are increasing – Average share of net profits over past 2 years If net profits have decreased – The most recent year must be used. Limited Company Where the customer has 20% or more shareholding (if less the customer is treated as employed). In a limited company situation the customer is usually paid a salary, often referred to as Directors Remuneration. This can be taken into account as income and added to the customer’s share of the profits after corporation tax. If net profits are increasing – Average of the share of profits after corporation tax plus the individual Directors Remuneration over the past 2 years. If net profits are decreasing – The most recent years share of profits after corporation tax plus the individual director’s remuneration for that year. Projections only to be used at the request of Underwriter and must be in the form of an accountants reference.
 
 Sitting Tenant DBS will not accept applications where there is a sitting tenant on completion due to the legal challenges this can present. It should be noted that where a customer is remortgaging their BTL property where there is a tenant in place, this is not a sitting tenant as there is no change in ownership.
 
-SECTION: SITTING TENANT
-------------------------------------------------------------
+## SECTION 35 – SITTING TENANT
+---
 DBS will not accept applications where there is a sitting tenant on completion due to the legal challenges this can present. It should be noted that where a customer is remortgaging their BTL property where there is a tenant in place, this is not a sitting tenant as there is no change in ownership.
 
 Tenure – Common Hold These are acceptable to the Society.
 
-SECTION: TENURE – COMMON HOLD
-------------------------------------------------------------
+## SECTION 36 – TENURE – COMMON HOLD
+---
 These are acceptable to the Society.
 
 Tenure – Freehold House
 
-SECTION: TENURE – FREEHOLD HOUSE
-------------------------------------------------------------
+## SECTION 37 – TENURE – FREEHOLD HOUSE
+---
 These are acceptable to the Society.
 
 Tenure – Leasehold Flats Minimum unexpired lease should be 85 years, or 125 years if New Build, from the inception of the mortgage.
 
-SECTION: TENURE – LEASEHOLD FLATS
-------------------------------------------------------------
+## SECTION 38 – TENURE – LEASEHOLD FLATS
+---
 Minimum unexpired lease should be 85 years, or 125 years if New Build, from the inception of the mortgage.
 
 Tenure – Leasehold House Minimum unexpired lease should be 85 years, or 250 years if New Build, from the inception of the mortgage.
 
-SECTION: TENURE – LEASEHOLD HOUSE
-------------------------------------------------------------
+## SECTION 39 – TENURE – LEASEHOLD HOUSE
+---
 Minimum unexpired lease should be 85 years, or 250 years if New Build, from the inception of the mortgage.
 
 Tenure – Outright or Absolute These are acceptable to the Society.
 
-SECTION: TENURE – OUTRIGHT OR ABSOLUTE
-------------------------------------------------------------
+## SECTION 40 – TENURE – OUTRIGHT OR ABSOLUTE
+---
 These are acceptable to the Society.
 
 Tenure – Tyneside Flats
 
-SECTION: TENURE – TYNESIDE FLATS
-------------------------------------------------------------
+## SECTION 41 – TENURE – TYNESIDE FLATS
+---
 These are acceptable to the Society.
 
 Visas Applicants who are living and working in the UK on a Tier 2 Visa are acceptable subject to: Minimum of 2 years left to run on the Visa. Maximum LTV of 90% A maximum LTV of 95% will be applied for those on a skilled worker visa subject to a minimum income level of £60,000 for single applications and £90,000 for joint applications Applicants who are living and working in the UK on a Spousal Visa are acceptable subject to: Minimum of 2 years left to run on the Visa. Maximum LTV of 90% Application must be joint with another applicant that is a UK National, has indefinite right to reside in the UK or has a Tier 2 Visa A maximum LTV of 95% will be applied for those on Spousal Visa subject to them being defined as a Professional and application must be a joint application with another applicant that has a Tier 2 Visa or is a UK National. One applicant must have minimum income of at least £60,000 and joint household income must be at least £90,000 Applicants who are living and working in the UK on an Ancestral or BNO Visa are acceptable subject to: Minimum of 2 years left to run on the Visa. Maximum of 90% LTV A maximum LTV of 95% will be applied for those defined as a Professional and application must be a joint application with another applicant that has a Tier 2 Visa or is a UK National. One applicant must have minimum income of at least £60,000 and joint household income must be at least £90,000
 
-SECTION: VISAS
-------------------------------------------------------------
+## SECTION 42 – VISAS
+---
 Applicants who are living and working in the UK on a Tier 2 Visa are acceptable subject to: Minimum of 2 years left to run on the Visa. Maximum LTV of 90% A maximum LTV of 95% will be applied for those on a skilled worker visa subject to a minimum income level of £60,000 for single applications and £90,000 for joint applications Applicants who are living and working in the UK on a Spousal Visa are acceptable subject to: Minimum of 2 years left to run on the Visa. Maximum LTV of 90% Application must be joint with another applicant that is a UK National, has indefinite right to reside in the UK or has a Tier 2 Visa A maximum LTV of 95% will be applied for those on Spousal Visa subject to them being defined as a Professional and application must be a joint application with another applicant that has a Tier 2 Visa or is a UK National. One applicant must have minimum income of at least £60,000 and joint household income must be at least £90,000 Applicants who are living and working in the UK on an Ancestral or BNO Visa are acceptable subject to: Minimum of 2 years left to run on the Visa. Maximum of 90% LTV A maximum LTV of 95% will be applied for those defined as a Professional and application must be a joint application with another applicant that has a Tier 2 Visa or is a UK National. One applicant must have minimum income of at least £60,000 and joint household income must be at least £90,000
 
 Warranty List of acceptable warranty providers are listed on the Lenders handbook: https://lendershandbook.ukfinance.org.uk/lenders-handbook/englandandwales/question-list/1913/
 
-SECTION: WARRANTY
-------------------------------------------------------------
+## SECTION 43 – WARRANTY
+---
 List of acceptable warranty providers are listed on the Lenders handbook: https://lendershandbook.ukfinance.org.uk/lenders-handbook/englandandwales/question-list/1913/
 
-TABLES AND DATA
-================================================================================
+---
 
-============================================================
-TABLE 1
-============================================================
-Income type                                  Max %  Minimum evidence requirements                                                                                                               
-Basic gross – guaranteed                     100    2 months                                                                                                                                    
-Overtime                                     100    1 year                                                                                                                                      
-Second employment                            100    6 months                                                                                                                                    
-Applicant 3 income                           100    2 months                                                                                                                                    
-Applicant 4 income                           100    2 months                                                                                                                                    
-Bonus – guaranteed                           75     2 years                                                                                                                                     
-Bonus – non-guaranteed                       50     2 years                                                                                                                                     
-Shift allowance                              100    1 year                                                                                                                                      
-Car allowance                                100    1 year                                                                                                                                      
-Commission – regular                         75     2 years                                                                                                                                     
-Net profit                                   100    2 years                                                                                                                                     
-Self-employed income (incl CIS contractors)  100    2 years                                                                                                                                     
-Dividend for company Directors               100    2 years                                                                                                                                     
-State pension                                100    2 months                                                                                                                                    
-Occupational pension                         100    2 months                                                                                                                                    
-Private pension                              100    2 months                                                                                                                                    
-NHS bank/locum/supply income                 100    2 years’ experience in same industry and 6 months evidence of income required with average of this period used in affordability assessment  
-============================================================
+## SECTION 44 – INCOME AND LTV REFERENCE TABLES
 
+### Table 1 – Income (Employed/Self-Employed)
 
-============================================================
-TABLE 2
-============================================================
-Income type                                                     Max %  Minimum evidence requirements                                        
-Universal Credit                                                50     3 months *                                                           
-Benefits – guaranteed                                           
-Child Benefit                                                   50     3 months (household income must be under £60,000pa)                  
-Working Families Tax Credit                                     50     3 months                                                             
-Trust/ investment income (including savings interest/dividend)  50     1 year **                                                            
-Rental income – actual                                          75%    2 years and most recent SA302’s/ tax year overviews                  
-Stipend income                                                  100    6 months and refer to underwriting plus check employment types       
-Bursary                                                         100    6 months and refer to underwriting plus check employment types       
-Zero-hour contract                                              100    1 year and check employment types                                    
-Attendance allowance                                            50     3 months                                                             
-Carers allowance                                                50     3 months                                                             
-Maintenance                                                     100    See maintenance section                                              
-Other income                                                    100    Refer to underwriting                                                
-Benefits – not guaranteed for life (eg PIP, DLA)                100    6 months                                                             
-SIPP                                                            4      4% of pot value and this will be assessed against the mortgage term  
-London/Large City Allowance                                     100    3 months                                                             
-============================================================
+* Basic gross – guaranteed: 100%, 2 months evidence.
+* Overtime: 100%, 1 year evidence.
+* Second employment: 100%, 6 months evidence.
+* Applicant 3 income: 100%, 2 months evidence.
+* Applicant 4 income: 100%, 2 months evidence.
+* Bonus – guaranteed: 75%, 2 years evidence.
+* Bonus – non-guaranteed: 50%, 2 years evidence.
+* Shift allowance: 100%, 1 year evidence.
+* Car allowance: 100%, 1 year evidence.
+* Commission – regular: 75%, 2 years evidence.
+* Net profit: 100%, 2 years evidence.
+* Self-employed income (incl CIS contractors): 100%, 2 years evidence.
+* Dividend for company Directors: 100%, 2 years evidence.
+* State pension: 100%, 2 months evidence.
+* Occupational pension: 100%, 2 months evidence.
+* Private pension: 100%, 2 months evidence.
+* NHS bank/locum/supply income: 100%, 2 years' experience in same industry and 6 months evidence of income required with average of this period used in affordability assessment.
 
+### Table 2 – Income (Other)
 
-============================================================
-TABLE 3
-============================================================
-LTV Band                  Maximum Loan Amount  
-Equal to or below 75.00%  £1,500,000           
-============================================================
+* Universal Credit: 50%, 3 months evidence.
+* Child Benefit: 50%, 3 months (household income must be under £60,000pa).
+* Working Families Tax Credit: 50%, 3 months.
+* Trust/investment income (including savings interest/dividend): 50%, 1 year.
+* Rental income – actual: 75%, 2 years and most recent SA302's/ tax year overviews.
+* Stipend income: 100%, 6 months and refer to underwriting plus check employment types.
+* Bursary: 100%, 6 months and refer to underwriting plus check employment types.
+* Zero-hour contract: 100%, 1 year and check employment types.
+* Attendance allowance: 50%, 3 months.
+* Carers allowance: 50%, 3 months.
+* Maintenance: 100%, See maintenance section.
+* Other income: 100%, Refer to underwriting.
+* Benefits – not guaranteed for life (eg PIP, DLA): 100%, 6 months.
+* SIPP: 4%, 4% of pot value and this will be assessed against the mortgage term.
+* London/Large City Allowance: 100%, 3 months.
 
+### Table 3 – LTV and maximum loan amount
 
-================================================================================
-END OF BUY TO LET CRITERIA
-================================================================================
+* LTV equal to or below 75.00%: maximum loan amount £1,500,000.
+
+---
+
+## SECTION 45 – CONSUMER BTL AND INTERMEDIARY RESOURCES
+
+### Consumer Buy to Let (CBTL)
+
+* The Society does not lend on Consumer Buy to Let (CBTL).
+* A decision tree and declaration are available from the Document Library to help assess whether a BTL application meets criteria and is not classified as CBTL.
+
+### Criteria Search tool
+
+* Criteria Search (intermediaries): https://www.darlington.co.uk/darlington-intermediaries/criteria-search/
+* Quick and easy criteria finder: search lending criteria by product type (Residential or Buy to Let).
+* Search alphabetically (A–Z) or use the search function to check whether a client meets the Society’s requirements before submitting an application.
+* Use the tool to identify lending options and case suitability for buy to let and other products.
+
+### Intermediary resources
+
+* Document Library: https://www.darlington.co.uk/darlington-intermediaries/document-library/
+* Affordability Calculator (powered by Legal & General): https://www.darlington.co.uk/darlington-intermediaries/affordability-calculator/ – helps determine how much clients can borrow against lending criteria.
+* Criteria search and affordability tools are for assessing client suitability before submitting applications.
+* Tips for placing a successful case: https://www.darlington.co.uk/darlington-intermediaries/document-library/tips-for-placing-a-successful-case/
+* Full A–Z lending criteria (latest version) is available from the Document Library; check the library for the current edition.
+* Placing a case: applications can be submitted and tracked via the placing a case portal (see Contact section for link).
+
+### Processing and underwriting
+
+* The Society uses manual underwriting and personally reviews each application.
+* Decision in Principle (DIP): typically processed within 2 days.
+* Initial application assessment: typically within 8 days.
+* The Society conducts credit searches (rather than credit scoring) as part of its assessment; see Section 4 – Credit for credit policy.
+
+---
+
+## SECTION 46 – CONTACT
+
+* Phone: 01325 741 004
+* Email: intermediaries@darlington.co.uk
+* Hours: Monday to Friday, 9am to 5pm
+* Buy to Let product page: https://www.darlington.co.uk/darlington-intermediaries/products/buy-to-let/
+* Criteria Search: https://www.darlington.co.uk/darlington-intermediaries/criteria-search/
+* Affordability Calculator: https://www.darlington.co.uk/darlington-intermediaries/affordability-calculator/
+* Intermediaries hub: https://www.darlington.co.uk/darlington-intermediaries/
+* Meet the team / find your BDM: https://www.darlington.co.uk/darlington-intermediaries/meet-the-team/
+* Placing a case: https://www.darlington.co.uk/darlington-intermediaries/placing-a-case-with-us/
+* Help & FAQs: https://www.darlington.co.uk/darlington-intermediaries/help-and-faqs/
+
+---
+
+*END OF DOCUMENT*

@@ -1,21 +1,23 @@
-LENDER NAME: Bm Solutions
-PRODUCT: Limited Company
+# BM SOLUTIONS – LIMITED COMPANY LENDING CRITERIA
 
-BM SOLUTIONS - LIMITED COMPANY CRITERIA
-========================================
+**LENDER:** BM Solutions (Birmingham Midshires)
+**PRODUCT:** Limited Company (Buy to Let)
+**DOCUMENT TYPE:** Limited Company lending criteria.
+**SOURCE:** [Ltd/Co Criteria](https://www.bmsolutions.co.uk/ltd-co-criteria)
+**LAST VERIFIED:** Information updated daily
 
-Source: https://www.bmsolutions.co.uk/ltd-co-criteria
-Last Updated: Information updated daily
-For the use of mortgage intermediaries & other professionals only
+**IMPORTANT:** For the use of mortgage intermediaries and other professionals only.
 
-Birmingham Midshires is a division of Bank of Scotland plc. Registered in Scotland No. SC327000. 
-Registered Office: The Mound, Edinburgh EH1 1YZ. Bank of Scotland plc is authorised by the 
-Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential 
-Regulation Authority under registration number 169628.
+**RAG convention:** Criteria use explicit labels **Maximum:** **Minimum:** **Allowed:** **Not Acceptable:** **Condition:** where applicable for retrieval.
 
-================================================================================
-TABLE OF CONTENTS
-================================================================================
+**Contact:** See BM Solutions / Halifax Intermediaries for broker support.
+
+Birmingham Midshires is a division of Bank of Scotland plc. Registered in Scotland No. SC327000. Registered Office: The Mound, Edinburgh EH1 1YZ. Bank of Scotland plc is authorised by the PRA and regulated by the FCA and the PRA (registration number 169628).
+
+
+# SECTION 1 – LIMITED COMPANY CRITERIA
+
+## TABLE OF CONTENTS
 
 1. COMPANY
 2. APPLICATION
@@ -25,12 +27,9 @@ TABLE OF CONTENTS
 6. PROPERTY
 7. EXISTING CUSTOMER
 
-================================================================================
-1. COMPANY
-================================================================================
+## 1. COMPANY
 
-COMPANY STRUCTURE
------------------
+### COMPANY STRUCTURE
 - Recently Formed Companies: We will accept recently formed Limited companies, they must be registered on Companies house before an application is made
 - Special Purpose Vehicles: Accepted with the following SIC codes: 68209, 68100, 68320, 68201
 - Trading or Layered Companies: Not accepted
@@ -38,8 +37,7 @@ COMPANY STRUCTURE
 - Floating Charges or Debentures: Cannot be in place over the company
 - Registration: Companies must be registered in England, Wales or Scotland
 
-DIRECTORS/SHAREHOLDERS
-----------------------
+### DIRECTORS/SHAREHOLDERS
 - Maximum Parties: Maximum of 4 parties to the company who must own 100% of the company between them
 - Multiple Companies: More than one Limited Company can be financed with BM
 - Residence: Directors/Shareholders must reside in England, Wales or Scotland
@@ -51,8 +49,7 @@ DIRECTORS/SHAREHOLDERS
 - Company Changes: The company must seek approval from us ahead making of any changes to the company structure/director/shareholders details
 - Limited Experience: If there is limited experience of managing BTL property the application will be referred for an underwriter assessment
 
-APPLICATION CRITERIA
---------------------
+### APPLICATION CRITERIA
 - Purchase & Remortgage: Purchase & re-mortgage
 - Rental Cover Ratio: 125% rental cover ratio applied to all Limited company applications
 - Maximum LTV: Max LTV 75%
@@ -65,42 +62,32 @@ APPLICATION CRITERIA
 - Top Slicing: Top Slicing is not available
 - Portfolio Landlords: Standard Portfolio landlord criteria applies
 
-TENANCY CRITERIA
-----------------
+### TENANCY CRITERIA
 - Standard Criteria: Standard tenancy criteria applies
 
-SOURCE OF DEPOSIT
-------------------
+### SOURCE OF DEPOSIT
 - Directors Loans: Directors loans are acceptable
 - Intercompany Loans: Intercompany loans are not acceptable
 - Gift of Equity: Gift of equity accepted when the property is being purchased from director or shareholder
 
-================================================================================
-2. APPLICATION
-================================================================================
+## 2. APPLICATION
 
-DIRECTORS AND SHAREHOLDERS
----------------------------
+### DIRECTORS AND SHAREHOLDERS
 - Maximum Number: The maximum number of directors and shareholders allowed for each application is four
 - More Than Four: If there are more than four directors and/or shareholders an application cannot be submitted
 
-DECISION IN PRINCIPLE
----------------------
+### DECISION IN PRINCIPLE
 - Provides credit decision using minimal information
 - States how much can be lent
 - Valid for: 3 months (subject to valuation and information supplied being correct)
 
-DIRECT DEBIT DETAILS
---------------------
+### DIRECT DEBIT DETAILS
 - Required: Details of the Limited company current account where the mortgage will be paid from at application stage
 - Account Type: Only current accounts in the Limited company name will be accepted
 
-================================================================================
-3. CUSTOMER
-================================================================================
+## 3. CUSTOMER
 
-ID & ADDRESS VERIFICATION
---------------------------
+### ID & ADDRESS VERIFICATION
 - Requirement: All directors and shareholders must be fully and properly identified as part of the mortgage application process
 - Information Recording: Accurate information must be recorded on our application system, including confirmation of whether this is a face-to-face or non-face-to-face application
 - Electronic Verification: If the director or shareholder doesn't pass our electronic verification checks, you'll need to certify and retain evidence of the identification documents
@@ -122,8 +109,7 @@ Standard ID&V:
 - Documents Needed: The directors and shareholders will need to produce two separate documents. These must be originals and can only be used once in the process for either address verification or identification
 - FCA Requirement: FCA registered firms must make sure any documentation relied upon to verify the directors and shareholders identity is copied, certified, and retained in accordance with money laundering regulations. We reserve the right to contact you and request copies of identity documents at any time during the life of the mortgage and for up to five years after cessation
 
-STANDARD ID&V DOCUMENTS TABLE
------------------------------
+### STANDARD ID&V DOCUMENTS TABLE
 The following documents can be used for Standard ID&V:
 
 - UK photocard driving licence displaying the directors or shareholders current address - Identification: Yes - Address: Yes
@@ -140,20 +126,17 @@ The following documents can be used for Standard ID&V:
 - Utility bills dated within last 6 months - Identification: No - Address: Yes
 - Solicitor's correspondence relating to house purchase and dated within last 3 months - Identification: No - Address: Yes
 
-EXPATRIATES
------------
+### EXPATRIATES
 - Not Accepted: We don't accept applications from Expatriates
 
-FOREIGN NATIONALS
-----------------
+### FOREIGN NATIONALS
 - Requirement: All applications from non-UK, non-Irish, nationals, EEA and non-EEA directors and shareholders - proof of permanent right to reside will be required for all directors and shareholders on applications which do not meet the following criteria:
   * The directors or shareholders (or at least one director or stakeholder on a joint or multiple application) have lived continuously in the UK for more than 5 years
   * To determine if directors or shareholders have lived in the UK for more than five years we will use data provided by credit reference agencies
 - Acceptable Documents: We'll accept indefinite leave to remain/Right of Abode, UK Residency stamps in non-UK passports, biometric residence permits, and Home Office documentation confirming indefinite leave to remain in the UK
 - EEA/Swiss Nationals: For EEA/Swiss nationals with Settled or Pre settled status, the 'Share code' can used as residence
 
-HOW TO CERTIFY A DOCUMENT
--------------------------
+### HOW TO CERTIFY A DOCUMENT
 - Documents to Certify: Only identification and address verification and right to reside documents need to be certified
 - When to Certify: You must certify the documents when they're collected and keep copies on file. You don't need to upload copies to the application unless we ask you to
 
@@ -169,20 +152,16 @@ Certifying Documents:
   * Wording to confirm true and correct copies of documents should be included
   * The intermediary name and signature must be included on the certificate/document and the date must be within three months of the application date
 
-REFUGEES
---------
+### REFUGEES
 - Requirement: Refugees and asylum seekers must have indefinite leave to remain. This will usually be given in a letter confirming they've been granted 'Indefinite Leave to Remain' from the Immigration and Nationality Directorate
 - Not Acceptable: We can't accept these documents for mortgage purposes:
   * Exceptional leave to remain in the UK
   * Humanitarian protection
   * Discretionary leave
 
-================================================================================
-4. INCOME
-================================================================================
+## 4. INCOME
 
-AFFORDABILITY AND SUSTAINABILITY
----------------------------------
+### AFFORDABILITY AND SUSTAINABILITY
 - Assessment: Affordability is assessed using the anticipated rental income from the property. We'll also assess personal income when making a lending decision, so it's important the directors and shareholders income is keyed accurately as it might affect the decision
 - Personal Commitments: When doing this, we expect to see the directors and shareholders can afford their personal commitments, so we can be confident our lending decision is sustainable if the tenant stops paying or the property needs any maintenance or repairs. An application might be declined if our assessment shows there's not enough disposable income to support the borrowing and the directors and shareholders personal commitments
 - Rental Cover: In our rental cover calculation, we want the directors and shareholders to have more rent coming in than the normal mortgage payment, so the situations mentioned earlier can be covered
@@ -196,14 +175,12 @@ Some of the information we might need to manually underwrite an application, inc
 - The rationale for sole director, where finances are joint
 - Business details for self-employed directors and shareholders
 
-DIRECTORS OR SHAREHOLDERS NOT PAID IN STERLING
-----------------------------------------------
+### DIRECTORS OR SHAREHOLDERS NOT PAID IN STERLING
 - Definition: Foreign currency income is any income other than sterling received by directors or shareholders. Foreign currency income paid into a UK bank account and transferred to sterling is still considered to be foreign currency
 - Not Accepted: Foreign currency income won't be accepted for new mortgage or remortgage applications for new and existing directors or shareholders, including porting, transfers of mortgaged property (TOMP), and further advances
 - Exceptions: The only exceptions to this are further advance applications for essential repairs to the mortgaged property and product transfers
 
-CONTRACTORS
------------
+### CONTRACTORS
 - Employed: If your directors or shareholders are classed as employed, they'll need to have been in their current role for at least three months
 - Self-Employed: If your directors or shareholders are classed as self-employed, we'll need at least two years' worth of trading figures
 
@@ -229,8 +206,7 @@ Professional sports people:
 - Requirement: Professional sports people will have to confirm they've either been in continuous employment for 12 months or more with six months of the contract remaining, or two years' continuous service as at the date of application in the same type of employment
 - Verification: It's essential to verify these directors and shareholders will be able to meet their monthly repayments as they near the end of their career or if their career's ended early because of injury
 
-INCOME TYPES
-------------
+### INCOME TYPES
 - Requirement: For all applications, at least one of the directors or shareholders needs to have an earned income and/or pension income
 - Recording: All income sources must be recorded accurately. This includes all full years of self-employed income, PAYE, pension income, and all gross monthly rental
 - Location: All income sources need to be within the UK
@@ -243,8 +219,7 @@ INCOME TYPES
 - Bank Statements: Bank statements must show the directors and shareholders full name or initial, surname, and account number
 - Internet Bank Statements: Internet bank statements must show bank heading/name and http address
 
-INCOME TYPES TABLE
-------------------
+### INCOME TYPES TABLE
 The following income types are acceptable or not acceptable for BM Solutions Limited Company applications:
 
 Acceptable Income Types:
@@ -386,13 +361,11 @@ Not Acceptable Income Types:
 - Uniform Allowance
 - Widows Allowance
 
-LENGTH OF EMPLOYMENT/SELF-EMPLOYMENT
-------------------------------------
+### LENGTH OF EMPLOYMENT/SELF-EMPLOYMENT
 - Employed: Employed directors and shareholders will be expected to have been employed for a minimum of three months in their current job
 - Self-Employed: Self-employed directors and shareholders must have been self-employed for a minimum of two years and provide at least two years' worth of trading figures
 
-RENTAL INCOME
--------------
+### RENTAL INCOME
 - Requirement: For employed, self-employed, and retired directors and shareholders, all rental income and finance costs captured in the 'Land and property income' section of the application should match the directors and shareholders tax calculations from HMRC
 - Guidance: You can find how to key this in our Hints & tips PDF (3.1MB)
 
@@ -411,8 +384,7 @@ For a buy to let purchase:
 - Property Schedule: The gross monthly rent will need to be keyed into the property schedule screen for all buy to let properties owned by any directors and shareholders named on the application
 - Verification: A tenancy agreement or letter from the letting agent can be used to verify the rental income keyed in the Property schedule screen
 
-SECOND JOB
-----------
+### SECOND JOB
 - Consideration: If any director or shareholder has more than one job, we'll consider the following to decide if we can take the secondary income into account:
   * Are the hours/days worked sustainable?
   * Are the roles/skills similar?
@@ -421,8 +393,7 @@ SECOND JOB
   * Is the salary consistent with the type of employment?
 - Keying: You should key the highest income as the directors and shareholders main income, and the income from the second job as additional employment
 
-SELF-EMPLOYED DIRECTORS AND SHAREHOLDERS
-----------------------------------------
+### SELF-EMPLOYED DIRECTORS AND SHAREHOLDERS
 - Requirement: Self-employed directors and shareholders must have been self-employed for a minimum of 2 years and be able to provide at least 2 years' worth of trading figures
 
 If any of the following applies, the director or shareholder must be keyed as self-employed:
@@ -460,8 +431,7 @@ Online Tax Assessments from Accountants' Commercial Software:
 - Profit and Loss: Profit and loss statements alone aren't acceptable
 - Year End: The year end for all documents must be the most recent and not be dated more than 18 months before the date of application
 
-SELF-EMPLOYED/CONTRACTORS
---------------------------
+### SELF-EMPLOYED/CONTRACTORS
 The following table shows how different contractor and self-employed types should be treated:
 
 - Contractor - If director or shareholder earns more than £500 per day or £75,000 per annum - providing 12 months or more continuous employment with 6 months of contract remaining OR 2 years continuous service (for the last 2 years at the date of the application) in the same type of employment - Acceptable: Yes - Main or Other: Main - Treat as: Basic Annual Income - Evidence: Copy of the contract and latest months personal/business bank statement(s) showing the salary credit
@@ -498,35 +468,28 @@ Not Acceptable:
 - Seasonal Contract - Acceptable: No
 - Piecework Contract - Acceptable: No
 
-TAX ON RENTAL INCOME
---------------------
+### TAX ON RENTAL INCOME
 - Finance Costs: Finance costs are not tax deductible, but tax relief can be claimed at the basic rate, whatever rate of tax the director or shareholder pays. This will mean an increased tax liability for some landlords
 - Manual Review: Where applications are referred for manual review, we'll consider the additional tax liability
 - Independent Tax Advice: Directors or shareholders must get independent tax advice if they're unsure how the tax rules will affect them
 
-================================================================================
-5. LENDING
-================================================================================
+## 5. LENDING
 
-ASSIGNABLE CONTRACTS
---------------------
+### ASSIGNABLE CONTRACTS
 - Definition: Assignable contracts allow the original buyer to sell the property before legal completion, by assigning the contract to buy the property to a new buyer after contracts have been exchanged with the developer
 - Not Acceptable: We can't accept applications involving assignable contracts or irrevocable powers of attorney in favour of intervening sellers
 - Reporting: Any similar transaction structure must be reported to us
 
-BANKRUPTCIES
-------------
+### BANKRUPTCIES
 - Credit History Question: You must answer 'Yes' to the credit history question asking if any director or shareholder has had a bankruptcy / IVA / debt management arrangement or debt relief order which was:
   * Registered within the last six years (whether now completed or not)
   * Or is still outstanding (whenever this was registered)
 - Answer 'No': If a bankruptcy / IVA / debt management arrangement or debt relief order was registered over six years ago and is no longer outstanding, the question can be answered as 'No'
 
-BUSINESS/CONSUMER BUY TO LET
------------------------------
+### BUSINESS/CONSUMER BUY TO LET
 - Type: We do not offer Limited company consumer buy to let (CBTL), all Limited company buy to lets are business buy to let (BBTL)
 
-CONCESSIONARY (DISCOUNTED) PURCHASE
------------------------------------
+### CONCESSIONARY (DISCOUNTED) PURCHASE
 - Not Acceptable: We don't accept concessionary purchase applications where the property is being purchased below full market value
 - Exception: The only exception to this is the purchase of a new build property if the value has increased between agreement to purchase and building completion. Builder incentives are acceptable, subject to our existing criteria
 - Family Member Purchase: It's acceptable to purchase a BTL property from a director or shareholders family member, as long as the deposit is sourced from the directors or shareholders own resources and the property is purchased at full market value
@@ -534,14 +497,12 @@ CONCESSIONARY (DISCOUNTED) PURCHASE
 - Family Member Letting: Limited company BTL properties cannot be let to a family member
 - Gift of Equity: Gift of equity is accepted when the property is being purchased from director or shareholder
 
-COUNTY COURT JUDGEMENTS (CCJS)
--------------------------------
+### COUNTY COURT JUDGEMENTS (CCJS)
 - Credit History Question: Please answer 'Yes' to the credit history question if any directors or shareholders have had a County Court Judgement (CCJ) or default registered against them, or their business if they're self-employed, within the last six years
 - Credit Scoring: CCJs are generally considered in credit scoring
 - Background Details: Background details will be need for the application
 
-CREDIT SCORE DECLINE APPEALS
-----------------------------
+### CREDIT SCORE DECLINE APPEALS
 - Right to Appeal: All applications will be credit scored. Directors or shareholders have the right to appeal if an application is declined because it doesn't pass our credit scoring
 
 Scenarios when an appeal might be successful:
@@ -552,8 +513,7 @@ Scenarios when an appeal might be successful:
   * An error by Lloyds Banking Group can be proven: If the adverse information has been registered on a non-Lloyds Banking Group product, an appeal can't be submitted. The directors or shareholders should arrange for their credit file to be corrected before a new application is submitted
 - Other Scenarios: For any scenario outside of these, it's unlikely we'll change our decision
 
-DEPENDANTS
-----------
+### DEPENDANTS
 - Definition: A dependant is anyone who relies on your directors or shareholders financially. They won't be included on the mortgage or contribute to the monthly payments
 - Separate Capture: Child and adult dependants need to be captured separately
 
@@ -568,8 +528,7 @@ Adult dependant:
 - Not Living at Property: If the adult dependant doesn't live at the property all of the time, still key this in the adult dependant section
 - Never Lives at Property: If the adult dependant doesn't ever live at the property, they must not be keyed as a dependant, but the related costs must be keyed as a total figure in 'Other commitments'
 
-DEPOSITS
---------
+### DEPOSITS
 - Requirement: The source of all director and shareholder deposits must be captured, and proof must be retained for all buy to let applications, other than remortgages
 - Source: The deposit should come from the directors and shareholders own resources
 - Builder's Deposit: A builder's deposit of up to 5% of the purchase price is allowable on new build property applications if the LTV is 75% or less. The valuer must be aware of any incentive and make a note of it in the valuation report
@@ -664,8 +623,7 @@ Passbooks:
 - Transactions: Should show at least the latest three months' transactions and the closing balance must cover the deposit required
 - Large Deposits: If there are any recent large or unusual deposits into the account, you'll need to confirm where they came from. This might mean obtaining further documents
 
-FIRST-TIME BUYER/FIRST-TIME LANDLORD
--------------------------------------
+### FIRST-TIME BUYER/FIRST-TIME LANDLORD
 - Requirement: The directors must own a property in the UK in their own name. This will need to be validated before an offer can be made
 
 More than one director or shareholder:
@@ -684,8 +642,7 @@ Scotland and Northern Ireland:
 - A copy of a recent mortgage statement dated within the last three months, which must show at least one of the directors or shareholders names
 - A copy of a mortgage statement over three months old plus last three months bank statements confirming payment. Both must show at least one of the directors or shareholders names
 
-LETTING CRITERIA
-----------------
+### LETTING CRITERIA
 The property can be let on:
 - a single assured shorthold tenancy in England
 - an occupation contract in Wales
@@ -721,8 +678,7 @@ Tenancy Agreement Requirements:
 - Occupancy Restrictions: The property can't have any occupancy restrictions
 - Second Charge: Applications won't be accepted where a second charge is being completed at the same time as the BTL application
 
-LENDING LIMITS
---------------
+### LENDING LIMITS
 - Maximum Lending Limit: A £5,000,000 lending limit applies to all Buy To Let, Let To Buy, consent to let, second home loan, and House 2 House borrowing across the Retail division of Lloyds Banking Group
 - Maximum Loan on Individual Properties: The maximum loan available on individual properties is:
   * 65% LTV between £1,000,000 and £2,000,000
@@ -733,32 +689,26 @@ LENDING LIMITS
 - Minimum Loan: The minimum loan amount is £25,001. For further advances, the minimum loan amount is £5,000
 - Lower LTV Deals: Certain buy to let deals have a lower max LTV. Where a deal with a lower LTV is combined with a deal with a higher LTV, the lower LTV will apply to the whole loan
 
-MIN/MAX AGE
------------
+### MIN/MAX AGE
 - Minimum Age: The minimum director or shareholder age is 21
 - Maximum Age: The eldest directors or shareholders must submit the application before their 75th birthday. They must be no older than age 80 at the end of the mortgage term
 
-MIN/MAX TERM
-------------
+### MIN/MAX TERM
 - Maximum Term: The maximum term is 40 years. The term must not exceed the eldest directors or shareholders 80th birthday
 - Minimum Term: The minimum term must not be less than the selected product term
 
-MORTGAGE ARREARS
-----------------
+### MORTGAGE ARREARS
 - Credit History Question: Please answer 'Yes' to the credit history question if any directors or shareholders have been in arrears in the last six years with any mortgage borrowing or ever had a property repossessed
 - Consideration: Applications where previous mortgages have been in arrears will be considered on an individual basis
 
-MORTGAGE FREE/UNENCUMBERED PROPERTIES
----------------------------------------
+### MORTGAGE FREE/UNENCUMBERED PROPERTIES
 - Treatment: Loans on mortgage-free properties are treated like remortgages
 - Ownership Requirement: The property must have been registered in at least one of the directors or shareholders names for a minimum of six months
 
-NOTIONAL STRESS RATES
----------------------
+### NOTIONAL STRESS RATES
 - Assessment: Lending amounts are either assessed using actual or anticipated rental income from the property only using stress rates and rental cover ratios
 
-PORTFOLIO LANDLORDS
--------------------
+### PORTFOLIO LANDLORDS
 - Definition: A portfolio landlord application is where the directors and shareholders have four or more mortgaged BTL properties, including the new transaction. This is based on the total number held by everyone named on the application
 
 Example:
@@ -806,8 +756,7 @@ Portfolio landlord help and support:
 - Contact: If you need any help with an application, get in touch with our specialist team. You'll get your own dedicated case handler, who will contact you once you submit your application
 - Call: 0345 6020914
 
-REMORTGAGE AND CAPITAL RAISING
--------------------------------
+### REMORTGAGE AND CAPITAL RAISING
 - Ownership Requirement: For remortgage applications, including unencumbered properties, the Limited company must have owned the property for a minimum of six months
 
 The following reasons for capital raising aren't acceptable:
@@ -820,34 +769,27 @@ Acceptable Capital Raising:
 - Deposit for BTL Purchase: We'll allow capital raising for a deposit for a BTL purchase in personal or limited company name
 - Evidence: Underwriters might ask for evidence of how funds will be used if they have any concerns
 
-REPAYMENT METHODS
------------------
+### REPAYMENT METHODS
 - Acceptable: Repayment, interest only, or a combination of both are acceptable
 - Interest Only: You must tell us interest only elements will be repaid
 
-================================================================================
-6. PROPERTY
-================================================================================
+## 6. PROPERTY
 
-LOCATION
---------
+### LOCATION
 - Requirement: Properties must be in England, Scotland or Wales
 - Not Acceptable: Applications for properties in Northern Ireland are unacceptable
 
-BUILDER CASH INCENTIVES
------------------------
+### BUILDER CASH INCENTIVES
 - Examples: Examples of builder cash incentives include deposit contributions, cash-backs, contribution to legal fees/stamp duty, and mortgage subsidies
 - Acceptable: Builder cash incentives are usually acceptable if their value isn't more than 5% of the lower of the purchase price or valuation
 - Lower Loan: Cash incentives more than this might mean a lower maximum loan amount is available
 - Declaration: All builder cash incentives must be declared at the point of sale
 - Lending Decision: All lending decisions are based on either the valuation or purchase price, whichever is lower
 
-BUY TO LET PROPERTY ADDRESS
----------------------------
+### BUY TO LET PROPERTY ADDRESS
 - Requirement: The buy to let property address must not be the same as the directors or shareholders correspondence address
 
-CLADDING
---------
+### CLADDING
 Properties in England and Wales:
 - EWS1 Form: Properties in buildings five storeys or higher no longer need an External Wall System (EWS1) form in order to progress an application
 - Remediation Work: We'll also consider applications on properties where cladding remediation work is needed but not yet completed
@@ -865,14 +807,12 @@ New build high rise blocks:
 - Scotland: This applies to new builds of four storeys or 11 metres high in Scotland
 - Alternative: If this can't be confirmed, please follow the EWS1 process
 
-CONDITION
----------
+### CONDITION
 - Requirement: The property must be habitable, readily lettable or saleable, and structurally sound
 - Buildings Insurance: Buildings insurance also needs to be able to be arranged on it
 - Flats: For details of our what we need where a property has been converted into flats or is part of a purpose-built block, see Tenure section
 
-CONSTRUCTION
-------------
+### CONSTRUCTION
 - Requirement: The property must be in the UK under UK legal jurisdiction
 - Valuation: Property acceptability is based on a satisfactory valuation report from the bank's appointed valuer
 - Non-Standard Construction: Non-standard construction will be assessed on individual merit
@@ -889,12 +829,10 @@ Additional Points:
 - Flats Above Business (Same Owner): Flats above/next to a business owned by the same person aren't acceptable
 - Flats Above Business (Different Owner): Flats above/next to a business not owned by the same person are subject to valuer's comments
 
-DISTRESSED SALE AND LEASEBACK
-------------------------------
+### DISTRESSED SALE AND LEASEBACK
 - Not Acceptable: Applications involving a distressed sale, or a sale and leaseback aren't acceptable
 
-ENERGY PERFORMANCE CERTIFICATE
--------------------------------
+### ENERGY PERFORMANCE CERTIFICATE
 - Definition: An energy performance certificate (EPC) gives domestic properties an energy-efficiency rating from A to G. The EPC is valid for 10 years. If the property is sold in that time, the EPC can be used by the new owner
 - Rating Requirement: Properties in England, Northern Ireland, Scotland, and Wales must have a valid EPC rating of E or above
 - F or G Ratings: Purchase, remortgage, and Let to Buy applications on properties with F or G EPC ratings are only allowed where a registered exemption is in place
@@ -904,19 +842,16 @@ ENERGY PERFORMANCE CERTIFICATE
 - Exemptions: If a property is exempt, evidence isn't needed unless we request it
 - Evidence: Evidence of EPC, PEA, SAP, or exemption evidence should be kept on file
 
-EXPOSURE LIMITS
----------------
+### EXPOSURE LIMITS
 - Initial Cap: When a site is assessed as suitable for lending, we'll no longer apply an initial cap on our lending exposure
 - Monitoring: We'll continue to monitor applications (exposure) as the development progresses and might restrict further lending if concerns arise
 - Site Restrictions: There might be a small number of sites where we decide not to lend on because of specific market or site conditions
 
-FREE VALUATIONS
----------------
+### FREE VALUATIONS
 - Appeal Process: If a free valuation is selected as part of a product incentive, the appeal process on the property valuation isn't available
 - Rental Valuation Appeal: If you want to appeal the rental valuation on a BTL remortgage application, please contact us
 
-HOUSES IN MULTIPLE OCCUPATIONS
-------------------------------
+### HOUSES IN MULTIPLE OCCUPATIONS
 - HMO Licensing: Properties subject to Local Authority Homes in Multiple Occupation (HMO) licensing might be acceptable, subject to the valuer's assessment of suitability based on our requirements
 
 Requirements:
@@ -926,15 +861,13 @@ Requirements:
 - Larger Properties: For larger properties, where there is a potential of more than five lettable rooms, the valuer must be satisfied the property and local market reflects single family letting arrangements
 - Tenancy Type: The property can be let on a single assured shorthold tenancy in England and Wales, or a private residential tenancy in Scotland
 
-JAPANESE KNOTWEED
------------------
+### JAPANESE KNOTWEED
 - Lending: We'll lend if the valuer confirms the property is suitable mortgage security and provides a present condition valuation figure
 - Assessment: To assess the property, the valuer will need a report outlining the issues and a quote from a treatment company
 - Treatment Company: The company must either be a member of the Property Care Association or offer a warranty-backed treatment plan
 - Treatment Duration: If treatment is needed, it's often over 3-4 years
 
-NEW BUILD
----------
+### NEW BUILD
 - Definition: An initial occupancy/new build property is classed as any property being occupied and/or sold for the first time on the open market in its current state. It also includes newly converted and refurbished properties
 
 Categories:
@@ -965,18 +898,15 @@ For the property to qualify as acceptable for monitoring by a consultant, it mus
 - A property built by a self-build group, where construction is monitored by a consultant employed by that self-build group
 - A property forming part of a small, solely residential development of not more than 15 units in total, where construction is monitored by a consultant employed by the builder or developer. If flats/maisonettes are involved, each individual flat/maisonette counts as one property. Developments containing more than 15 units need an acceptable form of building standards indemnity
 
-REVISED PROPERTY DETAILS
--------------------------
+### REVISED PROPERTY DETAILS
 - Address Change: If the purchase property address changes once a mortgage application has been made, and the Limited company's original mortgage product has been withdrawn, a new deal from the current range must be selected
 - Amendment: If the property being purchased isn't changing but an amendment is needed to the address keyed, such as the property number or street name, this must be changed by us before completion. Please contact us to make this change
 
-SCOTTISH VALUATIONS
--------------------
+### SCOTTISH VALUATIONS
 - Not Acceptable: We can no longer accept re-type/transcription reports from a Generic Mortgage Valuation Report (GMVR) with a valid Home Report
 - Clarification: For further clarification, please contact your BDM
 
-SUB-SALES AND BACK-TO-BACK TRANSACTIONS
-----------------------------------------
+### SUB-SALES AND BACK-TO-BACK TRANSACTIONS
 - Not Acceptable: Sub-sales and back-to-back transactions aren't acceptable
 - Ownership Requirement: The current vendor must have owned the property for at least six months before we can accept an application to purchase the property
 - Registration Date: We use the date of registration at the Land Registry to work out the length of ownership
@@ -992,8 +922,7 @@ We'll accept the property being sold on within six months of acquisition where s
 Conveyancer Responsibility: The conveyancer will be responsible for making sure the application meets the acceptable criteria
 - Not Acceptable: Applications involving assignable contracts or irrevocable powers of attorney in favour of intervening sellers aren't acceptable. You should tell us about any other transaction structure with a similar effect
 
-TENURE
-------
+### TENURE
 - Freehold: Freehold and leasehold houses are acceptable
 - Leasehold: Leasehold properties must have a minimum of 70 years left on the lease at application
 - Converted Properties: If a property's been converted into no more than four units or is within a purpose-built block, any leases should already be in place and not created at the same time as the mortgage application
@@ -1025,8 +954,7 @@ For developments of more than four units:
 - Conveyancer: The conveyancer will make sure arrangements in connection with the management company are acceptable
 - Charge Registration: Our mortgage must be registered on the leasehold title
 
-UNACCEPTABLE CONSTRUCTION TYPES
--------------------------------
+### UNACCEPTABLE CONSTRUCTION TYPES
 - Timber or metal framed buildings where the cavity has been retrospectively filled with an insulation material
 - Concrete walls built in Cornwall or Devon before 1950. Or 1960 for postcodes PL12, 13, 14, 15, 17, 18, 22, and 23, where a valuer has recommended a Mundic report, and a concrete test has classified it as class B or C
 - Unrepaired, designated defective properties under the Housing Act 1985, Housing (Scotland) Act 1987, Housing (Northern Ireland) Order 1986
@@ -1034,8 +962,7 @@ UNACCEPTABLE CONSTRUCTION TYPES
 - Load bearing panels made of asbestos or gypsum plaster
 - Structurally unsound or uninsurable properties
 
-USE OF PROPERTY
----------------
+### USE OF PROPERTY
 The following property types aren't acceptable as security:
 - A dwelling on a single title must not be split into separate units of accommodation, such as a house converted into two flats, so each flat would need its own title
 - property purchased from and let to the same family member
@@ -1053,22 +980,17 @@ The following property types aren't acceptable as security:
 - Timeshares
 - Properties with an Energy Performance Certificate (EPC) rating of F or G with no registered exemption in place
 
-VALUATION
----------
+### VALUATION
 - Minimum Value: The minimum acceptable property value or purchase price is £50,000 - whichever is the lower
 - Validity: A mortgage valuation is valid for 12 months. If a mortgage doesn't complete within 12 months of the valuation being carried out, a new valuation will be needed
 - New Valuation Fee: We'll advise you if a new valuation fee is also needed
 
-================================================================================
-7. EXISTING CUSTOMER
-================================================================================
+## 7. EXISTING CUSTOMER
 
-ARREARS
--------
+### ARREARS
 - Product Transfers: Standalone product transfers can be processed as soon as the account is up to date without the need to wait three months
 
-EARLY REPAYMENT CHARGES
------------------------
+### EARLY REPAYMENT CHARGES
 - ERCs: Some of our products have early repayment charges (ERCs). These will apply if your directors and shareholders repays some or all of their mortgage in the ERC period
 - 10% Repayment: For mortgage products with ERCs, up to 10% of the amount outstanding can be repaid without having to pay an ERC. We can change or withdraw this at any time
 - Porting Application: On a porting application, any ERC, which might apply will be waived or refunded if the ERC period ends in the next three months
@@ -1078,21 +1000,17 @@ EARLY REPAYMENT CHARGES
 - Subsequent Transfers: Once the application has been submitted and the new product has started, you'll be able to apply for a product transfer on the other sub-accounts. Instead, you can wait until the ERC on all sub-accounts have three months left until expiry and apply for a product transfer application on all eligible sub-accounts
 - Overpayments: For product transfers and further advances, ERCs will be charged on any overpayments made over the 10%, even if the customer is within four months of the ERC expiry
 
-FURTHER ADVANCES
-----------------
+### FURTHER ADVANCES
 - Not Available: We currently do not allow further lending for Limited company mortgages
 
-OVERPAYMENTS
-------------
+### OVERPAYMENTS
 - Making Overpayments: One-off or regular overpayments can be made at any time
 - ERCs: If early repayment charges (ERCs) apply to the product, please refer to our ERC section for more details
 
-PAYMENT HOLIDAYS
-----------------
+### PAYMENT HOLIDAYS
 - Not Allowed: Payment holidays aren't allowed
 
-PORTABILITY
-----------
+### PORTABILITY
 - ERC Waiver: Any early repayment charges (ERCs) won't have to be paid on existing BTL mortgage products ported to a new application
 - Product Documentation: If a product is portable, it will be outlined in the original mortgage offer and supporting documentation
 - Remortgage Restriction: You can't port a product to a remortgage application if the property is currently mortgaged
@@ -1104,8 +1022,7 @@ An ERC can also be waived/refunded without porting if:
 - a new mortgage is being taken in the last three months of the ERC period of the current product
 - you apply for a new application on a new product within three months of an existing BM BTL mortgage being redeemed
 
-PRODUCT TRANSFERS
-----------------
+### PRODUCT TRANSFERS
 - Availability: Product transfers are available for Limited company mortgages at the end of the product period
 - Eligibility Check: Once a product transfer's been submitted, an automated eligibility check will be carried out to make sure the mortgage qualifies
 - Failure Message: If the mortgage doesn't pass the eligibility check, you'll see an on-screen message explaining the reason why and what to do next
@@ -1119,8 +1036,7 @@ Reasons why the mortgage might fail the eligibility check include:
 - No sub-accounts are available to transfer
 - The account requires a review of the sub-account balances
 
-PRODUCT TRANSFER TIMESCALES
----------------------------
+### PRODUCT TRANSFER TIMESCALES
 - Submission: Product transfers can be submitted at any time in the month
 - Earliest Start: The earliest a product transfer can start is the 1st of the following month
 - Early Start Option: If the mortgage is within the last three months of an existing product, you can choose to start the new product early. If you select this option, we'll waive any early repayment charge (ERC)
@@ -1142,6 +1058,4 @@ Product expiry: 31 March
 - Keying from: 01 February - Options for start date: 01 March or 01 April
 - Keying from: 01 March - Options for start date: 01 April
 
-================================================================================
-END OF CRITERIA
-================================================================================ 
+*End of criteria.*

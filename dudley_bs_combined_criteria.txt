@@ -1,45 +1,21 @@
-LENDER NAME: Dudley Building Society
-PRODUCT: Combined
+# DUDLEY BUILDING SOCIETY – LENDING CRITERIA (COMBINED)
 
-================================================================================
-DUDLEY BUILDING SOCIETY - LENDING CRITERIA
-================================================================================
+---
 
-Source: https://www.dudleybuildingsociety.co.uk/intermediaries/criteria/
-BTL Source: https://www.dudleybuildingsociety.co.uk/intermediaries/criteria/buy-to-let/
+**LENDER:** Dudley Building Society
+**PRODUCT:** Combined (Residential and Buy to Let)
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 2025
+**FOR INTERMEDIARY USE ONLY**
 
-OVERVIEW
---------------------------------------------------------------------------------
-View our extensive criteria to assist with the submission of Decision in Principle enquiries and fully packaged mortgage applications.
+**Source:** [Intermediaries criteria](https://www.dudleybuildingsociety.co.uk/intermediaries/criteria/) | [Buy to Let criteria](https://www.dudleybuildingsociety.co.uk/intermediaries/criteria/buy-to-let/)
 
-CONTACT INFORMATION
---------------------------------------------------------------------------------
-Phone: 01384 489195
-Principal Office: 7 Harbour Buildings, The Waterfront, Brierley Hill, DY5 1LN
-Telephone: 01384 231414
-Fax: 01384 233250
-Email: enquiries@dudleybuildingsociety.co.uk
+---
 
-TABLE OF CONTENTS
---------------------------------------------------------------------------------
-1. Affordability
-2. Applicants
-3. Build Types
-4. Buy-to-Let
-5. Deposit
-6. General
-7. Income
-8. Property
-9. Repayment Terms and Repayment Methods
-10. Self-Employed
-11. Valuations and Retentions
+## SECTION 1 – AFFORDABILITY
 
-================================================================================
-1. AFFORDABILITY
-================================================================================
+### 1.1 Affordability Test
 
-1.1 AFFORDABILITY TEST
---------------------------------------------------------------------------------
 The Society will apply an affordability test to ensure that the applicant can afford the mortgage repayments.
 
 The Society maintains a model which it uses for calculating affordability. The model will default to ONS figures if the figures are not inputted or are lower than the ONS figures.
@@ -50,18 +26,18 @@ The affordability calculator result relating to the % of disposable income, must
 
 Please note that the above Loan to income restrictions will not apply on affordability assessments for pound for pound remortgages.
 
-1.2 EVIDENCE OF MORTGAGE/RENT PAYMENTS
---------------------------------------------------------------------------------
+### 1.2 Evidence of Mortgage/Rent Payments
+
 If a profile of the mortgage payments is not available on the credit search, evidence of the last 12 months' payments is required from a lender's statement and/or bank statements.
 
 For applicants in rented or shared ownership accommodation at the time of application, evidence of 12 months' rent payments is required.
 
-================================================================================
-2. APPLICANTS
-================================================================================
+---
 
-2.1 ACCEPTABLE IDENTIFICATION DOCUMENTS
---------------------------------------------------------------------------------
+## SECTION 2 – APPLICANTS
+
+### 2.1 Acceptable Identification Documents
+
 The table linked below lists the types of document that can be accepted to verify identity. We require one item from list 1 and one item from list 2.
 
 Acceptable Identification Documents (PDF available on website)
@@ -71,173 +47,173 @@ If the applicant(s) have recently moved house and none of the above documents ar
 Applications via Introducers
 The Society will accept Introduction Certificates from FCA regulated introducers.
 
-2.2 INCOME
---------------------------------------------------------------------------------
+### 2.2 Income
+
 The following income and percentages of income are considered when calculating the amount the Society will lend to PAYE employees or contract workers.
 
 Qualifying income table (PDF available on website)
 
 Proof of Income
-• For applicants paid monthly – we require the last P60 (or payslip showing aggregate annual income where appropriate) and the most recent payslip(s), to cover at least the latest 3 months' income. Where deductions are seen on the payslips, ensure this is reflected in the affordability calculator.
-• For applicants paid weekly or bi-weekly - we require the last P60 and sufficient payslips to cover a three month period;
-• If the applicant is self-employed, we normally require the last 3 years' SA302's or, Tax Calculations with corresponding Tax Year Overviews. 3 years' Trading accounts are also accepted, and may also be requested in addition to support an application
-• Reference should be made to accountants and professional advisers for details of likely future income and trading prospects.
+* For applicants paid monthly – we require the last P60 (or payslip showing aggregate annual income where appropriate) and the most recent payslip(s), to cover at least the latest 3 months' income. Where deductions are seen on the payslips, ensure this is reflected in the affordability calculator.
+* For applicants paid weekly or bi-weekly - we require the last P60 and sufficient payslips to cover a three month period;
+* If the applicant is self-employed, we normally require the last 3 years' SA302's or, Tax Calculations with corresponding Tax Year Overviews. 3 years' Trading accounts are also accepted, and may also be requested in addition to support an application
+* Reference should be made to accountants and professional advisers for details of likely future income and trading prospects.
 
 Bank Statements:
-• For employed applicants or those retired or with private income, we require the last 1 months bank statements which must show salary / income credits where such could be expected to exist;
-• For self-employed applicants, we will require the last 3 months business and personal bank statements. For applicants applying for a mortgage based upon proof of income for a period of less than 2 years, we would ordinarily expect to see business and personal bank statements for a period of 6 months.
-• We will examine the bank statements to ensure that we have an understanding of the applicant's spending or unusual income patterns.
-• Occasionally, underwriters may seek Credit Card statements to look at expenditure in greater detail.
+* For employed applicants or those retired or with private income, we require the last 1 months bank statements which must show salary / income credits where such could be expected to exist;
+* For self-employed applicants, we will require the last 3 months business and personal bank statements. For applicants applying for a mortgage based upon proof of income for a period of less than 2 years, we would ordinarily expect to see business and personal bank statements for a period of 6 months.
+* We will examine the bank statements to ensure that we have an understanding of the applicant's spending or unusual income patterns.
+* Occasionally, underwriters may seek Credit Card statements to look at expenditure in greater detail.
 
-2.3 APPLICANTS UNABLE TO ACT FOR THEMSELVES / VULNERABLE PERSONS
---------------------------------------------------------------------------------
+### 2.3 Applicants Unable to Act for Themselves / Vulnerable Persons
+
 The Society will accept applications from individuals who are unable to act for themselves due to either physical and / or mental incapacity. Applications can be accepted where there is either a Power of Attorney or Court of Protection Deputy in place, subject to the following:
 
-• The Power must be a Lasting Power of Attorney, an Enduring Power of Attorney signed before 1 October 2007, or a General Power
-• Applicants cannot act as Attorneys for each other
-• In England and Wales an Attorney cannot act on behalf of more than one applicant. If both applicants wish an Attorney to act, each must appoint a different person to act on their behalf
-• Certified copies of the relevant documents (LPA, EPA, Court Order etc.) must be provided
-• Attorney(s) and Deputy(s) must be identified in accordance with the Society's Customer Due Diligence procedures
+* The Power must be a Lasting Power of Attorney, an Enduring Power of Attorney signed before 1 October 2007, or a General Power
+* Applicants cannot act as Attorneys for each other
+* In England and Wales an Attorney cannot act on behalf of more than one applicant. If both applicants wish an Attorney to act, each must appoint a different person to act on their behalf
+* Certified copies of the relevant documents (LPA, EPA, Court Order etc.) must be provided
+* Attorney(s) and Deputy(s) must be identified in accordance with the Society's Customer Due Diligence procedures
 
-2.4 CREDIT HISTORY
---------------------------------------------------------------------------------
+### 2.4 Credit History
+
 An applicant's previous credit history is a strong indicator of the future conduct of any proposed loan.
 
 Applicants must satisfy the following criteria:
 
 Mortgage applications up to 80% LTV:
-• No missed payments in last 12 months on any (previous or current) mortgage, other secured loan or rent, and no arrears in months 13-24 (counting backwards from the present date), where the cumulative amount overdue at any point reached three or more monthly payments. No current arrears
-• No more than 1 missed payment in last 12 months on any (previous or current) unsecured loan or credit card, and no arrears in months 13-24 (counting backwards from the current date), where the cumulative amount overdue at any point reached three or more monthly payments. No current arrears
-• Applicants should not have been subject to a Bankruptcy order within the last three years
-• Not being subject to a repossession within the last six years
-• Applicants should not have been subject to an IVA (or Debt Management Plan) within the last three years
-• The number of CCJs registered within the last three years must total no more than £500, and must have been satisfied at least six months prior to application.
-• A maximum value of CCJs registered more than three years prior to application of £5,000 and a maximum number of two instances. CCJs must have been satisfied at least six months prior to application
-• A maximum value of defaults registered within three years of application (whether satisfied or not) of £1,000 and a maximum number of three instances
-• A maximum value of defaults registered more than three years prior to application (whether satisfied or not) of £5,000 and a maximum number of three instances.
+* No missed payments in last 12 months on any (previous or current) mortgage, other secured loan or rent, and no arrears in months 13-24 (counting backwards from the present date), where the cumulative amount overdue at any point reached three or more monthly payments. No current arrears
+* No more than 1 missed payment in last 12 months on any (previous or current) unsecured loan or credit card, and no arrears in months 13-24 (counting backwards from the current date), where the cumulative amount overdue at any point reached three or more monthly payments. No current arrears
+* Applicants should not have been subject to a Bankruptcy order within the last three years
+* Not being subject to a repossession within the last six years
+* Applicants should not have been subject to an IVA (or Debt Management Plan) within the last three years
+* The number of CCJs registered within the last three years must total no more than £500, and must have been satisfied at least six months prior to application.
+* A maximum value of CCJs registered more than three years prior to application of £5,000 and a maximum number of two instances. CCJs must have been satisfied at least six months prior to application
+* A maximum value of defaults registered within three years of application (whether satisfied or not) of £1,000 and a maximum number of three instances
+* A maximum value of defaults registered more than three years prior to application (whether satisfied or not) of £5,000 and a maximum number of three instances.
 
 Other than that:
-• Three or fewer Communication supplier defaults of up to £150 each may be ignored for the purpose of calculation value under points 3 and 4 above (where an applicant has four or more, all of them will be taken into account)
+* Three or fewer Communication supplier defaults of up to £150 each may be ignored for the purpose of calculation value under points 3 and 4 above (where an applicant has four or more, all of them will be taken into account)
 
 A satisfactory explanation for any adverse credit (including any disregarded under point (a) must always be obtained.
 
 For Mortgage applications above 80% LTV, applicant(s) must satisfy the following criteria:
-• No missed payments in last 12 months on any mortgage, other secured loan or rent and no more than 1 missed payments in the last 2 years. No current arrears
-• No more than 1 missed payment in last 12 months on any unsecured loan or credit card and no more than 2 missed payments in last 2 years. No current arrears
-• CCJ(s) with a total not exceeding £2,500 registered more than 3 years ago are acceptable if satisfied more than 12 months ago.
-• Defaults – one or more with a total value not exceeding £500 issued more than 12 months ago are acceptable, as long as satisfied by time of application
-• Bankruptcy/ debt relief order – must have been discharged more than 6 years ago and all credit conducted satisfactorily since then
-• IVA (or Debt Management Plan) – must have been discharged more than 3 years ago and all credit conducted satisfactorily since then
-• Not being subject to a previous property repossessed within the last 6 years
+* No missed payments in last 12 months on any mortgage, other secured loan or rent and no more than 1 missed payments in the last 2 years. No current arrears
+* No more than 1 missed payment in last 12 months on any unsecured loan or credit card and no more than 2 missed payments in last 2 years. No current arrears
+* CCJ(s) with a total not exceeding £2,500 registered more than 3 years ago are acceptable if satisfied more than 12 months ago.
+* Defaults – one or more with a total value not exceeding £500 issued more than 12 months ago are acceptable, as long as satisfied by time of application
+* Bankruptcy/ debt relief order – must have been discharged more than 6 years ago and all credit conducted satisfactorily since then
+* IVA (or Debt Management Plan) – must have been discharged more than 3 years ago and all credit conducted satisfactorily since then
+* Not being subject to a previous property repossessed within the last 6 years
 
-2.5 CREDIT SEARCH AND VOTERS ROLL
---------------------------------------------------------------------------------
+### 2.5 Credit Search and Voters Roll
+
 A satisfactory credit search and voters roll search must be undertaken. Each applicant should be registered on the voters roll at each address they have had during a minimum of the last 3 years.
 
 In circumstances when an applicant does not appear on the voters roll, a satisfactory explanation must be provided and proof of residency must be established at each address during the last 3 years.
 
 The following lists the types of document that can be accepted to verify residency for the date(s) where the applicant does not appear on the voters roll search. The document must show the applicant's name, address and date:
-• Bank, Building Society or Credit Union Statement
-• Council Tax Bill / Statement / Demand
-• Utility Bill/ Statement/ Demand for Gas, Electricity, Water only – Not Phone bills, or TV Licences. Not Final Bills
-• Inland Revenue Correspondence – Not P45 or P60
+* Bank, Building Society or Credit Union Statement
+* Council Tax Bill / Statement / Demand
+* Utility Bill/ Statement/ Demand for Gas, Electricity, Water only – Not Phone bills, or TV Licences. Not Final Bills
+* Inland Revenue Correspondence – Not P45 or P60
 
 Certified documents need to be endorsed in accordance with the following procedure:
-• Photocopy the document
-• Write on photocopy "Certified Copy of the Original"
-• Sign the photocopy and print underneath your signature: name/company/firm (or company stamp), the date
-• An electronic signature is not acceptable
+* Photocopy the document
+* Write on photocopy "Certified Copy of the Original"
+* Sign the photocopy and print underneath your signature: name/company/firm (or company stamp), the date
+* An electronic signature is not acceptable
 
 Persons able to certify:
-• FCA regulated broker
-• Accountant
-• Bank/Building Society official
-• Solicitor
+* FCA regulated broker
+* Accountant
+* Bank/Building Society official
+* Solicitor
 
-2.6 EX-PATS & FOREIGN INCOME APPLICANTS
---------------------------------------------------------------------------------
+### 2.6 Ex-Pats & Foreign Income Applicants
+
 The Society will provide Ex-Pat mortgages on the following basis:
-• Foreign Currency – Income (where some or all of the borrower's income is denominated in a foreign currency and they live/work outside of the UK)
-• Foreign Currency – Repayment Strategy (where the borrower will repay part or all of a mortgage which is partially or wholly conducted on an Interest Only basis, utilising monies or other assets which are denominated in a foreign currency e.g. the sale of a foreign holiday home and they live/work outside of the UK)
+* Foreign Currency – Income (where some or all of the borrower's income is denominated in a foreign currency and they live/work outside of the UK)
+* Foreign Currency – Repayment Strategy (where the borrower will repay part or all of a mortgage which is partially or wholly conducted on an Interest Only basis, utilising monies or other assets which are denominated in a foreign currency e.g. the sale of a foreign holiday home and they live/work outside of the UK)
 
 General
-• The maximum loan to value is 85% for residential and 80% for Buy-to-Let when products allow.
+* The maximum loan to value is 85% for residential and 80% for Buy-to-Let when products allow.
 
 Applicant Details
-• Applicants must be UK citizens who are temporarily resident abroad
-• For residential properties, it must be the customer's intention to return back to the UK with this property being their main residence and / or their immediate family must reside in the property
-• Lending can only be secured upon property in England and Wales.
-• Mortgage payments must be paid via direct debit from a UK bank account
+* Applicants must be UK citizens who are temporarily resident abroad
+* For residential properties, it must be the customer's intention to return back to the UK with this property being their main residence and / or their immediate family must reside in the property
+* Lending can only be secured upon property in England and Wales.
+* Mortgage payments must be paid via direct debit from a UK bank account
 
 Affordability
 Income will be assessed on the following basis:
-• If an applicant is paid in foreign currency, the exchange rate that will be applied is that at lowest point over the last three years from the date of assessment
-• The Society places no restrictions on the foreign currency being utilised, so long as the currency does not fall within any territories subject to financial sanctions or FATF counter measures
-• The Society can accept income from one foreign currency plus income derived in GBP
+* If an applicant is paid in foreign currency, the exchange rate that will be applied is that at lowest point over the last three years from the date of assessment
+* The Society places no restrictions on the foreign currency being utilised, so long as the currency does not fall within any territories subject to financial sanctions or FATF counter measures
+* The Society can accept income from one foreign currency plus income derived in GBP
 
 Additional Requirements
 We would also expect the customer to provide:
-• 3 months of bank statements for any non-UK account held that is deemed to their main account, e.g. the customers have main UK account, but also get paid into a foreign account and manage foreign commitments whilst abroad
-• Clarification of the customer commitments whilst abroad, e.g. regular expenses or credit commitments that are not cover by the applicant's employers
+* 3 months of bank statements for any non-UK account held that is deemed to their main account, e.g. the customers have main UK account, but also get paid into a foreign account and manage foreign commitments whilst abroad
+* Clarification of the customer commitments whilst abroad, e.g. regular expenses or credit commitments that are not cover by the applicant's employers
 
 All supporting documents must be translated (where deemed necessary) by the applicant before submission
 
-2.7 GENERAL
---------------------------------------------------------------------------------
+### 2.7 General
+
 An applicant must be:
-• a citizen of the UK or
-• a national of the European Economic Area and a signatory FATF member or
-• a national of a non-European Economic Area who has been granted indefinite leave to live and work in the UK evidenced by a stamp in a currently valid passport or written confirmation from the Home Office, and
-• liable for UK income tax (unless an Ex-Pat applicant)
+* a citizen of the UK or
+* a national of the European Economic Area and a signatory FATF member or
+* a national of a non-European Economic Area who has been granted indefinite leave to live and work in the UK evidenced by a stamp in a currently valid passport or written confirmation from the Home Office, and
+* liable for UK income tax (unless an Ex-Pat applicant)
 
 Applicants will normally be expected to have been resident in the UK for at least three years immediately preceding the date of their mortgage application. Different requirements apply for mortgages for Ex-Patriates.
 
 Where an applicant cannot demonstrate occupancy in the UK for the preceding 3 years, the Society will consider proceeding subject to:
-• a documented rationale
-• evidence of current proof of address and
-• evidence of their address abroad
+* a documented rationale
+* evidence of current proof of address and
+* evidence of their address abroad
 
 The Society does not lend to:
-• Undischarged bankrupts or applicants who have had an IVA (or Debt Management Plan, debt management companies are not considered to be a DMP, adverse criteria should be followed in this instance) within the last 3 years
-• applicants who have received a formal police caution in the last 5 years, ever been convicted of, or have prosecutions pending, for any offence other than parking or speeding, excluding any which are 'spent' under the Rehabilitation of Offenders Act; (If any conviction has been spent under the Rehabilitation of Offenders Act 1974, this does not need to be declared)
-• applicants subject to diplomatic immunity from the UK legal system
+* Undischarged bankrupts or applicants who have had an IVA (or Debt Management Plan, debt management companies are not considered to be a DMP, adverse criteria should be followed in this instance) within the last 3 years
+* applicants who have received a formal police caution in the last 5 years, ever been convicted of, or have prosecutions pending, for any offence other than parking or speeding, excluding any which are 'spent' under the Rehabilitation of Offenders Act; (If any conviction has been spent under the Rehabilitation of Offenders Act 1974, this does not need to be declared)
+* applicants subject to diplomatic immunity from the UK legal system
 
-2.8 GUARANTORS
---------------------------------------------------------------------------------
+### 2.8 Guarantors
+
 Guarantors may be offered to provide support to an application where there is a current shortfall in the borrowing capacity of the applicant.
 
 The maximum LTV is 75%
 
 Guarantors must:
-• Be resident in the UK
-• Have income to support the total loan in full, whilst taking into affordability any existing financial commitments of their own and passing the Society's affordability test
-• Be given independent legal advice / separate representation to ensure they are fully aware of their responsibilities as a guarantor. Where a guarantor does not require legal advice, they must confirm that fact in writing to the Society
-• For any additional borrowing (or any other change), the guarantor must be a guarantor to the main account and agree to the additional borrowing
-• Be prepared to cover outstanding mortgage payments on request
+* Be resident in the UK
+* Have income to support the total loan in full, whilst taking into affordability any existing financial commitments of their own and passing the Society's affordability test
+* Be given independent legal advice / separate representation to ensure they are fully aware of their responsibilities as a guarantor. Where a guarantor does not require legal advice, they must confirm that fact in writing to the Society
+* For any additional borrowing (or any other change), the guarantor must be a guarantor to the main account and agree to the additional borrowing
+* Be prepared to cover outstanding mortgage payments on request
 
 There are no restrictions on the type of lending that guarantors would be acceptable on, however each case will be based on individual assessment.
 
-2.9 JOINT MORTGAGE, SOLE PROPRIETOR
---------------------------------------------------------------------------------
+### 2.9 Joint Mortgage, Sole Proprietor
+
 The Society will consider joint applications where only a sole proprietor is registered at the Land Registry. The expenditure in relation to the non-resident applicant's residential property will be included within the affordability assessment.
 
 For loans exceeding 80% Loan to Value, approval from the Mortgage Indemnity insurer will be required.
 
-2.10 LENDING IN AND INTO RETIREMENT
---------------------------------------------------------------------------------
+### 2.10 Lending in and Into Retirement
+
 Lending In and Into Retirement is permitted.
 
 LTV's for Into Retirement lending are capped at 80%, and for In Retirement they are capped at 70%
 
-• When assessing affordability on the expected, future retirement income, the review should reflect awareness, where feasible, of any changes that may impact the applicant's lifestyle and/or future financial position
-• Evidencing of pension income – whether state and/or private
-• Any potential to draw-down/lump sum payments on initial funds is highlighted, ensuring this is factored into calculations and it is the ongoing monthly pension amounts that are included. Where this is not yet known, lowest monthly income is assessed, to ensure 'worst case scenario' can be covered
-• Pensions payments expected should cover the term of the mortgage required, pension amounts versus expected longevity are reviewed
-• When assessing state pension, net amount is used
-• SIPP pensions will be carefully appraised, ensuring fund value is reviewed
+* When assessing affordability on the expected, future retirement income, the review should reflect awareness, where feasible, of any changes that may impact the applicant's lifestyle and/or future financial position
+* Evidencing of pension income – whether state and/or private
+* Any potential to draw-down/lump sum payments on initial funds is highlighted, ensuring this is factored into calculations and it is the ongoing monthly pension amounts that are included. Where this is not yet known, lowest monthly income is assessed, to ensure 'worst case scenario' can be covered
+* Pensions payments expected should cover the term of the mortgage required, pension amounts versus expected longevity are reviewed
+* When assessing state pension, net amount is used
+* SIPP pensions will be carefully appraised, ensuring fund value is reviewed
 
-2.11 MARRIED/CO-HABITING APPLICANTS/OTHER OCCUPIERS
---------------------------------------------------------------------------------
+### 2.11 Married/Co-habiting Applicants/Other Occupiers
+
 The Society will always expect applications to be in joint names when there are 2 or more people occupying the property and who have an economic interest in it.
 
 The Society will not lend to a sole applicant, where the partner has been classified as a non- borrowing occupier simply to avoid the declaration of a poor credit history. When an application is received in a sole name and it is known that there is a partner residing with them, consideration will be given to lending in the sole name provided that a justifiable rationale is received and a clear credit search is obtained on the non-borrowing partner (with their express consent). This could occur in instances of relationship changes.
@@ -245,178 +221,176 @@ The Society will not lend to a sole applicant, where the partner has been classi
 In these circumstances, in which it could be justified that the applicant and the non-borrowing occupier's debt is totally unrelated and should not affect the borrower's covenant to repay and meet their contractual obligation, lending may be appropriate, provided the terms outlined below are fully met:
 
 The applicant and the non-borrowing occupier have no joint related credit of any kind
-• A credit search is carried out on the non-borrowing occupier to ensure that there is no adverse credit, payday/short term lending, missed payments etc that would breach the Society's policy rules
-• The applicant and non-borrowing occupier have not bought or sold a property together before
-• Gifted deposit is acceptable providing it is not from the non-borrowing occupier.
-• In the cases of re-mortgages the applicant must demonstrate that they have always owned the property as a single borrower (or in cases of transfer of equity, the non – borrowing occupier has never been named).
-• If Mortgage Indemnity Guarantee is required, all details relating to the non-borrower's adverse credit/credit history should be fully disclosed
-• The applicant can demonstrate a clean credit history with no unpaid or missed payments and any existing credit is being managed in accordance with their contractual obligation
-• The applicant can demonstrate full affordability in their own right
-• Any such approved cases will be subject to enhanced mandating.
+* A credit search is carried out on the non-borrowing occupier to ensure that there is no adverse credit, payday/short term lending, missed payments etc that would breach the Society's policy rules
+* The applicant and non-borrowing occupier have not bought or sold a property together before
+* Gifted deposit is acceptable providing it is not from the non-borrowing occupier.
+* In the cases of re-mortgages the applicant must demonstrate that they have always owned the property as a single borrower (or in cases of transfer of equity, the non – borrowing occupier has never been named).
+* If Mortgage Indemnity Guarantee is required, all details relating to the non-borrower's adverse credit/credit history should be fully disclosed
+* The applicant can demonstrate a clean credit history with no unpaid or missed payments and any existing credit is being managed in accordance with their contractual obligation
+* The applicant can demonstrate full affordability in their own right
+* Any such approved cases will be subject to enhanced mandating.
 
 Under no circumstances should the Society lend to an applicant when it could be argued that the property is being transferred to avoid litigation or bankruptcy.
 
 The Society will allow applications in sole names for married, common-law or civil partners in the following circumstances:
-• For Buy-to-Let products
-• If the existing residential mortgage is in a sole name and the new mortgage is to be in the same name
-• If the existing residential mortgage is in joint names but is being re-mortgaged and changed into a Buy-to-Let in a sole name
-• The spouse or partner is acting as a guarantor for the mortgage
-• If there are religious reasons for the sole name application
-• Non-borrowing occupier does not have permanent rights to reside
+* For Buy-to-Let products
+* If the existing residential mortgage is in a sole name and the new mortgage is to be in the same name
+* If the existing residential mortgage is in joint names but is being re-mortgaged and changed into a Buy-to-Let in a sole name
+* The spouse or partner is acting as a guarantor for the mortgage
+* If there are religious reasons for the sole name application
+* Non-borrowing occupier does not have permanent rights to reside
 
 All persons over 17 who plan to reside in the property must sign an Occupiers Consent form, permitting a mortgage to be taken over the property. It is expected that legal advice will be given in these circumstances.
 
-2.12 MINIMUM/MAXIMUM AGE
---------------------------------------------------------------------------------
+### 2.12 Minimum/Maximum Age
+
 Minimum Age - 18 years at the time the application is signed.
 
 Maximum Age – No maximum age. The Society does not place restrictions around the permitted age of borrowers at term end, and instead will consider borrowers of any age who meet the underwriter's assessment of suitability and affordability, taking into account their needs and circumstances.
 
-2.13 MINIMUM PERIOD OF OWNERSHIP
---------------------------------------------------------------------------------
+### 2.13 Minimum Period of Ownership
+
 The Society will ordinarily expect the applicant(s) to have had a minimum period of ownership of six months prior to a re-mortgage taking place.
 
-2.14 NUMBER OF APPLICANTS
---------------------------------------------------------------------------------
+### 2.14 Number of Applicants
+
 We will allow up to 4 applicants on a mortgage.
 
 The Society will consider taking an applicant to the mortgage who will not be party to the title to the property. Where this is the case, consideration will be given to requiring that applicant to receive legal advice.
 
-2.15 PAYDAY LOANS
---------------------------------------------------------------------------------
+### 2.15 Payday Loans
+
 Payday Loans / Home Credit / Doorstep Loans
 
 Payday / Home credit and doorstep loans lending have become a method by which borrowers obtain credit quickly albeit at significantly higher rates than mainstream providers charge. Where this type of lending has been identified, the underwriter will make a full assessment which will include asking questions as appropriate, with responses detailed as part of the underwriting decision.
 
 In addition, lending to applicants where this type of lending has been a source of credit, the following terms apply:
-• No more than 2 agreements being raised within the last three years
-• No new loans taken in the last 6 months
-• All loans to have been settled
-• Loan should be satisfied through repayment rather than rolled over into a new Payday loan
-• Where this type of lending has been identified a suitable explanation will need to be requested
+* No more than 2 agreements being raised within the last three years
+* No new loans taken in the last 6 months
+* All loans to have been settled
+* Loan should be satisfied through repayment rather than rolled over into a new Payday loan
+* Where this type of lending has been identified a suitable explanation will need to be requested
 
 Application will be subject to enhanced mandating.
 
-================================================================================
-3. BUILD TYPES
-================================================================================
+---
 
-3.1 NEW BUILD/NEWLY CONVERTED PROPERTIES
---------------------------------------------------------------------------------
+## SECTION 3 – BUILD TYPES
+
+### 3.1 New Build/Newly Converted Properties
+
 A 'new build' is a property that was first registered two years ago or less, following construction, conversion (excluding flats in buildings built prior to 2000) or material refurbishment. For materially converted properties, it will be for the valuer to determine whether the extent of refurbishment is sufficient to make the property fall into the new build category of valuation.
 
 Maximum LTVs for New Builds:
-• For houses: 90% for purchase and re-mortgage (shared ownership 95% of share) 
-• For flats / apartments: 80% irrespective of whether purchase or re-mortgage (shared ownership 95% of share) 
+* For houses: 90% for purchase and re-mortgage (shared ownership 95% of share) 
+* For flats / apartments: 80% irrespective of whether purchase or re-mortgage (shared ownership 95% of share) 
 
 Where there is an element of capital raising to the application (for re-mortgages):
-• For consolidation of unsecured or secured debt not related to the security, the maximum LTV will be 75% for both interest only and repayment.
-• For consolidation of secured loans registered on the proposed security, the maximum LTV will be 75% for interest only and 80% for repayment.
+* For consolidation of unsecured or secured debt not related to the security, the maximum LTV will be 75% for both interest only and repayment.
+* For consolidation of secured loans registered on the proposed security, the maximum LTV will be 75% for interest only and 80% for repayment.
 
 Note: the maximum LTV is based upon the purchase price minus any incentives (such as free white goods)
 
-3.2 BUSINESS USE
---------------------------------------------------------------------------------
-The following uses are acceptable:
-• Office/Study: Applications where one room is being used on an informal basis as an office/study are acceptable. Any other arrangements must be referred to a mortgage underwriter.
-• Child Minding: Acceptable on a small scale provided that the property is also declared to be the full-time home of the applicant(s).
+### 3.2 Business Use
 
-3.3 PROPERTY WITH AN ANNEXE
---------------------------------------------------------------------------------
+The following uses are acceptable:
+* Office/Study: Applications where one room is being used on an informal basis as an office/study are acceptable. Any other arrangements must be referred to a mortgage underwriter.
+* Child Minding: Acceptable on a small scale provided that the property is also declared to be the full-time home of the applicant(s).
+
+### 3.3 Property with an Annexe
+
 Applications will be considered in the following situations:
-• Where the annexe is used by a dependent relative or au pair
-• Where the annexe is vacant
-• If the annexe is let commercially, letting must be through a valid commercial letting agreement
-• If the annexe is larger than the owner-occupied part of the building, the application will only be considered on Buy-to-Let terms
+* Where the annexe is used by a dependent relative or au pair
+* Where the annexe is vacant
+* If the annexe is let commercially, letting must be through a valid commercial letting agreement
+* If the annexe is larger than the owner-occupied part of the building, the application will only be considered on Buy-to-Let terms
 
 Applications will not be considered in the following situations: 
-• Where there is a Separate Title 
-• Where there are Separate utilities 
+* Where there is a Separate Title 
+* Where there are Separate utilities 
 
 Please note: The annexe needs to be on the same title, council tax, and utilities.
 
-3.4 TRADITIONAL CONSTRUCTION
---------------------------------------------------------------------------------
+### 3.4 Traditional Construction
+
 The following are regarded as traditional construction and normal lending terms apply:
 
 Walls:
-• Cavity outer walls of brick/reconstituted stone with inner walls of brick or block
-• Cavity outer walls of brick/reconstituted stone/blocks rendered with inner walls of brick or block. Timber framed property with outer walls of brick/reconstituted stone built 1970 or after
-• Timber framed property with rendered outer walls of brick/reconstituted stone/block built 1970 or after
-• Solid stone
+* Cavity outer walls of brick/reconstituted stone with inner walls of brick or block
+* Cavity outer walls of brick/reconstituted stone/blocks rendered with inner walls of brick or block. Timber framed property with outer walls of brick/reconstituted stone built 1970 or after
+* Timber framed property with rendered outer walls of brick/reconstituted stone/block built 1970 or after
+* Solid stone
 
 Roof:
-• Tile (concrete)
-• Slate
-• Thatch (reed or straw)
-• Felt, asphalt
-• Copper, lead
+* Tile (concrete)
+* Slate
+* Thatch (reed or straw)
+* Felt, asphalt
+* Copper, lead
 
-3.5 CONSTRUCTION METHODS
---------------------------------------------------------------------------------
+### 3.5 Construction Methods
+
 Property acceptability is based on a satisfactory valuation report, in accordance with the construction and valuation information detailed below. Non-standard construction will be assessed on individual merit.
 
 As a general rule if the construction type would be considered readily saleable, insurable and mortgageable, it is likely to be acceptable.
 
-Walls
+Walls:
 
-Construction Type | Acceptable?
-Solid Wall Construction | Yes
-Cavity Wall Construction | Yes
-Wall Type |
-Brick | Yes
-Natural Stone | Yes
-Reconstituted Stone | Yes
-Concrete Block | Yes
-Craft earth techniques (e.g.Cob) and Flint | Yes
-Concrete - Wimpey no Fines | Yes
-Concrete – Laing Easiform, where post 1945 (Type II) | Yes
-Pre-Cast Reinforced Concrete (PRC) houses where the property has been repaired under the PRC (Homes) Ltd repair scheme. Only where all other properties in the same structural block (i.e. other semi or rest of terrace) have been repaired to the same standard. | Yes
-Large Panel Systems (LPS), no more than two storeys high and subject to structural engineer's report | No
-Steel Framed Houses, (subject to being readily mortgageable and saleable). Only where retrospective cavity insulation has not been installed. | Refer
-Timber framed houses, (clad with masonry). Only where retrospective cavity insulation has not been installed. | Yes
-Period (pre-1900) timber framed houses, subject to valuer confirming saleability | Yes
-Timber Framed with non-masonry (clad) elevations. Modern timber framed properties (post 2000) with non-masonry elevations are acceptable subject to there being masonry to DPC level, an appropriate warranty (when constructed), assurance certificates for the frame and the cladding and the Valuer confirming proven demand. | Yes
-Any property where there is ongoing movement and monitoring is required. | No
-Mundic properties where the property is not graded A1, A2 or A3. Properties in areas where mundic is a known problem, dating from the period when this material was used, must be subject to a screening test in line with the RICS guidance. | No
-Property where high alumina cement or Mundic block has been used in the construction | No
-Prefabricated building and PRC construction | No
-Property which has been underpinned | Refer
-Property suffering from progressive structural movement | No
-Steel/concrete frame flats with suitable cladding | Yes
+* Solid Wall Construction: Acceptable
+* Cavity Wall Construction: Acceptable
+* Brick: Acceptable
+* Natural Stone: Acceptable
+* Reconstituted Stone: Acceptable
+* Concrete Block: Acceptable
+* Craft earth techniques (e.g. Cob) and Flint: Acceptable
+* Concrete - Wimpey no Fines: Acceptable
+* Concrete – Laing Easiform, where post 1945 (Type II): Acceptable
+* Pre-Cast Reinforced Concrete (PRC) houses where the property has been repaired under the PRC (Homes) Ltd repair scheme. Only where all other properties in the same structural block (i.e. other semi or rest of terrace) have been repaired to the same standard: Acceptable
+* Large Panel Systems (LPS), no more than two storeys high and subject to structural engineer's report: Not acceptable
+* Steel Framed Houses, (subject to being readily mortgageable and saleable). Only where retrospective cavity insulation has not been installed: Refer
+* Timber framed houses, (clad with masonry). Only where retrospective cavity insulation has not been installed: Acceptable
+* Period (pre-1900) timber framed houses, subject to valuer confirming saleability: Acceptable
+* Timber Framed with non-masonry (clad) elevations. Modern timber framed properties (post 2000) with non-masonry elevations are acceptable subject to there being masonry to DPC level, an appropriate warranty (when constructed), assurance certificates for the frame and the cladding and the Valuer confirming proven demand: Acceptable
+* Any property where there is ongoing movement and monitoring is required: Not acceptable
+* Mundic properties where the property is not graded A1, A2 or A3. Properties in areas where mundic is a known problem, dating from the period when this material was used, must be subject to a screening test in line with the RICS guidance: Not acceptable
+* Property where high alumina cement or Mundic block has been used in the construction: Not acceptable
+* Prefabricated building and PRC construction: Not acceptable
+* Property which has been underpinned: Refer
+* Property suffering from progressive structural movement: Not acceptable
+* Steel/concrete frame flats with suitable cladding: Acceptable
 
 Where 'Refer', care should be taken to review valuer comments. If the application is in relation to a wealth planning product, specific consideration will be needed when reviewing 'referred' construction types.
 
-Roof
+Roof:
 
-Timber frame covered with either tiles or slates | Yes
-Reed or Straw | Yes
-Copper | Yes
-Lead | Yes
-Zinc | Yes
-Asphalt (Maximum 50% for houses) | Yes
-Mineralized Felt (Maximum 50% for houses) | Yes
-GRP & EDPM | Yes
+* Timber frame covered with either tiles or slates: Acceptable
+* Reed or Straw: Acceptable
+* Copper: Acceptable
+* Lead: Acceptable
+* Zinc: Acceptable
+* Asphalt (Maximum 50% for houses): Acceptable
+* Mineralized Felt (Maximum 50% for houses): Acceptable
+* GRP & EDPM: Acceptable
 
 Flat Roofs
 Flat roofs clad with copper, lead, zinc or asphalt are considered acceptable as are other modern materials which carry a minimum 25-year guarantee (subject to guidance above). Mineral felt flat roofs tend to have a shorter lifespan and are acceptable for dormers and extensions but not where they form more than 50% of the total roof area of the property.
 
-3.6 MINIMUM LEASE TERM (FOR LEASEHOLD PROPERTY)
---------------------------------------------------------------------------------
+### 3.6 Minimum Lease Term (for Leasehold Property)
+
 For leasehold properties where the mortgage will be conducted on a Capital and Interest Repayment basis, we will expect the lease term remaining to be at least 85 years at draw down.
 
 For leasehold properties where the mortgage will be conducted on an interest only basis (or part and part) and the LTV is < 50% at draw down, we will expect the lease term remaining to be at least 85 years at draw down.
 
 For Interest Only/part and part mortgages where the LTV at draw down is >50%, we will ordinarily expect there to be at least 85 years remaining at the end of the mortgage term.
 
-================================================================================
-4. BUY-TO-LET
-================================================================================
+---
+
+## SECTION 4 – BUY-TO-LET
 
 Please note that this page is for intermediary use only.
 
-4.1 BUY-TO-LET DEFINITION
---------------------------------------------------------------------------------
+### 4.1 Buy-to-Let Definition
+
 According to the FCA Handbook, a Buy-to-Let (BTL) credit agreement means either:
 
   1. A contract that at the time it is entered into has the following characteristics: 
@@ -437,78 +411,78 @@ BTL products are non-regulated and are therefore subject to different product te
 
 Please note that Buy-to-Let applications are subject to product availability and restrictions may apply.
 
-4.2 GENERAL
---------------------------------------------------------------------------------
-• BTL lending is subject to specific BTL products and terms
-• New applications for CBTL borrowing will go through the same underwriting and affordability tests as with a residential mortgage
-• The assessment for the rental income calculation (or Interest Coverage Ratio ‐ ICR) will be determined by the following;
+### 4.2 General
+
+* BTL lending is subject to specific BTL products and terms
+* New applications for CBTL borrowing will go through the same underwriting and affordability tests as with a residential mortgage
+* The assessment for the rental income calculation (or Interest Coverage Ratio ‐ ICR) will be determined by the following;
     * For new applicants, where their income puts them into the higher rate tax bracket, the amount earned in rental income must cover at least 140% of the interest only mortgage payment
     * For new applicants, where their income puts them into the basic rate tax bracket, the amount earned in rental income must cover at least 130% of the interest only mortgage payment
     * For re‐mortgage customers, where there is no additional lending (regardless of whether their current mortgage is held with the Society or not), the rental income must cover at least 130%
-• Maximum LTV is 80%
-• Maximum mortgage term available 40 years
-• Buy-to-Let mortgages can be considered on a repayment basis, interest only or part repayment / part interest only
-• We will not accept an application from a portfolio landlord
+* Maximum LTV is 80%
+* Maximum mortgage term available 40 years
+* Buy-to-Let mortgages can be considered on a repayment basis, interest only or part repayment / part interest only
+* We will not accept an application from a portfolio landlord
     * Definition: A portfolio landlord is a landlord with four or more mortgaged Buy-to- Let properties across all lenders. This figure would also include the proposed mortgage being applied for with the Society.
 
-4.3 APPLICANT DETAILS
---------------------------------------------------------------------------------
-• Applicant(s) should ordinarily be existing owner occupiers (with or without a mortgage). Consideration will be given where an applicant does not own their own home, subject to the underwriter being satisfied with the underlying rationale
-• Special Purpose Vehicle Companies are not allowed
-• If the applicant(s) have other investment properties, the applicant(s) must complete the Society's Personal Asset and Liability Statement
-• Borrowers are restricted to a maximum portfolio with the Society of £1 million including main residence
-• Borrowers who are married, in a civil partnership, co-habiting or have their financial affairs linked will have their borrowings with the Society classed as one total figure.
+### 4.3 Applicant Details
 
-4.4 PROPERTY
---------------------------------------------------------------------------------
+* Applicant(s) should ordinarily be existing owner occupiers (with or without a mortgage). Consideration will be given where an applicant does not own their own home, subject to the underwriter being satisfied with the underlying rationale
+* Special Purpose Vehicle Companies are not allowed
+* If the applicant(s) have other investment properties, the applicant(s) must complete the Society's Personal Asset and Liability Statement
+* Borrowers are restricted to a maximum portfolio with the Society of £1 million including main residence
+* Borrowers who are married, in a civil partnership, co-habiting or have their financial affairs linked will have their borrowings with the Society classed as one total figure.
+
+### 4.4 Property
+
 The property must be let by way of Assured Shorthold Tenancy agreement. The maximum duration on the term of the tenancy is 36 months and the AST should be renewable at 12-monthly intervals. We will accept a maximum of 4 individuals (regardless of the relationship to each other) on the agreement and a maximum of 4 separate agreements for any one property (where individual rooms are let out).
 
 The property must be:
-• valued at more than £75,000
-• located in England or Wales
+* valued at more than £75,000
+* located in England or Wales
 
 We will not lend on the following properties:
-• Properties not in a let-able condition at time of completion
-• Properties converted into bed sits with shared kitchen and bathroom facilities
-• No element of HMO (Housing in Multiple Occupation).
+* Properties not in a let-able condition at time of completion
+* Properties converted into bed sits with shared kitchen and bathroom facilities
+* No element of HMO (Housing in Multiple Occupation).
 
-4.5 AFFORDABILITY FOR BUY-TO-LET
---------------------------------------------------------------------------------
+### 4.5 Affordability for Buy-to-Let
+
 For professional BTL applications (not CBTL), the rental income calculation is used to determine affordability. The amount earned in rental income must cover at least 140% of the Interest Only mortgage payment, calculated in accordance with the following:
-• For fixed rate products of 5 or more years duration – 5.5%
-• For all other products - the higher of pay-rate plus 2% or 5.5%
+* For fixed rate products of 5 or more years duration – 5.5%
+* For all other products - the higher of pay-rate plus 2% or 5.5%
 
 Where the rental cover calculations are not met, the Society will consider lending where it can be adequately demonstrated that the strength of borrowers' covenant is sufficient to create an acceptable lending risk. In order to demonstrate this, the following criteria will be met:
-• The BTL mortgage must fall within multiples of 4.75 (income) for a sole application and 4.5 for a joint application, with the annualised payment for the background residential mortgage having first been deducted from gross income and
-• The applicants must provide a budget planner and by using either this or ONS data, it must be clear that affordability exists for the background residential mortgage
-• The Society will accept as income the net rental figure from existing BTLs, provided that this can be evidenced for at least the previous 12 months. Evidence will be required in the form of SA302s or company accounts
-• The Society will carry out an assessment of the customer's ability to cover rental voids, to ensure the customer can not only cover the void but also cover the required expenses associated with owning and maintaining a rental property.
+* The BTL mortgage must fall within multiples of 4.75 (income) for a sole application and 4.5 for a joint application, with the annualised payment for the background residential mortgage having first been deducted from gross income and
+* The applicants must provide a budget planner and by using either this or ONS data, it must be clear that affordability exists for the background residential mortgage
+* The Society will accept as income the net rental figure from existing BTLs, provided that this can be evidenced for at least the previous 12 months. Evidence will be required in the form of SA302s or company accounts
+* The Society will carry out an assessment of the customer's ability to cover rental voids, to ensure the customer can not only cover the void but also cover the required expenses associated with owning and maintaining a rental property.
 
-4.6 MULTI–TENANTED PROPERTIES
---------------------------------------------------------------------------------
+### 4.6 Multi-tenanted Properties
+
 Properties let on a multi-tenanted basis are acceptable, provided that:
-• the property is occupied by no more than 4 tenants
-• the property is not subject to Houses in Multiple Occupation licensing
-• the property contains no more than four habitable storeys and no more than one kitchen.
+* the property is occupied by no more than 4 tenants
+* the property is not subject to Houses in Multiple Occupation licensing
+* the property contains no more than four habitable storeys and no more than one kitchen.
 
-================================================================================
-5. DEPOSIT
-================================================================================
+---
 
-5.1 PROOF OF DEPOSIT
---------------------------------------------------------------------------------
+## SECTION 5 – DEPOSIT
+
+### 5.1 Proof of Deposit
+
 We will require evidence of the deposit such as bank account or investment statements. In the case of a gifted deposit we will require sight of a letter from the donor stating that there are no conditions attaching to the gift.
 
-5.2 SOURCE OF DEPOSIT
---------------------------------------------------------------------------------
+### 5.2 Source of Deposit
+
 The minimum deposit must be provided from the applicant's own funds or a gifted deposit. Loans, credit cards, secured loans and other forms of credit are not acceptable as the source of the minimum deposit. The only exception to this is for members of the armed forces, where the deposit is funded via the Long Service Advance of Pay Scheme will be acceptable.
 
-================================================================================
-6. GENERAL
-================================================================================
+---
 
-6.1 CAPITAL RAISING
---------------------------------------------------------------------------------
+## SECTION 6 – GENERAL
+
+### 6.1 Capital Raising
+
 We will accept the following loan purposes for capital raising.
 
 Loan Purpose | Maximum LTV %
@@ -518,67 +492,67 @@ The purchase of another property such as a second property for the applicant's o
 Capital raising to repay tax bills is acceptable provided a full explanation as to why the tax bill is outstanding and reassurance that there are no further tax liabilities outstanding or likely to accrue. Enhanced mandating will be required. | Interest only: 75% Repayment: 80%
 Capital raising for new business ventures is acceptable providing a full explanation of the venture is received and understood by the Underwriter and the Underwriter is satisfied that this will not impact the income being used from existing employment to satisfy on going affordability. | Repayment: 80%
 
-6.2 CASUAL EMPLOYMENT
---------------------------------------------------------------------------------
+### 6.2 Casual Employment
+
 We do not accept applications from people employed on a casual basis. We do however accept zero-hours contracts, subject to enhanced mandating.
 
-6.3 CHILD MINDING/FOSTERING
---------------------------------------------------------------------------------
+### 6.3 Child Minding/Fostering
+
 Where an applicant is a child-minder or full-time fosterer they are treated as self-employed.
 
 Where an applicant is a full-time fosterer, any appropriate dependants (including those fostered) should be declared and this, combined with fostering income, will be taken into consideration when reviewing affordability.
 
-6.4 CREDIT COMMITMENTS
---------------------------------------------------------------------------------
+### 6.4 Credit Commitments
+
 The annualised payments on any continuing commitments including shared ownership rent, maintenance that extend more than 6 months beyond the anticipated date on which the Society's loan is completed are deducted from the 'qualifying income'. For the purpose of this calculation, credit card commitments must be based on the lower of 3% of the balance outstanding or the required minimum repayment level specified by the credit provider (if known).
 
-6.5 ECO PRODUCTS
---------------------------------------------------------------------------------
+### 6.5 Eco Products
+
 Certain properties will be eligible for the Society's Eco product range. Residential properties which currently have an EPC rating of A or B or BTL properties with a rating of A-C qualify. A copy of the current EPC certificate should be provided during the underwriting assessment.
 
-6.6 EMPLOYMENT
---------------------------------------------------------------------------------
-Applicants must be able to demonstrate a continuous track record of employment or self- employment and, currently, must be either:
-• Permanently employed for the preceding 6 months and have been with their present employer for at least three months unless starting a new job with no probationary requirement or
-• Employed on a contract of a minimum 6 months' duration, or 3 months' duration if the applicant can prove that they have had regular contracts over the last 2 years in the same line of work or
-• Self-employed - defined as an individual who controls their own business, such as a Sole Trader, Partner or Shareholding Director (holding in excess of 25% of the share capital) of a company. We would normally expect applicant(s) to be self-employed for a minimum of 1 year
-• Casual Employment – We do not accept applications from people employed on a casual basis. We do however accept zero-hours contracts.
-• Applicants who work on private Yachts, will not be considered.
+### 6.6 Employment
 
-6.7 EXISTING MORTGAGE(S) – BUY-TO-LET WITH ANOTHER LENDER
---------------------------------------------------------------------------------
+Applicants must be able to demonstrate a continuous track record of employment or self- employment and, currently, must be either:
+* Permanently employed for the preceding 6 months and have been with their present employer for at least three months unless starting a new job with no probationary requirement or
+* Employed on a contract of a minimum 6 months' duration, or 3 months' duration if the applicant can prove that they have had regular contracts over the last 2 years in the same line of work or
+* Self-employed - defined as an individual who controls their own business, such as a Sole Trader, Partner or Shareholding Director (holding in excess of 25% of the share capital) of a company. We would normally expect applicant(s) to be self-employed for a minimum of 1 year
+* Casual Employment – We do not accept applications from people employed on a casual basis. We do however accept zero-hours contracts.
+* Applicants who work on private Yachts, will not be considered.
+
+### 6.7 Existing Mortgage(s) – Buy-to-Let with Another Lender
+
 The applicant must complete The Society's Property Schedule.
 
 The mortgage debt(s) may be disregarded providing the mortgage is conducted satisfactorily and rental income cover is sufficient, (i.e. the appropriate ICR percentage coverage is met) in accordance with the Society's assessment process for buy to let applications.
 
 The Society will accept as income the Net rental figure from existing BTLs, provided that this can be evidenced for at least the previous 12 months. Evidence will be required in the form of SA302s or company accounts.
 
-6.8 EXPOSURES LEVELS
---------------------------------------------------------------------------------
+### 6.8 Exposures Levels
+
 Mortgage lending exposure in any one property development is capped, where practicable, to 25%.
 
 Where this is residential Buy-to-Let or Shared Ownership, a maximum of 25% exposure is allowable in blocks of 4 flats or more. For blocks of 3 flats or less, we will only lend on one property.
 
-6.9 MINIMUM AND MAXIMUM LOANS
---------------------------------------------------------------------------------
+### 6.9 Minimum and Maximum Loans
+
 Minimum:
 There is no minimum loan amount (although at times, some product specific minimum loans may apply)
 
 Maximum:
-• The maximum loan is £2.5 million
-• Loans in excess of £750,000 require additional approval internally.
+* The maximum loan is £2.5 million
+* Loans in excess of £750,000 require additional approval internally.
 Loans over 80% must be referred to the mortgage indemnity insurers
 
-6.10 MATERNITY/PATERNITY
---------------------------------------------------------------------------------
+### 6.10 Maternity/Paternity
+
 We will accept the income that the applicant expects to receive after maternity / paternity leave. Confirmation in writing from the applicant that they intend to return to work must be obtained.
 
-6.11 UNACCEPTABLE INCOME
---------------------------------------------------------------------------------
+### 6.11 Unacceptable Income
+
 We will not accept applications where income is derived from incapacity benefits, housing benefit, income support and/or job seeker's allowance unless they are for HOLD mortgage applications. Applications where income is derived from Universal Credits will not be accepted unless evidence can be provided on how any acceptable benefit is derived, exemptions may be made for HOLD mortgage applications.
 
-6.12 SPECIALIST AREAS OF LENDING
---------------------------------------------------------------------------------
+### 6.12 Specialist Areas of Lending
+
   1. Flats (up to 5 Storeys)
      * Flats are acceptable subject to a maximum loan to value of 90% (or 80% if new build)
      * Flats above 5 storeys high are acceptable providing that they were constructed in or after the year 2000 (note: this would include conversions post 2000 where original build was prior to 2000) and are recommended by the valuer as suitable security with satisfactory on-going demand. The maximum LTV is 75%
@@ -586,21 +560,21 @@ We will not accept applications where income is derived from incapacity benefits
   2. Studio Flats
      * Studio Flats are acceptable subject to no adverse comments from the Valuer and confirmation from the valuation report that demand for the property is good. Although there is no minimum square footage requirement, where this is below 35m2, the application will be subject to enhanced mandating
 
-6.13 SHARED OWNERSHIP
---------------------------------------------------------------------------------
-• Maximum mortgage of 95% of the initial share without mortgage indemnity insurance, minimum share 5%, subject to Mortgage Protection Clause
-• The Shared Ownership arrangement must be through a registered Housing Association or Registered Social Landlord
-• The borrower(s) must be able to evidence affordability of both the mortgage and the rent payable on the remaining share; with the rent plus any service charge/maintenance costs being deducted as a commitment
-• Shared Ownership loans are only offered on a capital repayment basis only, interest only is not available
-• If lease does not allow the borrower to staircase to a full 100% of the value of the property the application is not acceptable
-• Additional borrowing on shared ownership properties can be considered for the purchase of additional / final shares and for home improvements
-• Additional borrowing for home improvements up to 85% of current value of the share owned can be considered. Consent from the Housing Association must be obtained in all cases
-• Additional borrowing for non-home improvements, for example, debt consolidation cannot be considered
-• On purchase of the final share, mortgage indemnity insurance is required for any amount then owing above 80%, up to a maximum loan of 95%
-• Please note that Shared Ownership applications are subject to product availability and restrictions may apply
+### 6.13 Shared Ownership
 
-6.14 HOLIDAY LET
---------------------------------------------------------------------------------
+* Maximum mortgage of 95% of the initial share without mortgage indemnity insurance, minimum share 5%, subject to Mortgage Protection Clause
+* The Shared Ownership arrangement must be through a registered Housing Association or Registered Social Landlord
+* The borrower(s) must be able to evidence affordability of both the mortgage and the rent payable on the remaining share; with the rent plus any service charge/maintenance costs being deducted as a commitment
+* Shared Ownership loans are only offered on a capital repayment basis only, interest only is not available
+* If lease does not allow the borrower to staircase to a full 100% of the value of the property the application is not acceptable
+* Additional borrowing on shared ownership properties can be considered for the purchase of additional / final shares and for home improvements
+* Additional borrowing for home improvements up to 85% of current value of the share owned can be considered. Consent from the Housing Association must be obtained in all cases
+* Additional borrowing for non-home improvements, for example, debt consolidation cannot be considered
+* On purchase of the final share, mortgage indemnity insurance is required for any amount then owing above 80%, up to a maximum loan of 95%
+* Please note that Shared Ownership applications are subject to product availability and restrictions may apply
+
+### 6.14 Holiday Let
+
 The full property must be used as a holiday let, therefore properties where individual rooms or sections of the property are let, will not be accepted.
 
 The Society can accept holiday lets on both a purchase and remortgage basis.
@@ -609,22 +583,22 @@ Existing BTL assessment rules apply, therefore applications may be assessed on e
 
 For valuation purposes, the valuer will confirm there is a sustainable market, on the assumption of a 6-12 month AST basis (this is to provide confidence on re-saleability). The valuer will also confirm that there are no onerous restrictions or covenants affecting the usage of the property, e.g. no holiday parks or restricted usage periods.
 
-6.15 PROPERTIES WITH LAND
---------------------------------------------------------------------------------
+### 6.15 Properties with Land
+
 Properties which include larger acreage of land are acceptable provided there are no farming activities or planning restrictions. The applicants must undertake not to use the land for any agricultural or business purposes. For re-mortgages there must be no tenancies in place.
 
-6.16 SECOND HOME/HOLIDAY HOME
---------------------------------------------------------------------------------
+### 6.16 Second Home/Holiday Home
+
 If the property is for owner-occupation we will consider applications subject to a maximum loan to value of 80%.
 
-6.17 UNDERVALUE TRANSACTIONS
---------------------------------------------------------------------------------
+### 6.17 Undervalue Transactions
+
 We will consider applications where the purchase price is below the market value, subject to the relationship between vendor and purchaser being plausible e.g. parent selling to son/daughter. Any charge placed on the property by a vendor must be subordinate to the Society's.
 
 The equity must be gifted and not subject to any subsequent charge.
 
-6.18 PURPOSE OF LOAN
---------------------------------------------------------------------------------
+### 6.18 Purpose of Loan
+
 Loan Purpose | Maximum Loan %
 The purchase of a property or any interest in a property, for owner occupation, including:
   * Purchase of the freehold, commonhold or leasehold estate of the property;
@@ -639,152 +613,152 @@ The purchase of another property such as a second property for the applicant's o
 Purchase of another property for letting, Buy to Let | Interest only:75% Repayment: 75%
 
 NOTE:
-• A mix of interest only and repayment is allowed only where the total borrowing is less than 75% LTV.
-• Debt consolidation is not permitted unless it can be evidenced that the funds used were for home improvements.
-• For existing borrowers requiring additional borrowing where the existing debt is conducted on an interest only basis and the LTV is more than 75%, the additional borrowing must be arranged on a repayment basis.
-• Lending is restricted to 80% for new build flat/apartment purchase.
-• Product restrictions may also apply.
+* A mix of interest only and repayment is allowed only where the total borrowing is less than 75% LTV.
+* Debt consolidation is not permitted unless it can be evidenced that the funds used were for home improvements.
+* For existing borrowers requiring additional borrowing where the existing debt is conducted on an interest only basis and the LTV is more than 75%, the additional borrowing must be arranged on a repayment basis.
+* Lending is restricted to 80% for new build flat/apartment purchase.
+* Product restrictions may also apply.
 
-6.19 SOLICITORS
---------------------------------------------------------------------------------
+### 6.19 Solicitors
+
 The Society operates a panel management arrangement via LMS.
 
 All details regarding LMS can be found on the Intermediary section of our website. Go to:
-• Tools and Downloads
-• Important Documents
-• Conveyancing section
+* Tools and Downloads
+* Important Documents
+* Conveyancing section
 
-6.20 VALUERS
---------------------------------------------------------------------------------
+### 6.20 Valuers
+
 When a Standard Valuation is required it must be independently instructed by the Society. Panel Management is provided by Connells.
 
 The valuation is valid for six months from the date it was carried out. If the valuer confirms valuation remains valid after this period of time it may be used. If confirmation cannot be obtained a new valuation must be instructed.
 
-6.21 APPLICATION PACKAGING REQUIREMENTS
---------------------------------------------------------------------------------
+### 6.21 Application Packaging Requirements
+
 The basic packaging requirements for an underwriter to review your case:
-• Fully Completed Application Form on DPR
-• Signed Mortgage Application Declaration/Fee Declaration
-• Valuation fee (including £125 application fee). Please refer to our Valuation Fee Scale (PDF available on website)
+* Fully Completed Application Form on DPR
+* Signed Mortgage Application Declaration/Fee Declaration
+* Valuation fee (including £125 application fee). Please refer to our Valuation Fee Scale (PDF available on website)
 
 Employed
-• 1 Months most recent Bank Statement for all personal current Accounts held 
-• 3 Months Payslips
+* 1 Months most recent Bank Statement for all personal current Accounts held 
+* 3 Months Payslips
 
 Self Employed
-• 1 Months most recent Bank Statement for all personal current Accounts held 
-• 3 Months' Bank Statements for all business current Accounts (6 months if only 1 years Accounts)
-• SA302's & Tax Calculations with corresponding Tax Overviews as proof of income for the last 3 years
+* 1 Months most recent Bank Statement for all personal current Accounts held 
+* 3 Months' Bank Statements for all business current Accounts (6 months if only 1 years Accounts)
+* SA302's & Tax Calculations with corresponding Tax Overviews as proof of income for the last 3 years
 
 Ad-hoc packaging requirements:
-• If applicant has any other properties whatsoever, mortgaged or unencumbered (BTL/resi/holiday home) – completed Property Schedule (PDF available on website) is required
-• Proof of retirement income is required when applicant is within 10 years of desired retirement age at the time of application
-• Proof of rental payment covering 12 months where applicable. Bank statements are required where Tenancy is not via a Professional Letting Agent or Private Landlord's reference. A reference alone is acceptable where Tenancy is managed by Letting Agent
-• Proof of mortgage payments, covering 12 months, where applicable
-• Proof of Deposit
-• Three year's proof of residency if applicant not on Voters Roll
-• LMS declaration form (PDF available on website)
-• Consent to Mortgage form is required when there will be any persons residing in the property on completion age 17 or over
-• BTL Supplementary Declaration (PDF available on website)
-• Memorandum of Sale of Housing Association for all Shared Ownership cases
+* If applicant has any other properties whatsoever, mortgaged or unencumbered (BTL/resi/holiday home) – completed Property Schedule (PDF available on website) is required
+* Proof of retirement income is required when applicant is within 10 years of desired retirement age at the time of application
+* Proof of rental payment covering 12 months where applicable. Bank statements are required where Tenancy is not via a Professional Letting Agent or Private Landlord's reference. A reference alone is acceptable where Tenancy is managed by Letting Agent
+* Proof of mortgage payments, covering 12 months, where applicable
+* Proof of Deposit
+* Three year's proof of residency if applicant not on Voters Roll
+* LMS declaration form (PDF available on website)
+* Consent to Mortgage form is required when there will be any persons residing in the property on completion age 17 or over
+* BTL Supplementary Declaration (PDF available on website)
+* Memorandum of Sale of Housing Association for all Shared Ownership cases
 
 All forms/reference templates can be downloaded from the Intermediary section of the website.
 
-6.22 INSURANCE
---------------------------------------------------------------------------------
+### 6.22 Insurance
+
 It is a condition of all our mortgages that buildings insurance is taken out for a sum recommended by the Society and must be maintained throughout the lifetime of the mortgage but does not have to be taken out through the Society.
 
 If the Society does not arrange the insurance the conveyancer is instructed to ensure that suitable insurance starts no later than completion.
 
-================================================================================
-7. INCOME
-================================================================================
+---
 
-7.1 INCOME
---------------------------------------------------------------------------------
+## SECTION 7 – INCOME
+
+### 7.1 Income
+
 The following income and percentages of income are considered when calculating the amount the Society will lend to PAYE employees or contract workers.
 
 Qualifying income table (PDF available on website)
 
 Proof of Income
-• For applicants paid monthly – we require the last P60 (or payslip showing aggregate annual income where appropriate) and the most recent payslip(s), to cover at least the latest 3 months' income. Where deductions are seen on the payslips, ensure this is reflected in the affordability calculator.
-• For applicants paid weekly or bi-weekly - we require the last P60 and sufficient payslips to cover a three month period;
-• If the applicant is self-employed, we normally require the last 3 years' SA302's or, Tax Calculations with corresponding Tax Year Overviews. 3 years' Trading accounts are also accepted, and may also be requested in addition to support an application
-• Reference should be made to accountants and professional advisers for details of likely future income and trading prospects.
+* For applicants paid monthly – we require the last P60 (or payslip showing aggregate annual income where appropriate) and the most recent payslip(s), to cover at least the latest 3 months' income. Where deductions are seen on the payslips, ensure this is reflected in the affordability calculator.
+* For applicants paid weekly or bi-weekly - we require the last P60 and sufficient payslips to cover a three month period;
+* If the applicant is self-employed, we normally require the last 3 years' SA302's or, Tax Calculations with corresponding Tax Year Overviews. 3 years' Trading accounts are also accepted, and may also be requested in addition to support an application
+* Reference should be made to accountants and professional advisers for details of likely future income and trading prospects.
 
 Bank Statements:
-• For employed applicants or those retired or with private income, we require the last 1 months bank statements which must show salary / income credits where such could be expected to exist;
-• For self-employed applicants, we will require the last 3 months business and personal bank statements. For applicants applying for a mortgage based upon proof of income for a period of less than 2 years, we would ordinarily expect to see business and personal bank statements for a period of 6 months.
-• We will examine the bank statements to ensure that we have an understanding of the applicant's spending or unusual income patterns.
-• Occasionally, underwriters may seek Credit Card statements to look at expenditure in greater detail.
+* For employed applicants or those retired or with private income, we require the last 1 months bank statements which must show salary / income credits where such could be expected to exist;
+* For self-employed applicants, we will require the last 3 months business and personal bank statements. For applicants applying for a mortgage based upon proof of income for a period of less than 2 years, we would ordinarily expect to see business and personal bank statements for a period of 6 months.
+* We will examine the bank statements to ensure that we have an understanding of the applicant's spending or unusual income patterns.
+* Occasionally, underwriters may seek Credit Card statements to look at expenditure in greater detail.
 
-================================================================================
-8. PROPERTY
-================================================================================
+---
 
-8.1 ACCEPTABLE SECURITY
---------------------------------------------------------------------------------
+## SECTION 8 – PROPERTY
+
+### 8.1 Acceptable Security
+
 The property must be:
-• Used by the applicant or by an immediate family dependant relative, for owner occupation or
-• Used for occasional or eventual owner occupation or
-• Used for Buy-to-Let
-• Located in England or Wales
-• The subject of a first mortgage by the Society
-• Be freehold, commonhold or long leasehold
-• Have either acceptable New Home Warranty or acceptable Professional Consultant's Supervision Certificate if new, or built within 10 years
-• Classed as suitable for mortgage purposes by the Society's valuer
+* Used by the applicant or by an immediate family dependant relative, for owner occupation or
+* Used for occasional or eventual owner occupation or
+* Used for Buy-to-Let
+* Located in England or Wales
+* The subject of a first mortgage by the Society
+* Be freehold, commonhold or long leasehold
+* Have either acceptable New Home Warranty or acceptable Professional Consultant's Supervision Certificate if new, or built within 10 years
+* Classed as suitable for mortgage purposes by the Society's valuer
 
-8.2 UNACCEPTABLE SECURITY
---------------------------------------------------------------------------------
+### 8.2 Unacceptable Security
+
 The property must not be:
-• Valued below £75,000
-• A freehold flat, unless a modern coach house
-• A property subject to a flying freehold where this exceeds 25% of the property
-• A Farm / small holding where there is land subject to current agricultural use
-• A flat in a building with more than 5 storeys (if originally built prior to 2000)
-• Flats with deck access are not acceptable, unless access to the deck is controlled and secure and subject to valuer confirmation of suitability
-• A flat which is above a shop or other business premises where the shop directly below or the one either side of directly below is considered to potentially impact on future saleability (e.g. launderettes; fast food outlets), where the LTV exceeds 75% Repayment, or 65% for Interest Only. Please note they will be reviewed on a case by case basis and will be led by the valuers guidance.
-• A property with mixed residential and business use (except in agreed circumstance)
-• A property with occupancy restrictions (e.g. age, local working or Section 106 restrictions)
-• A HMO requiring a mandatory or discretionary licence or is in an area subject to Article 4 control of C4 use
-• Mobile Homes
-• Landlocked property
-• Houseboats
-• Property with pre-emption clause in existence
-• Park Homes
-• Sheltered Accommodation
-• Live/work units
-• Property with no functional kitchen or bath/shower room
-• Property where material environmental hazards are present
-• Property where saleability may be adversely affected by local planning matters or by an unsatisfactory mining report
-• Property with Planning Use Classes Order other than C3 or C4 (outside of an area subject to Article 4 control of C4 use)
-• Property on which there is a local authority grant outstanding
-• Property which has shared access where the applicant or a relative controls the property or properties which share the access
+* Valued below £75,000
+* A freehold flat, unless a modern coach house
+* A property subject to a flying freehold where this exceeds 25% of the property
+* A Farm / small holding where there is land subject to current agricultural use
+* A flat in a building with more than 5 storeys (if originally built prior to 2000)
+* Flats with deck access are not acceptable, unless access to the deck is controlled and secure and subject to valuer confirmation of suitability
+* A flat which is above a shop or other business premises where the shop directly below or the one either side of directly below is considered to potentially impact on future saleability (e.g. launderettes; fast food outlets), where the LTV exceeds 75% Repayment, or 65% for Interest Only. Please note they will be reviewed on a case by case basis and will be led by the valuers guidance.
+* A property with mixed residential and business use (except in agreed circumstance)
+* A property with occupancy restrictions (e.g. age, local working or Section 106 restrictions)
+* A HMO requiring a mandatory or discretionary licence or is in an area subject to Article 4 control of C4 use
+* Mobile Homes
+* Landlocked property
+* Houseboats
+* Property with pre-emption clause in existence
+* Park Homes
+* Sheltered Accommodation
+* Live/work units
+* Property with no functional kitchen or bath/shower room
+* Property where material environmental hazards are present
+* Property where saleability may be adversely affected by local planning matters or by an unsatisfactory mining report
+* Property with Planning Use Classes Order other than C3 or C4 (outside of an area subject to Article 4 control of C4 use)
+* Property on which there is a local authority grant outstanding
+* Property which has shared access where the applicant or a relative controls the property or properties which share the access
 
-================================================================================
-9. REPAYMENT TERMS AND REPAYMENT METHODS
-================================================================================
+---
 
-9.1 REPAYMENT TERMS
---------------------------------------------------------------------------------
+## SECTION 9 – REPAYMENT TERMS AND REPAYMENT METHODS
+
+### 9.1 Repayment Terms
+
 Loans can be repaid over terms of between 5 and 40 years.
 
 An applicant's age may need to be taken into account when determining the mortgage term.
 
-9.2 REPAYMENT METHODS
---------------------------------------------------------------------------------
+### 9.2 Repayment Methods
+
 The Society accepts repayments of loans either on capital and interest (a repayment mortgage) or by payment of interest only or a combination of both.
 
 LTV Limits
-• Repayment 90%
-• Interest Only 75%
-• Part Interest Only / Part Repayment 75% (This can be extended to 85% where a specific product is available. Please see Our Products page on website.)
+* Repayment 90%
+* Interest Only 75%
+* Part Interest Only / Part Repayment 75% (This can be extended to 85% where a specific product is available. Please see Our Products page on website.)
 
 For the following types of borrower the repayment method is restricted to repayment (capital & interest) regardless of loan to value:
-• Shared Ownership
+* Shared Ownership
 
-9.3 INTEREST ONLY
---------------------------------------------------------------------------------
+### 9.3 Interest Only
+
 All loans arranged where the capital element is not included in the monthly payment (including those that are part capital and interest repayment, part interest only), must have a suitable strategy in place to repay the capital at the end of the term.
 
 We must see evidence of the repayment strategy for Interest Only mortgages so documents relating to the repayment strategy must be received before a mortgage offer can be considered. The Society's Interest Only Declaration Form must also be completed prior to offer to enable the Society to assess the repayment strategy.
@@ -796,36 +770,36 @@ Please note that Interest Only applications are subject to product availability 
 Maximum Age
 For Interest Only mortgages where the repayment vehicle is sale and downsizing, the maximum age at the end of the mortgage term is 80, subject to income type.
 
-9.4 REPAYMENT STRATEGIES
---------------------------------------------------------------------------------
+### 9.4 Repayment Strategies
+
 The table linked below shows the repayment strategies that we accept and the evidence required in each case. It also shows the methods we use to assess whether a repayment strategy meets our lending criteria.
 
 Repayment Strategies (PDF available on website)
 
 Periodically, we will ask applicants to confirm in writing that their repayment strategy is on track to repay the outstanding balance. If they are unable to satisfy us that their repayment strategy (ies) remain on track to repay the outstanding balance on their mortgage, we may ask them to transfer some or all of their mortgage onto a capital and interest repayment basis.
 
-• Repayment strategies CANNOT be accepted if they include the name of anyone NOT named on the mortgage
-• Applicant(s) can use more than one repayment strategy to cover their total interest only amount
-• The on-going cost of any repayment strategy must be included in our affordability calculations
+* Repayment strategies CANNOT be accepted if they include the name of anyone NOT named on the mortgage
+* Applicant(s) can use more than one repayment strategy to cover their total interest only amount
+* The on-going cost of any repayment strategy must be included in our affordability calculations
 
 The following are NOT acceptable repayment strategies:
-• Inheritance (unless the person has already died and the exact entitlement is known and can be adequately evidenced)
-• Speculative and uncertain strategies (such as setting up a new business which does not exist at the time of application; gambling)
-• Reliance on future growth in property values (either for the main security or for other background properties)
-• Utilisation of an investment plan where there does not already exist an established track-record of investment
-• Anticipated gifts of either monies or assets
-• Future lump sum repayments
+* Inheritance (unless the person has already died and the exact entitlement is known and can be adequately evidenced)
+* Speculative and uncertain strategies (such as setting up a new business which does not exist at the time of application; gambling)
+* Reliance on future growth in property values (either for the main security or for other background properties)
+* Utilisation of an investment plan where there does not already exist an established track-record of investment
+* Anticipated gifts of either monies or assets
+* Future lump sum repayments
 
-================================================================================
-10. SELF-EMPLOYED
-================================================================================
+---
 
-10.1 SELF-EMPLOYED DEFINITION
---------------------------------------------------------------------------------
+## SECTION 10 – SELF-EMPLOYED
+
+### 10.1 Self-Employed Definition
+
 A self-employed applicant may be a sole trader, a partner in a business or a Director who owns more than 25% of a company.
 
-10.2 SELF-EMPLOYED INCOME – ASSESSMENT OF INCOME
---------------------------------------------------------------------------------
+### 10.2 Self-Employed Income – Assessment of Income
+
 The Society will use the income shown in the Accounts or Accountant's letter.
 
 If profit has increased by more than 25% in the last 12 months an average of the last 3 years' net profits will ordinarily be used. It will be permissible to use the latest figures where there has been more than a 25% rise if a satisfactory explanation can be given and the Underwriter is satisfied that the increase is sustainable.
@@ -834,53 +808,53 @@ For a Director who owns more than 25% of a limited company, we will use the remu
 
 Please note we accept SA302's or, Tax Calculations with corresponding Tax Overviews as proof of income.
 
-10.3 APPLICANTS WITH LESS THAN ONE FULL YEAR'S TRADING HISTORY
---------------------------------------------------------------------------------
+### 10.3 Applicants with Less Than One Full Year's Trading History
+
 The Society will expect a self-employed applicant to have been self-employed for at least a year, and to be able to provide accounts for the first year's trading together with a projection for the current year from their accountant.
 
-10.4 SELF-EMPLOYED CONTRACTOR APPLICANTS
---------------------------------------------------------------------------------
+### 10.4 Self-Employed Contractor Applicants
+
 A sub-contractor will typically be:
-• A sole trader
-• Operating with one client at a time
-• Undertaking work of a nature consistent with previous employment
+* A sole trader
+* Operating with one client at a time
+* Undertaking work of a nature consistent with previous employment
 
 Income may be calculated daily, weekly or monthly. Where a day rate is available, the Society will annualise income based upon an assumed 48 week working year. A 5-day working week is usual unless proof is received to the contrary.
 
 The applicant must be able to demonstrate industry experience and where the contract is less than 12 months old the Society will use an average of the contract income and the earned income from the most recent P60, to arrive at a 12 month figure.
 
-10.5 ACCOUNTANTS QUALIFICATIONS
---------------------------------------------------------------------------------
+### 10.5 Accountants Qualifications
+
 Accounts or Accountant's letters must be prepared and signed by a professionally qualified Associate or Fellow of one of the following bodies:
-• Institute of Chartered Accountants of England and Wales (ICAEW)
-• Institute of Chartered Accountant of Scotland (ICAS)
-• Chartered Accountants Ireland (CAI)
-• Association of Chartered Certified Accountants (ACCA)
-• Chartered Institute of Public Finance and Accountancy (CIPFA)
-• Association of International Accountants (AIA)
-• Association of Authorised Public Accountants (AAPA)
-• The Chartered Institute of Management Accountants (CIMA)
-• The Chartered Institute of Taxation (CIOT)
-• Association of Accounting Technicians (AAT)
-• Institute of Financial Accountants (IFA)
-• Association of Taxation Technicians (ATT)
+* Institute of Chartered Accountants of England and Wales (ICAEW)
+* Institute of Chartered Accountant of Scotland (ICAS)
+* Chartered Accountants Ireland (CAI)
+* Association of Chartered Certified Accountants (ACCA)
+* Chartered Institute of Public Finance and Accountancy (CIPFA)
+* Association of International Accountants (AIA)
+* Association of Authorised Public Accountants (AAPA)
+* The Chartered Institute of Management Accountants (CIMA)
+* The Chartered Institute of Taxation (CIOT)
+* Association of Accounting Technicians (AAT)
+* Institute of Financial Accountants (IFA)
+* Association of Taxation Technicians (ATT)
 
 If the accountant is not so qualified, the accounts must be supported by the corresponding years' Tax Returns and tax assessments/self-assessments issued by the HM Revenue & Customs. Normally we would expect the Accountant to have acted for the borrower for a minimum of 2 years.
 
 The end of the latest financial year/tax period covered must be no older than 18 months.
 
-================================================================================
-11. VALUATIONS AND RETENTIONS
-================================================================================
+---
 
-11.1 VALUATIONS
---------------------------------------------------------------------------------
+## SECTION 11 – VALUATIONS AND RETENTIONS
+
+### 11.1 Valuations
+
 Properties Subject to Special Circumstances
 
 There are properties that may be subject to special circumstances. In all cases, as with construction type, the following should be considered:
-• Future saleability of the property
-• Future re-mortgageabilty of the property
-• The insurability of the property
+* Future saleability of the property
+* Future re-mortgageabilty of the property
+* The insurability of the property
 
 Specific points should be noted in relation to the following property types. If there is any doubt about the security, clarification should be sought from the valuer.
 
@@ -900,16 +874,16 @@ The DBS definition of a 'new build' is a property that was first registered two 
 For the purposes of new build warranties, any property built or converted in the last 10 years requires a new build warranty, e.g. NHBC guarantee or warranties from the professional parties involved in constructing the property e.g. architect's warranties. Details of warranty providers accepted by DBS are held in the UK Finance Handbook.
 
 Maximum LTVs for New Builds:
-• For houses: 90% for purchase and re-mortgage
-• For flats / apartments: 80% irrespective of whether purchase or re-mortgage
-• Where there is an element of capital raising to the application (for re-mortgages), which includes debt consolidation, the maximum LTV will be capped at 75% (irrespective of whether the security is a house or a flat / apartment)
+* For houses: 90% for purchase and re-mortgage
+* For flats / apartments: 80% irrespective of whether purchase or re-mortgage
+* Where there is an element of capital raising to the application (for re-mortgages), which includes debt consolidation, the maximum LTV will be capped at 75% (irrespective of whether the security is a house or a flat / apartment)
 
 Note: the maximum LTV is based upon the purchase price minus any incentives (such as free white goods).
 
 4. Business Use
 The following uses are acceptable (all subject to regulatory requirements of at least 40% of that land being used, or is intended to be used, as or in connection with a dwelling):
-• Office / Study - Applications where one room is being used on an informal basis as an office / study are acceptable. Any other arrangements must be referred to an underwriter
-• Child Minding - Acceptable on a small scale provided that the property is also declared to be the full-time home of the applicant(s)
+* Office / Study - Applications where one room is being used on an informal basis as an office / study are acceptable. Any other arrangements must be referred to an underwriter
+* Child Minding - Acceptable on a small scale provided that the property is also declared to be the full-time home of the applicant(s)
 
 5. Properties with Land
 Properties which include larger acreage of land are acceptable provided there are no farming activities or planning restrictions. It is a mortgage condition that the applicant(s) must undertake not to use the land for any agricultural or business purposes. For re-mortgages care should be taken to check any existing tenancies and the Valuer should be asked to comment about the impact on the valuation of the property.
@@ -935,43 +909,54 @@ Requesting an EWS1 for buildings where there is no visible cladding or a low ris
 Where a valuer or lender has been able to establish (within the limits of their competence) that the building owner has met the advice in the consolidated advice note, or that a building over 18 metres has a valid building control certificate in accordance with The Building (Amendment) Regulations 2018 (or the equivalent in the devolved nations as applicable), an EWS1 form should not be required. Where there is a route to remediation (for example through a warranty from the freeholder to cover the costs of remediation or from government grant funding), the valuer may take that into account in their valuation.
 
 For buildings over six storeys, an EWS1 form should be required where:
-• There is cladding or curtain wall glazing on the building or
-• there are balconies which stack vertically above each other and either both the balustrades and decking are constructed with combustible materials (e.g. timber) or the decking is constructed with combustible materials and the balconies are directly linked by combustible material.
+* There is cladding or curtain wall glazing on the building or
+* there are balconies which stack vertically above each other and either both the balustrades and decking are constructed with combustible materials (e.g. timber) or the decking is constructed with combustible materials and the balconies are directly linked by combustible material.
 
 For buildings of five or six storeys, an EWS1 form should be required where:
-• There is a significant amount of cladding on the building (for the purpose of this guidance, approximately one quarter of the whole elevation estimated from what is visible standing at ground level is a significant amount) or
-• There are ACM, MCM or HPL panels on the building* or
-• There are balconies which stack vertically above each other and either both the balustrades and decking are constructed with combustible materials (e.g. timber), or the decking is constructed with combustible materials and the balconies are directly linked by combustible materials.
+* There is a significant amount of cladding on the building (for the purpose of this guidance, approximately one quarter of the whole elevation estimated from what is visible standing at ground level is a significant amount) or
+* There are ACM, MCM or HPL panels on the building* or
+* There are balconies which stack vertically above each other and either both the balustrades and decking are constructed with combustible materials (e.g. timber), or the decking is constructed with combustible materials and the balconies are directly linked by combustible materials.
 
 For buildings of four storeys or fewer, an EWS1 form should be required where:
-• There are ACM, MCM or HPL panels on the building*
+* There are ACM, MCM or HPL panels on the building*
 
 * Note: metal cladding and ACM/MCM are visually very similar, so if metal panel cladding is present, the valuer should confirm with the building owner or managing agent in writing that they are not ACM/MCM, or, if confirmation cannot be obtained, an EWS1 inspection should be requested.
 
-11.2 RETENTIONS
---------------------------------------------------------------------------------
+### 11.2 Retentions
+
 Following an inspection by the valuer a recommendation may be made for works to be undertaken. Prior to the receipt of specialist reports or confirmation that works have been done, a retention may be recommended.
 
-11.3 FINAL INSPECTION – NEW BUILD
---------------------------------------------------------------------------------
+### 11.3 Final Inspection – New Build
+
 The Society will not normally carry out final inspections on new builds but will rely on the conveyancer providing confirmation that the property has been fully completed following receipt of certificate to that effect from the warranty provider. The exception to this rule is where the valuer has provided the original valuation from plans/site visit only or the valuer has made it clear a final inspection is definitely required for some other reason.
 
-11.4 VALUATION FEE SCALE
---------------------------------------------------------------------------------
-Valuation | Fee*
-< £100k | £285
-< £150k | £315
-< £200k | £365
-< £250k | £395
-< £300k | £425
-< £350k | £455
-< £400k | £485
+### 11.4 Valuation Fee Scale
 
+* Valuation < £100k: £285
+* Valuation < £150k: £315
+* Valuation < £200k: £365
+* Valuation < £250k: £395
+* Valuation < £300k: £425
+* Valuation < £350k: £455
+* Valuation < £400k: £485
 * For every £50,000 or part thereof the scale is increased by £30
 * Includes £125 application fee
 * Combined Mortgage valuation & Homebuyers report fees available on request – fee confirmed upon enquiry
-* Re-Inspection Fee - £80
+* Re-Inspection Fee: £80
 
-================================================================================
-END OF DOCUMENT
-================================================================================
+---
+
+## SECTION 12 – CONTACT
+
+* Intermediary enquiries: 01384 489195
+* Principal Office: 7 Harbour Buildings, The Waterfront, Brierley Hill, DY5 1LN
+* Telephone: 01384 231414
+* Fax: 01384 233250
+* Email: enquiries@dudleybuildingsociety.co.uk
+* Intermediaries: https://www.dudleybuildingsociety.co.uk/intermediaries/
+* Lending criteria (intermediaries): https://www.dudleybuildingsociety.co.uk/intermediaries/lending-criteria/
+* Buy-to-Let criteria: https://www.dudleybuildingsociety.co.uk/intermediaries/buy-to-let/
+
+---
+
+*END OF DOCUMENT*

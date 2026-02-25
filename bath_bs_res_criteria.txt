@@ -1,15 +1,24 @@
-LENDER NAME: Bath Building Society
-PRODUCT: Residential
+# BATH BUILDING SOCIETY – RESIDENTIAL LENDING CRITERIA
 
-BATH BUILDING SOCIETY - RESIDENTIAL LENDING CRITERIA
-====================================================
+---
 
-Source: https://www.bathbuildingsociety.co.uk/intermediaries/browse-general-information/residential-lending-criteria/
-Last Updated: Information updated daily via Criteria Hub
+**LENDER:** Bath Building Society
+**PRODUCT:** Residential
+**DOCUMENT TYPE:** Residential lending criteria.
+**SOURCE:** [Residential Lending Criteria](https://www.bathbuildingsociety.co.uk/intermediaries/browse-general-information/residential-lending-criteria/)
+**LAST VERIFIED:** Information updated daily via Criteria Hub
 
-================================================================================
-LOAN DETAILS
-================================================================================
+**IMPORTANT:** FOR INTERMEDIARY USE ONLY.
+
+**RAG convention:** Criteria use explicit labels **Maximum:** **Minimum:** **Allowed:** **Not Acceptable:** **Condition:** where applicable for retrieval.
+
+**Contact:** Intermediary team – see Bath Building Society website.
+
+---
+
+# SECTION 1 – RESIDENTIAL LENDING CRITERIA
+
+## LOAN DETAILS
 
 Minimum Loan Size:
 - £50,000 for standard residential applications
@@ -46,9 +55,7 @@ Repayment Methods:
 - Interest Only: Acceptable
 - Retirement Interest Only (RIO): Available
 
-================================================================================
-APPLICANT CRITERIA
-================================================================================
+## APPLICANT CRITERIA
 
 Age Limits:
 - Minimum Age at Application: 18 years
@@ -114,9 +121,7 @@ First Time Buyers:
 - Maximum Loan Size: £300,000 (subject to product availability and LTV)
 - [Additional first time buyer specific criteria - see standard criteria which applies]
 
-================================================================================
-AFFORDABILITY ASSESSMENT
-================================================================================
+## AFFORDABILITY ASSESSMENT
 
 Items That Can Be Ignored:
 - Additional Voluntary Pension Contributions: Can Be Ignored
@@ -137,9 +142,7 @@ Items That Are NOT Ignored (Included in Affordability):
 Assessment of Additional Residential Mortgages:
 - Monthly Payment or Outstanding Balance: Monthly Payment (Bath Building Society will use the monthly payment of any additional residential mortgages when assessing affordability as opposed to the outstanding balance. We will stress this monthly payment at 1.2% above their current rate)
 
-================================================================================
-INCOME TYPES
-================================================================================
+## INCOME TYPES
 
 Employment Income:
 - Additional Duty Hours: Acceptable (can potentially consider Additional Duty Hours as an acceptable source of income. We will use 100% if guaranteed and 50% if regular but non guaranteed)
@@ -237,9 +240,7 @@ Other Income:
 - Stipend: Not Acceptable (does not accept stipends as an income type)
 - Income Protection/Permanent Health Insurance: Not Acceptable (will not accept Income protection/Permanent Health Insurance as an income type)
 
-================================================================================
-INCOME TYPES (CONTINUED)
-================================================================================
+## INCOME TYPES (CONTINUED)
 
 Benefit Income - Acceptable:
 - Disability Living Allowance (DLA): Acceptable (provided that it's awarded for life and not the sole source of income)
@@ -267,9 +268,7 @@ Minimum Income Requirements:
 - Minimum Income Requirement: £20,000 after deductions
 - Interest Only Minimum Income Requirement: £20,000 after deductions
 
-================================================================================
-ADVERSE CREDIT CRITERIA
-================================================================================
+## ADVERSE CREDIT CRITERIA
 
 CCJs (County Court Judgments):
 - CCJs registered in last 3 Months: Not Acceptable
@@ -358,9 +357,7 @@ Power of Attorney:
 Politically Exposed Persons:
 - Not Acceptable (will not consider an applicant that is classed as a politically exposed person)
 
-================================================================================
-FEES AND CHARGES
-================================================================================
+## FEES AND CHARGES
 
 Arrangement Fees:
 - Can Be Added When Exceeding PRODUCT LTV Limits: No (Bath Building Society does not allow fees to be added where it means the product loan to value limits will be exceeded)
@@ -368,9 +365,7 @@ Arrangement Fees:
 
 [Additional fee information to be extracted - see Tariff of Mortgage Fees for full details]
 
-================================================================================
-BACK TO BACK TRANSACTIONS
-================================================================================
+## BACK TO BACK TRANSACTIONS
 
 Back to Back Remortgages:
 - Customer Funded: Acceptable (subject to policy - Remortgages within 6 months of acquisition will be acceptable subject to: LTV based on original purchase price unless evidence of refurbishment or conversion is seen; The title must be fully registered with no pending applications; There must be a plausible explanation for the transaction)
@@ -391,17 +386,13 @@ Day 1 Remortgages:
 Non Simultaneous Sale and Purchase:
 - Acceptable (can potentially accept non simultaneous sale and purchase. Subject to circumstance, please refer)
 
-================================================================================
-CONCESSIONARY PURCHASES
-================================================================================
+## CONCESSIONARY PURCHASES
 
 - Concessionary Purchase (Family): Acceptable (providing the correct amount of stamp duty is paid)
 - Concessionary Purchase (Landlord): Acceptable (Bath Building Society can potentially accept this type of concessionary purchase - please refer the case with full details, agreed on a case by case basis)
 - Concessionary Purchase Where Giftor Will Remain: Not Acceptable (Bath Building Society does not accept the situation where it is a concessionary purchase where the giftor will remain an occupant of the property)
 
-================================================================================
-SPECIAL PRODUCTS
-================================================================================
+## SPECIAL PRODUCTS
 
 Buy for University (Student Mortgages):
 - Offered - Bath Building Society will accept Buy for University Mortgage enquiries on a referral basis only and will be sold in house by our Mortgage Consultants. We will pay a 0.2% referral fee on completion of the loan
@@ -471,9 +462,7 @@ Shared Ownership:
 Discount Market Scheme:
 - Not Acceptable (is unable to accept applications on the Discount Market Scheme)
 
-================================================================================
-MORTGAGE OFFERS
-================================================================================
+## MORTGAGE OFFERS
 
 - Can Extend Mortgage Offer: No (Bath Building Society does not allow applicants to extend their mortgage offer. Refer to Lender)
 
@@ -483,9 +472,7 @@ Mortgage Offer Validity:
 - New Build Offers: 6 months (180 days)
 - Note: If/when an offer does expire we will re-offer subject to re-assessment of the case and on whatever rates are applicable at the time
 
-================================================================================
-PROPERTY CRITERIA
-================================================================================
+## PROPERTY CRITERIA
 
 Property Location:
 - England: Acceptable (Bath Building Society lends on properties in England)
@@ -627,9 +614,7 @@ Property Types (Additional):
 Retentions:
 - Minor Retentions Potentially Ignored: No (will not ignore small suggested retentions and if one is made a retention will be made regardless of retention amount)
 
-================================================================================
-REPAYMENT AND TERM
-================================================================================
+## REPAYMENT AND TERM
 
 Interest Only:
 - Maximum LTV: 70% (considers interest only applications up to a maximum loan to value of 70%)
@@ -700,9 +685,7 @@ Right to Acquire:
 Unauthorized Overdraft Charges:
 - Not Acceptable (will not consider applicants that have unauthorized overdraft charges)
 
-================================================================================
-REMORTGAGE PURPOSES
-================================================================================
+## REMORTGAGE PURPOSES
 
 Remortgage Purposes - Maximum LTV:
 - Balance Swap (£4£ remortgage): 70% LTV maximum
@@ -730,9 +713,7 @@ Additional Remortgage Purposes:
 - Purchase Commercial Property: Not Acceptable (will not consider remortgage applications with capital raising to purchase a commercial property)
 - Purchase Overseas Property: Not Acceptable (will not consider remortgage applications with capital raising to purchase a property overseas)
 
-================================================================================
-DEPOSITS
-================================================================================
+## DEPOSITS
 
 Source of Deposit (Acceptable):
 - Gift From Immediate Family: Acceptable (can accept deposits where the source is gift from immediate family)
@@ -754,9 +735,7 @@ Source of Deposit (Not Acceptable):
 - Originated Outside of EEA: Not Acceptable (does not accept this type of deposit)
 - Unsecured Loan: Not Acceptable (does not accept this type of deposit)
 
-================================================================================
-LET TO BUY
-================================================================================
+## LET TO BUY
 
 Let to Buy (Existing Lender Consent to Let):
 - Acceptable (can potentially allow customers to Consent to Let their existing residential mortgage - subject to explanation, please refer)
@@ -767,9 +746,7 @@ Let to Buy (Onward Purchase):
 Let to Buy (Remortgage Current Residential to Buy to Let):
 - Acceptable (can potentially accept Let to Buy applications where looking to convert the existing residential mortgage to a Buy to Let mortgage with us. For example, applicant wants to move out of their current residential mortgaged property, remortgage onto a buy to let and purchase a new residential property to live in. This criteria relates to converting the current residential onto a buy to let mortgage)
 
-================================================================================
-LEGAL REQUIREMENTS
-================================================================================
+## LEGAL REQUIREMENTS
 
 No Search Indemnity Insurance:
 - Purchases: Not Acceptable (is unable to accept 'no-search indemnity insurance' for a purchase application)
@@ -782,9 +759,7 @@ Private Local Authority Search:
 Undervalue Transactions:
 - Acceptable (can potentially accept applications where the transaction constitutes an undervalue transaction - please refer the case with full details. Agreed on a case by case basis)
 
-================================================================================
-VALUATIONS
-================================================================================
+## VALUATIONS
 
 Valuation Fees:
 - See Mortgage Valuation Fees on Bath Building Society website for full details
@@ -793,15 +768,12 @@ Valuation Fees:
 Survey Types:
 - [Standard valuation and survey requirements - see website for full details]
 
-================================================================================
-ADDITIONAL NOTES
-================================================================================
+## ADDITIONAL NOTES
 
 - The information on this page is updated daily via Criteria Hub
 - All cases are manually underwritten
 - For any further questions about criteria, please contact the Intermediary team
 - To search for specific items in the Society's lending criteria, you can select Residential or Buy To Let criteria, then search the relevant category, filter by sub-category, or search by topic or keyword
 
-================================================================================
-END OF CRITERIA
-================================================================================
+---
+*End of criteria.*

@@ -1,407 +1,314 @@
-LENDER NAME: Foundation for Intermediaries
-PRODUCT: Buy to Let Criteria Guide
+# FOUNDATION FOR INTERMEDIARIES – BUY TO LET CRITERIA
 
-================================================================================
-FOUNDATION FOR INTERMEDIARIES - BUY TO LET CRITERIA GUIDE
-================================================================================
+---
 
-Source: https://www.foundationforintermediaries.co.uk/media/gxfel5z1/579fh-btl-criteria-guide-v328.pdf
+**LENDER:** Foundation for Intermediaries
+**PRODUCT:** Buy to Let
+**DOCUMENT TYPE:** Lending Criteria Guide
+**LAST UPDATED:** October 2025 (v3.28)
+**FOR INTERMEDIARY USE ONLY**
 
-Document Version: v3.28
-Date: October 2025
-Contact: Call 0344 770 8032 or visit www.buytoletbyfoundation.co.uk
+**Source:** https://www.foundationforintermediaries.co.uk/media/gxfel5z1/579fh-btl-criteria-guide-v328.pdf
 
-Note: This document is for intermediary use only.
+---
 
-This file contains the complete Buy to Let Criteria Guide (Pages 1-24) from the PDF source.
+## SECTION 1 – Eligibility Between Typical Applicant Types
 
-Last Verified: Based on PDF content as of the file creation date
+At a glance: Experienced Landlords = someone who has operated a BTL property within the last 12 months (Individual, Limited Company, or Portfolio Landlord with or looking to acquire 4 or more mortgaged properties). First Time Landlords = someone who has not operated a BTL property within the last 12 months (may apply as individuals or Limited Companies).
 
-================================================================================
-TABLE OF CONTENTS
-================================================================================
-
-1. Eligibility between typical applicant types (Page 3-4)
-2. Applicants (Page 5)
-3. Product Criteria (Page 6-7)
-4. Credit History and Income (Page 8)
-5. Employment, Affordability and Loan (Page 9)
-6. Loan Purpose (Page 10)
-7. Deposit (Page 11)
-8. Buy to Let Deposit Guide (Page 12)
-9. General Property Criteria (Page 13)
-10. Property Types Considered (Page 14-15)
-11. Roof Construction Type & Property Tenure (Page 16-17)
-12. Property Tenure & Property Reports (Page 18)
-13. Unacceptable Properties (Page 19-20)
-14. Documentation (Page 21-22)
-15. Solicitors (Page 23)
-
-==================================================
-MAIN CRITERIA CONTENT
-==================================================
-
---- Page 1 ---
-
-================================================================================
-BUY TO LET CRITERIA GUIDE
-================================================================================
-
-October 2025
-
-Call 0344 770 8032 or visit www.buytoletbyfoundation.co.uk
-
-For intermediary use only.
-
-================================================================================
-
---- Page 2 ---
-
-================================================================================
-CONTENTS
-================================================================================
-
-Buy to Let By Foundation
-
-1. Eligibility between typical applicant types ......................... 3
-2. Eligibility between typical applicant types continued ............. 4
-3. Applicants ......................................................... 5
-4. Product Criteria .................................................. 6
-5. Product Criteria continued ......................................... 7
-6. Credit History and Income ........................................... 8
-7. Employment, Affordability and Loan ................................. 9
-8. Loan Purpose ...................................................... 10
-9. Deposit ........................................................... 11
-10. Buy to Let Deposit Guide .......................................... 12
-11. General Property Criteria ......................................... 13
-12. Property Types Considered ......................................... 14
-13. Property Types Considered continued .............................. 15
-14. Roof Construction Type & Property Tenure ......................... 16
-15. Property Tenure continued ......................................... 17
-16. Property Tenure & Property Reports ............................... 18
-17. Unacceptable Properties ........................................... 19
-18. Unacceptable Properties continued ................................. 20
-19. Documentation .................................................... 21
-20. Documentation continued ........................................... 22
-21. Solicitors ....................................................... 23
-
-================================================================================
-
-
---- Page 3 ---
-
-================================================================================
-ELIGIBILITY BETWEEN TYPICAL APPLICANT TYPES
-================================================================================
-
-At a glance eligibility between typical applicant types:
-
-| | | Experienced Landlords | | | First Time Landlords |
-| | | Someone who has operated a BTL property within the last 12 Months | | | Someone who hasn't operated a BTL property within the last 12 months. They may apply as individuals or Limited Companies. |
-| | | Individual | Limited Company | Portfolio Landlord | |
-| | | | | With or looking to acquire 4 or more mortgaged properties | |
-
-APPLICANT ELIGIBILITY
---------------------------------------------------------------------------------
+### 1.1 Applicant Eligibility
 
 First Time Buyers (FTB's)
-- Definition: An applicant who has never owned a property
-- Any additional borrower can be a FTB
-- Experienced Landlords (Individual): No
-- Experienced Landlords (Limited Company): No
-- Portfolio Landlord: No
-- First Time Landlords: No
+* Definition: An applicant who has never owned a property
+* Any additional borrower can be a FTB
+* Experienced Landlords (Individual): No
+* Experienced Landlords (Limited Company): No
+* Portfolio Landlord: No
+* First Time Landlords: No
 
 Maximum Borrowers
-- Experienced Landlords (Individual): 2
-- Experienced Landlords (Limited Company): 4
-- Portfolio Landlord: As per individual or limited company
-- First Time Landlords: As per individual or limited company
+* Experienced Landlords (Individual): 2
+* Experienced Landlords (Limited Company): 4
+* Portfolio Landlord: As per individual or limited company
+* First Time Landlords: As per individual or limited company
 
 Minimum Age
-- Experienced Landlords (Individual): 21
-- Experienced Landlords (Limited Company): 21
-- Any additional borrower can be 18 or older
+* Experienced Landlords (Individual): 21
+* Experienced Landlords (Limited Company): 21
+* Any additional borrower can be 18 or older
 
 Maximum Age
-- Experienced Landlords (Individual): 85
-- Experienced Landlords (Limited Company): No Maximum
+* Experienced Landlords (Individual): 85
+* Experienced Landlords (Limited Company): No Maximum
 
 Guarantors
-- Experienced Landlords (Individual): No
-- Experienced Landlords (Limited Company): Yes
-  - All Directors to provide a personal guarantee for full loan amount
+* Experienced Landlords (Individual): No
+* Experienced Landlords (Limited Company): Yes
+  * All Directors to provide a personal guarantee for full loan amount
 
 Consumer BTL
-- Note: Not available on the specials product range
-- Experienced Landlords (Individual): Yes
-- Experienced Landlords (Limited Company): n/a
-- Portfolio Landlord: n/a
-- First Time Landlords: Available for individuals who become 'accidental landlords' for example through inheriting a property or renting out their previous home
+* Note: Not available on the specials product range
+* Experienced Landlords (Individual): Yes
+* Experienced Landlords (Limited Company): n/a
+* Portfolio Landlord: n/a
+* First Time Landlords: Available for individuals who become 'accidental landlords' for example through inheriting a property or renting out their previous home
 
-PRODUCT ELIGIBILITY
---------------------------------------------------------------------------------
+### 1.2 Product Eligibility
+
 
 F1 Product
-- Experienced Landlords (Individual): No
-- Experienced Landlords (Limited Company): No
-- Portfolio Landlord: No
-- First Time Landlords: Yes
+* Experienced Landlords (Individual): No
+* Experienced Landlords (Limited Company): No
+* Portfolio Landlord: No
+* First Time Landlords: Yes
 
 F2 Product
-- Experienced Landlords (Individual): Yes
-- Experienced Landlords (Limited Company): Yes
-- Portfolio Landlord: Yes
-- First Time Landlords: Yes
+* Experienced Landlords (Individual): Yes
+* Experienced Landlords (Limited Company): Yes
+* Portfolio Landlord: Yes
+* First Time Landlords: Yes
 
 F3 Product
-- Experienced Landlords (Individual): No
-- Experienced Landlords (Limited Company): No
-- Portfolio Landlord: No
-- First Time Landlords: No
+* Experienced Landlords (Individual): No
+* Experienced Landlords (Limited Company): No
+* Portfolio Landlord: No
+* First Time Landlords: No
 
 House in Multiple Occupation (HMO)
-- Definition: An HMO house is a property rented out by at least 3 people who are not from 1 "household" (e.g. a family) and they share toilet, bathroom and kitchen facilities with other tenants
-- Experienced Landlords (Individual): Yes
-- Experienced Landlords (Limited Company): Yes
-- Portfolio Landlord: Yes
-- First Time Landlords: Yes for Standard HMO. No for Large HMO.
+* Definition: An HMO house is a property rented out by at least 3 people who are not from 1 "household" (e.g. a family) and they share toilet, bathroom and kitchen facilities with other tenants
+* Experienced Landlords (Individual): Yes
+* Experienced Landlords (Limited Company): Yes
+* Portfolio Landlord: Yes
+* First Time Landlords: Yes for Standard HMO. No for Large HMO.
 
 Multi-Unit Freehold Block (MUFB)
-- Definition: A single building with multiple, separate, independent residential units owned under a single freehold title, meaning no unit is subject to a lease. This particular property type comes in a variety of configurations such as purpose built blocks or flats or houses converted into flats
-- Experienced Landlords (Individual): Yes
-- Experienced Landlords (Limited Company): Yes
-- Portfolio Landlord: Yes
-- First Time Landlords: No
+* Definition: A single building with multiple, separate, independent residential units owned under a single freehold title, meaning no unit is subject to a lease. This particular property type comes in a variety of configurations such as purpose built blocks or flats or houses converted into flats
+* Experienced Landlords (Individual): Yes
+* Experienced Landlords (Limited Company): Yes
+* Portfolio Landlord: Yes
+* First Time Landlords: No
 
 Short Term Let (STL)
-- Definition: A STL / rental involves a letting agreement that lasts less than 6 months but can be as short as 1 night
-- Experienced Landlords (Individual): Yes
-- Experienced Landlords (Limited Company): Yes
-- Portfolio Landlord: Yes
-- First Time Landlords: No
+* Definition: A STL / rental involves a letting agreement that lasts less than 6 months but can be as short as 1 night
+* Experienced Landlords (Individual): Yes
+* Experienced Landlords (Limited Company): Yes
+* Portfolio Landlord: Yes
+* First Time Landlords: No
 
 Let Residential to Buy a new Residential
-- Experienced Landlords (Individual): Yes
-- Experienced Landlords (Limited Company): Yes
-- Portfolio Landlord: Yes
-- First Time Landlords: No
+* Experienced Landlords (Individual): Yes
+* Experienced Landlords (Limited Company): Yes
+* Portfolio Landlord: Yes
+* First Time Landlords: No
 
 Multiple Properties On One Title
-- Max 4 properties on one title (Flats or houses)
-- Can be let on AST, STL, Holiday Let, Common Law Tenancy
-- All Multi Properties on one freehold title let on a Holiday Let basis are capped at 65% LTV across all products
-- Experienced Landlords (Individual): Yes
-- Experienced Landlords (Limited Company): Yes
-- Portfolio Landlord: Yes
-- First Time Landlords: No
+* Max 4 properties on one title (Flats or houses)
+* Can be let on AST, STL, Holiday Let, Common Law Tenancy
+* All Multi Properties on one freehold title let on a Holiday Let basis are capped at 65% LTV across all products
+* Experienced Landlords (Individual): Yes
+* Experienced Landlords (Limited Company): Yes
+* Portfolio Landlord: Yes
+* First Time Landlords: No
 
 Mixed Use
-- Residential valuation and Rental Income both need to be in excess of 60% of total for the property
-- Experienced Landlords (Individual): Yes
-- Experienced Landlords (Limited Company): Yes
-- Portfolio Landlord: Yes
-- First Time Landlords: No
+* Residential valuation and Rental Income both need to be in excess of 60% of total for the property
+* Experienced Landlords (Individual): Yes
+* Experienced Landlords (Limited Company): Yes
+* Portfolio Landlord: Yes
+* First Time Landlords: No
 
 Property Plus/HMO Plus/STL Plus
-- Complex applications for properties with Heat, Smell & Noise and/or safety concerns considered
-- Complex layouts falling outside of standard HMO criteria considered
-- Experienced Landlords (Individual): Yes
-- Experienced Landlords (Limited Company): Yes
-- Portfolio Landlord: Yes
-- First Time Landlords: No
+* Complex applications for properties with Heat, Smell & Noise and/or safety concerns considered
+* Complex layouts falling outside of standard HMO criteria considered
+* Experienced Landlords (Individual): Yes
+* Experienced Landlords (Limited Company): Yes
+* Portfolio Landlord: Yes
+* First Time Landlords: No
 
---- Page 4 ---
+---
 
-================================================================================
-ELIGIBILITY BETWEEN TYPICAL APPLICANT TYPES CONTINUED
-================================================================================
+### 1.3 Property Eligibility (Subject to product availability)
 
-PROPERTY ELIGIBILITY
-(Subject to product availability)
---------------------------------------------------------------------------------
 
 F1, F2, F3 Products
-- Experienced Landlords (Limited Company):
-  - F1: £500k to 85%
-  - F2: £750k to 80%
-  - F3: £1.5m to 75%
-  - F3: £2m to 70%
-  - F3: £3m to 65%
+* Experienced Landlords (Limited Company):
+  * F1: £500k to 85%
+  * F2: £750k to 80%
+  * F3: £1.5m to 75%
+  * F3: £2m to 70%
+  * F3: £3m to 65%
 
 Large Portfolio (£5m+)
-- Experienced Landlords (Limited Company): £2m up to 70%
-- First Time Landlords: No
+* Experienced Landlords (Limited Company): £2m up to 70%
+* First Time Landlords: No
 
 Large Loan Standard Property
-- Experienced Landlords (Limited Company):
-  - £3m up to 70%
-  - £5m up to 60%
-- First Time Landlords: No
+* Experienced Landlords (Limited Company):
+  * £3m up to 70%
+  * £5m up to 60%
+* First Time Landlords: No
 
 Large HMO
-- Experienced Landlords (Limited Company):
-  - £1.5m to 75% (Max 10 bedrooms)
-  - £1.5m up to 65% (Unlimited bedrooms)
-- First Time Landlords: No
+* Experienced Landlords (Limited Company):
+  * £1.5m to 75% (Max 10 bedrooms)
+  * £1.5m up to 65% (Unlimited bedrooms)
+* First Time Landlords: No
 
 HMO (up to 6 occupants)
-- Experienced Landlords (Limited Company):
-  - £1.5m up to 75%
-  - £3m up to 65%
-  - Specials: £1m up to 75%
+* Experienced Landlords (Limited Company):
+  * £1.5m up to 75%
+  * £3m up to 65%
+  * Specials: £1m up to 75%
 
 MUFBs
-- Experienced Landlords (Limited Company):
-  - £1.5m to 75%
-  - £3m to 65%
-  - Specials: £1m up to 75%
-- First Time Landlords: No
+* Experienced Landlords (Limited Company):
+  * £1.5m to 75%
+  * £3m to 65%
+  * Specials: £1m up to 75%
+* First Time Landlords: No
 
 Short Term Lets
-- Experienced Landlords (Limited Company):
-  - £1.5m up to 75%
-  - £3m up to 65%
-  - Specials: £1m up to 75%
-- First Time Landlords: No
+* Experienced Landlords (Limited Company):
+  * £1.5m up to 75%
+  * £3m up to 65%
+  * Specials: £1m up to 75%
+* First Time Landlords: No
 
 Holiday Lets
-- Experienced Landlords (Limited Company):
-  - £2m up to 75%
-  - £3m up to 65%
-- First Time Landlords: No
+* Experienced Landlords (Limited Company):
+  * £2m up to 75%
+  * £3m up to 65%
+* First Time Landlords: No
 
 Multiple Properties on One Title
-- Experienced Landlords (Limited Company):
-  - £3m up to 65%
-  - £2m up to 75% (holiday lets max 65%)
-  - (per application) Maximum 4 properties on one freehold title
-- First Time Landlords: No
+* Experienced Landlords (Limited Company):
+  * £3m up to 65%
+  * £2m up to 75% (holiday lets max 65%)
+  * (per application) Maximum 4 properties on one freehold title
+* First Time Landlords: No
 
 Mixed Use
-- Experienced Landlords (Limited Company): £3m to 70%
-- First Time Landlords: No
+* Experienced Landlords (Limited Company): £3m to 70%
+* First Time Landlords: No
 
 Property Plus, HMO Plus & Short Term Let Plus
-- Experienced Landlords (Limited Company): £1.5m up to 75%
-- First Time Landlords: No
+* Experienced Landlords (Limited Company): £1.5m up to 75%
+* First Time Landlords: No
 
 LA build houses
-- Experienced Landlords (Limited Company): Acceptable where the valuer indicates good marketability
-- First Time Landlords: No
+* Experienced Landlords (Limited Company): Acceptable where the valuer indicates good marketability
+* First Time Landlords: No
 
 Ex-LA flats/MOD
-- Experienced Landlords (Limited Company): Considered on a case by case basis, subject to construction type, location. Balcony access considered subject to valuer comments. Acceptable where the valuer believes there is reasonable level of private ownership (no proof required)
+* Experienced Landlords (Limited Company): Considered on a case by case basis, subject to construction type, location. Balcony access considered subject to valuer comments. Acceptable where the valuer believes there is reasonable level of private ownership (no proof required)
 
 Flats or maisonettes over commercial premises
-- Experienced Landlords (Limited Company): We are able to consider these properties under our standard product, subject to valuation. However, should the valuer assign a £0 valuation due to commercial proximity, we have the option to transition to our Property Plus product, provided it meets the necessary criteria. Upon confirmation of eligibility, you may proceed with your application.
+* Experienced Landlords (Limited Company): We are able to consider these properties under our standard product, subject to valuation. However, should the valuer assign a £0 valuation due to commercial proximity, we have the option to transition to our Property Plus product, provided it meets the necessary criteria. Upon confirmation of eligibility, you may proceed with your application.
 
-OTHER ELIGIBILITY
---------------------------------------------------------------------------------
+### 1.4 Other Eligibility
+
 
 ICR (Interest Coverage Ratio)
-- Experienced Landlords (Limited Company):
-  - 125%: Limited Company, Basic Rate Tax Payer & £4£ Remortgage
-  - 135%: Combination of Basic and High Rate Tax payer
-  - 145%: High Rate Tax Payer
-- Portfolio Landlord: As per individual or Ltd Co
-- First Time Landlords: As per individual or Ltd Co
+* Experienced Landlords (Limited Company):
+  * 125%: Limited Company, Basic Rate Tax Payer & £4£ Remortgage
+  * 135%: Combination of Basic and High Rate Tax payer
+  * 145%: High Rate Tax Payer
+* Portfolio Landlord: As per individual or Ltd Co
+* First Time Landlords: As per individual or Ltd Co
 
 Gifted deposits
-- Experienced Landlords (Individual): Yes
-- Experienced Landlords (Limited Company): Yes (If via Directors or Shareholders)
-- Portfolio Landlord: Yes
-- First Time Landlords: Case by case
+* Experienced Landlords (Individual): Yes
+* Experienced Landlords (Limited Company): Yes (If via Directors or Shareholders)
+* Portfolio Landlord: Yes
+* First Time Landlords: Case by case
 
 
---- Page 5 ---
+---
 
-================================================================================
-APPLICANTS
-================================================================================
+## SECTION 2 – Applicants
+
 
 Criminal convictions
-- Applicants subject to criminal proceedings or that have any convictions that are unspent under the Rehabilitation of Offenders Act (1974) are not considered.
+* Applicants subject to criminal proceedings or that have any convictions that are unspent under the Rehabilitation of Offenders Act (1974) are not considered.
 
 Expats
-- Must have a UK bank account
-- Must have a credit footprint in the UK
-- Must be paying UK tax or have declared income for UK tax purposes
-- Must have at least one BTL property in the UK
-- Not considered where applicant is residing in Australia, mainland China or in an excluded country e.g. Russia, Iran, Belarus etc.
-- Applicants residing in the UAE considered subject to additional requirements
-- We will accept applications from individual Expats resident in the EU/EEA/Switzerland provided they have a UK Power of Attorney able to execute the mortgage deed on their behalf or the applicants themselves can execute the mortgage deed directly in the UK
-- Applicants can be employed, self-employed or Retirees
+* Must have a UK bank account
+* Must have a credit footprint in the UK
+* Must be paying UK tax or have declared income for UK tax purposes
+* Must have at least one BTL property in the UK
+* Not considered where applicant is residing in Australia, mainland China or in an excluded country e.g. Russia, Iran, Belarus etc.
+* Applicants residing in the UAE considered subject to additional requirements
+* We will accept applications from individual Expats resident in the EU/EEA/Switzerland provided they have a UK Power of Attorney able to execute the mortgage deed on their behalf or the applicants themselves can execute the mortgage deed directly in the UK
+* Applicants can be employed, self-employed or Retirees
 
 Foreign Nationals
-- At the time of application all applicants must meet the minimum residency requirement, and for Foreign Nationals must have either indefinite leave to remain (settlement), right of abode, or, in the case of the EU/EEA/Swiss nationals, Settled/pre-settled status*
-- Where the above does not exist, we may still proceed where they can provide a suitable working visa that allows the applicant to extend their stay and/or allows them to apply for indefinite leave to remain. Please refer to your Regional Account Manager or contact our Broker Support Team
-- *Where an EU/EEA/Swiss national is currently residing in the UK and has applied for settlement, but no decision has been made, evidence of the application will be required
+* At the time of application all applicants must meet the minimum residency requirement, and for Foreign Nationals must have either indefinite leave to remain (settlement), right of abode, or, in the case of the EU/EEA/Swiss nationals, Settled/pre-settled status*
+* Where the above does not exist, we may still proceed where they can provide a suitable working visa that allows the applicant to extend their stay and/or allows them to apply for indefinite leave to remain. Please refer to your Regional Account Manager or contact our Broker Support Team
+* Where an EU/EEA/Swiss national is currently residing in the UK and has applied for settlement, but no decision has been made, evidence of the application will be required
 
 First time buyers
-- A first-time buyer is defined as someone who has never owned a property
-- First time buyers can only be considered where there is another borrower on the application who is not a first-time buyer
-- Where an applicant does not currently own a property but wish to be considered as a non-first-time buyer suitable evidence of prior property ownership will be required by way of:
-  - Credit Search
-  - Historical mortgage agreement
-  - Land Registry title deeds
+* A first-time buyer is defined as someone who has never owned a property
+* First time buyers can only be considered where there is another borrower on the application who is not a first-time buyer
+* Where an applicant does not currently own a property but wish to be considered as a non-first-time buyer suitable evidence of prior property ownership will be required by way of:
+  * Credit Search
+  * Historical mortgage agreement
+  * Land Registry title deeds
 
 First time landlords
-- First time landlords are acceptable where the applicant is currently an owner occupier and the property is being let as a standard BTL or an HMO with up to 6 occupants
+* First time landlords are acceptable where the applicant is currently an owner occupier and the property is being let as a standard BTL or an HMO with up to 6 occupants
 
 Guarantors
-- Individual Guarantors are not considered
-- Limited Company: All Directors will be required to sign a personal guarantee for 100% of the loan amount
+* Individual Guarantors are not considered
+* Limited Company: All Directors will be required to sign a personal guarantee for 100% of the loan amount
 
 Intermediary's own applications
-- Acceptable, but they cannot certify their own ID or Proof of Address
+* Acceptable, but they cannot certify their own ID or Proof of Address
 
 Job seekers allowance, income support
-- Applicants in receipt of job seekers allowance or income support will not be considered
+* Applicants in receipt of job seekers allowance or income support will not be considered
 
 Limited company
-- Acceptable where the SPV is registered in England & Wales or Scotland with one or more of the following Standard Industrial Classification (SIC) codes:
-  - 68100 Buying and selling of own real estate
-  - 68209 Other letting and operating of own or leased rental estate
-  - 68320 Management of real estate on a fee or contract basis
-- They cannot have any other SIC code registered
-- Newly incorporated limited companies are acceptable
-- Umbrella companies/trading companies are not considered
+* Acceptable where the SPV is registered in England & Wales or Scotland with one or more of the following Standard Industrial Classification (SIC) codes:
+  * 68100 Buying and selling of own real estate
+  * 68209 Other letting and operating of own or leased rental estate
+  * 68320 Management of real estate on a fee or contract basis
+* They cannot have any other SIC code registered
+* Newly incorporated limited companies are acceptable
+* Umbrella companies/trading companies are not considered
 
 Maximum age
-- Individual applicant: 85 years and 364 days
-- Limited company: No maximum age for directors
+* Individual applicant: 85 years and 364 days
+* Limited company: No maximum age for directors
 
 Minimum age
-- At least one applicant must be 21 years
-- Other applicants are acceptable provided aged 18 years or over at the time of application
+* At least one applicant must be 21 years
+* Other applicants are acceptable provided aged 18 years or over at the time of application
 
 Maximum applicants
-- Individual applications: 2 applicants
-- Limited company applications: up to 4 directors
+* Individual applications: 2 applicants
+* Limited company applications: up to 4 directors
 
---- Page 6 ---
+---
 
-================================================================================
-PRODUCT CRITERIA
-================================================================================
+## SECTION 3 – Product Criteria
+
 
 Green Product
-- Green Product EPC A - where the security has an EPC rating of A
-- Green Product EPC B - where the security has an EPC rating of B
-- Green Product EPC C - where the security has an EPC rating of C
-- Green Product EPC A to C - where security has EPC ratings between A to C
-- Not considered for listed properties
-- Also available on re-mortgage applications where the original purchase was less than 6 months ago provided the above EPC conditions are met (see below for additional Early Remortgage eligibility)
-- You can check the property EPC rating on the government EPC site here
-- You can check the EPC rating for properties in Scotland here
+* Green Product EPC A – where the security has an EPC rating of A
+* Green Product EPC B – where the security has an EPC rating of B
+* Green Product EPC C – where the security has an EPC rating of C
+* Green Product EPC A to C – where security has EPC ratings between A to C
+* Not considered for listed properties
+* Also available on re-mortgage applications where the original purchase was less than 6 months ago provided the above EPC conditions are met (see below for additional Early Remortgage eligibility)
+* You can check the property EPC rating on the government EPC site here
+* You can check the EPC rating for properties in Scotland here
 
 Early Re-mortgage Criteria
 Remortgages within 6 months of purchase considered subject to:
 
 1. The original purchase completed using:
-   - A mortgage (which includes a bridging facility but excludes any form of "mortgage" or "personal loan" from a private individual)
-   - Cash. A cash purchase is not considered as raising funds from a remortgage of another property; Where the property was bought for cash, the source of wealth must be established
+   * A mortgage (which includes a bridging facility but excludes any form of "mortgage" or "personal loan" from a private individual)
+   * Cash. A cash purchase is not considered as raising funds from a remortgage of another property; Where the property was bought for cash, the source of wealth must be established
 
 2. The property must be registered at the Land Registry or proof of submission provided
 
@@ -418,316 +325,293 @@ Remortgages within 6 months of purchase considered subject to:
 Note: In all instances where a property was purchased at undervalue, an appropriate indemnity policy should be in place on completion to protect FHL's interests
 
 £4£ Remortgage
-- Remortgages with no additional borrowing
-- ICR 125% on all £4£ products with no increase for higher rate tax payers
-- Mortgage stressed at the payable rate for 2 & 5 year products
-- Only available on £4£ remortgage products
+* Remortgages with no additional borrowing
+* ICR 125% on all £4£ products with no increase for higher rate tax payers
+* Mortgage stressed at the payable rate for 2 & 5 year products
+* Only available on £4£ remortgage products
 
 Short Term Let
 The Short-Term Let product allows property to be let under short-term agreements and no AST is required.
 
 Note:
-- The property will be valued and rental coverage will be assessed on the same basis as a standard buy to let
-- Therefore, standard rental coverage can be met and if required, the property could also be let under an assured shorthold tenancy
-- First Time Landlords not accepted
+* The property will be valued and rental coverage will be assessed on the same basis as a standard buy to let
+* Therefore, standard rental coverage can be met and if required, the property could also be let under an assured shorthold tenancy
+* First Time Landlords not accepted
 
-                        The below are not considered on Short Term Let applications:
-- Properties subject to onerous title restrictions will not be considered – for example: restrictions on the title deeds which don't permit ASTs of 12 months or more, or restrictions stating that the property cannot be used as a short term let or holiday let, or that a property can only be used as a private residence or only as a holiday let
-- The property must not be used for personal use by the customer or by a member of the customers family
-- The property must not be let to multiple parties at one time
-- MUB's and HMO properties will not be considered under our short-term product range
-- Serviced accommodation will not be considered
+The below are not considered on Short Term Let applications:
+* Properties subject to onerous title restrictions will not be considered – for example: restrictions on the title deeds which don't permit ASTs of 12 months or more, or restrictions stating that the property cannot be used as a short term let or holiday let, or that a property can only be used as a private residence or only as a holiday let
+* The property must not be used for personal use by the customer or by a member of the customers family
+* The property must not be let to multiple parties at one time
+* MUB's and HMO properties will not be considered under our short-term product range
+* Serviced accommodation will not be considered
 
 Holiday Let
-- Rental figure high, medium, low rental figures. Average taken over 39 weeks
-- No AST required
-- ICR 125% for Ltd Co. & Basic Rate Tax payer and 145% for Higher Rate Tax payer
-- Standard property only
-- F2 Adverse criteria applies
-- Max Loan £2 million
-- Max LTV 75%
+* Rental figure high, medium, low rental figures. Average taken over 39 weeks
+* No AST required
+* ICR 125% for Ltd Co. & Basic Rate Tax payer and 145% for Higher Rate Tax payer
+* Standard property only
+* F2 Adverse criteria applies
+* Max Loan £2 million
+* Max LTV 75%
 
---- Page 7 ---
+---
 
-================================================================================
-PRODUCT CRITERIA CONTINUED
-================================================================================
 
 Large HMO
-- HMOs with 7 or more bedrooms. Where bedrooms are 10 or more then valuations are to be conducted with fee by quotation
-- Max Loan £1.5 million
-- Unlimited bedrooms up to 65% LTV
-- Max 10 bedrooms up to 75% LTV
+* HMOs with 7 or more bedrooms. Where bedrooms are 10 or more then valuations are to be conducted with fee by quotation
+* Max Loan £1.5 million
+* Unlimited bedrooms up to 65% LTV
+* Max 10 bedrooms up to 75% LTV
 
 HMO product (Up to 6 occupants)
-- Accepted for HMOs up to 6 occupants
-- Property must already be used as an HMO, where the property is currently occupied as a single dwelling, the application will be declined
+* Accepted for HMOs up to 6 occupants
+* Property must already be used as an HMO, where the property is currently occupied as a single dwelling, the application will be declined
 
 Multi Unit Freehold Blocks
-- Accepted to a maximum of 10 units
-- An individual unit within the block may be less than 30sqm providing no Valuer adverse comment to the security as a whole
-- Property must already be used as an MUFB, where the property is currently occupied as a single dwelling, the application will be declined
-- First Time Landlords not accepted
+* Accepted to a maximum of 10 units
+* An individual unit within the block may be less than 30sqm providing no Valuer adverse comment to the security as a whole
+* Property must already be used as an MUFB, where the property is currently occupied as a single dwelling, the application will be declined
+* First Time Landlords not accepted
 
 Extra Large Portfolio
-- Where total aggregate borrowing with FHL > £5 million
-- Max individual loan £2 million
-- Max individual LTV 70%
-- F2 Adverse criteria applies
+* Where total aggregate borrowing with FHL > £5 million
+* Max individual loan £2 million
+* Max individual LTV 70%
+* F2 Adverse criteria applies
 
 Extra Large Loan
-- Max Loan £5m up to 60% LTV
-- Max Loan £3m up to 70% LTV
-- F2 Adverse criteria applies
+* Max Loan £5m up to 60% LTV
+* Max Loan £3m up to 70% LTV
+* F2 Adverse criteria applies
 
 EPC Saver
-- The EPC Saver Product offers the EPC Plus service and is free to customers who have completed a mortgage with Foundation on an EPC Saver product and is available to you for a period of 3 months from the date of completion of your mortgage and is not transferable. click here for more information
-- Available to any property with an EPC rating up to 'E'
-- The EPC Plus Service is not available on Properties constructed within the last 10 years, as these will have had a Standard Assessment Procedure (SAP) EPC created at the time of construction and these provide an accurate assessment of a property's energy efficiency and are valid for 10 years
+* The EPC Saver Product offers the EPC Plus service and is free to customers who have completed a mortgage with Foundation on an EPC Saver product and is available to you for a period of 3 months from the date of completion of your mortgage and is not transferable. click here for more information
+* Available to any property with an EPC rating up to 'E'
+* The EPC Plus Service is not available on Properties constructed within the last 10 years, as these will have had a Standard Assessment Procedure (SAP) EPC created at the time of construction and these provide an accurate assessment of a property's energy efficiency and are valid for 10 years
 
 Mixed Use product
-- Residential valuation and Rental Income both need to be in excess of 60% of total for the property
+* Residential valuation and Rental Income both need to be in excess of 60% of total for the property
 
 Multiple Properties On One Freehold Title
-- At least one applicant must be a minimum of 25 years old
-- Max 4 properties on one title
-- Flats or houses
-- Can be let on AST, STL, Holiday Let, Common Law Tenancy
-- First Time Landlords not accepted
-- All Multi Properties on one freehold title let on a Holiday Let basis are capped at 65% LTV across all products
+* At least one applicant must be a minimum of 25 years old
+* Max 4 properties on one title
+* Flats or houses
+* Can be let on AST, STL, Holiday Let, Common Law Tenancy
+* First Time Landlords not accepted
+* All Multi Properties on one freehold title let on a Holiday Let basis are capped at 65% LTV across all products
 
 Property Plus/HMO Plus & STL Plus
-- Complex applications for properties with Heat, Smell, Noise and/or Safety concerns considered
-- Complex applications for properties where the Valuers comments state (or it is known by the borrower up front): Related to Investor Market/No evidence of Owner Occupier market/Demand considered
-- Available up to 75% LTV; Subject to Underwriters Discretion
-- Products are not available to First Time Landlords
-- Property Plus for Individual properties
-- HMO Plus for HMOs up to 6 occupants (Commercial valuation instructed)
-- Complex layouts falling outside of standard HMO criteria considered
+* Complex applications for properties with Heat, Smell, Noise and/or Safety concerns considered
+* Complex applications for properties where the Valuers comments state (or it is known by the borrower up front): Related to Investor Market/No evidence of Owner Occupier market/Demand considered
+* Available up to 75% LTV; Subject to Underwriters Discretion
+* Products are not available to First Time Landlords
+* Property Plus for Individual properties
+* HMO Plus for HMOs up to 6 occupants (Commercial valuation instructed)
+* Complex layouts falling outside of standard HMO criteria considered
 
 
---- Page 8 ---
+---
 
-================================================================================
-CREDIT HISTORY AND INCOME
-================================================================================
+## SECTION 4 – Credit History and Income
 
-CREDIT HISTORY
---------------------------------------------------------------------------------
+### 4.1 Credit History
+
 
 All accounts
-- All accounts must be up to date at the time of application
+* All accounts must be up to date at the time of application
 
 Arrangements with lenders (including forbearance)
-- Active arrangements with other lenders are not considered
+* Active arrangements with other lenders are not considered
 
 Bankruptcy/Sequestration & IVA/CVA/Protected or Unprotected Trust Deed
-- No bankruptcy/sequestration or IVA/administration order/CVA/Protected or Unprotected Trust Deed registered against any applicant
-- Applicants with a financial associate that has been declared bankrupt/sequestrated may be considered
+* No bankruptcy/sequestration or IVA/administration order/CVA/Protected or Unprotected Trust Deed registered against any applicant
+* Applicants with a financial associate that has been declared bankrupt/sequestrated may be considered
 
 Company Voluntary Arrangements
-- Directorship of involuntarily liquidated or wound up companies, receiverships and Company Voluntary Arrangements are only considered where there are no outstanding debts owed to creditors
-- Voluntary wind ups, instigated by a creditor will be treated as compulsory and generally unacceptable but can be considered on a case by case basis
+* Directorship of involuntarily liquidated or wound up companies, receiverships and Company Voluntary Arrangements are only considered where there are no outstanding debts owed to creditors
+* Voluntary wind ups, instigated by a creditor will be treated as compulsory and generally unacceptable but can be considered on a case by case basis
 
 Debt Management plan and Debt Payment Programme (set up under the Debt Arrangement Scheme)
-- Applicants who have entered into, or are still repaying, a debt management plan/Debt Payment Programme in the last 24 months are not considered
+* Applicants who have entered into, or are still repaying, a debt management plan/Debt Payment Programme in the last 24 months are not considered
 
 Defaults
-- Product dependant – please refer to product guide
+* Product dependant – please refer to product guide
 
 Mortgage arrears
-- Product dependant – please refer to product guide
+* Product dependant – please refer to product guide
 
 Mortgage conduct
-- Where we are unable to verify mortgage conduct using the applicants credit file, 12 months payment history is required
+* Where we are unable to verify mortgage conduct using the applicants credit file, 12 months payment history is required
 
 Credit Cards, Mail order, mobile phone or, utility
-- Product dependant – please refer to product guide
+* Product dependant – please refer to product guide
 
 Payday loans
-- Applicants who have entered into, or are still repaying, a pay day loan in the last 24 months are not considered
+* Applicants who have entered into, or are still repaying, a pay day loan in the last 24 months are not considered
 
 Repossession and voluntary surrender
-- No repossession or voluntary surrender registered against any applicant
+* No repossession or voluntary surrender registered against any applicant
 
 Satisfied CCJs/Court Decree and Defaults
-- All CCJ's, defaults and Court Decrees must be satisfied at the time of application irrespective of when they occurred
+* All CCJ's, defaults and Court Decrees must be satisfied at the time of application irrespective of when they occurred
 
 Unsecured loan arrears
-- Product dependant – please refer to product guide
+* Product dependant – please refer to product guide
 
-INCOME
---------------------------------------------------------------------------------
+### 4.2 Income
+
 
 All income must be declared and evidenced
 
 Minimum income
-- No minimum income. We need to confirm that the mortgage the applicant has applied for is affordable and they have a source of income that is independent of the rental income to be earned from the property to be mortgaged
+* No minimum income. We need to confirm that the mortgage the applicant has applied for is affordable and they have a source of income that is independent of the rental income to be earned from the property to be mortgaged
 
 Salary, dividends and/or pension
-- Acceptable
+* Acceptable
 
 
---- Page 9 ---
+---
 
-================================================================================
-EMPLOYMENT, AFFORDABILITY AND LOAN
-================================================================================
+## SECTION 5 – Employment, Affordability and Loan
 
-EMPLOYMENT
---------------------------------------------------------------------------------
+### 5.1 Employment
+
 
 At least one applicant must be defined as employed, self-employed or retired
 
 Employed
-- No minimum term of employment
-- Fixed term contractors are considered to be employed
+* No minimum term of employment
+* Fixed term contractors are considered to be employed
 
 Self-employed
-- No minimum period of trading is required
-- Where a company director owns 20% or more of the company shares they will be classed as self-employed – this includes umbrella company contractors
+* No minimum period of trading is required
+* Where a company director owns 20% or more of the company shares they will be classed as self-employed – this includes umbrella company contractors
 
 Retired
-- Retirement income accepted
+* Retirement income accepted
 
-AFFORDABILITY
---------------------------------------------------------------------------------
+### 5.2 Affordability
+
 
         Affordability will be assessed on the basis of rental income coverage on an interest only basis.
 
         The income coverage ratio (ICR) calculation is based on the notional rate at:
-- Basic rate tax payers: 125% of the monthly mortgage payment for individuals
-- Higher rate tax payers: 145% of the monthly mortgage payment for individuals
-- Where joint application with combined low rate and Higher rate tax payer: 135% of the monthly mortgage payment for individuals
-- 125% of the monthly mortgage payment for Limited Companies
+* Basic rate tax payers: 125% of the monthly mortgage payment for individuals
+* Higher rate tax payers: 145% of the monthly mortgage payment for individuals
+* Where joint application with combined low rate and Higher rate tax payer: 135% of the monthly mortgage payment for individuals
+* 125% of the monthly mortgage payment for Limited Companies
 
 Where the method of repayment is Capital & Interest, a further test will be undertaken to ensure the rental coverage of the proposed mortgage payments is met by a minimum of 100%.
 
-LOAN
---------------------------------------------------------------------------------
+### 5.3 Loan
 
-Maximum LTV and loan size
 
-| Property/product type | Individual | Limited Company | Portfolio Landlord | First Time Landlord |
-|----------------------|-----------|-----------------|-------------------|-------------------|
-| F1 | | £500k up to 85% | | |
-| F2 | | £750k up to 80% | | |
-| F3 | | £1.5m up to 75% | | |
-| F3 | | £2m up to 70% | | |
-| F3 | | £3m up to 65% | | |
-| Large Portfolio (£5m+) | | £2m up to 70% | | No |
-| Large Loan Standard Property | | £3m up to 70% | | No |
-| Large Loan Standard Property | | £5m up to 60% | | |
-| Large HMO | | £1.5m to 75% (Max 10 bedrooms) | | No |
-| Large HMO | | £1.5m up to 65% (Unlimited bedrooms) | | |
-| HMO (up to 6 occupants) | | £1.5m up to 75% | | |
-| HMO (up to 6 occupants) | | £3m up to 65% | | |
-| HMO (up to 6 occupants) | | Specials: £1m up to 75% | | |
-| MUFBs | | £1.5m to 75% | | No |
-| MUFBs | | £3m to 65% | | |
-| Short Term Lets | | £1.5m up to 75% | | No |
-| Short Term Lets | | £3m up to 65% | | |
-| Holiday Lets | | £2m up to 75% | | No |
-| Holiday Lets | | £3m up to 65% | | |
-| Multiple Properties On One Title | | £3m up to 65% | | No |
-| Multiple Properties On One Title | | £2m up to 75% (holiday lets max 65%) (per application) | | |
-| Multiple Properties On One Title | | Maximum 4 properties on one freehold title | | |
-| Mixed Use | | £3m to 70% | | No |
-| Property Plus/HMO Plus | | £1.5m up to 75% | | No |
+Maximum LTV and loan size (Limited Company / by property type):
 
-- Fees can be capitalised up to maximum loan
+* **F1**: £500k up to 85%
+* **F2**: £750k up to 80%
+* **F3**: £1.5m up to 75%; £2m up to 70%; £3m up to 65%
+* **Large Portfolio (£5m+)**: £2m up to 70% (First Time Landlord: No)
+* **Large Loan Standard Property**: £3m up to 70% or £5m up to 60% (First Time Landlord: No for £3m)
+* **Large HMO**: £1.5m to 75% (Max 10 bedrooms) or £1.5m up to 65% (Unlimited bedrooms) (First Time Landlord: No)
+* **HMO (up to 6 occupants)**: £1.5m up to 75%; £3m up to 65%; Specials: £1m up to 75%
+* **MUFBs**: £1.5m to 75%; £3m to 65% (First Time Landlord: No)
+* **Short Term Lets**: £1.5m up to 75%; £3m up to 65% (First Time Landlord: No)
+* **Holiday Lets**: £2m up to 75%; £3m up to 65% (First Time Landlord: No)
+* **Multiple Properties On One Title**: £3m up to 65%; £2m up to 75% (holiday lets max 65%) (per application); Maximum 4 properties on one freehold title (First Time Landlord: No)
+* **Mixed Use**: £3m to 70% (First Time Landlord: No)
+* **Property Plus/HMO Plus**: £1.5m up to 75% (First Time Landlord: No)
+
+* Fees can be capitalised up to maximum loan
 
 Maximum number of mortgaged BTL with any lender
-- Unlimited
+* Unlimited
 
 Maximum portfolio
-- £5 million with Foundation Home Loans on our core product range. Aggregate lending above this value with Foundation amount will be considered on case by case basis. Please discuss requirements with your Regional Account Manager
-- Large Portfolio Products above £5m aggregate lending
+* £5 million with Foundation Home Loans on our core product range. Aggregate lending above this value with Foundation amount will be considered on case by case basis. Please discuss requirements with your Regional Account Manager
+* Large Portfolio Products above £5m aggregate lending
 
 Minimum term
-- 5 years
+* 5 years
 
 Maximum term
-- 30 years
+* 30 years
 
 Minimum loan
-- £50,000; may vary dependant on product
+* £50,000; may vary dependant on product
 
 Portability
-- No
+* No
 
---- Page 10 ---
+---
 
-================================================================================
-LOAN PURPOSE
-================================================================================
+## SECTION 6 – Loan Purpose
+
 
 Re-mortgages
-- Early remortgage available across the Buy to Let range except Special products. For Special products:
-  - Property must be owned for a minimum of 6 months
-  - Where bridging was involved this will be reduced to 3 months (capital raising not permitted if ownership is less than 6 months)
+* Early remortgage available across the Buy to Let range except Special products. For Special products:
+  * Property must be owned for a minimum of 6 months
+  * Where bridging was involved this will be reduced to 3 months (capital raising not permitted if ownership is less than 6 months)
 
 Purchase at undervalue and inter family sales
-- Acceptable where genuine negotiated purchase price, purchase via sealed bids or where the property is to be purchased from an immediate family member only (also allowed with gifted deposit) – relevant conditions to be added
-- For Ltd Company: A purchase at undervalue where a property is owned by one limited company and then sold to another/SPV where there is no intercompany loan (relating to the equity) are allowed provided the controlling shareholders in both companies are the same
+* Acceptable where genuine negotiated purchase price, purchase via sealed bids or where the property is to be purchased from an immediate family member only (also allowed with gifted deposit) – relevant conditions to be added
+* For Ltd Company: A purchase at undervalue where a property is owned by one limited company and then sold to another/SPV where there is no intercompany loan (relating to the equity) are allowed provided the controlling shareholders in both companies are the same
 
 Capital raising
-- Capital raising for business purposes (Including the repayment of a Directors Loan) acceptable where monies being raised are to invest in their rental buy to let business
-- Capital raising when the SPV is purchasing a property from an individual so long as the loan purpose of the additional monies is acceptable
+* Capital raising for business purposes (Including the repayment of a Directors Loan) acceptable where monies being raised are to invest in their rental buy to let business
+* Capital raising when the SPV is purchasing a property from an individual so long as the loan purpose of the additional monies is acceptable
 
 Purchase
-- Accepted - subject to unacceptable loan purposes below
+* Accepted – subject to unacceptable loan purposes below
 
 UNACCEPTABLE LOAN PURPOSES
---------------------------------------------------------------------------------
+---
 
-- Back to back sale within the last 6 months
-- Sale and rent back
-- Re-mortgage for repayment of tax or gambling debts
-- Purchase via a property club
-- Financing self-build
+* Back to back sale within the last 6 months
+* Sale and rent back
+* Re-mortgage for repayment of tax or gambling debts
+* Purchase via a property club
+* Financing self-build
 
 
---- Page 11 ---
+---
 
-================================================================================
-DEPOSIT
-================================================================================
+## SECTION 7 – Deposit
+
 
 Gifted deposits
-- 100% gifted deposit accepted from immediate family members
-- Family members considered:
-  - Parents (including step-parents and in-laws)
-  - Grandparents
-  - Grandchildren
-  - Siblings
-  - Children
-  - Spouses
-  - Civil partners
-  - Uncles and aunts
-- Gifted deposits from outside of the UK are considered provided they are from an acceptable region
+* 100% gifted deposit accepted from immediate family members
+* Family members considered:
+  * Parents (including step-parents and in-laws)
+  * Grandparents
+  * Grandchildren
+  * Siblings
+  * Children
+  * Spouses
+  * Civil partners
+  * Uncles and aunts
+* Gifted deposits from outside of the UK are considered provided they are from an acceptable region
 
 Individual deposit and monies provided by a director or shareholder
 The below are acceptable:
-- Build-up of savings
-- Sale of investment/pension
-- Inheritance
-- Sale or re-mortgage of personal property
-- Dividends
-- Pension
+* Build-up of savings
+* Sale of investment/pension
+* Inheritance
+* Sale or re-mortgage of personal property
+* Dividends
+* Pension
 
 Developer deposit/incentive
-- Acceptable, with a maximum of 5% (provided not secured by way of a second charge / and rental guarantees)
+* Acceptable, with a maximum of 5% (provided not secured by way of a second charge / and rental guarantees)
 
 Overseas deposits
-- Deposits from overseas accounts can be considered provided they are from an acceptable region
+* Deposits from overseas accounts can be considered provided they are from an acceptable region
 
 
---- Page 12 ---
+---
 
-================================================================================
-BUY TO LET DEPOSIT GUIDE
-================================================================================
+## SECTION 8 – Buy to Let Deposit Guide
+
 
 Foundation Home Loans is willing to consider the following sources of deposit. To assist us in assessing applications promptly, and satisfying our anti-money laundering obligations, suitable evidence should be provided where appropriate.
 
@@ -737,74 +621,72 @@ Where deposits are provided through companies with common shareholders/ director
 
 Where the source of deposit is from an alternative source not on this list, please refer to your Regional Account Manager.
 
-DEPOSIT
---------------------------------------------------------------------------------
+### 8.1 Deposit
 
 Cash
 The below are acceptable:
-- Gift* from relative
-- Savings/ Inheritance
-- Sale of property
-- Investments/ Pensions
-- Dividends/ retained profit from self-employment (or SPV)
-- Capital raising via property remortgage by either the applicant; the SPV; Group company
-- Shareholder
-- Director
+* Gift – from relative
+* Savings/ Inheritance
+* Sale of property
+* Investments/ Pensions
+* Dividends/ retained profit from self-employment (or SPV)
+* Capital raising via property remortgage by either the applicant; the SPV; Group company
+* Shareholder
+* Director
 
 Loan
 The below are acceptable:
-- Inter company
-- Directors
-- Company in common ownership
+* Inter company
+* Directors
+* Company in common ownership
 
 Gifted equity
 The below are acceptable:
-- Immediate Family
-- Inter company
-- Transfer from individual(s) to SPV (and vice versa)
+* Immediate Family
+* Inter company
+* Transfer from individual(s) to SPV (and vice versa)
 
 Deposit incentive
 The below are acceptable:
-- Builder/ Developer
+* Builder/ Developer
 
-     *Gifted deposits from outside of the United Kingdom will be subject to additional due diligence
+* Gifted deposits from outside of the United Kingdom will be subject to additional due diligence
 
 
---- Page 13 ---
+---
 
-================================================================================
-GENERAL PROPERTY CRITERIA
-================================================================================
+## SECTION 9 – General Property Criteria
+
 
 Adjacent property or land
-- Where an applicant owns adjacent land or access road to the security property these will be considered on a case-by-case basis
-- Adjacent terraced or semi-detached properties with shared access and owned by the same applicant are considered provided:
-  - Maximum of two properties
-  - Must be capable of having its own adequate and documented access rights
-  - Each property must have separate services/utilities
-- Where an applicant owns/is to own 2 flats in a block and the flats are adjacent with a communal wall these are considered provided the applicant or a family member does not reside in the adjacent property. Applies to flats and maisonettes
+* Where an applicant owns adjacent land or access road to the security property these will be considered on a case-by-case basis
+* Adjacent terraced or semi-detached properties with shared access and owned by the same applicant are considered provided:
+  * Maximum of two properties
+  * Must be capable of having its own adequate and documented access rights
+  * Each property must have separate services/utilities
+* Where an applicant owns/is to own 2 flats in a block and the flats are adjacent with a communal wall these are considered provided the applicant or a family member does not reside in the adjacent property. Applies to flats and maisonettes
 
 EPC rating
-- Minimum rating E; must have a valid and current EPC
-- Higher EPC required for Green Products
-- Where the property is a Multi Unit Freehold Block (MUFB) each individual unit must have its own acceptable EPC rating
-- You can check the property EPC rating on the government EPC site here
-- You can check the EPC rating for properties in Scotland here
+* Minimum rating E; must have a valid and current EPC
+* Higher EPC required for Green Products
+* Where the property is a Multi Unit Freehold Block (MUFB) each individual unit must have its own acceptable EPC rating
+* You can check the property EPC rating on the government EPC site here
+* You can check the EPC rating for properties in Scotland here
 
 Properties converted into flats where same applicant resides in one of the flats
-- Separate main access will be acceptable
-- Same main access will be acceptable provided there are other non-related owners in the block
-- Where there is shared main access and all other flats are owned by the applicant or an immediate member of the applicant's family and they reside in one of the properties is considered on a case by case basis
+* Separate main access will be acceptable
+* Same main access will be acceptable provided there are other non-related owners in the block
+* Where there is shared main access and all other flats are owned by the applicant or an immediate member of the applicant's family and they reside in one of the properties is considered on a case by case basis
 
 Exposure
-- We continually review concentration risk across our whole portfolio and where we identify over exposure this may necessitate us been unable to progress an application
-- Each borrower is permitted to hold a maximum of 3 current mortgages with us in any one full post code
+* We continually review concentration risk across our whole portfolio and where we identify over exposure this may necessitate us been unable to progress an application
+* Each borrower is permitted to hold a maximum of 3 current mortgages with us in any one full post code
 
 Letting
-- The security must be let on an Assured Shorthold Tenancy (AST), or Company Let (for use by the Company's employees) and must not exceed 36 months or in Scotland (If created after 1 Dec 2017) a Private Residential Tenancy (Open ended) except in the case of Short Term Let applications
-- Short-term letting is only acceptable where the property is suitable for occupation under an assured shorthold tenancy (although an AST will not be required) and the standard rental coverage can be met. They will be valued as a standard BTL and rental coverage will be calculated on this basis
-- For Short Term Lets in Scotland; where the property is considered to be the tenants main property, there must be a PRT in place
-- Common Law Tenancy for rental income exceeding £100k pa accepted on our BTL products
+* The security must be let on an Assured Shorthold Tenancy (AST), or Company Let (for use by the Company's employees) and must not exceed 36 months or in Scotland (If created after 1 Dec 2017) a Private Residential Tenancy (Open ended) except in the case of Short Term Let applications
+* Short-term letting is only acceptable where the property is suitable for occupation under an assured shorthold tenancy (although an AST will not be required) and the standard rental coverage can be met. They will be valued as a standard BTL and rental coverage will be calculated on this basis
+* For Short Term Lets in Scotland; where the property is considered to be the tenants main property, there must be a PRT in place
+* Common Law Tenancy for rental income exceeding £100k pa accepted on our BTL products
 
 Letting to Housing Association or Local Authority
 1. Available for BTL & Solutions for single households only*
@@ -832,508 +714,469 @@ Letting to Housing Association or Local Authority
 
 * Letting to Housing Association or Local Authority NOT available on all single household products. Refer to product guide
 
---- Page 14 ---
+---
 
-================================================================================
-GENERAL PROPERTY CRITERIA CONTINUED
-================================================================================
 
 Locations
-- Property must be located in England, Wales and Scotland. Northern Ireland are not considered
-- Landlords of property in Wales must be registered with Rent Smart Wales (with the exception of short term let applications)
-- Landlords of property in Scotland must be on the Scottish Landlord Register, renewable every 3 years
-- Acceptable Scottish Postcodes:
-  - AB 10-16, 21-25, 30-39, 41-45, 51-56 & 99
-  - DD 1-11
-  - EH 1-49, 51-55, 95 & 99
-  - FK 1-21
-  - G 1-5, 9, 11-15, 20-23, 31-34, 40-46, 51-53, 58, 60-79, 81-84 & 90
-  - IV 1-4 & 5-18
-  - KA 1-17; 21-26; 29-30
-  - KY 1-16 & 99
-  - ML 1-12
-  - PA 1-19
-  - PH 1-26, 32-35 & 49-50
-  - TD 1-15
+* Property must be located in England, Wales and Scotland. Northern Ireland are not considered
+* Landlords of property in Wales must be registered with Rent Smart Wales (with the exception of short term let applications)
+* Landlords of property in Scotland must be on the Scottish Landlord Register, renewable every 3 years
+* Acceptable Scottish Postcodes:
+  * AB 10-16, 21-25, 30-39, 41-45, 51-56 & 99
+  * DD 1-11
+  * EH 1-49, 51-55, 95 & 99
+  * FK 1-21
+  * G 1-5, 9, 11-15, 20-23, 31-34, 40-46, 51-53, 58, 60-79, 81-84 & 90
+  * IV 1-4 & 5-18
+  * KA 1-17; 21-26; 29-30
+  * KY 1-16 & 99
+  * ML 1-12
+  * PA 1-19
+  * PH 1-26, 32-35 & 49-50
+  * TD 1-15
 
 Minimum value
-- £75,000
+* £75,000
 
 Retention
-- Foundation Home Loans will consider full retentions where work is required to the security
-- In all other instances, lending will be based on the current valuation assuming the property is considered to be suitable security
+* Foundation Home Loans will consider full retentions where work is required to the security
+* In all other instances, lending will be based on the current valuation assuming the property is considered to be suitable security
 
 Builders Retention Scheme
-- This is typically to address the gap between the quality of the finished house demanded by the customer and the standards applied by warranty providers in order for them to issue their cover notes
-- The retention scheme will place a contractual restriction on a percentage of the full purchase price subject to the builder completing the non-material items not covered by the warranty
-- Foundation Home Loans will advance the full monies to the solicitor on completion and the customer is required to pay interest on this amount. The retention will be held by the solicitor pending completion of the works
+* This is typically to address the gap between the quality of the finished house demanded by the customer and the standards applied by warranty providers in order for them to issue their cover notes
+* The retention scheme will place a contractual restriction on a percentage of the full purchase price subject to the builder completing the non-material items not covered by the warranty
+* Foundation Home Loans will advance the full monies to the solicitor on completion and the customer is required to pay interest on this amount. The retention will be held by the solicitor pending completion of the works
 
 Right to buy
-- Acceptable if the security is not subject to pre-emption
+* Acceptable if the security is not subject to pre-emption
 
 New build warranties
-- Acceptable new build warranty is required – warranties stated in the UK Finance Mortgage Lenders' Handbook
-- All other warranties will be reviewed on a case by case basis
+* Acceptable new build warranty is required – warranties stated in the UK Finance Mortgage Lenders' Handbook
+* All other warranties will be reviewed on a case by case basis
 
 
---- Page 15 ---
+---
 
-================================================================================
-PROPERTY TYPES CONSIDERED
-================================================================================
+## SECTION 10 – Property Types Considered
+
 
 At the time the property is inspected by our valuers, it must be in a suitable condition to let and suitable for mortgage purposes with good marketability. Our valuer will be asked to provide recent comparable evidence for both rental demand and recent sales to support the valuations figures being provided.
 
 Property types considered
-- Freehold houses and bungalows
-- Coach house flats (modern building containing a flat at first floor level set over a number of garages/carports which are held under separately owned leases)
-- Leasehold flats & maisonettes Crossover (Tyneside) leases are acceptable
-- Freehold/Tenement flats & maisonettes – Only acceptable in Scotland
-- Leasehold houses (including New Build houses only if they have an unexpired lease term of at least 250 years at the start of the mortgage)
+* Freehold houses and bungalows
+* Coach house flats (modern building containing a flat at first floor level set over a number of garages/carports which are held under separately owned leases)
+* Leasehold flats & maisonettes Crossover (Tyneside) leases are acceptable
+* Freehold/Tenement flats & maisonettes – Only acceptable in Scotland
+* Leasehold houses (including New Build houses only if they have an unexpired lease term of at least 250 years at the start of the mortgage)
 
 Self-contained annex
 Accepted provided:
-- Covered by one title
-- Has one AST
-- Applicant's residency can't be in property (main or annex)
-- Not have planning consent for alternative usage
-- Be appropriate to the size of the main property
-- Not be designed for sub-letting
+* Covered by one title
+* Has one AST
+* Applicant's residency can't be in property (main or annex)
+* Not have planning consent for alternative usage
+* Be appropriate to the size of the main property
+* Not be designed for sub-letting
 
 Minimum property size
-- 30 sq. metres
-- Basement Flats must be self-contained with separate bathroom and a source of natural light
+* 30 sq. metres
+* Basement Flats must be self-contained with separate bathroom and a source of natural light
 
 Ex Housing Association Ex Local Authority
-- Acceptable where the valuer believes there is reasonable level of private ownership (no proof required)
+* Acceptable where the valuer believes there is reasonable level of private ownership (no proof required)
 
 Ex Ministry of Defence
-- Balcony Access - Acceptable subject to the valuer confirming satisfactory levels of saleability
+* Balcony Access * Acceptable subject to the valuer confirming satisfactory levels of saleability
 
 Flats (or maisonettes) above/adjacent to commercial premises
-- Considered provided the property is NOT immediately above or adjacent to properties described as those that would potentially provide an unwanted heat, noise, or smell or may present safety concerns
-- This would include but is not limited to: restaurants (class A3), pubs & bars (class A4), take aways (class A5), nightclubs, casinos, amusement arcades, petrol stations, launderettes & dry cleaners, taxi businesses, industrial uses (classes B2-8) & other similar uses involving machinery such as mechanics or garages
-- Separate suitable access is required
-- Maximum 60% LTV
+* Considered provided the property is NOT immediately above or adjacent to properties described as those that would potentially provide an unwanted heat, noise, or smell or may present safety concerns
+* This would include but is not limited to: restaurants (class A3), pubs & bars (class A4), take aways (class A5), nightclubs, casinos, amusement arcades, petrol stations, launderettes & dry cleaners, taxi businesses, industrial uses (classes B2-8) & other similar uses involving machinery such as mechanics or garages
+* Separate suitable access is required
+* Maximum 60% LTV
 
 Flying freehold
-- Must be no greater than 20% of the total floor area of the property
+* Must be no greater than 20% of the total floor area of the property
 
 Floors in a block
-- No limit on number of storeys where there is a lift
-- Up to 5 storeys without a lift
+* No limit on number of storeys where there is a lift
+* Up to 5 storeys without a lift
 
 Cladding
-- A suitably certified EWS1 form is required for buildings where cladding material is noted by the surveyor
-- Ratings of A3 and B2 are not accepted
-- No EWS1 form is required for new builds/conversion for properties started from the 1st April 2019 with 6 or more storeys under the new 2018 Building Regs
+* A suitably certified EWS1 form is required for buildings where cladding material is noted by the surveyor
+* Ratings of A3 and B2 are not accepted
+* No EWS1 form is required for new builds/conversion for properties started from the 1st April 2019 with 6 or more storeys under the new 2018 Building Regs
 
 Large HMOs & Multi-Unit Freehold Blocks
-- HMOs with 7 or more bedrooms
-- Max Loan £1.5 million
-- Unlimited bedrooms up to 65% LTV
-- Max 10 bedrooms up to 75% LTV
-- Where bedrooms are 10 or more then valuations are to be conducted with fee by quotation
-- MUFBs up to 10 units
+* HMOs with 7 or more bedrooms
+* Max Loan £1.5 million
+* Unlimited bedrooms up to 65% LTV
+* Max 10 bedrooms up to 75% LTV
+* Where bedrooms are 10 or more then valuations are to be conducted with fee by quotation
+* MUFBs up to 10 units
 
 HMOs
-- HMOs Up to 6 occupants
+* HMOs Up to 6 occupants
 
 Multiple Properties On One Freehold Title
-- Max 4 properties on one title
-- 4 Flats in one block or 4 individual houses
-- Can be let on AST (standard ICR criteria), STL, Holiday Let (seasonal income - max 65% LTV), Common Law Tenancy
+* Max 4 properties on one title
+* 4 Flats in one block or 4 individual houses
+* Can be let on AST (standard ICR criteria), STL, Holiday Let (seasonal income – max 65% LTV), Common Law Tenancy
 
 
---- Page 16 ---
+---
 
-================================================================================
-PROPERTY TYPES CONSIDERED CONTINUED
-================================================================================
 
 Property Plus, HMO Plus & Short Term Let Plus
-- Complex applications for properties with Heat, Smell, Noise and/or Safety concerns considered
-- Complex applications for properties where the Valuers comments state or it is known by the borrower up front): Related to Investor Market/No evidence of Owner Occupier market/Demand considered
-- Available up to 75% LTV; Subject to Underwriters Discretion
-- Products are not available to First Time Landlords
-- Property Plus for Individual properties
-- HMO Plus for HMOs up to 6 occupants (Commercial valuation instructed)
-- Complex layouts falling outside of standard HMO criteria considered
+* Complex applications for properties with Heat, Smell, Noise and/or Safety concerns considered
+* Complex applications for properties where the Valuers comments state or it is known by the borrower up front): Related to Investor Market/No evidence of Owner Occupier market/Demand considered
+* Available up to 75% LTV; Subject to Underwriters Discretion
+* Products are not available to First Time Landlords
+* Property Plus for Individual properties
+* HMO Plus for HMOs up to 6 occupants (Commercial valuation instructed)
+* Complex layouts falling outside of standard HMO criteria considered
 
 Modern timber framed construction
-- Accepted with external brick skin (single skin not accepted)
+* Accepted with external brick skin (single skin not accepted)
 
 New build
-- Defined as built/significantly converted in the last two years of standard construction
-- New build flats are capped to 65% of the re-sale value of the property
+* Defined as built/significantly converted in the last two years of standard construction
+* New build flats are capped to 65% of the re-sale value of the property
 
 Selective licensing
-- Accepted
+* Accepted
 
 Studio flats
 Accepted subject to:
-- Being self-contained, with a separate bathroom
-- Having natural light
-- Minimum size of 30 sq. metres
+* Being self-contained, with a separate bathroom
+* Having natural light
+* Minimum size of 30 sq. metres
 
 Number of kitchens (Non-HMO)
-- Accepted up to 2 provided these are not separate utilities
+* Accepted up to 2 provided these are not separate utilities
 
 Grade I, II & II* and Grade A, B & C
-- Accepted, subject to availability of comparables
+* Accepted, subject to availability of comparables
 
 Leased Solar Panels
-- Acceptable where the lease agreement is in line with UK Finance Lenders' Handbook requirements
-- The valuer must be satisfied that the solar panels have no impact on the structural integrity of the property
+* Acceptable where the lease agreement is in line with UK Finance Lenders' Handbook requirements
+* The valuer must be satisfied that the solar panels have no impact on the structural integrity of the property
 
 WALLS CONSTRUCTION TYPE
 (Must meet the following criteria)
---------------------------------------------------------------------------------
+---
 
 a) Bungaroosh Craft Earth techniques
-- e.g. Cob, Clunch or Wychert
+* e.g. Cob, Clunch or Wychert
 
         b) Cavity or solid masonry
 
         c) Concrete
-- i. Bryant in-situ cast concrete
-- ii. Laing-Easiform post 1945 (houses only)
-- iii. LPS Houses subject to a structural engineer's report
-- iv. Rebuilt PRC if repaired under a scheme originally licensed by PRC Homes Ltd (with contemporaneous certification) where the remainder of the structural block (other semi or rest of terrace) has been repaired to the same standard
-- v. Wimpey No-Fines
+* i. Bryant in-situ cast concrete
+* ii. Laing-Easiform post 1945 (houses only)
+* iii. LPS Houses subject to a structural engineer's report
+* iv. Rebuilt PRC if repaired under a scheme originally licensed by PRC Homes Ltd (with contemporaneous certification) where the remainder of the structural block (other semi or rest of terrace) has been repaired to the same standard
+* v. Wimpey No-Fines
 
 d) Modern Methods of Construction (MMC)
-- Properties must have been constructed by Barratt Developments, Bellway, Berkeley, Bovis Homes, Cala Homes, Crest Nicholson, Galliford Try, Persimmon, Redrow or Taylor Wimpey and have the benefit of appropriate warranties
+* Properties must have been constructed by Barratt Developments, Bellway, Berkeley, Bovis Homes, Cala Homes, Crest Nicholson, Galliford Try, Persimmon, Redrow or Taylor Wimpey and have the benefit of appropriate warranties
 
 e) Steel / Steel & Concrete Frame
-- i. Steel frame houses post 1987
-- ii. Steel or Concrete frame (flats) – Specifically in relation to cladding of combustible material
+* i. Steel frame houses post 1987
+* ii. Steel or Concrete frame (flats) – Specifically in relation to cladding of combustible material
 
 f) Timber
-- i. Period hardwood timber frame pre-1900
-- ii. Period softwood timber frame pre-1900 where this is a local vernacular construction type
-- iii. Timber frame post 1980 clad externally with masonry, but where there is no masonry external skin then the external cladding must be of adequate quality and with equivalent life expectancy
+* i. Period hardwood timber frame pre-1900
+* ii. Period softwood timber frame pre-1900 where this is a local vernacular construction type
+* iii. Timber frame post 1980 clad externally with masonry, but where there is no masonry external skin then the external cladding must be of adequate quality and with equivalent life expectancy
 
 g) Other wall types
-- May be considered, subject to valuers comments
+* May be considered, subject to valuers comments
 
---- Page 17 ---
+---
 
-================================================================================
-ROOF CONSTRUCTION TYPE & PROPERTY TENURE
-================================================================================
+## SECTION 11 – Roof Construction Type and Property Tenure
 
-ROOF CONSTRUCTION TYPE
-(Must meet the following criteria)
---------------------------------------------------------------------------------
+### 11.1 Roof Construction Type (Must meet the following criteria)
 
 Flat roof
-- Finished with lead / zinc / glass reinforced plastic (GRP) /elastomeric single ply membrane / asphalt / mineral felt acceptable, subject to valuation
+* Finished with lead / zinc / glass reinforced plastic (GRP) /elastomeric single ply membrane / asphalt / mineral felt acceptable, subject to valuation
 
 Green roof
-- Subject to the acceptability of the waterproof substrate
+* Subject to the acceptability of the waterproof substrate
 
 Pitched roof
-- Clad with tiles (clay or concrete) / slates (natural or artificial) / stone tiles / thatch / lead / copper / zinc / modern steel sheet (not corrugated metal sheets sometimes known as "wriggly tin")
+* Clad with tiles (clay or concrete) / slates (natural or artificial) / stone tiles / thatch / lead / copper / zinc / modern steel sheet (not corrugated metal sheets sometimes known as "wriggly tin")
 
-PROPERTY TENURE
---------------------------------------------------------------------------------
+### 11.2 Property Tenure
 
 Commonhold
-- Not considered
+* Not considered
 
 Freehold
-- Houses and bungalows only. Freehold flats acceptable in Scotland
+* Houses and bungalows only. Freehold flats acceptable in Scotland
 
 Minimum unexpired lease
-- Unexpired lease term must be greater than or equal to:
-  - 125 years on a new build flat at start of application
-  - 250 years on a new build house at start of application
-- No minimum lease requirements for second hand properties at start of application
-- There must be a minimum lease term of 50 years remaining at the end of the mortgage term
-  - Where there is a combination of an Interest Only mortgage term and the mortgage term is less than 10 years and the outstanding lease at the end of the mortgage term is less than 55 years, the security is considered unsuitable
-- There must be evidence of comparable sales data in order for the Valuer to provide a property valuation
+* Unexpired lease term must be greater than or equal to:
+  * 125 years on a new build flat at start of application
+  * 250 years on a new build house at start of application
+* No minimum lease requirements for second hand properties at start of application
+* There must be a minimum lease term of 50 years remaining at the end of the mortgage term
+  * Where there is a combination of an Interest Only mortgage term and the mortgage term is less than 10 years and the outstanding lease at the end of the mortgage term is less than 55 years, the security is considered unsuitable
+* There must be evidence of comparable sales data in order for the Valuer to provide a property valuation
 
 
---- Page 18 ---
+---
 
-================================================================================
-PROPERTY TENURE CONTINUED
-================================================================================
+There are a number of situations under which Foundation Home Loans is prepared to lend on a leasehold property:
 
-There are a number of situations under which Foundation Home Loans is prepared to lend on a leasehold property. These are covered in the table below:
-
-| Property type | Freehold owned by Borrower/Applicant or a connected* party | Freehold independently owned by an unconnected party | Freehold shared by Leaseholders in a suitable management structure or arrangement |
-|--------------|------------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------------------------------------|
-| Flat | 1st charge required over both the freehold & leasehold | 1st charge over the leasehold | 1st charge over the leasehold |
-| MUFB | 1st charge required over the freehold. NB: if one of the units is held on a leasehold basis, the application cannot be considered | N/A | N/A |
-| Tyneside | N/A | N/A | 1st charge over the leasehold and 1st charge over the freehold of the other property |
-| Leasehold House | Where the borrower/applicant is purchasing: | | |
-| | • Both the freehold and leasehold interests, Foundation will require a 1st charge over both the freehold and leasehold interests. The outstanding term of lease can be disregarded | | |
-| | • Just the leasehold interest, a 1st charge over the leasehold is required, but: | | |
-| |   - The remaining term of lease at term end, must meet our minimum requirements (50 years remaining at end of the mortgage term). If the term of lease does not meet the minimum requirement, the lease must be extended on or before completion | | |
-| |   - Where the freehold is owned by a connected party*, a charge over both freehold and leasehold interests is required | | |
+* **Flat** – Freehold owned by Borrower/Applicant or a connected party: 1st charge required over both the freehold and leasehold. Freehold independently owned: 1st charge over the leasehold. Freehold shared by Leaseholders in a suitable management structure: 1st charge over the leasehold.
+* **MUFB** – 1st charge required over the freehold (if one of the units is held on a leasehold basis, the application cannot be considered). N/A for other freehold arrangements.
+* **Tyneside** – 1st charge over the leasehold and 1st charge over the freehold of the other property.
+* **Leasehold House** – Where the borrower/applicant is purchasing both the freehold and leasehold interests: 1st charge over both; outstanding term of lease can be disregarded. Where purchasing just the leasehold: 1st charge over the leasehold required; remaining term of lease at term end must meet minimum requirements (50 years at end of mortgage term); if the term does not meet the minimum, the lease must be extended on or before completion; where the freehold is owned by a connected party, a charge over both freehold and leasehold interests is required.
 
 *If the freehold is owned by an entity (e.g. limited company or limited liability partnership) or a connected person, the borrower/applicant must have no interest or influence (other than where the leaseholder owns/will own a share in (or be member of) the management company that owns the freehold) over that entity or person.
 
      **Where the freehold consists of any commercial units, Foundation may consider proceeding without a charge over the freehold.
 
-OTHER IMPORTANT INFORMATION
---------------------------------------------------------------------------------
+### 11.3 Other Important Information
 
-- There is no distinction between residential or buy to let lending
-- Lending on freehold flats or freehold maisonettes is unacceptable
-- Where a property consists of a small number of flats (i.e. typically a house converted into no more than four individual units) and there is no formal management structure in place, Foundation can proceed on the basis of a 1st charge over the lease, provided the borrower/applicant or a person connected to them does not own all the other units and the freehold
-- The solicitor will check the arrangements regards repairs and inform Foundation of any concerns. Refer to section 5.8.1 UK Finance Lenders' Handbook
+* There is no distinction between residential or buy to let lending
+* Lending on freehold flats or freehold maisonettes is unacceptable
+* Where a property consists of a small number of flats (i.e. typically a house converted into no more than four individual units) and there is no formal management structure in place, Foundation can proceed on the basis of a 1st charge over the lease, provided the borrower/applicant or a person connected to them does not own all the other units and the freehold
+* The solicitor will check the arrangements regards repairs and inform Foundation of any concerns. Refer to section 5.8.1 UK Finance Lenders' Handbook
 
 
---- Page 19 ---
+---
 
-================================================================================
-PROPERTY TENURE & PROPERTY REPORTS
-================================================================================
+## SECTION 12 – Property Tenure and Property Reports
 
-PROPERTY TENURE
---------------------------------------------------------------------------------
+### 12.1 Property Tenure
 
 Leasehold houses
-- Freehold owned by applicant(s) or a party connected to the applicant(s) - 1st charge required over the freehold and leasehold
-- Freehold independently owned by an unconnected party – 1st charge required over the leasehold
-- Freehold shared by the leaseholders in the block in a formal management structure – 1st charge required over the leasehold unless the applicant owns all houses under the lease we would also require a 1st charge over the freehold
+* Freehold owned by applicant(s) or a party connected to the applicant(s) * 1st charge required over the freehold and leasehold
+* Freehold independently owned by an unconnected party – 1st charge required over the leasehold
+* Freehold shared by the leaseholders in the block in a formal management structure – 1st charge required over the leasehold unless the applicant owns all houses under the lease we would also require a 1st charge over the freehold
 
 Tyneside lease (cross-over)
-- Accepted where there is no connection between the applicant and the other property
-- 1st charge required over the leasehold of the security and over the freehold of the other property
+* Accepted where there is no connection between the applicant and the other property
+* 1st charge required over the leasehold of the security and over the freehold of the other property
 
-PROPERTY REPORTS
-(As determined by a valuer)
---------------------------------------------------------------------------------
+### 12.2 Property Reports (As determined by a valuer)
 
 Cavity wall tie
-- Must be produced by a Structural Engineer, qualified Building Surveyor or a reputable specialist company experienced in wall tie replacement
+* Must be produced by a Structural Engineer, qualified Building Surveyor or a reputable specialist company experienced in wall tie replacement
 
 Electrical installation
-- Must be produced by a National Inspection Council for Electrical Installation Contractors (NICEIC) or NAPIT approved contractor
+* Must be produced by a National Inspection Council for Electrical Installation Contractors (NICEIC) or NAPIT approved contractor
 
 Gas installation
-- Must be produced by a Gas Safe registered contractor
+* Must be produced by a Gas Safe registered contractor
 
 Japanese knotweed
-- If identified by the valuer it will be reported in line with the latest RICS guidance to valuers
-- Where the presence of Japanese Knotweed indicates either Management Action A or B, a satisfactory specialist report will be required before a valuation figure can be provided
-- Specialist reports from members of either the Property Care Association or Invasive Non-Native Specialists Association will only be accepted. See link here
+* If identified by the valuer it will be reported in line with the latest RICS guidance to valuers
+* Where the presence of Japanese Knotweed indicates either Management Action A or B, a satisfactory specialist report will be required before a valuation figure can be provided
+* Specialist reports from members of either the Property Care Association or Invasive Non-Native Specialists Association will only be accepted. See link here
 
 Structural engineer
-- Must be produced by an appropriately qualified engineer – S.Eng. MICE or MISE
-- Where required, must always be obtained prior to any approval of a mortgage offer
+* Must be produced by an appropriately qualified engineer – S.Eng. MICE or MISE
+* Where required, must always be obtained prior to any approval of a mortgage offer
 
 Timber and damp (including dry rot)
-- Dry rot, wet rot, infestation by wood-boring insects. Report to be obtained from one of the following:
-  - Property Care Association (PCA)
-  - Wood Protection Association (formerly BWPDA)
-  - Safeguard (Europe) Ltd
-  - Sovereign
-  - Wykamol
-- Dry rot only:
-  - A dry rot diagnostic inspection must be undertaken by an experienced professional member (as listed above)
-- The suitability of the property will be considered subject to the cause of the decay and the proposed remedial action detailed within the report
+* Dry rot, wet rot, infestation by wood-boring insects. Report to be obtained from one of the following:
+  * Property Care Association (PCA)
+  * Wood Protection Association (formerly BWPDA)
+  * Safeguard (Europe) Ltd
+  * Sovereign
+  * Wykamol
+* Dry rot only:
+  * A dry rot diagnostic inspection must be undertaken by an experienced professional member (as listed above)
+* The suitability of the property will be considered subject to the cause of the decay and the proposed remedial action detailed within the report
 
 Trees
-- Must be produced by a specialist consultant/contractor approved by the Arboricultural Association, NCH ARB, Dip Arb
+* Must be produced by a specialist consultant/contractor approved by the Arboricultural Association, NCH ARB, Dip Arb
 
 Concrete screening
-- Properties in areas where "mundic" is a known problem (properties built from concrete blocks laid onto mass concrete foundations) must be subject to a screening test in line with RICS guidance
-- A result of Class A1, A2 or A3 is required for a property to be considered acceptable
+* Properties in areas where "mundic" is a known problem (properties built from concrete blocks laid onto mass concrete foundations) must be subject to a screening test in line with RICS guidance
+* A result of Class A1, A2 or A3 is required for a property to be considered acceptable
 
 Roofing
-- Report to be obtained from a Roofing Contractor who is part of the National Federation of Roofing Contractors Limited (NFRC) / Confederation of Roofing Contractors (CRC)
+* Report to be obtained from a Roofing Contractor who is part of the National Federation of Roofing Contractors Limited (NFRC) / Confederation of Roofing Contractors (CRC)
 
 
---- Page 20 ---
+---
 
-================================================================================
-UNACCEPTABLE PROPERTIES
-================================================================================
+## SECTION 13 – Unacceptable Properties
 
-PROPERTY CONSTRUCTION AND CONFIGURATION
---------------------------------------------------------------------------------
+### 13.1 Property Construction and Configuration
 
-- Properties with an EPC rating lower than E
-- Self-build
-- Where the lifespan of the property is less than 25 years beyond the end of the proposed mortgage term
-- Development has been undertaken without appropriate planning permission
-- Non-HMO properties with more than six bedrooms
-- Where any income generating room within an HMO is below 6.5sqm
-- MUFB properties with more than 10 units
-- Multi-Unit Freehold Blocks where one or more individual units are subject to a separate leasehold title
-- Property subject to a demolition / closing order
-- Property with ongoing structural movement or movement that requires monitoring
-- Services/utilities are shared with any adjoining or adjacent building which will not form and part of the mortgaged property
-- Stage payments are required
-- Underpinning has been completed within the preceding 3 years
-- Unimproved or uninhabitable property (i.e. no kitchen or bathroom)
-- Properties with more than 5 storeys with no lift
-- Properties with more than 4 hectares/10 acres
-- Prefabricated or large panel concrete construction (LPS)
-- Pre-fabricated reinforced concrete construction (PRC)
-- Concrete block construction designated Mundic
-- Mundic block materials
-- Properties of High Alumina Cement
+* Properties with an EPC rating lower than E
+* Self-build
+* Where the lifespan of the property is less than 25 years beyond the end of the proposed mortgage term
+* Development has been undertaken without appropriate planning permission
+* Non-HMO properties with more than six bedrooms
+* Where any income generating room within an HMO is below 6.5sqm
+* MUFB properties with more than 10 units
+* Multi-Unit Freehold Blocks where one or more individual units are subject to a separate leasehold title
+* Property subject to a demolition / closing order
+* Property with ongoing structural movement or movement that requires monitoring
+* Services/utilities are shared with any adjoining or adjacent building which will not form and part of the mortgaged property
+* Stage payments are required
+* Underpinning has been completed within the preceding 3 years
+* Unimproved or uninhabitable property (i.e. no kitchen or bathroom)
+* Properties with more than 5 storeys with no lift
+* Properties with more than 4 hectares/10 acres
+* Prefabricated or large panel concrete construction (LPS)
+* Pre-fabricated reinforced concrete construction (PRC)
+* Concrete block construction designated Mundic
+* Mundic block materials
+* Properties of High Alumina Cement
 
 PROPERTY LOCATION
---------------------------------------------------------------------------------
+---
 
-- 3 or more adjacent terraced/semi-detached properties with shared access owned by the same applicant
-- Electricity pylons or cables are going directly over the property however if within influencing distance may be acceptable, subject to valuers comments
-- Material environmental hazards are present
-- Property affected by coastal erosion
-- Property directly affected by local planning
-- Un-remediated contaminated site or where the Valuer advises a possible contamination issue
-- Unsatisfactory mining search is received
+* 3 or more adjacent terraced/semi-detached properties with shared access owned by the same applicant
+* Electricity pylons or cables are going directly over the property however if within influencing distance may be acceptable, subject to valuers comments
+* Material environmental hazards are present
+* Property affected by coastal erosion
+* Property directly affected by local planning
+* Un-remediated contaminated site or where the Valuer advises a possible contamination issue
+* Unsatisfactory mining search is received
 
 PROPERTY RESTRICTIONS
---------------------------------------------------------------------------------
+---
 
-- Farms, Small Holdings or Properties subject to restrictive covenants or occupancy e.g. agricultural, retirement flats etc
-- Property on which there is a local authority grant outstanding
-- Purchased through Right to Buy and still subject to pre-emption
-- Uninsurable property or property subject to an ongoing insurance claim
-- Properties built under 10 years' old without an acceptable structural defects warranty
-- Any property designated defective under relevant legislation
-
-
---- Page 21 ---
-
-================================================================================
-UNACCEPTABLE PROPERTIES CONTINUED
-================================================================================
-
-PROPERTY TYPES
---------------------------------------------------------------------------------
-
-- Chalet style properties on holiday parks
-- Commonhold
-- Freehold flats & maisonettes unless in Scotland
-- Mobile homes
-- Houseboats
-- Serviced flats and apartments
-- Shared ownership
-
-PROPERTY USAGE
---------------------------------------------------------------------------------
-
-- Bed & Breakfast
-- Bespoke student accommodation
-- Commercial properties
-- Farms & small holdings
-- Live/work units
-- Timeshares
+* Farms, Small Holdings or Properties subject to restrictive covenants or occupancy e.g. agricultural, retirement flats etc
+* Property on which there is a local authority grant outstanding
+* Purchased through Right to Buy and still subject to pre-emption
+* Uninsurable property or property subject to an ongoing insurance claim
+* Properties built under 10 years' old without an acceptable structural defects warranty
+* Any property designated defective under relevant legislation
 
 
---- Page 22 ---
+---
 
-================================================================================
-DOCUMENTATION
-================================================================================
+### 13.2 Property Types
+
+* Chalet style properties on holiday parks
+* Commonhold
+* Freehold flats & maisonettes unless in Scotland
+* Mobile homes
+* Houseboats
+* Serviced flats and apartments
+* Shared ownership
+
+### 13.3 Property Usage
+
+* Bed & Breakfast
+* Bespoke student accommodation
+* Commercial properties
+* Farms & small holdings
+* Live/work units
+* Timeshares
+
+
+---
+
+## SECTION 14 – Documentation
 
 Bank statements
-- Must be from a UK bank/Building Society/Lender account and show the borrower's full name (or initial & surname) & address (online statements don't need the individuals full address displayed), the logo, the full sort code and/or account number
-- Provision of Bank Statements is not mandatory, but may be requested at the underwriters' discretion, to support the lending decision
+* Must be from a UK bank/Building Society/Lender account and show the borrower's full name (or initial & surname) & address (online statements don't need the individuals full address displayed), the logo, the full sort code and/or account number
+* Provision of Bank Statements is not mandatory, but may be requested at the underwriters' discretion, to support the lending decision
 
 Direct Debit Mandate (DDM)
 Required prior to completion of the mortgage and must be drawn on a UK bank account as follows:
-- Personal account, in the name(s) of a single or joint applicant(s)
-- Business account, providing the applicant is a sole trader and is named on the bank account title (i.e. "trading as")
-- Business accounts for limited companies (limited company applications only)
+* Personal account, in the name(s) of a single or joint applicant(s)
+* Business account, providing the applicant is a sole trader and is named on the bank account title (i.e. "trading as")
+* Business accounts for limited companies (limited company applications only)
 
 Document validity
-- Credit search – 6 months
-- Direct Debit Mandate – 8 months (from date of signature)
-- Full mortgage application – 6 months (from submission date)
-- Proof of deposit/income/portfolio Schedule – 8 months (from date of receipt)
-- Proof of identification – 12 months
-- Valuation – 8 months
-- Mortgage offer – 4 months
+* Credit search – 6 months
+* Direct Debit Mandate – 8 months (from date of signature)
+* Full mortgage application – 6 months (from submission date)
+* Proof of deposit/income/portfolio Schedule – 8 months (from date of receipt)
+* Proof of identification – 12 months
+* Valuation – 8 months
+* Mortgage offer – 4 months
 
 Income
-- Payslips – must be the latest (at the time of application) & show basic income, gross and net pay, the pay date and tax period
-- SA302/online calculation for self-employed:
-  - Where the self-assessment is submitted online via an accountant/other we require:
-    - The latest commercial software tax calculation [SA302] together with either the corresponding version of the Tax Year Overview OR the corresponding HMRC supplied Tax Year Overview
-  - Where the self-assessment has been submitted online by the borrower or their accountant/other we require:
-    - Latest HMRC Tax Calculation [SA302] together with either the corresponding online version of the Tax Year Overview OR the corresponding HMRC supplied Tax Year Overview
-- Accountants Certificate - must be signed & stamped by an accountant with one of these qualifications: ACA, FCA, ACCA, FCCA, AAPA, FAPA, ACMA, FCMA, MAAT, CTA, AIA, CIMA, CIPFA, IFA, CTTA or CA (ICAS)
+* Payslips – must be the latest (at the time of application) & show basic income, gross and net pay, the pay date and tax period
+* SA302/online calculation for self-employed:
+  * Where the self-assessment is submitted online via an accountant/other we require:
+    * The latest commercial software tax calculation [SA302] together with either the corresponding version of the Tax Year Overview OR the corresponding HMRC supplied Tax Year Overview
+  * Where the self-assessment has been submitted online by the borrower or their accountant/other we require:
+    * Latest HMRC Tax Calculation [SA302] together with either the corresponding online version of the Tax Year Overview OR the corresponding HMRC supplied Tax Year Overview
+* Accountants Certificate – must be signed & stamped by an accountant with one of these qualifications: ACA, FCA, ACCA, FCCA, AAPA, FAPA, ACMA, FCMA, MAAT, CTA, AIA, CIMA, CIPFA, IFA, CTTA or CA (ICAS)
 
 Mortgage statements
 Must be from a UK Bank/Building Society/Lender and show:
-- The applicants address
-- The mortgaged property address
-- Full name or initials and surname
-- The UK Bank/Building Society/Lender's logo
-- The account number
+* The applicants address
+* The mortgaged property address
+* Full name or initials and surname
+* The UK Bank/Building Society/Lender's logo
+* The account number
 
 Online documents
-- Online Bank & Mortgage statements are accepted
-- Online payslips are accepted
+* Online Bank & Mortgage statements are accepted
+* Online payslips are accepted
 
 
---- Page 23 ---
-
-================================================================================
-DOCUMENTATION CONTINUED
-================================================================================
+---
 
 Proof of identity and residency
 Where we are unable to satisfy our requirements electronically, documentary proof of identity, and or residency will be required and the broker portal will be updated. The table below defines what evidence is required to satisfy our requirements:
 
-| List 1 – Proof of identity | List 2 – Proof of residency |
-|----------------------------|----------------------------|
-| Full valid UK/non-UK passport | Current UK driving license (old style) |
-| Current UK issued biometric residence permit | Current UK driving license – photocard (full or provisional) |
-| Current UK driving license – Photocard (full or provisional) | Bank/Building society statement or credit card statement (internet statements will only be accepted as proof of the current or overseas address) |
-| New style blue disabled badge parking card (both sides to be provided) | Utility bill (internet statements will only be accepted as proof of the current or overseas address)<br>NB: Mobile telephone bills are not accepted |
-| Identity card issued by the electoral office of Northern Ireland | Notification of a state or local authority funded benefit, tax credit or pension |
-| EU member state or Switzerland national identity card | Latest posted Inland revenue tax notification (must be dated within last 12 months) |
-| Valid Police warrant card | Current UK issued Biometric Residence Permit (BRP) |
-| HM forces identity card | Latest Council tax demand letter |
-| Current UK issued firearms certificate or shotgun license | Annual residential mortgage statement<br>Latest Council or housing association tenancy agreement for current address only |
+Proof of identity (List 1) and proof of residency (List 2) – one from each list required:
+
+* **List 1 – Proof of identity**: Full valid UK/non-UK passport; Current UK issued biometric residence permit; Current UK driving license – Photocard (full or provisional); New style blue disabled badge parking card (both sides to be provided); Identity card issued by the electoral office of Northern Ireland; EU member state or Switzerland national identity card; Valid Police warrant card; HM forces identity card; Current UK issued firearms certificate or shotgun license
+
+* **List 2 – Proof of residency**: Current UK driving license (old style); Current UK driving license – photocard (full or provisional); Bank/Building society statement or credit card statement (internet statements will only be accepted as proof of the current or overseas address); Utility bill (internet statements will only be accepted as proof of the current or overseas address – mobile telephone bills are not accepted); Notification of a state or local authority funded benefit, tax credit or pension; Latest posted Inland revenue tax notification (must be dated within last 12 months); Current UK issued Biometric Residence Permit (BRP); Latest Council tax demand letter; Annual residential mortgage statement; Latest Council or housing association tenancy agreement for current address only
 
 For Expat applications, we will also consider the following proof of residency documentation:
-- Official Government (UK or pursuant to the country of domicile) issued correspondence to the overseas address, which must be in English or translated into English
-- Current residency card
-- Confirmation of overseas address from the employer or if self-employed, their overseas accountant
+* Official Government (UK or pursuant to the country of domicile) issued correspondence to the overseas address, which must be in English or translated into English
+* Current residency card
+* Confirmation of overseas address from the employer or if self-employed, their overseas accountant
 
-     Note: The same document cannot be used to verify both identity and residency.
-     When using bank statements to prove residency, please send only one page.
+Note: The same document cannot be used to verify both identity and residency.
+      When using bank statements to prove residency, please send only one page.
 
 
---- Page 24 ---
+---
 
-================================================================================
-SOLICITORS
-================================================================================
+## SECTION 15 – Solicitors
 
 Applicant(s) solicitor requirement England & Wales
 Accepted provided:
-- All solicitors are registered with the Law Society of England & Wales
-- Minimum 3 SRA-approved managers/partners for firm in England & Wales (licenced conveyancers are not considered)
-- All solicitors must have attained membership to the Law Society's Conveyancing Quality Scheme
-- Are on Foundation Home Loans Solicitors Panel
+* All solicitors are registered with the Law Society of England & Wales
+* Minimum 3 SRA-approved managers/partners for firm in England & Wales (licenced conveyancers are not considered)
+* All solicitors must have attained membership to the Law Society's Conveyancing Quality Scheme
+* Are on Foundation Home Loans Solicitors Panel
 
 Where an Applicant(s) solicitor does not meet Foundation Home Loans (FHL) criteria the Applicant(s) must select a firm from FHL's Closed Panel list to act on behalf of FHL and the Applicant may:
-- Instruct their own solicitors to act on their behalf on a separate representation and the Applicant(s) will be responsible for both sets of solicitors costs; OR
-- Elect to instruct the Closed Panel firm to act on their behalf. The Applicant(s) will be responsible for their own costs and FHL's costs for the Closed Panel who will act on a dual representation basis
+* Instruct their own solicitors to act on their behalf on a separate representation and the Applicant(s) will be responsible for both sets of solicitors costs; OR
+* Elect to instruct the Closed Panel firm to act on their behalf. The Applicant(s) will be responsible for their own costs and FHL's costs for the Closed Panel who will act on a dual representation basis
 
 If the product is a MUFB, HMO, Multiple Properties on One Title and Mixed Use the Applicant(s) must select a firm from FHL's Closed Panel list to act on behalf of FHL and the Applicant may:
-- Instruct their own solicitors to act on their behalf on a separate representation basis and the Applicant(s) will be responsible for both sets of solicitors costs; OR
-- Elect to instruct the Closed Panel firm to act on their behalf. The Applicant(s) will be responsible for their own costs and FHL's costs for the Closed Panel who will act on a dual representation basis
+* Instruct their own solicitors to act on their behalf on a separate representation basis and the Applicant(s) will be responsible for both sets of solicitors costs; OR
+* Elect to instruct the Closed Panel firm to act on their behalf. The Applicant(s) will be responsible for their own costs and FHL's costs for the Closed Panel who will act on a dual representation basis
 
 Applicant(s) solicitor requirement Scotland
-- Minimum 3 partners/directors for firm in Scotland
-- Are on Foundation Home Loans Solicitors Panel
+* Minimum 3 partners/directors for firm in Scotland
+* Are on Foundation Home Loans Solicitors Panel
 
 Where an Applicant(s) solicitor does not meet Foundation Home Loans (FHL) criteria the Applicant(s) must select a firm from FHL's Closed Panel list to act on behalf of FHL and the Applicant must:
-- Instruct their own solicitors to act on their behalf on a separate representation basis and the Applicant(s) will be responsible for both sets of solicitors costs
+* Instruct their own solicitors to act on their behalf on a separate representation basis and the Applicant(s) will be responsible for both sets of solicitors costs
 
 If the product is a MUFB, HMO, Multiple Properties on One Title and Mixed Use the Applicant(s) must select a firm from FHL's Closed Panel list to act on behalf of FHL and the Applicant must:
-- Instruct their own solicitors to act on their behalf and the Applicant(s) will be responsible for their own costs and FHL's costs for the Closed Panel firm who will act on a separate representation basis
+* Instruct their own solicitors to act on their behalf and the Applicant(s) will be responsible for their own costs and FHL's costs for the Closed Panel firm who will act on a separate representation basis
+
+---
+
+## SECTION 16 – Contact
+
+* Telephone: 0344 770 8032
+* Website: www.buytoletbyfoundation.co.uk
+* Criteria (PDF): https://www.foundationforintermediaries.co.uk/media/gxfel5z1/579fh-btl-criteria-guide-v328.pdf
+
+---
+
+*END OF DOCUMENT*

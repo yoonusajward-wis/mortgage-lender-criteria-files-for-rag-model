@@ -1,1090 +1,470 @@
-LENDER NAME: Cambridge Building Society
-PRODUCT: Combined
-
-================================================================================
-CAMBRIDGE BUILDING SOCIETY - CRITERIA
-================================================================================
-
-SUMMARY
-----------------------------------------
-Total Criteria Items: 118
-Scraped on: 2025-09-08 21:44:25
-
-TABLE OF CONTENTS
-----------------------------------------
-
-    1. Try our new app instead?
-    2. Criteria
-    3. AST and letting agentsupdated 13 July 2023
-    4. Additional borrowingupdated 5 July 2023
-    5. Additional borrowingupdated 29 June 2023
-    6. Affordabilityupdated 6 July 2023
-    7. Age of borrowerupdated 29 June 2023
-    8. Age of customerupdated 17 July 2023
-    9. Agricultural restrictionsupdated 17 July 2023
-   10. Armed Forces personnelupdated 17 July 2023
-   11. Asbestosupdated 17 July 2023
-   12. Back-to-back mortgagesupdated 13 July 2023
-   13. Benefitsupdated 17 July 2023
-   14. Builders deposit/incentivesupdated 13 July 2023
-   15. Buildings and Contents Insuranceupdated 30 October 2024
-   16. Commercial customersupdated 28 April 2023
-   17. Construction typesupdated 13 July 2023
-   18. Contractors and CIS schemeupdated 13 July 2023
-   19. Contracts of employmentupdated 13 July 2023
-   20. Credit Assist mortgages - adverse creditupdated 9 April 2025
-   21. Credit Assist mortgages - adverse creditupdated 13 July 2023
-   22. Credit Historyupdated 13 July 2023
-   23. Credit Historyupdated 13 July 2023
-   24. Debt consolidationupdated 29 January 2024
-   25. Debt consolidationupdated 15 January 2024
-   26. Deed of giftupdated 13 July 2023
-   27. Directors of Companiesupdated 13 July 2023
-   28. Energy Performance Certificateupdated 13 July 2023
-   29. Expatriatesupdated 13 July 2023
-   30. Expatriatesupdated 9 April 2025
-   31. Feesupdated 1 August 2024
-   32. Feesupdated 1 August 2024
-   33. First Time Buyersupdated 13 July 2023
-   34. Flatsupdated 7 July 2025
-   35. Flatsupdated 7 July 2025
-   36. Flying freeholdsupdated 13 July 2023
-   37. Foreign currencyupdated 13 July 2023
-   38. Help to Buy Equity Loan - Remortgageupdated 13 July 2023
-   39. Holiday Letsupdated 9 April 2025
-   40. Identification and Address Confirmationupdated 13 July 2023
-   41. Identification and Address Confirmationupdated 13 July 2023
-   42. Income allowance tableupdated 10 February 2025
-   43. Income allowance tableupdated 13 July 2023
-   44. Interest onlyupdated 13 July 2023
-   45. Investment Incomeupdated 13 July 2023
-   46. Investment property loanupdated 13 July 2023
-   47. Japanese Knotweedupdated 13 July 2023
-   48. Joint Borrower Sole Proprietor (JBSP)updated 15 April 2024
-   49. Joint Tenantsupdated 13 July 2023
-   50. Leaseholdupdated 13 July 2023
-   51. Lending areaupdated 13 July 2023
-   52. Lending into Retirementupdated 28 April 2023
-   53. Lending into retirementupdated 17 July 2023
-   54. Lending restricted to 80% LTVupdated 7 July 2025
-   55. Let to Buyupdated 13 July 2023
-   56. Loan amountsupdated 19 March 2024
-   57. Loan amountsupdated 9 April 2025
-   58. Loan termupdated 29 June 2023
-   59. Loan to incomeupdated 13 July 2023
-   60. Loan to valueupdated 27 June 2023
-   61. Loan to valueupdated 28 February 2025
-   62. Maintenanceupdated 13 July 2023
-   63. Maintenanceupdated 13 July 2023
-   64. Maternity leaveupdated 13 July 2023
-   65. Minimum Property Valueupdated 13 July 2023
-   66. Minimum incomeupdated 13 July 2023
-   67. Multiple Jobsupdated 13 July 2023
-   68. New build propertiesupdated 7 July 2025
-   69. New build propertiesupdated 7 July 2025
-   70. Number of applicantsupdated 13 July 2023
-   71. Number of applicantsupdated 13 July 2023
-   72. Part and partupdated 13 July 2023
-   73. Payday loans and gamblingupdated 13 July 2023
-   74. Payment holidaysupdated 13 July 2023
-   75. Portabilityupdated 11 October 2023
-   76. Portfolio Landlordsupdated 25 September 2024
-   77. Probationupdated 6 July 2023
-   78. Procuration feesupdated 28 May 2024
-   79. Proof of addressupdated 29 June 2023
-   80. Proof of identificationupdated 14 July 2023
-   81. Properties attached to commercial premisesupdated 13 July 2023
-   82. Property condition and ageupdated 13 July 2023
-   83. Property restrictionsupdated 13 July 2023
-   84. Property valuationsupdated 26 February 2025
-   85. Property valuationsupdated 26 February 2025
-   86. Regulated buy to let – intention to move back to propertyupdated 13 July 2023
-   87. Regulated buy to let – let to a family memberupdated 13 July 2023
-   88. Remortgage Packageupdated 8 September 2023
-   89. Remortgage packageupdated 8 September 2023
-   90. Rental income calculationupdated 26 March 2024
-   91. Rental voidupdated 13 July 2023
-   92. Repayment Methodsupdated 13 July 2023
-   93. Repayment methodsupdated 13 July 2023
-   94. Residency and Visasupdated 8 January 2025
-   95. Residency and Visasupdated 15 January 2024
-   96. Retirement Interest Onlyupdated 22 November 2024
-   97. Right to Buyupdated 8 January 2025
-   98. Second homesupdated 13 July 2023
-   99. Self-build propertiesupdated 13 July 2023
-  100. Self-employedupdated 13 July 2023
-  101. Self-employedupdated 13 July 2023
-  102. Shared Ownershipupdated 11 September 2023
-  103. Shared equity purchase schemesupdated 13 July 2023
-  104. Solicitorsupdated 4 January 2024
-  105. Source of depositupdated 13 July 2023
-  106. Temporary consent to letupdated 13 July 2023
-  107. Tied accommodationupdated 13 July 2023
-  108. Top Slicingupdated 28 July 2025
-  109. Unacceptable letting typesupdated 13 July 2023
-  110. Vulnerable customersupdated 28 June 2023
-  111. Next steps
-  112. Quick links
-  113. Cookies
-  114. Cookies
-  115. What are cookies?
-  116. How do we use them?
-  117. The types of cookies we use?
-  118. How to control and delete cookies?
+# CAMBRIDGE BUILDING SOCIETY – LENDING CRITERIA (RESIDENTIAL & BUY TO LET)
 
-================================================================================
-DETAILED CRITERIA
-================================================================================
+---
 
-CRITERIA 1: TRY OUR NEW APP INSTEAD?
-============================================================
+**LENDER:** Cambridge Building Society (The Cambridge)
+**PRODUCT:** Combined (Residential and Buy to Let)
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 2025
+**FOR INTERMEDIARY USE ONLY**
 
-Content:
-The new money app from The Cambridge gives you the freedom to keep a check on your finances while you're on the go. Now you can access to your accounts and balances whenever you need them, right from the palm of your hand. Ignore this and Continue to login
+**Source:** Criteria search – see The Cambridge website for intermediaries. Contact your Business Development team for further guidance.
 
-------------------------------------------------------------
+---
 
-CRITERIA 2: CRITERIA
-============================================================
+## SECTION 1 – ADVERSE CREDIT
 
-Content:
-This section provides comprehensive lending criteria for Cambridge Building Society mortgages. Use the table of contents above to navigate to specific criteria topics. For further assistance, please contact your Business Development team.
+### Credit History (standard range)
 
-------------------------------------------------------------
+* A credit search is required on all customers.
+* Soft search at DIP stage; hard credit search at mortgage application decision stage (prior to full submission and payment of fees).
+* We will consider customers with adverse credit histories providing: no missed mortgage payments in the last 24 months; no more than 2 missed loan, credit card or financial commitment payments in the last 24 months; CCJs and Defaults less than £500 satisfied over 24 months ago; Bankruptcies, IVAs, CCJs and Defaults (£500 and over) discharged/satisfied over 36 months ago.
+* If your customer falls outside of the above, see Credit Assist mortgages.
 
-CRITERIA 3: AST AND LETTING AGENTSUPDATED 13 JULY 2023
-============================================================
+### Credit Assist – Residential (updated 9 April 2025)
 
-Content:
-We will accept an Assured Shorthold Tenancy (AST) for a minimum term of 6 months and maximum term of 24 months.Only buy to lets on a single household basis will be considered. For example, individuals, couples or family unit.We will accept no more than 2 persons on a single AST.If your customer has a non-standard tenancy agreement, please contact your Business Development team with further information.Rental income achievable will be assessed by the valuer on the basis of an AST to a single household. It will not be based on the rent achievable per usable bedroom.We do not accept HMO’s.If a letting agent is required as an approval condition, a qualified letting agent must be engaged to let and manage the property. If your customer can demonstrate relevant experience this condition may be waived.
+* **Credit Assist Mortgage:** Maximum loan size £400,000. Maximum LTV 85%. Suitable for customers with up to 5 missed payments on credit card, mail order, utilities or communications within the last 24 months; up to 2 defaults with combined value of £100, outstanding or satisfied within the last 24 months (if outstanding must be repaid on completion).
+* **Credit Assist Mortgage Extra:** Maximum loan size £400,000. Maximum LTV 70%. Three or more missed loan or unsecured financial commitment payments in the last 24 months; five or more missed payments on credit card, mail order, utility or communications in the last 24 months; 1–2 missed secured payments within the last 24 months; DMP, Defaults or CCJ up to £500 outstanding or satisfied within the last 24 months (if outstanding must be repaid on completion); DMP, Defaults or CCJ up to £5,000 outstanding or satisfied within the last 36 months (if outstanding must be repaid on completion); payday loans considered if over 12 months ago.
 
-------------------------------------------------------------
+### Credit Assist – Buy to Let
 
-CRITERIA 4: ADDITIONAL BORROWINGUPDATED 5 JULY 2023
-============================================================
+* **BTL Credit Assist Mortgage:** Maximum loan size £400,000. Maximum LTV 75%. Suitable for customers with up to 5 missed payments on credit card, mail order, utilities or communications within the last 24 months; up to 2 defaults with combined value of £100, outstanding or satisfied within the last 24 months (if outstanding must be repaid on completion). Only acceptable for landlords with up to 3 buy to let properties.
 
-Content:
-You are able to submit an additional borrowing request on your customer’s behalf.Before we will consider additional borrowing we will ensure that your customer’s existing account has been conducted in a satisfactory manner without any arrears.We will complete the legal work in-house for additional borrowing. However, in the following circumstances, the legal work will need to be undertaken by a Solicitor appointed by your customer:Shared Ownership where the new funds are being used to purchase an additional shareShared EquityWhere a collateral charge is requiredTransfers of EquityPlease note: the list above is a guide and there may be additional legal matters that occur that are not covered by our in-house legals. Contact your Business Development team for further guidance.A new valuation may be requested and this will be confirmed at DIP stage.For further details refer to ourAdditional borrowing guide.
+### Payday loans and gambling
 
-------------------------------------------------------------
+* We will not knowingly lend to customers who have had a payday loan or gambling debts during the last 24 months.
 
-CRITERIA 5: ADDITIONAL BORROWINGUPDATED 29 JUNE 2023
-============================================================
+---
 
-Content:
-You are able to submit additional borrowing requests on your customer's behalf.Before we will consider additional borrowing we will ensure that your customer’s existing account has been conducted in a satisfactory manner without any arrears.We will complete the legal work in-house for additional borrowing. However, in the following circumstances, the legal work will need to be undertaken by a Solicitor appointed by your customer:Transfers of EquityPlease note: there may be additional legal matters that occur that are not covered by our in-house legals. Contact your Business Development team for further guidance.A new valuation may be requested and this will be confirmed at DIP stage.For further details refer to ourAdditional borrowing guide.
+## SECTION 2 – APPLICANT ELIGIBILITY
 
-------------------------------------------------------------
+### Age – Residential
 
-CRITERIA 6: AFFORDABILITYUPDATED 6 JULY 2023
-============================================================
+* Minimum age for residential repayment or Interest Only: 18.
+* Minimum age for residential Retirement Interest Only: 55 at the start of the loan (youngest customer).
+* No maximum age for residential repayment mortgages.
+* Maximum age for residential Interest Only: 80 at the end of the mortgage term.
+* Maximum age for residential Retirement Interest Only: 85 at the start of the loan (youngest customer).
 
-Content:
-We will take full account of your customer's:Income, net of tax and national insurance and any additional deductionsCredit commitments or other monthly committed expenditureTo calculate the mortgage payment for affordability, we will use our Standard Variable Rate + 1% over the term of the mortgage.Where a 5 Year Fixed product is selected, the mortgage payment for affordability assessment will be the payrate.The affordability assessment will access data from the Office of National Statistics (ONS) to determine the level of expenditure expected for the household composition given.Where the loan has been agreed on an interest only basis, affordability is assessed on the basis of interest only over the term. If there is a payment into a repayment plan, the premium or contribution must be taken into account.
+### Age – Buy to Let
 
-------------------------------------------------------------
+* Minimum age: 21. No maximum age limit.
 
-CRITERIA 7: AGE OF BORROWERUPDATED 29 JUNE 2023
-============================================================
+### Number of applicants
 
-Content:
-The minimum age is 21. There is no maximum age limit.
+* **Residential:** Sole and joint applications. If mortgage LTV is below 80% and there is a family tie, up to 4 customers on a residential purchase and remortgage.
+* **Buy to Let:** Sole and joint applications. If there is a family tie, up to 4 customers on a buy to let purchase and remortgage.
 
-------------------------------------------------------------
+### First Time Buyers – Buy to Let
 
-CRITERIA 8: AGE OF CUSTOMERUPDATED 17 JULY 2023
-============================================================
+* Buy to let applications are not accepted from First Time Buyers. We define a First Time Buyer as an individual who has not been party to a mortgage or owned a property at any time. To qualify for a Buy to let mortgage your customer must be either an owner outright or an owner with a mortgage (in place for at least 6 months).
 
-Content:
-Minimum AgeThe minimum age for a residential repayment or Interest Only mortgage is 18.The minimum age for our residential Retirement Interest Only mortgage is 55 at the start of the loan (based on the youngest customer)Maximum AgeThere is no maximum age limit for residential repayment mortgages.The maximum age for a residential Interest Only mortgage is 80 at the end of the mortgage term.The maximum age for our residential Retirement Interest Only mortgage is 85 at the start of the loan (based on the youngest customer).
+### Residency and Visas – Residential (updated 8 January 2025)
 
-------------------------------------------------------------
+* Customers must have been resident in the UK for a minimum of 2 years at the time of applying.
+* We will consider mortgages up to 95% LTV for customers with: British citizenship; Settled or Pre-settled status (EU settlement scheme); Permanent Rights to Reside (PRR); Spousal visa (acceptable on joint mortgages where main applicant has British Citizenship, Settled or Pre-settled status OR PRR).
+* If your customer holds one of the following Visas and 2 years proof of residency in the UK, we will consider applications up to 90% LTV: Skilled Work Visa; Health and Care Worker Visa; Global Talent Visa. For joint applications where one customer has indefinite leave to remain, we will accept applications up to 95% LTV. The applicant's deposit must be from their own sources.
 
-CRITERIA 9: AGRICULTURAL RESTRICTIONSUPDATED 17 JULY 2023
-============================================================
+### Residency and Visas – Buy to Let (updated 15 January 2024)
 
-Content:
-We do not accept properties that have Agricultural Restrictions.Where the restrictions will be waived, we will require this in writing from the Local Authority.
+* Customers must have been resident in the UK for a minimum of 2 years at the time of applying.
+* We will consider mortgages for customers with: British citizenship; Settled or Pre-settled status (EU settlement scheme); Permanent Rights to Reside (PRR); Spousal visa (acceptable on joint mortgages where main applicant has British Citizenship, Settled or Pre-settled status OR PRR).
+* If your customer holds one of the following Visas and 2 years proof of residency in the UK, we will consider applications up to 80% LTV: Skilled Work Visa; Health and Care Worker Visa; Global Talent Visa. Deposit must be from their own sources; we will only consider a Buy to Let application if your customer is a Residential homeowner.
 
-------------------------------------------------------------
+### Commercial customers
 
-CRITERIA 10: ARMED FORCES PERSONNELUPDATED 17 JULY 2023
-============================================================
+* We do not accept applications from either new or existing commercial customers.
 
-Content:
-Individual consideration will be given to Armed Forces Personnel who will not be penalised due to a history of frequent address changes and living outside of the UK.We may require a letter from your customer’s Commanding Officer in order to confirm address history.If your customer’s deposit is from the Forces Help to Buy scheme, we will require the monthly commitment for the loan to be included in the affordability. A maximum of 80% LTV will be considered.We will take into account any ‘Notice of Correction’ on your customer’s credit file.Your Business Development team will be able to discuss temporary lets if your customer’s undertaken an overseas or UK posting.
+### Vulnerable customers
 
-------------------------------------------------------------
+* We review each case individually; where a vulnerable customer has been identified, consideration will be given as required.
 
-CRITERIA 11: ASBESTOSUPDATED 17 JULY 2023
-============================================================
+---
 
-Content:
-If asbestos is present please refer the case to your Business Development team for guidance.
+## SECTION 3 – AFFORDABILITY & INCOME
 
-------------------------------------------------------------
+### Affordability
 
-CRITERIA 12: BACK-TO-BACK MORTGAGESUPDATED 13 JULY 2023
-============================================================
+* We will take full account of your customer's income (net of tax and national insurance and any additional deductions) and credit commitments or other monthly committed expenditure.
+* Mortgage payment for affordability: Standard Variable Rate + 1% over the term. Where a 5 Year Fixed product is selected, the pay rate is used.
+* Affordability assessment uses ONS data for expected expenditure by household composition. Where the loan is interest only, affordability is assessed on interest only over the term; any premium or contribution into a repayment plan must be taken into account.
 
-Content:
-We do not accept back-to-back mortgages.
+### Loan to income – Residential
 
-------------------------------------------------------------
+* We will only accept residential loans inclusive of fees under 4.5 times income. For purchases we will consider up to 5 times income subject to: maximum LTV 80%; minimum income of £60,000 (total of all customers); no unsecured debt (excluding car loans and student loans). Applies to residential purchases including porting and residential remortgages where extra capital is being raised. Does not apply to residential remortgages on a like-for-like basis.
 
-CRITERIA 13: BENEFITSUPDATED 17 JULY 2023
-============================================================
+### Minimum income
 
-Content:
-We will not consider an application which will rely solely on benefits. For details of the benefits we will consider to support other income, please refer to the ‘Income allowance’ in this criteria search.
+* The minimum income for sole or joint customers is £25,000.
 
-------------------------------------------------------------
+### Income allowance table (updated 10 February 2025)
 
-CRITERIA 14: BUILDERS DEPOSIT/INCENTIVESUPDATED 13 JULY 2023
-============================================================
+* Main Earned Income 100%. Allowances 100%. Overtime 50%. Bonus Monthly/Quarterly/Annual 50% (evidence of 2 bonus payments required). Commission 50% (1–2 years evidence). Multiple Jobs 100% (minimum 6 months). Investment Income 100% (refer to Business Development Team). Stipend 100% (maximum 80% LTV and minimum 12 months remaining at offer). Pension 100% (pension statement required). BTL Rental Income 50% if property unencumbered; BTL Rental Income (landlord with 4 or more BTL properties) 100% if constant evidence for 2 years. Room Rental 100% (minimum 6 months evidence). Maintenance 100% (maximum 80% LTV; Court Order or CMS; 6 months payment history; at least 3 years payments receivable). Working Tax Credit 100%. Child Tax Credits 100%. Disability allowance 100%. Child Benefit 100%. Foster Carer 100% (refer to Business Development Team). Maternity Leave 100% (employer's reference required). Car Allowance 100%. Rent Allowance 100%. Fixed Term Contracts 100% (ideally well-established organisations; at least 6 months of contract to run at offer; indication of renewal). Zero Hours Contracts: Not acceptable.
 
-Content:
-Where a builder/developer is providing a financial incentive, such as cash back, your customer must still provide a minimum deposit (based on the full purchase price) from their own resources.The maximum incentive is 5% of the property value, as confirmed by the valuer.All incentives should be disclosed to the valuer as part of the application.
+### Benefits
 
-------------------------------------------------------------
+* We will not consider an application which will rely solely on benefits. For benefits we will consider to support other income, refer to Income allowance in this criteria.
 
-CRITERIA 15: BUILDINGS AND CONTENTS INSURANCEUPDATED 30 OCTOBER 2024
-============================================================
+### Maintenance
 
-Content:
-It's the customer’s responsibility to make adequate insurance arrangements and keep these in place for the lifetime of the mortgage.
+* Child Maintenance will be considered as income up to 80% LTV at Underwriter discretion. Must be Court Ordered or through CMS; amount clear on bank statements; 6 months payment history; at least 3 years payments receivable.
 
-------------------------------------------------------------
+### Directors of companies
 
-CRITERIA 16: COMMERCIAL CUSTOMERSUPDATED 28 APRIL 2023
-============================================================
+* If Director's shareholding is less than 25%, we class them as employees; income by payslips and P60. If shareholding is 25% or more, refer to Self-employed.
 
-Content:
-This is a specialist area of lending. We do not accept applications from either new or existing commercial customers’.
+### Maternity leave
 
-------------------------------------------------------------
+* We will always require an employer's reference with regards to maternity leave duration and pay.
 
-CRITERIA 17: CONSTRUCTION TYPESUPDATED 13 JULY 2023
-============================================================
+---
 
-Content:
-We will lend on properties of standard construction i.e. brick walls with tiled or slate roofs.Subject to the comments of the valuer, we will also consider other types of property such as timber framed and thatched etc.Acceptable- Wimpey No Fines, EasiformAcceptable once repaired- Airey, Unity, Waites, Cornish, Calder and Aluminium (prefab bungalows)Unacceptable- British Steel Construction, Woolaway, Anglian Construction, Live Work units, High Aluminium CementIf your customer’s have an unusual construction type which has not been identified above, speak to your Business Development team for further information.
+## SECTION 4 – LOAN AMOUNTS, TERM & LTV
 
-------------------------------------------------------------
+### Loan amounts – Residential (updated 19 March 2024)
 
-CRITERIA 18: CONTRACTORS AND CIS SCHEMEUPDATED 13 JULY 2023
-============================================================
+* Minimum: New mortgages £20,000 (may vary by product); Additional borrowing £10,000; Remortgages £20,000; Interest Only £75,000; Retirement Interest Only £50,000; Low deposit £95,000; Shared Ownership £50,000; Help to Buy remortgage £50,000.
+* Maximum: Shared Ownership £400,000; Help to Buy remortgage £450,000; Credit Assist £400,000; Interest Only £750,000; Retirement Interest only £750,000; Residential purchase and remortgage up to 80% LTV £2,000,000; Lending up to 90% LTV £750,000; Lending up to 95% LTV £500,000. We will only lend in Sterling.
 
-Content:
-The following will be required however additional documentation may be requested:Current contractsPrevious contracts (if dated within last 2 years).SA302’s (if under the CIS Scheme)Last 6 months invoicesLast 6 months bank statements showing invoice creditsZero hour contracts will not be accepted.
+### Loan amounts – Buy to Let (updated 9 April 2025)
 
-------------------------------------------------------------
+* Minimum: New mortgages £20,000; Additional borrowing £10,000; Re-mortgages £20,000; Holiday lets £50,000.
+* Maximum: 10 buy to let properties or a total of £4,000,000 for an individual (whichever is higher); maximum loan for buy to let £1,000,000. We will only lend in Sterling.
 
-CRITERIA 19: CONTRACTS OF EMPLOYMENTUPDATED 13 JULY 2023
-============================================================
+### Loan term
 
-Content:
-We accept contracts provided they meet the below guidelines:Contacts with well-established organisationsAt least 6 months of the contract to run at the time of mortgage offerAn indication of the likelihood of contract renewalThey are not Zero hour contracts
+* Minimum term 5 years. Maximum term 40 years. For leasehold properties, maximum term is influenced by the remaining lease; there must be at least 60 years remaining on the lease after the lending term has expired.
 
-------------------------------------------------------------
+### Loan to value – Residential (updated 27 June 2023)
 
-CRITERIA 20: CREDIT ASSIST MORTGAGES - ADVERSE CREDITUPDATED 9 APRIL 2025
-============================================================
+* LTV = loan amount ÷ property value or purchase price (whichever is lower), expressed as a percentage. We will lend up to 95% on a purchase, 95% on a like-for-like remortgage and 90% on a remortgage with capital raising.
 
-Content:
-If following a credit search your customer does not meet our requirements for a product from our standard residential product range, we may be able to consider them on our Credit Assist Mortgage range. This has two tiers.Credit Assist MortgageThe maximum loan size is £400,000Maximum LTV is 85%Suitable for customers with up to five missed payments on credit card, mail order, utilities or communications within the last 24 monthsUp to two defaults with a combined value of £100, outstanding or satisfied within the last 24 months (if outstanding must be repaid on completion)Credit Assist Mortgage ExtraThe maximum loan size is £400,000The maximum LTV is 70%Three or more missed loan or unsecured financial commitment payments in the last 24 monthsFive or more missed payments on credit card, mail order, utility or communications in the last 24 months1-2 missed secured payments within the last 24 monthsDebt Management Plan, Defaults or CCJ up to £500 outstanding or satisfied within the last 24 months (if outstanding must be repaid on completion)Debt Management Plan, Defaults or CCJ up to £5,000 outstanding or satisfied within the last 36 months (if outstanding must be repaid on completion)Payday loans considered if over 12 months ago
+### Loan to value – Buy to Let (updated 28 February 2025)
 
-------------------------------------------------------------
+* LTV = loan amount ÷ property value or purchase price (whichever is lower). We will lend up to 80% on buy to let purchases and remortgages. For buy to let portfolio landlords, expats and holiday lets, maximum LTV is 75%.
 
-CRITERIA 21: CREDIT ASSIST MORTGAGES - ADVERSE CREDITUPDATED 13 JULY 2023
-============================================================
+### Lending restricted to 80% LTV (updated 7 July 2025)
 
-Content:
-If following a credit search your customer does not meet our requirements for a product from our standard buy to let product range, we may be able to consider them on our BTL Credit Assist Mortgage range subject to product availability and the below criteria;BTL Credit Assist MortgageThe maximum loan size is £400,000Maximum LTV is 75%Suitable for customers with up to five missed payments on credit card, mail order, utilities or communications within the last 24 monthsUp to two defaults with a combined value of £100, outstanding or satisfied within the last 24 months (if outstanding must be repaid on completion)Only acceptable for landlords with up to 3 buy to let properties
+* We will not consider lending over 80% LTV on: Coach Houses, Quarter Houses and Back to Back Terraced Houses; Multiple applicants; Tied Accommodation; Child Maintenance income; Stipend Income; Foster Carer Income; Right to Buy (we will lend up to 100% of the discounted purchase price); Forces Help to Buy scheme; Shared equity; Part & part mortgages; Applicants in probation periods. Leasehold flats and maisonettes in blocks over 8 storeys constructed after 1 January 2020 will be considered up to 80% LTV subject to valuer recommendation; all blocks must be serviced by a lift. For full details refer to individual sections and the income allowance table.
 
-------------------------------------------------------------
+### Debt consolidation – Residential (updated 29 January 2024)
 
-CRITERIA 22: CREDIT HISTORYUPDATED 13 JULY 2023
-============================================================
+* Considered at Underwriter discretion up to 90% LTV. Where debt consolidated is greater than £10,000, further information required. First-time debt consolidation: we will exclude the monthly debt commitments from affordability if repaid on completion. Subsequent debt consolidation within 2 years: Underwriters may include the monthly debt commitments in affordability.
 
-Content:
-We require a credit search to be completed on all customers.A soft search is carried out at DIP decision stage, and a hard credit search is left at the mortgage application decision stage, once the full mortgage application has been keyed. This is prior to full submission and payment of fees (if applicable).We will consider customers with adverse credit histories providing:No missed mortgage payments in the last 24 monthsNo more than 2 missed loan, credit card or financial commitment payment in the last 24 monthsCCJs and Defaults less than £500 have been satisfied over 24 months agoBankruptcies, IVAs, CCJs and Defaults (£500 and over) have been discharged/satisfied over 36 months agoIf your customer falls outside of the above criteria, please visit our ‘Credit Assist mortgages’ section of this criteria search.
+### Debt consolidation – Buy to Let (updated 15 January 2024)
 
-------------------------------------------------------------
+* Considered at Underwriter discretion up to 80% LTV. For Expat and Holiday Let Buy to Lets, maximum LTV 75%. Where debt consolidated is greater than £10,000, further information required. First-time: exclude monthly debt commitments from affordability if repaid on completion. Subsequent within 2 years: Underwriters may include monthly debt commitments.
 
-CRITERIA 23: CREDIT HISTORYUPDATED 13 JULY 2023
-============================================================
+---
 
-Content:
-We require a credit search to be completed on all customers.A soft search is carried out at DIP decision stage, and a hard credit search is left at the mortgage application decision stage, once the full mortgage application has been keyed. This is prior to full submission and payment of fees (if applicable).We will consider customers with adverse credit histories providing:No missed mortgage payments in the last 24 monthsNo more than 2 missed loan, credit card or financial commitment payment in the last 24 monthsCCJs and Defaults less than £500 have been satisfied over 24 months agoBankruptcies, IVAs, CCJs and Defaults (£500 and over) have been discharged/satisfied over 36 months agoIf your customer falls outside of the above criteria, please visit our ‘Credit Assist mortgages’ section of this criteria search.
+## SECTION 5 – PROPERTY
 
-------------------------------------------------------------
+### Flats – Residential (updated 7 July 2025)
 
-CRITERIA 24: DEBT CONSOLIDATIONUPDATED 29 JANUARY 2024
-============================================================
+* Leasehold resale flats up to 95% LTV; new build leasehold flats up to 85% LTV, subject to: blocks up to 8 storeys only (basement not included); valuer recommending the property as suitable security; must be serviced by a lift if above 4 storeys; studio flats minimum 35 sq/m. Leasehold flats and maisonettes in blocks over 8 storeys constructed after 1 January 2020: up to 80% LTV subject to valuer recommendation; all blocks serviced by a lift. Case by case: Maisonettes; properties above commercial (new build only); properties within close proximity to commercial. Ex-local authority leasehold flats up to 95% LTV subject to: blocks up to 4 storeys only; valuer recommendation; no deck/balcony access; no commercial attached or within close proximity.
 
-Content:
-Debt consolidation will be considered, at the discretion of the Underwriter, up to 90% LTV.Where the debt being consolidated is greater than £10,000, further information will be required from your customer, confirming how the debt has been built up.If requested by the Underwriter, evidence may be required.If your customers are coming to us to consolidate debt for the first time we will exclude the monthly debt commitments from affordability, providing this is repaid on completion.For existing customers approaching us for subsequent debt consolidation within 2 years since the previous loan, the Underwriters reserve the right to include the monthly debt commitments when assessing affordability.
+### Flats – Buy to Let (updated 7 July 2025)
 
-------------------------------------------------------------
+* Leasehold flats up to 80% LTV, subject to: blocks up to 8 storeys only (basement not included); valuer recommending the property as suitable security; must be serviced by a lift if above 4 storeys; studio flats minimum 35 sq/m. Leasehold flats and maisonettes in blocks over 8 storeys constructed after 1 January 2020: up to 80% LTV subject to valuer recommendation; all blocks serviced by a lift. Case by case: Maisonettes; properties above commercial (new build only); properties within close proximity to commercial. Ex-local authority leasehold flats up to 80% LTV subject to: blocks up to 4 storeys only; valuer recommendation; no deck/balcony access; no commercial attached or within close proximity.
 
-CRITERIA 25: DEBT CONSOLIDATIONUPDATED 15 JANUARY 2024
-============================================================
+### New build – Residential (updated 7 July 2025)
 
-Content:
-Debt consolidation will be considered, at the discretion of the Underwriter, up to 80% LTV. For Expat and Holiday Let Buy to Lets, the maximum LTV is 75%.Where the debt being consolidated is greater than £10,000, further information will be required from your customer, confirming how the debt has been built up.If requested by the Underwriter, evidence may be required.If your customers are coming to us to consolidate debt for the first time we will exclude the monthly debt commitments from affordability, providing this is repaid on completion.For existing customers approaching us for subsequent debt consolidation within 2 years since the previous loan, the Underwriters reserve the right to include the monthly debt commitments when assessing affordability.
+* New build = property first registered within the last 2 years. New build houses up to 95% LTV; new build flats up to 85% LTV. Property must be built under a recognised warranty scheme (10 years post completion). Leasehold flats/maisonettes in blocks over 8 storeys constructed after 1 January 2020: up to 80% LTV subject to valuer recommendation; lift required. Accepted warranties: NHBC, LABC certificate, Premier Guarantee, BLP (Buildings Defect Insurance), Build Zone, Checkmate (Castle 10), International Construction Warranties (ICW), ARK, Advantage (AHCI), Global Home Warranties, AEDIS, ABC+, Protek Warranty, Compariqo. We will not consider an architect's certificate.
 
-------------------------------------------------------------
+### New build – Buy to Let (updated 7 July 2025)
 
-CRITERIA 26: DEED OF GIFTUPDATED 13 JULY 2023
-============================================================
+* New build = property first registered within the last 2 years. New build houses and flats restricted to maximum 80% LTV. Same warranty and block criteria as Residential. Same accepted warranties list.
 
-Content:
-Where a property is in the name of one person but it is proposed to transfer it into two names where the new party is not purchasing their share then a Deed of Gift will be established.A Deed of Gift will also be required in the event a deposit is being gifted from a family member. See the ‘Source of deposit’ section of this criteria search for further information.Where a Deed of Gift is to be established we require your customers' solicitor to arrange an indemnity policy to protect our interests on completion.The cost of this policy must be paid by your customer.
+### Minimum property value
 
-------------------------------------------------------------
+* The minimum property value is £100,000.
 
-CRITERIA 27: DIRECTORS OF COMPANIESUPDATED 13 JULY 2023
-============================================================
+### Construction types
 
-Content:
-Providing the Director’s shareholding is less than 25%, we will class them as employees of a company. In these cases, income can be confirmed by payslips and P60. An income reference may be requested.If your customer is a company Director and their shareholding in the company is 25% or more, refer to 'Self Employed customers' of this criteria search for more details.
+* We will lend on standard construction (brick walls, tiled or slate roofs). Subject to valuer: timber framed, thatched, etc. Acceptable: Wimpey No Fines, Easiform. Acceptable once repaired: Airey, Unity, Waites, Cornish, Calder and Aluminium (prefab bungalows). Unacceptable: British Steel Construction, Woolaway, Anglian Construction, Live Work units, High Aluminium Cement. Unusual construction: speak to Business Development team.
 
-------------------------------------------------------------
+### Energy Performance Certificate – Buy to Let
 
-CRITERIA 28: ENERGY PERFORMANCE CERTIFICATEUPDATED 13 JULY 2023
-============================================================
+* From 1 April 2018 it is illegal for landlords to start new tenancies without an EPC of 'E' or higher. All BTL properties must have an EPC rating between A and E. Evidence required for all buy to let properties.
 
-Content:
-From 1st April 2018 it was made illegal for landlords to start new tenancies without the property having an Energy Performance Certificate of ‘E’, or higher. Therefore any properties let out in the private rented sector must have an EPC rating between A and E.Evidence will be required to confirm the EPC rating for all buy to let properties this affects.
+### Property condition and age
 
-------------------------------------------------------------
+* No restrictions on age of property; we do not lend on Grade I listed properties. Physical state as per valuation report. Poor physical state may lead to decline. Satisfactory insurance cover with no exclusions must be arranged.
 
-CRITERIA 29: EXPATRIATESUPDATED 13 JULY 2023
-============================================================
+### Property restrictions
 
-Content:
-For residential mortgages, we require your customer to have been residing in the UK for a minimum of 2 years.If your customer is paid in foreign currency, we are unable to accept this income for residential mortgages. See foreign income section of this criteria search for more information.
+* We will not consider properties with restrictions on occupancy (e.g. only 11 months per year, minimum age of occupant, student lets).
 
-------------------------------------------------------------
+### Properties attached to commercial premises
 
-CRITERIA 30: EXPATRIATESUPDATED 9 APRIL 2025
-============================================================
+* We do not accept properties over commercial premises. If the security property is near or next to commercial premises, contact Business Development team. Any approvals subject to valuer confirming suitable security and that commercial premises do not affect saleability and letability.
 
-Content:
-Buy to let mortgages for expatriates (expats) will be considered for British citizens up to 75% LTV, subject to product availability.All expats must as a minimum have:a UK passporta UK bank accounta history living and working in the UKa UK correspondence address (we will carry out a credit search on this address)minimum of £25,000 employed income. Self-employed applicants will only be considered if the business is based in the UKWith the exception of financial sanctions, all countries and currencies will be considered, at the Underwriters discretion.First time landlords will be considered in line with the above, and consumer buy to lets are acceptable where the property has been let out for a minimum of 24 months prior.We do not allow First time Buyers for Buy to Lets. If your customer owns a property outside of the UK, we will require a copy of their mortgage statement to confirm they are an owner/occupier.You must:select anExpat Buy to Let productwith a maximum loan size of £1,000,000provide confirmation of your customer’s UK correspondence addressconfirm details of your customer’s circumstancesRental Calculations are based on product selection & availability:Where a 2-year fixed or discounted rate has been selected we will use a stress rate of the payrate + 2%.Where a 5-year fixed rate has been selected, the stress rate will be the payrate.Gross rental income from the security property, must be at least 140% of the required mortgage payment when calculated at the relevant stress rate.We will allow Holiday Lets for Expats and an Expat product must be selected. Please visit the ‘Holiday Lets’ section of this guide for more information.Please note: Top slicing is not available.
+### Flying freeholds
 
-------------------------------------------------------------
+* We will consider properties with a flying freehold subject to it not having a detrimental effect on the value of the property.
 
-CRITERIA 31: FEESUPDATED 1 AUGUST 2024
-============================================================
+### Japanese Knotweed
 
-Content:
-The completion fee for Buy to Let mortgages can be added to the mortgage loan exceeding the maximum LTV, however this is capped at 2% of the loan.Where it is an ex-pat BTL we will accept a maximum fee of £2,000 or a maximum LTV of 77%, whichever is higher.Application fees are non-refundable and payable when submitting the Full Mortgage Application.Your mortgage product is secured once the Application is submitted.If you would like to change your mortgage product after this, you will be able to without any further fees whilst the case status is pre-mortgage offer.Once the mortgage offer has been produced, to change the product, any fees associated with the new rate will be due.
+* The Society will not lend where Japanese Knotweed is known to be present in the grounds of or within close proximity to the security property.
 
-------------------------------------------------------------
+### Leasehold
 
-CRITERIA 32: FEESUPDATED 1 AUGUST 2024
-============================================================
+* We will accept leasehold properties providing there is a minimum of 60 years left on the lease after the completed term of the loan. We will not lend where: ground rent exceeds 0.1% of the property value or £500 a year (whichever is higher); ground rent is not reasonable or has unreasonable multipliers (e.g. doubling every 5, 10 or 15 years); RPI or similar index escalation is acceptable. We will not consider where freehold and leasehold are held by the same owner in the same capacity.
 
-Content:
-The completion fee for Residential mortgages can be added to the mortgage loan exceeding the maximum LTV.Application fees are non-refundable and payable when submitting the Full Mortgage Application.Your mortgage product is secured once the Application is submitted.If you would like to change your mortgage product after this, you will be able to without any further fees whilst the case status is pre-mortgage offer.Once the mortgage offer has been produced, to change the product, any fees associated with the new rate will be due.
+### Agricultural restrictions
 
-------------------------------------------------------------
+* We do not accept properties that have Agricultural Restrictions. Where restrictions will be waived, we will require this in writing from the Local Authority.
 
-CRITERIA 33: FIRST TIME BUYERSUPDATED 13 JULY 2023
-============================================================
+### Self-build properties
 
-Content:
-Buy to let applications are not accepted from First Time Buyers.We define a 'First Time Buyer' as an individual who has not been party to a mortgage or owned a property at any time.To qualify for a Buy to let mortgage your customer must be either an owner outright or an owner with a mortgage (which must have been in place for at least 6 months).
+* We do not currently offer self-build mortgages.
 
-------------------------------------------------------------
+---
 
-CRITERIA 34: FLATSUPDATED 7 JULY 2025
-============================================================
+## SECTION 6 – DEPOSIT & INCENTIVES
 
-Content:
-We will consider leasehold resale flats up to 95% LTV and New Build leasehold flats will be considered up to 85% LTV, subject to the below;blocks up to 8 storeys only (basement not included)the valuer recommending the property as suitable securitymust be serviced by a lift, if above 4 storeysstudio flats considered with a minimum 35 sq/mLeasehold flats and maisonettes in blocks over 8 storeys constructed after 1st January 2020 will be considered up to 80% LTV subject to the valuer recommending the property as suitable for mortgage purposes. All blocks must be serviced by a lift.The following properties will be considered on a case by case basis, in line with the above criteria;MaisonettesProperties above commercial premises for new build developments onlyProperties within a close proximity to commercialEx-local authority leasehold flats we be considered up to 95% LTV, subject to the below;blocks up to 4 storeys onlythe valuer recommending the property as suitable securityno deck/balcony accessno commercial attached or within close proximityRefer to your Business Development team for more information.
+### Source of deposit
 
-------------------------------------------------------------
+* Acceptable: Savings; equity from the sale of property; gift from a family member (see list). Where the deposit is a gift, establish if it is non-returnable or whether regular payments are required; written confirmation required. We will accept gifted deposits from: Spouse, Civil Partner; Parents, step parents, parents in law; Siblings, half siblings, step siblings, siblings in law; Grandparents, step grandparents; Aunt, Uncle, Niece, Nephew; Children, Step children, children in law, adopted children. Your customer's solicitor will be required to verify the source.
 
-CRITERIA 35: FLATSUPDATED 7 JULY 2025
-============================================================
+### Deed of gift
 
-Content:
-We will consider leasehold flats up to 80% LTV, subject to the below;blocks up to 8 storeys only (basement not included)the valuer recommending the property as suitable securitymust be serviced by a lift, if above 4 storeysstudio flats considered with a minimum 35 sq/mLeasehold flats and maisonettes in blocks over 8 storeys constructed after 1st January 2020 will be considered up to 80% LTV subject to the valuer recommending the property as suitable for mortgage purposes. All blocks must be serviced by a liftThe following properties will be considered on a case by case basis, in line with the above criteria;MaisonettesProperties above commercial premises for new build developments onlyProperties within a close proximity to commercialEx-local authority leasehold flats we be considered up to 80% LTV, subject to the below;blocks up to 4 storeys onlythe valuer recommending the property as suitable securityno deck/balcony accessno commercial attached or within close proximityRefer to your Business Development team for more information.
+* Required where property is in one name and proposed to transfer into two names where the new party is not purchasing their share; or where a deposit is being gifted from a family member (see Source of deposit). We require the customer's solicitor to arrange an indemnity policy to protect our interests on completion; cost paid by your customer.
 
-------------------------------------------------------------
+### Builders deposit / incentives
 
-CRITERIA 36: FLYING FREEHOLDSUPDATED 13 JULY 2023
-============================================================
+* Where a builder/developer provides a financial incentive (e.g. cash back), your customer must still provide a minimum deposit (based on the full purchase price) from their own resources. Maximum incentive is 5% of the property value as confirmed by the valuer. All incentives should be disclosed to the valuer.
 
-Content:
-We will consider properties that have a flying freehold subject to the flying freehold not having a detrimental effect on the value of the property.
+---
 
-------------------------------------------------------------
+## SECTION 7 – EMPLOYMENT
 
-CRITERIA 37: FOREIGN CURRENCYUPDATED 13 JULY 2023
-============================================================
+### Self-employed – Residential
 
-Content:
-We do not accept foreign currency loans for the following mortgage types:Residential mortgagesTransfer of EquityPortingFor existing customers, we can consider using foreign currency income for product switches or additional borrowing. Speak to your Business Development team for further information.
+* We require the last 2 years income evidence (not more than 18 months old): tax calculations plus corresponding tax year overview; full financial accounts. Where there is an improving trend, the most recent year can be considered provided sufficient evidence that income is sustainable. Further proof or a projection may be required at Underwriter discretion. We will only accept projections and accounts signed by an accountant holding one of: ICAEW, ACCA, AAPA, CIMA, CPAA, AAT, AIA, CIOT, IFA, CIPFA. The source of the evidence must be independent of your customer.
 
-------------------------------------------------------------
+### Self-employed – Buy to Let
 
-CRITERIA 38: HELP TO BUY EQUITY LOAN - REMORTGAGEUPDATED 13 JULY 2023
-============================================================
+* We require proof of income for the last 2 years (not more than 18 months old). For buy to lets up to 80% LTV we will need the last 2 years: tax calculations plus corresponding tax year overview. Where there is an improving trend, the most recent year can be used for loan to income if sustainable. Same accountant qualifications and independence as Residential.
 
-Content:
-We will consider a remortgage, where the Help to Buy equity loan is remaining on completion, up to 75% LTV.minimum loan amount £50,000maximum loan £450,000maximum value £600,000staircasing is acceptable, only to repay part of the equity loanwe will require the same term to be selected as the original agreementrepayment of the equity loan will be required to assess affordability. The equity loan will need to be declared as a commitment with a monthly payment calculated at a rate of 1.75%. This payment will be included in the affordability assessment.
+### Contractors and CIS scheme
 
-------------------------------------------------------------
+* Required: Current contracts; previous contracts (if within last 2 years); SA302's (if under CIS); last 6 months invoices; last 6 months bank statements showing invoice credits. Zero hour contracts will not be accepted.
 
-CRITERIA 39: HOLIDAY LETSUPDATED 9 APRIL 2025
-============================================================
+### Contracts of employment
 
-Content:
-A specific product range is available for Holiday Lets up to 75% LTV. This is subject to availability.We will also allow Holiday Lets for Expats; however, an Expat product must be selected.We will consider Holiday Lets subject to the following:minimum loan size is £50,000maximum loan size of £1,000,000minimum income required is £25,000 per applicationa letter from a local holiday letting agency, to confirm the high, medium and low season rates. An average of these seasons, over a 30 week period is taken to calculate the annual rental incomegross rental income from the security property, must be at least 140% of the required mortgage payment when calculated on an interest only basis at the relevant stress rate*EPC rating of E or aboveRental Calculations are based on product selection & availability:Where a 2-year fixed or discounted rate has been selected we will use a stress rate of the payrate + 2%.Where a 5-year fixed rate has been selected, the stress rate will be the payrate.Gross rental income from the security property, must be at least 140% of the required mortgage payment when calculated at the relevant stress rate.Acceptable Propertiesnew and established Holiday LetsAirbnb and similarthe property can be personally used up to 90 days per annumUnacceptable Propertiesadditional properties on sitesholiday parksB&Bsproperties with restrictive usage or holiday let covenantsproperties which are temporary or moveable are not permittedPlease note: Top slicing is not available.
+* We accept contracts provided: contracts with well-established organisations; at least 6 months of the contract to run at the time of mortgage offer; an indication of the likelihood of contract renewal; they are not Zero hour contracts.
 
-------------------------------------------------------------
+### Multiple jobs
 
-CRITERIA 40: IDENTIFICATION AND ADDRESS CONFIRMATIONUPDATED 13 JULY 2023
-============================================================
+* Income from multiple jobs will be considered where at least 6 months have elapsed since the additional job commenced, the additional occupation is deemed sustainable and the required documentation can be provided.
 
-Content:
-Under the Money Laundering regulations we must confirm the identity and address details of all mortgage applicants, if present.
+### Probation
 
-------------------------------------------------------------
+* We will consider customers within a probation period at Underwriter discretion. We will request an income reference to confirm employment is permanent and at minimum the customer's first payslip before proceeding to mortgage offer. Maximum LTV is 80%.
 
-CRITERIA 41: IDENTIFICATION AND ADDRESS CONFIRMATIONUPDATED 13 JULY 2023
-============================================================
+### Armed Forces personnel
 
-Content:
-Under the Money Laundering regulations we must confirm the identity and address details of all mortgage applicants.
+* Individual consideration; not penalised for frequent address changes or living outside the UK. We may require a letter from the customer's Commanding Officer to confirm address history. If deposit is from Forces Help to Buy scheme, we will require the monthly commitment for the loan included in affordability; maximum 80% LTV. We will take into account any 'Notice of Correction' on the credit file. Business Development team can discuss temporary lets for overseas or UK posting.
 
-------------------------------------------------------------
+---
 
-CRITERIA 42: INCOME ALLOWANCE TABLEUPDATED 10 FEBRUARY 2025
-============================================================
+## SECTION 8 – IDENTIFICATION & PROOF OF ADDRESS
 
-Content:
-IncomeAllowanceConditionsMain Earned Income100%Allowances100%Overtime50%Bonus Monthly / Quarterly / Annual50%Evidence of 2 bonus payments requiredCommission50%1-2 years evidence to be providedMultiple Jobs100%Minimum of 6 monthsInvestment Income100%Refer to Business Development TeamStipend100%Maximum 80% LTV and a minimum of 12 months remaining at the time of offerPension100%Pension statement to be providedBTL Rental Income50%If property is unencumberedBTL Rental Income (Landlord with 4 or more Buy to Let Properties)100%If constant evidence can be provided for 2 yearsRoom Rental100%A minimum of 6 months evidence to be providedMaintenance100%Maximum 80% LTVAcceptable via Court Order or Child Maintenance ServiceA minimum of 6 months payment history to be provided, andA minimum of 3 years payments will be receivableWorking Tax Credit100%Benefits detailed in this section can be used when assessing affordability although no cases will be considered which rely solely on benefitsThese benefits may be captured under Universal CreditChild Tax Credits100%Disability allowance100%Child Benefit100%Foster Carer100%Refer to Business Development TeamMaternity Leave100%We will always require an employer’s reference with regards to maternity leave duration and payCar Allowance100%Rent Allowance100%Fixed Term Contracts100%Ideally contracts should be with well-established organisationsThere should be at least 6 months of the contract to run at the time of the offerAn indication of the likelihood of contract renewal is requiredZero Hours ContractsNot acceptable
+* Under the Money Laundering regulations we must confirm the identity and address details of all mortgage applicants (if present). We require three years address history for each customer at DIP; proof of address once the application has been submitted. We require customers to be on the voters roll at the correspondence address (verified at credit check). If we are unable to locate your customer on the voters roll, we will need further information and possibly further documentation. We will require certified copies to be uploaded to your Online Intermediary Portal. Proof of identification is required once the application has been submitted. If your customer is based abroad, contact your Business Development team.
 
-------------------------------------------------------------
+---
 
-CRITERIA 43: INCOME ALLOWANCE TABLEUPDATED 13 JULY 2023
-============================================================
+## SECTION 9 – INTEREST ONLY, PART & PART & RIO
 
-Content:
-IncomeAllowanceConditionsMain Earned Income100%Allowances100%Overtime50%Bonus Monthly / Quarterly50%Evidence of 2 bonus payments requiredCommission50%1-2 years evidence to be providedMultiple Jobs100%Minimum of 6 monthsInvestment Income100%Refer to Business Development TeamStipend100%12 months remaining at the time of offerPension100%Pension statement to be providedBTL Rental Income50%If property is unencumberedBTL Rental Income (Portfolio Landlord)100%If constant evidence can be provided for 2 yearsRoom Rental100%A minimum of 6 months evidence to be providedMaintenance100%Acceptable via Court Order or Child Maintenance ServiceA minimum of 6 months payment history to be provided, anda minimum of 3 years payments will be receivableWorking Tax Credit100%Benefits detailed in this section can be used when assessing affordability although no cases will be considered which rely solely on benefitsThese benefits may be captured under Universal CreditChild Tax Credits100%Disability allowance100%Child Benefit100%Foster Carer100%Refer to Business Development TeamMaternity Leave100%We will always require an employer’s reference with regards to maternity leave duration and payCar Allowance100%Rent Allowance100%Fixed Term Contracts100%Ideally contracts should be with well-established organisationsThere should be at least 6 months of the contract to run at the time of the offerAn indication of the likelihood of contract renewal is requiredZero Hours ContractsNot acceptable
+### Interest only – Residential
 
-------------------------------------------------------------
+* Minimum loan size £75,000. Maximum loan size £750,000. Maximum age at end of mortgage term 80. Interest only maximum 70% LTV when using endowment, stocks and shares ISA, UK pension or investment portfolio as repayment plan; maximum 66% LTV when using sale of property. Affordability may be assessed on interest only; if there is a payment into a repayment plan, the premium or contribution must be taken into account. Acceptable repayment strategies: Sale of property (must be the property being mortgaged; customer must have minimum £225,000 equity on completion); Endowment (up to 80% of middle figure of the 3 shown); Stocks and Shares ISA (up to 80% of current value); UK Pension (maximum 50% of projected tax free lump sum); Investment plan/portfolio (up to 80% of current value). Unacceptable: Cash ISAs; General savings; Inheritance; Sale of non-property assets; Overpayments (as total repayment); Sale of security on death; Bonuses. Your customer must sign an interest only mortgage declaration.
 
-CRITERIA 44: INTEREST ONLYUPDATED 13 JULY 2023
-============================================================
+### Part and part
 
-Content:
-A specific product range is available for interest only mortgages.We will consider residential interest only loans subject to the following:The minimum loan size is £75,000The maximum loan size is £750,000The maximum age at the end of the mortgage term is 80Interest only lending is a maximum of 70% LTV when using an endowment, stocks and shares ISA, UK pension or investment portfolio as a repayment plan.Interest only lending is a maximum of 66% LTV when using sale of property as a repayment planWhere the loan has been agreed on an interest only basis, affordability may be assessed on the basis of interest only over the term. If there is a payment into a repayment plan, the premium or contribution must be taken into account.Acceptable repayment strategies:Sale of property – this must be the property being mortgaged to us and your customer must have a minimum of £225,000 equity available in the property on completion of their new mortgageEndowment – we will use up to 80% of the middle figure of the 3 shownStocks and Shares ISA – Up to 80% of the current value allowedUK Pension - maximum 50% of projected tax free lump sum allowedInvestment plan/portfolio - Up to 80% of current value allowedUnacceptable repayment plans:Cash ISA’sGeneral savingsInheritanceSale of non-property assetsOverpayments (as a means of total repayment)Sale of security on deathBonusesYour customer must sign an interest only mortgage declaration as part of the application process.
+* Your customer may take a mortgage on a part repayment and part interest only basis. Our interest only criteria apply only to the interest only part. Maximum LTV is 80% for part and part mortgages.
 
-------------------------------------------------------------
+### Retirement Interest Only (updated 22 November 2024)
 
-CRITERIA 45: INVESTMENT INCOMEUPDATED 13 JULY 2023
-============================================================
+* We will consider RIO for purchase, remortgage, product switch or additional borrowing, subject to product availability. Minimum loan size £50,000. Maximum loan size up to 55% LTV is £750,000. Minimum age at start of loan 55 (youngest customer). Maximum age at start of loan 85 (youngest customer). Single or joint borrowers only; for joint applications both customers must demonstrate affordability independently. No minimum equity requirement. We will only consider lending on the customer's main residence; second homes not accepted. Only Pension, Investment Plan and BTL rental income will be included when assessing income. We will assess affordability on an Interest Only basis over the term of the loan.
 
-Content:
-Investment income will be considered subject to three years proof of income at similar levels. This will need to be evidenced by SA302’s or investment statements and Solicitor / Accountant / Trust Administrator confirming income guaranteed for the foreseeable future.
+---
 
-------------------------------------------------------------
+## SECTION 10 – REMORTGAGE & ADDITIONAL BORROWING
 
-CRITERIA 46: INVESTMENT PROPERTY LOANUPDATED 13 JULY 2023
-============================================================
+### Additional borrowing (updated 5 July 2023)
 
-Content:
-A professional landlord is defined as someone already renting out a property or getting a mortgage for the specific purpose of running a buy to let business. A professional has more than 1 buy to let property.
+* You are able to submit an additional borrowing request on your customer's behalf. We will ensure the existing account has been conducted satisfactorily without any arrears. We will complete the legal work in-house except in the following circumstances (Solicitor appointed by your customer): Shared Ownership where new funds are used to purchase an additional share; Shared Equity; Where a collateral charge is required; Transfers of Equity. There may be additional legal matters not covered by our in-house legals – contact Business Development team. A new valuation may be requested (confirmed at DIP). Refer to Additional borrowing guide for further details.
 
-------------------------------------------------------------
+### Remortgage package – Residential (updated 8 September 2023)
 
-CRITERIA 47: JAPANESE KNOTWEEDUPDATED 13 JULY 2023
-============================================================
+* We will lend up to 90% of the value on a remortgage with capital raising and up to 95% LTV for a like-for-like remortgage, providing your customer has owned the property for a minimum of 6 months. If the property is unencumbered and your customer is capital raising, we treat this as a remortgage and customers can benefit from the remortgage package. Our remortgage package offers free legals and a free valuation for standard remortgage only (excludes Transfer of Equity, Lease Extensions, First Registration, Title Restrictions; these costs covered by your customer – see Fee Tariff). Available on certain products only and subject to minimum loan amounts.
 
-Content:
-The Society will not lend where it is known that Japanese Knotweed is present in the grounds of or within close proximity to the security property.
+### Remortgage package – Buy to Let (updated 8 September 2023)
 
-------------------------------------------------------------
+* We will lend up to 80% of the value on a remortgage, providing your customer has owned the property for a minimum of 6 months. For buy to let expats and holiday lets, maximum LTV is 75%. If unencumbered and capital raising, we treat as remortgage and customers can benefit from the remortgage package. Free legals and free valuation for standard remortgage only (excludes additional legal work – see Fee Tariff). Available on certain products only and subject to minimum loan amounts.
 
-CRITERIA 48: JOINT BORROWER SOLE PROPRIETOR (JBSP)UPDATED 15 APRIL 2024
-============================================================
+---
 
-Content:
-We will consider JBSP applications up to 95% LTV,  with your customers using the additional income of close family members, to support the affordability of the mortgage.We can accept up to 4 applicants and incomes, with a maximum of 2 occupying borrowers and 2 non-occupying borrowers.The family members supporting the application, will not live in the property and are known as non-occupying borrowers.Only the occupying borrowers of the property will be named as the legal owners and must not own any other property at the time of completion.A supporting family member could be:Spouse, Civil PartnerParentsSiblingsGrandparentsAunt, Uncle, Niece, NephewChildrenThe supporting family members added to the mortgage as non-occupying borrowers will be responsible, along with the occupier(s), for the total mortgage balance including the monthly mortgage payments and they must take Independent Legal Advice.JBSP is available across our range of standard residential products, excluding any specialist schemes. Available on repayment mortgages only.For remortgages, additional legal charges will apply and full details can be foundhere.
+## SECTION 11 – BUY TO LET SPECIFIC
 
-------------------------------------------------------------
+### AST and letting agents
 
-CRITERIA 49: JOINT TENANTSUPDATED 13 JULY 2023
-============================================================
+* We will accept an Assured Shorthold Tenancy (AST) for a minimum term of 6 months and maximum term of 24 months. Only buy to lets on a single household basis (individuals, couples or family unit). We will accept no more than 2 persons on a single AST. Non-standard tenancy: contact Business Development team. Rental income achievable will be assessed by the valuer on the basis of an AST to a single household (not per usable bedroom). We do not accept HMOs. If a letting agent is required as an approval condition, a qualified letting agent must be engaged; if your customer can demonstrate relevant experience this condition may be waived.
 
-Content:
-On death, the survivor automatically receives the share of the property of the deceased. This happens even if the first to die makes a will leaving his or her share of the property to someone else. This is the method usually chosen for married couples or those in a Civil Partnership.
+### Rental income calculation (updated 26 March 2024)
 
-------------------------------------------------------------
+* Main criteria for assessing ability to repay is Interest Coverage Ratio (ICR) against rental income. Gross rental income from the security property must be at least 140% of the required mortgage payment when calculated at the relevant stress rate. Where 2-year fixed or discounted rate: stress rate = pay rate + 2%. Where 5-year fixed: stress rate = pay rate. We will apply the lower of current rent or estimated rental value from the valuer (excluding Holiday Lets). Top slicing may be considered on standard Buy to Lets – see Top Slicing section.
 
-CRITERIA 50: LEASEHOLDUPDATED 13 JULY 2023
-============================================================
+### Rental void
 
-Content:
-We will accept leasehold properties providing there is a minimum of 60 years left on the lease after the completed term of the loan.We will not lend on properties with onerous ground rent provisions where one of the following is identified;Ground rent exceeds 0.1% of the property value or is the equivalent of £500 a year (whichever is higher)The ground rent must remain reasonable at all times during the lease term. Unreasonable multipliers are not allowed i.e. doubling every 5, 10 or 15 years. However, it is acceptable for ground rent escalation to be linked to Retail Price Index or a similar indexWe will not consider properties where the freehold and leasehold are held by the same owner, in the same capacity.
+* If the property needs renovating and/or a tenant will not be in place within the first 2 months following completion, we will need confirmation that other funds are available to cover the rental void. Contact Business Development team.
 
-------------------------------------------------------------
+### Let to Buy
 
-CRITERIA 51: LENDING AREAUPDATED 13 JULY 2023
-============================================================
+* We will consider cases where your customer is looking to turn their current residential property into a Buy to Let and capital raise to support the onward purchase. Maximum LTV is 80%.
 
-Content:
-EnglandWales
+### Regulated buy to let – intention to move back to property
 
-------------------------------------------------------------
+* If your customer intends to occupy their buy to let property in the future, this is a regulated buy to let. Your customer will need to choose a residential product and affordability will be assessed as per a residential application using personal income only. Where interest only is selected, the case must fit our residential loan interest only policy. An AST must be in place. Income from the tenant cannot be taken into account when assessing affordability.
 
-CRITERIA 52: LENDING INTO RETIREMENTUPDATED 28 APRIL 2023
-============================================================
+### Regulated buy to let – let to a family member
 
-Content:
-We have no upper age limit when considering a mortgage application on repayment. For interest only, the maximum age limit is 80 at the end of the mortgage term, with the exception of our Retirement Interest Only Mortgage.Our underwriting expertise allows us to make informed individual assessments of customer circumstances and recognise mortgage affordability based on their current and future incomes.Supporting documentary evidence may be required, which include but is not limited to:Pension projectionsCompany/private pensionsInvestmentsRental incomeIn the case of joint customer’s, confirmation is to be sought as to the remaining customer’s entitlement in the event of the death of the main income earner.
+* If your customer is buying or remortgaging a property to let to a family member, this is a regulated mortgage contract. The family member must sign a form of consent. An AST is not required; a residential product must be selected. Family member: Spouse, Civil Partner, Parent, Brother, Sister, Son, Daughter, Grandson, Granddaughter or Grandparent. Affordability as per residential mortgage; payment for the second mortgage must be included as committed expenditure with monthly household costs and stressed per current guidelines. Income from the family member living in the property cannot be taken into account.
 
-------------------------------------------------------------
+### Unacceptable letting types
 
-CRITERIA 53: LENDING INTO RETIREMENTUPDATED 17 JULY 2023
-============================================================
+* We will not accept: Sale and leaseback where the tenant is the previous owner; Letting to directors/shareholders/members of the SPV limited company/LLP which is your customer's or any associated SPV/LLP; Letting to embassies or tenants with diplomatic immunity; Regulated or sitting tenants; Premium leases (all rent paid in advance at start of tenancy); Room-by-room letting with multiple tenancy agreements; Properties subject to restrictions (e.g. less than 52 week occupancy; students only; over 55's only); Mixed use properties.
 
-Content:
-We have no upper age limit when considering a mortgage application.Our underwriting expertise allows us to make informed individual assessments of customer circumstances and recognise mortgage affordability based on their current and future incomes.Supporting documentary evidence may be required, which include but is not limited to:Pension projectionsCompany/private pensionsInvestmentsRental incomeIn the case of joint customer’s, confirmation is to be sought as to the remaining customer’s entitlement in the event of the death of the main income earner.
+### Portfolio Landlords (updated 25 September 2024)
 
-------------------------------------------------------------
+* We accept applications from Buy to Let portfolio landlords up to 75% LTV. Portfolio = landlords with four or more mortgaged Buy to Let properties in their personal name or company owned BTL rental properties. At DIP stage the following must be provided: BTL Portfolio Spreadsheet; Financial Statements and/or Tax Returns; Last 2 years Tax Calculations and Tax Year Overview; Statement of Assets and Liabilities; Bank Statements to confirm rental income and mortgage payments of the portfolio. Your customer must sign a Portfolio Landlord mortgage declaration. We can only accept applications where the portfolio can be fully reviewed using the above documentation; we are unable to accept where the portfolio is managed by a Limited Company/Partnership. No limit on number of properties; where Portfolio LTV is greater than 75% this is unacceptable. For multiple applicants tested on an individual portfolio basis. We will not offer Top Slicing for Portfolio Landlords.
 
-CRITERIA 54: LENDING RESTRICTED TO 80% LTVUPDATED 7 JULY 2025
-============================================================
+### Top Slicing (updated 28 July 2025)
 
-Content:
-We will not consider lending over 80% LTV on the below types of criteria:Coach Houses, Quarter Houses and Back to Back Terraced HousesMultiple applicantsTied AccommodationChild Maintenance income*Stipend Income*Foster Carer Income*Right to Buy* (we will lend up to 100% of the discounted purchase price)Forces Help to Buy schemeShared equityPart & part mortgagesApplicants in probation periodsLeasehold flats and maisonettes in blocks over 8 storeys constructed after 1st January 2020 will be considered up to 80% LTV subject to the valuer recommending the property as suitable for mortgage purposes. All blocks must be serviced by a lift*For full details, please refer to their individual sections of this criteria search and the income allowance table.
+* We will use your customer's personal income to cover any shortfall in rent needed to obtain the loan amount required. Our residential affordability assessment will need to be completed to show the shortfall is affordable (income and monthly expenditure). Top slicing is limited to landlords with 1–3 mortgaged buy to let properties; not available to portfolio landlords, expats or Let to Buy applicants. Properties must be self-sufficient: existing rental income equal to or greater than 110% cover of the pay rate (applies to any other BTLs owned). Where your customer has a high level of debt or Underwriters are concerned about residual affordability, Top Slicing may not be agreed. Speak to Business Development team before submission.
 
-------------------------------------------------------------
+### Holiday Lets (updated 9 April 2025)
 
-CRITERIA 55: LET TO BUYUPDATED 13 JULY 2023
-============================================================
+* A specific product range is available for Holiday Lets up to 75% LTV (subject to availability). We will also allow Holiday Lets for Expats (Expat product must be selected). Minimum loan size £50,000. Maximum loan size £1,000,000. Minimum income £25,000 per application. We require a letter from a local holiday letting agency confirming high, medium and low season rates; an average over a 30 week period is taken to calculate annual rental income. Gross rental income from the security property must be at least 140% of the required mortgage payment (interest only at the relevant stress rate). EPC rating E or above. Stress rate: 2-year fixed/discounted = pay rate + 2%; 5-year fixed = pay rate. Acceptable: new and established Holiday Lets; Airbnb and similar; property can be personally used up to 90 days per annum. Unacceptable: additional properties on sites; holiday parks; B&Bs; properties with restrictive usage or holiday let covenants; temporary or moveable properties. Top slicing is not available.
 
-Content:
-We will consider cases where your customer is looking to turn their current residential property into a Buy to Let, and capital raise to support the onward purchase.The maximum LTV is 80%.
+### Expatriates – Buy to Let (updated 9 April 2025)
 
-------------------------------------------------------------
+* Buy to let mortgages for expatriates will be considered for British citizens up to 75% LTV, subject to product availability. All expats must have: UK passport; UK bank account; history of living and working in the UK; UK correspondence address (we will carry out a credit search on this address); minimum £25,000 employed income (self-employed only if business is based in the UK). With the exception of financial sanctions, all countries and currencies will be considered at Underwriter discretion. First time landlords considered in line with the above; consumer buy to lets acceptable where the property has been let for a minimum of 24 months prior. We do not allow First time Buyers for Buy to Lets. If your customer owns a property outside the UK, we will require a copy of their mortgage statement to confirm they are an owner/occupier. You must: select an Expat Buy to Let product (maximum loan size £1,000,000); provide confirmation of UK correspondence address; confirm details of your customer's circumstances. Rental calculations: 2-year fixed/discounted stress rate = pay rate + 2%; 5-year fixed stress rate = pay rate. Gross rental income must be at least 140% of the required mortgage payment at the relevant stress rate. Top slicing is not available.
 
-CRITERIA 56: LOAN AMOUNTSUPDATED 19 MARCH 2024
-============================================================
+### Investment property loan (professional landlord)
 
-Content:
-Our minimum loan amounts are as follows and are subject to product availability:New mortgages £20,000*Additional borrowing £10,000Remortgages £20,000Interest Only £75,000Retirement Interest Only £50,000Low deposit £95,000Shared Ownership £50,000Help to Buy remortgage £50,000*This may vary, please refer to the product page for the minimum loan amount specific to your product.Our maximum loan amounts are as follows and are subject to product availability:Shared Ownership £400,000Help to Buy remortgage £450,000Credit Assist £400,000Interest Only £750,000Retirement Interest only £750,000Residential purchase and remortgage up to 80% LTV £2,000,000Lending up to 90% LTV £750,000Lending up to 95% LTV £500,000We will only lend in Sterling.
+* A professional landlord is defined as someone already renting out a property or getting a mortgage for the specific purpose of running a buy to let business. A professional has more than 1 buy to let property.
 
-------------------------------------------------------------
+---
 
-CRITERIA 57: LOAN AMOUNTSUPDATED 9 APRIL 2025
-============================================================
+## SECTION 12 – RESIDENTIAL SCHEMES
 
-Content:
-Our Buy to Let minimum loan amounts are as follows and are subject to product availability:New mortgages £20,000Additional borrowing £10,000Re-mortgages £20,000Holiday lets £50,000The maximum loan amounts are as follows and are subject to product availability:Ten buy to let properties or a total of £4,000,000 for an individual (whichever is higher)Maximum loan for buy to let £1,000,000We will only lend in Sterling.
+### Shared Ownership (updated 11 September 2023)
 
-------------------------------------------------------------
+* We will consider loans on Shared Ownership properties for purchase and remortgage up to 95% LTV throughout England and Wales. Arrangements must be through a registered Housing Association. The scheme must use the Standard Model Lease which contains a Mortgage Protection Clause (MPC) covering the initial loan and all additional lending/staircasing. We will lend up to 95% of the share (includes new build flats and houses). Minimum loan £50,000. Maximum loan £400,000. 25% of the share upwards can be purchased, maximum 75%. No requirement to have 100% staircasing within the lease but The Cambridge must be able to staircase fully. Repayment mortgages only. Capital raising and additional borrowing considered for staircasing only. We are unable to accept debt exceeding the equity in the share (exception: hire purchase). Affordability includes stressed mortgage payment and rent/service charge to the Housing Association. Existing Shared Ownership customers: refer to Business Development team.
 
-CRITERIA 58: LOAN TERMUPDATED 29 JUNE 2023
-============================================================
+### Shared equity purchase schemes
 
-Content:
-Minimum term 5 years.Maximum term 40 years.For leasehold properties the maximum term is influenced by the remaining term of the lease. There must be at least 60 years remaining on the lease after the lending term has expired.
+* We will consider loans on properties that are part of a Shared Equity arrangement through the Cambridge Colleges only. Contact Business Development team.
 
-------------------------------------------------------------
+### Help to Buy Equity Loan – Remortgage
 
-CRITERIA 59: LOAN TO INCOMEUPDATED 13 JULY 2023
-============================================================
+* We will consider a remortgage where the Help to Buy equity loan is remaining on completion, up to 75% LTV. Minimum loan amount £50,000. Maximum loan £450,000. Maximum value £600,000. Staircasing acceptable only to repay part of the equity loan. We will require the same term as the original agreement. Repayment of the equity loan will be required to assess affordability; the equity loan must be declared as a commitment with a monthly payment calculated at 1.75% and included in the affordability assessment.
 
-Content:
-We will only accept residential loans inclusive of fees, under 4.5 times of your customer’s income.For purchases, we will consider up to 5 times your customer’s income subject to the following criteria:Maximum LTV 80%Minimum income of £60,000 (total of all customers)No unsecured debt (excluding car loans and student loans)Our loan to income restrictions also apply:Residential purchases including portingResidential remortgages where extra capital is being raisedOur loan to income restrictions do not apply to:Residential remortgages on a like-for-like basis
+### Right to Buy (updated 8 January 2025)
 
-------------------------------------------------------------
+* Right to Buy = council tenant buying their council house at a discounted price. We will consider up to 100% of the discounted Right to Buy price (subject to the loan not exceeding 80% of the full value of the property). We are currently only accepting Purchase applications. Customers requesting a mortgage will need to be named on the Section 125 Notice.
 
-CRITERIA 60: LOAN TO VALUEUPDATED 27 JUNE 2023
-============================================================
+### Second homes
 
-Content:
-Loan to value (LTV) is calculated as; loan amount divided by property value or purchase price (whichever is the lower), expressed as a percentage.We will lend up to 95% on a purchase, 95% on a like for like remortgage and 90% on a remortgage with capital raising.
+* We will accept both purchase and remortgages for second homes providing your customer can demonstrate satisfactory affordability to cover the running cost of the second home alongside their monthly expenditure. We must have confirmation that full insurance cover is arranged when the property is unoccupied; the property must not be permanently let out or used for holiday lettings. Properties to be used as the main residence of an immediate family member will be considered – see Regulated buy to let – let to a family member.
 
-------------------------------------------------------------
+### Tied accommodation
 
-CRITERIA 61: LOAN TO VALUEUPDATED 28 FEBRUARY 2025
-============================================================
+* We will lend to customers living in tied accommodation to purchase another property to be their future residence. The loan is regulated (FCA). We will require a product from our residential mortgage range and will assess affordability using your customer's personal income. As the security property will be let on completion, we will require an AST. Maximum LTV is 80%.
 
-Content:
-Loan to value (LTV) is calculated as; loan amount divided by property value or purchase price (whichever is the lower), expressed as a percentage.We will lend up to 80% on buy to let purchases and remortgages.For buy to let portfolio landlords, expats and holiday lets, the maximum LTV is 75%.
+### Temporary consent to let
 
-------------------------------------------------------------
+* Requests for existing customers to let the mortgaged property will be considered on an individual basis. If letting is for up to 24 months the applicant will remain on their existing product and will be required to pay an administration fee. An AST and Letting Agent must be in place. Where the repayment method is being changed to interest only the case must fit our residential loan interest only policy. Requests must be in line with existing buy to let criteria.
 
-CRITERIA 62: MAINTENANCEUPDATED 13 JULY 2023
-============================================================
+---
 
-Content:
-Child Maintenance payments will be considered as a form of income to support a mortgage application up to 80% LTV included at the discretion of the Underwriter.Child Maintenance must either be Court Ordered or through the Child Maintenance Service (CMS) to be considered and will be at the discretion of the Underwriter. This is subject to:Copies of the Court Order granting the maintenance payments receivable or evidence of the CMS agreementThe amount that is to be paid is clear and identifiable on bank statements6 months payment history can be providedAt least another 3 years payment will be receivable
+## SECTION 13 – OTHER
 
-------------------------------------------------------------
+### Back-to-back mortgages
 
-CRITERIA 63: MAINTENANCEUPDATED 13 JULY 2023
-============================================================
+* We do not accept back-to-back mortgages.
 
-Content:
-Child Maintenance payments will be considered as a form of income to support a mortgage application up to 80% LTV included at the discretion of the UnderwriterChild Maintenance must either be Court Ordered or through the Child Maintenance Service (CMS) to be considered and will be at the discretion of the Underwriter. This is subject to:Copies of the Court Order granting the maintenance payments receivable or evidence of the CMS agreementThe amount that is to be paid is clear and identifiable on bank statements6 months payment history can be providedAt least another 3 years payment will be receivable
+### Foreign currency
 
-------------------------------------------------------------
+* We do not accept foreign currency loans for: Residential mortgages; Transfer of Equity; Porting. For existing customers we can consider using foreign currency income for product switches or additional borrowing – contact Business Development team.
 
-CRITERIA 64: MATERNITY LEAVEUPDATED 13 JULY 2023
-============================================================
+### Payment holidays
 
-Content:
-We will always require an employer’s reference with regards to maternity leave duration and pay.
+* We will ask you to confirm if your customer is currently taking a payment holiday on their mortgage, credit cards, loans or any other financial commitment at DIP or application stage. Where your customer is currently taking a payment holiday or making part repayments on financial commitments, we will be unable to consider any new lending until the payment holiday has finished and they are making repayments in full. Evidence of repayments may be requested at Underwriter discretion.
 
-------------------------------------------------------------
+### Portability (updated 11 October 2023)
 
-CRITERIA 65: MINIMUM PROPERTY VALUEUPDATED 13 JULY 2023
-============================================================
+* Your customer's existing mortgage may be portable (outlined in their mortgage offer). If your customer can port their mortgage, the redemption of their existing mortgage and the completion of their new purchase must be simultaneous. For how to guide or further information, contact the Business Development Team.
 
-Content:
-The minimum property value is £100,000.
+### Lending into retirement
 
-------------------------------------------------------------
+* We have no upper age limit when considering a mortgage application. Our underwriting allows us to make informed individual assessments and recognise mortgage affordability based on current and future incomes. Supporting evidence may be required: pension projections; company/private pensions; investments; rental income. For joint customers, confirmation is to be sought as to the remaining customer's entitlement in the event of the death of the main income earner.
 
-CRITERIA 66: MINIMUM INCOMEUPDATED 13 JULY 2023
-============================================================
+### Repayment methods
 
-Content:
-The minimum income for sole or joint customers is £25,000.
+* We offer the following, subject to product availability: Capital and interest; Interest only; Part and part (mix of capital and interest and interest only). Buy to lets: Capital and interest; Interest only; Part and part.
 
-------------------------------------------------------------
+### Buildings and Contents Insurance (updated 30 October 2024)
 
-CRITERIA 67: MULTIPLE JOBSUPDATED 13 JULY 2023
-============================================================
+* It is the customer's responsibility to make adequate insurance arrangements and keep these in place for the lifetime of the mortgage.
 
-Content:
-Income from multiple jobs will be considered where at least 6 months have elapsed since the additional job commenced and the additional occupation is deemed sustainable and the required documentation can be provided.
+### Asbestos
 
-------------------------------------------------------------
+* If asbestos is present please refer the case to your Business Development team for guidance.
 
-CRITERIA 68: NEW BUILD PROPERTIESUPDATED 7 JULY 2025
-============================================================
+---
 
-Content:
-A new build is a property that was first registered within the last two years.We can consider New build houses up to a maximum of 95% LTV, and new build flats up to a maximum of 85% LTV.We require a new build property to be built under a recognised warranty scheme which provides insurance for the housing unit for ten years post completion against defects in the design, materials and workmanship.Leasehold flats and maisonettes in blocks over 8 storeys constructed after 1st January 2020 will be considered up to 80% LTV subject to the valuer recommending the property as suitable for mortgage purposes. All blocks must be serviced by a liftCurrently we will accept the following:NHBCLABC certificatePremier GuaranteeBLP (Buildings Defect Insurance)Build ZoneCheckmate (Castle 10)International Construction Warranties (ICW)ARKAdvantage (AHCI)Global Home WarrantiesAEDISABC+Protek WarrantyCompariqoWe will not consider an architect’s certificate.
+## SECTION 14 – FEES & PROCURATION
 
-------------------------------------------------------------
+### Fees – Residential (updated 1 August 2024)
 
-CRITERIA 69: NEW BUILD PROPERTIESUPDATED 7 JULY 2025
-============================================================
+* The completion fee for Residential mortgages can be added to the mortgage loan exceeding the maximum LTV. Application fees are non-refundable and payable when submitting the Full Mortgage Application. Your mortgage product is secured once the Application is submitted. If you would like to change your mortgage product after this, you can do so without further fees whilst the case status is pre-mortgage offer. Once the mortgage offer has been produced, to change the product any fees associated with the new rate will be due.
 
-Content:
-A new build is a property that was first registered within the last two years.New build houses and flats are restricted to a maximum of 80% LTV.We require a new build property to be built under a recognised warranty scheme which provides insurance for the housing unit for ten years post completion against defects in the design, materials and workmanship.Leasehold flats and maisonettes in blocks over 8 storeys constructed after 1st January 2020 will be considered up to 80% LTV subject to the valuer recommending the property as suitable for mortgage purposes. All blocks must be serviced by a liftCurrently we will accept the following:NHBCLABC certificatePremier GuaranteeBLP (Buildings Defect Insurance)Build ZoneCheckmate (Castle 10)International Construction Warranties (ICW)ARKAdvantage (AHCI)Global Home WarrantiesAEDISABC+Protek WarrantyCompariqoWe will not consider an architect’s certificate.
+### Fees – Buy to Let (updated 1 August 2024)
 
-------------------------------------------------------------
+* The completion fee for Buy to Let mortgages can be added to the mortgage loan exceeding the maximum LTV, however this is capped at 2% of the loan. Where it is an ex-pat BTL we will accept a maximum fee of £2,000 or a maximum LTV of 77%, whichever is higher. Application fees are non-refundable and payable when submitting the Full Mortgage Application. Product secured once Application is submitted. Product change without further fees whilst case status is pre-mortgage offer; after offer produced, fees for new rate due.
 
-CRITERIA 70: NUMBER OF APPLICANTSUPDATED 13 JULY 2023
-============================================================
+### Procuration fees (updated 28 May 2024)
 
-Content:
-We will accept both sole and joint mortgage applications from your customers.If the mortgage LTV is below 80%, and there is a family tie, we will also consider up to 4 customers on a residential purchase and remortgage.
+* We will pay a procuration fee for introducing a mortgage case (residential and buy to let, additional borrowing and product switches). Fees are calculated as a percentage of the loan amount and paid after completion. New business and additional borrowing: Partner networks and mortgage clubs 0.4% gross; Directly authorised and non partner networks 0.3% gross. Product switches 0.3% gross. Partner networks and mortgage clubs: Legal & General, Sesame Bankhall Group, Paradigm, PRIMIS, Mortgage Intelligence, Next Intelligence, Quilter, Tenet, TMA Club, SimplyBiz, Brilliant Solutions. Minimum procuration fee for purchases, remortgages and additional borrowing £150. Product switches minimum £112.50. No maximum. No procuration fee for product switches within the first 6 months from the latest product switch or from completion of the original mortgage. No fee if your client chooses to port their mortgage within 6 months of completion. Fee paid only to PRA and FCA authorised Intermediaries.
 
-------------------------------------------------------------
+---
 
-CRITERIA 71: NUMBER OF APPLICANTSUPDATED 13 JULY 2023
-============================================================
+## SECTION 15 – VALUATIONS & SOLICITORS
 
-Content:
-We will accept both sole and joint mortgage applications from your customers.If there is a family tie, we will also consider up to 4 customers on a buy to let purchase and remortgage.
+### Property valuations (updated 26 February 2025)
 
-------------------------------------------------------------
+* A valuation is required for all purchases and remortgages. We will instruct Legal and General Surveying Services (LGSS) to arrange the valuation; all valuation fees are collected by LGSS directly from your customers. If the product offers our standard remortgage package, this includes one free valuation per application; if there is a change in property a new valuation fee will be payable by your customer. Where the property is suitable, a digital valuation will be completed up to 75% LTV, maximum loan size £500,000 and property value £1,000,000; the digital valuation information will not be disclosed to you or your customers and is for The Cambridge only. A physical valuation will be instructed if a digital valuation is not suitable. Standard valuation fees (purchase price not exceeding / fee): £100,000 £220; £150,000 £240; £200,000 £275; £250,000 £310; £300,000 £350; £350,000 £395; £400,000 £415; £450,000 £445; £500,000 £470; £600,000 £515; £700,000 £595; £800,000 £645; £900,000 £715; £1,000,000 £760; £2,000,000 £1,100; £2,500,000 £1,400; £3,000,000 £1,900.
 
-CRITERIA 72: PART AND PARTUPDATED 13 JULY 2023
-============================================================
+### Solicitors (updated 4 January 2024)
 
-Content:
-Your customer may choose to take a mortgage on a part repayment and a part interest only basis.Our interest only criteria will apply only to the interest only part of the loan. Please see the ‘Interest only’ section of this criteria search for more information.The maximum LTV is 80% for part and part mortgages.
+* We have an approved panel of solicitors; our Panel Manager is Lender Exchange. If your customer has selected a non-panel Solicitor, they will be responsible for our legal fees in addition to their own (we will instruct a solicitor to check the legal work). A summary of these legal fees can be found on the lender's fee tariff. Alternatively the solicitor can contact Lender Exchange to apply to be on their panel: 0344 244 3784.
 
-------------------------------------------------------------
+---
 
-CRITERIA 73: PAYDAY LOANS AND GAMBLINGUPDATED 13 JULY 2023
-============================================================
+## SECTION 16 – JOINT BORROWER SOLE PROPRIETOR & JOINT TENANTS
 
-Content:
-We will not knowingly lend to your customers who have had a pay day loan or gambling debts, during the last 24 months as this could be classed as an indication of debt problems.
+### Joint Borrower Sole Proprietor (JBSP) (updated 15 April 2024)
 
-------------------------------------------------------------
+* We will consider JBSP applications up to 95% LTV with your customers using the additional income of close family members to support affordability. We can accept up to 4 applicants and incomes, with a maximum of 2 occupying borrowers and 2 non-occupying borrowers. The family members supporting the application will not live in the property (non-occupying borrowers). Only the occupying borrowers will be named as the legal owners and must not own any other property at the time of completion. Supporting family member may be: Spouse, Civil Partner; Parents; Siblings; Grandparents; Aunt, Uncle, Niece, Nephew; Children. Non-occupying borrowers are responsible with the occupier(s) for the total mortgage balance including monthly payments and must take Independent Legal Advice. JBSP is available across our standard residential products, excluding specialist schemes. Repayment mortgages only. For remortgages, additional legal charges apply – see lender guide.
 
-CRITERIA 74: PAYMENT HOLIDAYSUPDATED 13 JULY 2023
-============================================================
+### Joint tenants
 
-Content:
-We will ask you to confirm if your customer is currently taking a payment holiday on their mortgage, credit cards, loans or any other financial commitment, during the decision in principle or application stage.Where your customer is currently taking a payment holiday or making part repayments on their financial commitments, we’ll be unable to consider any new lending until the payment holiday has finished and they are making repayments in full. Evidence that the repayments are being made, will be requested at the Underwriters discretion.
+* On death, the survivor automatically receives the share of the property of the deceased (even if the first to die made a will leaving their share to someone else). This is the method usually chosen for married couples or those in a Civil Partnership.
 
-------------------------------------------------------------
+---
 
-CRITERIA 75: PORTABILITYUPDATED 11 OCTOBER 2023
-============================================================
-
-Content:
-Your customers existing mortgage may be portable and this will be outlined in their mortgage offer.If your customer can port their mortgage, the redemption of their existing mortgage and the completion of their new purchase, must be simultaneous.For information on porting your clients mortgage, please click here for ourhow to guide, or speak to a member of the Business Development Team.
-
-------------------------------------------------------------
-
-CRITERIA 76: PORTFOLIO LANDLORDSUPDATED 25 SEPTEMBER 2024
-============================================================
-
-Content:
-We are accepting applications from Buy to Let portfolio landlords up to 75% LTV. This is defined as landlords with four or more, mortgaged Buy to Let properties in their personal name or company owned Buy to Let rental properties.The following documentation must be provided at Decision in Principle stage for each application.BTL Portfolio Spreadsheet foundhereFinancial Statements and / or Tax ReturnsLast two years Tax Calculations and Tax Year OverviewStatement of Assets and Liabilities foundhereBank Statements to confirm rental income and mortgage payments of the portfolioYour customer must sign a Portfolio Landlord mortgage declaration as part of the application process foundhere.We can only accept applications where a portfolio can be fully reviewed using the above documentation, therefore we are unable to accept applications where the portfolio is managed by a Limited Company / Partnership.There is no limit, to the number of properties held in the Portfolio however where the Portfolio LTV is greater than 75%, this will be unacceptable. For multiple applicants this will be tested on an individual portfolio basis.We will not offer Top Slicing for Portfolio Landlords.
-
-------------------------------------------------------------
-
-CRITERIA 77: PROBATIONUPDATED 6 JULY 2023
-============================================================
-
-Content:
-We will consider your customers who are within a probation period at Underwriters discretionWe will request an income reference to confirm the employment is on a permanent basis and at a minimum your customers first payslip, before proceeding to mortgage offerThe maximum LTV is 80%
-
-------------------------------------------------------------
-
-CRITERIA 78: PROCURATION FEESUPDATED 28 MAY 2024
-============================================================
-
-Content:
-We will pay a procuration fee to you for introducing a mortgage case to us. This includes, residential and buy to let mortgages, additional borrowing and product switches.Fees are calculated as a percentage of the loan amount and paid to you after completion of the loan.The amount paid for new business and additional borrowing, will be dependent upon the network or mortgage club, as detailed below:Partner networks and mortgage clubs - 0.4% grossDirectly authorised and non partner networks - 0.3% grossFor product switches the procuration fee paid will be 0.3% gross.Our partner networks and mortgage clubs are:Legal & GeneralSesame Bankhall GroupParadigmPRIMISMortgage IntelligenceNext IntelligenceQuilterTenetTMA ClubSimplyBizBrilliant SolutionsFor purchases, remortgages and additional borrowing the minimum procuration fee that will be paid is £150.For product switches the minimum procuration fee that will be paid is £112.50.There is no maximum procuration fee that will be paid.For product switches, a procuration fee will not be paid within the first six month period from either the latest product switch or from completion of the original mortgage.A procuration fee will not be paid if your client chooses to port their mortgage within 6 months of completion.The fee will only be paid to Prudential Regulation Authority (PRA) and Financial Conduct Authority (FCA) authorised Intermediaries.
-
-------------------------------------------------------------
-
-CRITERIA 79: PROOF OF ADDRESSUPDATED 29 JUNE 2023
-============================================================
-
-Content:
-As part of the DIP you will be required to provide three years address history for each of your customer’s. We will require proof of address once the application has been submitted. Clickhere for acceptable types of address ID.We require customers to be on the voters role at the correspondence address provided and this will be verified when the credit checks are completed by our Underwriters.If we are unable to locate your customer on the voter’s role, we will need further information for consideration and further documentation may be requested.We will require certified copies to be uploaded to your Online Intermediary Portal. If your customer is based abroad, please contact your Business Development team.
-
-------------------------------------------------------------
-
-CRITERIA 80: PROOF OF IDENTIFICATIONUPDATED 14 JULY 2023
-============================================================
-
-Content:
-We will require proof of identification once the application has been submitted.Click here for acceptable types of identification.We will require certified copies to be uploaded to your Online Intermediary Portal. If your customer is based abroad, please contact your Business Development team.
-
-------------------------------------------------------------
-
-CRITERIA 81: PROPERTIES ATTACHED TO COMMERCIAL PREMISESUPDATED 13 JULY 2023
-============================================================
-
-Content:
-We do not accept properties over commercial premises. If the security property is near or next to commercial premises please contact your Business Development team with further information for consideration.Any approvals will be subject to the valuer confirming suitable security and the commercial premises not affecting the saleability and letability.
-
-------------------------------------------------------------
-
-CRITERIA 82: PROPERTY CONDITION AND AGEUPDATED 13 JULY 2023
-============================================================
-
-Content:
-We do not have restrictions on the age of a property that we will accept as security for a loan however we do not lend on Grade I listed properties.We will consider the physical state of the property as contained within the valuation report.If the property is in a poor physical state, the Underwriter may decline to lend on the property. Please speak to your Business Development team for more information.Satisfactory insurance cover, with no exclusions, must be arranged for all properties.
-
-------------------------------------------------------------
-
-CRITERIA 83: PROPERTY RESTRICTIONSUPDATED 13 JULY 2023
-============================================================
-
-Content:
-We will not consider properties with restrictions on occupancy e.g. only allowed to reside in the property for 11 months per year, minimum age of occupant or student lets.
-
-------------------------------------------------------------
-
-CRITERIA 84: PROPERTY VALUATIONSUPDATED 26 FEBRUARY 2025
-============================================================
-
-Content:
-A valuation is required for all purchases and remortgages.We will instruct Legal and General Surveying Services (LGSS) to arrange the valuation and all valuation fees are collected by LGSS directly from your customers.If the product chosen offers our standard remortgage package, this includes one free valuation per application. If there is a change in property then a new valuation fee will be payable at your customers cost.If the property is suitable, a digital valuation will be completed up to an LTV of 75%, maximum loan size of £500,000 and property value of £1,000,000. The information provided from the digital valuation will not be disclosed to you or your customers, and is for the use of The Cambridge only as a means of assessing whether a property will be suitable mortgage security and for no other purpose.A physical valuation will be instructed should a digital valuation not be suitable.Purchase price not exceedingStandard Valuation fee for mortgage purposes£100,000£220£150,000£240£200,000£275£250,000£310£300,000£350£350,000£395£400,000£415£450,000£445£500,000£470£600,000£515£700,000£595£800,000£645£900,000£715£1,000,000£760£2,000,000£1,100£2,500,000£1,400£3,000,000£1,900
-
-------------------------------------------------------------
-
-CRITERIA 85: PROPERTY VALUATIONSUPDATED 26 FEBRUARY 2025
-============================================================
-
-Content:
-A valuation is required for all purchases and remortgages.We will instruct Legal and General Surveying Services (LGSS) to arrange the valuation and all valuation fees are collected by LGSS directly from your customers.If the product chosen offers our standard remortgage package, this includes one free valuation per application. If there is a change in property then a new valuation fee will be payable at your customers cost.If the property is suitable, a digital valuation will be completed up to an LTV of 75%, maximum loan size of £500,000 and property value of £1,000,000. The information provided from the digital valuation will not be disclosed to you or your customers, and is for the use of The Cambridge only as a means of assessing whether a property will be suitable mortgage security and for no other purpose.A physical valuation will be instructed should a digital valuation not be suitable.Purchase price not exceedingStandard Valuation fee for mortgage purposes£100,000£220£150,000£240£200,000£275£250,000£310£300,000£350£350,000£395£400,000£415£450,000£445£500,000£470£600,000£515£700,000£595£800,000£645£900,000£715£1,000,000£760£2,000,000£1,100£2,500,000£1,400£3,000,000£1,900
-
-------------------------------------------------------------
-
-CRITERIA 86: REGULATED BUY TO LET – INTENTION TO MOVE BACK TO PROPERTYUPDATED 13 JULY 2023
-============================================================
-
-Content:
-If your customer intends to occupy their buy to let property in the future, this is a regulated buy to let. Your customer will need to choose a residential product and affordability will be assessed as per a residential application, using their personal income only.Where interest only is selected as the repayment method, the case must fit our residential loan interest only policy.An Assured Shorthold Tenancy Agreement must be in place.Please note that any income received from the tenant, who is living in the property, cannot be taken into account when assessing affordability.
-
-------------------------------------------------------------
-
-CRITERIA 87: REGULATED BUY TO LET – LET TO A FAMILY MEMBERUPDATED 13 JULY 2023
-============================================================
-
-Content:
-If your customer is looking to buy, or remortgage a property to let to a family member, this will be defined as a regulated mortgage contract. The property can then be occupied by the family member who must sign a form of consent.An AST is not required and a residential product must be selected.A family member is specifically – Spouse, Civil Partner, Parent, Brother, Sister, Son, Daughter, Grandson, Granddaughter or Grandparent.Affordability will be assessed in the same format as a residential mortgage, therefore the payment for the second mortgage must be included as a committed expenditure, along with the monthly household costs. This payment must be stressed as per the current guidelines.Please note that any income received from the family member, who is living in the property, cannot be taken into account when assessing affordability.
-
-------------------------------------------------------------
-
-CRITERIA 88: REMORTGAGE PACKAGEUPDATED 8 SEPTEMBER 2023
-============================================================
-
-Content:
-We will lend up to 90% of the value of the property on a remortgage with capital raising and up to 95% LTV for a like for like remortgage, providing your customer has owned the property for a minimum of 6 months.If the property is unencumbered and your customer is capital raising, we will treat this as a remortgage, and your customers can benefit from the remortgage package.Our remortgage package offers free legals and a free valuation for your customers on a standard remortgage only and does not include any additional legal work such as Transfer of Equity, Lease Extensions, First Registration and Title Restrictions.If additional legal work is required, these costs must be covered by your customer. Please visit theFee Tariff here, for full details of the additional costs involved, or speak to the Business Development Team for further details.This remortgage package is available on certain products only and subject to minimum loan amounts.
-
-------------------------------------------------------------
-
-CRITERIA 89: REMORTGAGE PACKAGEUPDATED 8 SEPTEMBER 2023
-============================================================
-
-Content:
-We will lend up to 80% of the value of the property on a remortgage, providing your customer has owned the property for a minimum of 6 months. For buy to let expats and holiday lets, the maximum LTV is 75%.If the property is unencumbered and your customer is capital raising, we will treat this as a remortgage, and your customers can benefit from the remortgage package.Our remortgage package offers free legals and a free valuation for your customers on a standard remortgage only and does not include any additional legal work such as Transfer of Equity, Lease Extensions, First Registration and Title Restrictions.If additional legal work is required, please visit theFee Tariff here, for full details of the additional cost, or speak to the Business Development Team for further details.This remortgage package is available on certain products only and subject to minimum loan amounts.
-
-------------------------------------------------------------
-
-CRITERIA 90: RENTAL INCOME CALCULATIONUPDATED 26 MARCH 2024
-============================================================
-
-Content:
-The main criteria for assessing your customer’s ability to repay is based on the Interest Coverage Ratio (ICR) against rental income. Gross rental income from the security property, must be at least 140% of the required mortgage payment when calculated at the relevant stress rate.Rental Calculations are based on product selection & availability:Where a 2-year fixed or discounted rate has been selected we will use a stress rate of the payrate + 2%.Where a 5-year fixed rate has been selected, the stress rate will be the payrate.An assessment of the market rent based on a single household will be provided as part of the valuation (excluding Holiday Lets). We will apply the lower of the current rent or estimated rental value as given by the valuer.We may be able to consider top slicing on standard Buy to Lets, please visit the 'Top Slicing' section of this criteria search for further information.
-
-------------------------------------------------------------
-
-CRITERIA 91: RENTAL VOIDUPDATED 13 JULY 2023
-============================================================
-
-Content:
-If the property needs renovating and/or a tenant will not be in place within the first two months following completion we will need confirmation that other funds are available to cover the rental void.Please speak to your Business Development team for further details.
-
-------------------------------------------------------------
-
-CRITERIA 92: REPAYMENT METHODSUPDATED 13 JULY 2023
-============================================================
-
-Content:
-We offer the following methods of mortgage repayments, subject to product availability:Capital and interestInterest onlyPart and part (a mix of capital and interest and interest only)
-
-------------------------------------------------------------
-
-CRITERIA 93: REPAYMENT METHODSUPDATED 13 JULY 2023
-============================================================
-
-Content:
-We offer the following methods of mortgage repayments on buy to lets:Capital and interestInterest only mortgagesPart and part (a mix of capital and interest and interest only)
-
-------------------------------------------------------------
-
-CRITERIA 94: RESIDENCY AND VISASUPDATED 8 JANUARY 2025
-============================================================
-
-Content:
-Your customers must have been resident in the UK for a minimum of 2 years, at the time of applying, to allow for a UK credit search to be completed.We will consider mortgages up to 95% LTV for customers with:British citizenshipSettled or Pre-settled status (EU settlement scheme)Permanent Rights to Reside (PRR)Spousal visa (acceptable on joint mortgages, where main applicant has British Citizenship, Settled or Pre-settled status OR Permanent Rights to Reside)If your customer holds one of the following Visas and 2 years proof of residency in the UK, we will consider applications up to 90% LTV:Skilled Work Visa*Health and Care Worker Visa*Global Talent Visa **For joint applications, where one customer has indefinite leave to remain, we will accept applications up to 95% LTV.The applicants deposit must be from their own sources.
-
-------------------------------------------------------------
-
-CRITERIA 95: RESIDENCY AND VISASUPDATED 15 JANUARY 2024
-============================================================
-
-Content:
-Your customers must have been resident in the UK for a minimum of 2 years, at the time of applying, to allow for a UK credit search to be completed.We will consider mortgages for customers with:British citizenshipSettled or Pre-settled status (EU settlement scheme)Permanent Rights to Reside (PRR)Spousal visa (acceptable on joint mortgages, where main applicant has British Citizenship, Settled or Pre-settled status OR Permanent Rights to Reside)If your customer holds one of the following Visa’s and 2 years proof of residency in the UK, we will consider applications up to 80% LTV:Skilled Work VisaHealth and Care Worker VisaGlobal Talent VisaIf your customer holds one of the above visa’s, the deposit must be from their own sources, and we will only consider a Buy to Let application if your customer is a Residential homeowner.
-
-------------------------------------------------------------
-
-CRITERIA 96: RETIREMENT INTEREST ONLYUPDATED 22 NOVEMBER 2024
-============================================================
-
-Content:
-We’ll consider Retirement Interest Only (RIO) mortgages for purchase, remortgage, product switch or additional borrowing, subject to product availability.Minimum loan size is £50,000.Maximum loan size up to 55% LTV is £750,000.Minimum age at the start of the loan is 55, of the youngest customer.Maximum age at the start of the loan is 85, of the youngest customer.Available for single or joint borrowers only - for joint applications we require both customers to demonstrate affordability independently.There is no minimum equity requirement.We will only consider lending on your customers main residence, second homes are not accepted.Only Pension, Investment Plan and BTL rental income will be included when assessing income. Details of these acceptable income sources, can be found on this criteria search.We will assess affordability on an Interest Only basis over the term of the loan.The Retirement Interest Only Declaration form can bedownloaded here.You can find our current rate and more information on ourRetirement Interest Only Mortgage here.
-
-------------------------------------------------------------
-
-CRITERIA 97: RIGHT TO BUYUPDATED 8 JANUARY 2025
-============================================================
-
-Content:
-Right to Buy purchases are where a council tenant has the opportunity to buy their council house at a discounted price.We will consider up to 100% of the discounted Right to Buy price (subject to the loan not exceeding 80% of the full value of the property).We are currently only accepting Purchase applications.Customers requesting a mortgage will need to be named on the Section 125 Notice.
-
-------------------------------------------------------------
-
-CRITERIA 98: SECOND HOMESUPDATED 13 JULY 2023
-============================================================
-
-Content:
-We will accept both purchase and remortgages for second homes providing your customer can demonstrate satisfactory affordability to cover the running cost of the second home, alongside their monthly expenditure.We must have confirmation full insurance cover is arranged to ensure the property is covered when unoccupied and the property must not be permanently let out or used for holiday lettings.Properties to be used as the main residence of an immediate family member will be considered. Please see ‘Regulated buy to let – let to a family member’ of this criteria search for more information.
-
-------------------------------------------------------------
-
-CRITERIA 99: SELF-BUILD PROPERTIESUPDATED 13 JULY 2023
-============================================================
-
-Content:
-We do not currently offer self-build mortgages.
-
-------------------------------------------------------------
-
-CRITERIA 100: SELF-EMPLOYEDUPDATED 13 JULY 2023
-============================================================
-
-Content:
-We require the last 2 years income evidence for self employed customers, to be eligible for a product from our standard range. This cannot be more than 18 months old.We will need the last two years:tax calculations plus the corresponding tax year overview statementfull financial accountsWhere there is an improving trend, the most recent year can be considered, provided your customer can provide sufficient evidence that this level of income is sustainable.Further proof of self employed income or a projection may be required at the Underwriters discretion.We will only accept projections and accounts signed by an accountant that holds one of the following qualifications:Institute of Chartered Accountants in England & WalesAssociation of Chartered Certified AccountantsAssociation of Authorised Public AccountantsChartered Institute of Management AccountantsCertified Public Accountants AssociationAssociation of Accounting TechniciansAssociation of International AccountantsChartered Institute of TaxationInstitute of Financial AccountsChartered Institute of Public Finance & AccountancyThe source of the evidence must be independent of your customer’s even if supplied by them.
-
-------------------------------------------------------------
-
-CRITERIA 101: SELF-EMPLOYEDUPDATED 13 JULY 2023
-============================================================
-
-Content:
-We require proof of income for self-employed customers for the last 2 years', which cannot be more than 18 months old.For buy to lets up to 80% LTV’s we will need the last 2 years':tax calculations plus the corresponding tax year overview statementWhere there is an improving trend, the most recent year can be used for loan to income, provided your customer can provide sufficient evidence that this level of income is sustainable, if required.A further year’s proof of self-employed income or a projection may be required. We will accept projections and accounts signed by an accountant that holds one of the following qualifications only:Institute of Chartered Accountants in England & WalesAssociation of Chartered Certified AccountantsAssociation of Authorised Public AccountantsChartered Institute of Management AccountantsCertified Public Accountants AssociationAssociation of Accounting TechniciansAssociation of International AccountantsChartered Institute of TaxationInstitute of Financial AccountsChartered Institute of Public Finance & AccountancyThe source of the evidence must be independent of your customer’s even if supplied by them.
-
-------------------------------------------------------------
-
-CRITERIA 102: SHARED OWNERSHIPUPDATED 11 SEPTEMBER 2023
-============================================================
-
-Content:
-We will consider loans on properties that are part of a Shared Ownership agreement for purchase and remortgage up to 95% LTV throughout England and Wales.For applications to be considered, arrangements must be through a registered Housing Association.The scheme must use the Standard Model Lease which contains a Mortgage Protection Clause (MPC). The Mortgage Protection Clause must cover the initial loan and all additional lending / staircasing.Shared Ownership with The Cambridge:We will lend up to 95% of the share, which includes new build flats and housesMinimum loan £50,000Maximum loan £400,00025% of the share upwards can be purchased, with a maximum of 75%No requirement to have 100% staircasing within the lease for the buyer but The Cambridge must be able to staircase fullyAvailable for repayment mortgages onlyCapital raising and additional borrowing will be considered for the purpose of staircasing onlyWe are unable to accept the debt exceeding the equity in the share, with the exception of a hire purchaseThe affordability assessment will include the stressed mortgage payment and the rent / service charge payable to the Housing Association.Any requests from existing Shared Ownership customers should be referred to your Business Development team.
-
-------------------------------------------------------------
-
-CRITERIA 103: SHARED EQUITY PURCHASE SCHEMESUPDATED 13 JULY 2023
-============================================================
-
-Content:
-We will consider loans on properties that are part of a Shared Equity arrangement through the Cambridge Colleges only.Please speak to your Business Development team for further details.
-
-------------------------------------------------------------
-
-CRITERIA 104: SOLICITORSUPDATED 4 JANUARY 2024
-============================================================
-
-Content:
-We have anapproved panel of solicitorsand our Panel Manager is Lender Exchange.If your customer has selected a non-panel Solicitor, they’ll be responsible for our legal fees in addition to their own legal fees, as we will instruct a solicitor on our behalf to check the legal work. A summary of these legal fees can be foundhere.Alternatively, the solicitor will need to contact Lender Exchange to apply to be on their panel. Their contact number is 0344 244 3784.
-
-------------------------------------------------------------
-
-CRITERIA 105: SOURCE OF DEPOSITUPDATED 13 JULY 2023
-============================================================
-
-Content:
-Acceptable sources of deposit include:SavingsEquity from the sale of propertyGift (acceptable only if provided from a family member, see below list)Where the deposit is in the form of a gift, it must be established if this is a non-returnable gift or whether regular payments are required to repay in the future. Written confirmation will be requiredWe will accept gifted deposits from the following family members:• Spouse, Civil Partner• Parents, step parents, parents in law• Siblings, half siblings, step siblings, siblings in law• Grandparents, step grandparents• Aunt, Uncle, Niece, Nephew• Children, Step children, children in law, adopted childrenYour customer’s solicitor, will be required to verify the source.
-
-------------------------------------------------------------
-
-CRITERIA 106: TEMPORARY CONSENT TO LETUPDATED 13 JULY 2023
-============================================================
-
-Content:
-Requests for existing customers to let the mortgaged property will be considered on an individual basis.If letting is for up to 24 months the applicant will remain on their existing product and will be required to pay an administration feeAn Assured Shorthold Tenancy Agreement and Letting Agent must be in placeWhere the repayment method is being changed to interest only the case must fit our residential loan interest only policyRequests must be in line with existing buy to let criteria
-
-------------------------------------------------------------
-
-CRITERIA 107: TIED ACCOMMODATIONUPDATED 13 JULY 2023
-============================================================
-
-Content:
-We will lend to your customers living in tied accommodation to purchase another property to be their future residence.The loan falls under the remit of the FCA and will be regulated therefore the sale will be advised.We will require a product to be chosen from our residential mortgage range, and we will assess affordability using your customer’s personal income, as we do for a standard residential mortgage. As the property will become your customer’s main residence, if interest only is selected as a repayment method, the case must meet our interest only criteria.As the security property will be let on completion, we will require an Assured Shorthold Tenancy agreement to be in place.The maximum LTV is 80%.
-
-------------------------------------------------------------
-
-CRITERIA 108: TOP SLICINGUPDATED 28 JULY 2025
-============================================================
-
-Content:
-We will use your customer’s personal income to cover any shortfall in rent which is needed for your customer to obtain the loan amount they require.Our residential affordability assessment will need to be completed to show the shortfall is affordable, taking their income along with their monthly expenditure into consideration.Top slicing is limited to landlords with 1-3 mortgaged buy to let properties and is not available to portfolio landlords, expats or Let to Buy applicants.Properties must be self-sufficient with the existing rental income being equal to or greater than 110% cover of the pay rate. This will also apply to any other buy to let’s owned by your customers.Where your customer has a high level of debt, or the Underwriters are concerned about the residual affordability, Top Slicing may not be agreed.Speak to your Business Development team for further information before submission.
-
-------------------------------------------------------------
-
-CRITERIA 109: UNACCEPTABLE LETTING TYPESUPDATED 13 JULY 2023
-============================================================
-
-Content:
-We will not accept the following letting types on buy to let mortgages:Sale and leaseback arrangements where the tenant of the buy to let property will be the previous owner of the propertyLetting to directors/shareholders/members of the SPV limited company/LLP which is your customer’s or any associated SPV Limited Company or LLPLetting to embassies or tenants with diplomatic immunityRegulated or sitting tenantsPremium leases where all rent is paid in advance at the start of the tenancyRoom by room letting with multiple tenancy agreementsProperties which are subject to any restrictions i.e.; less than 52 week occupancy; students only; over 55’s onlyMixed use properties
-
-------------------------------------------------------------
-
-CRITERIA 110: VULNERABLE CUSTOMERSUPDATED 28 JUNE 2023
-============================================================
-
-Content:
-We review each case individually and where a vulnerable customer has been identified, consideration will be given as required.
-
-------------------------------------------------------------
-
-CRITERIA 111: NEXT STEPS
-============================================================
-
-Content:
-After reviewing the criteria, you can:
-- Use our Product Finder to search for suitable mortgage products
-- Access our Affordability Calculator to assess customer affordability
-- Use our Rental Income Calculator for buy-to-let applications
-- Download required forms and documentation
-- Contact your Business Development team for further guidance
-- Visit our How to Apply section for application procedures
-- Check our Networks and Clubs information for partnership details
-
-For additional support, please refer to the Quick Links section or contact The Cambridge directly.
-
-------------------------------------------------------------
-
-CRITERIA 112: QUICK LINKS
-============================================================
-
-Content:
-Products and criteriaProduct FinderCriteria SearchAffordability CalculatorRental Income Calculator InformationForms and DownloadsHow to ApplyNetworks and ClubsConsumer Duty The CambridgeWhy Choose The CambridgeContact UsNews and Events
-
-------------------------------------------------------------
-
-CRITERIA 113: COOKIES
-============================================================
-
-Content:
-This website uses cookies to enhance your browsing experience and provide essential functionality. For detailed information about our cookie policy, please see the "What are cookies?" section below.
-
-------------------------------------------------------------
-
-CRITERIA 114: COOKIES
-============================================================
-
-Content:
-We use cookies to collect information from your device when you use our website. Some cookies are essential to make sure our website works properly and is secure. Others are optional and need your consent. By accepting all cookies, we’ll be able to understand how the website is used, to offer a better user experience. It will also allow us to offer a more personalised experience tailoring content or marketing to your needs. Select ‘Allow All Cookies’ to agree, ‘Decline non-essential’ to accept only essential cookies or ‘Manage Preferences’ to manage cookie settings. For more details, please read ourCookie Policy
-
-------------------------------------------------------------
-
-CRITERIA 115: WHAT ARE COOKIES?
-============================================================
-
-Content:
-This website, along with most other major websites, uses cookies. Cookies are small text files which are stored on your computer or device when you visit a website helping the site remember information about you and your preferences.
-
-------------------------------------------------------------
-
-CRITERIA 116: HOW DO WE USE THEM?
-============================================================
-
-Content:
-Our online services use cookies to help keep it secure. These are essential to the service we offer as they enable you to log in and manage your accounts. Without these cookies enabled, you will not be able to use our online services. None of the cookies used on our website collect personally identifiable information about you. We also use cookies to collect anonymous information that will help us understand visitors’ browsing habits on our website and to complete statistical reports on website activity. This helps us to improve our products and services. Cookies also provide a customised user experience by remembering your preferences and settings.
-
-------------------------------------------------------------
-
-CRITERIA 117: THE TYPES OF COOKIES WE USE?
-============================================================
-
-Content:
-Below are the listed types of cookies you can consent to via our cookie manager and what they are used for. You can also find the consent categories and the what their purpose is for: Essential Cookies-These cookies are required to enable the basic features of the site to work and cannot be switched off. Performance Cookies- These cookies allow us to understand how visitors interact with the website. This data is collected and reported on anonymously and allows us to measure and improve the performance of the site. Personalisation Cookies -These are cookies that record your visit to our website, the pages you’ve visited and the links you’ve followed. They may be used to build a profile of your interest and show you relevant adverts on other sites. These will also be used to display ads that are relevant and engaging for individual users. These may be set on the site by our advertising partners. Marketing Cookies -These cookies are used to track visitors across the website. These allows us to store cookies that related to advertising A full list of the cookies that we use can be found in the table below: Type of CookiesNamePurposeEssentialfunctionality_ storageEnables storage that supports the functionality of the website or app e.g. language settings.EssentialWhosOn - Live ChatThe WhosOn cookie is used to link previous chats and visits from the same person together. The cookie doesn’t collect information nor does it control any functionality of WhosOn.EssentialARRAffinitycookieStatusThese are for site hosting and remembering the visitor’s preferences.Performance Cookiesanalytics_storageEnables storage (such as cookies) related to analytics e.g. visit duration, pages viewed.Marketing Cookiesad_user_dataad_storageSets consent for sending user data related to advertising to Google.Enables storage (such as cookies) related to advertising.Personalisation Cookiesad_ personalisationpersonalisation _storageSets consent for personalised advertising.Enables storage related to personalisation e.g. video recommendations Type of CookiesEssentialNamefunctionality_ storagePurposeEnables storage that supports the functionality of the website or app e.g. language settings. Type of CookiesEssentialNameWhosOn - Live ChatPurposeThe WhosOn cookie is used to link previous chats and visits from the same person together. The cookie doesn’t collect information nor does it control any functionality of WhosOn. Type of CookiesEssentialNameARRAffinitycookieStatusPurposeThese are for site hosting and remembering the visitor’s preferences. Type of CookiesPerformance CookiesNameanalytics_storagePurposeEnables storage (such as cookies) related to analytics e.g. visit duration, pages viewed. Type of CookiesMarketing CookiesNamead_user_dataad_storagePurposeSets consent for sending user data related to advertising to Google.Enables storage (such as cookies) related to advertising. Type of CookiesPersonalisation CookiesNamead_ personalisationpersonalisation _storagePurposeSets consent for personalised advertising.Enables storage related to personalisation e.g. video recommendations
-
-------------------------------------------------------------
-
-CRITERIA 118: HOW TO CONTROL AND DELETE COOKIES?
-============================================================
-
-Content:
-You can manage whether to restrict or block cookies when you first land on our site and then following this through your web browser directly. The 'Help' function within your browser should tell you how to clear these down if you wish to do so. You are also able to amend your cookie choices at any time using by opening up our Cookie Manager (this will retrigger the cookie manager pop-up). Alternatively, you may wish to visit the website for theInformation Commissioner's Officewhich contains comprehensive information about cookies including how to manage them. You can also visitGoogle Analyticsto opt out of being tracked by Google across the websites you visit or open your option panel to reset your preferences for our site specifically. To find out how Google uses information from sites that use their service please visitGoogle's Privacy & Terms site Please note that if you decide to block all cookies, you will be unable to use our online services.
-
-------------------------------------------------------------
+*END OF DOCUMENT*

@@ -1,24 +1,24 @@
-LENDER NAME: Barclays
-PRODUCT: Residential
-
-# Barclays - Residential Lending Criteria
-
-**Source:** [https://intermediaries.uk.barclays/home/lending-criteria/residential/](https://intermediaries.uk.barclays/home/lending-criteria/residential/)
-**Last Updated:** 2025
-
-**FOR INTERMEDIARY USE ONLY**
-
-Barclays Bank UK PLC. Authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (Financial Services Register number: 759676).
-
-Barclays Bank UK PLC. Registered no. 9740322. Registered in England. Registered office: 1 Churchill Place, London E14 5HP
-
-**Contact:** [Contact us](https://intermediaries.uk.barclays/home/contact-us/)
-
-**Intermediary Mortgage Experts Centre:** 0345 073 3330 - Monday to Friday, 9am to 5pm
+# BARCLAYS – RESIDENTIAL LENDING CRITERIA
 
 ---
 
-## Residential Lending Criteria A to Z
+**LENDER:** Barclays
+**PRODUCT:** Residential
+**DOCUMENT TYPE:** Residential lending criteria (A–Z).
+**SOURCE:** [https://intermediaries.uk.barclays/home/lending-criteria/residential/](https://intermediaries.uk.barclays/home/lending-criteria/residential/)
+**LAST VERIFIED:** 2025
+
+**IMPORTANT:** FOR INTERMEDIARY USE ONLY.
+
+**RAG convention:** Where applicable, criteria use explicit labels **Maximum:** **Minimum:** **Allowed:** **Not Acceptable:** **Condition:** so that rules are self-contained for retrieval.
+
+**Contact:** [Contact us](https://intermediaries.uk.barclays/home/contact-us/) | Intermediary Mortgage Experts Centre: 0345 073 3330 (Mon–Fri 9am–5pm)
+
+Barclays Bank UK PLC. Authorised by the PRA and regulated by the FCA and the PRA (Financial Services Register number: 759676). Registered no. 9740322. Registered office: 1 Churchill Place, London E14 5HP.
+
+---
+
+# SECTION 1 – RESIDENTIAL LENDING CRITERIA A TO Z
 
 Everything you need to know
 
@@ -135,9 +135,8 @@ The applicant’s 'disposable income' – ie, their monthly income after account
 
 ### Age/Term
 
-Minimum age: 18
-
-Maximum age at the end of the mortgage term cannot exceed the oldest applicants 80th birthday.
+**Minimum (age):** 18.
+**Maximum (age at end of term):** 80 (oldest applicant’s 80th birthday).
 
 Our maximum acceptable retirement age is 75, please note when the retirement age exceeds 70 our underwriting team may review the application and require additional information.
 
@@ -168,34 +167,32 @@ Please refer to the Help to Buy – Forces Help to Buy policy section for furthe
 
 Allowable Income Table
 
-| **Allowable Income Type**                                                                                  | **% Allowable**                                                                                       | **Acceptable Evidence**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **PAYE: Basic Income**                                                                                     | 100%                                                                                                  | Latest month’s payslip (or 5 consecutive payslips if paid weekly).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **PAYE: Taxable Allowances** (e.g. mortgage subsidy, car allowance, shift allowance, large town allowance) | 100%                                                                                                  | Latest month’s payslip (or 5 consecutive payslips if paid weekly).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **PAYE: Overtime, Commission and Bonus (paid monthly or more frequently)**                                 | 50%                                                                                                   | Latest 3 months’ payslips (or 5 if paid weekly) **and** corresponding latest full month’s bank statement (if requested). Where amounts vary, the average value will be used as primary income. <br><br> **50–100% (where sustainability evidenced by latest P60):** Latest 3 months’ payslips (or 5 if weekly), corresponding bank statement (if requested), and latest P60. If >50% of 3-month average bonus/commission is required, the lower of: (a) amount evidenced by payslips and supported by latest P60 (up to 100%), or (b) where >100% used, supported by two years’ P60s (use the lower year).                                                                                          |
-| **PAYE: Annual/Quarterly Bonus (or paid less frequently than monthly)**                                    | 50%                                                                                                   | Previous 2 years’ payslips showing bonus payments **or** latest 2 years’ P60s **or** HMRC Annual Tax Summary **or** latest 2 years’ Tax Year End payslips (normally March). <br><br>*If foreign currency or vested stock is included, a compensation letter may be required to validate income.*                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Self-Employed: Sole Trader / General Partnership**                                                       | 100%                                                                                                  | Latest 2 years’ HMRC Tax Assessments (SA302s) or Tax Calculations **and** latest 2 years’ Tax Year Overviews.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **Self-Employed: Limited Company Shareholder**                                                             | 100%                                                                                                  | Latest 2 years’ HMRC Tax Assessments (SA302s) or Tax Calculations **and** latest 2 years’ Tax Year Overviews (most recent year may be replaced by trading accounts). **Plus** most recent year’s trading accounts produced by a qualified accountant (dated within 18 months of the application start date). Unsigned accounts acceptable if verified through Companies House. <br><br>*Directors taxed under PAYE only (≤20% shareholding and earnings ≤£100,000) require: 3 months’ payslips, latest P60, and most recent year’s trading accounts.*                                                                                                                                               |
-| **Self-Employed: LLP (Limited Liability Partnership)**                                                     | 100%                                                                                                  | Requirements vary by time in partnership: <br>• **<1 year:** Partnership agreement/contract, recent full month’s bank statement, and P60 (or 2 years’ Tax Year Overviews if self-employed). <br>• **1–2 years:** Latest HMRC Tax Assessment or Calculation, latest Tax Year Overview, and partnership agreement/contract. <br>• **>2 years:** Latest 2 years’ HMRC Tax Assessments or Calculations and Tax Year Overviews (most recent may be replaced by trading accounts). <br><br>**Overseas Profit:** May be considered if remunerated in sterling. A letter from the Finance Director/senior partner must confirm partnership duration, income level, jurisdiction, and sterling remuneration. |
-| **Employed Director (≤20% shareholding)**                                                                  | PAYE element: Refer to PAYE section. <br>Dividend element: 100% (capped at 100% of basic PAYE income) | Dividend element: Latest 2 years’ HMRC Tax Assessments (SA302s) or Tax Calculations **and** 2 years’ Tax Year Overviews.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **Foster Income**                                                                                          | 100%                                                                                                  | Latest 2 years’ Local Authority statements or letter from fostering agency confirming total income for each of the last 2 years **and** latest 3 months’ bank statements. <br><br>*Underwriter to assess sustainability and list children as financial dependants.*                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Fixed-Term Contracts (Contractors)**                                                                     | 100%                                                                                                  | Most recent contracts covering a 12-month period **and** latest 3 months’ payslips (or 5 if weekly). <br><br>*Professional fixed-term roles (e.g. junior doctors, teachers, solicitors) should be classed as employed.*                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **NHS Bank Staff**                                                                                         | 100%                                                                                                  | Latest 3 months’ payslips (5 if weekly, 3 if fortnightly) **and** latest month’s bank statement (if requested). Average used where amounts vary.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Unearned Income (investments, trust funds, etc.)**                                                       | 100%                                                                                                  | Latest 3 months’ bank statements confirming receipt, evidence of source (e.g. portfolio), accountant’s letter confirming income and no encumbrances, and corresponding tax calculation. <br><br>*Underwriter to assess sustainability.*                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **Maintenance Payments**                                                                                   | 100%                                                                                                  | Court Order, CSA/CMS Arrangement, or latest 3 months’ bank statements showing income received. Underwriter to assess sustainability.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| **Working Tax Credits**                                                                                    | 100%                                                                                                  | HMRC award letter (all pages) **and** latest full month’s bank statement showing income.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **Child Tax Credits**                                                                                      | 100%*                                                                                                 | HMRC award letter (all pages) **and** latest full month’s bank statement. *Not acceptable where children are aged 13 or over.*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **Child Benefit**                                                                                          | 100%*                                                                                                 | DWP letter (all pages) **or** latest full month’s bank statement. *Not acceptable where children are 13+ or highest earner’s gross income ≥£60,000.*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| **Scottish Child Payment**                                                                                 | 100%*                                                                                                 | Social Security Scotland letter (all pages) **or** latest full month’s bank statement. *Not acceptable where children are 11 or over.*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **Universal Credit (UC)**                                                                                  | 100%*                                                                                                 | Latest 3 months’ UC statements (printouts acceptable) **and** latest full month’s bank statement showing income. UC considered only where applicant also receives another allowable income source. <br><br>*Child element for children 13+ not accepted.* <br><br>*Housing element considered only for shared ownership applications.*                                                                                                                                                                                                                                                                                                                                                              |
-| **Discretionary Mortgage Subsidy / Housing Allowance**                                                     | 100%                                                                                                  | Contract of employment. *Minimum term of 5 years if restricted; assessed for sustainability.*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **UK State Pension (Currently Receiving)**                                                                 | 100%                                                                                                  | Latest full month’s bank statement showing income **or** proof of benefit letter.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **Disability / State Benefits**                                                                            | 100%                                                                                                  | Latest DWP benefits statement **and** latest full month’s bank statement showing income. <br><br>*Allowable benefits include DLA, Attendance Allowance, Income Support, Carer’s Allowance, etc. Benefits must be in the applicant’s name.*                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| **Permanent Income Protection Payments**                                                                   | 100%                                                                                                  | Policy statement confirming payout schedule and amounts. Treated as net income (gross-up may be applied for LTI calculation). Assessed for sustainability.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| **Personal & Workplace Pensions / Annuities (Currently Receiving)**                                        | 100%                                                                                                  | Latest full month’s bank statement showing income **and** one of: pension payslip, pension statement, annuity/pension letter, or pension P60. Documents must be dated within 12 months and clearly identify applicant and provider details. *Drawdown from SIPP not acceptable.*                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Pensions (Not Yet Receiving)**                                                                           | 100%                                                                                                  | Statement from pension provider confirming projected income and assumed retirement date **or** FCA-regulated letter from scheme administrator.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+**Allowable income types (% and evidence summary):**
+* **PAYE: Basic Income** – 100%. Latest month’s payslip (or 5 consecutive if weekly).
+* **PAYE: Taxable Allowances** (mortgage subsidy, car, shift, large town) – 100%. Latest month’s payslip (or 5 if weekly).
+* **PAYE: Overtime, Commission, Bonus (monthly or more frequent)** – 50%; 50–100% where sustainability evidenced by latest P60. Evidence: 3 months’ payslips (+ bank statement if requested); P60 where >50% used; 2 years’ P60s where >100%.
+* **PAYE: Annual/Quarterly Bonus** – 50%. 2 years’ bonus payslips or P60s or HMRC Tax Summary or Tax Year End payslips.
+* **Self-Employed: Sole Trader / General Partnership** – 100%. Latest 2 years’ SA302s/Tax Calculations and Tax Year Overviews.
+* **Self-Employed: Limited Company Shareholder** – 100%. Latest 2 years’ SA302s/Tax Calculations and Tax Year Overviews + most recent year’s accounts (qualified accountant, ≤18 months). PAYE-only directors (≤20% share, ≤£100k): 3 months’ payslips, latest P60, most recent year’s accounts.
+* **Self-Employed: LLP** – 100%. &lt;1 year: agreement + bank statement + P60 or 2 years’ Tax Year Overviews. 1–2 years: latest SA302/Calculation + Tax Year Overview + agreement. >2 years: 2 years’ SA302s/Calculations and Tax Year Overviews. Overseas profit in sterling: letter from Finance Director/senior partner.
+* **Employed Director (≤20% shareholding)** – PAYE per PAYE; Dividend 100% (capped at 100% basic PAYE). Dividend: 2 years’ SA302s/Tax Calculations and Tax Year Overviews.
+* **Foster Income** – 100%. 2 years’ Local Authority/foster agency + 3 months’ bank statements. Children as financial dependants.
+* **Fixed-Term Contracts (Contractors)** – 100%. Contracts covering 12 months + 3 months’ payslips (5 if weekly). Professional fixed-term (e.g. junior doctors, teachers) class as employed.
+* **NHS Bank Staff** – 100%. 3 months’ payslips (5 if weekly, 3 if fortnightly) + bank statement if requested.
+* **Unearned Income (investments, trust funds)** – 100%. 3 months’ bank statements + source evidence + accountant’s letter (income, no encumbrances) + tax calculation.
+* **Maintenance** – 100%. Court Order, CSA/CMS, or 3 months’ bank statements.
+* **Working Tax Credits** – 100%. HMRC award letter + latest month’s bank statement.
+* **Child Tax Credits** – 100%*. Award letter + bank statement. *Not where children 13+.*
+* **Child Benefit** – 100%*. DWP letter or bank statement. *Not where children 13+ or highest earner ≥£60k gross.*
+* **Scottish Child Payment** – 100%*. Social Security Scotland letter or bank statement. *Not where children 11+.*
+* **Universal Credit** – 100%*. 3 months’ UC statements + latest month’s bank statement. Only with another allowable income. Child element 13+ not accepted; housing element only for shared ownership.
+* **Discretionary Mortgage Subsidy / Housing Allowance** – 100%. Contract of employment. Min 5 years if restricted.
+* **UK State Pension (currently receiving)** – 100%. Latest month’s bank statement or benefit letter.
+* **Disability / State Benefits** – 100%. Latest DWP statement + bank statement. Benefits in applicant’s name only.
+* **Permanent Income Protection Payments** – 100%. Policy statement (payout schedule/amounts). Net; gross-up for LTI possible.
+* **Personal & Workplace Pensions / Annuities (currently receiving)** – 100%. Bank statement + pension payslip/statement/letter/P60 (≤12 months). SIPP drawdown not acceptable.
+* **Pensions (not yet receiving)** – 100%. Statement from provider (projected income, retirement date) or FCA-regulated scheme administrator letter.
 
-### Bonus, Overtime or Commission
 
 **Documentation**
 
@@ -644,16 +641,17 @@ The name and address on the above ID document **MUST** match the name and addres
 
 We can only issue a mortgage offer once all proof of identity and address requirements have been successfully completed for all clients
 ### Income multiples
-|  Scenario |  Maximum income multiple  
----|---|---  
-1 |  **LTV ≤ 85%- Capital and interest** The total combined gross annual income of the two highest earning applicants ≥ £75,000 |  5.50x  
-2 |  **LTV ≤ 85%- Capital and interest** The total combined gross annual income of the two highest earning applicants ≥ £45,000 |  5.00x  
-3 |  **LTV ≤ 80%- Interest only or part & part ** At least one applicant has a gross annual income of ≥ £75,000* or the two highest earning applicants have a combined gross annual income of ≥ £100,000* |  5.00x  
-4 |  **LTV >90%** The total gross annual income of the two highest earning applicants ≤ £50,000 |  4.00x  
-5 |  Debt to income ratio ≥ 20%** |  4.00x  
-6 |  All other loan-to-value and income scenarios not included above |  4.49x  
-* The income components considered when deciding if the minimum income threshold is met are: Basic income + sustainable allowances + self-employed income.
-** Debt to Income ratio is calculated as monthly credit commitments after completion as a percentage of gross monthly income.
+
+**Maximum income multiple by scenario:**
+* **5.50x:** LTV ≤85%, capital and interest; combined gross annual income of two highest earners ≥ £75,000.
+* **5.00x:** LTV ≤85%, capital and interest; combined gross annual income of two highest earners ≥ £45,000.
+* **5.00x:** LTV ≤80%, interest only or part & part; at least one applicant ≥ £75,000* or combined ≥ £100,000*.
+* **4.00x:** LTV >90% and total gross annual income of two highest earners ≤ £50,000.
+* **4.00x:** Debt to income ratio ≥ 20%**.
+* **4.49x:** All other LTV and income scenarios.
+
+*Income for minimum threshold: Basic income + sustainable allowances + self-employed income.*
+**DTI = monthly credit commitments after completion as % of gross monthly income.*
 **Looking for enhanced affordability?**
 You may wish to visit Kensington Mortgages, one of the UK’s leading specialist lenders and a subsidiary of Barclays Bank UK PLC. Kensington offer more flexible lending criteria to help people who may not meet typical lending requirements. [Learn more](https://www.kensingtonmortgages.co.uk/intermediaries?utm_source=Barclays_intermediaries&utm_medium=referral&utm_content=multiple_income_link "Opens in a new window").
 
@@ -726,21 +724,15 @@ We require a plausibility check to be done on all interest-only mortgages as per
 
 ### Regional Minimum Equity Requirements
 
-| Region                         | Minimum Equity Requirement | Region Postcodes                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ------------------------------ | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Greater London**             | £300,000                   | BR1-BR7, CR0-CR2, CR4-CR5, CR7-CR90, DA1, DA5-DA8, DA14-DA18, E, EC, EN1-EN5, HA0-HA5, HA7-HA9, IG1-IG6, IG8, IG11, KT1-KT6, N, NW, RM1-RM3, RM5-RM14, SE, SM1-SM6, SW, TW1-TW14, UB1-UB8, UB10-UB18, W, WC                                                                                                                                                                                                       |
-| **South-East and East Anglia** | £250,000                   | AL, BH25, BN, BR8, CB, CM, CO, CR3, CR6, CT, DA2-DA4, DA9, DA10-DA13, EN6-EN11, GU, HA6, HP, IG7, IG9-IG10, IP, KT7-KT24, LU, ME, MK, NN13, NR, OX, PE1-PE5, PE7, PE13-PE19, PE26-PE38, PO, RG1-RG14, RG18-RG45, RH, RM4, RM15-RM20, SG, SL, SM7, SN6-SN7, SO, SP6, SP10, SS, TN, TW15-TW20, UB9, WD                                                                                                              |
-| **Rest of the UK**             | £200,000                   | AB, B, BA, BB, BD, BH1-BH24, BH31, BL, BS, BT, CA, CF, CH, CV, CW, DD, DE, DG, DH, DL, DN, DT, DY, EH, EX, FK, FY, G, GL, HD, HG, HR, HS, HU, HX, IV, KA, KW, KY, L, LA, LD, LE, LL, LN, LS, M, ML, NE, NG, NN1-NN12, NN14-NN29, NP, OL, PA, PE6, PE8-PE12, PE20-PE25, PH, PL, PR, RG17, S, SA, SK, SN1-SN5, SN8-SN99, SP1-SP5, SP7-SP9, SP11, SR, ST, SY, TA, TD, TF, TQ, TR, TS, WA, WF, WN, WR, WS, WV, YO, ZE |
+**Minimum equity (interest-only, sale of mortgaged property):** Greater London: £300,000 (postcodes BR1–BR7, CR, DA, E, EC, EN1–EN5, HA, IG, KT1–KT6, N, NW, RM, SE, SM, SW, TW, UB, W, WC). South-East and East Anglia: £250,000 (AL, BN, CB, CM, CO, CT, GU, HP, IP, KT7–KT24, LU, ME, MK, NR, OX, PE, PO, RG, RH, SG, SL, SO, SS, TN, WD, etc.). Rest of the UK: £200,000.
 
 ---
 
 ### Repayment Vehicle Assessment Guidelines
 
-| Repayment Vehicle                                                                                     | Criteria                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Documentary Requirement                                                                        | Plausibility Assessment                                                                                                                                                                                                                                |
-| ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Existing endowment policy**                                                                         | Interest-only mortgage amount must not exceed the expected maturity value – must have been held for 12 months                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Latest annual statement – the statement must have been issued no longer than 1 year previously | Maturity value assessment is undertaken by the online application system based on pre-determined market rates of return of 4.5%. The current asset value, maturity date and monthly premium details should be input into the online application system |
-| **Existing Stocks and Shares ISA; existing share, unit or investment trust (professionally managed)** | The current asset value must be sufficient to cover the Interest Only Mortgage at the point of application. There must be no reliance on future monthly premiums or expected market growth.                                                                                                                                                                                                                                                                                                                                                                                                                    | Latest statement – the statement must have been issued no longer than 1 year previously        | Current balance evidenced must be sufficient to cover the interest-only mortgage amount at the point of application. Potential growth must not be included.                                                                                            |
-| **Sale of mortgaged property**                                                                        | For residential mortgages a maximum LTV of 50% applies to the interest-only part of the loan (so you know – you can borrow up to 85% LTV on a part and part basis). Where the sale of property is used as a repayment strategy, any lending beyond 50% LTV must be taken on a capital and interest repayment basis. There is also an additional requirement to have a minimum equity, after the capital and interest part of the loan is repaid, of:<br>• £300,000 for properties in Greater London<br>• £250,000 for properties in South-East & East Anglia<br>• £200,000 for properties in all other regions |                                                                                                |                                                                                                                                                                                                                                                        |
+* **Existing endowment policy:** IO amount must not exceed expected maturity value; held 12 months. Evidence: latest annual statement (≤1 year old). Plausibility: online system uses 4.5% return; input current asset value, maturity date, monthly premium.
+* **Existing Stocks and Shares ISA; share/unit/investment trust (professionally managed):** Current asset value must cover IO mortgage at application; no reliance on future premiums or growth. Evidence: latest statement (≤1 year). Plausibility: current balance must cover IO amount; no potential growth.
+* **Sale of mortgaged property:** Max 50% LTV for IO part (part and part up to 85% LTV); beyond 50% must be capital and interest. Min equity after repayment part: Greater London £300k, South-East & East Anglia £250k, rest of UK £200k.
 
 ---
 
@@ -786,24 +778,21 @@ The loan amount used in the loan to value (LTV) calculation is the aggregate amo
 
 The following maximum LTV criteria apply; lowest LTV takes precedent:
 
-| Lending Scenario                                                                       | House ≤ £640k / Flats ≤ £310k                           | Houses > £640k / Flats > £310k |
-| -------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------ |
-| Purchase                                                                               | 95% (see ‘special schemes’ table below where LTV > 95%) | 85%                            |
-| New Build – Houses                                                                     | 90%                                                     | 85%                            |
-| Re-Mortgage “Like for Like”                                                            | 90%                                                     | 85%                            |
-| Re-Mortgage with additional lend for capital raising                                   | 85%                                                     | 85%                            |
-| Additional Borrowing (Further Advance)                                                 | 85%                                                     | 85%                            |
-| New Build – Flats/Apartments/Maisonettes                                               | 85%                                                     | 85%                            |
-| Applicant with more than 1 mortgaged residential property upon completion              | 90%                                                     | 85%                            |
-| Re-Mortgage with any additional lend for Debt Consolidation                            | 80%                                                     | 80%                            |
-| Additional Borrowing (Further Advance) with any additional lend for Debt Consolidation | 80%                                                     | 80%                            |
-| Interest Only                                                                          | 75%                                                     | 75%                            |
-| Part and Part (Part Interest Only, Part Repayment)                                     | 85%                                                     | 85%                            |
+**Maximum LTV by scenario (House ≤£640k / Flats ≤£310k vs Houses >£640k / Flats >£310k):**
+* **Purchase:** 95% (see Special Schemes below where LTV >95%) | 85%
+* **New Build – Houses:** 90% | 85%
+* **Re-Mortgage "Like for Like":** 90% | 85%
+* **Re-Mortgage with additional lend for capital raising:** 85% | 85%
+* **Additional Borrowing (Further Advance):** 85% | 85%
+* **New Build – Flats/Apartments/Maisonettes:** 85% | 85%
+* **Applicant with more than 1 mortgaged residential property upon completion:** 90% | 85%
+* **Re-Mortgage with any additional lend for Debt Consolidation:** 80% | 80%
+* **Additional Borrowing with any additional lend for Debt Consolidation:** 80% | 80%
+* **Interest Only:** 75% | 75%
+* **Part and Part:** 85% | 85%
 
-| Lending Scenario | Mortgages > £5m ≤ £10m | Mortgages > £10m |
-| ---------------- | ---------------------- | ---------------- |
-| Purchase         | 70%                    | 65%              |
-| Re-Mortgage      | 70%                    | 65%              |
+**High-value mortgages:** Mortgages >£5m ≤£10m: Purchase 70%, Re-Mortgage 70%. Mortgages >£10m: Purchase 65%, Re-Mortgage 65%.
+
 
 ---
 
@@ -811,20 +800,20 @@ The following maximum LTV criteria apply; lowest LTV takes precedent:
 
 See the Mortgage Schemes section for full details of specific residential mortgage schemes supported by Barclays.
 
-| Lending Scenario                                                                                                                 | House ≤ £640k / Flats ≤ £310k                                                 | Houses > £640k / Flats > £310k                                     |
-| -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| Family Springboard                                                                                                               | 100%                                                                          | 100% (Max £500k loan)                                              |
-| Family Sale                                                                                                                      | 95% (based on discounted purchase price) **and** max 90% of open market value | 85% of discounted purchase price (or 85% of valuation where lower) |
-| Shared Ownership – Purchase                                                                                                      | 90% (based on the share being purchased)                                      | 85% (based on the share being purchased)                           |
-| Right to Buy                                                                                                                     | 100% (based on discounted purchase price)                                     | 85% (based on discounted purchase price)                           |
-| Re-Mortgage with additional lend to repay equity loan in full / staircase to 100% (Help to Buy, shared equity, shared ownership) | 85%                                                                           | 85%                                                                |
-| Shared Ownership – Re-Mortgage (like-for-like)                                                                                   | 90% (based on the share owned)                                                | 85% (based on the share owned)                                     |
-| First Home Fund (Scotland)                                                                                                       | N/A                                                                           | 85%                                                                |
-| Shared Equity – Purchase, Re-Mortgage & Further Advance (where not repaying equity loan in full)                                 | 85% (based on purchase price/value)                                           | 85% (based on purchase price/value)                                |
-| Shared Ownership – Re-Mortgage with Capital Raising                                                                              | 85% (based on the share owned)                                                | 85% (based on the share owned)                                     |
-| Shared Ownership – Staircasing (partial)                                                                                         | 85% (based on the share being purchased)                                      | 85% (based on the share being purchased)                           |
-| Help to Buy Equity Loan Schemes – Purchase                                                                                       | 75% (80% in Scotland)                                                         | 75% (80% in Scotland) (N/A for loans > £500k)                      |
+**Maximum LTV – Special Schemes (House ≤£640k / Flats ≤£310k vs Houses >£640k / Flats >£310k):**
+* **Family Springboard:** 100% | 100% (max £500k loan)
+* **Family Sale:** 95% of discounted price and max 90% of OMV | 85% of discounted price (or 85% of valuation where lower)
+* **Shared Ownership – Purchase:** 90% of share purchased | 85% of share purchased
+* **Right to Buy:** 100% of discounted price | 85% of discounted price
+* **Re-Mortgage to repay equity loan in full / staircase to 100% (Help to Buy, shared equity, shared ownership):** 85% | 85%
+* **Shared Ownership – Re-Mortgage (like-for-like):** 90% of share owned | 85% of share owned
+* **First Home Fund (Scotland):** N/A | 85%
+* **Shared Equity – Purchase, Re-Mortgage & Further Advance (where not repaying equity loan in full):** 85% of price/value | 85%
+* **Shared Ownership – Re-Mortgage with Capital Raising:** 85% of share owned | 85%
+* **Shared Ownership – Staircasing (partial):** 85% of share being purchased | 85%
+* **Help to Buy Equity Loan – Purchase:** 75% (80% in Scotland) | 75% (80% in Scotland) (N/A for loans >£500k)
 
+**Notes:**
 **Notes:**
 
 * Product availability for transactions at undervalue or where there is a builder/vendor deposit is based on the full market value.
@@ -853,7 +842,7 @@ Please note that properties classed as ‘Live/Work Units’ are not acceptable 
 
 At least 40% of the property must be used as the applicant’s main residence, and the remainder must be used exclusively by the applicant for their own business purposes.
 
-Mixed-use properties are limited to 80% LTV, and certain commercial uses will not be considered:
+**Maximum LTV (mixed-use):** 80%. Mixed-use properties are limited to 80% LTV, and certain commercial uses will not be considered:
 
 * Fast food or sandwich shops
 * Care homes
@@ -918,17 +907,7 @@ It is acceptable for financial incentives to be used towards funding the deposit
 
 Where the combined value of any financial incentives exceeds 5% of the valuation (or purchase price where lower), the amount exceeding 5% will be deducted from the valuation (or purchase price where lower) for the purposes of calculating the maximum loan amount.
 
-**Example (new build house):**
-
-| Description                       | Amount                      |
-| --------------------------------- | --------------------------- |
-| Lower of valuation/purchase price | £200,000                    |
-| Builder cash incentive            | £22,000 (11% of value)      |
-| Incentive amount exceeding 5%     | £12,000                     |
-| Adjusted valuation                | £188,000                    |
-| Maximum loan                      | £169,200 (90% of £188,000)* |
-
-*Refer to current criteria for the prevailing maximum LTV.
+**Example (new build house):** Lower of valuation/purchase price £200,000; builder cash incentive £22,000 (11% of value); incentive amount exceeding 5% £12,000; adjusted valuation £188,000; **maximum loan** £169,200 (90% of £188,000). *Refer to current criteria for the prevailing maximum LTV.
 
 Upgrades forming an integral part of the property are not counted toward the 5% cash incentive threshold. Examples include:
 
@@ -1191,10 +1170,7 @@ Please note: Our interest-only limit product maximum LTV applies across the mort
 
 All mortgage applications will be assessed in terms of length of time living in the UK and rights to reside. There will potentially be further checks dependent on the application LTV.
 
-| Living in the UK for more than 1 year                                                                                                              | Living in the UK for less than 1 year                                              |                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| Applicant is a British citizen, Irish citizen or has Permanent Rights to Reside (PRR), Settled Status or Pre-settled Status (EU Settlement Scheme) | Standard criteria applies                                                          | Maximum 90% LTV. Additional underwriter checks apply*                                                    |
-| Applicant does not have Permanent Rights to Reside (PRR), Settled Status or Pre-settled Status (EU Settlement Scheme)                              | Maximum 90% LTV, additional underwriter checks will apply if LTV is more than 75%* | Available for Premier/Wealth qualifying customers. Maximum 75% LTV. Additional underwriter checks apply* |
+**Maximum LTV – Residency (UK >1 year vs <1 year):** British/Irish citizen or PRR, Settled or Pre-settled Status: standard criteria | **max 90% LTV** (additional underwriter checks). No PRR/Settled/Pre-settled: **max 90% LTV** (additional checks if LTV >75%) | Premier/Wealth only, **max 75% LTV** (additional checks).
 
 *Additional checks:
 
@@ -1345,13 +1321,9 @@ Barclays UK must be able to take a **first legal charge** prior to any charge re
 ---
 
 **Additional Borrowing**
-Can be considered providing Scheme Provider permission is obtained and all areas of this section of Lending Guidelines are met:
+Can be considered providing Scheme Provider permission is obtained and all areas of this section of Lending Guidelines are met.
 
-| Scenario                                                                                                  | Maximum LTV         |
-| --------------------------------------------------------------------------------------------------------- | ------------------- |
-| Capital raising to repay equity loan in FULL                                                              | 85% of market value |
-| Capital raising to buy out co-owners share or partially repay equity loan                                 | 85% of market value |
-| Debt consolidation (repayment of the equity loan is not considered debt consolidation for these purposes) | 80% of market value |
+**Maximum LTV – Additional Borrowing (shared equity):** Capital raising to repay equity loan in full: 85% of market value. Capital raising to buy out co-owners share or partially repay equity loan: 85% of market value. Debt consolidation (equity loan repayment not treated as debt consolidation): 80% of market value.
 
 **Notes:**
 
@@ -1376,13 +1348,9 @@ This scheme aims to help first-time buyers in Scotland buy their own home. It pr
 * The entire mortgage must be on a capital and interest repayment basis
 
 **Additional Borrowing**
-Can be considered providing Scheme Provider permission is obtained, where required, and all areas of this section of Lending Guidelines are met:
+Can be considered providing Scheme Provider permission is obtained, where required, and all areas of this section of Lending Guidelines are met.
 
-| Scenario                                                                                                  | Maximum LTV         |
-| --------------------------------------------------------------------------------------------------------- | ------------------- |
-| Capital raising to repay equity loan in FULL                                                              | 85% of market value |
-| Capital raising to buy out co-owners share or partially repay equity loan                                 | 85% of market value |
-| Debt consolidation (repayment of the equity loan is not considered debt consolidation for these purposes) | 80% of market value |
+**Maximum LTV – Additional Borrowing (Scottish schemes):** Capital raising to repay equity loan in full: 85% of market value. Capital raising to buy out co-owners share or partially repay equity loan: 85% of market value. Debt consolidation (equity loan repayment not treated as debt consolidation): 80% of market value.
 
 **Notes:**
 

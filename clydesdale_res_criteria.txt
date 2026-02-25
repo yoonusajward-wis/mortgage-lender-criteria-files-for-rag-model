@@ -1,33 +1,23 @@
-LENDER NAME: Clydesdale
-PRODUCT: Residential
-
-================================================================================
-CLYDESDALE BANK - RESIDENTIAL LENDING CRITERIA
-================================================================================
-
-Source: https://www.clydesdalebankintermediaries.co.uk/lending-criteria/residential/
-
-OVERVIEW
---------------------------------------------------------------------------------
-This document contains comprehensive Residential lending criteria for Clydesdale Bank.
-All criteria apply to Residential mortgage applications unless otherwise stated.
-
-Scope: Applies to product set HomeA–F (unless noted otherwise)
-
-CONTACT INFORMATION
---------------------------------------------------------------------------------
-Existing Applications Helpline: 0800 917 8363
-Hours: Monday-Friday 9:00-17:00 (Wednesday 9:30-17:00)
-
-Valuation Panel Manager: Esurv - 0800 1699661
-
-Mortgage Services Team: 0800 121 4203
-
-Email: Existing.Customer.Support@cybg.com
+# CLYDESDALE BANK – RESIDENTIAL CRITERIA
 
 ---
 
-## 1. Adverse Credit
+**LENDER:** Clydesdale Bank
+**PRODUCT:** Residential
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 2025
+**FOR INTERMEDIARY USE ONLY**
+
+**Source:** [Residential lending criteria](https://www.clydesdalebankintermediaries.co.uk/lending-criteria/residential/)
+
+---
+
+This document contains comprehensive Residential lending criteria for Clydesdale Bank. All criteria apply to Residential mortgage applications unless otherwise stated. Scope: Applies to product set HomeA–F (unless noted otherwise).
+
+---
+
+## SECTION 1 – Adverse Credit
+
 
 ### 1.1 Arrears
 
@@ -68,7 +58,8 @@ Other missed payments may be acceptable, subject to application.
 
 ---
 
-## 2. Affordability
+## SECTION 2 – Affordability
+
 
 * All applications undergo an affordability assessment.
 * Assesses income, committed expenditure, essential bills, and basic living costs.
@@ -78,7 +69,8 @@ Other missed payments may be acceptable, subject to application.
 
 ---
 
-## 3. Additional Borrowing (Porting / Product Transfer with Additional Borrowing / Further Advance) — HomeA–F
+## SECTION 3 – Additional Borrowing (Porting / Product Transfer with Additional Borrowing / Further Advance) — HomeA–F
+
 
 ### Step 1 – Request an Illustration
 
@@ -105,7 +97,8 @@ Email the completed Residential or Buy to Let form to [Existing.Customer.Support
 
 ---
 
-## 4. Age Criteria
+## SECTION 4 – Age Criteria
+
 
 The minimum age at the start of the application is 18.
 
@@ -124,19 +117,22 @@ Also see Lending into Retirement, Term, and Repayment Strategies.
 
 ---
 
-## 5. Applicants
+## SECTION 5 – Applicants
+
 
 * Maximum 2 applicants per mortgage application.
 
 ---
 
-## 6. Assignable Contracts
+## SECTION 6 – Assignable Contracts
+
 
 * Not acceptable where purchase is via an assignable contract.
 
 ---
 
-## 7. Bank Statements
+## SECTION 7 – Bank Statements
+
 
 Provide statements only for:
 
@@ -150,7 +146,8 @@ Online statements acceptable if they show name, account number, and sort code.
 
 ---
 
-## 8. Bonus / Variable Income
+## SECTION 8 – Bonus / Variable Income
+
 
 * Annual/six-monthly/quarterly: Use 60% of the 2-year average, or 60% of most recent year if lower.
 * Monthly/weekly: Use 60% of variable pay from the lower of the two most recent payslips, or 60% of YTD if lower.
@@ -159,7 +156,8 @@ Online statements acceptable if they show name, account number, and sort code.
 
 ---
 
-## 9. Background Buy-to-Lets (BTLs)
+## SECTION 9 – Background Buy-to-Lets (BTLs)
+
 
 * Retained BTLs must have rental cover ≥ 125% of interest-only payment.
 
@@ -170,7 +168,8 @@ Evidence:
 
 ---
 
-## 10. Capital Raising
+## SECTION 10 – Capital Raising
+
 
 Allowed on remortgage or unencumbered property; purpose must be legal and genuine.
 
@@ -186,7 +185,8 @@ Restrictions:
 
 ---
 
-## 11. Cladding / External Wall Systems (EWS)
+## SECTION 11 – Cladding / External Wall Systems (EWS)
+
 
 ### 11.1 Buildings (UK – general)
 
@@ -216,7 +216,8 @@ Restrictions:
 
 ---
 
-## 12. Consent to Let
+## SECTION 12 – Consent to Let
+
 
 * Available for temporary letting < 2 years.
 * Must meet: period under 2 years, mortgage held > 6 months, intention to return.
@@ -225,7 +226,8 @@ Restrictions:
 
 ---
 
-## 13. Contractors & Non-Standard Employment
+## SECTION 13 – Contractors & Non-Standard Employment
+
 
 ### 13.1 Daily-Rate Contractors
 
@@ -254,7 +256,8 @@ Restrictions:
 
 ---
 
-## 14. Deposits
+## SECTION 14 – Deposits
+
 
 ### 14.1 Gifted Deposits
 
@@ -267,7 +270,8 @@ Restrictions:
 
 ---
 
-## 15. Direct Debit
+## SECTION 15 – Direct Debit
+
 
 * Mandatory for all mortgages.
 * Collection date 1st–28th; default is 1st.
@@ -276,7 +280,8 @@ Restrictions:
 
 ---
 
-## 16. Eligibility
+## SECTION 16 – Eligibility
+
 
 ### 16.1 General
 
@@ -294,7 +299,8 @@ Restrictions:
 
 ---
 
-## 17. Expenditure
+## SECTION 17 – Expenditure
+
 
 ### 17.1 Residential
 
@@ -320,25 +326,29 @@ List:
 
 ---
 
-## 18. Expenditure Variations
+## SECTION 18 – Expenditure Variations
+
 
 Include explanation and evidence for anticipated changes to expenditure.
 
 ---
 
-## 19. Ex-pats
+## SECTION 19 – Ex-pats
+
 
 * Not accepted.
 
 ---
 
-## 20. First-Time Buyers
+## SECTION 20 – First-Time Buyers
+
 
 * Anyone without a mortgage in the last 12 months.
 
 ---
 
-## 21. Forces Help to Buy (FHTB)
+## SECTION 21 – Forces Help to Buy (FHTB)
+
 
 * Accepted as deposit.
 * Treated as savings.
@@ -347,7 +357,8 @@ Include explanation and evidence for anticipated changes to expenditure.
 
 ---
 
-## 22. Foreign Currency Mortgages
+## SECTION 22 – Foreign Currency Mortgages
+
 
 * Not accepted.
 * No non-sterling income or repayment vehicles.
@@ -355,7 +366,8 @@ Include explanation and evidence for anticipated changes to expenditure.
 
 ---
 
-## 23. Foreign Nationals
+## SECTION 23 – Foreign Nationals
+
 
 ### 23.1 All applicants have ILR or EUSS
 
@@ -384,14 +396,16 @@ Cannot lend to sanctioned-country nationals or those with diplomatic immunity.
 
 ---
 
-## 24. Foster Carers
+## SECTION 24 – Foster Carers
+
 
 * Income acceptable and treated as self-employed.
 * Individuals in care counted as dependants.
 
 ---
 
-## 25. Flats
+## SECTION 25 – Flats
+
 
 ### 25.1 LTV Guidelines
 
@@ -432,13 +446,15 @@ Scope: Applies to product set HomeG–L (unless stated)
 
 ---
 
-## 1. Guarantors
+## SECTION 26 – Guarantors
+
 
 * Not accepted on any mortgage.
 
 ---
 
-## 2. Help to Buy
+## SECTION 27 – Help to Buy
+
 
 We participate in the Help to Buy Equity Loan Scheme for residential purchase applications.
 
@@ -479,7 +495,8 @@ For specific details and current scheme availability, please refer to the Help t
 
 ---
 
-## 3. HMOs (Houses in Multiple Occupation)
+## SECTION 28 – HMOs (Houses in Multiple Occupation)
+
 
 * Not permitted for lending.
 * Definition: A property with 3 or more tenants forming more than 1 household who share a toilet, bathroom, or kitchen.
@@ -487,7 +504,8 @@ For specific details and current scheme availability, please refer to the Help t
 
 ---
 
-## 3. Home Improvements
+## SECTION 29 – Home Improvements
+
 
 If the request is more than £50,000 or more than 20% of the property’s current value (whichever is lower):
 
@@ -496,7 +514,8 @@ If the request is more than £50,000 or more than 20% of the property’s curren
 
 ---
 
-## 4. Income
+## SECTION 30 – Income
+
 
 ### 4.1 Employed
 
@@ -580,7 +599,8 @@ Useful links: Packaging requirements, Affordability calculator, Maximum loan-to-
 
 ---
 
-## 5. Income Multiples
+## SECTION 31 – Income Multiples
+
 
 ### 5.1 Purchase or Remortgage with Additional Borrowing
 
@@ -606,7 +626,8 @@ Basic pay + 60% of allowable variable income + 100% of pension, rental, and allo
 
 ---
 
-## 6. Income Variations (Future Changes)
+## SECTION 32 – Income Variations (Future Changes)
+
 
 If income is expected to change, include:
 
@@ -615,7 +636,8 @@ If income is expected to change, include:
 
 ---
 
-## 7. Interest-Only (Residential)
+## SECTION 33 – Interest-Only (Residential)
+
 
 ### 7.1 Income
 
@@ -678,7 +700,8 @@ If equity will not meet the target purchase price, provide evidence of additiona
 
 ---
 
-## 8. Joint Borrower, Sole Owner (JBSO)
+## SECTION 34 – Joint Borrower, Sole Owner (JBSO)
+
 
 * Two borrowers / one legal owner required.
 * Borrowers must be immediate family (spouses, civil partners, unmarried cohabitees, parent and child). Other relationships by referral.
@@ -693,7 +716,8 @@ If equity will not meet the target purchase price, provide evidence of additiona
 
 ---
 
-## 9. Lease
+## SECTION 35 – Lease
+
 
 ### 9.1 Tenure
 
@@ -711,7 +735,8 @@ If equity will not meet the target purchase price, provide evidence of additiona
 
 ---
 
-## 10. Lending into Retirement
+## SECTION 36 – Lending into Retirement
+
 
 ### 10.1 After / Approaching Retirement
 
@@ -727,14 +752,16 @@ If equity will not meet the target purchase price, provide evidence of additiona
 
 ---
 
-## 11. Let-to-Buy
+## SECTION 37 – Let-to-Buy
+
 
 * Can consider cases where the current residential home becomes a BTL and a new residential mortgage is required.
 * Expenditure for both properties must be included.
 
 ---
 
-## 12. Loan Purpose
+## SECTION 38 – Loan Purpose
+
 
 We lend for legal and genuine purposes.
 
@@ -752,14 +779,16 @@ For unusual cases, contact the lender.
 
 ---
 
-## 13. Location
+## SECTION 39 – Location
+
 
 * Lending available in England (including Isle of Wight), Wales, and Scotland (including Highlands & Islands).
 * Not available in Northern Ireland.
 
 ---
 
-## 14. Lump-Sum Payments (Overpayments)
+## SECTION 40 – Lump-Sum Payments (Overpayments)
+
 
 * Allowed after the first monthly payment is credited.
 * Fixed-rate products: up to 10% of mortgage balance per year without ERC.
@@ -772,7 +801,8 @@ For unusual cases, contact the lender.
 
 ---
 
-## 1. Maximum Age
+## SECTION 41 – Maximum Age
+
 
 New lending limits:
 
@@ -788,7 +818,8 @@ See also: Lending into retirement and Term guidance.
 
 ---
 
-## 2. Maximum LTV
+## SECTION 42 – Maximum LTV
+
 
 ### 2.1 By repayment type and loan size
 
@@ -831,27 +862,31 @@ Interest-Only (IO):
 
 ---
 
-## 3. Minimum and Maximum Loan Size
+## SECTION 43 – Minimum and Maximum Loan Size
+
 
 * Minimum total loan: £80,000
 * Maximum: subject to Maximum LTV rules and individual product limits
 
 ---
 
-## 4. Minimum Term
+## SECTION 44 – Minimum Term
+
 
 * Minimum term is 5 years (or the product term if longer)
 
 ---
 
-## 5. Mortgage-Free (Unencumbered) Property
+## SECTION 45 – Mortgage-Free (Unencumbered) Property
+
 
 * One free standard valuation where property value is £3 million or less
 * Customer’s solicitor must be on the Approved Legal Panel
 
 ---
 
-## 6. Neighbouring Land
+## SECTION 46 – Neighbouring Land
+
 
 A mortgage must also be taken over neighbouring land if either applies:
 
@@ -862,7 +897,8 @@ This does not apply where the applicant simply owns multiple flats in one buildi
 
 ---
 
-## 7. New Build — Rules and Limits
+## SECTION 47 – New Build — Rules and Limits
+
 
 ### 7.1 What counts as new build
 
@@ -886,7 +922,8 @@ Non-cash incentives (accepted without affecting loan): fixed/fitted items includ
 
 ---
 
-## 8. Newly Qualified Professional Product (NQP)
+## SECTION 48 – Newly Qualified Professional Product (NQP)
+
 
 * Available up to 95% LTV
 
@@ -906,7 +943,8 @@ Enhanced criteria:
 
 ---
 
-## 9. Offset Mortgages — Linked Accounts
+## SECTION 49 – Offset Mortgages — Linked Accounts
+
 
 Eligible: certain Virgin Money accounts (sort code starting 82).
 
@@ -939,7 +977,8 @@ Special cases:
 
 ---
 
-## 10. Portability
+## SECTION 50 – Portability
+
 
 All Clydesdale Bank mortgages are portable subject to new case meeting current policy.
 
@@ -959,7 +998,8 @@ Changing parties:
 
 ---
 
-## 11. Probationary Periods
+## SECTION 51 – Probationary Periods
+
 
 Acceptable if:
 
@@ -969,13 +1009,15 @@ Acceptable if:
 
 ---
 
-## 12. Procurement (Procuration) Fee
+## SECTION 52 – Procurement (Procuration) Fee
+
 
 * Paid according to broker’s contract with the Bank
 
 ---
 
-## 13. Product Fee
+## SECTION 53 – Product Fee
+
 
 * May be added to the loan provided total borrowing does not exceed:
 
@@ -986,7 +1028,8 @@ See Maximum LTV for full restrictions.
 
 ---
 
-## 14. Product Switching (Pipeline)
+## SECTION 54 – Product Switching (Pipeline)
+
 
 * Switch allowed on pipeline cases (any number of times) until Certificate of Title (COT) received
 * Use Change of Application Form
@@ -995,7 +1038,8 @@ See Maximum LTV for full restrictions.
 
 ---
 
-## 15. Product Transfer (PT)
+## SECTION 55 – Product Transfer (PT)
+
 
 * Can apply 180 days before fixed-rate expiry
 
@@ -1020,7 +1064,8 @@ Additional notes:
 
 ---
 
-## 16. Proof of Rental Payments
+## SECTION 56 – Proof of Rental Payments
+
 
 Option 1 – Bank statements:
 
@@ -1034,7 +1079,8 @@ Option 2 – Tenancy agreement:
 
 ---
 
-## 17. Professional
+## SECTION 57 – Professional
+
 
 We offer enhanced lending criteria for qualified professionals. This is separate from the Newly Qualified Professional (NQP) product.
 
@@ -1078,7 +1124,8 @@ For specific details on professional lending criteria and available products, pl
 
 ---
 
-## 18. Property — Acceptability and Construction
+## SECTION 58 – Property — Acceptability and Construction
+
 
 ### 18.1 Unacceptable property types (non-exhaustive)
 
@@ -1190,14 +1237,16 @@ Not accepted:
 
 ---
 
-## 19. References
+## SECTION 59 – References
+
 
 * All applications subject to credit search/score
 * Full or telephone references from employer or accountant may be requested
 
 ---
 
-## 20. Remortgage — Switching Package
+## SECTION 60 – Remortgage — Switching Package
+
 
 * Includes one free valuation (property ≤ £3m) and free basic legal work
 * For properties > £3m, borrower pays full valuation fee
@@ -1221,7 +1270,8 @@ Own solicitor:
 
 ---
 
-## 21. Repayment Strategies (Interest-Only)
+## SECTION 61 – Repayment Strategies (Interest-Only)
+
 
 * Full list in IO policy
 * Downsizing requires details of target property type, location, and expected purchase price.
@@ -1234,24 +1284,24 @@ For residential IO borrowing over £1.5m using downsizing:
 
 ---
 
-## 22. Residency
+## SECTION 62 – Residency
+
 
 * Applicants must be UK-resident with 3 consecutive years of UK address history
 * Non-UK/Irish nationals: see Foreign Nationals policy
 
 ---
 
-## 23. Right to Buy
+## SECTION 63 – Right to Buy
+
 
 * Not accepted
 
 ---
 
-# Residential Lending Criteria — Home S–Z
 
----
+## SECTION 64 – Second Jobs
 
-## Second Jobs
 
 We can use 100% of second-job income where:
 
@@ -1260,7 +1310,8 @@ We can use 100% of second-job income where:
 
 ---
 
-## Second Residential Properties (Second Homes)
+## SECTION 65 – Second Residential Properties (Second Homes)
+
 
 We can lend for a single second home (one in addition to the main residence) if both mortgages can be serviced entirely from salary, subject to standard credit assessment.
 
@@ -1272,13 +1323,15 @@ Conditions:
 
 ---
 
-## Self Build / Shared Ownership / Shared Equity
+## SECTION 66 – Self Build / Shared Ownership / Shared Equity
+
 
 * We do not lend on self build, shared ownership, or shared equity.
 
 ---
 
-## Self-Employed
+## SECTION 67 – Self-Employed
+
 
 ### Limited Company
 
@@ -1340,27 +1393,31 @@ Salaried members with no shareholding:
 
 ---
 
-## Solicitors
+## SECTION 68 – Solicitors
+
 
 * We use an approved panel of solicitors/licensed conveyancers for purchase and remortgage cases.
   See the Clydesdale Bank Approved Legal Panel page.
 
 ---
 
-## Telegraphic Transfer (TT)
+## SECTION 69 – Telegraphic Transfer (TT)
+
 
 * Advance funds are sent to the solicitor/conveyancer on completion.
 * A £40 TT fee is deducted from the loan at completion.
 
 ---
 
-## Tenancy Types
+## SECTION 70 – Tenancy Types
+
 
 * Assured Shorthold Tenancy (AST): minimum 6 months, maximum 12 months (including Scottish equivalents).
 
 ---
 
-## Term
+## SECTION 71 – Term
+
 
 * Minimum: 5 years
 * Maximum: 40 years
@@ -1368,7 +1425,8 @@ Salaried members with no shareholding:
 
 ---
 
-## Transcripts
+## SECTION 72 – Transcripts
+
 
 For residential purchase applications up to 95% LTV for properties in Scotland we accept a transcript of a Scottish Home Report (Single Survey) dated within the last 90 days from any of the following firms:
 
@@ -1378,7 +1436,8 @@ We do not charge a fee for a transcript. If the report is more than 90 days old 
 
 ---
 
-## Undervalue Transactions
+## SECTION 73 – Undervalue Transactions
+
 
 (Deed of Gift or purchase for less than full market value)
 
@@ -1393,13 +1452,13 @@ We do not charge a fee for a transcript. If the report is more than 90 days old 
 
 ---
 
-## Valuation Fees
+## SECTION 74 – Valuation Fees
 
-Valuation report
+### Valuation report
 
 The only valuation type available is a lender's valuation report which is for Clydesdale to calculate how much we can lend. This may involve a physical inspection of the property or be completed remotely without visiting the property. The customer may want to separately instruct a firm of their choosing to carry out a valuation or survey.
 
-Fees
+### Fees
 
 We offer a range of products with one free valuation for properties valued up to £3m. If the property is valued over £3m we'll cover the first £1,640 of the valuation fee. Our product details will make clear if a free valuation applies.
 
@@ -1407,31 +1466,46 @@ The fees below include VAT and an administration fee. The cost to Clydesdale may
 
 We may also charge a reinspection fee of £58.75 where a valuation expires and needs to be updated or where work has been carried out and the valuation needs to be updated.
 
-Valuation	Fee (£)
-Up to £100,000	124
-£100,001 - £150,000	139
-£150,001 - £200,000	163
-£200,001 - £250,000	181
-£250,001 - £300,000	200
-£300,001 - £350,000	216
-£350,001 - £400,000	229
-£400,001 - £450,000	249
-£450,001 - £500,000	272
-£500,001 - £600,000	312
-£600,001 - £700,000	357
-£700,001 - £800,000	401
-£800,001 - £900,000	445
-£900,001 - £1,000,000	488
-£1,000,001 - £1,250,000	681
-£1,250,001 - £1,500,000	775
-£1,500,001 - £1,750,000	828
-£1,750,001 - £2,000,000	880
-£2,000,001 - £2,250,000	1,276
-£2,250,001 - £2,500,000	1,398
-£2,500,001 - £2,750,000	1,519
-£2,750,001 - £3,000,000	1,640
-£3,000,001 - £3,500,000	1,883
-£3,500,001 - £4,000,000	2,005
-£4,000,001 - £4,500,000	2,126
-£4,500,001 - £5,000,000	2,247
-Over £5,000,000	Quoted individually
+
+### Valuation fee bands
+
+* Up to £100,000: £124
+* £100,001 - £150,000: £139
+* £150,001 - £200,000: £163
+* £200,001 - £250,000: £181
+* £250,001 - £300,000: £200
+* £300,001 - £350,000: £216
+* £350,001 - £400,000: £229
+* £400,001 - £450,000: £249
+* £450,001 - £500,000: £272
+* £500,001 - £600,000: £312
+* £600,001 - £700,000: £357
+* £700,001 - £800,000: £401
+* £800,001 - £900,000: £445
+* £900,001 - £1,000,000: £488
+* £1,000,001 - £1,250,000: £681
+* £1,250,001 - £1,500,000: £775
+* £1,500,001 - £1,750,000: £828
+* £1,750,001 - £2,000,000: £880
+* £2,000,001 - £2,250,000: £1276
+* £2,250,001 - £2,500,000: £1398
+* £2,500,001 - £2,750,000: £1519
+* £2,750,001 - £3,000,000: £1640
+* £3,000,001 - £3,500,000: £1883
+* £3,500,001 - £4,000,000: £2005
+* £4,000,001 - £4,500,000: £2126
+* £4,500,001 - £5,000,000: £2247
+* Over £5,000,000: Quoted individually
+
+---
+
+## SECTION 75 – CONTACT
+
+* **Existing Applications Helpline:** 0800 917 8363 (Monday–Friday 9:00–17:00; Wednesday 9:30–17:00)
+* **Valuation Panel Manager (Esurv):** 0800 1699661
+* **Mortgage Services Team:** 0800 121 4203
+* **Email:** Existing.Customer.Support@cybg.com
+
+---
+
+*END OF DOCUMENT*

@@ -1,822 +1,616 @@
-LENDER NAME: Buckinghamshire Building Society
-PRODUCT: Buy to Let
+# BUCKINGHAMSHIRE BUILDING SOCIETY – BUY TO LET CRITERIA
 
-BUCKINGHAMSHIRE BUILDING SOCIETY - BUY-TO-LET CRITERIA (COMPLETE)
-================================================================================
+---
 
-Extracted on: 2025-09-09 19:05:47
-Source: https://www.bucksbs.co.uk/intermediaries/criteria/buy-to-let/
-Total sections: 15
-Total criteria items: 111
+**LENDER:** Buckinghamshire Building Society
+**PRODUCT:** Buy to Let
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 2025
+**FOR INTERMEDIARY USE ONLY**
 
-OVERVIEW
-----------------------------------------
-This file contains the complete buy-to-let criteria for Buckinghamshire Building Society.
-Each section includes detailed criteria information extracted from the website.
+**Source:** [https://www.bucksbs.co.uk/intermediaries/criteria/buy-to-let/](https://www.bucksbs.co.uk/intermediaries/criteria/buy-to-let/)
 
-CONTACT INFORMATION
-----------------------------------------
-Phone: 01494 879500
-Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
-Saturday 9.15am to 12.00pm
-Sunday CLOSED
+---
 
-SECTIONS INCLUDED
-----------------------------------------
-1. Adverse Credit (13 criteria items)
-2. Applicant Eligibility (10 criteria items)
-3. New Build (18 criteria items)
-4. Property Eligibility (1 criteria items)
-5. Other (6 criteria items)
-6. Credit Commitments (6 criteria items)
-7. Deposit (6 criteria items)
-8. Employment (15 criteria items)
-9. ExPats (11 criteria items)
-10. Income & Affordability (11 criteria items)
-11. Interest Only (12 criteria items)
-12. Jbsp (3 criteria items)
-13. Lending Schemes (6 criteria items)
-14. Mortgage Features (4 criteria items)
-15. Portfolio Landlords (1 criteria items)
+## SECTION 1 – ADVERSE CREDIT
 
+### Bankruptcy / Sequestration
 
-================================================================================
-SECTION 1: ADVERSE CREDIT
-URL: https://www.bucksbs.co.uk/intermediaries/criteria/buy-to-let/adverse-credit/
-Criteria Items: 13
-================================================================================
+* Everyday BTL criteria: Must be satisfied / discharged for 5 years with no adverse since.
 
-# Adverse Credit
+### County Court Judgements (CCJs)
 
-## Bankruptcy / Sequestration
+* Everyday Residential: Applicants with CCJs of up to £100 outstanding in total in the last 3 years may be considered (none registered in the last year). All CCJ's must be satisfied on application.
 
-Everyday BTL criteria: Satisfied / discharged for 5 years with no adverse since
+### CCJs – Parking Fines
 
-## County Court Judgements (CCJs)
+* Everyday BTL Criteria: Up to £500.
 
-Everyday Residential: Applicants with CCJs of up to £100 outstanding in total in the last 3 years may be considered (none registered in the last year). All CCJ's must be satisfied on application.
+### Debt Management Plan (DMP)
 
-## CCJs: Parking Fines
+* For Everyday BTL products, we may consider lending if the DMP was not registered in the last 3 years.
 
-Everyday BTL Criteria: Up to £500
+### Debt Relief Order (DRO)
 
-## Debt Management Plan (DMP)
+* Everyday BTL criteria: Satisfied / discharged for 5 years with no adverse since.
+* The client should have had no further adverse since the DRO.
+* For an application of this type the deposit will need to be evidenced from the clients own funds.
+* If deposit is to be gifted, please refer to your Key Account Manager.
 
-For Everyday BTL products, we may consider lending if the DMP was not registered in the last 3 years.
+### Defaults – HP, Credit Card & Unsecured Loan Arrears
 
-## Debt Relief Order (DRO)
+* For Everyday BTL products, we require applicants to have no missed credit card or unsecured loan payments in the last 2 years.
 
-Everyday BTL criteria: Satisfied / discharged for 5 years with no adverse since The client should have had no further adverse since the DRO. For an application of this type the deposit will need to be evidenced from the clients own funds. If deposit is to be gifted, please refer to your Key Account Manager.
+### Defaults – Utilities & Communications
 
-## Defaults: HP, Credit Card & Unsecured Loan Arrears
+* For Standard BTL products, applicants with defaults of up to £250 registered in the last 2 years.
+* Defaults to be satisfied by the date of application.
 
-For Everyday BTL products, we require applicants to have no missed credit card or unsecured loan payments in the last 2 years.
+### Individual Voluntary Arrangement (IVA)
 
-## Defaults: Utilities & Communications
+* For Everyday BTL products, the IVA must have been satisfied for over 5 years with no adverse credit since.
 
-For Standard BTL products, applicants with defaults of up to £250 registered in the last 2 years. Defaults to be satisfied by the date of application.
+### Missed Payments – Utilities & Communications
 
-## Individual Voluntary Agreement (IVA)
+* We will consider applications involving missed or late payments on utility bills and communications accounts providing that these accounts haven't defaulted.
+* If the account is in default, please see our default criteria.
 
-For Everyday BTL products, the IVA must have been satisfied for over 5 years with no adverse credit since.
+### Missed Payments – Mail Order
 
-## Missed Payments: Utilities & Communications
+* For our Everyday BTL criteria, we allow a Status 2 missed payment in the last 2 years.
 
-We will consider applications involving missed or late payments on utility bills and communications accounts providing that these accounts haven't defaulted. If the account is in default, please see our default criteria.
+### Mortgage Arrears
 
-## Missed Payments: Mail Order
+* For Everyday BTL products, we require applicants to have no missed payments in the last 2 years.
 
-For our Everyday BTL criteria, we allow a Status 2 missed payment in the last 2 years.
+### Rent Arrears
 
-## Mortgage Arrears
+* We will consider applications that involve rent arrears, provided that there is justifiable reasons.
 
-For Everyday BTL products, we require applicants to have no missed payments in the last 2 years.
+### Repossession
 
-## Rent Arrears
+* Applications will not be accepted where either applicant has previously had a property repossessed.
 
-We will consider applications that involve rent arrears, provided that there is justifiable reasons.
+---
 
-## Repossession
+## SECTION 2 – APPLICANT ELIGIBILITY
 
-Applications will not be accepted where either applicant has previously had a property repossessed.
+### Age at Application
 
+* The minimum age at application is 21 years old.
+* There is no maximum age, but individual circumstances will be taken into account to ensure affordability.
 
-## Contact Information
+### Age at End of Term
 
-Phone: 01494 879500
+* There is no maximum age, but individual circumstances will be taken into account to ensure affordability.
+* We will consider active working income up to the age of 75 with no need to provide proof of a pension.
+* Beyond this we require proof of retirement income.
 
-Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+### Criminal Record & Convictions
 
-Saturday 9.15am to 12.00pm
+* The Society will not consider applications where a conviction exists, unless it has been spent under the Rehabilitation of Offenders Act 1974.
+* Similarly, the Society will not consider any applicant convicted of a financial crime or fraud or any similar actual or pending conviction.
 
-Sunday CLOSED
+### Existing Mortgage Customers
 
+* We have a specific range of retention products for existing mortgage customers. Please speak to your Key Account Manager for more information.
 
+### First Time Buyer
 
-================================================================================
-SECTION 2: APPLICANT ELIGIBILITY
-URL: https://www.bucksbs.co.uk/intermediaries/criteria/buy-to-let/applicant-eligibility/
-Criteria Items: 10
-================================================================================
+* We can accept a BTL application where the client is not a residential homeowner, however we will assess this based on residential affordability.
 
-# Applicant Eligibility
+### First Time Landlord
 
-## Age at Application
+* We will consider applications from first time landlords.
 
-The minimum age at application is 21 years old. There is no maximum age, but individual circumstances will be taken into account to ensure affordability.
+### Limited Companies
 
-## Age at End of Term
+* We will lend to limited companies.
+* All directors and shareholders need to be on the application (maximum of 4) and all need to be owner occupiers of another property.
+* The limited company must be an SPV with a relevant SIC code: 68100 (buying and selling of own real estate) 68209 (other letting and operating of own or leased real estate) 68320 (management of real estate on a fee or contract basis).
 
-There is no maximum age, but individual circumstances will be taken into account to ensure affordability. We will consider active working income up to the age of 75 with no need to provide proof of a pension. Beyond this we require proof of retirement income.
+### Maximum Number of Applicants
 
-## Criminal Record & Convictions
+* We will consider a maximum of 4 applicants.
 
-The Society will not consider applications where a conviction exists, unless it has been spent under the Rehabilitation of Offenders Act 1974. Similarly, the Society will not consider any applicant convicted of a financial crime or fraud or any similar actual or pending conviction.
+### Residency
 
-## Existing Mortgage Customers
+* For British Citizens that have permanent right to reside in the UK, there is no minimum period of residency in the UK prior to application.
+* For example, no minimum time for returning ExPats to the UK.
+* There may be an LTV restriction for recently returning ExPats, please discuss with your Key Account Manager.
+* Applicants with Settled Status under the EU Settlement Scheme are treated as having indefinite leave to remain.
+* Applicants with Pre-Settled, Spousal, Work or Skilled Visa Status can be considered under the following conditions: Applicants must be able to demonstrate that they have lived and worked in the UK for 2-3 years. Evidence of status to be provided in the form of the email certificate provided by the home office. Must be standard credit. Must have demonstrable evidence that the whole deposit has been saved i.e. no gifted deposit or undeclared income. The visa MUST state that they are permitted to work in the UK.
 
-We have a specific range of retention products for existing mortgage customers. Please speak to your Key Account Manager for more information.
+### Trusts & Trustees
 
-## First Time Buyer
+* We do not accept applications from Trusts or Trustees.
 
-We can accept a BTL application where the client is not a residential homeowner, however we will assess this based on residential affordability.
+---
 
-## First Time Landlord
+## SECTION 3 – NEW BUILD & PROPERTY SPECIFICS
 
-We will consider applications from first time landlords.
+### Agricultural Ties
 
-## Limited Companies
+* Properties with agricultural restrictive covenants are assessed on a case-by-case basis. Please discuss with you Key Account Manager before submitting an application.
 
-We will lend to limited companies. All directors and shareholders need to be on the application (maximum of 4) and all need to be owner occupiers of another property. The limited company must be an SPV with a relevant SIC code: 68100 (buying and selling of own real estate) 68209 (other letting and operating of own or leased real estate) 68320 (management of real estate on a fee or contract basis)
+### Auction Purchases
 
-## Maximum Number of Applicants
+* We will accept applications for auction purchases and also consider day one remortgages.
 
-We will consider a maximum of 4 applicants.
+### Energy Performance Certificate (EPC)
 
-## Residency
+* All BTL properties require an EPC rating between A and E.
+* We will not lend on properties with an EPC rating of F and G.
 
-For British Citizens that have permanent right to reside in the UK, there is no minimum period of residency in the UK prior to application. For example, no minimum time for returning ExPats to the UK. There may be an LTV restriction for recently returning ExPats, please discuss with your Key Account Manager. Applicants with Settled Status under the EU Settlement Scheme are treated as having indefinite leave to remain. Applicants with Pre-Settled, Spousal, Work or Skilled Visa Status can be considered under the following conditions: Applicants must be able to demonstrate that they have lived and worked in the UK for 2-3 years. Evidence of status to be provided in the form of the email certificate provided by the home office. Must be standard credit. Must have demonstrable evidence that the whole deposit has been saved i.e. no gifted deposit or undeclared income. The visa MUST state that they are permitted to work in the UK.
+### Ex-Local Authority Properties
 
-## Trusts & Trustees
+* We accept applications for ex-local authority houses and flats.
+* Ex-local authority flats must be a maximum of 4 storeys.
 
-We do not accept applications from Trusts or Trustees.
+### Flats Above Commercial
 
+* Apartments in a city or town centre location that are in prime locations, readily marketable are likely to be acceptable.
+* However, above a commercial / retail in secondary positions e.g. just outside a city or town centre or above a suburban shopping parade are unlikely to be acceptable, nor those above a commercial/retail usage which could limit demand / saleability due to noise, cooking odours or unsociable trading hours (for example hot food takeaway, cafe, off licence, dry cleaners etc...)
+* To be acceptable, the block must be at least 3 stories tall including the commercial unit at the ground floor level.
+* In every case the Valuer should confirm that there is constant and reliable demand for such properties.
 
-## Contact Information
+### Flats – Number of Floors
 
-Phone: 01494 879500
+* Please note we cannot lend on blocks with more than 6 storeys (or 4 storeys if Ex-Local Authority).
 
-Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+### Flat Roofs
 
-Saturday 9.15am to 12.00pm
+* Properties with flat roofs are considered on an individual basis and so require the valuer to advise on the impact on security, property resale ability, additional maintenance costs of flat mineral felt covered roofs and the limited life expectancy of certain covering materials.
+* If this covers more than 10% of the total roof area, refer to you Key Account Manager before submitting an application.
 
-Sunday CLOSED
+### Freehold Flats
 
+* We will not accept applications for freehold flats.
 
+### Garden / Basement Flats
 
-================================================================================
-SECTION 3: NEW BUILD
-URL: https://www.bucksbs.co.uk/intermediaries/criteria/buy-to-let/new-build/
-Criteria Items: 18
-================================================================================
+* Garden / basement flats may be considered where there are adequate levels of natural ventilation and light together with a reliable and constant demand in locality.
 
-# New Build
+### Ground Rent
 
-## Agricultural Ties
+* Typically we may not lend if escalation exceeds RPI or if initial charges exceed £1,000 per year in London or £250 outside of London.
 
-Properties with agricultural restrictive covenants are assessed on a case-by-case basis. Please discuss with you Key Account Manager before submitting an application.
+### Holiday Lets
 
-## Auction Purchases
+* Holiday let mortgage products are available for properties across England and Wales, located either in coastal areas or National Parks.
+* Properties must be ready to let for at least 140 days of the year and can be held in either a personal name or Limited Company SPV.
 
-We will accept applications for auction purchases and also consider day one remortgages.
+### Japanese Knotweed
 
-## Energy Performance Certificate (EPC)
+* If Japanese Knotweed is noted, valuers MUST advise which category the plant falls into.
+* In case of Category 3 and 4, reports will be required with the recommendation that a contractor is used that is a member of the Property Care Association (PCA), or the Invasive Non-Native Specialist Association (INNSA).
+* A full report and detailed treatment plan will be required an a full retention will be held until the first part of the treatment programme has been undertaken.
 
-All BTL properties require an EPC rating between A and E. We will not lend on properties with an EPC rating of F and G.
+### Leasehold Term
 
-## Ex-Local Authority Properties
+* The Society requires a minimum unexpired period of 85 years at the time of purchase and at least 50 years unexpired lease remaining after the expected redemption date.
+* We may consider a shorter period if the lease is being extended simultaneously with the mortgage application.
 
-We accept applications for ex-local authority houses and flats. Ex-local authority flats must be a maximum of 4 storeys.
+### Non-Standard Construction
 
-## Flats Above Commercial
+* The Society require the valuer to advise on the impact on the security, property resale ability, additional maintenance costs and insurance implications in order to inform the underwriting decision.
+* Please refer to your Key Account Manager with details of the property before submitting an application.
 
-Apartments in a city or town centre location that are in prime locations, readily marketable are likely to be acceptable. However, above a commercial / retail in secondary positions e.g. just outside a city or town centre or above a suburban shopping parade are unlikely to be acceptable, nor those above a commercial/retail usage which could limit demand / saleability due to noise, cooking odours or unsociable trading hours (for example hot food takeaway, cafe, off licence, dry cleaners etc...) To be acceptable, the block must be at least 3 stories tall including the commercial unit at the ground floor level. In every case the Valuer should confirm that there is constant and reliable demand for such properties.
+### Purchase Adjoining Property
 
-## Flats - Number of Floors
+* We will consider an application to purchase an adjoining property. Please refer to your Key Account Manager before submitting an application.
 
-Please note we cannot lend on blocks with more than 6 storeys ( or 4 storeys if Ex-Local Authority)
+### Restrictive Covenant
 
-## Flat Roofs
+* We may be able to consider an application for a property where there is a Restrictive Covenant. Please contact your Key Account Manager to discuss.
 
-Properties with flat roofs are considered on an individual basis and so require the valuer to advise on the impact on security, property resale ability, additional maintenance costs of flat mineral felt covered roofs and the limited life expectancy of certain covering materials. If this covers more than 10% of the total roof area, refer to you Key Account Manager before submitting an application.
+### Solar Panels
 
-## Freehold Flats
+* We will consider an application where solar panels are present. Please discuss with your Key Account Manager before submitting an application.
 
-We will not accept applications for freehold flats.
+### Studio Apartments
 
-## Garden / Basement Flats
+* All flats/apartments including Studios must have a minimum SQM of 35.
 
-Garden / basement flats may be considered where there are adequate levels of natural ventilation and light together with a reliable and constant demand in locality.
+---
 
-## Ground Rent
+## SECTION 4 – PROPERTY ELIGIBILITY
 
-Typically we may not lend if escalation exceeds RPI or if initial charges exceed £1,000 per year in London or £250 outside of London.
+* Properties must meet standard lending criteria including being habitable, readily lettable or saleable, and structurally sound.
+* All properties must be suitable for buy-to-let purposes and meet the Society's valuation requirements.
+* Note: For specific property type criteria, please refer to the New Build section and other relevant sections throughout this document.
 
-## Holiday Lets
+---
 
-Holiday let mortgage products are available for properties across England and Wales, located either in coastal areas or National Parks. Properties must be ready to let for at least 140 days of the year and can be held in either a personal name or Limited Company SPV.
+## SECTION 5 – CREDIT COMMITMENTS
 
-## Japanese Knotweed
+### Additional Mortgages in the Background
 
-If Japanese Knotweed is noted, valuers MUST advise which category the plant falls into. In case of Category 3 and 4, reports will be required with the recommendation that a contractor is used that is a member of the Property Care Association (PCA), or the Invasive Non-Native Specialist Association (INNSA). A full report and detailed treatment plan will be required an a full retention will be held until the first part of the treatment programme has been undertaken.
+* Additional mortgages in the background are acceptable but we will not lend if there are more than 3 BTL or Holiday Let properties which have a mortgage on them.
 
-## Leasehold Term
+### Commitments to be Repaid on Completion
 
-The Society requires a minimum unexpired period of 85 years at the time of purchase and at least 50 years unexpired lease remaining after the expected redemption date. We may consider a shorter period if the lease is being extended simultaneously with the mortgage application.
+* We may be able to disregard credit commitments that are going to be repaid on completion, although we will require evidence of repayment.
 
-## Non-Standard Construction
+### Commitments < 3 Months Remaining
 
-The Society require the valuer to advise on the impact on the security, property resale ability, additional maintenance costs and insurance implications in order to inform the underwriting decision. Please refer to your Key Account Manager with details of the property before submitting an application.
+* Where a credit commitment has less than 3 months to run, it may be ignored.
 
-## Purchase Adjoining Property
+### Credit Card Balances
 
-We will consider an application to purchase an adjoining property. Please refer to your Key Account Manager before submitting an application.
+* Credit and store cards should be deducted based on minimum acceptable payments (but not less than 3%) using the balance outstanding at the time of application.
 
-## Restrictive Covenant
+### Overdraft Conduct
 
-We may be able to consider an application for a property where there is a Restrictive Covenant. Please contact your Key Account Manager to discuss.
+* Use of an authorised overdraft is fine.
+* If an applicant has had unauthorised overdraft issues, please speak to your Key Account Manager to discuss.
 
-## Solar Panels
+### Pay Day Loans
 
-We will consider an application where solar panels are present. Please discuss with your Key Account Manager before submitting an application.
+* Everyday BTL: Maximum of 1 pay day loan in the last 2 years.
 
-## Studio Apartments
+---
 
-All flats/apartments including Studios must have a minimum SQM of 35
+## SECTION 6 – DEPOSIT
 
+### Minimum Property Value
 
-## Contact Information
+* We have a minimum property value of £75,000.
 
-Phone: 01494 879500
+### Minimum Loan Amount
 
-Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+* The minimum loan amount is £50,000. (The maximum loan amount is dependant on the product chosen.)
 
-Saturday 9.15am to 12.00pm
+### Concessionary Purchase
 
-Sunday CLOSED
+* Applications for a concessionary purchase will be assessed on a case-by-case basis. Please contact your Key Account Manager for more information.
 
+### Deposit from a Limited Company
 
+* We can accept deposits with dividends drawn from a limited company by Director/s applicant/s (100% shareholder/s), however, we cannot accept deposits transferred directly from other companies (intercompany loans).
 
-================================================================================
-SECTION 4: PROPERTY ELIGIBILITY
-URL: https://www.bucksbs.co.uk/intermediaries/criteria/buy-to-let/property-eligibility/
-Criteria Items: 1
-================================================================================
+### Deposit from Outside of the UK
 
-# Property Eligibility
+* We don't currently consider deposits originating from outside of the UK.
 
-## General Property Requirements
+### Family Gifted Deposit
 
-Properties must meet standard lending criteria including being habitable, readily lettable or saleable, and structurally sound. All properties must be suitable for buy-to-let purposes and meet the Society's valuation requirements.
+* The Society will accept Gifted Deposits.
+* In all cases, the Donor should have a direct link to the borrower, with acceptable options as follows: Children, Parents / Step-parents, Grandparents, Aunts & Uncles, Siblings.
+* This must be a true gift where the giver has no right over the property and the amount isn't expected to be repaid.
 
-Note: For specific property type criteria, please refer to the New Build section and other relevant sections throughout this document.
+### Proof of Deposit
 
+* We will require evidence of the source of any deposit, including an explanation of how the deposit was accumulated (for example, bank statements showing regular deposits).
 
-## Contact Information
+### Vendor Gifted Deposit
 
-Phone: 01494 879500
+* We will consider a vendor gifted deposit up to 10%, please contact your Key Account Manager for more details.
 
-Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+---
 
-Saturday 9.15am to 12.00pm
+## SECTION 7 – EMPLOYMENT
 
-Sunday CLOSED
+### Agency Workers
 
+* If one applicant has a full time PAYE income, we can use up to 50% of zero hours / agency income from applicant two, as verified by bank statements or tax returns over the last 12 months.
 
+### Cabin Crew
 
-================================================================================
-SECTION 5: OTHER
-URL: https://www.bucksbs.co.uk/intermediaries/criteria/buy-to-let/other/
-Criteria Items: 6
-================================================================================
+* We accept applications from airline cabin crew / flight attendants.
 
-# Other
+### CIS Workers
 
-## Back to Back Purchase
+* New Contractors CIS (up to 18 months) would be classed as employed.
+* Require minimum of 6 months in current role which must be in the construction industry.
+* Income is calculated using the last 3 months pay slips & P60 if available.
+* Net income from salary slips must show in the bank statement.
+* If they are paid in cash we cannot consider.
+* If the applicant has been contracting for more than 18 months then we would confirm their income from the SA302s. If you are wanting to use payslips, please refer to your Key Account Manager. Generally this would only be considered if there had been a change in employment to a higher salary.
 
-We will consider an application from an applicant purchasing a property that the current vendor has owned for less than 6 months. We will also consider a day one remortgage.
+### Contract Workers
 
-## Credit Referencing Agency
+* Applicant must have been contracting for at least 7 months with at least one contract renewed (or second contract in place).
 
-We generally use TransUnion and Experian.
+### Family Business
 
-## Credit Report Footprint
+* If an applicant currently works for their family business, please refer to your Key Account Manager to discuss.
 
-At Decision in Principle (DIP) stage we leave a soft footprint on your credit file.
+### Nursing Bank Staff
 
-## Credit Search or Credit Score
+* We accept applications from nursing bank staff. Please discuss with your Key Account Manager to clarify if we would be able to use 50% or 100% as that is dependant on a number of additional factors.
 
-We manually underwrite all of our cases and undertake credit searches, a credit score isn't used.
+### Pending Future Employment
 
-## Solicitors
+* An application can be made with a copy of the contract, however we would need to see at least one payslip and bank statement showing the salary credit before completion.
+* Any probationary period would also need to be passed. These would be a condition of the offer.
+* We would also need to understand previous employment history to ensure we have the 12 months continuous employment required, otherwise we would need to wait until the applicant had completed three months in the new role.
 
-We use LMS Panel Management, All solicitors need to be approved by LMS.
+### Probationary Period
 
-## Valuation Company
+* An application can be made during the probationary period, however any probationary period would also need to be passed before completion.
 
-We use Gateway.
+### Professional Sports People
 
+* We may be able to consider an application from a professional sports person. Please discuss with your Key Account Manager before submitting an application.
 
-## Contact Information
+### Self Employed
 
-Phone: 01494 879500
+* For self employed applicants (or directors with at least 20% shareholding), we will use the average income as evidenced by the last 2 years accounts.
+* Consideration will be given to trends and health of the business.
 
-Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+### Short Term Renewable Contracts
 
-Saturday 9.15am to 12.00pm
+* Short term renewable contracts are considered where the applicant has a history of such contracts in the same line of work.
 
-Sunday CLOSED
+### Subcontractors
 
+* We accept applications from Subcontractors.
 
+### Temporary Work
 
-================================================================================
-SECTION 6: CREDIT COMMITMENTS
-URL: https://www.bucksbs.co.uk/intermediaries/criteria/buy-to-let/credit-commitments/
-Criteria Items: 6
-================================================================================
+* Can be considered if the work has been undertaken for a period of 12 months or more prior to mortgage application.
 
-# Credit Commitments
+### Umbrella Companies
 
-## Additional Mortgages in the Background
+* Applications are accepted from self employed applicants who work under an umbrella company.
 
-Additional mortgages in the background are acceptable but we will not lend if there are more than 3 BTL or Holiday Let properties which have a mortgage on them.
+### Zero Hours Contracts
 
-## Commitments to be Repaid on Completion
+* If one applicant has a full time PAYE income, we can use up to 50% of zero hours / agency income from applicant two, as verified by bank statements or tax returns over the last 12 months.
 
-We may be able to disregard credit commitments that are going to be repaid on completion, although we will require evidence of repayment.
+---
 
-## Commitments < 3 Months Remaining
+## SECTION 8 – EXPATS
 
-Where a credit commitment has less than 3 months to run, it may be ignored.
+### Acceptable Countries
 
-## Credit Card Balances
+* Middle East United Arab Emirates and Qatar.
+* Americas Bahamas, Barbados, Canada, Chile, Costa Rica, Uruguay and USA.
+* Asia Bhutan, Japan, Malaysia, Singapore, South Korea and Taiwan.
+* Australasia Australia and New Zealand.
+* Africa Botswana, Mauritius, Namibia and Seychelles.
+* For any other country, please contact us.
 
-Credit and store cards should be deducted based on minimum acceptable payments (but not less than 3%) using the balance outstanding at the time of application.
+### Adverse Credit
 
-## Overdraft Conduct
+* Minor adverse credit can be considered for ExPat applications. The case must fit either our Standard or Bucks Solutions 1 credit criteria, depending on product selected.
 
-Use of an authorised overdraft is fine. If an applicant has had unauthorised overdraft issues, please speak to your Key Account Manager to discuss.
+### Age at Application
 
-## Pay Day Loans
+* The minimum age at application is 21 years old.
+* There is no maximum age, but individual circumstances will be taken into account to ensure affordability.
 
-Everyday BTL: Maximum of 1 pay day loan in the last 2 years.
+### Age at End of Term
 
+* There is no maximum age, but individual circumstances will be taken into account to ensure affordability.
+* We will only consider active working income up to the age of 75 with no need to pension proof, crossing beyond this we look for retirement income.
 
-## Contact Information
+### British Virgin Islands
 
-Phone: 01494 879500
+* We do not currently accept applications from ExPats residing in the British Virgin Islands or UK companies registered in the British Virgin Islands.
 
-Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+### Consumer Buy to Let
 
-Saturday 9.15am to 12.00pm
+* We do accept Consumer BTL applications from ExPats. These cases are assessed on rental calculation, not affordability.
 
-Sunday CLOSED
+### First Time Buyers
 
+* We will accept applications from ExPats who are first time buyers.
 
+### First Time Landlords
 
-================================================================================
-SECTION 7: DEPOSIT
-URL: https://www.bucksbs.co.uk/intermediaries/criteria/buy-to-let/deposit/
-Criteria Items: 6
-================================================================================
+* We will accept applications from ExPats who are first time landlords.
 
-# Deposit
+### Loan Amount
 
-## Concessionary Purchase
+* The minimum loan amount is £50,000.
+* The maximum loan amount is dependant on the product chosen.
 
-Applications for a concessionary purchase will be assessed on a case-by-case basis. Please contact your Key Account Manager for more information.
+### PO Box Addresses
 
-## Deposit from a Limited Company
+* We will accept a PO Box Address from ExPat applicants.
 
-We can accept deposits with dividends drawn from a limited company by Director/s applicant/s (100% shareholder/s), however, we cannot accept deposits transferred directly from other companies (intercompany loans).
+### Regulated Buy to Let
 
-## Deposit from Outside of the UK
+* We do not accept applications for ExPat Regulated Buy to Let mortgages.
 
-We don't currently consider deposits originating from outside of the UK.
+---
 
-## Family Gifted Deposit
+## SECTION 9 – INCOME & AFFORDABILITY
 
-The Society will accept Gifted Deposits. In all cases, the Donor should have a direct link to the borrower, with acceptable options as follows: Children, Parents / Step-parents, Grandparents, Aunts & Uncles, Siblings. This must be a true gift where the giver has no right over the property and the amount isn't expected to be repaid.
+### Rental Income Coverage
 
-## Proof of Deposit
+* Buy-to-let applications are primarily assessed based on rental income coverage rather than personal income affordability.
+* The rental income must be sufficient to cover the mortgage payments at the required stress rate.
 
-We will require evidence of the source of any deposit, including an explanation of how the deposit was accumulated (for example, bank statements showing regular deposits).
+### Minimum Income Requirements
 
-## Vendor Gifted Deposit
+* For standard buy-to-let applications, there is typically no minimum personal income requirement as the assessment is based on rental income.
+* However, personal income may be considered as part of the overall assessment to ensure applicants can meet their personal commitments.
 
-We will consider a vendor gifted deposit up to 10%, please contact your Key Account Manager for more details.
+### Income Assessment
 
+* Personal income may be assessed to ensure applicants can afford their personal commitments and that the lending decision is sustainable.
+* This helps ensure applicants can cover mortgage payments if the tenant stops paying or the property needs maintenance or repairs.
 
-## Contact Information
+### Rental Cover Calculation
 
-Phone: 01494 879500
+* The Society uses rental cover ratios and stress rates to assess lending amounts.
+* The rental income must exceed the mortgage payment at the stressed rate to provide a buffer for the situations mentioned above.
 
-Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+### Tax Considerations
 
-Saturday 9.15am to 12.00pm
+* The Society will take into account the additional cost of increased tax liability for landlords where applicable, particularly in relation to finance costs and rental income taxation.
 
-Sunday CLOSED
+### Affordability for Different Applicant Types
 
+* Standard Buy to Let: Assessment based primarily on rental income coverage.
+* Consumer Buy to Let: Assessment based on affordability rather than standard BTL rental calculations (see JBSP section).
+* ExPats: See ExPats section for specific ExPat income and affordability criteria.
+* Portfolio Landlords: See Portfolio Landlords section for specific criteria.
 
+### Income Evidence
 
-================================================================================
-SECTION 8: EMPLOYMENT
-URL: https://www.bucksbs.co.uk/intermediaries/criteria/buy-to-let/employment/
-Criteria Items: 15
-================================================================================
+* All income sources must be evidenced appropriately.
+* For details on acceptable income types and evidence requirements, please refer to the Employment section and Interest Only section.
 
-# Employment
+---
 
-## Agency Workers
+## SECTION 10 – INTEREST ONLY & INCOME TYPES
 
-If one applicant has a full time PAYE income, we can use up to 50% of zero hours / agency income from applicant two, as verified by bank statements or tax returns over the last 12 months.
+### Maximum Term
 
-## Cabin Crew
+* The maximum term available is 40 years. This is the same for full repayment, interest only and part and part.
 
-We accept applications from airline cabin crew / flight attendants
+### Minimum Income
 
-## CIS Workers
+* For mortgages up to 75% LTV we require a minimum income of £25,000.
+* For ExPat BTL applications, we require a minimum income equivalent to £25,000 sterling.
+* For Holiday Let and ExPat Holiday Let applications, we require a minimum income of, or equivalent to, £30,000 sterling.
 
-New Contractors CIS (up to 18 months) would be classed as employed. Require minimum of 6 months in current role which must be in the construction industry Income is calculated using the last 3 months pay slips & P60 if available. Net income from salary slips must show in the bank statement If they are paid in cash we cannot consider If the applicant has been contracting for more than 18 months then we would confirm their income from the SA302s. If you are wanting to use payslips, please refer to your Key Account Manager. Generally this would only be considered if there had been a change in employment to a higher salary.
+### Benefits
 
-## Contract Workers
+* Income from benefits will be assessed on a case-by-case basis. We only accept benefits that are to be received for life and received by the applicant (not for a dependent). For more information, please discuss with your Key Account Manager.
 
-Applicant must have been contracting for at least 7 months with at least one contract renewed (or second contract in place).
+### Bonus
 
-## Family Business
+* 50% of bonus received in the last year can be used in the affordability assessment (underwriter has discretion to use a higher proportion of average bonus if there is a long term track record).
 
-If an applicant currently works for their family business, please refer to your Key Account Manager to discuss.
+### Car Allowance
 
-## Nursing Bank Staff
+* Up to 100% of allowance can be considered subject to proof that it's a regular source of income.
 
-We accept applications from nursing bank staff. Please discuss with your Key Account Manager to clarify if we would be able to use 50% or 100% as that is dependant on a number of additional factors.
+### Overtime
 
-## Pending Future Employment
+* Commission and overtime can be considered up to 100% subject to the length of time in role, occupation and must be able to demonstrate a consistent track record of receiving commission or overtime. Please consult your Key Account Manager for further clarification or guidance applicable to your situation.
 
-An application can be made with a copy of the contract, however we would need to see at least one payslip and bank statement showing the salary credit before completion. Any probationary period would also need to be passed. These would be a condition of the offer We would also need to understand previous employment history to ensure we have the 12 months continuous employment required, otherwise we would need to wait until the applicant had completed three months in the new role.
+### Other Income
 
-## Probationary Period
+* Please refer any unusual income sources to your Key Account Manager before submitting an application.
 
-An application can be made during the probationary period, however any probationary period would also need to be passed before completion.
+### Private Pension
 
-## Professional Sports People
+* We can accept 100% of private pension income for affordability purposes.
 
-We may be able to consider an application from a professional sports person. Please discuss with your Key Account Manager before submitting an application.
+### Rental Income
 
-## Self Employed
+* The underwriter has discretion to take account of a proportion of evidenced buy to let rental income.
 
-For self employed applicants (or directors with at least 20% shareholding), we will use the average income as evidenced by the last 2 years accounts. Consideration will be given to trends and health of the business.
+### Second Job
 
-## Short Term Renewable Contracts
+* Income from a second job can be considered subject to the role being worked concurrently for 12 months.
 
-Short term renewable contracts are considered where the applicant has a history of such contracts in the same line of work.
+### Shift Allowance
 
-## Subcontractors
+* Shift allowance can be considered subject to proof that it's a regular source of income.
 
-We accept applications from Subcontractors.
+### Stipend
 
-## Temporary Work
+* Stipend income can be used as an acceptable source of secondary income for affordability purposes.
 
-Can be considered if the work has been undertaken for a period of 12 months or more prior to mortgage application.
+### Town Allowance
 
-## Umbrella Companies
+* Up to 100% of allowance can be considered subject to proof that it's a regular source of income.
 
-Applications are accepted from self employed applicants who work under an umbrella company.
+---
 
-## Zero Hours Contracts
+## SECTION 11 – JBSP & REGULATED
 
-If one applicant has a full time PAYE income, we can use up to 50% of zero hours / agency income from applicant two, as verified by bank statements or tax returns over the last 12 months.
+### Consumer Buy to Let
 
+* We do accept Consumer Buy to Let applications.
+* These applications are based on affordability rather than standard BTL rental calculations.
 
-## Contact Information
+### Let to Buy
 
-Phone: 01494 879500
+* We will consider lending across both properties, based on affordability.
 
-Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+### Regulated Buy to Let
 
-Saturday 9.15am to 12.00pm
+* We have a specific Regulated BTL scheme available, contact your Key Account Manager for further details.
+* These applications are based on affordability rather than standard BTL rental calculations.
 
-Sunday CLOSED
+---
 
+## SECTION 12 – LENDING SCHEMES & FEATURES
 
+### Foreign Currency Lending
 
-================================================================================
-SECTION 9: EXPATS
-URL: https://www.bucksbs.co.uk/intermediaries/criteria/buy-to-let/expats/
-Criteria Items: 11
-================================================================================
+* We don't currently offer foreign currency mortgage lending.
 
-# ExPats
+### Payment Holiday
 
-## Acceptable Countries
+* We don't currently allow payment holidays, however if a customer is struggling with their repayments, we urge them to contact us as soon as possible.
 
-Middle East United Arab Emirates and Qatar Americas Bahamas, Barbados, Canada, Chile, Costa Rica, Uruguay and USA. Asia Bhutan, Japan, Malaysia, Singapore, South Korea and Taiwan. Australasia Australia and New Zealand. Africa Botswana, Mauritius, Namibia and Seychelles. For any other country, please contact us.
+### Porting
 
-## Adverse Credit
+* Porting may be allowed depending on product selected, please see individual product details for more details.
 
-Minor adverse credit can be considered for ExPat applications. The case must fit either our Standard or Bucks Solutions 1 credit criteria, depending on product selected.
+### Builder Gifted Deposit
 
-## Age at Application
+* We will accept a gifted cash deposit subject to the Society's solicitors forwarding prior to completion a fully completed Gift Declaration signed by the Donor(s).
 
-The minimum age at application is 21 years old. There is no maximum age, but individual circumstances will be taken into account to ensure affordability.
+### New Build Properties
 
-## Age at End of Term
+* We will accept applications for new build properties, please see our current product range for details.
+* The maximum number of floors for new build flats is 6.
 
-There is no maximum age, but individual circumstances will be taken into account to ensure affordability. We will only consider active working income up to the age of 75 with no need to pension proof, crossing beyond this we look for retirement income.
+### Purchase Off Plan
 
-## British Virgin Islands
+* We will consider applications for new build properties purchased off plan.
 
-We do not currently accept applications from ExPats residing in the British Virgin Islands or UK companies registered in the British Virgin Islands.
+### Sales Incentives
 
-## Consumer Buy to Let
+* We will accept new build sales incentives providing they meet the requirements as outlined in the BSA Handbook.
 
-We do accept Consumer BTL applications from ExPats. These cases are assessed on rental calculation, not affordability.
+---
 
-## First Time Buyers
+## SECTION 13 – PORTFOLIO LANDLORDS
 
-We will accept applications from ExPats who are first time buyers.
+* We don't currently accept applications from portfolio landlords.
 
-## First Time Landlords
+---
 
-We will accept applications from ExPats who are first time landlords.
+## SECTION 14 – OTHER
 
-## Loan Amount
+### Back to Back Purchase
 
-The minimum loan amount is £50,000. The maximum loan amount is dependant on the product chosen.
+* We will consider an application from an applicant purchasing a property that the current vendor has owned for less than 6 months.
+* We will also consider a day one remortgage.
 
-## PO Box Addresses
+### Credit Referencing Agency
 
-We will accept a PO Box Address from ExPat applicants.
+* We generally use TransUnion and Experian.
 
-## Regulated Buy to Let
+### Credit Report Footprint
 
-We do not accept applications for ExPat Regulated Buy to Let mortgages.
+* At Decision in Principle (DIP) stage we leave a soft footprint on your credit file.
 
+### Credit Search or Credit Score
 
-## Contact Information
+* We manually underwrite all of our cases and undertake credit searches, a credit score isn't used.
 
-Phone: 01494 879500
+### Solicitors
 
-Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+* We use LMS Panel Management. All solicitors need to be approved by LMS.
 
-Saturday 9.15am to 12.00pm
+### Valuation Company
 
-Sunday CLOSED
+* We use Gateway.
 
+---
 
-
-================================================================================
-SECTION 10: INCOME & AFFORDABILITY
-URL: https://www.bucksbs.co.uk/intermediaries/criteria/buy-to-let/income-affordability/
-Criteria Items: 11
-================================================================================
-
-# Income & Affordability
-
-## Rental Income Coverage
-
-Buy-to-let applications are primarily assessed based on rental income coverage rather than personal income affordability. The rental income must be sufficient to cover the mortgage payments at the required stress rate.
-
-## Minimum Income Requirements
-
-For standard buy-to-let applications, there is typically no minimum personal income requirement as the assessment is based on rental income. However, personal income may be considered as part of the overall assessment to ensure applicants can meet their personal commitments.
-
-## Income Assessment
-
-Personal income may be assessed to ensure applicants can afford their personal commitments and that the lending decision is sustainable. This helps ensure applicants can cover mortgage payments if the tenant stops paying or the property needs maintenance or repairs.
-
-## Rental Cover Calculation
-
-The Society uses rental cover ratios and stress rates to assess lending amounts. The rental income must exceed the mortgage payment at the stressed rate to provide a buffer for the situations mentioned above.
-
-## Tax Considerations
-
-The Society will take into account the additional cost of increased tax liability for landlords where applicable, particularly in relation to finance costs and rental income taxation.
-
-## Affordability for Different Applicant Types
-
-- Standard Buy to Let: Assessment based primarily on rental income coverage
-- Consumer Buy to Let: Assessment based on affordability rather than standard BTL rental calculations (see JBSP section)
-- ExPats: See ExPats section for specific ExPat income and affordability criteria
-- Portfolio Landlords: See Portfolio Landlords section for specific criteria
-
-## Income Evidence
-
-All income sources must be evidenced appropriately. For details on acceptable income types and evidence requirements, please refer to the Employment section and Interest Only section.
-
-================================================================================
-SECTION 11: INTEREST ONLY
-URL: https://www.bucksbs.co.uk/intermediaries/criteria/buy-to-let/interest-only/
-Criteria Items: 12
-================================================================================
-
-# Interest Only
-
-## Benefits
-
-Income from benefits will be assessed on a case-by-case basis. we only accept benefits that are to be received for life and received by the applicant (not for a dependent). For more information, please discuss with your Key Account Manager.
-
-## Bonus
-
-50% of bonus received in the last year can be used in the affordability assessment (underwriter has discretion to use a higher proportion of average bonus if there is a long term track record).
-
-## Car Allowance
-
-Up to 100% of allowance can be considered subject to proof that it's a regular source of income.
-
-## Minimum Income
-
-For mortgages up to 75% LTV we require a minimum income of £25,000. For ExPat BTL applications, we require a minimum income equivalent to £25,000 sterling. For Holiday Let and ExPat Holiday Let applications, we require a minimum income of, or equivalent to, £30,000 sterling.
-
-## Overtime
-
-Commission and overtime can be considered up to 100% subject to the length of time in role, occupation and must be able to demonstrate a consistent track record of receiving commission or overtime. Please consult your Key Account Manager for further clarification or guidance applicable to your situation
-
-## Other Income
-
-Please refer any unusual income sources to your Key Account Manager before submitting an application.
-
-## Private Pension
-
-We can accept 100% of private pension income for affordability purposes.
-
-## Rental Income
-
-The underwriter has discretion to take account of a proportion of evidenced buy to let rental income.
-
-## Second Job
-
-Income from a second job can be considered subject to the role being worked concurrently for 12 months.
-
-## Shift Allowance
-
-Shift allowance can be considered subject to proof that it's a regular source of income.
-
-## Stipend
-
-Stipend income can be used as an acceptable source of secondary income for affordability purposes.
-
-## Town Allowance
-
-Up to 100% of allowance can be considered subject to proof that it's a regular source of income.
-
-
-## Contact Information
+## SECTION 15 – CONTACT INFORMATION
 
 Phone: 01494 879500
 
-Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+Hours:
 
-Saturday 9.15am to 12.00pm
+* Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
+* Saturday 9.15am to 12.00pm
+* Sunday CLOSED
 
-Sunday CLOSED
+---
 
-
-
-================================================================================
-SECTION 12: JBSP
-URL: https://www.bucksbs.co.uk/intermediaries/criteria/buy-to-let/jbsp/
-Criteria Items: 3
-================================================================================
-
-# Jbsp
-
-## Consumer Buy to Let
-
-We do accept Consumer Buy to Let applications. These applications are based on affordability rather than standard BTL rental calculations.
-
-## Let to Buy
-
-We will consider lending across both properties, based on affordability.
-
-## Regulated Buy to Let
-
-We have a specific Regulated BTL scheme available, contact your Key Account Manager for further details. These applications are based on affordability rather than standard BTL rental calculations.
-
-
-## Contact Information
-
-Phone: 01494 879500
-
-Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
-
-Saturday 9.15am to 12.00pm
-
-Sunday CLOSED
-
-
-
-================================================================================
-SECTION 13: LENDING SCHEMES
-URL: https://www.bucksbs.co.uk/intermediaries/criteria/buy-to-let/lending-schemes/
-Criteria Items: 6
-================================================================================
-
-# Lending Schemes
-
-## Foreign Currency Lending
-
-We don't currently offer foreign currency mortgage lending.
-
-## Loan Amount
-
-The minimum loan amount is £50,000. The maximum loan amount is dependant on the product chosen.
-
-## Maximum Term
-
-The maximum term available is 40 years. This is the same for full repayment, interest only and part and part.
-
-## Payment Holiday
-
-We don't currently allow payment holidays, however if a customer is struggling with their repayments, we urge them to contact us as soon as possible.
-
-## Porting
-
-Porting may be allowed depending on product selected, please see individual product details for more details.
-
-## Property Value
-
-We have a minimum property value of £75,000.
-
-
-## Contact Information
-
-Phone: 01494 879500
-
-Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
-
-Saturday 9.15am to 12.00pm
-
-Sunday CLOSED
-
-
-
-================================================================================
-SECTION 14: MORTGAGE FEATURES
-URL: https://www.bucksbs.co.uk/intermediaries/criteria/buy-to-let/mortgage-features/
-Criteria Items: 4
-================================================================================
-
-# Mortgage Features
-
-## Builder Gifted Deposit
-
-We will accept a gifted cash deposit subject to the Society's solicitors forwarding prior to completion a fully completed Gift Declaration signed by the Donor(s).
-
-## New Build Properties
-
-We will accept applications for new build properties, please see our current product range for details. The maximum number of floors for new build flats is 6.
-
-## Purchase Off Plan
-
-We will consider applications for new build properties purchased off plan.
-
-## Sales Incentives
-
-We will accept new build sales incentives providing they meet the requirements as outlined in the BSA Handbook.
-
-
-## Contact Information
-
-Phone: 01494 879500
-
-Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
-
-Saturday 9.15am to 12.00pm
-
-Sunday CLOSED
-
-
-
-================================================================================
-SECTION 15: PORTFOLIO LANDLORDS
-URL: https://www.bucksbs.co.uk/intermediaries/criteria/buy-to-let/portfolio-landlords/
-Criteria Items: 1
-================================================================================
-
-# Portfolio Landlords
-
-We don't currently accept applications from portfolio landlords.
-
-
-## Contact Information
-
-Phone: 01494 879500
-
-Hours: Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
-
-Saturday 9.15am to 12.00pm
-
-Sunday CLOSED
-
-
+*END OF DOCUMENT*

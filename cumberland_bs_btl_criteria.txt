@@ -5,14 +5,10 @@
 **LENDER:** Cumberland Building Society
 **PRODUCT:** Buy to Let
 **DOCUMENT TYPE:** Lending Criteria
-**LAST UPDATED:** Not specified
+**LAST UPDATED:** 2025
 **FOR INTERMEDIARY USE ONLY**
 
-**Source:** https://www.cumberland.co.uk/intermediaries/buy-to-let
-
-**Contact:**
-- Phone: 01228 403312
-- Email: intermediaries@cumberland.co.uk
+**Source:** [Buy to Let – intermediaries](https://www.cumberland.co.uk/intermediaries/buy-to-let)
 
 ---
 
@@ -20,21 +16,21 @@
 
 ### Residency
 
-- Individual borrowers must be resident in the UK.
-- Limited Company borrowers must be incorporated in the UK and beneficial owners must be resident in the UK.
+* Individual borrowers must be resident in the UK.
+* Limited Company borrowers must be incorporated in the UK and beneficial owners must be resident in the UK.
 
 ### Income Requirements
 
 **Amateur Landlords (Individuals & Partnerships):**
-- Annual income of above £25,000 (or £50,000 with 100% rental coverage where top slicing is required).
+* Annual income of above £25,000 (or £50,000 with 100% rental coverage where top slicing is required).
 
 **Amateur Landlords (Limited Companies):**
-- Annual income of above £25,000 (or £50,000 with 100% rental coverage where top slicing is required).
+* Annual income of above £25,000 (or £50,000 with 100% rental coverage where top slicing is required).
 
 **Portfolio Landlords (Individuals, Partnerships & Limited Companies):**
-- Annual income of above £25,000 (or £50,000 with 100% rental coverage where top slicing is required).
-- Background portfolio cannot exceed 20 properties.
-- Maximum 8 individual Society BTL loans per borrower.
+* Annual income of above £25,000 (or £50,000 with 100% rental coverage where top slicing is required).
+* Background portfolio cannot exceed 20 properties.
+* Maximum 8 individual Society BTL loans per borrower.
 
 ---
 
@@ -42,31 +38,31 @@
 
 ### Tenure
 
-- Properties can be freehold or leasehold.
-- Minimum of 85 years remaining on the lease at the start of the mortgage.
-- Minimum of 50 years remaining on the lease at maturity.
+* Properties can be freehold or leasehold.
+* Minimum of 85 years remaining on the lease at the start of the mortgage.
+* Minimum of 50 years remaining on the lease at maturity.
 
 ### Construction
 
-- Unable to mortgage property which is a temporary or movable structure.
+* Unable to mortgage property which is a temporary or movable structure.
 
 ### Tenancy Agreement
 
-- Tenancy agreement should be on an Assured Shorthold Tenancy basis, or in Scotland on a Private Residential Tenancy basis.
-- Maximum term of 6 months.
-- Any existing tenancy agreement must have commenced after 1 March 1997.
+* Tenancy agreement should be on an Assured Shorthold Tenancy basis, or in Scotland on a Private Residential Tenancy basis.
+* Maximum term of 6 months.
+* Any existing tenancy agreement must have commenced after 1 March 1997.
 
 ### Energy Performance Certificate (EPC)
 
-- All properties must have an Energy Performance Certificate (EPC) with a rating of E or higher, or a suitable exemption, for properties in England and Wales.
+* All properties must have an Energy Performance Certificate (EPC) with a rating of E or higher, or a suitable exemption, for properties in England and Wales.
 
 ---
 
 ## SECTION 3 – FEES
 
-- Arrangement fees will apply.
-- Free valuations up to £750,000 loan amount, on selected products only.
-- Legal fees are met by the borrower.
+* Arrangement fees will apply.
+* Free valuations up to £750,000 loan amount, on selected products only.
+* Legal fees are met by the borrower.
 
 ---
 
@@ -75,64 +71,72 @@
 ### 4.1 Amateur Landlords (Individuals or Partnerships)
 
 **Products with a term less than 5 years:**
-- Annual rental income must be a minimum of 145% of annual mortgage interest at a stressed rate of 5.5%, or product rate +2% if higher.
+* Annual rental income must be a minimum of 145% of annual mortgage interest at a stressed rate of 5.5%, or product rate +2% if higher.
 
 **Products fixed for 5 years or more:**
-- Annual rental income must be a minimum of 145% of annual mortgage interest calculated using the product rate.
+* Annual rental income must be a minimum of 145% of annual mortgage interest calculated using the product rate.
 
 **Remortgages with no additional borrowing:**
-- Annual rental income must be a minimum of 145% of annual mortgage interest calculated using the product rate.
+* Annual rental income must be a minimum of 145% of annual mortgage interest calculated using the product rate.
 
 **Capital & Interest mortgage:**
-- DCR must be evidenced at 125% coverage, with a further check that ICR is met at 145%. Both DCR and ICR must be met.
+* DCR must be evidenced at 125% coverage, with a further check that ICR is met at 145%. Both DCR and ICR must be met.
 
 ---
 
 ### 4.2 Amateur Landlords (Limited Companies)
 
 **Products with a term less than 5 years:**
-- Annual rental income must be a minimum of 125% of annual mortgage interest at a stressed rate of 5.5%, or product rate +2% if higher.
+* Annual rental income must be a minimum of 125% of annual mortgage interest at a stressed rate of 5.5%, or product rate +2% if higher.
 
 **Products fixed for 5 years or more:**
-- Annual rental income must be a minimum of 125% of annual mortgage interest calculated using the product rate.
+* Annual rental income must be a minimum of 125% of annual mortgage interest calculated using the product rate.
 
 **Remortgages with no additional borrowing:**
-- Annual rental income must be a minimum of 125% of annual mortgage interest calculated using the product rate.
+* Annual rental income must be a minimum of 125% of annual mortgage interest calculated using the product rate.
 
 **Capital & Interest mortgage:**
-- DCR must be evidenced at 110% coverage, with a further check that ICR is met at 125%. Both DCR and ICR must be met.
+* DCR must be evidenced at 110% coverage, with a further check that ICR is met at 125%. Both DCR and ICR must be met.
 
 ---
 
 ### 4.3 Portfolio Landlords (Individuals or Partnerships)
 
 **Products with a term less than 5 years:**
-- Annual rental income must be a minimum of 145% of annual mortgage interest at a stressed rate of 5.5%, or product rate +2% if higher.
+* Annual rental income must be a minimum of 145% of annual mortgage interest at a stressed rate of 5.5%, or product rate +2% if higher.
 
 **Products fixed for 5 years or more:**
-- Annual rental income must be a minimum of 145% of annual mortgage interest calculated using the product rate.
+* Annual rental income must be a minimum of 145% of annual mortgage interest calculated using the product rate.
 
 **Remortgages with no additional borrowing:**
-- Annual rental income must be a minimum of 145% of annual mortgage interest calculated using the product rate.
+* Annual rental income must be a minimum of 145% of annual mortgage interest calculated using the product rate.
 
 **Capital & Interest mortgage:**
-- DCR must be evidenced at 125% coverage, with a further check that ICR is met at 145%. Both DCR and ICR must be met.
+* DCR must be evidenced at 125% coverage, with a further check that ICR is met at 145%. Both DCR and ICR must be met.
 
 ---
 
 ### 4.4 Portfolio Landlords (Limited Companies)
 
 **Products with a term less than 5 years:**
-- Annual rental income must be a minimum of 125% of annual mortgage interest at a stressed rate of 5.5%, or product rate +2% if higher.
+* Annual rental income must be a minimum of 125% of annual mortgage interest at a stressed rate of 5.5%, or product rate +2% if higher.
 
 **Products fixed for 5 years or more:**
-- Annual rental income must be a minimum of 125% of annual mortgage interest calculated using the product rate.
+* Annual rental income must be a minimum of 125% of annual mortgage interest calculated using the product rate.
 
 **Remortgages with no additional borrowing:**
-- Annual rental income must be a minimum of 125% of annual mortgage interest calculated using the product rate.
+* Annual rental income must be a minimum of 125% of annual mortgage interest calculated using the product rate.
 
 **Capital & Interest mortgage:**
-- DCR must be evidenced at 110% coverage, with a further check that ICR is met at 125%. Both DCR and ICR must be met.
+* DCR must be evidenced at 110% coverage, with a further check that ICR is met at 125%. Both DCR and ICR must be met.
+
+---
+
+## SECTION 5 – CONTACT
+
+* Phone: 01228 403312
+* Email: intermediaries@cumberland.co.uk
+* Web: https://www.cumberland.co.uk/intermediaries/buy-to-let
 
 ---
 

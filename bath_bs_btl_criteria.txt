@@ -1,15 +1,24 @@
-LENDER NAME: Bath Building Society
-PRODUCT: Buy to Let
+# BATH BUILDING SOCIETY – BUY TO LET LENDING CRITERIA
 
-BATH BUILDING SOCIETY - BUY TO LET LENDING CRITERIA
-====================================================
+---
 
-Source: https://www.bathbuildingsociety.co.uk/intermediaries/browse-general-information/buy-to-let-lending-criteria/
-Last Updated: Information updated daily via Criteria Hub
+**LENDER:** Bath Building Society
+**PRODUCT:** Buy to Let
+**DOCUMENT TYPE:** Buy to Let lending criteria.
+**SOURCE:** [Buy to Let Lending Criteria](https://www.bathbuildingsociety.co.uk/intermediaries/browse-general-information/buy-to-let-lending-criteria/)
+**LAST VERIFIED:** Information updated daily via Criteria Hub
 
-================================================================================
-LOAN DETAILS
-================================================================================
+**IMPORTANT:** FOR INTERMEDIARY USE ONLY.
+
+**RAG convention:** Criteria use explicit labels **Maximum:** **Minimum:** **Allowed:** **Not Acceptable:** **Condition:** where applicable for retrieval.
+
+**Contact:** Intermediary team – see Bath Building Society website.
+
+---
+
+# SECTION 1 – BUY TO LET LENDING CRITERIA
+
+## LOAN DETAILS
 
 Minimum Loan Size:
 - £50,000 for standard Buy to Let applications
@@ -35,9 +44,7 @@ Repayment Methods:
 - Capital Repayment (Capital & Interest) - Acceptable
 - Interest Only - Acceptable
 
-================================================================================
-APPLICANT CRITERIA
-================================================================================
+## APPLICANT CRITERIA
 
 Age Limits:
 - Minimum Age: 21 years at application
@@ -100,9 +107,7 @@ Returning to UK:
 Maximum Debt to Income Ratio:
 - No Maximum (we don't have a maximum as long as it fits income multipliers and affordability)
 
-================================================================================
-PROPERTY CRITERIA
-================================================================================
+## PROPERTY CRITERIA
 
 Property Construction:
 - Must be of standard construction
@@ -214,9 +219,7 @@ Property Issues:
 Multi Unit Properties:
 - Minimum Floor Area per Unit: 30 square meters
 
-================================================================================
-TENANCY CRITERIA
-================================================================================
+## TENANCY CRITERIA
 
 Tenancy Type:
 - Must be Assured Shorthold Tenancy (AST)
@@ -254,9 +257,7 @@ Other Tenant Types:
 - Letting Whole Property via AirBnB: Acceptable (allows borrowers to Let properties via AirBnB or similar on Holiday Let products only; would not accept this on BTL or MUFB plans)
 - Premium Lease Agreements: Not Acceptable (does not accept 'Premium Lease Agreements' where a prospective tenant is paying their rent as an advanced payment)
 
-================================================================================
-AFFORDABILITY AND RENTAL INCOME
-================================================================================
+## AFFORDABILITY AND RENTAL INCOME
 
 Income Coverage Ratio (ICR) / Rental Coverage:
 
@@ -274,9 +275,7 @@ Rental Valuation:
 - Cannot use valuer's rental estimate if higher than actual existing rent: Not acceptable
 - Cannot use actual existing rent when higher than valuer's estimate: Not acceptable
 
-================================================================================
-REPAYMENT AND TERM
-================================================================================
+## REPAYMENT AND TERM
 
 Repayment Methods:
 - Capital Repayment (Capital & Interest): Acceptable
@@ -297,9 +296,7 @@ Early Repayment Charges:
   * Year 5: 2% of outstanding balance
   * Plus Closing Administration Fee: £100 (currently)
 
-================================================================================
-LIMITED COMPANY APPLICATIONS
-================================================================================
+## LIMITED COMPANY APPLICATIONS
 
 Limited Company Buy to Let:
 - Not Currently Accepted - The Society is not currently lending to Limited Companies
@@ -310,9 +307,7 @@ Note: The following information is provided for reference only (as the Society i
 - Personal Guarantees: Would be required from all Company Directors
 - Top-slicing: NOT permitted for Limited Company applications
 
-================================================================================
-FEES AND CHARGES
-================================================================================
+## FEES AND CHARGES
 
 Product Fees:
 - Individual Applications: £999
@@ -325,9 +320,7 @@ Arrangement Fees:
 Closing Administration Fee:
 - £100 (currently) - applies when fully repaying a 5-year fixed product
 
-================================================================================
-REPAYMENT AND TERM
-================================================================================
+## REMORTGAGE CRITERIA
 
 Remortgage Waiting Period:
 - 6 months minimum ownership before remortgage application can be considered
@@ -365,9 +358,7 @@ Let to Move in with Family:
 Sale and Rent Back:
 - Not Acceptable (does not accept 'Sale and Rent Back' transactions - where the vendor sells the property usually at a discount, remains in the property and pays a rent to the new owner)
 
-================================================================================
-ADVERSE CREDIT CRITERIA
-================================================================================
+## ADVERSE CREDIT CRITERIA
 
 CCJs (County Court Judgments):
 - Maximum Value (Satisfied): £500 (registered in last 3 years, satisfied at application)
@@ -437,9 +428,7 @@ Other Adverse Credit:
 - Property Developers: Not Acceptable (does not accept Buy to Let applications from individuals they deem property developers)
 - Politically Exposed Persons: Not Acceptable (will not consider an applicant that is classed as a politically exposed person)
 
-================================================================================
-PROPERTY AND LEGAL CRITERIA
-================================================================================
+## PROPERTY AND LEGAL CRITERIA
 
 Deposit Sources:
 - Gift from Immediate Family: Acceptable
@@ -484,9 +473,7 @@ Leasehold Properties:
   * Repayment: Must have a minimum of 50 years at end of the mortgage term
 - Leasehold Property where No Separate Management Company Exists: Not Acceptable (Bath Building Society will not lend on leasehold properties where no separate management company exists)
 
-================================================================================
-VISA AND RESIDENCY CRITERIA
-================================================================================
+## VISA AND RESIDENCY CRITERIA
 
 Visa Holders:
 - Tier 1 Working Visa (Investors, Entrepreneurs, Talent): Not Acceptable
@@ -511,9 +498,7 @@ Expats:
 - Expat Regulated Buy to Let (Let to Family Member): Not Acceptable (does not accept Buy to Let mortgages from Expat applicants where the property will be Let to Family Member(s))
 - Expat: Holiday Lets: Not Acceptable (does not accept expat applications at this time)
 
-================================================================================
-OTHER CRITERIA
-================================================================================
+## OTHER CRITERIA
 
 Regulated Buy to Let (Let to Family Member):
 - Acceptable - Bath Building Society can potentially accept 'Regulated Buy to Let' applications
@@ -582,22 +567,17 @@ Other Important Criteria:
 - Contract Reassignment: Not Acceptable (does not accept applications where contract reassignment exists - where purchaser is looking to buy a new build property from a third party who has secured the property off plan and exchanged contracts but has not completed)
 - Power of Attorneys: Acceptable (can potentially consider an applicant from someone acting as a power of attorney)
 
-================================================================================
-VALUATIONS
-================================================================================
+## VALUATIONS
 
 Valuation Fees:
 - See Mortgage Valuation Fees on Bath Building Society website for full details
 
-================================================================================
-ADDITIONAL NOTES
-================================================================================
+## ADDITIONAL NOTES
 
 - The information on this page is updated daily via Criteria Hub
 - All cases are manually underwritten
 - For any further questions about criteria, please contact the Intermediary team
 - To search for specific items in the Society's lending criteria, you can select Buy To Let or Residential criteria, then search the relevant category, filter by sub-category, or search by topic or keyword
 
-================================================================================
-END OF CRITERIA
-================================================================================
+---
+*End of criteria.*

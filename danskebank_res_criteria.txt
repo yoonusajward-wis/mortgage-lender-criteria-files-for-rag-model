@@ -1,42 +1,40 @@
-LENDER NAME: Danskebank
-PRODUCT: Residential
+# DANSKE BANK – RESIDENTIAL MORTGAGE CRITERIA (ENGLAND)
 
-================================================================================
-DANSKE BANK - RESIDENTIAL MORTGAGE CRITERIA (ENGLAND)
-================================================================================
+---
 
-Source: https://danskebank.co.uk/intermediaries/england/lending-criteria/a-z-criteria
+**LENDER:** Danske Bank
+**PRODUCT:** Residential
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 2025
+**FOR INTERMEDIARY USE ONLY**
 
-OVERVIEW
---------------------------------------------------------------------------------
+**Source:** [A–Z criteria – England](https://danskebank.co.uk/intermediaries/england/lending-criteria/a-z-criteria)
+
+---
+
+## SECTION 1 – OVERVIEW AND SUMMARY
+
 This document contains the complete residential mortgage lending criteria for Danske Bank (England).
 
-CONTACT INFORMATION
---------------------------------------------------------------------------------
-Phone: 0345 607 0213
-Hours: Monday - Friday: 9am - 5pm
+### Summary
 
-# **SUMMARY TABLE**
+* **Property:** Only properties with EPC rating A–C; within accepted regions (East of England, South West, South East including London, East Midlands, West Midlands). Flats and apartments: maximum 7 floors, minimum 1 bedroom, internal habitable floor area 30 sqm.
+* **Product set:** Energy Efficient Home Mortgages (EPC A–C) 2 Year Fixed Rate, 5 Year Fixed Rate.
+* **Buyer type:** First Time Buyer, Home Mover, Remortgage.
+* **Max mortgage term:** 40 years.
+* **Max LTV:** 90% (90% new build); 85% flats and apartments (including new build).
+* **Max LTI:** 5x if application income ≥£75k and LTV ≤90%; 4.5x if application income <£75k and LTV ≤90%; 4.25x if LTV >90%; 4.49x for Help to Buy.
+* **Max loan size:** £750k (contact BDM above £750k; above £500k max LTV 90%).
 
-| **Criteria**          | **Details**                                                                                                                                                                                                                                                                                                                                                                                        |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Property**          | Only properties with EPC rating A-C. The property must be located within our accepted regions: East of England, South West, South East including London, East Midlands and West Midlands. View a full list of acceptable property postal codes below. **Flats and Apartments:** Maximum of 7 floors will apply and must contain a minimum of 1 bedroom and internal habitable floor area of 30sqm. |
-| **Product set**       | Energy Efficient Home Mortgages (EPC A-C) 2 Year Fixed Rate 5 Year Fixed Rate                                                                                                                                                                                                                                                                                                                      |
-| **Buyer type**        | First Time Buyer<br>Home Mover<br>Remortgage                                                                                                                                                                                                                                                                                                                                                       |
-| **Max mortgage term** | 40 years                                                                                                                                                                                                                                                                                                                                                                                           |
-| **Max LTV**           | 90% (90% for new build properties) 85% for Flats and apartments (including new build)                                                                                                                                                                                                                                                                                                              |
-| **Max LTI**           | 5x If Application Income is >=£75k and LTV <= 90%<br>4.5x if Application Income <£75k and LTV <= 90%<br>4.25x if LTV > 90%<br>4.49x Application Income for Help to Buy Applications                                                                                                                                                                                                                |
-| **Max Loan size**     | £750k (for loans greater than £750k please contact your BDM) (for loans greater than £500k max LTV 90%)                                                                                                                                                                                                                                                                                            |
+---
 
-================================================================================
-A
-================================================================================
+## SECTION 2 – CRITERIA A
 
-## Acceptable Income
+### Acceptable Income
 
 We accept various types of income for mortgage applications. Please refer to the "Income Documents" section for details on acceptable income types and required documentation. Income from employment, self-employment, pensions, and certain benefits may be considered subject to our affordability assessment.
 
-## Affordability
+### Affordability
 
 We assess all applications on the applicant(s) ability and willingness to meet obligations. We will not grant credit facilities on the basis of security. The term of any facility must be in line with the purpose for which it is granted.
 
@@ -50,25 +48,23 @@ In order to ensure that the customer can afford to repay their mortgage in the e
   * LTV
   * Debt Service Ratio
 
-## Arrangement Fee
+### Arrangement Fee
 
 The arrangement fee may be added to the loan or can be paid directly by client, subject to LTV and LTI restrictions. Please contact us for more information.
 
+---
 
+## SECTION 3 – CRITERIA B
 
-================================================================================
-B
-================================================================================
-
-## Bank of England Base Rate
+### Bank of England Base Rate
 
 Our mortgage rates are not linked to Bank of England Base Rate.
 
-## Bankruptcies
+### Bankruptcies
 
 Applications from applicants who have been declared bankrupt will not normally be considered. However, please contact us for further information if the bankruptcy has been discharged for a significant period.
 
-## Breakdown of Loan
+### Breakdown of Loan
 
 For the purposes of completing the mortgage application we require specific information, this could be:
   * House purchase, amount and source of deposit
@@ -76,11 +72,11 @@ For the purposes of completing the mortgage application we require specific info
   * Moving Home, including details of existing mortgage and agreed sale price if applicable
   * Any element of additional borrowing, including purpose
 
-## Bridging Finance
+### Bridging Finance
 
 We do not offer bridging finance products.
 
-## Builder's Cash Incentives
+### Builder's Cash Incentives
 
 Any incentive will be disclosed in the UK Finance Inventive Disclosure form which is required for all new builds. 
 Builder's cash incentives include but are not limited to deposit contribution, cash-back, contribution to legal fees/ stamp duty etc:These will typically be acceptable on the following basis:
@@ -90,26 +86,24 @@ Builder's cash incentives include but are not limited to deposit contribution, c
 
 ** Please note that builders cash back is not accepted to fund the deposit on Help to Buy Equity Loan Scheme applications.
 
+---
 
+## SECTION 4 – CRITERIA C
 
-================================================================================
-C
-================================================================================
-
-## CCJ's
+### CCJ's
 
 County Court Judgments (CCJs) will be considered on a case-by-case basis. Please contact us to discuss applications where applicants have CCJs on their credit history.
 
-## Change in Title
+### Change in Title
 
 For existing Danske Bank mortgage customers wishing to make a Change in Title, please contact us.
 
-## Changes to Mortgage Application
+### Changes to Mortgage Application
 
 Once the mortgage application has been made, if there are any changes to this application please contact us for further information. We may need you to create a new mortgage application.
 If the applicant's original mortgage product has been withdrawn or changed, a new product must be selected.
 
-## Committed Expenditure
+### Committed Expenditure
 
 Please detail all committed expenditure on the application form:
   * Hire Purchase / Personal Loans / Student Loans
@@ -120,15 +114,15 @@ Please detail all committed expenditure on the application form:
   * Pension Contributions
   * Professional Subscriptions
 
-## Consumer Buy to Let
+### Consumer Buy to Let
 
 We do not offer Consumer Buy to Let mortgages.
 
-## Co-Ownership
+### Co-Ownership
 
 Co-ownership applications may be considered. Please contact us for further information.
 
-## Credit Scoring
+### Credit Scoring
 
 All applications will be credit scored. We use information provided by Experian as part of our credit assessment.
 Applicants can obtain their information by contacting Experian directly at:
@@ -139,70 +133,66 @@ Nottingham NG80 7WF
 
 Telephone number: 0844 481 8000
 
-## Customer Verification
+### Customer Verification
 
 All applications must be submitted with customer verification documents. Please refer to the "Proof of ID / Address" section for details on required documentation.
 
+---
 
+## SECTION 5 – CRITERIA D
 
-================================================================================
-D
-================================================================================
-
-## Danske Follow-on Rate
+### Danske Follow-on Rate
 
 All Fixed Rate mortgages effected on or after 26th June 2018 will automatically move to the Danske Follow-on Rate applicable to the loan at the end of the Fixed Rate period. Danske Follow-on Rate is a variable rate comprised of Danske Bank Reference Rate (UK) and a margin. 
 If the Fixed Rate mortgage was effected on or before the 25th June 2018, it will automatically move to our Standard Variable Rate, as outlined in the mortgage offer.
 Rates are available here.
 
-## Debt Consolidation
+### Debt Consolidation
 
 Debt consolidation may be considered as part of a remortgage application. Please contact us to discuss your client's specific circumstances.
 
-## Debt Servicing Ratio (DSR)
+### Debt Servicing Ratio (DSR)
 
 A Debt Servicing Ratio (DSR) is a measurement of what percentage of a customer’s monthly income is required to service committed liabilities.
 
-## Decision In Principle (DIP)
+### Decision In Principle (DIP)
 
 We conduct a soft search for all Decision in Principle applications (DIP).
 
-## Deposit
+### Deposit
 
 We will require documentary evidence of any deposit, where it is not coming from the simultaneous sale of a borrower's existing property.
 We can accept deposits provided by gift, please refer to the section 'Third Party Interest' for further information. We only require name and address of person gifting deposit.
 We do not normally accept deposits provided by loans, however please contact us for further information.
 
-## Direct Debit Details
+### Direct Debit Details
 
 Direct Debit mandates will be required for all mortgage applications.
 
-## Distressed Sales and Leaseback
+### Distressed Sales and Leaseback
 
 We do not accept applications for distressed sales or leaseback arrangements.
 
+---
 
+## SECTION 6 – CRITERIA E
 
-================================================================================
-E
-================================================================================
-
-## Early Repayment Charges
+### Early Repayment Charges
 
 Early Repayment Charges only apply to our Fixed Rate mortgage products. An Early Repayment Charge (ERC) may apply if the customer repays the mortgage in part or in full, or transfers to one of our products during the fixed rate period.
 The ERC is calculated as a percentage of the capital balance outstanding at the date of redemption. Customers may be able to overpay without ERC. Please refer to the customer’s mortgage illustration and offer documentation for full information regarding Overpayments and Early Repayment Charges. Their mortgage illustration or offer will detail any criteria around this.
 For more information on Early Repayment Charges and Mortgage exit fees, please see our Tariff of Mortgage Charges section within the General Offer Conditions document.
 
-## Employment
+### Employment
 
 If applicant is in employment for less than 12 months we will require a copy of their contract of employment to confirm that the applicant is in a permanent role and applicant must have received at least one payslip.
 
-## Energy Efficient Home Mortgage
+### Energy Efficient Home Mortgage
 
 To meet the criteria for the Danske Bank Energy Efficient Home Mortgage, the property needs to have an EPC rating of A, B or C. 
 The EPC certificate must be valid for at least another year from the date of the application.
 
-## EPC Rating
+### EPC Rating
 
 To be eligible for the Energy Efficient Home Mortgage the property needs to hold a valid EPC or PEA of A – C. The EPC must have at least least 12 months validity remaining.
 A valid EPC An EPC is required when a property is built, sold or rented. It gives a property a rating from A or 100 (most efficient) to G or 0 (least efficient) and is valid for 10 years.
@@ -212,17 +202,15 @@ There may be a cost associated with obtaining an EPC.
 New-build homes will have a Predicted Energy Assessment (PEA) before they’re finished. This should be available from the builder or estate agent.
 PEAs will be accepted for homes not yet completed.
 
+---
 
+## SECTION 7 – CRITERIA F
 
-================================================================================
-F
-================================================================================
-
-## First Time Buyer (FTB)
+### First Time Buyer (FTB)
 
 A customer who has never previously owned a property which required finance. Where the application is joint, at least one party must meet this condition.
 
-## Flats / Apartments/ Maisonettes
+### Flats / Apartments / Maisonettes
 
 Applications for flats, apartments and maisonettes must have a maximum LTV of 90% (85% LTV for New Builds) . Loan to value is based on the purchase price or valuation (whichever is the lower) 
 We will only accept applications for properties with an EPC* rating of A-C. The EPC must have at least 12 months validity remaining.
@@ -233,51 +221,45 @@ Purpose built apartments with Gym / Coffee shop may be considered.
 **Flats adjacent/close to commercial premises**
 Flats and maisonettes close to or adjoining commercial premises may be acceptable and will be treated on a case-by-case basis.
 
-## Forces Help to Buy
+### Forces Help to Buy
 
 We are no longer accepting Help to Buy Purchase applications.
 
-## Foreign Currency Mortgages
+### Foreign Currency Mortgages
 
 The bank only provides mortgages in sterling. We do not currently accept applications from Intermediaries where an applicant’s income, utilised for affordability, is not in Sterling.
 
+---
 
+## SECTION 8 – CRITERIA G
 
-================================================================================
-G
-================================================================================
-
-## Gift Deposits
+### Gift Deposits
 
 We will require documentary evidence of any deposit, where it is not coming from the simultaneous sale of a borrower's existing property.
 We can accept deposits provided by gift, please refer to the section 'Third Party Interest' for further information. We only require name and address of person gifting deposit.
 We do not normally accept deposits provided by loans, however please contact us for further information.
 
+---
 
+## SECTION 9 – CRITERIA H
 
-================================================================================
-H
-================================================================================
-
-## Help to Buy
+### Help to Buy
 
 We are no longer accepting Help to Buy Purchase applications.
 
-## Help to Buy Remortgage
+### Help to Buy Remortgage
 
 We are no longer accepting Help to Buy Purchase applications.
 
-## Higher Lending Charge (HLC)
+### Higher Lending Charge (HLC)
 
 We do not impose a Higher Lending Charge, regardless of Loan to Value.
 
+---
 
+## SECTION 10 – CRITERIA I
 
-================================================================================
-I
-================================================================================
-
-## Income Documents
+### Income Documents
 
 For all applications, copies of the following documentation is required:
 
@@ -303,38 +285,36 @@ If your customer is Self Employed for less than 2 years but they were previously
 If you have any queries or have a self-employed case you would like to discuss, please contact your BDM.
 Please note that income tax documentation should be no greater than 18 months old, and in some instances additional documentation may be required. For further guidance on income accepted and documents required, please contact us.
 
-## Income in Foreign Currency
+### Income in Foreign Currency
 
 We do not currently accept applications from Intermediaries where an applicant’s income, utilised for affordability, is not in Sterling.
 
-## Interest
+### Interest
 
 Interest is calculated daily and charged quarterly in arrears.
 
-## Interest Only Mortgage
+### Interest Only Mortgage
 
 Interest is calculated daily and charged quarterly in arrears.
 
-## Investment Property Loans / Buy to Let
+### Investment Property Loans / Buy to Let
 
 We do not offer Buy to Let or Investment Property mortgages through our intermediary channel.
 
+---
 
+## SECTION 11 – CRITERIA L
 
-================================================================================
-L
-================================================================================
-
-## Leasehold
+### Leasehold
 
 If leasehold, the property should have an unexpired term of more than 85 years at application. Where the remaining leasehold is less than 85 years, please contact us before submitting an application.
 
-## Lending into Retirement
+### Lending into Retirement
 
 Loans may be extended beyond retirement age provided that verified post retirement income meets affordability criteria rules. If mortgage term is more than 11 years and will not take applicant more than 5 years beyond retirement evidence that applicant is currently making pension contributions will be required. If mortgage term is less than 11 years and will take applicant more than 5 years from retirement pension projections will be required and will be used for affordability.
 The maximum loan term of 40 years can not be exceeded, and the mortgage must be repaid by the applicant’s 75th birthday.
 
-## Lending Limits / Loan to Value
+### Lending Limits / Loan to Value
 
 Loan to value is based on the purchase price or valuation (whichever is the lower)
   * Max LTV 90% 
@@ -345,50 +325,46 @@ Loan to value is based on the purchase price or valuation (whichever is the lowe
   * Help to Buy Max LTV = 85%
   * Help to Buy Max Equity Loan = 20%
 
-## Length of Employment
+### Length of Employment
 
 If applicant is in employment for less than 12 months we will require a copy of their contract of employment to confirm that the applicant is in a permanent role and applicant must have received at least one payslip.
 
-## Loan to Income
+### Loan to Income
 
 * 5x If Application Income is >=£75k and LTV <= 90%
   * 4.5x if Application Income <£75k and LTV <= 90%
   * 4.25x if LTV > 90%
   * 4.49x Application Income for Help to Buy Applications
 
+---
 
+## SECTION 12 – CRITERIA M
 
-================================================================================
-M
-================================================================================
-
-## Maximum Loan Term
+### Maximum Loan Term
 
 The maximum loan term is 40 years. The mortgage must be repaid by the applicant's 75th birthday.
 
-## Minimum / Maximum Age
+### Minimum / Maximum Age
 
 * Minimum - 18 years old
   * Maximum - mortgage must be repaid by applicant’s 75th birthday. If the loan term extends into retirement, with retirement age based on the lower of that advised by the applicant, or age 70, verified post retirement income must meet affordability criteria rules.
 
 See section, 'Retirement'.
 
-## Minimum Loan
+### Minimum Loan
 
 * Minimum - £30k - our new mortgage customers
   * Minimum - £10k - our existing mortgage customers repackaging
 
-## Mortgage Arrears
+### Mortgage Arrears
 
 Applications where previous mortgages have been in arrears will not normally be considered, however please contact us for further information.
 
+---
 
+## SECTION 13 – CRITERIA N
 
-================================================================================
-N
-================================================================================
-
-## Non UK/EEA Citizens
+### Non UK/EEA Citizens
 
 Applicant(s) must be a UK or EEA citizen, or have indefinite leave to remain in the UK.
 They must be a permanent UK resident at the time the application is made.
@@ -398,11 +374,11 @@ Applications from Non UK/EEA citizens will not be considered unless both applica
 
 For joint applications where only one applicant is a UK or EEA citizen, and the other is not, the application may be considered but we will only use the income from the UK or EEA citizen.
 
-## Number of Applicants
+### Number of Applicants
 
 There is a maximum number of 4 applicants in a single application.
 
-## New Build
+### New Build
 
 We accept applications for New Build properties. We define a New Build as a property that has been built/converted within the previous 2 years. 
 Max New Build LTV 90%
@@ -436,17 +412,15 @@ These will typically be acceptable on the following basis:
 ** Please note that builders cash back is not accepted to fund the deposit on Help to Buy Equity Loan Scheme applications.
 A Predicted Energy Assessment (PEA) is required for new build properties. (A-C)
 
+---
 
+## SECTION 14 – CRITERIA O
 
-================================================================================
-O
-================================================================================
-
-## Offer Validity
+### Offer Validity
 
 Standard offers are valid for 180 days. These can be extended for up to 90 days for new build properties.
 
-## Overpayments & Lump Sum Payments
+### Overpayments & Lump Sum Payments
 
 **Fixed Rate Mortgages**
 Customer can make a lump sum overpayment during the Fixed Rate Period without incurring an Early Repayment Charge provided the overpayment:
@@ -457,21 +431,19 @@ Customer can make a lump sum overpayment during the Fixed Rate Period without in
 In all other cases, the Early Repayment Charge referred to in the "Early Repayment" section of the mortgage illustration and offer will apply to any additional lump sum overpayment.
 Please refer to the customer's mortgage illustration and offer documentation for full information regarding Overpayments and Early Repayment Charges.
 
-## Overtime / Commission / Bonus
+### Overtime / Commission / Bonus
 
 We may consider additional types of Income such as Overtime, Commission, Tips/Tronc and bonus income subject to a level of discount (we currently consider 60%). The appropriate discount will be applied automatically via Danske Home when keying the application. Commission /overtime is calculated based on average of past 3 months. For Bonus income we require the payslip(s) showing payment of the bonus, for the previous three years if received annually, or the previous two years, if received half yearly or quarterly.
 
+---
 
+## SECTION 15 – CRITERIA P
 
-================================================================================
-P
-================================================================================
-
-## Payment Holidays
+### Payment Holidays
 
 Payment holidays are generally not permitted.
 
-## Portability
+### Portability
 
 **Porting Conditions**
 If a mortgage is portable it will be outlined in the customers current Mortgage Illustration and Mortgage Offer Document.
@@ -498,21 +470,21 @@ In order to progress an application you must:
 
 Application Form
 
-## Product Transfer
+### Product Transfer
 
 An online product transfer (PT) option will be available 90 days prior to fixed term expiring.
 
-## Proof of Deposit
+### Proof of Deposit
 
 We will require documentary evidence of any deposit, where it is not coming from the simultaneous sale of a borrower's existing property.
 We can accept deposits provided by gift, please refer to the section 'Third Party Interest' for further information. We only require name and address of person gifting deposit.
 We do not normally accept deposits provided by loans, however please contact us for further information.
 
-## Proof of ID / Address
+### Proof of ID / Address
 
 All applications must be submitted with customer verification documents.
 
-## Property Types
+### Property Types
 
 We will only accept applications for properties with an EPC* rating of A-C (at least 12 months validity required).
 New-build homes will have a Predicted Energy Assessment (PEA) before they’re finished. This should be available from the builder or estate agent.
@@ -531,96 +503,96 @@ You may be able to find a property’s rating on the UK Government's Find an ene
 If a property has never had an EPC rating, or it has expired, you need to book a property assessment (GOV.UK)  to get a new Energy Performance Certificate.
 There may be a cost associated with obtaining an EPC.
 
+---
 
+## SECTION 16 – CRITERIA R
 
-================================================================================
-R
-================================================================================
-
-## Rental Property Income
+### Rental Property Income
 
 Rental Property Income will be considered subject to the provision of evidence of income from the applicant. Confirmation will also be required that tax affairs are up to date.
 
-## Retirement
+### Retirement
 
 Loans may be extended beyond retirement age provided that verified post retirement income meets affordability criteria rules. If mortgage term is more than 11 years and will not take applicant more than 5 years beyond retirement evidence that applicant is currently making pension contributions will be required. If mortgage term is less than 11 years and will take applicant more than 5 years from retirement pension projections will be required and will be used for affordability.
 The maximum loan term of 40 years can not be exceeded, and the mortgage must be repaid by the applicant’s 75th birthday.
 
-## Right to Buy
+### Right to Buy
 
 Right to Buy applications may be considered. Please contact us for further information and specific criteria.
 
+---
 
+## SECTION 17 – CRITERIA S
 
-================================================================================
-S
-================================================================================
-
-## Security
+### Security
 
 The standard security will be the property subject to purchase / remortgage. Additional Security may be required.
 
-## Self Certification
+### Self Certification
 
 We do not allow self certification.
 
-## Self-Build
+### Self-Build
 
 Not available in England.
 
-## Self-Employed Customers
+### Self-Employed Customers
 
 We accept applications from self-employed customers. Please refer to Income Documents for details on what verification documents are required and note that we may require additional documents in some circumstances.
 
-## Solicitor
+### Solicitor
 
 To help us process your application, please use the link below to check that your client’s solicitor/licensed conveyancer is on our panel. If the appointed solicitor is not on our panel, we will be unable to progress with the mortgage application, as we do not accept separate representation cases.
 Our solicitor panel is subject to change, and is managed through LMS. Any solicitor wishing to apply to be on our panel can do so through LMS.
 Danske Bank Solicitor Panel
 
-## State Benefits
+### State Benefits
 
 We can accept up to 100% of Child Benefit Income received for Children 12 years and under. 
 All other state benefits would be subject to a discount of 75%.
 
-## Sub Sales / Buyback
+### Sub Sales / Buyback
 
 We do not accept applications for sub sales or buyback arrangements.
 
+---
 
+## SECTION 18 – CRITERIA T
 
-================================================================================
-T
-================================================================================
-
-## Term of Mortgage
+### Term of Mortgage
 
 The maximum loan term is 40 years. The minimum term is typically 2 years. The mortgage must be repaid by the applicant's 75th birthday.
 
-## Third Party Interest
+### Third Party Interest
 
 Where a third party interest is identified the Bank will need to be satisfied this is captured. Please contact us for further information if required.
 
-## Tracker Home Loan
+### Tracker Home Loan
 
 Not available in England.
 
-## Transfer of Equity
+### Transfer of Equity
 
 For existing Danske Bank mortgage customers wishing to make a Transfer of Equity, please contact us.
 
+---
 
-================================================================================
-V
-================================================================================
+## SECTION 19 – CRITERIA V
 
-## Valuation
+### Valuation
 
 A Professional Valuation is mandatory for all purchase and remortgage (switcher) applications. If the customer is an existing Danske Bank mortgage customer switching products, they will not normally require a professional valuation. The bank will appoint a valuer who will undertake the valuation. Please contact us if a client would prefer / requires the following:
   * Home Buyers Report
   * Full Structural Survey
 
-================================================================================
-END OF DOCUMENT
-================================================================================
+---
 
+## SECTION 20 – CONTACT
+
+* Phone: 0345 607 0213
+* Hours: Monday–Friday 9am–5pm
+* Web: https://danskebank.co.uk/intermediaries/england/lending-criteria/a-z-criteria
+
+---
+
+*END OF DOCUMENT*

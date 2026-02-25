@@ -1,21 +1,16 @@
-LENDER NAME: Generation Home
-PRODUCT: Residential
+# GENERATION HOME – RESIDENTIAL LENDING CRITERIA
 
-# Generation Home - Residential Mortgage Lending Criteria
+---
 
-**Source:** [Generation Home Intermediaries - Packaging & Criteria](https://intermediaries.generationhome.com/criteria)
-
-**Last Updated:** 2025  
-**Version:** Comprehensive Residential Lending Criteria Guide
-
+**LENDER:** Generation Home
+**PRODUCT:** Residential
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 2025
 **FOR INTERMEDIARY USE ONLY**
 
-This document contains comprehensive residential mortgage lending criteria covering all topics from the Generation Home intermediaries website.
+**Source:** https://intermediaries.generationhome.com/criteria
 
-**Contact Information:**
-* Telephone: 0330 808 1791
-* Email: broker@generationhome.com
-* Gen H Pro Portal: [Log in to Gen H Pro](https://intermediaries.generationhome.com/)
+This document contains comprehensive residential mortgage lending criteria covering all topics from the Generation Home intermediaries website.
 
 ---
 
@@ -29,10 +24,6 @@ Applications where the owners have no employed income are not eligible for 90% n
 
 Maximum loan amounts apply.
 
-**Related:**
-* [95% LTV criteria](#95-ltv-criteria)
-* [Loan-to-value (LTV) maximum loan size](#loan-to-value-ltv-maximum-loan-size)
-* [New builds](#new-builds)
 
 ---
 
@@ -47,41 +38,31 @@ Applications where the owners have no employed income are not eligible for 95% L
 
 Maximum loan amounts apply.
 
-**Related:**
-* [New builds](#new-builds)
-* [Loan-to-value (LTV) maximum loan size](#loan-to-value-ltv-maximum-loan-size)
 
 ---
 
 ## Absent freeholder
 Properties with an absent or insolvent freeholder are only acceptable in blocks of up to 6 flats. We will also require an appropriate indemnity policy to be obtained on completion.
 
-Related:
-
-Leasehold
 
 ## Acreage
 
 Properties with land up to 2 acres are accepted.
 
-Related:
-
-Agricultural ties
 
 ## Additional borrowing (existing customers)
 
 We don't currently offer additional borrowing through further advances to existing customers.
 
-Related:
-
-Remortgage with additional borrowing
 
 ## Additional duty/responsibility
 
 Income from guaranteed additional duties or responsibilities is acceptable and weighted at 100%.
 
+---
 
-Address verification
+## Address verification
+
 We're required to verify the current address of all of our customers, including owners, income boosters and deposit boosters.
 
 We will attempt to verify the customer's address using the electoral roll in the first instance.
@@ -106,8 +87,6 @@ The following document types are acceptable:
 * Where a current full/provisional UK/EU driving licence has been used as proof of identity, it can't also be used for proof of address.
 * Optional services such as cable TV, internet or mobile phones are not considered to be utility bills.
 
-**Related:**
-* [Identification](#identification)
 
 ---
 
@@ -115,8 +94,6 @@ The following document types are acceptable:
 
 We will decline applications from customers who, in the last 6 years, have entered or who intend to enter into an administration order.
 
-**Related:**
-* [Adverse credit](#adverse-credit)
 
 ## Adoption allowance
 
@@ -131,17 +108,6 @@ Any individuals who are associated with the owner(s) through continuing linked f
 
 Each customer is subject to the same checks, whether contributing to the mortgage or not.
 
-**Related:**
-* [County Court Judgments (CCJs)](#county-court-judgments-ccjs)
-* [Defaults](#defaults)
-* [Payday loans](#payday-loans)
-* [Payment holidays](#payment-holidays)
-* [Missed payments](#missed-payments)
-* [Bankruptcy / Sequestration Order](#bankruptcy--sequestration-order)
-* [Individual Voluntary Agreement (IVA)/Trust Deed](#individual-voluntary-agreement-ivatrust-deed)
-* [Debt management plan](#debt-management-plan)
-* [Administration order](#administration-order)
-* [Debt relief order](#debt-relief-order)
 
 ---
 
@@ -161,10 +127,6 @@ For cases with more than one customer, the loan must be repaid by the eldest cus
 
 We may be able to extend the term beyond an income booster's 85th birthday using our ejector seat. This will be applied automatically by our systems when calculating the maximum term.
 
-**Related:**
-* [Retirement age / plans](#retirement-age--plans)
-* [Mortgage term](#mortgage-term)
-* [Ejector seat](#ejector-seat)
 
 
 
@@ -174,8 +136,6 @@ We may be able to extend the term beyond an income booster's 85th birthday using
 
 Working farms, smallholdings, and houses subject to an agricultural occupancy restriction are not acceptable.
 
-**Related:**
-* [Acreage](#acreage)
 
 ---
 
@@ -210,7 +170,6 @@ We will not lend on properties bought at auction.
 
 We won't lend on any property purchased within the last 6 months.
 
-Related:
 
 Sub-sales
 
@@ -226,7 +185,6 @@ Key bank work as a zero-hours contract. We will weight bank work income at 100%.
 
 We will decline applications from customers who, in the last 6 years, have entered or who intend to enter bankruptcy or a sequestration order.
 
-Related:
 
 Adverse credit
 
@@ -238,8 +196,6 @@ We may lend on properties with more than 6 bedrooms. This is determined on a cas
 
 We won't lend on properties with more than 8 bedrooms.
 
-**Related:**
-* [Studio flats](#studio-flats)
 
 ---
 
@@ -262,11 +218,6 @@ Benefit income (excluding Universal Credit and Child Benefit) should be evidence
 * Latest DWP benefit award statement for the current tax year, and
 * Latest month's bank statement
 
-**Related:**
-* [Child benefit](#child-benefit)
-* [Universal Credit](#universal-credit)
-* [Disability Living Allowance (DLA)](#disability-living-allowance-dla)
-* [Incapacity benefit](#incapacity-benefit)
 
 ---
 
@@ -306,7 +257,6 @@ Income from capital gains is not accepted.
 
 Car allowance is acceptable and weighted at 100%. It must be a guaranteed contractual allowance.
 
-Related:
 
 Employed income
 
@@ -316,7 +266,6 @@ Income from a carer's allowance is acceptable and weighted at 100%. It must be g
 
 At least 50% of income required to support the loan must be from non-benefit income.
 
-Related:
 
 Benefit income
 
@@ -332,7 +281,6 @@ If a customer has moved from employed or contract work to self-employment, they 
 
 All changes to employment type will only be considered where the work remains in a similar role and industry.
 
-Related:
 
 Self employed
 
@@ -348,11 +296,9 @@ Child benefits can only be used where no one in the household has keyed income o
 
 We will accept child benefit for children that are no older than 13 years of age at the point of application.
 
-Box
-Packaging guidance:
+### Packaging guidance
 Proof of child benefit income can be evidenced using the customer's latest bank statement.
 
-Related:
 
 Benefit income
 
@@ -366,8 +312,6 @@ We will not accept properties with A3 or B2 rating.
 
 Should the customer be aware of cladding at the time of application submission, they should speak to the developer or seller to confirm whether an EWS1 is available. Where it is, it should be provided to us. The EWS1 form should be signed and dated within 5 years of the current date.
 
-**Related:**
-* [EWS1](#ews1)
 
 ---
 
@@ -385,9 +329,6 @@ Should the customer be aware of cladding at the time of application submission, 
 
 On loans over 80% LTV, income boosters must be close relatives of at least one of the owners. For family concessionary purchases, the vendor must be a close relative of at least one of the owners.
 
-**Related:**
-* [Income boosters](#income-boosters)
-* [Family concessionary purchase](#family-concessionary-purchase)
 
 ## Coach houses
 
@@ -515,8 +456,6 @@ See:
 
 See our conveyancer panel page for a list of conveyancers we work with and our panel requirements.
 
-**Related:**
-* [Separate legal representation](#separate-legal-representation)
 
 ---
 
@@ -528,8 +467,6 @@ CCJs satisfied in the last 3 years which are less than or equal to £100 can be 
 
 CCJs satisfied more than 3 years ago can be considered.
 
-**Related:**
-* [Adverse credit](#adverse-credit)
 
 ---
 
@@ -559,10 +496,6 @@ This will be verified against the last 6 months payment history confirmed on Exp
 
 For any standing revolving credit facility balances, 3% of the balance will be included as an expense.
 
-**Related:**
-* [Student loan repayments](#student-loan-repayments)
-* [Maintenance commitments](#maintenance-commitments)
-* [Remortgage with additional borrowing](#remortgage-with-additional-borrowing)
 
 ---
 
@@ -582,9 +515,6 @@ We will lend on the lower of the purchase price or current market value as deter
 
 The only exception to the above is where the application is classed as a family concessionary purchase in which case we will lend against the market value.
 
-**Related:**
-* [Valuations](#valuations)
-* [Family concessionary purchase](#family-concessionary-purchase)
 
 ---
 
@@ -592,9 +522,6 @@ The only exception to the above is where the application is classed as a family 
 
 All customers are required to complete identity and address verification.
 
-**Related:**
-* [Identification](#identification)
-* [Address verification](#address-verification)
 
 ---
 
@@ -608,10 +535,6 @@ Each customer is subject to the same checks, whether contributing to the mortgag
 
 There is no limit to the number of deposit boosters on an application.
 
-**Related:**
-* [Income boosters](#income-boosters)
-* [Occupiers](#occupiers)
-* [Married/civil customers applying in sole name](#marriedcivil-customers-applying-in-sole-name)
 
 ---
 
@@ -623,9 +546,6 @@ Annual income = day rate x 5 working days x 46 weeks
 
 Assessment will follow the same process as for fixed term contracts.
 
-**Related:**
-* [Contract workers](#contract-workers)
-* [Fixed term contracts](#fixed-term-contracts)
 
 ---
 
@@ -637,9 +557,6 @@ Evidence to support the purpose of the loan may be required, considering the siz
 
 Debt consolidation is not available for interest-only applications
 
-**Related:**
-* [Remortgage with additional borrowing](#remortgage-with-additional-borrowing)
-* [Interest only](#interest-only)
 
 ---
 
@@ -647,8 +564,6 @@ Debt consolidation is not available for interest-only applications
 
 We will decline applications from customers who, in the last 6 years, have entered or who intend to enter a debt management plan.
 
-**Related:**
-* [Adverse credit](#adverse-credit)
 
 ---
 
@@ -656,8 +571,6 @@ We will decline applications from customers who, in the last 6 years, have enter
 
 We will decline applications from customers who, in the last 6 years, have entered or who intend to enter a debt relief order.
 
-**Related:**
-* [Adverse credit](#adverse-credit)
 
 ---
 
@@ -685,8 +598,6 @@ A default is defined as an account in a defaulted status.
 
 The above default limits are combined, allowing for a maximum of £800 of defaults within the last 3 years.
 
-**Related:**
-* [Adverse credit](#adverse-credit)
 
 Deferred shares
 Deferred shares are not accepted.
@@ -737,10 +648,6 @@ Deposit boosters are not allowed to reside in the property.
 * Identification
 * Source of fund checks (where required)
 
-**Related:**
-* [Address verification](#address-verification)
-* [Identification](#identification)
-* [Independent legal advice (ILA)](#independent-legal-advice-ila)
 
 ---
 
@@ -767,10 +674,6 @@ Our deposit booster proposition allows friends or family to make a contribution 
 
 Visit the deposit booster page on our website for more information.
 
-**Related:**
-* [Proof of deposit](#proof-of-deposit)
-* [Deposit boosters](#deposit-boosters)
-* [Family concessionary purchase](#family-concessionary-purchase)
 
 ---
 
@@ -789,7 +692,6 @@ At least 50% of income required to support the loan must be from non-benefit inc
 
 We allow Disabled Living Allowance (DLA) and Personal Independence Payments (PIP) for children, but this must be continuing for the next 5 years.
 
-Related:
 
 Benefit income
 
@@ -798,7 +700,6 @@ We will consider applications on the basis that there is no sign of distress or 
 
 Unless the application is a family concessionary purchase, we will only be able to lend against the lower of the purchase price or market valuation and we will require at least a 5% deposit to be provided. The difference between the purchase price and the market value cannot be considered for the deposit source.
 
-Related:
 
 Family concessionary purchase
 
@@ -807,7 +708,6 @@ Where properties require an EWS1 form, the form should be signed and dated withi
 
 We are lead by our valuers on whether or not a property requires an EWS1.
 
-Related:
 
 Cladding
 
@@ -818,7 +718,6 @@ Early repayment charges do not apply after expiry of the initial fixed rate peri
 
 See sourcing systems for details of current ERCs.
 
-Related:
 
 Overpayments
 
@@ -831,7 +730,6 @@ We calculate how much of the loan will have been paid off by the time the income
 
 Please note that ejector seat does not always allow the term to be extended to our 40 year maximum. For an accurate term range please get a DIP or contact us.
 
-Related:
 
 Income boosters
 
@@ -842,12 +740,10 @@ Mortgage term
 Employed income
 We'll accept 100% of employed basic income and guaranteed contractual allowances such as a car allowance and London weighting.
 
-Box
-Packaging guidance:
+### Packaging guidance
 Most recent month’s or last 4 weeks’ payslips for basic pay only
 Most recent 2 months’ or last 8 weeks’ payslips where any bonus, overtime, commission etc. is evidenced
 Latest months’ bank statements showing income, expenditure and any rent or mortgage payments
-Related:
 
 Minimum income
 
@@ -871,7 +767,6 @@ The policy must mature prior to, or at, the mortgage loan's maturity date
 The policy's beneficiaries must solely comprise the applicants on the mortgage (deposit boosters not included)
 Where projected values for the policy are provided, the middle outcome should be utilised or, if only two outcomes are given, the lower outcome must be used
 Where the projected value of endowment is utilised and this relies on continued contributions, these contributions must be included as a financial commitment
-Related:
 
 Interest only
 
@@ -883,7 +778,6 @@ Where an estate rent charge has been collected in the last 12 years and/or relat
 Where the rent charge owner is a management company owned by the residents of a private freehold development (as shareholders) and the owners will become a shareholder on completion.
 Where the statutory remedies in section 121 of the Law of Property Act have been expressly excluded in the rent charge instrument or do not apply to the rent charge in question.
 Where the rent charge instrument contains notification to the mortgagee of at least 2 months prior to any enforcement action by the rent charge owner.
-Related:
 
 Ground rent
 
@@ -896,7 +790,6 @@ The value of security exceeds £100k outside London and the South East and £150
 The valuer deems the property to be acceptable to most lenders and readily saleable on a owner occupier basis.
 London and the South East includes areas I&J using the NUTS definition – see the Region section for more detail.
 
-Related:
 
 Region
 
@@ -911,7 +804,6 @@ We do not lend to expats or customers who are using a BFPO address.
 Expenses
 Expense income is not accepted unless it’s a contractually-guaranteed allowance.
 
-Related:
 
 Employed income
 
@@ -922,11 +814,9 @@ Income from employment at a family business is acceptable where the customer has
 
 Where more than 20% of shares in the business are owned, the customer must be treated as self-employed.
 
-Box
-Packaging guidance:
+### Packaging guidance
 12 months’ bank statements are required as proof of duration of employment
 
-Related:
 
 Self employed
 
@@ -948,7 +838,6 @@ We also require:
 
 Gen H solvency statutory declaration signed by seller (template available on LMS portal)
 Compliance with UK Finance Handbook requirements in respect of transactions at undervalue (Section 5.16.3 - 5.16.4)
-Related:
 
 Current value
 
@@ -979,8 +868,7 @@ Fixed term contracts can be considered where the customer has 12 months’ conti
 
 The customer must have a minimum of 3 months remaining on their current contract at the point of application or have a future contract in place.
 
-Box
-Packaging guidance:
+### Packaging guidance
 As proof of income on fixed term contracts, we require:
 
 Current contract with at least 3 months remaining at time of submission
@@ -992,7 +880,6 @@ Period 12/52 payslip from previous financial year, or
 Latest tax calculation, or
 Previous contracts, or
 12 months' bank statements demonstrating income
-Related:
 
 Day rate contracts
 
@@ -1048,11 +935,9 @@ Maximum 90% LTV
 2 years’ UK credit history - as determined by the start date of their oldest account as reported through Experian
 There's no requirement for time remaining on the visa, but it is expected to be valid up until the point of offer. Underwriters will apply appropriate discretion on a case-by-case basis.
 
-Box
-Packaging guidance:
+### Packaging guidance
 Leave to remain in the UK and all visas must be evidenced by the customer's gov.uk sharecode (eVisa)
 
-Related:
 
 Minimum credit history
 
@@ -1065,8 +950,7 @@ Visas
 Foster income
 Fostering income is allowable and weighted at 100%.
 
-Box
-Packaging guidance:
+### Packaging guidance
 Provide:
 
 Letter from the council or fostering agency which confirms the amount and that this is ongoing for the foreseeable future,
@@ -1094,7 +978,6 @@ We do not currently see any reason that this will not continue for the foreseeab
 Free Legals
 We do not provide free legals.
 
-Related:
 
 Conveyancing panel
 
@@ -1105,9 +988,6 @@ Freehold flats are not acceptable. Leasehold flats with a share of freehold are 
 
 The share of freehold must be an equal split between the properties under the freehold.
 
-Related:
-
-Leasehold
 
 Share of freehold
 
@@ -1124,7 +1004,6 @@ If there is the potential or the ground rent currently exceeds the above limits,
 
 This would require a lease variation to include a new clause in the Lease that states that under no circumstances can rent be increased so that it comes within the applicable Assured Shorthold Tenancy (AST) threshold in the Housing Act 1988 (as amended).
 
-Related:
 
 Property charges
 
@@ -1133,7 +1012,6 @@ Property charges
 Guarantors
 We don't allow guarantors, but we do allow income boosters.
 
-Related:
 
 Income boosters
 
@@ -1168,7 +1046,6 @@ We will not lend on holiday homes.
 Holiday let income
 Where rental income has been entered for affordability purposes and includes any element of holiday let income, the rental income must align with the profit figures evidenced in the latest year’s tax return. Please contact Gen H for support in keying your application.
 
-Related:
 
 Self employed
 
@@ -1191,8 +1068,7 @@ We don’t lend on house boats.
 Identification
 Identity verification is required for all owners, income boosters and deposit boosters.
 
-Box
-Packaging guidance:
+### Packaging guidance
 A copy of one of the following documents must be supplied:
 
 Current full UK or EU passport
@@ -1204,7 +1080,6 @@ Where a current full/provisional UK/EU driving licence has been used as proof of
 
 Optional services such as cable TV, internal or mobile phones are not considered to be utility bills.
 
-Related:
 
 Address verification
 
@@ -1215,7 +1090,6 @@ Income from an incapacity benefit is weighted at 100%. The benefit must be for t
 
 At least 50% of income required to support the loan must be from non-benefit income.
 
-Related:
 
 Benefit income
 
@@ -1255,7 +1129,6 @@ Note that all customers, including income boosters, are liable for the full mort
 
 Visit the income booster page on our website for more information about the income booster proposition.
 
-Related:
 
 Ejector seat
 
@@ -1272,7 +1145,6 @@ We require both income boosters and deposit boosters to obtain ILA. This is to e
 
 More information on this can be found here.
 
-Related:
 
 Income boosters
 
@@ -1283,7 +1155,6 @@ Deposit boosters
 Individual Voluntary Agreement (IVA)/Trust Deed
 We will decline applications from customers who have entered in the last 6 years or who intend to enter into an Individual Voluntary Agreement (IVA) or Trust Deed.
 
-Related:
 
 Adverse credit
 
@@ -1316,7 +1187,6 @@ Multiple repayment vehicles can be considered to meet the interest-only repaymen
 
 Debt consolidation is not available for interest-only applications
 
-Related:
 
 Repayment methods
 
@@ -1335,8 +1205,7 @@ Investments (IO)
 Investment income
 The total balance of the investment divided by the term should be keyed. We will weight this income at 50%.
 
-Box
-Packaging guidance:
+### Packaging guidance
 One of:
 
 Latest annual statement, or
@@ -1360,7 +1229,6 @@ Only UK-based investments are acceptable
 A minimum of £50,000 must be held in investments; this value can be combined across different investments and applicants
 Where the projected value of investments is utilised and this relies on continued contributions, these contributions must be included as a financial commitment
 Where investments are being used as the repayment vehicle, they cannot also be used as income
-Related:
 
 Interest only
 
@@ -1377,7 +1245,6 @@ Properties with management category D may be acceptable subject to adherence to 
 Joint Borrower Sole Proprietor (JBSP)
 Income boosters are our version of Joint Borrower Sole Proprietor (JBSP).
 
-Related:
 
 Income boosters
 
@@ -1409,7 +1276,6 @@ We will accept properties with an extension to the lease, but extensions will ne
 
 We will accept applications where a management company is in place. We only accept leasehold properties where the freeholder or management company has no connection to our customers.
 
-Related:
 
 Share of freehold
 
@@ -1422,8 +1288,7 @@ Rental income can only be used for affordability where 3 months' rental income c
 
 Where the property is not deemed to be self-funding against the potential rental income - shortfalls will be added into affordability.
 
-Box
-Packaging guidance:
+### Packaging guidance
 We will require a copy of the BTL illustration or confirmation that the current lender has accepted Consent to Let
 We will require an estate agent letter (from an ARLA approved business) showing potential rental income
 The LTV on the existing property cannot be higher than 80%
@@ -1447,8 +1312,7 @@ We will not accept dividends where the customer’s drawings exceed the net prof
 
 Please note that net profit is defined as the profit after all applicable expenses, including tax
 
-Box
-Packaging guidance:
+### Packaging guidance
 Where the business has been trading for 2 years
 
 The last two years' tax calculations and corresponding Tax Year Overviews (TYOs) - The most recent tax calculation must be dated within the last 18 months
@@ -1482,7 +1346,6 @@ Institute of Financial Accountants – A.F.A (Associate) or F.F.A (Fellow)
 Chartered Institute of Public Finance & Accountancy – C.P.F.A.
 AAT can be accepted where the firm or another accountant from the firm holds one of the above acceptable qualifications.
 
-Related:
 
 Self employed
 
@@ -1493,11 +1356,9 @@ We will take the latest year's profit from partnership.
 
 A partner must have a minimum of 2 years as an employee or equity partner or shareholder.
 
-Box
-Packaging guidance:
+### Packaging guidance
 Latest 2 years’ tax calculations, corresponding tax year overviews(TYOs) and the latest 3 months’ bank statements
 Latest month's personal bank statements showing income and expenditure
-Related:
 
 Self employed
 
@@ -1526,9 +1387,7 @@ We don’t offer bridging loans.
 
 We don’t offer loans to purchase or remortgage second residential properties.
 
-Related:
-
-Remortgage with additional borrowing
+* Remortgage with additional borrowing
 
 
 
@@ -1542,7 +1401,6 @@ Larger loans may be considered by referral.
 
 Loans may be subject to a lower maximum LTV for certain property types or LTVs.
 
-Related:
 
 Loan-to-value (LTV) maximum loan size
 
@@ -1555,7 +1413,6 @@ The following additional restrictions apply:
 
 If the application has a gross income of less than £40,000, LTI is capped at 4.49x
 If the application has an income booster, LTI is capped at 4.49x
-Related:
 
 Loan-to-value (LTV) maximum loan size
 
@@ -1598,7 +1455,6 @@ Remortgages
 
 LTV is limited to 90% for all remortgages. Further limits apply to remortgages with additional borrowing.
 
-Related:
 
 95% LTV criteria
 
@@ -1610,7 +1466,6 @@ Remortgage with additional borrowing
 
 We currently only lend in England and Wales.
 
-Related:
 
 Scotland
 
@@ -1623,7 +1478,6 @@ We can lend to locum doctors. Locum income is acceptable and weighted at 100%.
 
 Customers with locum income are considered zero hour contractors.
 
-Related:
 
 Zero-hours contracts
 
@@ -1641,7 +1495,6 @@ they share a kitchen, bathroom or living room with the owner
 they cannot have exclusive possession of the room that they are staying in. For example if the owner only has a key to the room for emergencies the lodger is likely considered to have exclusive possession, therefore this is not permitted.
 Income from lodgers is not accepted.
 
-Related:
 
 Occupiers
 
@@ -1650,7 +1503,6 @@ Occupiers
 Maintenance commitments
 Where the customer is required or is committed to pay maintenance, these payments should be keyed as expenditure.
 
-Related:
 
 Maintenance income
 
@@ -1659,8 +1511,7 @@ Maintenance income
 Maintenance income
 Maintenance income is allowable and weighted at 100%.
 
-Box
-Packaging guidance:
+### Packaging guidance
 Confirmation the agreement will be in place for the foreseeable future (confirmation through broker is acceptable)
 3 months bank statements showing maitenance receipt
 Court order (for spousal maintenance only)
@@ -1689,7 +1540,6 @@ We require a minimum of one year of credit history for each customer, as determi
 
 Where additional restrictions apply, as outlined in the foreign nationals section, a minimum of two years of credit history will be required, as determined by the start date of their oldest credit record reported through Experian.
 
-Related:
 
 Foreign nationals
 
@@ -1698,7 +1548,6 @@ Foreign nationals
 Minimum floor space
 The gross internal floor area (GIA) of a given property must be a minimum of 30 sqm.
 
-Related:
 
 Studio flats
 
@@ -1743,7 +1592,6 @@ For example:
 
 The customer currently holds two revolving credit accounts that are in arrears. The first account, a credit card with a utilised balance of £200, is 2 months overdue. The second account, a mail order credit with a utilised balance of £350, is 1 month overdue. Together, these accounts have a combined utilised balance of £550, which exceeds policy limits and would therefore be consider outside of policy.
 
-Related:
 
 Adverse credit
 
@@ -1762,7 +1610,6 @@ Minimum term: 5 years
 Maximum term: 40 years subject to the customer's age and potential use of the ejector seat
 These minimum terms apply for new mortgages or remortgages.
 
-Related:
 
 Age
 
@@ -1784,7 +1631,6 @@ The mortgage part of New Build Boost is assessed according to our standard 80% L
 
 Only qualified brokers who are on both Persimmon’s and our panel can advise on New Build Boost.
 
-Related:
 
 Offer validity
 
@@ -1801,11 +1647,10 @@ Financial incentives (as defined in the UK Finance Disclosure Form) such as paym
 
 Non-financial Incentives
 
-Property Related: If the incentives are property-related but moveable (such as furniture), this must be included as an incentive. If they are not moveable (such as kitchen upgrades, integrated appliances, landscaping, or fitted floor coverings) then these do not need to be considered as an incentive.
+Property **Related:** If the incentives are property-related but moveable (such as furniture), this must be included as an incentive. If they are not moveable (such as kitchen upgrades, integrated appliances, landscaping, or fitted floor coverings) then these do not need to be considered as an incentive.
 
-Non-Property Related: If the incentives are non-property related (such as a free car or holiday) then this must be included as an incentive.
+Non-Property **Related:** If the incentives are non-property related (such as a free car or holiday) then this must be included as an incentive.
 
-Related:
 
 Part exchange
 
@@ -1849,7 +1694,6 @@ There are significant changes from the floor plan reviewed by the valuer, The va
 
 The reinspection fee is £75.
 
-Related:
 
 Loan-to-value (LTV) maximum loan size
 
@@ -1860,8 +1704,7 @@ Gen H can consider applications where a customer has recently started a new role
 
 The role should be inline with the customer's current role and any increase should be reasonable.
 
-Box
-Packaging guidance:
+### Packaging guidance
 Started within last 6 months:
 
 Latest month's or last 4 weeks paylip(s) and corresponding bank statement showing income received
@@ -1871,7 +1714,6 @@ To start before completion:
 Latest month's or last 4 weeks paylip(s) and corresponding bank statement showing income received for the current role
 New role's contract
 We will condition for the first month's payslip and corresponding bank statement to be provided before completion
-Related:
 
 Probation periods
 
@@ -1891,7 +1733,6 @@ Construction types
 
 We do not lend on properties in Northern Ireland.
 
-Related:
 
 Location
 
@@ -1925,7 +1766,6 @@ The above list is not exhaustive and the requirement for third party occupier IL
 Where third party occupier ILA is required, we will reach out to the occupier and their chosen solicitor with the relevant forms
 It is required that the ILA meeting is carried out face-to-face
 we will not be able to approve the COT until these document are signed and returned to us
-Related:
 
 Owners
 
@@ -1963,14 +1803,12 @@ Credit commitments
 Overpayments
 Annual overpayments can be up or equal to 10% of the mortgage’s balance at the start of the current fixed rate period. If the customer exceeds this limit, an Early Repayment Charge (ERC) will apply.
 
-Related:
 
 Early repayment charges (ERCs)
 
 Overseas customers
 We do not accept overseas customers.
 
-Related:
 
 Expats
 
@@ -1981,8 +1819,7 @@ Income from overtime is acceptable. Key the full amount and we will weight the i
 
 Take the average overtime income from the last 2 months’ payslips. Underwriters will check that this amount is in line with year-to-date earnings.
 
-Box
-Packaging guidance:
+### Packaging guidance
 Most recent 2 months’ or last 8 weeks’ payslips, or
 P60, or
 The last tax year’s March payslip, where the YTD will be used, or
@@ -2004,8 +1841,7 @@ Self-employed customers taking parental leave will be reviewed on a case-by-case
 
 Child dependents must be declared along with any known future additional expenses.
 
-Box
-Packaging guidance:
+### Packaging guidance
 Returning within 3 months
 
 Letter from the employer confirming the return to work date, the return basis – i.e. part time or full time – and the returning income
@@ -2025,15 +1861,13 @@ Where the builder or developer is purchasing the customer’s existing residenti
 Pay increase or promotion
 Pay increases are acceptable and must be confirmed by the employer. Increases must be within a reasonable timeframe and will be reviewed by our underwriters.
 
-Box
-Packaging guidance:
+### Packaging guidance
 Latest month's or last 4 weeks' payslip(s) and corresponding bank statement showing income received (at current salary)
 Employment letter or contract showing new salary
 
 Payday loans
 Any customer with active payday loans within 6 months will be declined.
 
-Related:
 
 Adverse credit
 
@@ -2042,7 +1876,6 @@ We don't offer payment holidays on our mortgages.
 
 Applications will be declined if there have been any payment holidays on the customer's secured or unsecured lending within the last 6 months. Payment holidays taken more than 6 months ago will be reviewed by our underwriters on a case-by-case basis.
 
-Related:
 
 Adverse credit
 
@@ -2051,7 +1884,6 @@ We will accept 100% of state, private, group, occupational and pension annuities
 
 We can potentially consider self administered drawdown pension income. We will need evidence that the pension pot remaining is sufficient to cover the term of the mortgage.
 
-Related:
 
 Self-invested personal pension
 
@@ -2066,7 +1898,6 @@ For lump sum: The combined current or projected lump sum value for each applican
 Where a statement provides a range of projected values, the middle value must be utilised. If only two figures are provided, the lower figure must be used
 Where the projected value of pensions is utilised and this relies on continued contributions, these contributions must be included as a financial commitment
 Where pensions are being used as the repayment vehicle, they cannot also be used as income
-Related:
 
 Interest only
 
@@ -2079,7 +1910,6 @@ Personal independence payments are acceptable and weighted at 100%.
 
 At least 50% of income required to support the loan must be from non-benefit income.
 
-Related:
 
 Benefit income
 
@@ -2092,8 +1922,7 @@ The customer must have a 12-month employment history within the same role.
 
 The lower of the annual income on the latest P60 or annualised income from the latest 3 months’ payslips should be declared as the annual income.
 
-Box
-Packaging guidance:
+### Packaging guidance
 The latest P60, 3 months’ payslips and bank statements will be required to verify income.
 
 For self-employed customers:
@@ -2104,8 +1933,7 @@ The lower of the annual income seen on the latest SA302 or annualised income fro
 
 Shorter terms of employment or self-employment may be reviewed where the individual is a skilled worker or professional.
 
-Box
-Packaging guidance:
+### Packaging guidance
 The last 2 years’ tax calculations, tax year overviews(TYOs) and the latest 3 months’ business bank statements will be required to verify income.
 
 Porting
@@ -2127,8 +1955,7 @@ We do not accept applications on properties that are part of probate proceedings
 Probation periods
 Customers in the first 6 months of employment are considered to be in a probationary period.
 
-Box
-Packaging guidance:
+### Packaging guidance
 Where a customer is within a probationary period, the following are required in additional to standard document requirements:
 
 Confirmation that the customer is guaranteed to become permanently employed (e.g. contract or letter showing a completed probation period), or
@@ -2165,7 +1992,6 @@ Where the funds are being received from a high risk country, we may choose not t
 
 Where the deposit funds are the product of cryptocurrency trading, please refer to the acting conveyancer for further guidance on acceptability.
 
-Related:
 
 Deposit sources
 
@@ -2181,7 +2007,6 @@ The valuer will always be asked to confirm whether the annual property charges w
 
 Where we are advised of an impact, we may choose not to proceed.
 
-Related:
 
 Ground rent
 
@@ -2200,7 +2025,6 @@ The minimum value of properties in proximity to commercial premises that we’ll
 The minimum value of freehold properties converted into flats that we’ll lend on is £100,000 outside LSE and £150,000 inside LSE.
 London and the South East includes areas I&J using the NUTS definition – see the Region section for more detail.
 
-Related:
 
 Region
 
@@ -2221,7 +2045,6 @@ Where the valuer deems the property to be unsuitable on the grounds of noise, sm
 Where the valuer advises the location of the property is likely to attract antisocial behaviour,
 Where the valuer cannot recommend the security and believes the location materially impacts future saleability, or
 Where a property is in close proximity to or within influencing distance of food outlets, public houses, nightclubs, licenced premises, takeaways, shops selling perishable foodstuffs, petrol stations and large or predominantly industrial locations.
-Related:
 
 Region
 
@@ -2252,7 +2075,6 @@ Use the tool below to look up the region for a postcode.
 Postcode lookup
 AA1 1AA
 
-Related:
 
 Property value
 
@@ -2314,7 +2136,6 @@ Purchase lease extension
 Purchase of freehold
 School fees
 Debt consolidation
-Related:
 
 Additional borrowing (existing customers)
 
@@ -2342,12 +2163,10 @@ Address of property
 Outstanding mortgage balance
 Total annual rental income
 Total annual mortgage repayment
-Box
-Packaging guidance:
+### Packaging guidance
 Full property details as described above
 Latest 3 months bank statements showing rental income
 In certain circumstances - latest tax return and corresponding TYOs showing income from land and property
-Related:
 
 Self employed
 
@@ -2358,7 +2177,6 @@ Let to buy / Consent to let
 Repayment methods
 Loans are available on either a capital and interest basis or an interest-only basis. Gen H does not currently offer part-and-part loans.
 
-Related:
 
 Interest only
 
@@ -2381,7 +2199,6 @@ Retail-Based Roles: acceptable up to age 75
 Self-employed Customers with employees: acceptable up to age 75
 Physically demanding roles (e.g., tradesmen, ground workers, firefighters) or roles requiring physical capability (e.g., drivers, pilots, hair and beauty professionals) additional justification will be required for us to consider using the income past the age of 70
 Professional sportspeople are assessed on a case-by-case basis - please refer to Gen H prior to submission.
-Related:
 
 Retirement income
 
@@ -2399,8 +2216,7 @@ If a customer is already retired, the relevant pension income fields should be c
 
 Please ensure that any additional retirement income, such as rental or investment income (excluding pensions), is also entered in the appropriate fields.
 
-Box
-Packaging guidance:
+### Packaging guidance
 For a private pension:
 
 Lastest months’ pension payslips (if paid more frequently than monthly, 3 months’ equivalent payslips), or
@@ -2418,8 +2234,7 @@ The expected retirement income should include all income received after retireme
 
 Please ensure that any additional retirement income, such as rental or investment income (excluding pensions), is also entered in the appropriate fields.
 
-Box
-Packaging guidance:
+### Packaging guidance
 Evidence of pension such as an annual statement, latest pension projection and/or SIPP valuation
 
 Retiring between 10 and 15 years with loan extending over 5 years into retirement
@@ -2428,8 +2243,7 @@ If a customer is retiring within 10 to 15 years and the loan extends more than f
 
 Unlike cases where retirement is within 10 years, we will not assess a specific income value but must be satisfied that sufficient provisions are in place to support the loan throughout retirement.
 
-Box
-Packaging guidance:
+### Packaging guidance
 Evidence of pension such as an annual statement, latest pension projection and/or SIPP valuation
 
 Retiring between 10 and 15 years with loan extending less than 5 years into retirement OR retiring in over 15 years
@@ -2438,11 +2252,9 @@ If a customer is retiring within 10 to 15 years, but the loan extends less than 
 
 Alternatively, evidence of rental or investment income will also be sufficient to meet this requirement. If this has already been recorded, no further evidence will be required.
 
-Box
-Packaging guidance:
+### Packaging guidance
 Evidence of pension contributions on payslips or a pension pot
 
-Related:
 
 Retirement age / plans
 
@@ -2458,7 +2270,6 @@ Gen H can accept the sale of the mortgaged property, up to 60% loan-to-value (LT
 Requirements:
 
 A minimum remaining equity of £300,000 is required for properties within Greater London, and £200,000 for properties located outside this area
-Related:
 
 Interest only
 
@@ -2470,14 +2281,12 @@ Requirements:
 The property or properties must be owned by the applicant(s) - we cannot accept third party ownership (including the deposit booster)
 The property or properties must be located in the UK. Their value will be assessed internally via an automated valuation model (AVM)
 Each individual property must possess a minimum of £50,000 equity to be considered
-Related:
 
 Interest only
 
 Scotland
 We do not lend on properties in Scotland.
 
-Related:
 
 Location
 
@@ -2490,7 +2299,6 @@ Second charges are permitted, subject to prior consent from Gen H and confirmati
 Second jobs
 Can be considered where basic hours do not exceed 60 hours a week, in which case income will be weighted at 100%. Any hours completed over 60 hours a week will be classed as overtime and weighted at 75%.
 
-Related:
 
 Overtime
 
@@ -2499,14 +2307,12 @@ We don’t accept properties with a section 106 that restricts resale.
 
 The property must be located in England or Wales and have an indisputable title without onerous covenants, restrictions or burdens on the title which adversely affect the value of the property or its future marketability as a private residence.
 
-Related:
 
 Title restrictions
 
 Section 157
 We don’t accept properties with a section 157.
 
-Related:
 
 Title restrictions
 
@@ -2525,7 +2331,6 @@ Where a customer has been trading for more than 1 year, but less than 2, we can 
 
 Where the trading has reduced, we will reduce the income accordingly.
 
-Related:
 
 Sole traders / partnerships
 
@@ -2544,7 +2349,6 @@ For keying:
 
 If keying under investment income - take the pot value and divide by the mortgage term (The investment income bucket will automatically weight at 50%)
 If keying under pension - take the pot value, divide by term and then take 50%
-Related:
 
 Pension income
 
@@ -2553,30 +2357,24 @@ Investment income
 Separate legal representation
 Gen H does not allow separate legal representation. The selected conveyancer must represent both Gen H and the customer(s).
 
-Related:
 
 Conveyancing panel
 
 Service charges
 Service charges must not exceed 1% of the value of the property.
 
-Related:
 
 Ground rent
 
 Share of freehold
 We will proceed with properties where there is a share of freehold as long as the share is equally divided by the number of dwellings. The underlying lease should meet our leasehold criteria.
 
-Related:
-
-Leasehold
 
 Freehold flats
 
 Shared equity
 We don't lend on any type of shared equity scheme such as Help to Buy. We will offer remortgages with additional borrowing for the purpose of buying out another owner.
 
-Related:
 
 Forces Help to Buy
 
@@ -2587,15 +2385,12 @@ Remortgage with additional borrowing
 Shared ownership
 We do not lend on any type of shared ownership scheme.
 
-Related:
-
-Remortgage with additional borrowing
+* Remortgage with additional borrowing
 
 Shift allowance
 Income from shift allowances is acceptable and weighted at 100%. It must be guaranteed. If not guaranteed, this will be taken as overtime.
 
-Box
-Packaging guidance:
+### Packaging guidance
 Evidenced across a minimum of 2 payslips or invoices.
 
 Solar panels
@@ -2616,8 +2411,7 @@ We will take the latest net profit for the affordability assessment where the in
 
 Where there have been large increases or decreases in the year-on-year profit or income, please provide us with full details. We may ask for additional documents to ensure income used is sustainable.
 
-Box
-Packaging guidance:
+### Packaging guidance
 Where the business has been trading for 2 years
 
 The last two years' tax calculations and corresponding Tax Year Overviews (TYOs) - The most recent tax calculation must be dated within the last 18 months
@@ -2629,7 +2423,6 @@ The lastest years’ tax calculations and corresponding tax year overviews (TYOs
 Evidence of previous track record (P60, previous contracts, period 12/52 payslip from previous financial year etc)
 The last 3 months’ bank statements (business or personal as appropriate) showing income and consistent trading as per their declared income
 If not used for trading, the latest month's personal bank statement showing expenditure
-Related:
 
 Self employed
 
@@ -2688,7 +2481,6 @@ Studio style flats are acceptable where:
 The value is confirmed as being greater than £100k
 The property has a city centre location
 The valuer confirms that there is a resale demand for such property in the residential property market
-Related:
 
 Minimum floor space
 
@@ -2697,14 +2489,12 @@ Property value
 Sub-sales
 We will not lend on any property purchased within the last 6 months.
 
-Related:
 
 Back-to-back transactions
 
 Temporary workers
 Income from temporary work is acceptable and weighted at 100%. The customer must have 12 months’ continuous employment within the role.
 
-Related:
 
 Fixed term contracts
 
@@ -2724,7 +2514,6 @@ Freehold flats
 Title restrictions
 We do not accept properties that have restrictions against the title.
 
-Related:
 
 Section 106
 
@@ -2733,7 +2522,6 @@ Section 157
 Tronc income
 Tronc income is acceptable. Key the full amount as overtime and we will weight the income at 75%.
 
-Related:
 
 Overtime
 
@@ -2749,7 +2537,6 @@ Income from an umbrella company is acceptable and weighted at 100%.
 
 This income is treated as employed where tax is paid by the employer, and treated as self-employed where the customer pays their own tax.
 
-Related:
 
 Self employed
 
@@ -2788,8 +2575,7 @@ Housing allowance must be deducted
 At least 50% of income required to support the loan must be from non-benefit income
 Child Tax Credit should only be included where payments are guaranteed for the next 5 years(13 years or younger) from date of application.
 
-Box
-Packaging guidance:
+### Packaging guidance
 Latest month's Universal Credit statements
 Latest month’s bank statement
 How to Calculate Benefits Using a Universal Credit Statement
@@ -2835,14 +2621,15 @@ Certain visa categories, such as student visas (previously Tier 4), which stipul
 
 Where a customer holds a Skilled Worker visa, acceptance is contingent upon their employment being in a field relevant to the visa requirements, thereby enabling the customer to renew or extend their visa beyond its initial expiry.
 
-Related:
 
-Foreign nationals
+---
 
-Voluntary Right to Buy
+## Voluntary Right to Buy
+
 We won’t lend on applications using Voluntary Right to Buy.
 
-Vulnerable customers
+## Vulnerable customers
+
 According to 2022 research from the FCA, almost half of the UK’s population is vulnerable to potential harm with overrepresentation in certain groups, such as women and people on lower incomes.
 
 That’s why it’s so important you tell us if your clients possess any characteristics of vulnerability.
@@ -2853,14 +2640,15 @@ Whether they’re going through a huge life change, they’re not so good with n
 
 You can make a disclosure on the “Vulnerability details” page of your applications or by getting in touch with us directly at broker@generationhome.com or on 0330 808 1791.
 
-Widow’s Pension/Bereavement Support Payment
+## Widow’s Pension/Bereavement Support Payment
 Income from a Widow’s Pension or Bereavement Support Payment (BSP) is acceptable and weighted at 100%.
 
-Zero-hours contracts
+## Zero-hours contracts
+
 Zero-hours contracts can be considered where the customer has 12 months’ continuous employment within a similar role and industry, and where continued employment can be verified.
 
-Box
-Packaging guidance:
+### Packaging guidance
+
 We require:
 
 Latest 2 months’ payslips or invoices (calculation: take an average of the last 2 months' - this will be sense checked against the year to date figures)
@@ -2872,6 +2660,16 @@ Period 12/52 payslip from previous financial year, or
 Latest tax calculation, or
 Previous contracts, or
 12 months' bank statements demonstrating income
-Related:
 
-Contract workers
+---
+
+## Contact
+
+* Telephone: 0330 808 1791
+* Email: broker@generationhome.com
+* Intermediaries (criteria & packaging): https://intermediaries.generationhome.com/criteria
+* Gen H Pro Portal: https://intermediaries.generationhome.com/
+
+---
+
+*END OF DOCUMENT*

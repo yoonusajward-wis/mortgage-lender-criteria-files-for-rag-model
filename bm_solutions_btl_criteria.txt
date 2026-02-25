@@ -1,21 +1,22 @@
-LENDER NAME: Bm Solutions
-PRODUCT: Buy to Let
+# BM SOLUTIONS – BUY TO LET LENDING CRITERIA
 
-BM SOLUTIONS - BUY TO LET PERSONAL CRITERIA
-===========================================
+**LENDER:** BM Solutions (Birmingham Midshires)
+**PRODUCT:** Buy to Let
+**DOCUMENT TYPE:** Buy to Let personal/criteria.
+**SOURCE:** [Personal Criteria](https://www.bmsolutions.co.uk/personal-criteria)
+**LAST VERIFIED:** Information updated daily
 
-Source: https://www.bmsolutions.co.uk/personal-criteria
-Last Updated: Information updated daily
-For the use of mortgage intermediaries & other professionals only
+**IMPORTANT:** For the use of mortgage intermediaries and other professionals only.
 
-Birmingham Midshires is a division of Bank of Scotland plc. Registered in Scotland No. SC327000. 
-Registered Office: The Mound, Edinburgh EH1 1YZ. Bank of Scotland plc is authorised by the 
-Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential 
-Regulation Authority under registration number 169628.
+**RAG convention:** Criteria use explicit labels **Maximum:** **Minimum:** **Allowed:** **Not Acceptable:** **Condition:** where applicable for retrieval.
 
-================================================================================
-TABLE OF CONTENTS
-================================================================================
+**Contact:** See BM Solutions / Halifax Intermediaries for broker support.
+
+Birmingham Midshires is a division of Bank of Scotland plc. Registered in Scotland No. SC327000. Registered Office: The Mound, Edinburgh EH1 1YZ. Bank of Scotland plc is authorised by the PRA and regulated by the FCA and the PRA (registration number 169628).
+
+# SECTION 1 – BUY TO LET CRITERIA
+
+## TABLE OF CONTENTS
 
 1. APPLICATION
 2. CUSTOMER
@@ -25,12 +26,9 @@ TABLE OF CONTENTS
 6. EXISTING CUSTOMER
 7. TOP SLICING
 
-================================================================================
-1. APPLICATION
-================================================================================
+## 1. APPLICATION
 
-APPLICANTS
-----------
+### APPLICANTS
 - Maximum Number of Applicants: 4 (per application)
 - Changing Applicant Order: Go to applicant summary table at bottom of personal details screen, use ↓ and ↑ arrows to amend order, select 'Submit' button when done
 - Removing Applicant: Go to applicant summary table, select 'Delete' button on right-hand side of applicant to remove, select 'Submit' button when done
@@ -38,20 +36,17 @@ APPLICANTS
 - Important: Must not change any information in name, date of birth, or other personal details sections from one applicant to another
 - Questions: Speak to Business Development Manager before making any changes to an application
 
-DECISION IN PRINCIPLE
----------------------
+### DECISION IN PRINCIPLE
 - Provides credit decision using minimal information
 - States how much can be lent
 - Valid for: 3 months (subject to valuation and information supplied being correct)
 
-DIRECT DEBIT DETAILS
---------------------
+### DIRECT DEBIT DETAILS
 - Required: Details of personal current account where mortgage will be paid from (at application stage)
 - Business current accounts: Cannot be used
 - Direct Debit mandate form: Not required to complete, but account number and sort code needed to issue mortgage offer
 
-DOCUMENTATION NEEDED
---------------------
+### DOCUMENTATION NEEDED
 - Must obtain proof of income, deposit, gross monthly rent, and identification from everyone named on mortgage before keying application
 - Must retain on file the following documentation for all BTL and LTB applications and submit upon request:
 
@@ -85,21 +80,18 @@ Gross Monthly Rent (the amount paid by the tenant):
 - All evidenced income sources must be recorded on the application
 - Applicants may have different sources of income from employed PAYE, Self-Employment, Profit from UK Land and Property, Pension, and Gross Monthly Rental Income - all need to be recorded separately and accurately on application form, with evidence held on file, and submitted upon request
 
-FINDERS' FEES
--------------
+### FINDERS' FEES
 - Not Acceptable: Any application involving a fee paid to a third party (such as an investment club) for finding or introducing a buyer
 - Acceptable: Normal fee or commission payable to an estate agent handling the sale
 
-FIRST MONTHLY PAYMENT
----------------------
+### FIRST MONTHLY PAYMENT
 - Collection: Always collected in the month following completion of mortgage (e.g., if completes in June, first payment collected in July)
 - Payment Date: Normally collected on customer's chosen monthly payment date
 - Exception: If mortgage completes in last few days of month and there are fewer than four working days until customer's chosen payment date, first payment will be collected on 10th of that month, then revert to customer's chosen payment date on following month
 - Initial Interest: First monthly payment includes amount of 'initial interest' from day of completion to end of that month, plus first monthly mortgage payment (e.g., if completion is on 15th, interest calculated from 15th to end of month and added to first payment)
 - Notification: Will write to all customers to tell them when monthly payments will be collected and that first payment might be different to normal monthly payments
 
-FREE CONVEYANCING
------------------
+### FREE CONVEYANCING
 - Available: Free conveyancing for remortgaging to BM Solutions available on most remortgage products
 - Service: Where customer uses remortgage service, BM Solutions will pay conveyancer's legal fees and any registration fees
 - Customer Pays: Any fees existing lender might charge for repaying current mortgage, including existing lender's conveyancer's fees if existing lender doesn't allow BM Solutions conveyancer to act for them too
@@ -114,13 +106,11 @@ FREE CONVEYANCING
   * Leasehold properties
 - Mortgage-Free Properties: Remortgage service also available for customers raising capital on mortgage-free property
 
-NORTHERN IRISH CUSTOMERS
-------------------------
+### NORTHERN IRISH CUSTOMERS
 - Northern Irish law: Solicitors appointed by lender can't provide any additional services to customer
 - Additional Services: If customer needs any additional services, they'll need to instruct another solicitor
 
-SCOTTISH PROPERTIES - CLOSURE OF SASINE REGISTER
--------------------------------------------------
+### SCOTTISH PROPERTIES - CLOSURE OF SASINE REGISTER
 - Closure Date: General Register of Sasine closed to standard securities on 01 April 2016
 - Affects: Remortgaging of Scottish properties on old Sasine register
 - Service: Will cover standard costs for transferring from Sasine register to Land Registry during conveyancing part of remortgage service, wherever possible
@@ -132,8 +122,7 @@ SCOTTISH PROPERTIES - CLOSURE OF SASINE REGISTER
   * Rural properties where copies of neighbouring titles are needed to check servitudes/access rights etc.
 - Costs: Specific costs associated with complex transactions will vary, panel firms will apply hourly rate and agree everything with customers before starting any complex transaction
 
-PROOF OF RESIDENTIAL PURCHASE - LET TO BUY
--------------------------------------------
+### PROOF OF RESIDENTIAL PURCHASE - LET TO BUY
 - Requirement: All let to buy applications must involve a related residential purchase
 - Acceptable: Applications where customers are intending to rent out their current residential home, so they can buy another residential home
 - New Residential Mortgage: If customer is taking new residential mortgage when purchasing new home, need to see copy of new residential offer before can issue LTB offer
@@ -143,19 +132,15 @@ PROOF OF RESIDENTIAL PURCHASE - LET TO BUY
   * If property will or won't have a mortgage
 - Offer Issue: Can't issue let to buy offer until received everything needed
 
-================================================================================
-2. CUSTOMER
-================================================================================
+## 2. CUSTOMER
 
-ID & ADDRESS VERIFICATION
--------------------------
+### ID & ADDRESS VERIFICATION
 - Requirement: All customers must be fully and properly identified as part of mortgage application process
 - Recording: Accurate information must be recorded on application system, including confirmation of whether this is face-to-face or non-face-to-face application
 - Electronic Verification: If customer doesn't pass electronic verification checks, need to certify and retain evidence of customer's identification documents
 - Document Acceptance: Documents you can accept depend on whether you've met with customer in person, or remotely by telephone or video
 
-SINGLE ID & V
--------------
+### SINGLE ID & V
 - Use: For face-to-face verification, where customer is physically present and documentation is taken and verified, one document from single identification list can be used to verify customer
 - Cannot Use: Single ID can't be used if customer isn't present when ID&V is collected (includes video interviews) - in this case, use standard ID&V process
 - Single ID & V Documents:
@@ -165,8 +150,7 @@ SINGLE ID & V
   * Some non-UK passports
 - Former Names: These documents can be accepted in former name with evidence of name change (marriage certificate, Deed Poll or Decree Absolute)
 
-STANDARD ID & V
----------------
+### STANDARD ID & V
 - Use: Must be followed when customer isn't present when ID&V is obtained, or customer doesn't have single ID document
 - Requirement: Customer will need to produce two separate documents - must be originals and can only be used once in process for either address verification or identification
 - FCA Requirement: FCA registered firms must make sure any documentation relied upon to verify customer's identify is copied, certified, and retained in accordance with money laundering regulations. BM Solutions reserves right to contact you and request copies of identity documents at any time during life of mortgage and for up to five years after cessation
@@ -187,20 +171,17 @@ Standard ID&V Documents:
 - Utility bills dated within last 6 months: Identification: No | Address: Yes
 - Solicitor's correspondence relating to house purchase and dated within last 3 months: Identification: No | Address: Yes
 
-EXPATRIATES
------------
+### EXPATRIATES
 - Not Acceptable: Do not accept applications from Expatriates
 
-FOREIGN NATIONALS
------------------
+### FOREIGN NATIONALS
 - Requirement: All applications from non-UK, non-Irish, nationals, EEA and non-EEA customers - proof of permanent right to reside will be required for all applicants on applications which do not meet the following criteria:
   * Customer (or at least one customer on joint or multiple application) has lived continuously in UK for more than 5 years
   * To determine if customer has lived in UK for more than five years, will use data provided by credit reference agencies
 - Acceptable Documents: Will accept indefinite leave to remain/Right of Abode, UK Residency stamps in non-UK passports, biometric residence permits, and Home Office documentation confirming indefinite leave to remain in UK
 - EEA/Swiss Nationals: For EEA/Swiss nationals with Settled or Pre settled status, 'Share code' can be used as residence
 
-HOW TO CERTIFY A DOCUMENT
--------------------------
+### HOW TO CERTIFY A DOCUMENT
 - Requirement: Only identification and address verification and right to reside documents need to be certified
 - Process: Must certify documents when they're collected and keep copies on file - don't need to upload copies to application unless asked
 - Certifying Documents: Documents must be certified by FCA-registered mortgage intermediary
@@ -213,8 +194,7 @@ HOW TO CERTIFY A DOCUMENT
   * Wording to confirm true and correct copies of documents should be included
   * Intermediary name and signature must be included on certificate/document and date must be within three months of application date
 
-REFUGEES
---------
+### REFUGEES
 - Requirement: Refugees and asylum seekers must have indefinite leave to remain
 - Document: Usually given in letter confirming they've been granted 'Indefinite Leave to Remain' from Immigration and Nationality Directorate
 - Not Acceptable for Mortgage Purposes:
@@ -222,12 +202,9 @@ REFUGEES
   * Humanitarian protection
   * Discretionary leave
 
-================================================================================
-3. INCOME
-================================================================================
+## 3. INCOME
 
-AFFORDABILITY AND SUSTAINABILITY
----------------------------------
+### AFFORDABILITY AND SUSTAINABILITY
 - Assessment: Affordability is assessed using anticipated rental income from property
 - Personal Income: Will also assess personal income when making lending decision, so important customer's income is keyed accurately as it might affect decision
 - Personal Commitments: Expect to see customer can afford their personal commitments, so can be confident lending decision is sustainable if tenant stops paying or property needs maintenance or repairs
@@ -242,15 +219,13 @@ AFFORDABILITY AND SUSTAINABILITY
   * Rationale for sole applications, where finances are joint
   * Business details for self-employed customers
 
-APPLICANTS NOT PAID IN STERLING
---------------------------------
+### APPLICANTS NOT PAID IN STERLING
 - Definition: Foreign currency income is any income other than sterling received by customer
 - Note: Foreign currency income paid into UK bank account and transferred to sterling is still considered to be foreign currency
 - Not Acceptable: Foreign currency income won't be accepted for new mortgage or remortgage applications for new and existing customers, including porting, transfers of mortgaged property (TOMP), and further advances
 - Exceptions: Only exceptions are further advance applications for essential repairs to mortgaged property and product transfers
 
-CONTRACTORS
------------
+### CONTRACTORS
 - Employed: If customer is classed as employed, need to have been in current role for at least three months
 - Self-Employed: If customer is classed as self-employed, need at least two years' worth of trading figures
 
@@ -276,8 +251,7 @@ Professional sports people:
 - Requirement: Must confirm they've either been in continuous employment for 12 months or more with six months of contract remaining, or two years' continuous service as at date of application in same type of employment
 - Verification: Essential to verify these customers will be able to meet their monthly repayments as they near end of their career or if their career's ended early because of injury
 
-INCOME TYPES
-------------
+### INCOME TYPES
 - Requirement: For all applications, at least one of customers' needs to have an earned income and/or pension income
 - Recording: All income sources must be recorded accurately - includes all full years of self-employed income, PAYE, pension income, and all gross monthly rental
 - Location: All income sources need to be within UK
@@ -290,8 +264,7 @@ INCOME TYPES
 - Bank Statements: Must show customer's full name or initial, surname, and account number
 - Internet Bank Statements: Must show bank heading/name and http address
 
-INCOME TYPES TABLE
-------------------
+### INCOME TYPES TABLE
 The following income types are acceptable or not acceptable for BM Solutions Buy to Let applications:
 
 Acceptable Income Types:
@@ -433,13 +406,11 @@ Not Acceptable Income Types:
 - Uniform Allowance
 - Widows Allowance
 
-LENGTH OF EMPLOYMENT/SELF-EMPLOYMENT
--------------------------------------
+### LENGTH OF EMPLOYMENT/SELF-EMPLOYMENT
 - Employed: Employed customers will be expected to have been employed for minimum of three months in their current job
 - Self-Employed: Self-employed customers must have been self-employed for minimum of two years and provide at least two years' worth of trading figures
 
-RENTAL INCOME
--------------
+### RENTAL INCOME
 - Requirement: For employed, self-employed, and retired customers, all rental income and finance costs captured in 'Land and property income' section of application should match customers' tax calculations from HMRC
 - Keying Customer Whose Only Source of Income is from Land and Property:
   * Select 'Occupation type' as 'Professional' and 'Employment type' as 'Self-Employed'
@@ -454,8 +425,7 @@ RENTAL INCOME
 - Property Schedule: Gross monthly rent will need to be keyed into property schedule screen for all buy to let properties owned by anyone named on application
 - Verification: Tenancy agreement or letter from letting agent can be used to verify rental income keyed in Property schedule screen
 
-SECOND JOB
-----------
+### SECOND JOB
 - Consider: If any customer has more than one job, will consider following to decide if can take secondary income into account:
   * Are hours/days worked sustainable?
   * Are roles/skills similar?
@@ -464,8 +434,7 @@ SECOND JOB
   * Is salary consistent with type of employment?
 - Keying: Should key highest income as customer's main income, and income from second job as additional employment
 
-SELF-EMPLOYED APPLICANTS
--------------------------
+### SELF-EMPLOYED APPLICANTS
 - Requirement: Self-employed applicants must have been self-employed for minimum of 2 years and be able to provide at least 2 years' worth of trading figures
 - Must be Keyed as Self-Employed if Any of Following Applies:
   * They have shareholding of 25% or more
@@ -496,8 +465,7 @@ SELF-EMPLOYED APPLICANTS
 - Profit and Loss Statements: Alone aren't acceptable
 - Year End: Year end for all documents must be most recent and not be dated more than 18 months before date of application
 
-SELF-EMPLOYED/CONTRACTORS
---------------------------
+### SELF-EMPLOYED/CONTRACTORS
 The following table shows how different contractor and self-employed types should be treated:
 
 - Contractor - If applicant earns more than £500 per day or £75,000 per annum - providing 12 months or more continuous employment with 6 months of contract remaining OR 2 years continuous service (for last 2 years at date of application) in same type of employment - Acceptable: Yes - Main or Other: Main - Treat as: Basic Annual Income - Evidence: Copy of contract and latest months personal/business bank statement(s) showing salary credit
@@ -534,32 +502,26 @@ Not Acceptable:
 - Seasonal Contract - Acceptable: No
 - Piecework Contract - Acceptable: No
 
-TAX ON RENTAL INCOME
---------------------
+### TAX ON RENTAL INCOME
 - Finance Costs: Finance costs are not tax deductible, but tax relief can be claimed at basic rate, whatever rate of tax customer pays
 - Tax Liability: This will mean increased tax liability for some landlords
 - Manual Review: Where applications are referred for manual review, will consider additional tax liability
 - Independent Tax Advice: Customers must get independent tax advice if they're unsure how tax rules will affect them
 
-================================================================================
-4. LENDING
-================================================================================
+## 4. LENDING
 
-ASSIGNABLE CONTRACTS
---------------------
+### ASSIGNABLE CONTRACTS
 - Definition: Assignable contracts allow original buyer to sell property before legal completion, by assigning contract to buy property to new buyer after contracts have been exchanged with developer
 - Not Acceptable: Can't accept applications involving assignable contracts or irrevocable powers of attorney in favour of intervening sellers
 - Reporting: Any similar transaction structure must be reported
 
-BANKRUPTCIES
-------------
+### BANKRUPTCIES
 - Credit History Question: Must answer 'Yes' to credit history question asking if any customer has had bankruptcy / IVA / debt management arrangement or debt relief order which was:
   * Registered within last six years (whether now completed or not), OR
   * Is still outstanding (whenever this was registered)
 - Answer 'No': If bankruptcy / IVA / debt management arrangement or debt relief order was registered over six years ago and is no longer outstanding, question can be answered as 'No'
 
-BUSINESS/CONSUMER BUY TO LET
-----------------------------
+### BUSINESS/CONSUMER BUY TO LET
 - Offer: Offer business buy to lets (BBTL) and consumer buy to lets (CBTL)
 - BBTL Definition: Mortgage used to buy or remortgage property to let to non-family member or where majority of borrowing is for BTL purposes
 - CBTL Definition: Where property wasn't originally purchased for letting, and customer doesn't let out any other properties - customer or family member might have previously lived in property, for example, and/or majority of borrowing is for non-business purposes
@@ -585,22 +547,19 @@ Consumer Goods/Funds:
 
 Note: This list might not be available for every application - availability of each loan purpose will depend on circumstances of individual application
 
-CONCESSIONARY (DISCOUNTED) PURCHASE
-------------------------------------
+### CONCESSIONARY (DISCOUNTED) PURCHASE
 - Not Acceptable: Don't accept concessionary purchase applications where property is being purchased below full market value
 - Exception: Purchase of new build property if value has increased between agreement to purchase and building completion - builder incentives are acceptable, subject to existing criteria
 - Family Member Purchase: Acceptable to purchase BTL property from family member, as long as deposit is sourced from applicant's own resources and property is purchased at full market value
 - Gifted Deposits: Can't accept gifted deposits, even if from different family member to customer
 - Family Member Letting: BTL properties can't be let to family member
 
-COUNTY COURT JUDGEMENTS (CCJS)
--------------------------------
+### COUNTY COURT JUDGEMENTS (CCJS)
 - Credit History Question: Please answer 'Yes' to credit history question if any customer has had County Court Judgement (CCJ) or default registered against them, or their business if they're self-employed, within last six years
 - Consideration: CCJs are generally considered in credit scoring
 - Background Details: Background details will be needed for application
 
-CREDIT SCORE DECLINE APPEALS
------------------------------
+### CREDIT SCORE DECLINE APPEALS
 - Process: All applications will be credit scored
 - Right to Appeal: Customers have right to appeal if application is declined because it doesn't pass credit scoring
 - Scenarios When Appeal Might Be Successful:
@@ -611,8 +570,7 @@ CREDIT SCORE DECLINE APPEALS
 - Non-Lloyds Banking Group: If adverse information has been registered on non-Lloyds Banking Group product, appeal can't be submitted - customer should arrange for credit file to be corrected before new application is submitted
 - Other Scenarios: For any scenario outside of these, unlikely to change decision
 
-DEPENDANTS
-----------
+### DEPENDANTS
 - Definition: A dependant is anyone who relies on customer financially - won't be included on mortgage or contribute to monthly payments
 - Separation: Child and adult dependants need to be captured separately
 
@@ -627,8 +585,7 @@ Adult Dependant:
 - Living Arrangements: If adult dependant doesn't live at property all of time, still key this in adult dependant section
 - Never Lives at Property: If adult dependant doesn't ever live at property, must not be keyed as dependant, but related costs must be keyed as total figure in 'Other commitments'
 
-DEPOSITS
---------
+### DEPOSITS
 - Requirement: Source of all customer deposits must be captured, and proof must be retained for all buy to let applications, other than remortgages
 - Source: Deposit should come from customers' own resources
 - Builder's Deposit: Builder's deposit of up to 5% of purchase price is allowable on new build property applications if LTV is 75% or less - valuer must be aware of any incentive and make note of it in valuation report
@@ -717,8 +674,7 @@ Passbooks:
   * Should show at least latest three months' transactions and closing balance must cover deposit required
 - Large Deposits: If there are any recent large or unusual deposits into account, need to confirm where they came from - might mean obtaining further documents
 
-FIRST-TIME BUYER/FIRST-TIME LANDLORD
--------------------------------------
+### FIRST-TIME BUYER/FIRST-TIME LANDLORD
 Sole Applications:
 - Requirement: Applicant must own property in UK in their own name
 - Validation: Will need to be validated before offer can be made
@@ -742,8 +698,7 @@ Scotland and Northern Ireland:
 - Copy of recent mortgage statement dated within last three months, which must show at least one of applicants' names
 - Copy of mortgage statement over three months old plus last three months bank statements confirming payment - both must show at least one of applicants' names
 
-LETTING CRITERIA
-----------------
+### LETTING CRITERIA
 Tenancy Types:
 - Single assured shorthold tenancy in England
 - Occupation contract in Wales
@@ -793,8 +748,7 @@ Other Restrictions:
 - Occupancy Restrictions: Property can't have any occupancy restrictions
 - Second Charge: Applications won't be accepted where second charge is being completed at same time as BTL application
 
-LENDING LIMITS
---------------
+### LENDING LIMITS
 - Overall Lending Limit: £5,000,000 lending limit applies to all Buy To Let, Let To Buy, consent to let, second home loan, and House 2 House borrowing across Retail division of Lloyds Banking Group
 - Maximum Loan on Individual Properties:
   * 65% LTV between £1,000,000 and £2,000,000
@@ -806,25 +760,21 @@ LENDING LIMITS
 - Minimum Loan Amount: £25,001 (for further advances, minimum loan amount is £5,000)
 - Combined LTV: Certain buy to let deals have lower max LTV - where deal with lower LTV is combined with deal with higher LTV, lower LTV will apply to whole loan
 
-MIN/MAX AGE
------------
+### MIN/MAX AGE
 - Minimum Customer Age: 21
 - Maximum Age: Eldest customer must submit application before their 75th birthday
 - End of Term: Must be no older than age 80 at end of mortgage term
 
-MIN/MAX TERM
-------------
+### MIN/MAX TERM
 - Maximum Term: 40 years
 - Age Restriction: Term must not exceed eldest applicant's 80th birthday
 - Minimum Term: Must not be less than selected product term
 
-MORTGAGE ARREARS
-----------------
+### MORTGAGE ARREARS
 - Credit History Question: Must answer 'Yes' to credit history question if any customer has been in arrears in last six years with any mortgage borrowing or ever had property repossessed
 - Consideration: Applications where previous mortgages have been in arrears will be considered on individual basis
 
-MORTGAGE-FREE/UNENCUMBERED PROPERTIES
--------------------------------------
+### MORTGAGE-FREE/UNENCUMBERED PROPERTIES
 - Treatment: Loans on mortgage-free properties are treated like remortgages
 - Eligibility: Applicant is eligible for remortgage deal and incentives, such as free property assessment and legal service
 - Keying Instructions:
@@ -832,12 +782,10 @@ MORTGAGE-FREE/UNENCUMBERED PROPERTIES
   * Answer 'Yes' for all applicants to 'Is the property to be mortgaged, mortgage free?'
 - Ownership Requirement: Property must have been registered in at least one of applicants' names for minimum of six months
 
-NOTIONAL STRESS RATES
----------------------
+### NOTIONAL STRESS RATES
 - Assessment: Lending amounts are either assessed using actual or anticipated rental income from property only using stress rates and rental cover ratios or top slicing where will consider personal income alongside rental income
 
-PORTFOLIO LANDLORDS
--------------------
+### PORTFOLIO LANDLORDS
 - Definition: Portfolio landlord application is where applicants' have four or more mortgaged BTL properties, including new transaction - based on total number held by everyone named on application
 - Example: Two applicants buying property together - Applicant 1 has two mortgaged BTL properties, applicant 2 has one mortgaged BTL property - in total they'll have four properties between them, including one they're buying together, so application is classified as portfolio landlord
 - Included: Mortgaged BTL properties include those held in personal name, limited company name, or any other legal entity
@@ -881,8 +829,7 @@ Portfolio Landlord Help and Support:
 - Contact: If need any help with application, get in touch with specialist team - will get own dedicated case handler, who will contact once application is submitted
 - Call: 0345 6020914
 
-REMORTGAGE AND CAPITAL RAISING
-------------------------------
+### REMORTGAGE AND CAPITAL RAISING
 - Ownership Requirement: For remortgage applications, including unencumbered properties, customer must have owned property for minimum of six months
 
 Not Acceptable Reasons for Capital Raising:
@@ -895,29 +842,23 @@ Acceptable Capital Raising:
 - Deposit for BTL Purchase: Will allow capital raising for deposit for BTL purchase in personal or limited company name
 - Evidence: Underwriters might ask for evidence of how funds will be used if they have any concerns
 
-REPAYMENT METHODS
------------------
+### REPAYMENT METHODS
 - Acceptable: Repayment, interest only, or combination of both are acceptable
 - Requirement: Must tell us interest only elements will be repaid
 
-================================================================================
-5. PROPERTY
-================================================================================
+## 5. PROPERTY
 
-BUILDER CASH INCENTIVES
------------------------
+### BUILDER CASH INCENTIVES
 - Examples: Deposit contributions, cash-backs, contribution to legal fees/stamp duty, and mortgage subsidies
 - Acceptable: Usually acceptable if value isn't more than 5% of lower of purchase price or valuation
 - Higher Incentives: Cash incentives more than this might mean lower maximum loan amount is available
 - Declaration: All builder cash incentives must be declared at point of sale
 - Lending Decision: All lending decisions are based on either valuation or purchase price, whichever is lower
 
-BUY TO LET PROPERTY ADDRESS
----------------------------
+### BUY TO LET PROPERTY ADDRESS
 - Requirement: Buy to let property address must not be same as customers' correspondence address
 
-CLADDING
---------
+### CLADDING
 Properties in England and Wales:
 - EWS1 Form: Properties in buildings five storeys or higher no longer need External Wall System (EWS1) form in order to progress application
 - Remediation Work: Will also consider applications on properties where cladding remediation work is needed but not yet completed
@@ -936,13 +877,11 @@ New Build High Rise Blocks:
 - Scotland: This applies to new builds of four storeys or 11 metres high in Scotland
 - Alternative: If this can't be confirmed, please follow EWS1 process
 
-CONDITION
----------
+### CONDITION
 - Requirement: Property must be habitable, readily lettable or saleable, and structurally sound
 - Insurance: Buildings insurance also needs to be able to be arranged on it
 
-CONSTRUCTION
-------------
+### CONSTRUCTION
 - Location: Property must be in UK under UK legal jurisdiction
 - Assessment: Property acceptability is based on satisfactory valuation report from bank's appointed valuer
 - Non-Standard Construction: Non-standard construction will be assessed on individual merit
@@ -961,12 +900,10 @@ Not Acceptable:
 - Large Conversions: If flat is part of conversion, where total number of flats in scheme is above eight, valuer must confirm whole conversion project has been or will be completed to high standard
 - Flats Above Own Business: Flats above/next to business owned by same person aren't acceptable
 
-DISTRESSED SALE AND LEASEBACK
-------------------------------
+### DISTRESSED SALE AND LEASEBACK
 - Not Acceptable: Applications involving distressed sale, or sale and leaseback aren't acceptable
 
-ENERGY PERFORMANCE CERTIFICATE
-------------------------------
+### ENERGY PERFORMANCE CERTIFICATE
 - Definition: Energy performance certificate (EPC) gives domestic properties energy-efficiency rating from A to G
 - Validity: EPC is valid for 10 years - if property is sold in that time, EPC can be used by new owner
 - Minimum Rating: Properties in England, Northern Ireland, Scotland, and Wales must have valid EPC rating of E or above
@@ -977,19 +914,16 @@ ENERGY PERFORMANCE CERTIFICATE
 - Exemptions: If property is exempt, evidence isn't needed unless requested
 - Evidence: Evidence of EPC, PEA, SAP, or exemption evidence should be kept on file
 
-EXPOSURE LIMITS
----------------
+### EXPOSURE LIMITS
 - Assessment: When site is assessed as suitable for lending, will no longer apply initial cap on lending exposure
 - Monitoring: Will continue to monitor applications (exposure) as development progresses and might restrict further lending if concerns arise
 - Site Restrictions: There might be small number of sites where decide not to lend on because of specific market or site conditions
 
-FREE VALUATIONS
----------------
+### FREE VALUATIONS
 - Free Valuation Selected: If free valuation is selected as part of product incentive, appeal process on property valuation isn't available
 - Rental Valuation Appeal: If want to appeal rental valuation on BTL remortgage application, please contact BM Solutions
 
-HOUSES IN MULTIPLE OCCUPATION
-------------------------------
+### HOUSES IN MULTIPLE OCCUPATION
 - Acceptable: Properties subject to Local Authority Homes in Multiple Occupation (HMO) licensing might be acceptable, subject to valuer's assessment of suitability based on requirements:
 - Maximum Tenants: Maximum number of unrelated tenants is five - they must all be named on agreement
 - Responsibility: Landlords' responsibility to make sure all legislation is complied with, including (but not restricted to) legislation relating to Tenancy Deposit schemes and HMOs
@@ -998,20 +932,17 @@ HOUSES IN MULTIPLE OCCUPATION
 - Larger Properties: For larger properties, where there is potential of more than five lettable rooms, valuer must be satisfied property and local market reflects single family letting arrangements
 - Tenancy Types: Property can be let on single assured shorthold tenancy in England and Wales, private residential tenancy in Scotland, and private tenancy in Northern Ireland - tenancy in Northern Ireland must comply with provisions of Private Tenancies (Northern Ireland) Order 2006
 
-INHERITED PROPERTIES
---------------------
+### INHERITED PROPERTIES
 - Acceptable: Will accept remortgage on inherited property where applicant is beneficiary, but hasn't owned property for six months
 - Requirement: Probate must have been granted before application and written confirmation of inheritance of property and grant of probate is needed from customer's conveyancer
 
-JAPANESE KNOTWEED
------------------
+### JAPANESE KNOTWEED
 - Acceptable: Will lend if valuer confirms property is suitable mortgage security and provides present condition valuation figure
 - Assessment: To assess property, valuer will need report outlining issues and quote from treatment company
 - Treatment Company: Company must either be member of Property Care Association or offer warranty-backed treatment plan
 - Treatment Duration: If treatment is needed, it's often over 3-4 years
 
-NEW BUILD
----------
+### NEW BUILD
 - Definition: Initial occupancy/new build property is classed as any property being occupied and/or sold for first time on open market in its current state - also includes newly converted and refurbished properties
 
 Categories:
@@ -1045,18 +976,15 @@ Monitoring by Consultant:
   * Property built by self-build group, where construction is monitored by consultant employed by that self-build group
   * Property forming part of small, solely residential development of not more than 15 units in total, where construction is monitored by consultant employed by builder or developer - if flats/maisonettes are involved, each individual flat/maisonette counts as one property - developments containing more than 15 units need acceptable form of building standards indemnity
 
-REVISED PROPERTY DETAILS
-------------------------
+### REVISED PROPERTY DETAILS
 - Address Change: If purchase property address changes once mortgage application has been made, and customer's original mortgage product has been withdrawn, new deal from current range must be selected
 - Amendment: If property being purchased isn't changing but amendment is needed to address keyed, such as property number or street name, this must be changed by BM Solutions before completion - please contact to make this change
 
-SCOTTISH VALUATIONS
--------------------
+### SCOTTISH VALUATIONS
 - Not Acceptable: Can no longer accept re-type/transcription reports from Generic Mortgage Valuation Report (GMVR) with valid Home Report
 - Clarification: For further clarification, please contact BDM
 
-SUB-SALES AND BACK-TO-BACK TRANSACTIONS
-----------------------------------------
+### SUB-SALES AND BACK-TO-BACK TRANSACTIONS
 - Not Acceptable: Sub-sales and back-to-back transactions aren't acceptable
 - Ownership Requirement: Current vendor must have owned property for at least six months before can accept application to purchase property
 - Exception: Exception to this is if property is inherited and customer hasn't owned it for six months
@@ -1073,8 +1001,7 @@ Acceptable Sales Within Six Months:
 - Conveyancer Responsibility: Conveyancer will be responsible for making sure application meets acceptable criteria
 - Assignable Contracts: Applications involving assignable contracts or irrevocable powers of attorney in favour of intervening sellers aren't acceptable - should tell BM Solutions about any other transaction structure with similar effect
 
-TENURE
-------
+### TENURE
 - Acceptable: Freehold and leasehold houses are acceptable
 - Minimum Lease: Leasehold properties must have minimum of 70 years left on lease at application
 - Conversions: If property's been converted into no more than four units or is within purpose-built block, any leases should already be in place and not created at same time as mortgage application
@@ -1109,8 +1036,7 @@ Developments of More Than Four Units:
 - Conveyancer: Conveyancer will make sure arrangements in connection with management company are acceptable
 - Charge Registration: Mortgage must be registered on leasehold title
 
-UNACCEPTABLE CONSTRUCTION TYPES
--------------------------------
+### UNACCEPTABLE CONSTRUCTION TYPES
 - Timber or metal framed buildings where cavity has been retrospectively filled with insulation material
 - Concrete walls built in Cornwall or Devon before 1950 - or 1960 for postcodes PL12, 13, 14, 15, 17, 18, 22, and 23, where valuer has recommended Mundic report, and concrete test has classified it as class B or C
 - Unrepaired, designated defective properties under Housing Act 1985, Housing (Scotland) Act 1987, Housing (Northern Ireland) Order 1986
@@ -1118,8 +1044,7 @@ UNACCEPTABLE CONSTRUCTION TYPES
 - Load bearing panels made of asbestos or gypsum plaster
 - Structurally unsound or uninsurable properties
 
-USE OF PROPERTY
----------------
+### USE OF PROPERTY
 - Not Acceptable: Following property types aren't acceptable as security:
   * Dwelling on single title must not be split into separate units of accommodation, such as house converted into two flats, so each flat would need its own title
   * Property purchased from and let to same family member
@@ -1137,24 +1062,19 @@ USE OF PROPERTY
   * Timeshares
   * Properties with Energy Performance Certificate (EPC) rating of F or G with no registered exemption in place
 
-VALUATION
----------
+### VALUATION
 - Minimum Property Value: Minimum acceptable property value or purchase price is £50,000 - whichever is lower
 - Validity: Mortgage valuation is valid for 12 months
 - Revaluation: If mortgage doesn't complete within 12 months of valuation being carried out, new valuation will be needed - will advise if new valuation fee is also needed
 
-================================================================================
-6. EXISTING CUSTOMER
-================================================================================
+## 6. EXISTING CUSTOMER
 
-ARREARS
--------
+### ARREARS
 - Further Advances: Can't accept further advance applications if mortgage has been at least one month in arrears within last three months
 - Advice: Need to advise customer to bring account up-to-date with no arrears for at least three months before re-applying
 - Product Transfers: Standalone product transfers can be processed as soon as account is up to date without need to wait three months
 
-EARLY REPAYMENT CHARGES
------------------------
+### EARLY REPAYMENT CHARGES
 - Application: Some products have early repayment charges (ERCs) - will apply if customer repays some or all of mortgage in ERC period
 - Overpayment Allowance: For mortgage products with ERCs, up to 10% of amount outstanding can be repaid without having to pay ERC - will use balance as of 01 January of current calendar year to work this out - can change or withdraw this at any time
 - Porting Application: On porting application, any ERC which might apply will be waived or refunded if ERC period ends in next three months
@@ -1164,8 +1084,7 @@ EARLY REPAYMENT CHARGES
 - Subsequent Transfers: Once application has been submitted and new product has started, will be able to apply for product transfer on other sub-accounts - alternatively, can wait until ERC on all sub-accounts have three months left until expiry and apply for product transfer application on all eligible sub-accounts
 - Overpayments: For product transfers and further advances, ERCs will be charged on any overpayments made over 10%, even if customer is within four months of ERC expiry
 
-FURTHER ADVANCES
-----------------
+### FURTHER ADVANCES
 - Minimum Amount: Minimum further advance amount is £5,000
 - Product Requirement: When applying for further advance, product chosen must be from same scheme as main borrowing - BTL or LTB
 - EPC Rating: Do not accept further advance applications where EPC rating is F, G or exemption is in place, except when purpose of loan is for BTL repairs
@@ -1188,17 +1107,14 @@ Maximum LTV:
   * 80% LTV available for lending up to £350,000, including all fees, on EPC rated properties A-C
 - Revaluation: Where LTV is over 80% at application based on current index valuation, revaluation and revaluation fee will be needed - lending will be subject to value and rental figure following revaluation
 
-OVERPAYMENTS
-------------
+### OVERPAYMENTS
 - Availability: One-off or regular overpayments can be made at any time
 - ERCs: If early repayment charges (ERCs) apply to product, please refer to ERC section for more details
 
-PAYMENT HOLIDAYS
-----------------
+### PAYMENT HOLIDAYS
 - Not Allowed: Payment holidays aren't allowed
 
-PORTABILITY
------------
+### PORTABILITY
 - ERC Waiver: Any early repayment charges (ERCs) won't have to be paid on existing BTL mortgage products ported to new application
 - Portability: If product is portable, it will be outlined in original mortgage offer and supporting documentation
 - Remortgage Limitation: Can't port product to remortgage application if property is currently mortgaged
@@ -1211,8 +1127,7 @@ ERC Waiver Without Porting:
   * New mortgage is being taken in last three months of ERC period of current product
   * Apply for new application on new product within three months of existing BM BTL mortgage being redeemed
 
-PRODUCT TRANSFERS
-----------------
+### PRODUCT TRANSFERS
 - Availability: Product transfers are available for non-regulated buy to let and let to buy customers only
 - Not Eligible: Regulated mortgages, including residential customers and regulated buy to let, such as family buy to let aren't eligible for product transfers
 - Eligibility Check: Once product transfer's been submitted, automated eligibility check will be carried out to make sure customers qualify
@@ -1235,8 +1150,7 @@ Product Transfer Timescales:
 - Multiple Sub-Accounts: If account has multiple sub-accounts with different ERC periods, can only complete product transfer application on sub-account with ERC expiring soonest
 - Four Months Before: When customer is within last 4 months of existing product, can choose to select new product and forward date new product to start after current product has ended
 
-REGULATED MORTGAGES
-------------------
+### REGULATED MORTGAGES
 - Not Acceptable: No longer accept any changes to existing regulated mortgages held with BM Solutions
 
 This Includes:
@@ -1254,16 +1168,12 @@ Options:
 - Specialist Remortgage Team: Customer can contact Specialist Remortgage team on 0345 608 0263
 - Whole of Market: Can review whole of market for customer to remortgage to another lender
 
-TRANSFER/PURCHASE OF EQUITY
----------------------------
+### TRANSFER/PURCHASE OF EQUITY
 - Guide: Please see Transfer/purchase of equity guide
 
-================================================================================
-7. TOP SLICING
-================================================================================
+## 7. TOP SLICING
 
-MINIMUM TOP SLICING CRITERIA
-----------------------------
+### MINIMUM TOP SLICING CRITERIA
 - Portfolio Landlord: Portfolio landlord excluded
 - Let to Buy: Let to buy excluded
 - Minimum Income: Minimum income £100k (first two applicants)
@@ -1274,8 +1184,7 @@ Retirement Consideration:
 - If customer is within six years of anticipated retirement age or aged 70, whichever is earliest, at time of application:
 - Requirement: Can only consider lending on top slicing basis if they are either in receipt of acceptable pension income or be joint applicant with someone who has sufficient income and isn't within six years of retirement
 
-INCOME AND EXPENDITURE ASSESSMENT
----------------------------------
+### INCOME AND EXPENDITURE ASSESSMENT
 Income Included in Affordability:
 - PAYE - basic, commission, bonus, and overtime
 - Self-employment
@@ -1293,8 +1202,7 @@ Commitments Used to Calculate Affordability:
 - School fees
 - Childcare costs
 
-PROCESS
--------
+### PROCESS
 What to Expect When Submit Top Slicing Application:
 - Calculator: Complete online calculator and work out standard RCR calculation - if application qualifies, 'Top slicing' option and extra sections will be available to complete
 - Results: Calculator results page will update with new borrowing amount once top slicing sections are completed
@@ -1304,8 +1212,7 @@ What to Expect When Submit Top Slicing Application:
 - Changes: Any changes to application, including valuation changes, will mean reassessment - different amount could be offered, including up to standard rental cover ratio amount
 - Offer: Offer will be produced once income and expenditure has been verified and valuation is complete
 
-INCOME AND AFFORDABILITY
-------------------------
+### INCOME AND AFFORDABILITY
 - Requirement: All sustainable income must be entered online
 - Evidence: All income evidence must be submitted and verified before offer can be issued
 
@@ -1361,6 +1268,4 @@ Self-Employed/Contractors (for Top Slicing):
   * Hourly rate x 7 hours per day x 5 days per week x 46 weeks per year
 - Contract Hours: If contract states hours are lower than these, please use figures provided
 
-================================================================================
-END OF CRITERIA
-================================================================================
+*End of criteria.*

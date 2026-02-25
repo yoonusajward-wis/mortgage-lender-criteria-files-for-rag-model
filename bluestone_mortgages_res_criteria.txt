@@ -1,24 +1,24 @@
-LENDER NAME: Bluestone Mortgages
-PRODUCT: Residential
+# BLUESTONE MORTGAGES – RESIDENTIAL LENDING CRITERIA
 
-# Bluestone Mortgages - Residential Lending Criteria
-**Source:** https://bluestonemortgages.co.uk/brokers/forms-and-downloads/
-**Product Guide:** https://bluestonemortgages.co.uk/wp-content/uploads/2025/12/Residential_Product_Guide.pdf
-**Last Updated:** December 2025
+---
 
-**FOR INTERMEDIARY USE ONLY**
+**LENDER:** Bluestone Mortgages
+**PRODUCT:** Residential
+**DOCUMENT TYPE:** Residential lending criteria.
+**SOURCE:** [Forms and Downloads](https://bluestonemortgages.co.uk/brokers/forms-and-downloads/) | [Product Guide (PDF)](https://bluestonemortgages.co.uk/wp-content/uploads/2025/12/Residential_Product_Guide.pdf)
+**LAST VERIFIED:** December 2025
 
-Bluestone Mortgages Limited is authorised and regulated by the Financial Conduct Authority. Registered in England and Wales No. 2305213 at Floor 10, 40 Leadenhall Street, London, EC3A 2BJ.
+**IMPORTANT:** FOR INTERMEDIARY USE ONLY.
 
-**Contact:**
-* **Broker Support Team:** 0800 368 1833
-* **Email:** sales@bluestonemortgages.co.uk
-* **Broker Portal:** https://bluesky.bluestone.co.uk/
-* **Website:** https://bluestonemortgages.co.uk/brokers/
+**RAG convention:** Criteria use explicit labels **Maximum:** **Minimum:** **Allowed:** **Not Acceptable:** **Condition:** where applicable for retrieval.
 
-**Office Hours:**
-* Monday to Friday: 9:00am – 5:30pm
-* Calls may be recorded
+**Contact:** Broker Support 0800 368 1833 | sales@bluestonemortgages.co.uk | [Broker Portal](https://bluesky.bluestone.co.uk/) | [Brokers](https://bluestonemortgages.co.uk/brokers/). Office hours: Mon–Fri 9:00am–5:30pm. Calls may be recorded.
+
+Bluestone Mortgages Limited. Authorised and regulated by the FCA. Registered in England and Wales No. 2305213. Registered office: Floor 10, 40 Leadenhall Street, London EC3A 2BJ.
+
+---
+
+# SECTION 1 – RESIDENTIAL LENDING CRITERIA
 
 ---
 
@@ -46,15 +46,14 @@ We understand that life can be unpredictable and customers can build up a lot of
 
 Lending is based on the **lowest credit tier of any individual applicant**. For joint borrowers, the product selection is based on the lowest credit tier of any applicant.
 
-| Credit Category | Clear | AAA | AA | A | BBB |
-|---|---|---|---|---|---|
-| **Up to LTV** | 90% | 85% | 85% | 80% | 75% |
-| **Defaults** | 1 (satisfied) in 36 months | 1 in 36 months | 2 in 36 months | 3 in 36 months | 4 in 36 months |
-| **CCJs Number** | 0 in 36 months | 1 (satisfied) in 36 months | 2 in 36 months | 3 in 36 months | 3 in 36 months |
-| **Missed mortgage / secured loan / rental payments** | 0 in 24 months | 1 in 13 - 24 months | 2 in 13 - 24 months | 3 in 13 - 24 months | 4 in 13 - 24 months |
-| **Bankruptcy / Sequestration / DRO** | >6 years discharged | >3 years discharged | >3 years discharged | >3 years discharged | >3 years discharged |
-| **IVA/Trust Deed** | >6 years discharged | >3 years discharged | >3 years discharged | >3 years discharged | >3 years discharged |
-| **Pay Day Loans** | 0 in 12 months | 0 in 6 months | Current | | |
+**Maximum LTV by credit category:** Clear 90% | AAA 85% | AA 85% | A 80% | BBB 75%.
+
+**Credit category criteria (per applicant):**
+* **Clear:** Defaults 1 (satisfied) in 36 months; CCJs 0 in 36 months; missed mortgage/secured/rental 0 in 24 months; bankruptcy/DRO >6 years discharged; IVA/Trust Deed >6 years discharged; pay day loans 0 in 12 months.
+* **AAA:** Defaults 1 in 36 months; CCJs 1 (satisfied) in 36 months; missed mortgage/secured/rental 1 in 13–24 months; bankruptcy/DRO >3 years discharged; IVA/Trust Deed >3 years discharged; pay day loans 0 in 6 months.
+* **AA:** Defaults 2 in 36 months; CCJs 2 in 36 months; missed mortgage/secured/rental 2 in 13–24 months; bankruptcy/DRO >3 years discharged; IVA/Trust Deed >3 years discharged; pay day loans current allowed.
+* **A:** Defaults 3 in 36 months; CCJs 3 in 36 months; missed mortgage/secured/rental 3 in 13–24 months; bankruptcy/DRO >3 years discharged; IVA/Trust Deed >3 years discharged.
+* **BBB:** Defaults 4 in 36 months; CCJs 3 in 36 months; missed mortgage/secured/rental 4 in 13–24 months; bankruptcy/DRO >3 years discharged; IVA/Trust Deed >3 years discharged.
 
 ### Credit Category Notes
 
@@ -109,38 +108,11 @@ Lending is based on the **lowest credit tier of any individual applicant**. For 
 * Free basic valuation
 * TT fee £35
 
-**2 Year Fixed Rates:**
+**2 Year Fixed Rates:** Rates by LTV (65–90%) and credit tier (Clear to BBB). Product fee **£1,495**. See Product Guide for current rate grid.
 
-| Up to LTV | Clear | AAA | AA | A | BBB | Fee |
-|---|---|---|---|---|---|---|
-| 65% | 5.79% | 5.99% | 6.34% | 6.59% | 6.64% | £1,495 |
-| 70% | 5.89% | 6.04% | 6.39% | 6.64% | 6.69% | £1,495 |
-| 75% | 5.99% | 6.09% | 6.44% | 6.69% | 6.74% | £1,495 |
-| 80% | 6.04% | 6.19% | 6.64% | 6.74% | | £1,495 |
-| 85% | 6.59% | 6.79% | 6.94% | | | £1,495 |
-| 90% | 7.34% | | | | | £1,495 |
+**5 Year Fixed Rates:** Rates by LTV (65–90%) and credit tier (Clear to BBB). Product fee **£1,495**. See Product Guide for current rate grid.
 
-**5 Year Fixed Rates:**
-
-| Up to LTV | Clear | AAA | AA | A | BBB | Fee |
-|---|---|---|---|---|---|---|
-| 65% | 5.64% | 5.84% | 6.24% | 6.34% | 6.54% | £1,495 |
-| 70% | 5.69% | 5.89% | 6.29% | 6.39% | 6.59% | £1,495 |
-| 75% | 5.79% | 5.94% | 6.44% | 6.49% | 6.69% | £1,495 |
-| 80% | 5.84% | 6.04% | 6.49% | 6.64% | | £1,495 |
-| 85% | 6.39% | 6.54% | 6.79% | | | £1,495 |
-| 90% | 7.04% | | | | | £1,495 |
-
-**Reversion Rate:**
-
-| Up to LTV | Clear | AAA | AA | A | BBB | Fee |
-|---|---|---|---|---|---|---|
-| 65% | 7.55% (2.30% + BVR*) | 7.69% (2.44% + BVR*) | 7.85% (2.60% + BVR*) | 7.99% (2.74% + BVR*) | 8.15% (2.90% + BVR*) | £1,495 |
-| 70% | 7.55% (2.30% + BVR*) | 7.69% (2.44% + BVR*) | 7.85% (2.60% + BVR*) | 7.99% (2.74% + BVR*) | 8.15% (2.90% + BVR*) | £1,495 |
-| 75% | 7.70% (2.45% + BVR*) | 7.84% (2.59% + BVR*) | 8.00% (2.75% + BVR*) | 8.14% (2.89% + BVR*) | 8.30% (3.05% + BVR*) | £1,495 |
-| 80% | 7.70% (2.45% + BVR*) | 7.84% (2.59% + BVR*) | 8.00% (2.75% + BVR*) | 8.14% (2.89% + BVR*) | | £1,495 |
-| 85% | 8.00% (2.75% + BVR*) | 8.14% (2.89% + BVR*) | 8.30% (3.05% + BVR*) | | | £1,495 |
-| 90% | 8.30% (3.05% + BVR*) | | | | | £1,495 |
+**Reversion rate (tracker):** Rates by LTV (65–90%) and credit tier; reversion to BVR. Product fee **£1,495**. See Product Guide for current rate grid.
 
 **Bluestone Standard Variable rate "BVR":** 5.25%
 
@@ -153,32 +125,15 @@ The rate does not have a direct link to the Bank of England Base Rate (BBR), whi
 * Free basic valuation
 * TT fee £35
 
-**2 Year Fixed Rates:**
+**2 Year Fixed (Limited Edition):** 65% LTV 5.69%, 70% 5.79%, 75% 5.89%. Fee **£795**. Reversion 7.55% or 7.70% (BVR).
 
-| Up to LTV | Clear | Fee | Reversion rate |
-|---|---|---|---|
-| 65% | 5.69% | £795 | 7.55% (2.30% + BVR*) |
-| 70% | 5.79% | £795 | 7.55% (2.30% + BVR*) |
-| 75% | 5.89% | £795 | 7.70% (2.45% + BVR*) |
-
-**5 Year Fixed Rates:**
-
-| Up to LTV | Clear | Fee | Reversion rate |
-|---|---|---|---|
-| 65% | 5.54% | £795 | 7.55% (2.30% + BVR*) |
-| 70% | 5.59% | £795 | 7.55% (2.30% + BVR*) |
-| 75% | 5.64% | £795 | 7.70% (2.45% + BVR*) |
+**5 Year Fixed (Limited Edition):** 65% LTV 5.54%, 70% 5.59%, 75% 5.64%. Fee **£795**. Reversion 7.55% or 7.70% (BVR).
 
 **Bluestone Standard Variable rate "BVR":** 5.25%
 
 The rate does not have a direct link to the Bank of England Base Rate (BBR), which is also reviewed regularly. Typically the BVR will move in line with BBR changes, but could also go up or down at any other point in time, as this is a variable rate set by Bluestone Mortgages and reviewed regularly.
 
-**Early Repayment Charges (ERC):**
-
-| ERC | Year 1 | Year 2 | Year 3 | Year 4 | Year 5 |
-|---|---|---|---|---|---|
-| 2 Year Fixed | 3% | 2% | | | |
-| 5 Year Fixed | 3% | 2.5% | 2% | 1% | 0.5% |
+**Early Repayment Charges (ERC):** 2 Year Fixed: Year 1 3%, Year 2 2%. 5 Year Fixed: Year 1 3%, Year 2 2.5%, Year 3 2%, Year 4 1%, Year 5 0.5%.
 
 ### Fees Free Benefits
 
@@ -190,17 +145,15 @@ The rate does not have a direct link to the Bank of England Base Rate (BBR), whi
 
 ## Loan Criteria
 
-| Loan | Criteria |
-|---|---|
-| **Term** | 5 - 40 years |
-| **Max Loan Amount** | Residential: £1,000,000<br>Clear 90% LTV: £400,000 |
-| **Repayment Type** | Capital & Interest available on all loans |
-| **Mortgage Schemes not accepted** | Homebuy/Key Worker Scheme/HTB in schemes not reported/Shared Equity/Shared Ownership/Self Builds |
-| **Deposit** | From own resources or gifted from close relative* |
-| **Portability** | Not portable |
-| **Fees** | Product fees can be added to the loan regardless of LTV.<br>Restricted to maximum 90% LTV for Residential. |
+* **Term:** 5–40 years.
+* **Maximum loan amount:** Residential £1,000,000; Clear 90% LTV £400,000.
+* **Repayment type:** Capital & Interest on all loans.
+* **Mortgage schemes not accepted:** Homebuy, Key Worker Scheme, HTB (schemes not reported), Shared Equity, Shared Ownership, Self Builds.
+* **Deposit:** From own resources or gifted from close relative.*
+* **Portability:** Not portable.
+* **Fees:** Product fees can be added to the loan regardless of LTV; restricted to maximum 90% LTV for Residential.
 
-*A close family member is defined as a parent, child, grandparent, brother, sister, uncle, aunt, foster parent or legal guardian which includes step relatives.
+*Close family member: parent, child, grandparent, brother, sister, uncle, aunt, foster parent or legal guardian (includes step relatives).
 
 ---
 
@@ -280,24 +233,7 @@ Fees Free benefits are available for Right to Buy products:
 
 ### Valuation Fees
 
-| Valuation up to | Valuation Report Only | Valuation Report Plus Homebuyers Report | Valuation Report Plus Building Survey |
-|---|---|---|---|
-| £100,000 | £135 | £375 | £665 |
-| £150,000 | £160 | £425 | £715 |
-| £200,000 | £180 | £480 | £810 |
-| £250,000 | £205 | £535 | £850 |
-| £300,000 | £225 | £595 | £890 |
-| £350,000 | £250 | £640 | £940 |
-| £400,000 | £270 | £680 | £1,000 |
-| £450,000 | £295 | £725 | £1,050 |
-| £500,000 | £315 | £755 | £1,105 |
-| £600,000 | £440 | £850 | £1,230 |
-| £700,000 | £530 | £945 | £1,360 |
-| £800,000 | £585 | £1,065 | £1,480 |
-| £900,000 | £640 | £1,190 | £1,605 |
-| £1,000,000 | £745 | £1,315 | £1,730 |
-| >£1,000,000 | From £1,105 | From £1,740 | From £2,330 |
-| Retype | £60 | Transcripts of Scottish Home Reports will be acceptable where the report has been carried out by a valuer on the Bluestone Mortgages panel |
+**Valuation Report Only / Report + Homebuyers / Report + Building Survey (by value band):** Up to £100k £135 / £375 / £665; £150k £160 / £425 / £715; £200k £180 / £480 / £810; £250k £205 / £535 / £850; £300k £225 / £595 / £890; £350k £250 / £640 / £940; £400k £270 / £680 / £1,000; £450k £295 / £725 / £1,050; £500k £315 / £755 / £1,105; £600k £440 / £850 / £1,230; £700k £530 / £945 / £1,360; £800k £585 / £1,065 / £1,480; £900k £640 / £1,190 / £1,605; £1m £745 / £1,315 / £1,730; >£1m from £1,105 / £1,740 / £2,330. **Retype:** £60. Scottish Home Report transcripts acceptable where from a Bluestone panel valuer.
 
 ### Property Types
 
@@ -313,14 +249,11 @@ Fees Free benefits are available for Right to Buy products:
 
 ## Applicants
 
-| Applicants | Criteria |
-|---|---|
-| **Maximum per application** | 4 |
-| **Nationality & Residency** | Skilled Worker or Health & Care VISA accepted with the following criteria:<br>• A minimum of 1 years residency in the UK<br>• A valid UK work permit/VISA. A minimum of 6 months remaining on the VISA.<br>• Tiered LTV approach for Residential applications based on customers length of residency in the UK:<br>  - 1 year residency up to 80% LTV<br>  - 2 years residency up to 85% LTV<br>  - 3 years up to 90% LTV<br>• Minimum Income of £50k for Residential customers on an individual basis. |
-| **Age at application** | All applicants must be at least 20 years old |
-| | For residential and affordability based applications, the term cannot take the applicants past their 75th Birthday. |
-| **Residency (main applicants only)** | Permanent UK residency rights, permanent settled status.<br>Resident in UK for at least 1 year. Please note that an application for settled status is not sufficient. |
-| **Applicants not accepted** | Guarantors/Expats/Diplomats |
+* **Maximum per application:** 4.
+* **Nationality & residency:** Skilled Worker or Health & Care VISA accepted: minimum 1 year UK residency; valid UK work permit/VISA with minimum 6 months remaining; tiered LTV by residency — 1 year up to 80% LTV, 2 years up to 85%, 3 years up to 90%; minimum income £50k for Residential (individual basis).
+* **Minimum age at application:** 20 years. Term cannot take applicants past 75th birthday (residential/affordability-based).
+* **Residency (main applicants):** Permanent UK residency rights or permanent settled status; resident in UK at least 1 year (application for settled status alone not sufficient).
+* **Not accepted:** Guarantors, Expats, Diplomats.
 
 ---
 
@@ -451,9 +384,4 @@ We're assisting brokers in providing support to customers that other lenders may
 * Customers with complex credit histories including CCJs, Defaults and Debt Management Plans
 
 ---
-
-**Last Updated:** December 2025
-**Product Guide Reference:** BM01 12/25 – Product rates effective as of 19/12/25 (edited on 17/12)
-**Source:** https://bluestonemortgages.co.uk/brokers/
-**Product Guide PDF:** https://bluestonemortgages.co.uk/wp-content/uploads/2025/12/Residential_Product_Guide.pdf
-
+*End of criteria. Product Guide BM01 12/25; rates effective 19/12/25. See SOURCE above for current links.*

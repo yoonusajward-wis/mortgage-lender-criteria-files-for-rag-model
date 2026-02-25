@@ -1,343 +1,256 @@
-LENDER NAME: Gatehouse Bank
-PRODUCT: BTL Expats & International
+# GATEHOUSE BANK – BTL UK EXPATS AND INTERNATIONAL RESIDENTS
 
-================================================================================
-GATEHOUSE BANK - BUY TO LET CRITERIA FOR UK EXPATS AND INTERNATIONAL RESIDENTS
-================================================================================
+---
 
-Source: https://assets.gatehousebank.com/production/downloads/2025-10-23-BTL-UK-Expats-and-International-Criteria-Guide-V2.pdf
+**LENDER:** Gatehouse Bank
+**PRODUCT:** BTL Expats & International (Buy-to-Let for UK Expats and International Residents)
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 23 October 2025 (V2)
+**FOR INTERMEDIARY USE ONLY**
 
-Document Version: V2
-Effective from: 23 October 2025
+**Source:** https://assets.gatehousebank.com/production/downloads/2025-10-23-BTL-UK-Expats-and-International-Criteria-Guide-V2.pdf
 
-Note: This document is for intermediary use only. Shariah-compliant financing for UK Buy-to-Let residential investment property.
+Shariah-compliant financing for UK Buy-to-Let residential investment property.
 
-Last Verified: Based on PDF content as of the file creation date
+---
 
-================================================================================
+## SECTION 1 – Important Notice, Validity and Disclaimer
 
---- Page 1 ---
-
-FOR THE USE OF PROFESSIONAL MORTGAGE INTERMEDIARIES ONLY
-
-================================================================================
-BUY-TO-LET CRITERIA FOR UK EXPATS AND INTERNATIONAL RESIDENTS
-================================================================================
-
-Shariah-compliant financing for UK Buy-to-Let residential investment property
-
-Effective from: 23 October 2025
-
-IMPORTANT NOTICE
---------------------------------------------------------------------------------
+### 1.1 Important Notice
 
 All customers of the Bank must be able to read, speak and understand English to a level that they are fully aware of all obligations and requirements when entering any financial arrangements with the Bank.
 
-VALIDITY PERIODS
---------------------------------------------------------------------------------
+### 1.2 Validity Periods
 
-- Decision in Principle: 30 Days
-- Application: 90 Days
-- Offers: 120 Days (180 Days for New Build Properties Only)
+* Decision in Principle: 30 Days
+* Application: 90 Days
+* Offers: 120 Days (180 Days for New Build Properties Only)
 
 After 120 days (180 days for new build) the Offer may be re-issued at the Bank's discretion for up to a further 120 days (180 days for new build). Any new Offers will be subject to the latest available rental rates, criteria and other terms and may require updated evidence and a new valuation.
 
-Validities are subject to change without notice
+Validities are subject to change without notice.
 
-DISCLAIMER
---------------------------------------------------------------------------------
+### 1.3 Disclaimer
 
 These criteria are to provide guidance on the main financing Policy and is not exhaustive. Our experienced underwriters endeavour to make cases work, and will make the final decision based on all obtained facts and information on the applicants and property. The Bank reserves the right to request any further information it requires in order to make a decision.
 
---- Page 2 ---
+---
 
-================================================================================
-WHY CHOOSE GATEHOUSE BANK?
-================================================================================
+## SECTION 2 – Why Choose Gatehouse Bank
 
-- Dedicated, professional and experienced Business Development Managers
-- Every application is individually assessed
-- 2 and 5 year fixed term periods - up to £5m of finance and with £10m considered by referral
-- Income Top Ups (Top Slicing) available to UK Expats & International residents
-- Fast decision in principle
-- A range of financing options, from simple single residential investment finance to more complex structures, including, HMOs, MUFBs and property portfolios - all available with a Green discount for properties holding an EPC rating of A or B
-- Finance to individuals, sole proprietors and UK registered Limited Companies, LLPs and SPV structures
-- No requirement for Assets Under Management
+* Dedicated, professional and experienced Business Development Managers
+* Every application is individually assessed
+* 2 and 5 year fixed term periods – up to £5m of finance and with £10m considered by referral
+* Income Top Ups (Top Slicing) available to UK Expats & International residents
+* Fast decision in principle
+* A range of financing options, from simple single residential investment finance to more complex structures, including HMOs, MUFBs and property portfolios – all available with a Green discount for properties holding an EPC rating of A or B
+* Finance to individuals, sole proprietors and UK registered Limited Companies, LLPs and SPV structures
+* No requirement for Assets Under Management
 
---- Page 3 ---
+---
 
-================================================================================
-BUY-TO-LET FINANCE AT A GLANCE
-================================================================================
+## SECTION 3 – Buy-to-Let Finance at a Glance
 
-FINANCE AVAILABLE FOR
---------------------------------------------------------------------------------
+### 3.1 Finance Available For
 
-- INDIVIDUALS
-- PARTNERSHIPS
-- UK registered LIMITED COMPANIES, LLPs and SPV's
+* Individuals
+* Partnerships
+* UK registered Limited Companies, LLPs and SPV's
 
-PROPERTY TYPES INCLUDE
---------------------------------------------------------------------------------
+### 3.2 Property Types Include
 
-- MUFB (MULTI-UNIT FREEHOLD BLOCKS)
-- HMO (HOUSES OF MULTIPLE OCCUPATION)
-- HOUSES & FLATS INCLUDING NEW BUILD
+* MUFB (Multi-Unit Freehold Blocks)
+* HMO (Houses of Multiple Occupation)
+* Houses & flats including new build
 
-MAX FTV 80%
+### 3.3 Max FTV, Top Slicing, Finance Size and Terms
 
-TOP SLICING
---------------------------------------------------------------------------------
+* Max FTV: 80%
+* Top Slicing: available to UK Expats (FSCR from 110%) and International customers (FSCR from 115%)
+* Min/Max finance size: £75k–£5m per property/portfolio (£10m portfolio by referral)
+* New 0%, 3% & 5% fees with Limited Edition products
+* Green finance options with lower rental rates
+* Acquisition & Rent or Rent Only over 2 & 5 year fixed terms
 
-Top Slicing available to UK Expats: FSCR from 110% and International customers FSCR from 115%
+### 3.4 Portfolio Landlords
 
-MIN/MAX FINANCE SIZE
---------------------------------------------------------------------------------
+* No limit on the number of properties; up to £10m of finance considered by referral
 
-£75k-£5m PER PROPERTY/PORTFOLIO (£10m portfolio by referral)
+---
 
-NEW 0%, 3% & 5% FEES WITH LIMITED EDITION PRODUCTS
+## SECTION 4 – Buy-to-Let Product Criteria (UK Expats and International Residents)
 
-GREEN FINANCE OPTIONS WITH LOWER RENTAL RATES
+### 4.1 Purpose (Financing)
 
-ACQUISITION & RENT OR RENT ONLY OVER 2 & 5 YEAR FIXED TERMS
+* Purchase or Refinance
+* Day one refinance considered (subject to enhanced underwriting checks)
+* Debt consolidation is only allowed for capital raising to repay secured property finance in the applicant's name
+* Debt consolidation between SPVs/Limited Companies and individuals is not acceptable
+* Debt consolidation and capital raising re-finance for business, tax or gambling debt payments is not acceptable
+* Capital raising for property investment and development is allowed
 
-PORTFOLIO LANDLORDS
---------------------------------------------------------------------------------
+### 4.2 Max FTV
 
-NO LIMIT ON THE NUMBER OF PROPERTIES and up to £10m of finance considered by referral
+* BTL: 80% up to £2m; 75% up to £3m; 70% up to £5m (up to £10m by referral – terms apply, refer to BDM or Direct team). New 0%, 3% and 5% fees with Limited Edition products (product fees of 3% or 5% provide an advance payment in exchange for a reduced rental rate)
+* BTL Portfolio: 80% up to £2m (75% for any HMOs or MUFBs); 75% up to £3m; 70% up to £5m (up to £10m by referral). Same fee options as above
+* HMO & MUFB: 75% up to £3m; 70% up to £5m (up to £10m by referral). Same fee options as above
 
---- Page 4 ---
+### 4.3 Finance Basis and Payment
 
-================================================================================
-BUY-TO-LET PRODUCT CRITERIA FOR UK EXPATS AND INTERNATIONAL RESIDENTS
-================================================================================
+* Finance offered is based on Purchase Price or Valuation, whichever is the lower (all product types)
+* Payment: Acquisition & Rent or Rent Only (all product types)
 
-| Criteria | BTL | BTL Portfolio | HMO & MUFB |
-|---|---|---|---|
-| **Financing** | | | |
-| **Purpose** | • Purchase or Refinance.<br>• Day one refinance considered (subject to enhanced underwriting checks).<br>• Debt consolidation is only allowed for capital raising to repay secured property finance in the applicant's name.<br>• Debt consolidation between SPVs / Limited Companies and individuals is not acceptable.<br>• Debt consolidation and capital raising re-finance for business, tax or gambling debt payments is not acceptable.<br>• Capital raising for property investment and development is allowed. | | |
-| **Max FTV** | • 80% up to £2m of Finance<br>• 75% up to £3m<br>• 70% - up to £5m (up to £10m by referral – Terms apply, please refer to BDM or the Direct team)<br>• New 0%, 3% and 5% fees with Limited Edition products*<br>• *Our product fees of 3% or 5% provide a way to make an advance payment in exchange for a reduced rental rate. | • 80% up to £2m (75% for any HMOs or MUFBs)<br>• 75% up to £3m<br>• 70% up to £5m (up to £10m by referral – Terms apply, please refer to BDM or the Direct team)<br>• New 0%, 3% and 5% fees with Limited Edition products*<br>• *Our product fees of 3% or 5% provide a way to make an advance payment in exchange for a reduced rental rate. | • 75% up to £3m of Finance<br>• 70% up to £5m (up to £10m by referral – Terms apply, please refer to BDM or the Direct team)<br>• New 0%, 3% and 5% fees with Limited Edition products*<br>• *Our product fees of 3% or 5% provide a way to make an advance payment in exchange for a reduced rental rate. |
-| **Finance Basis** | The finance offered will be based on the Purchase Price or Valuation, whichever is the lower | The finance offered will be based on the Purchase Price or Valuation, whichever is the lower | The finance offered will be based on the Purchase Price or Valuation, whichever is the lower |
-| **Payment** | Acquisition & Rent or Rent Only | Acquisition & Rent or Rent Only | Acquisition & Rent or Rent Only |
-| **Portfolio Size** | Maximum 3 properties within BTL portfolio | No limit | No limit |
-| **Affordability Test - Financial Services Coverage Ratio (FSCR)** | **UK Expat:**<br>• 130% Non-UK taxpayer, 125% if UK basic rate taxpayer, 145% if UK higher rate/additional rate taxpayer<br>• Limited Company = 125%<br>• For International Residents: 130% for private individuals and 125% for Ltd Co's.<br>• 2-Year fixed term products stressed at the higher of pay rate or 5.50%.<br>• 5-Year fixed term products stressed at pay rate. | **UK Expat:**<br>• 130% Non-UK taxpayer, 125% if UK basic rate taxpayer, 145% if UK higher rate/additional rate taxpayer<br>• Limited Company = 125%<br>• For International Residents: 130% for private individuals and 125% for Ltd Co's.<br>• 2-Year fixed term products stressed at the higher of pay rate or 5.50%.<br>• 5-Year fixed term products stressed at pay rate.<br>• Applicants existing portfolio will be stress tested. | • Individual = 145%<br>• Limited Company = 145%<br>• 2-Year fixed term products stressed at the higher of pay rate or 5.50%.<br>• 5-Year fixed term products stressed at pay rate.<br>• Applicants existing portfolio will be stress tested. |
+### 4.4 Portfolio Size
 
---- Page 5 ---
+* BTL: Maximum 3 properties within BTL portfolio
+* BTL Portfolio: No limit
+* HMO & MUFB: No limit
 
-| Criteria | BTL | BTL Portfolio | HMO & MUFB |
-|---|---|---|---|
-| **Top Slicing Rental Coverage** | Top slicing allows for income to be considered in affordability assessments. Please see rental coverage ratios and minimum income requirements below:<br><br>**UK Expat Residents:**<br>• 115% for individuals and 110% for Ltd Co's<br>• Minimum income of £32,000 p.a.<br><br>**International Residents:**<br>• 120% for individuals and 115% for Ltd Co's<br>• Minimum income of £50,000 p.a.<br><br>Property licenses as required | Top slicing allows for income to be considered in affordability assessments. Please see rental coverage ratios and minimum income requirements below:<br><br>**UK Expat Residents:**<br>• 115% for individuals and 110% for Ltd Co's<br>• Minimum income of £32,000 p.a.<br><br>**International Residents:**<br>• 120% for individuals and 115% for Ltd Co's<br>• Minimum income of £50,000 p.a.<br><br>• Property schedule<br>• Business plan<br>• Cash flow forecast<br>• HMO or other property licenses as required | Top Slicing - Not available for HMOs/MUFBs<br><br>• Property schedule<br>• Business plan<br>• Cash flow forecast<br>• HMO or other property licenses as required |
-| **BTL Supporting documents** | Property licenses as required | • Property schedule<br>• Business plan<br>• Cash flow forecast<br>• HMO or other property licenses as required | • Property schedule<br>• Business plan<br>• Cash flow forecast<br>• HMO or other property licenses as required |
-| **Customer Types** | Individuals: for Partnerships, UK registered Limited Companies/SPVs & LLPs, please refer to the Gatehouse requirements for UK incorporated SPVs on the Bank's website. | | |
-| **Min/Max Finance size** | £75,000 - £5m per property or portfolio (up to £10m by referral – Terms apply, please refer) | £75,000 - £5m per property or portfolio (up to £10m by referral – Terms apply, please refer) | £75,000 - £5m per property or portfolio (up to £10m by referral – Terms apply, please refer) |
-| **Min/Max Term** | Min: 5 years<br>Max: Rent Only 30 years / Acquisition & Rent 30 years | Min: 5 years<br>Max: Rent Only 30 years / Acquisition & Rent 30 years | Min: 5 years<br>Max: Rent Only 30 years / Acquisition & Rent 30 years |
-| **Applicant** | | | |
-| **Applicant Experience** | • First Time Buyers (FTBs) / First Time Landlords Allowed for UK Expats<br>• First Time Buyers (FTBs) / First Time Landlords Allowed for International applicants. | Must have 2 years letting and financing experience as a standard BTL Landlord or 1 years as an HMO landlord, be it repaid or current financing. | Must have at least 1 years letting and financing experience as a residential landlord. HMOs for International residents must have a management agent to run the asset for the duration of the fixed term finance |
-| **Applicants - Types and Maximum Numbers** | All customers of the Bank must be able to read, speak and understand English to a level that they are fully aware of all obligations and requirements when entering any financial arrangements with the Bank.<br><br>• Individuals – maximum of 4 applicants (best two incomes used) – Applicants must reside in a country acceptable to the Bank (please see the 'Home Finance Applications – Countries Checklist' here).<br>• Sole Traders, Partnerships and UK registered Limited Companies, LLPs and SPVs (with a property business related SIC code) considered.<br>• For Limited Companies and SPVs, any Director and or Shareholder with a 25% or more shareholding in the company. must be on the application form.<br>• No minimum trading period required - newly formed companies may be considered.<br>• Personal Guarantees – these will be required from any shareholder who is party to a Limited Company/SPV/LLP or Partnership application. Guarantors will be held jointly and severally responsible for the full amount of the finance.<br>• We will not accept Personal Guarantees on applications by individuals.<br>• All Trust Structures, Joint borrower sole proprietor or similar arrangements are NOT acceptable.<br>• SPVs with negative equity – are not accepted unless the negative equity is a result of previous security assets held within the SPV e.g. Directors Loan or one-off property related expenditure. These will be considered on a case-by-case basis by the Underwriter. | | |
-| **Maximum Numbers** | • Individuals – 4 applicants (best 2 incomes used)<br>• SPV/Limited companies = 4 directors/Shareholders | • Individuals – 4 applicants (best 2 incomes used)<br>• SPV/Limited companies = 4 directors/Shareholders | • Individuals – 4 applicants (best 2 incomes used)<br>• SPV/Limited companies = 4 directors/Shareholders |
-| **Minimum Age** | 21 | 21 | 21 |
-| **Maximum Age** | No maximum age at end of finance term (for cases where there is reliance on income to support the affordability, the maximum age is 85) | | |
-| **Additional Requirements** | • All customers of the Bank must be able to read, speak and understand English to a level that they are fully aware of all obligations and requirements when entering any financial arrangements with the Bank.<br>• Applicant must have a UK current account for the duration of the financing to enable direct debit payment.<br>• Green Products – To be eligible for the Green Rental Rate and Carbon Neutral incentives, all properties must have an EPC rating of A or B. | | |
-| **Employment** | | | |
-| **Employed Income Verification (Including Directors with less than 25% shareholding)** | Employed – permanent employment over 3 months at same employer. | Employed – permanent employment over 3 months at same employer. | Employed – permanent employment over 3 months at same employer. |
-| **Employed Acceptable Income** | • Basic pay<br>• 100% of car allowance, overtime and commission (subject to terms), guaranteed bonus, second job (must be evidenced for the past 12 months and proven will be continued) net rental income, occupational pension income and housing allowance<br>• 50% of any regular bonus (evidenced over the past 2-years)<br><br>Other allowances/income (including pension and dividend income) may be accepted. | | |
-| **Self Employed Income Verification** | An applicant will be classed as self-employed if they fall into one of the following categories:<br>• Sole Trader, Partner in a firm, Member of a LLP, any director with 25% or more shareholding (anyone with a 10% shareholding in the applying company may be required to provide identification documentation and be subject to Know Your Customer (KYC) checks).<br>• Income will be calculated based on latest year's income.<br>• Special consideration may be given to medical professionals with less than 12 months self-employed income history.<br><br>The year end on all documentation provided must be the most recent and the latest document must not be dated more than 18 months before the date of application.<br><br>Where applicable, additional income evidence may be requested at the underwriter's discretion. | | |
-| **Contractors** | • Signed copy of contract.<br>• If more than 6 months to run on current contract – no further evidence required.<br>• If less than 6 months to run on current contract – then 12 months evidence of same work required. | | |
-| **Income** | | | |
-| **Minimum income** | At least one applicant must earn a minimum of £18,000 p.a. including for First-time Buyer (FTB), First-time Landlord (FTL) and Portfolio Landlords (this applies to all property types (All employment types) and all customer residencies). For Top-slicing the minimum income is £32,000 p.a. from at least one UK Expat applicant & £50,000 p.a. from at least one international applicant. | | |
-| **Maximum Finance to income** | N/A | N/A | N/A |
-| **Additional Income** | Additional income can be considered, but must be verifiable | Additional income can be considered, but must be verifiable | Additional income can be considered, but must be verifiable |
+### 4.5 Affordability Test – Financial Services Coverage Ratio (FSCR)
 
---- Page 6 ---
+* UK Expat: 130% Non-UK taxpayer, 125% if UK basic rate taxpayer, 145% if UK higher/additional rate taxpayer; Limited Company = 125%
+* International Residents: 130% for private individuals, 125% for Ltd Co's
+* 2-Year fixed term products stressed at the higher of pay rate or 5.50%; 5-Year fixed term products stressed at pay rate
+* Portfolio/HMO & MUFB: applicants' existing portfolio will be stress tested
+* HMO & MUFB: Individual = 145%, Limited Company = 145%
 
-| Criteria | BTL | BTL Portfolio | HMO & MUFB |
-|---|---|---|---|
-| **Deposit Details** | | | |
-| **Evidence of Deposit** | • Evidence of the source of deposit is always required<br>• Satisfactory evidence of source of wealth | • Evidence of the source of deposit is always required<br>• Satisfactory evidence of source of wealth | • Evidence of the source of deposit is always required<br>• Satisfactory evidence of source of wealth |
-| **Deposits** | • Proof of deposit is required<br>• Builder vendor deposits considered up to 5%<br>• Gifted deposits are acceptable for UK resident and UK Expat clients.<br>• For International applications Gifted Deposits are only acceptable from a donor who is either a UK Resident or a UK Expat. Gifted deposit from international donors is not acceptable.<br>• Gifted deposits are accepted from a range of family members and are subject to an interested party waiver. For more information on gifted deposits, please refer to the following documents on the Bank's website: Gifted Deposit Guidance and Gifted Deposit Declaration Form. | • Proof of deposit is required<br>• Builder vendor deposits considered up to 5%<br>• Gifted deposits are acceptable for UK resident and UK Expat clients.<br>• For International applications Gifted Deposits are only acceptable from a donor who is either a UK Resident or a UK Expat. Gifted deposit from international donors is not acceptable.<br>• Gifted deposits are accepted from a range of family members and are subject to an interested party waiver. For more information on gifted deposits, please refer to the following documents on the Bank's website: Gifted Deposit Guidance and Gifted Deposit Declaration Form. | • Proof of deposit is required<br>• Builder vendor deposits considered up to 5%<br>• Gifted deposits are acceptable for UK resident and UK Expat clients.<br>• For International applications Gifted Deposits are only acceptable from a donor who is either a UK Resident or a UK Expat. Gifted deposit from international donors is not acceptable.<br>• Gifted deposits are accepted from a range of family members and are subject to an interested party waiver. For more information on gifted deposits, please refer to the following documents on the Bank's website: Gifted Deposit Guidance and Gifted Deposit Declaration Form. |
-| **Director's and Intercompany Loans** | • Directors Loans into a Limited Company or SPV to fund a deposit are accepted subject to The Limited Company/SPV being registered in the UK (terms apply).<br>• Intercompany loans from UK Limited Companies or SPVs can be considered as a source of deposit. Any intercompany finance being used must come from a UK Limited Company and have identical directorship and shareholders to the customer.<br><br>For more information on director's loans that are acceptable as a deposit, please refer to the Guidance on UK Intercompany, Director, and Shareholder Loans on the Bank's website. | | |
-| **Property** | | | |
-| **Location** | England & Wales | England & Wales | England & Wales |
-| **Tenure** | Freehold or Leasehold<br><br>Freehold and Leasehold (Lease must have a minimum of 70 years remaining at time of application and 40 years remaining at the end of the term. | | |
-| **Property Type** | Standard Residential only | Standard Residential, or House in Multiple Occupation (HMO) and Multi-Unit Freehold Blocks (MUFB) | House in Multiple Occupation (HMO) and Multi-Unit Freehold Blocks (MUFB) |
-| **Valuation Basis** | Market Value (VP) | Market Value (VP) | Market Value (VP) |
-| **Minimum Property Value** | Minimum property value for BTL products | Minimum property value for portfolio products | Minimum property value for HMO/MUFB products |
+### 4.6 Top Slicing Rental Coverage
 
---- Page 7 ---
+* UK Expat Residents: 115% for individuals and 110% for Ltd Co's; minimum income £32,000 p.a. International Residents: 120% for individuals and 115% for Ltd Co's; minimum income £50,000 p.a.
+* BTL: property licenses as required. Portfolio: same ratios plus property schedule, business plan, cash flow forecast, HMO or other property licenses. HMO & MUFB: Top Slicing not available; property schedule, business plan, cash flow forecast, HMO or other property licenses as required
 
-| Criteria | BTL | BTL Portfolio | HMO & MUFB |
-|---|---|---|---|
-| **Minimum Property Value (continued)** | • £94,000 at 80% FTV<br>• £115,000 at 65% FTV | • £94,000 at 80% FTV<br>• £100,000 at 75% FTV for any HMOs or MUFBs<br>• £115,000 at 65% FTV | • £100,000 at 75% FTV<br>• £115,000 at 65% FTV |
-| **Property types acceptable as security** | For more information on the property types acceptable as security, please refer to our document Home Finance Property Types – Guidance Notes for Intermediaries on the Bank's website. Please note this list is not exhaustive and if unsure about the suitability of any property as security, you should contact the Bank or your BDM.<br><br>Green Option - properties with an EPC rating of A or B receive a reduction of 0.10% on the rental rate, plus measures will be taken by the Bank to ensure property emissions are made carbon neutral for the full 2 or 5 year initial fixed term. This incentive is based on the average consumption of gas and electricity of an average UK home and operated through a partnership with a leading environmental conservationist organization.<br><br>The property must have a minimum Energy Performance Certificate (EPC) of E or above to be acceptable for finance. The energy rating will be determined during the property valuation | | |
-| **Finance Criteria** | | | |
-| **Credit History** | • No Bankruptcy / CVA or IVA in last 3 years / repossessions or debt relief orders<br>• No CCJs in last 3 years (all previous CCJs must be satisfied before application)<br>• No missed mortgage or other property finance payments in last 12 months<br>• No voluntary enforced possession<br>• Up to date UK credit report required from all applicants with a UK footprint<br>• Default - none in the 12 months prior to application, maximum of one default of up to £300 between month 13 to 36 and must be satisfied before submitting an application for finance. Where defaults, whether settled or not, relate to Communication companies these will be disregarded as part of the underwriting credit assessment up to a maximum of £300 in total regardless of when they were registered.<br>• Applicants with a live Debt Management plan at application, will be declined. | • No Bankruptcy / CVA or IVA in last 3 years / repossessions or debt relief orders<br>• No CCJs in last 3 years (all previous CCJs must be satisfied before application)<br>• No missed mortgage or other property finance payments in last 12 months<br>• No voluntary enforced possession<br>• Up to date UK credit report required from all applicants with a UK footprint<br>• Default - none in the 12 months prior to application, maximum of one default of up to £300 between month 13 to 36 and must be satisfied before submitting an application for finance. Where defaults, whether settled or not, relate to Communication companies these will be disregarded as part of the underwriting credit assessment up to a maximum of £300 in total regardless of when they were registered.<br>• Applicants with a live Debt Management plan at application, will be declined. | • No Bankruptcy / CVA or IVA in last 3 years / repossessions or debt relief orders<br>• No CCJs in last 3 years (all previous CCJs must be satisfied before application)<br>• No missed mortgage or other property finance payments in last 12 months<br>• No voluntary enforced possession<br>• Up to date UK credit report required from all applicants with a UK footprint<br>• Default - none in the 12 months prior to application, maximum of one default of up to £300 between month 13 to 36 and must be satisfied before submitting an application for finance. Where defaults, whether settled or not, relate to Communication companies these will be disregarded as part of the underwriting credit assessment up to a maximum of £300 in total regardless of when they were registered.<br>• Applicants with a live Debt Management plan at application, will be declined. |
-| **Existing mortgage/ Financing** | Proof of conduct for all mortgages / home finance / BTL finance | Proof of conduct for all mortgages / home finance / BTL finance | Proof of conduct for all mortgages / home finance / BTL finance |
-| **Residency** | | | |
-| **Applicant Residency Status & ID Requirements** | • UK Expats (UK Citizens resident abroad) are only eligible to apply for our UK Expat Buy-to-Let products. – ID Evidence – Valid UK Passport<br>• International Residents (Foreign Nationals non-resident in the UK) are only eligible to apply for our standard International Buy-to-Let products. ID Evidence – Valid Passport or, if a passport is not available, a valid National ID card issued by the government.<br>• Where an applicant holds dual nationality, proof of all nationalities must now be provided when uploading the proof of ID documentation.<br>• Other applicants who hold British passports and do not have an automatic right to live and work in the UK are only eligible to apply for our standard International Buy-to-Let products. Please see https://www.gov.uk/types-of-british-nationality for a full list.<br><br>Terms and requirements may differ according to status – for more detailed information please refer to our document Gatehouse ID Requirements on the Bank's website. | | |
+### 4.7 Supporting Documents, Customer Types, Finance Size and Term
 
---- Page 8 ---
+* BTL supporting documents: property licenses as required (BTL); Portfolio/HMO & MUFB: property schedule, business plan, cash flow forecast, HMO or other property licenses as required
+* Customer types: Individuals; for Partnerships, UK Limited Companies/SPVs & LLPs refer to Gatehouse requirements for UK incorporated SPVs on the Bank's website
+* Min/Max finance size: £75,000–£5m per property or portfolio (up to £10m by referral) for all
+* Min/Max term: Min 5 years; Max Rent Only 30 years / Acquisition & Rent 30 years (all)
 
-(Page 8 continues the product criteria table from Page 7. The content above includes all sections from pages 7-9 of the PDF.)
+### 4.8 Applicant Experience and Types
 
---- Page 9 ---
+* BTL: First Time Buyers/First Time Landlords allowed for UK Expats and International applicants
+* BTL Portfolio: 2 years letting and financing experience as standard BTL Landlord or 1 year as HMO landlord (repaid or current)
+* HMO & MUFB: At least 1 year letting and financing experience as residential landlord; International HMOs must have management agent for the fixed term
+* All customers must read, speak and understand English to the required level. Individuals: max 4 applicants (best two incomes); must reside in a country acceptable to the Bank (see Home Finance Applications – Countries Checklist)
+* Sole Traders, Partnerships, UK Limited Companies, LLPs and SPVs (property business SIC code) considered. For Ltd/SPVs, any Director/Shareholder with 25%+ shareholding must be on the application form. No minimum trading period
+* Personal Guarantees required from shareholders in Ltd/SPV/LLP/Partnership applications (jointly and severally liable); not accepted for individuals. Trust Structures, JBSP or similar NOT acceptable
+* SPVs with negative equity not accepted unless from previous security within SPV (e.g. Directors Loan); case-by-case by Underwriter
+* Maximum numbers: Individuals 4 applicants (best 2 incomes); SPV/Limited companies = 4 directors/Shareholders. Minimum age 21; maximum age no limit at term end (where income relied on for affordability, max 85)
+* UK current account required for direct debit. Green Products: EPC A or B for Green Rental Rate and Carbon Neutral incentives
 
-(Page 9 continues the product criteria table from Page 8. The content above includes all sections from pages 7-9 of the PDF.)
+### 4.9 Employment and Income
 
---- Page 10 ---
+* Employed: permanent employment over 3 months at same employer (all). Acceptable income: Basic pay; 100% car allowance, overtime, commission (subject to terms), guaranteed bonus, second job (evidenced 12 months), net rental income, occupational pension, housing allowance; 50% regular bonus (evidenced 2 years). Other allowances/income may be accepted
+* Self-employed: Sole Trader, Partner, LLP member, director 25%+ shareholding (10%+ may require ID/KYC). Income from latest year. Medical professionals with less than 12 months self-employed may get special consideration. Latest document not more than 18 months before application
+* Contractors: signed contract; if more than 6 months to run no further evidence; if less than 6 months then 12 months evidence of same work
+* Minimum income: at least one applicant £18,000 p.a. (all types/residencies). Top-slicing: £32,000 p.a. from at least one UK Expat, £50,000 p.a. from at least one International applicant. Additional income considered if verifiable
 
-================================================================================
-VALUATION FEES AND PRODUCT FEES
-================================================================================
+### 4.10 Deposit, Property and Credit
 
-| Purchase Price/Property Value | BTL - Single Dwelling Valuation Fee (including VAT) | Small HMOs (under 6 bedrooms/occupiers) Valuation Fee (including VAT) | Large HMOs & Multi-Unit Freehold Blocks Valuation Fee (including VAT) |
-|---|---|---|---|
-| Up to £100,000 | £192 | £900 | £1,500 |
-| £100,000 - £150,000 | £230 | £900 | £1,500 |
-| £150,001 - £200,000 | £252 | £900 | £1,500 |
-| £200,001 - £250,000 | £308 | £900 | £1,565 |
-| £250,001 - £300,000 | £322 | £900 | £1,625 |
-| £300,001 - £350,000 | £364 | £935 | £1,715 |
-| £350,001 - £400,000 | £406 | £935 | £1,715 |
-| £400,001 - £500,000 | £448 | £1,075 | £1,805 |
-| £500,001 - £600,000 | £476 | £1,120 | £1,925 |
-| £600,001 - £700,000 | £518 | £1,180 | £2,085 |
-| £700,001 - £800,000 | £567 | £1,265 | £2,250 |
-| £800,001 - £900,000 | £644 | £1,345 | £2,395 |
-| £900,001 - £1,000,000 | £707 | £1,450 | £2,565 |
-| £1,000,001 - £1,250,000 | £735 | By agreement | £2,925 |
-| £1,250,001 - £1,500,000 | £770 | By agreement | By agreement |
-| £1,500,001 - £1,750,000 | £910 | By agreement | By agreement |
-| £1,750,001 - £2,000,000 | £1,050 | By agreement | By agreement |
-| £2,000,001 - £2,500,000 | £1,200 | By agreement | By agreement |
-| £2,500,001 - £3,000,000 | £1,700 | By agreement | By agreement |
-| £3,000,001 - £4,000,000 | £2,200 | By agreement | By agreement |
-| £4,000,001 - £5,000,000 | £2,900 | By agreement | By agreement |
-| Above £5,000,000 | By Agreement | By Agreement | By Agreement |
-| Re-valuation Fee | £180 | By agreement | By agreement |
-| Re-inspection Fee | £90 | By agreement | By agreement |
+* Evidence of deposit and source of wealth always required (all). Proof of deposit required; builder vendor deposits up to 5%; gifted deposits acceptable for UK resident and UK Expat; International gifted deposits only from UK Resident or UK Expat donor. Gifted deposits from family subject to interested party waiver (see Bank website: Gifted Deposit Guidance and Declaration Form)
+* Directors Loans into Ltd/SPV for deposit accepted if UK registered (terms apply). Intercompany loans from UK Ltd/SPV as deposit considered; must have identical directorship/shareholders. See Guidance on UK Intercompany, Director, and Shareholder Loans on Bank's website
+* Location: England & Wales. Tenure: Freehold or Leasehold (lease min 70 years at application, 40 years at end of term). Property type: BTL Standard Residential only; Portfolio Standard Residential or HMO/MUFB; HMO & MUFB HMO and MUFB only. Valuation: Market Value (VP)
+* Minimum property value: BTL £94,000 at 80% FTV, £115,000 at 65%; Portfolio £94,000 at 80%, £100,000 at 75% for HMOs/MUFBs, £115,000 at 65%; HMO & MUFB £100,000 at 75%, £115,000 at 65%
+* Property types as security: see Home Finance Property Types – Guidance Notes for Intermediaries on Bank's website. Green Option: EPC A or B = 0.10% rental rate reduction plus carbon neutral for 2 or 5 year term. Minimum EPC E or above for finance
+* Credit history (all): No Bankruptcy/CVA/IVA in last 3 years, repossessions or debt relief orders. No CCJs in last 3 years (all satisfied before application). No missed mortgage/property finance in last 12 months. No voluntary enforced possession. UK credit report required (UK footprint). Default: none in 12 months prior; max one default up to £300 between month 13–36, satisfied before application; Communication company defaults disregarded up to £300 total. Live Debt Management plan at application = declined
+* Proof of conduct for all existing mortgages/home finance/BTL finance required
 
-**Note:** Valuation fees for Small HMOs over £1m or Large HMOs/Multi-Unit Freehold Blocks over £1.25m are by agreement.
+### 4.11 Applicant Residency Status and ID
 
-APPLICATION AND PRODUCT FEES
---------------------------------------------------------------------------------
+* UK Expats (UK citizens resident abroad): UK Expat BTL products only. ID: Valid UK Passport
+* International Residents (foreign nationals non-resident in UK): International BTL products only. ID: Valid Passport or valid National ID card
+* Dual nationality: proof of all nationalities required. British passport holders without automatic right to live/work in UK: International BTL only (see gov.uk types of British nationality). See Gatehouse ID Requirements on Bank's website
 
-- **Application Fees:**
-  - £199 UK EXPATS
-  - £299 INTERNATIONAL RESIDENTS
+---
 
-- **Product Fee:**
-  - 1.5% (Min £999) fees
-  - Limited Edition Product fees of 0%, 3% or 5% (Min £999)*
+## SECTION 5 – Valuation Fees and Product Fees
 
-*Our product fees of 3% or 5% provide a way to make an advance payment in exchange for a reduced rental rate.
+### 5.1 Valuation Fee Scale
 
-CONTACT INFORMATION
---------------------------------------------------------------------------------
+Valuation fees (BTL Single Dwelling | Small HMOs under 6 beds | Large HMOs & MUFB), including VAT:
+* Up to £100,000: £192 | £900 | £1,500
+* £100,000–£150,000: £230 | £900 | £1,500
+* £150,001–£200,000: £252 | £900 | £1,500
+* £200,001–£250,000: £308 | £900 | £1,565
+* £250,001–£300,000: £322 | £900 | £1,625
+* £300,001–£350,000: £364 | £935 | £1,715
+* £350,001–£400,000: £406 | £935 | £1,715
+* £400,001–£500,000: £448 | £1,075 | £1,805
+* £500,001–£600,000: £476 | £1,120 | £1,925
+* £600,001–£700,000: £518 | £1,180 | £2,085
+* £700,001–£800,000: £567 | £1,265 | £2,250
+* £800,001–£900,000: £644 | £1,345 | £2,395
+* £900,001–£1,000,000: £707 | £1,450 | £2,565
+* £1,000,001–£1,250,000: £735 | By agreement | £2,925
+* £1,250,001–£1,500,000: £770 | By agreement | By agreement
+* £1,500,001–£1,750,000: £910 | By agreement | By agreement
+* £1,750,001–£2,000,000: £1,050 | By agreement | By agreement
+* £2,000,001–£2,500,000: £1,200 | By agreement | By agreement
+* £2,500,001–£3,000,000: £1,700 | By agreement | By agreement
+* £3,000,001–£4,000,000: £2,200 | By agreement | By agreement
+* £4,000,001–£5,000,000: £2,900 | By agreement | By agreement
+* Above £5,000,000: By Agreement | By Agreement | By Agreement
+* Re-valuation Fee: £180 | By agreement | By agreement
+* Re-inspection Fee: £90 | By agreement | By agreement
 
-**For more information, please contact our Residential Property Finance Team:**
+**Note:** Valuation fees for Small HMOs over £1m or Large HMOs/MUFB over £1.25m are by agreement.
 
-**Kelly Hau** - Telephony BDM
-T: 08000 356 544 (Option 1)
-E: kelly.hau@gatehousebank.com
+### 5.2 Application and Product Fees
 
-**Simon Field** - Telephony BDM
-T: 08000 356 544 (Option 1)
-E: simon.field@gatehousebank.com
+* Application fees: £199 UK Expats; £299 International Residents
+* Product fee: 1.5% (Min £999) or Limited Edition 0%, 3% or 5% (Min £999). Product fees of 3% or 5% provide an advance payment in exchange for a reduced rental rate.
 
-**Tol Mulka** - Telephony BDM
-T: 08000 356 544 (Option 1)
-E: tol.mulka@gatehousebank.com
+---
 
-**Thomas Humphreys** - Lead Telephony BDM
-T: 08000 356 544 (Option 1)
-E: thomas.humphreys@gatehousebank.com
+## SECTION 6 – Contact
 
-**Tyler Sullivan** - Business Development Manager
-The Midlands, East Anglia, the South West and the South East, including Watford and Enfield
-T: +44 (0) 7593 448 441
-E: tyler.sullivan@gatehousebank.com
-
-**Chris Proudfoot** - Business Development Manager
-East Midlands, North West and North East of England, Yorkshire and The Humber Regions
-M: +44 (0) 7593 446 190
-E: chris.proudfoot@gatehousebank.com
-
-**Emma Kelman** - Business Development Manager
-South East and London
-M: +44 (0) 7507 909 686
-E: emma.kelman@gatehousebank.com
-
-**Lottie Dougill** - Head of Intermediary Sales
-M: +44 (0) 7851 249 352
-E: lottie.dougill@gatehousebank.com
+* Main: T 08000 356 544 (Option 1) | E bdteam@gatehousebank.com | W www.gatehousebank.com/intermediaries
+* Kelly Hau (Telephony BDM): 08000 356 544 Option 1, kelly.hau@gatehousebank.com
+* Simon Field (Telephony BDM): 08000 356 544 Option 1, simon.field@gatehousebank.com
+* Tol Mulka (Telephony BDM): 08000 356 544 Option 1, tol.mulka@gatehousebank.com
+* Thomas Humphreys (Lead Telephony BDM): 08000 356 544 Option 1, thomas.humphreys@gatehousebank.com
+* Tyler Sullivan (BDM – Midlands, East Anglia, South West, South East, Watford, Enfield): +44 (0) 7593 448 441, tyler.sullivan@gatehousebank.com
+* Chris Proudfoot (BDM – East Midlands, North West, North East, Yorkshire & Humber): +44 (0) 7593 446 190, chris.proudfoot@gatehousebank.com
+* Emma Kelman (BDM – South East and London): +44 (0) 7507 909 686, emma.kelman@gatehousebank.com
+* Lottie Dougill (Head of Intermediary Sales): +44 (0) 7851 249 352, lottie.dougill@gatehousebank.com
+* Criteria PDF: https://assets.gatehousebank.com/production/downloads/2025-10-23-BTL-UK-Expats-and-International-Criteria-Guide-V2.pdf
 
 The Bank reserves the right to request any further information it requires in order to make a decision.
 
---- Page 11 ---
+---
 
-================================================================================
-HOW DOES IT WORK?
-================================================================================
+## SECTION 7 – How It Works
 
-We offer a range of financing options, from simple single residential investment finance, to more complex corporate structures including property portfolios.
+We offer a range of financing options, from simple single residential investment finance to more complex corporate structures including property portfolios.
 
-RENT ONLY PURCHASE PLAN
---------------------------------------------------------------------------------
+### 7.1 Rent Only Purchase Plan
 
-Our Rent Only Purchase Plan product is an arrangement between the Bank and the applicant. Both the applicant and the Bank will each contribute a percentage towards the purchase or refinance of a residential property. For example, the Bank may contribute 75% and the applicant 25% of the purchase price (for refinances, the applicant's contribution is the equity in the property).
+* The Bank and the applicant each contribute a percentage towards the purchase or refinance (e.g. Bank 75%, applicant 25%; for refinances the applicant's contribution is equity in the property).
+* The Bank leases its share to the applicant for the finance term. The applicant makes monthly rent-only payments; the applicant does not acquire further shares during the term and payments are lower than under Acquisition & Rent.
+* The applicant must acquire the Bank's share at the end of the term by a full lump sum Acquisition Payment. Additional Acquisition Payments (AAPs) can reduce this. An Early Redemption Charge (ERC) may apply if the Bank's share is acquired in full or AAPs exceed the 10% annual allowance during the Fixed Rental Rate Period.
+* The Bank charges rent for its share until acquired. The applicant must put in place and maintain a financial arrangement to provide the lump sum at term end.
 
-The Bank will lease its share in the property to the applicant for the duration of the finance term.
+### 7.2 Acquisition & Rent Purchase Plan
 
-Over the finance term, the applicant will make monthly payments to the Bank which will compromise of rent only. This means that, during the term of the Purchase Plan, the applicant is not acquiring any shares of the property from the Bank and as a consequence the applicant's share in the property during the term will remain the same. In addition, the applicant's monthly payments will also be lower when compared to our Acquisition & Rent Purchase Plan product.
+* The Bank and the applicant each contribute a percentage (e.g. Bank 75%, applicant 25%; for refinances the applicant's contribution is equity).
+* The Bank leases its share to the applicant. The applicant makes monthly acquisition payments; the Bank's share diminishes and the applicant's share increases. The Bank charges rent on its share until acquired.
+* The applicant may acquire the Bank's share early via AAPs or at term end. ERC may apply if acquired in full or AAPs exceed 10% annual allowance during the Fixed Rental Rate Period. When the Bank's share is fully acquired, the Bank transfers the registered title to the applicant.
 
-The applicant must acquire the Bank's share in the property at the end of the agreed term by making a full lump sum Acquisition Payment. This amount may be reduced by making Additional Acquisition Payments (AAPs) at any time during the finance term. An Early Redemption Charge (ERC) may be payable if the Bank's share is acquired in full or AAPs greater than the 10% annual allowance is made during the Fixed Rental Rate Period.
+### 7.3 Notes
 
-Until the Bank's share has been acquired by the applicant, the Bank will charge the applicant rent for the use of its share of the property. The rent is calculated according to the respective shares owned.
+* On settlement, an Account Settlement Fee is payable per the Bank's Tariff of Charges. Minimum Additional Acquisition Payment (AAP) is £2,000.
+* The customer is responsible for solicitor costs, stamp duty and other conveyancing charges (e.g. land registry fees) at outset and on settlement.
 
-It is the applicant's responsibility to make sure that they put in place, maintain, and regularly monitor, any financial arrangement that is expected to provide a lump sum sufficient to acquire the Bank's share at the end of the agreed finance term.
+---
 
-ACQUISITION & RENT PURCHASE PLAN
---------------------------------------------------------------------------------
+## SECTION 8 – Legal and Regulatory
 
-Our Acquisition & Rent Purchase Plan product in an arrangement between the Bank and the applicant. Both the applicant and the Bank will each contribute a percentage towards the purchase or refinance of a residential property. For example, the Bank may contribute 75% and the applicant 25% of the purchase price (for refinances, the applicant's contribution is the equity in the property).
+Gatehouse Bank plc is authorised by the PRA and regulated by the FCA and PRA, incorporated in England and Wales (registered number 06260053). Registered office: The Helicon, One South Place, London, EC2M 2RB, United Kingdom.
 
-The Bank will lease its share in the property to the applicant for the duration of the finance term.
+* This document provides information about residential financing products on a non-advised basis and does not constitute an offer or invitation. These products fall outside the scope of FCA regulation.
+* No information in this document shall form the basis of any contract. Transactions are governed by applicable terms and conditions. Recipients in jurisdictions outside the UK should inform themselves of and observe applicable legal requirements.
+* Prospective clients should make their own independent assessment and seek independent financial, tax and legal advice. By accepting this document, the recipient agrees to be bound by the foregoing limitations.
 
-Over the finance term, the applicant will make monthly acquisition payments through which the Bank will sell its share of the property to the applicant. With each acquisition payment, the Bank's share in the property diminishes while the applicant's share increases.
+---
 
-While the Acquisition Payments are being made, the Bank will charge the applicant rent for the use of its share of the property. The rent is calculated according to the respective shares owned.
-
-The applicant may acquire the Bank's share before the end of the finance term by making Additional Acquisition Payments (AAPs). Alternatively, they may reduce the monthly Acquisition Payments and acquire the Bank's share at the end of the original finance term. An Early Redemption Charge (ERC) may be payable if the Bank's share is acquired in full or AAPs greater than the 10% annual allowance is made during the Fixed Rental Rate Period.
-
-Following the applicant's acquisition of the Bank's share, either at the end of the agreed term or upon early purchase of the Bank's share of the property, whichever is earlier, the Bank will transfer the registered ownership title of the property to the applicant.
-
-NOTES
---------------------------------------------------------------------------------
-
-- On settlement of the finance, an Account Settlement Fee is payable in accordance with the Bank's standard Tariff of Charges to cover the Bank's administration costs.
-- The minimum Additional Acquisition Payment (AAP) is £2,000.
-- The Customer is responsible for their own solicitor costs, stamp duty and other conveyancing charges (such as land registry fees) at outset and on settlement.
-
---- Page 12 ---
-
-================================================================================
-FOR THE USE OF PROFESSIONAL MORTGAGE INTERMEDIARIES ONLY
-================================================================================
-
-Gatehouse Bank plc ("Gatehouse") is a public limited company authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority and incorporated under the laws of England and Wales with registered number 06260053 having its registered office at The Helicon, One South Place, London, EC2M 2RB, United Kingdom.
-
-T: 08000 356 544 | E: bdteam@gatehousebank.com | W: www.gatehousebank.com/intermediaries
-
-IMPORTANT NOTICE
---------------------------------------------------------------------------------
-
-This document is issued by Gatehouse and its purpose is to provide information about residential financing products offered by Gatehouse on a non-advised basis, it does not constitute an offer or invitation in respect the products. Currently, these products fall outside the scope of regulation by the Financial Conduct Authority.
-
-No information set out or referred to in this Document shall form the basis of any contract. Any prospective transaction shall be governed by applicable terms and conditions and any agreements entered into by the relevant parties acknowledging that it has not relied on, or been induced to enter into such an agreement by, any representation, warranty, assurance or undertaking save as expressly set out in that agreement. The issue of this document shall not be deemed to be any form of commitment on the part of Gatehouse (or any other person) to proceed with any transaction.
-
-Any recipient of this document in jurisdictions outside the UK should inform themselves about and observe any applicable legal requirements.
-
-Prospective clients should make their own independent assessment when considering the products described in this document. In reaching a decision, prospective clients should discuss their options with an independent financial adviser and seek independent professional tax and legal advice.
-
-By accepting this document, the recipient agrees to be bound by the foregoing limitations.
+*END OF DOCUMENT*

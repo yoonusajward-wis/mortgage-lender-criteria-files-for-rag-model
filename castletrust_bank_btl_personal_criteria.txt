@@ -1,427 +1,355 @@
-LENDER NAME: Castletrust Bank
-PRODUCT: BTL Personal
+# CASTLE TRUST BANK – BUY TO LET (PERSONAL) CRITERIA
 
-# Castle Trust Bank - Buy to Let (Personal) Lending Criteria
-**Source:** https://www.castletrust.co.uk/property-documents-lending-criteria/
-**PDF:** https://www.castletrust.co.uk/wp-content/uploads/P1862-Buy-to-Let-Guide.pdf
-**Property Lending Criteria PDF:** https://www.castletrust.co.uk/wp-content/uploads/Castle-Trust-Bank-Property-Lending-Criteria.pdf
-**Last Updated:** June 2025
+---
 
+**LENDER:** Castle Trust Bank
+**PRODUCT:** BTL Personal (Individuals, Sole Traders, Partnerships, LLPs)
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** June 2025
 **FOR INTERMEDIARY USE ONLY**
 
-Castle Trust Bank is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority.
-
-**Contact:**
-* **Phone:** 0345 241 3079
-* **Alternative Phone:** 0808 164 5000
-* **Find a BDM:** https://www.castletrust.co.uk/contact-meet-the-team-page/
-* **Intermediaries Portal (PULSE):** https://www.castletrust.co.uk/pulse/
-* **Website:** https://www.castletrust.co.uk/
-* **Documents and Lending Criteria:** https://www.castletrust.co.uk/property-documents-lending-criteria/
-
-**Office Hours:**
-* Monday to Friday: Standard business hours
-* Calls may be monitored and/or recorded for security and training purposes
+**Source:** [Lending criteria and documents](https://www.castletrust.co.uk/property-documents-lending-criteria/)
 
 ---
 
-## Overview
+## SECTION 1 – OVERVIEW & LENDING PARAMETERS
 
-Castle Trust Bank offers Buy to Let (BTL) mortgages for personal applicants (individuals, sole traders, partnerships, and LLPs). The Bank provides flexible BTL products suitable for various investment strategies, including standard residential portfolios, Houses in Multiple Occupation (HMOs), Multi-Unit Freehold Blocks (MUFBs), and holiday lets.
+### Overview
 
-### Key Features
-
-* **Flexible lending criteria** - Suitable for first-time landlords, portfolio landlords, complex structures, ex-pats, and foreign nationals
-* **TermTen Product** - 10-year term with 5-year fixed rate
-* **Interest-only payments** - Available
-* **Portfolio landlords accepted** - No maximum portfolio size restrictions
-* **Various property types** - Standard BTL, HMOs, MUFBs, holiday lets
-* **Competitive ICR requirements** - Tiered ICR based on loan term
-
----
-
-## General Lending Criteria
+* Castle Trust Bank offers Buy to Let (BTL) mortgages for personal applicants (individuals, sole traders, partnerships, and LLPs).
+* Flexible BTL products for various investment strategies: standard residential portfolios, Houses in Multiple Occupation (HMOs), Multi-Unit Freehold Blocks (MUFBs), and holiday lets.
+* Flexible lending criteria: first-time landlords, portfolio landlords, complex structures, ex-pats, and foreign nationals. TermTen product: 10-year term with 5-year fixed rate. Interest-only payments available. Portfolio landlords accepted with no maximum portfolio size restrictions. Competitive ICR requirements tiered based on loan term.
 
 ### Where We Lend
 
-* **Location:** England and Wales only
+* **Location:** England and Wales only.
 
 ### Loan-to-Value (LTV)
 
-* **Maximum LTV:** Up to 75% (net)
-* **TermTen Product:** Up to 77% gross LTV (including net loan and arrangement fee)
+* **Maximum LTV:** Up to 75% (net).
+* **TermTen Product:** Up to 77% gross LTV (including net loan and arrangement fee).
 
 ### Loan Amounts
 
-* **Minimum loan amount:** £150,000 (may vary by product)
-* **TermTen Product:** Minimum £200,000
-* **Maximum loan amount:** £2 million (may vary by product)
-* **TermTen Product:** Maximum £10,000,000 (gross)
+* **Minimum loan amount:** £150,000 (may vary by product).
+* **TermTen Product:** Minimum £200,000.
+* **Maximum loan amount:** £2,000,000 (may vary by product).
+* **TermTen Product:** Maximum £10,000,000 (gross).
 
 ### Loan Terms
 
-* **Term:** 10 years (TermTen Product)
-* **Fixed rate period:** 5 years (TermTen Product)
-* **Repayment:** Interest-only available
+* **Term:** 10 years (TermTen Product).
+* **Fixed rate period:** 5 years (TermTen Product).
+* **Repayment:** Interest-only available.
 
 ---
 
-## Applicant Requirements
+## SECTION 2 – APPLICANT REQUIREMENTS
 
 ### Applicant Types
 
-* **Individuals** - Personal applicants
-* **Sole traders** - Self-employed individuals
-* **Partnerships** - Business partnerships
-* **LLPs** - Limited Liability Partnerships
-* **First-time landlords** - Accepted
-* **Portfolio landlords** - Accepted (no maximum portfolio size restrictions)
-* **Ex-pats** - Acceptable providing they own a property in the UK
-* **Foreign nationals** - Acceptable where they have proven UK mortgage conduct
-* **First-time landlords** - For UK residents, first-time landlords are acceptable and can also be first-time buyers. For foreign nationals, first-time landlords are acceptable, but not if they are also a first-time buyer
-* **Complex structures** - Considered on a case-by-case basis
-* **Power of Attorney applications** - Not acceptable
+* **Individuals** – Personal applicants.
+* **Sole traders** – Self-employed individuals.
+* **Partnerships** – Business partnerships.
+* **LLPs** – Limited Liability Partnerships.
+* **First-time landlords** – Accepted.
+* **Portfolio landlords** – Accepted (no maximum portfolio size restrictions).
+* **Ex-pats** – Acceptable providing they own a property in the UK.
+* **Foreign nationals** – Acceptable where they have proven UK mortgage conduct.
+* **First-time landlords:** UK residents can be first-time landlords and first-time buyers; foreign nationals can be first-time landlords but not if also first-time buyer.
+* **Complex structures** – Considered on a case-by-case basis.
+* **Power of Attorney applications** – Not acceptable.
 
 ### Income Requirements
 
-* **No specified minimum income** - Applicants must have demonstrable income and a suitable repayment strategy
-* **Rental income** - Must meet Interest Coverage Ratio (ICR) requirements
-* **Joint applications** - Where one applicant has demonstrable income to cover the repayment, joint applicants who are students or unemployed will be considered
+* No specified minimum income; applicants must have demonstrable income and a suitable repayment strategy.
+* Rental income must meet Interest Coverage Ratio (ICR) requirements.
+* **Joint applications:** Where one applicant has demonstrable income to cover the repayment, joint applicants who are students or unemployed will be considered.
 
 ### Age Requirements
 
-* **Minimum applicant age:** 21 years
-* **Maximum applicant age at end of term:** 85 years
+* **Minimum applicant age:** 21 years.
+* **Maximum applicant age at end of term:** 85 years.
 
 ---
 
-## Property Criteria
+## SECTION 3 – PROPERTY CRITERIA
 
-### Property Location
+### Property Location and Value
 
-* **England and Wales only**
-
-### Property Value
-
-* **Minimum security value:** £75,000 (TermTen & Bridge products)
-* **Minimum property value:** £135,000 (may vary by product)
+* **Location:** England and Wales only.
+* **Minimum security value:** £75,000 (TermTen & Bridge products).
+* **Minimum property value:** £135,000 (may vary by product).
 
 ### Property Types
 
-**Acceptable Properties:**
-* **Standard buy to let properties** - Residential properties let on Assured Shorthold Tenancy (AST)
-* **Houses in Multiple Occupation (HMOs)** - Small and large HMOs accepted (TermTen Product)
-* **Multi-Unit Freehold Blocks (MUFBs)** - Accepted (TermTen Product)
-* **Holiday lets** - Accepted (affordability based on holiday let income, not AST)
-* **Serviced Apartments** - Acceptable
-* **Airbnb** - Acceptable
-* **Portfolio properties** - Multiple properties considered
-* **Aggregated value on blocks of flats** - Up to 20 units (TermTen Product)
-* Subject to valuation and standard property criteria
+* **Standard buy to let properties** – Residential properties let on Assured Shorthold Tenancy (AST).
+* **Houses in Multiple Occupation (HMOs)** – Small and large HMOs accepted (TermTen Product).
+* **Multi-Unit Freehold Blocks (MUFBs)** – Accepted (TermTen Product).
+* **Holiday lets** – Accepted (affordability based on holiday let income, not AST).
+* **Serviced Apartments** – Acceptable.
+* **Airbnb** – Acceptable.
+* **Portfolio properties** – Multiple properties considered.
+* **Aggregated value on blocks of flats** – Up to 20 units (TermTen Product).
+* All subject to valuation and standard property criteria.
 
-**Commercial Property:**
-* **Commercial property is not acceptable** for any applications unless residential planning is in place
+### Commercial Property
 
-**Property Requirements:**
-* **Must be let on an Assured Shorthold Tenancy (AST) or equivalent**
-* **AST period:** Between 6 to 12 months required (longer terms by negotiation)
-* **Limited Company lets** - Acceptable where the tenant is a named individual
-* **Not occupied by the applicant or their immediate family**
-* **Subject to valuation and standard property criteria**
+* Commercial property is not acceptable for any applications unless residential planning is in place.
+
+### Property Requirements
+
+* Must be let on an Assured Shorthold Tenancy (AST) or equivalent.
+* AST period: between 6 and 12 months required (longer terms by negotiation).
+* Limited Company lets acceptable where the tenant is a named individual.
+* Not occupied by the applicant or their immediate family.
+* Subject to valuation and standard property criteria.
 
 ### Energy Performance Certificate (EPC)
 
-* **Properties with no valid EPC rating or rating below E** - Not acceptable (unless exempt)
-* **EPC exemptions:** May be considered on a case-by-case basis
+* Properties with no valid EPC rating or rating below E are not acceptable (unless exempt).
+* EPC exemptions may be considered on a case-by-case basis.
 
 ### Property Construction
 
-**Acceptable Construction:**
-* **Standard construction** - Means:
-  * Masonry walls of solid or cavity construction having a minimum thickness of 200mm
-  * Modern timber (post 1975) or steel framed (post 1998) property with a masonry outer cladding originally built with the benefit of a suitable new home warranty
-  * Standard slate or tiled roof construction
-  * Flat roof warranty must be in place
-  * Thatch (considered on an individual basis)
-  * Modern methods of construction
-
-**Unacceptable Construction:**
-* All non-traditional construction types
-* Steel framed, with non-masonry cladding
-* Solid masonry having a thickness less than 200mm
-* Wimpey No Fines
-* Laing Easi Form post 1945
-* Croswall
-* Agricultural properties
-* Concrete (No Fines, Cheshire Brine, Mundic, Precast Reinforced Concrete (PRC))
-* Cladded blocks without a satisfactory (A1, A2, B1) EWS1 form
-* Cross wall construction pre 1970
-* Holiday Parks
-* Hostels
-* House boat
-* Laing Easi Form pre 1945
-* Log cabin
-* Mobile home
-* Single Skin
-* Timber Frame (period properties considered on an individual basis)
-
-**Note:** Castle Trust Bank will not normally lend on a security of non-standard construction.
+* **Acceptable:** Standard construction (masonry walls solid or cavity minimum 200mm thickness; modern timber post 1975 or steel framed post 1998 with masonry outer cladding and suitable new home warranty; standard slate or tiled roof; flat roof warranty in place; thatch considered individually; modern methods of construction).
+* **Unacceptable:** All non-traditional construction types; steel framed with non-masonry cladding; solid masonry less than 200mm thickness; Wimpey No Fines; Laing Easi Form post 1945; Croswall; agricultural properties; concrete (No Fines, Cheshire Brine, Mundic, Precast Reinforced Concrete (PRC)); cladded blocks without satisfactory (A1, A2, B1) EWS1 form; cross wall construction pre 1970; Holiday Parks; Hostels; House boat; Laing Easi Form pre 1945; Log cabin; Mobile home; Single Skin; Timber Frame (period properties considered on an individual basis).
+* The Bank will not normally lend on non-standard construction.
 
 ### Ex-Local Authority Properties
 
-* **An ex-local authority property must be located in an area or block where 50% or more of the properties are privately owned**
+* An ex-local authority property must be located in an area or block where 50% or more of the properties are privately owned.
 
 ### Minimum Floor Space
 
-* **Minimum floor space:** 35m² per unit
-* **MUFB properties:** Can consider units between 30 and 35m², so long as the average of the block is 35m² or more
+* **Minimum floor space:** 35m² per unit.
+* **MUFB properties:** Units between 30 and 35m² can be considered so long as the average of the block is 35m² or more.
 
 ### Minimum Unexpired Lease
 
-* **Minimum acceptable unexpired lease:** 60 years at maturity
+* **Minimum acceptable unexpired lease:** 60 years at maturity.
 
 ### Tenancy Agreement
 
-* **Must be let on an Assured Shorthold Tenancy (AST) agreement**
-* **AST period:** Between 6 to 12 months required (longer terms by negotiation)
-* **Limited Company lets** - Acceptable where the tenant is a named individual
-* **Holiday Lets, Serviced Apartments and Airbnb** - Acceptable
-* **Holiday lets** - Affordability based on holiday let income, not AST
+* Must be let on an Assured Shorthold Tenancy (AST) agreement.
+* AST period: between 6 and 12 months required (longer terms by negotiation).
+* Limited Company lets acceptable where the tenant is a named individual.
+* Holiday Lets, Serviced Apartments and Airbnb acceptable.
+* Holiday lets: affordability based on holiday let income, not AST.
 
 ---
 
-## Rental Income & Affordability
+## SECTION 4 – RENTAL INCOME & AFFORDABILITY
 
-### Interest Coverage Ratio (ICR) - BTL Rental Coverage Test
+### Interest Coverage Ratio (ICR) – BTL Rental Coverage Test
 
-**Calculation of Rental Cover for Castle Trust Bank loan:**
-
-**Borrower Type - 5 Year Fixed:**
-* **Basic rate taxpayer & limited companies:** Pay Rate @ 125%
-* **High rate taxpayer & HMOs:** Pay Rate @ 145%
-
-**Stress Rate:**
-* **5.5%** - Standard stress rate applied to all ICR calculations
+* **Borrower type – 5 year fixed:** Basic rate taxpayer: Pay Rate @ 125%; High rate taxpayer & HMOs: Pay Rate @ 145%.
+* **Stress rate:** 5.5% – Standard stress rate applied to all ICR calculations.
+* ICR requirements are tiered based on loan term length.
 
 ### Rental Assessment
 
-* Rental income must meet ICR requirements
-* Rental assessment required from appropriate sources
-* Subject to valuation and market rental assessment
-* **Holiday lets** - Affordability based on holiday let income, not AST
+* Rental income must meet ICR requirements.
+* Rental assessment required from appropriate sources.
+* Subject to valuation and market rental assessment.
+* Holiday lets: affordability based on holiday let income, not AST.
 
 ### Portfolio Landlords
 
-* **No maximum portfolio size restrictions**
-* Portfolio landlords accepted
-* ICR stress testing applies to individual properties
-* Portfolio-wide assessment may be considered
+* No maximum portfolio size restrictions.
+* Portfolio landlords accepted.
+* ICR stress testing applies to individual properties.
+* Portfolio-wide assessment may be considered.
 
 ---
 
-## Product Types
+## SECTION 5 – PRODUCT TYPES
 
 ### TermTen Product
 
-**TermTen - 10 Year Term with 5 Year Fixed Rate:**
-* **Term:** 10 years
-* **Fixed rate period:** 5 years
-* **Interest rate:** Starting from 6.39% (fixed for first 5 years)
-* **Maximum LTV:** 77% gross (including net loan and arrangement fee)
-* **Minimum loan:** £200,000
-* **Maximum loan:** £10,000,000 (gross)
-* **Repayment:** Interest-only
-* **Arrangement fee:** 4% (can be added to loan)
-* **Early Repayment Charge (ERC):** 5% during fixed period
-* **Exit fee:** 1%
-* **Property types:** Standard BTLs, MUFBs, small and large HMOs, Holiday Lets
-* **Aggregated value on blocks of flats:** Up to 20 units
+* **Term:** 10 years.
+* **Fixed rate period:** 5 years.
+* **Interest rate:** Starting from 6.39% (fixed for first 5 years).
+* **Maximum LTV:** 77% gross (including net loan and arrangement fee).
+* **Minimum loan:** £200,000.
+* **Maximum loan:** £10,000,000 (gross).
+* **Repayment:** Interest-only.
+* **Arrangement fee:** 4% (can be added to loan).
+* **Early Repayment Charge (ERC):** 5% during fixed period.
+* **Exit fee:** 1%.
+* **Property types:** Standard BTLs, MUFBs, small and large HMOs, Holiday Lets.
+* **Aggregated value on blocks of flats:** Up to 20 units.
 
 ### Other BTL Products
 
-* Various BTL products available
-* Loan sizes: £150,000 to £2 million
-* Maximum LTV: Up to 75% (net)
-* Terms and rates vary by product
-* Refer to current rate cards for specific product details
+* Various BTL products available.
+* Loan sizes: £150,000 to £2,000,000.
+* Maximum LTV: Up to 75% (net).
+* Terms and rates vary by product; refer to current rate cards for specific product details.
 
 ---
 
-## Repayment Methods
+## SECTION 6 – REPAYMENT METHODS & DEPOSITS
 
-### Available Repayment Types
+### Repayment Types
 
-* **Interest Only** - Interest-only payments available
-* **Capital and Interest** - May be available (subject to product terms)
+* **Interest Only** – Interest-only payments available.
+* **Capital and Interest** – May be available (subject to product terms).
 
 ### Capital Raising
 
-* **Capital raising** - Available (subject to specific criteria)
-* **Remortgage with capital raising** - Available
-* **Remortgage without capital raising** - Available
+* Capital raising available (subject to specific criteria).
+* Remortgage with capital raising available.
+* Remortgage without capital raising available.
 
-### Deposits
+### Acceptable Deposit Sources
 
-**Acceptable Deposit Sources:**
-* **Personal Savings** - Acceptable
-* **Gifted deposit from family** - Acceptable
-* **Directors Loan** - Acceptable
-* **Additional borrowing from the refinance of another asset** - Acceptable
-
----
-
-## Credit History
-
-### Adverse Credit
-
-**Bankruptcy Orders or Sequestration:**
-* **Unacceptable** where registered in the last 36 months, whether discharged or not
-* **Unacceptable** where registered prior to 36 months ago and not discharged
-
-**County Court Judgements (or Decrees) and Defaults:**
-* **Maximum total value of £5,000 satisfied**, over no more than 3 instances within 36 months prior to application
-* **No instances** have occurred within 12 months prior to application
-
-**Individual Voluntary Arrangements or Trust Deeds:**
-* **Unacceptable** where registered in the last 36 months, whether satisfied or not
-* **Unacceptable** where registered prior to 36 months ago and not satisfied
-
-**Missed Mortgage Payments:**
-* **No missed payment** within last 12 months
-* **Maximum of two missed payments** in the last 36 months, excluding the first 12 months
-
-**Repossessions:**
-* **Not acceptable** in the last three years
-
-**Unsecured Credit:**
-* **Maximum 2 in 12 months**, maximum status 1
-* **No more than 4 missed payments** in 36 months, maximum status 1
+* Personal savings – Acceptable.
+* Gifted deposit from family – Acceptable.
+* Directors loan – Acceptable.
+* Additional borrowing from the refinance of another asset – Acceptable.
 
 ---
 
-## Application Types
+## SECTION 7 – CREDIT HISTORY
+
+### Bankruptcy Orders or Sequestration
+
+* Unacceptable where registered in the last 36 months, whether discharged or not.
+* Unacceptable where registered prior to 36 months ago and not discharged.
+
+### County Court Judgements (or Decrees) and Defaults
+
+* Maximum total value of £5,000 satisfied, over no more than 3 instances within 36 months prior to application.
+* No instances have occurred within 12 months prior to application.
+
+### Individual Voluntary Arrangements or Trust Deeds
+
+* Unacceptable where registered in the last 36 months, whether satisfied or not.
+* Unacceptable where registered prior to 36 months ago and not satisfied.
+
+### Missed Mortgage Payments
+
+* No missed payment within last 12 months.
+* Maximum of 2 missed payments in the last 36 months, excluding the first 12 months.
+
+### Repossessions
+
+* Not acceptable in the last 3 years.
+
+### Unsecured Credit
+
+* Maximum 2 in 12 months, maximum status 1.
+* No more than 4 missed payments in 36 months, maximum status 1.
+
+---
+
+## SECTION 8 – APPLICATION TYPES
 
 ### Purchase
 
-* **First-time landlords** - Accepted
-* **Experienced landlords** - Accepted
-* **Portfolio landlords** - Accepted
-* **New build BTL** - May be considered (subject to warranty requirements)
+* First-time landlords – Accepted.
+* Experienced landlords – Accepted.
+* Portfolio landlords – Accepted.
+* New build BTL – May be considered (subject to warranty requirements).
 
 ### Remortgage
 
-* **Remortgage with capital raising** - Available (subject to specific criteria)
-* **Remortgage without capital raising** - Available
-* **Product transfers** - May be available for existing customers
+* Remortgage with capital raising – Available (subject to specific criteria).
+* Remortgage without capital raising – Available.
+* Product transfers – May be available for existing customers.
 
 ### Capital Raising
 
-* **Capital raising purposes** - Various purposes considered
-* **Home improvements** - May be considered
-* **Other purposes** - Subject to individual assessment
+* Capital raising purposes – Various purposes considered.
+* Home improvements – May be considered.
+* Other purposes – Subject to individual assessment.
 
 ---
 
-## Fees
+## SECTION 9 – FEES
 
-* **Arrangement fees:** Vary by product (4% for TermTen Product, can be added to loan)
-* **Valuation fees:** Apply as standard (varies by property value and type)
-* **Early repayment charges:** Apply during fixed rate period (5% for TermTen Product)
-* **Exit fees:** May apply (1% for TermTen Product)
-* **Product fees:** Can be added to loan (subject to LTV limits)
+* **Arrangement fees:** Vary by product (4% for TermTen Product, can be added to loan).
+* **Valuation fees:** Apply as standard (varies by property value and type).
+* **Early repayment charges:** Apply during fixed rate period (5% for TermTen Product).
+* **Exit fees:** May apply (1% for TermTen Product).
+* **Product fees:** Can be added to loan (subject to LTV limits).
 
 ---
 
-## Application Process
+## SECTION 10 – APPLICATION PROCESS
 
 ### PULSE Portal
 
-* **Portal:** https://www.castletrust.co.uk/pulse/
-* Online application and case management
-* Access to product information and calculators
+* **Portal:** [PULSE](https://www.castletrust.co.uk/pulse/).
+* Online application and case management.
+* Access to product information and calculators.
 
 ### Supporting Documentation
 
-Standard BTL mortgage application documentation required, including:
-
-**Income Documentation:**
-* **Employed:** Payslips, P60, employment contract (if applicable)
-* **Self-employed:** Accounts, SA302s, tax year overviews, business bank statements
-* **Rental income:** Tenancy agreements, bank statements showing rental income
-* **Holiday let income:** Evidence of holiday let rental income
-
-**Identification:**
-* Proof of identity (passport or driving licence)
-* Proof of address (utility bills, bank statements)
-* **Expat/Foreign national applicants:** Additional identification requirements may apply
-
-**Property Documentation:**
-* Property details and valuation
-* **Rental assessment** - Required (from appropriate sources)
-* **Tenancy agreement** - For existing tenancies (if applicable)
-* **EPC certificate** - Required (if applicable)
-* New build warranty (if applicable)
-* Leasehold documentation (if applicable)
-
-**Other Documentation:**
-* Credit checks (performed by Bank)
-* Portfolio landlord documentation (if applicable - portfolio details, rental income from all properties)
-* Additional forms as required
+* **Income:** Employed: payslips, P60, employment contract (if applicable). Self-employed: accounts, SA302s, tax year overviews, business bank statements. Rental income: tenancy agreements, bank statements showing rental income. Holiday let income: evidence of holiday let rental income.
+* **Identification:** Proof of identity (passport or driving licence); proof of address (utility bills, bank statements). Expat/foreign national applicants: additional identification requirements may apply.
+* **Property:** Property details and valuation; rental assessment (required); tenancy agreement for existing tenancies (if applicable); EPC certificate (if applicable); new build warranty (if applicable); leasehold documentation (if applicable).
+* **Other:** Credit checks (performed by Bank); portfolio landlord documentation if applicable; additional forms as required.
 
 ### Valuation Requirements
 
-* **Valuation required** - For all properties
-* **Valuation types** - Desktop, drive-by, or full valuation (as determined by Bank)
-* **Rental assessment** - Required as part of valuation process
-* **Valuation fees** - Apply as standard (varies by property value and type)
-* **Down valuations** - May affect loan amount or require additional deposit
+* Valuation required for all properties.
+* Valuation types: desktop, drive-by, or full valuation (as determined by Bank).
+* Rental assessment required as part of valuation process.
+* Valuation fees apply as standard (varies by property value and type).
+* Down valuations may affect loan amount or require additional deposit.
 
-### Forms Available
+### Forms
 
-* Application forms available via PULSE portal
-* Documentation checklist available
-* Additional forms as required
+* Application forms available via PULSE portal.
+* Documentation checklist available.
+* Additional forms as required.
 
 ---
 
-## Additional Information
+## SECTION 11 – ADDITIONAL INFORMATION
 
 ### Calculators
 
-* **Affordability calculator** - Available via PULSE portal
-* **Mortgage calculator** - Available via intermediaries portal
-* **Rental calculator** - For ICR calculations
-* Access via broker portal and website
+* Affordability calculator available via PULSE portal.
+* Mortgage calculator available via intermediaries portal.
+* Rental calculator for ICR calculations.
+* Access via broker portal and website.
 
-### Product Guides
+### Product Guides and Downloads
 
-* **Buy to Let Guide:** Available as PDF download (August 2025)
-* **Property Lending Criteria:** Available as PDF download
-* **Tariff of Charges:** Available as PDF download (July 2025)
-* **Rate Cards:** Available on website
+* Buy to Let Guide available as PDF download.
+* Property Lending Criteria available as PDF download.
+* Tariff of Charges available as PDF download.
+* Rate cards available on website.
+* All documents and applications available via documents and lending criteria page; if additional documents needed, contact the intermediaries team.
 
-### Downloads
+### Notes
 
-* All documents and applications available via documents and lending criteria page
-* If additional documents needed, contact the intermediaries team
-
----
-
-## Notes
-
-* All criteria are subject to individual assessment
-* The Bank reserves the right to decline applications that do not meet lending criteria
-* Product availability and rates are subject to change
-* For the most up-to-date information, refer to the latest Buy to Let Guide (August 2025) or contact the intermediaries team
-* **Personal BTL only** - This criteria applies to individual applicants, sole traders, partnerships, and LLPs, not limited companies
-* ICR requirements are tiered based on loan term length
-* Portfolio landlords are accepted with no maximum portfolio size restrictions
-* Ex-pats and foreign nationals are accepted (subject to specific criteria)
+* All criteria are subject to individual assessment.
+* The Bank reserves the right to decline applications that do not meet lending criteria.
+* Product availability and rates are subject to change.
+* For the most up-to-date information, refer to the latest Buy to Let Guide or contact the intermediaries team.
+* **Personal BTL only** – This criteria applies to individual applicants, sole traders, partnerships, and LLPs, not limited companies.
+* ICR requirements are tiered based on loan term length.
+* Portfolio landlords are accepted with no maximum portfolio size restrictions.
+* Ex-pats and foreign nationals are accepted (subject to specific criteria).
 
 ---
 
-**Document Version:** June 2025
-**Source PDF:** Property Lending Criteria - June 2025, Buy to Let Guide - August 2025
-**Website:** https://www.castletrust.co.uk/property-documents-lending-criteria/
-**Product Type:** Buy to Let - Personal (Individual Applicants, Sole Traders, Partnerships, LLPs)
+## SECTION 12 – CONTACT
 
+* **Phone:** 0345 241 3079
+* **Alternative Phone:** 0808 164 5000
+* **Find a BDM:** [Contact / Meet the team](https://www.castletrust.co.uk/contact-meet-the-team-page/)
+* **Intermediaries Portal (PULSE):** [PULSE](https://www.castletrust.co.uk/pulse/)
+* **Website:** [Castle Trust Bank](https://www.castletrust.co.uk/)
+* **Documents and Lending Criteria:** [Property documents and lending criteria](https://www.castletrust.co.uk/property-documents-lending-criteria/)
+* **Office hours:** Monday to Friday, standard business hours. Calls may be monitored and/or recorded for security and training purposes.
+
+Castle Trust Bank is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority.
+
+---
+
+*END OF DOCUMENT*

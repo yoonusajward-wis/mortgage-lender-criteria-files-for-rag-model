@@ -1,320 +1,172 @@
-LENDER NAME: Gatehouse Bank
-PRODUCT: Home Purchase Plan
+# GATEHOUSE BANK – HOME PURCHASE PLAN (HPP)
 
-================================================================================
-GATEHOUSE BANK - HOME PURCHASE PLAN CRITERIA (HPP) - FINANCE UP TO 80% FTV
-================================================================================
+---
 
-Source: https://assets.gatehousebank.com/production/downloads/2025-05-30-Home-Purchase-Plan-Criteria-Guide-finance-up-to-80-V1.pdf
+**LENDER:** Gatehouse Bank
+**PRODUCT:** Home Purchase Plan (HPP) – Finance up to 80% FTV
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** 30 May 2025 (HPPCG300525V1)
+**FOR INTERMEDIARY USE ONLY**
 
-Document Version: HPPCG300525V1
-Effective from: 30 May 2025
+**Source:** https://assets.gatehousebank.com/production/downloads/2025-05-30-Home-Purchase-Plan-Criteria-Guide-finance-up-to-80-V1.pdf
 
-Note: This document is for intermediary use only. To provide advice on HPP products you are required to hold specific HPP permissions with the FCA.
+Shariah-compliant finance for home purchase and refinance. To provide advice on HPP products you are required to hold specific HPP permissions with the FCA.
 
-Last Verified: Based on PDF content as of the file creation date
+---
 
-================================================================================
+## SECTION 1 – Important Notice, Validity and Disclaimer
 
---- Page 1 ---
+### 1.1 Important Notice
 
-FOR THE USE OF PROFESSIONAL MORTGAGE INTERMEDIARIES ONLY
+* To provide advice on HPP products you are required to hold specific HPP permissions with the FCA.
+* All customers of the Bank must be able to read, speak and understand English to a level that they are fully aware of all obligations and requirements when entering any financial arrangements with the Bank.
 
-================================================================================
-HOME PURCHASE PLAN CRITERIA - FINANCE UP TO 80% FTV
-================================================================================
+### 1.2 Validity Periods
 
-Shariah-compliant finance for home purchase and refinance
-
-Effective from: 30 May 2025
-
-IMPORTANT NOTICE
---------------------------------------------------------------------------------
-
-To provide advice on HPP products you are required to hold specific HPP permissions with the FCA.
-
-All customers of the Bank must be able to read, speak and understand English to a level that they are fully aware of all obligations and requirements when entering any financial arrangements with the Bank.
-
-VALIDITY PERIODS
---------------------------------------------------------------------------------
-
-- Decision in Principle: 30 Days
-- Application: 90 Days
-- Offers: 120 Days (180 Days for New Build Properties Only)
+* Decision in Principle: 30 Days
+* Application: 90 Days
+* Offers: 120 Days (180 Days for New Build Properties Only)
 
 After 120 days (180 days for new build) the Offer may be re-issued at the Bank's discretion for up to a further 120 days (180 days for new build). Any new Offers will be subject to the latest available rental rates, criteria and other terms and may require updated evidence and a new valuation.
 
-Validities are subject to change without notice
+Validities are subject to change without notice.
 
-DISCLAIMER
---------------------------------------------------------------------------------
+### 1.3 Disclaimer
 
 This criteria is to provide guidance on the main financing Policy and is not exhaustive. Our experienced underwriters endeavour to make cases work and will make the final decision based on all obtained facts and information on the applicants and property. The Bank reserves the right to request any further information it requires in order to make a decision.
 
-Document Version: HPPCG300525V1
+---
 
---- Page 2 ---
+## SECTION 2 – Why Choose Gatehouse Bank
 
-================================================================================
-WHY CHOOSE GATEHOUSE BANK?
-================================================================================
+* Dedicated, professional and experienced Business Development Managers
+* Every application is individually reviewed
+* New Build Houses and Flats
+* Maximum 80% FTV for purchase and refinance
+* Finance up to £5m (up to £10m by prior referral)
+* Option of 2 or 5 year fixed term periods
+* Fast decision in principle
+* A range of Green and ethical financing options for UK residential property
+* A Shariah-compliant alternative to traditional mortgages, where rent is charged rather than interest
 
-- Dedicated, professional and experienced Business Development Managers
-- Every application is individually reviewed
-- New Build Houses and Flats
-- Maximum 80% FTV for purchase and refinance
-- Finance up to £5m (finance to £10m by prior referral)
-- Option of 2 or 5 year fixed term periods
-- Fast decision in principle
-- A range of Green and ethical financing options, for UK residential property
-- A Shariah-compliant alternative to traditional mortgages, where rent is charged rather than interest
+---
 
---- Page 3 ---
+## SECTION 3 – Residential Home Finance at a Glance
 
-================================================================================
-RESIDENTIAL HOME FINANCE
-================================================================================
+* Shariah-compliant alternative to traditional mortgages. Key features: New Build houses and flats; up to 80% FTV for purchase and refinance; available for UK Residents, UK Expats & International Residents
+* Green finance options. Finance up to £5m (up to £10m by referral). Acquisition & Rent over 2 or 5 year fixed terms. Pay rent not interest. Min/Max finance size: £75k–£5m (up to £10m by referral). Employed, self-employed and contractors accepted
 
-A SHARIAH-COMPLIANT ALTERNATIVE TO TRADITIONAL MORTGAGES
+---
 
-KEY FEATURES
---------------------------------------------------------------------------------
+## SECTION 4 – HPP Product Criteria
 
-NEW BUILD HOUSES AND FLATS
+### 4.1 Purpose, Max FTV and Affordability
 
-UP TO 80% FTV FOR PURCHASE AND REFINANCE
+* Purpose: Purchase or Refinance of main residence for own occupation. Day one refinance considered (subject to enhanced underwriting). Debt consolidation/capital raising for business, tax or gambling debt not acceptable; repayment of secured property finance allowed. Capital raising for property investment/development and to repay secured property finance allowed (both customer types)
+* Max FTV – UK Residents: 80% up to £2m; 75% up to £3m; 70% up to £5m (up to £10m by prior referral). UK Expats/International: 80% up to £2m; 75% up to £3m; 70% up to £5m (up to £10m by prior referral). Finance amount based on purchase price or valuation, whichever is the lower. Acquisition & Rent
+* Affordability: Gatehouse uses an Affordability calculation (income and expenditure; basic essential, basic quality of living and committed expenditure over 3 months). HPP stressed at: 1% above pay rate for 2-year fixed; pay rate for 5-year fixed (both)
+* Min/Max finance: £75,000–£5m (up to £10m by prior referral) for both. Min/Max term: Min 5 years, Max 40 years (both)
+* Additional requirements: All customers must read, speak and understand English; UK current account for direct debit; Trust structures including Bare Trust, JBSP not acceptable; Green Products (UK Residents only): EPC A or B for Green Rental Rate and Carbon Neutral incentives
 
-ETHICAL HOME FINANCE AVAILABLE FOR UK RESIDENTS, UK EXPATS & INTERNATIONAL RESIDENTS
+### 4.2 Applicant and Employment
 
-GREEN FINANCE
---------------------------------------------------------------------------------
+* Maximum applicants: 4 (income from two highest earning applicants only) for both. Minimum income: UK Residents £15,000 p.a. gross main applicant; UK Expats/International £25,000 p.a. gross. Minimum age: UK Residents 18; UK Expats/International 21. Maximum age: 70 at application; max 75 at end of term or stated retirement age, whichever earlier (both)
+* Applicants status: Joint names expected where legally sanctioned relationship; joint owners must both be applicants. Refinance may be single applicant if already owned in sole name (Expat/International: not for international residents)
+* Employed verification – UK Residents: Foreign Nationals/EU Pre-settled in UK: 12 months continuous employment (gaps up to 2 months when switching acceptable). UK Nationals, EU & Foreign Nationals in UK: 6 months continuous in UK; permanent over 3 months same employer; not under notice. 100% of main salary, car/London/City allowance, overtime, commission (subject to terms), guaranteed bonus, second job (evidenced 12 months), NET rental (SA302), housing allowance, State/occupational pension (age restrictions apply). 50% Child Benefit, Working/Child Tax Credits, maintenance UK only (court order/CSA or 12 months bank statements), travel allowance, regular bonus (evidenced 2 years). Bursary UK only (Award letter), dividend from share portfolio (SA302). Probation considered subject to conditions; 12 months continuous employment prior, all in UK
+* Employed verification – UK Expats/International: 12 months continuous employment; last 6 months in same country as residence; permanent over 3 months same employer in country of residence; not under notice. Same 100%/50% income treatment; 50% Maintenance (court order/CSA or 12 months bank statements), travel allowance. Probation subject to conditions. Other incomes may be considered (please refer)
 
-Options for finance up to £5m (up to £10m by referral)
+### 4.3 Parental Leave, Contractor, Self-Employed and Deposit
 
-ACQUISITION & RENT OVER 2 OR 5 YEAR FIXED TERMS
+* Parental Leave: Return to work income from Parental Leave can be used for affordability (both)
+* Contractor – UK Residents: Contract running at least 6 months; proof of contracting min 12 months. If contract more than 6 months to run: 12 months prior employment same line of work; if less than 6 months: 2 years prior same line of work. Umbrella company paying tax and NI acceptable. UK Expats/International: Contract running at least 6 months; proof of contracting min 2 years; same prior employment rules; umbrella acceptable
+* Employment not considered: Seasonally based, piece work and zero hours contracts (both)
+* Self-employed: Sole Trader, Partner, LLP member, director 25%+ shareholding. Income from latest year (if significantly different from previous year, more detail required). Medical professionals with less than 12 months self-employed may get special consideration (both)
+* Evidence of deposit: Always required (both). Gifted deposits: Non-repayable from close relative (spouse, parent, child, grandparent, brother, sister, uncle/aunt, foster/adoptive parent or legal guardian, step relatives) subject to interested party waiver. Builder/developer up to 5%; vendor gifted not acceptable. International: gifted only from UK Resident or UK Expat donor. See Bank website: Gifted Deposit Guidance and Gifted Deposit Declaration of Source of Funds
 
-PAY RENT NOT INTEREST
+### 4.4 Credit, ID & Residency, Property
 
-MIN/MAX FINANCE SIZE: £75k - £5m (up to £10m by referral)
+* Credit history (both): UK credit report required (UK footprint). No Bankruptcy, Debt Relief Order or IVA in last 3 years. No CCJs in last 3 years (all satisfied before application). No missed mortgage/property finance in last 12 months. No voluntary/enforced possession. No default in last 12 months; max 1 default up to £300 between months 13–36, satisfied before application. Communication company defaults disregarded up to £300 total. Live Debt Management plan at application = declined. Existing mortgage/financing: most recent mortgage/home finance statement required
+* ID and residence: See Gatehouse ID and Residence Requirements on Bank's website. UK Residents: UK Nationals, EEA/EU Settled, EEA/EU Pre-settled, Foreign Nationals in UK (80% FTV). UK Nationals: UK Passport or Driving Licence. EEA/EU: Share Code and DOB or Passport and Visa/BRP; from 1 Aug 2021 Passport and UK Visa (min 6 months at application). Foreign Nationals in UK: Passport and UK Visa (min 6 months); resident in UK 6 months consecutively at application; 12 months continuous employment (last 6 in UK); Share Code and DOB; UK contract of employment. Dual nationality: proof of all nationalities required. UK Expats: UK Expat HPP products only (80% FTV), Valid UK Passport. International: International HPP only (80% FTV), Valid Passport or National ID. British passport without right to live/work in UK: International HPP. Evidence of all nationalities on application. Documents: valid and in date (statements/utility bills not older than 90 days), certified true copies; named, signed, dated by approved certifiers (FCA/PRA authorised introducer or AML professional). No diplomatic immunity; all checked for sanctions and PEPs
+* Property: Location England and Wales. Tenure: Freehold and Leasehold (lease min 70 years at application, 40 at end of term). Type: Standard Residential only. Valuation: Market Value or purchase price, whichever lower. Min property value: UK Residents £94,000 at 80% FTV, £115,000 at 65%; UK Expats/International £94,000 at 80% FTV, £115,000 at 65%. Property types as security: see Home Finance Property Types – Guidance Notes for Intermediaries on Bank's website. Green Option (UK): EPC A or B = 0.10% rental reduction plus carbon offset for 2 or 5 year term
 
-EMPLOYED, SELF-EMPLOYED AND CONTRACTORS
+---
 
---- Page 4 ---
+## SECTION 5 – Valuation and Product Fees
 
-================================================================================
-HPP PRODUCT CRITERIA
-================================================================================
+### 5.1 Valuation Fee Scale (including VAT)
 
-| Criteria | HPP Home Finance - UK Residents | HPP Home Finance - UK Expats/ International Residents |
-|---|---|---|
-| **Financing** | | |
-| **Purpose** | • Purchase or Refinance of main residence for own occupation<br>• Day one refinance considered (subject to enhanced underwriting checks)<br>• Debt consolidation & capital raising refinance for business, tax or gambling debt payments is not acceptable, but repayment of secured property finance is allowed<br>• Capital raising for property investment / development and to repay secured property finance is allowed | |
-| **Max FTV** | • 80% up to £2m of Finance<br>• 75% up to £3m<br>• 70% up to £5m (up to £10m by prior referral - terms apply)<br><br>Finance amount offered will be based on the purchase price or valuation, whichever is the lower<br><br>• Acquisition & Rent | • 80% up to £2m of Finance for UK Expats & International residents<br>• 75% up to £3m<br>• 70% up to £5m (up to £10m by prior referral - terms apply)<br><br>Finance amount offered will be based on the purchase price or valuation, whichever is the lower<br><br>• Acquisition & Rent |
-| **Affordability Test** | Gatehouse Bank uses an Affordability calculation to assess the maximum supportable finance, given the income and expenditure information provided by the applicant. Expenditure covers: basic essential expenditure, basic quality of living expenditure and committed expenditure assessed over 3 months.<br><br>HPP products are stressed at:<br>• 1% above payrate for 2-year fixed term products.<br>• Pay rate for 5-year fixed term products. | Gatehouse Bank uses an Affordability calculation to assess the maximum supportable finance, given the income and expenditure information provided by the applicant. Expenditure covers: basic essential expenditure, basic quality of living expenditure and committed expenditure assessed over 3 months.<br><br>HPP products are stressed at:<br>• 1% above payrate for 2-year fixed term products.<br>• Pay rate for 5-year fixed term products. |
-| **Min/Max Finance size** | £75,000 - £5m (up to £10m by prior referral - terms apply) | £75,000 - £5m (up to £10m by prior referral - terms apply) |
-| **Min/Max Term** | Min: 5 years<br>Max: 40 years | Min: 5 years<br>Max: 40 years |
-| **Additional Requirements** | • All customers of the Bank must be able to read, speak and understand English to a level that they are fully aware of all obligations and requirements when entering any financial arrangements with the Bank.<br>• Applicant must have a UK current account for the duration of the financing to enable direct debit payment.<br>• Any Trust structures including, Bare Trust, Joint borrower sole proprietor or similar arrangements are not acceptable.<br>• Green Products (UK Residents only) - To be eligible for the Green Rental Rate and Carbon Neutral incentives, all properties must have an EPC rating of A or B. | |
+* Up to £100,000: £192
+* £100,001–£150,000: £230
+* £150,001–£200,000: £252
+* £200,001–£250,000: £308
+* £250,001–£300,000: £322
+* £300,001–£350,000: £364
+* £350,001–£400,000: £406
+* £400,001–£500,000: £448
+* £500,001–£600,000: £476
+* £600,001–£700,000: £518
+* £700,001–£800,000: £567
+* £800,001–£900,000: £644
+* £900,001–£1m: £707
+* £1m–£1.25m: £735
+* £1.25m–£1.5m: £770
+* £1.5m–£1.75m: £910
+* £1.75m–£2m: £1,050
+* £2,000,001–£2,500,000: £1,200
+* £2,500,001–£3,000,000: £1,700
+* £3,000,001–£4,000,000: £2,200
+* £4,000,001–£5,000,000: £2,900
+* £5,000,001 and above: By agreement
+* Re-valuation Fee: £180
+* Re-inspection Fee: £90
 
---- Page 5 ---
+### 5.2 Application and Product Fees
 
-| Criteria | HPP Home Finance - UK Residents | HPP Home Finance - UK Expats/ International Residents |
-|---|---|---|
-| **Applicant** | | |
-| **Maximum Applicants** | 4 applicants (income considered from the two highest earning applicants only) | 4 applicants (income considered from the two highest earning applicants only) |
-| **Minimum Income** | Minimum income of main applicant £15,000 p.a. gross | Minimum income of main applicant £25,000 p.a. gross |
-| **Minimum Age** | 18 years | 21 years |
-| **Maximum Age** | Max age at point of application: 70 years / Maximum age of 75 at the end of the finance term, or the applicant's stated retirement age, whichever is earlier | Max age at point of application: 70 years / Maximum age of 75 at the end of the finance term, or the applicant's stated retirement age, whichever is earlier |
-| **Applicants Status** | Applications are expected to be in joint names where an applicant is in a legally sanctioned relationship (i.e. married or in a civil union). Joint owners of a property must both be applicants on the finance application. However, refinance applications may be considered on single application basis, if already owned in sole name. | Applications are expected to be in joint names where an applicant is in a legally sanctioned relationship (i.e. married or in a civil union). Joint owners of a property must both be applicants on the finance application. However, refinance applications may be considered on single application basis, if already owned in sole name (not international residents). |
-| **Employment** | | |
-| **Employed Income Verification (Including Directors with less than 25% shareholding)** | **Foreign Nationals/ EU Nationals with 'pre-settled status' residing in the UK:**<br>• 12 months continuous employment (gaps of up to 2 months whilst switching employment is acceptable)<br><br>**UK Nationals, EU Nationals & Foreign Nationals permanently residing in the UK & Foreign Nationals / EU Nationals with 'pre-settled status' residing in the UK:**<br>• 6 months continuous employment in the UK<br>• Permanent employment over 3 months with the same employer in the UK<br>• Must not be under notice of termination or redundancy<br>• 100% of - main salary, car allowance, London/City allowance, overtime, and commission (subject to terms), guaranteed bonus, second job - must be evidenced for the past 12 months, NET rental income (SA302), housing allowance, State or occupational pension income subject to any age restrictions outlined elsewhere.<br>• 50% of Child Benefit, Working & Child Tax Credits)/maintenance - UK only (confirmed by court order or CSA or 12 months' bank statements) / travel allowance and any regular bonus (evidenced over the past 2-years).<br>• Additional income such as Bursary (UK only & evidenced by Award letter), Dividend income from share portfolio evidenced by SA302.<br>• Other incomes and allowances may be considered (please refer).<br>• Applicants in probationary periods can be considered subject to conditions, dependent on career history (please refer). Applicants should have been in continuous employment over the 12 months prior to the application, all of which must have been in the UK | • 12 months continuous employment<br>• Last 6 months employment in same country as residence<br>• Permanent employment over 3 months with the same employer in the same country of residence<br>• Must not be under notice of termination or redundancy<br>• 100% of - main salary, car allowance, London/City allowance, overtime, and commission (subject to terms), guaranteed bonus, second job - must be evidenced for the past 12 months, NET rental income (SA302), housing allowance, State or occupational pension income subject to any age restrictions outlined elsewhere.<br>• 50% Maintenance (confirmed by court order or CSA or 12 months' bank statements) / travel allowance.<br>• Applicants in probationary periods can be considered subject to conditions, dependent on career history. Applicants should have been in continuous employment over the 12 months prior to the application<br>• Other incomes and allowances may be considered (please refer). |
-
---- Page 6 ---
-
-| Criteria | HPP Home Finance - UK Residents | HPP Home Finance - UK Expats/ International Residents |
-|---|---|---|
-| **Parental Leave** | • Return to work income from Parental Leave can be used for affordability purposes | • Return to work income from Parental Leave can be used for affordability purposes |
-| **Contractor** | • Current contract must have been running for at least 6 months and applicant has proof of contracting for a minimum of 12 months<br>• Minimum 12 months employment prior in the same line of work if the contract has more than 6 months to run<br>• Minimum 2 years employment prior in the same line of work if the contract has less than 6 months to run<br>• Applicants being paid via an umbrella company paying their tax and NI are acceptable | • Current contract must have been running for at least 6 months and applicant has proof of contracting for minimum of 2 years<br>• Minimum 12 months employment prior in the same line of work if the contract has more than 6 months to run<br>• Minimum 2 years employment prior in the same line of work if the contract has less than 6 months to run<br>• Applicants being paid via an umbrella company paying their tax and NI are acceptable |
-| **Employment not considered** | Seasonally based, piece work and zero hours contracts will not be considered by the Bank | Seasonally based, piece work and zero hours contracts will not be considered by the Bank |
-| **Self Employed Income Verification** | An applicant will be classed as self-employed if they fall into one of the following categories:<br>• Sole Trader, Partner in a firm, Member of a LLP, Any director with 25% or more shareholding<br>• Income will be calculated based on latest years income (unless the latest years profit/income is significantly different than the previous year, when more detail will be required by the Underwriters)<br>• Special consideration may be given to medical professionals with less than 12 months self-employed income history. | An applicant will be classed as self-employed if they fall in one of the following categories:<br>• Sole Trader, Partner in a firm, Member of a LLP, Any director with 25% or more shareholding<br>• Income will be calculated based on latest years' income (unless the latest years profit/income is significantly different than the previous year, when more detail will be required by the Underwriters)<br>• Special consideration may be given to medical professionals with less than 12 months self-employed income history. |
-
---- Page 7 ---
-
-| Criteria | HPP Home Finance - UK Residents | HPP Home Finance - UK Expats/ International Residents |
-|---|---|---|
-| **Deposit Details** | | |
-| **Evidence of Deposit** | Source of deposit evidence is always required | Source of deposit evidence is always required |
-| **Gifted Deposits** | • Non-repayable gifted deposits from a close relative are acceptable subject to a signed interested party waiver. Close relative is defined as spouse, parent, child, grandparent, brother, sister, uncle/aunt, foster/adoptive parent or legal guardian & includes step relatives.<br>• Builder / developer deposits considered up to 5%<br>• Vendor gifted deposits are not acceptable<br><br>For more information on gifted deposits, please refer to the following documents on the Bank's website: Gifted Deposit Guidance and Gifted Deposit Declaration of Source of Funds. | • Non-repayable gifted deposits from a close relative are acceptable subject to a signed interested party waiver. Close relative is defined as spouse, parent, child, grandparent, brother, sister, uncle/aunt, foster/adoptive parent or legal guardian & includes step relatives.<br>• For International applications Gifted Deposits are only acceptable from a donor who is either a UK Resident or a UK Expat. Gifted deposit from international donors is not acceptable.<br>• Vendor gifted deposits are not acceptable<br>• Builder /developer deposits considered up to 5%<br><br>For more information on gifted deposits, please refer to the following documents on the Bank's website: Gifted Deposit Guidance and Gifted Deposit Declaration of Source of Funds. |
-| **Credit History** | • Up to date UK credit report required from all applicants with a UK footprint<br>• No Bankruptcy, Debt Relief Order or IVA in last 3 years<br>• No CCJ's in last 3 years (all previous CCJs must be satisfied before application)<br>• No missed mortgage or other property finance payments over the last 12 months<br>• No voluntary/ enforced possession<br>• No default in last 12 months, max 1 default of up to £300 between months 13 to 36 and satisfied before application submitted and must be satisfied before submitting an application for finance<br>• Where defaults, whether settled or not, relate to Communication companies these will be disregarded as part of the underwriting credit assessment up to a maximum of £300 in total regardless of when they were registered.<br>• Applicants with a live Debt Management plan at application, will be declined. | • Up to date UK credit report required from all applicants with a UK footprint<br>• No Bankruptcy, Debt Relief Order or IVA in last 3 years<br>• No CCJ's in last 3 years (all previous CCJs must be satisfied before application)<br>• No missed mortgage or other property finance payments over the last 12 months<br>• No voluntary/ enforced possession<br>• No default in last 12 months, max 1 default of up to £300 between months 13 to 36 and satisfied before application submitted and must be satisfied before submitting an application for finance<br>• Where defaults, whether settled or not, relate to Communication companies will be disregarded as part of the underwriting credit assessment up to a maximum of £300 in total regardless of when they were registered.<br>• Applicants with a live Debt Management plan at application, will be declined. |
-
---- Page 8 ---
-
-| Criteria | HPP Home Finance - UK Residents | HPP Home Finance - UK Expats/ International Residents |
-|---|---|---|
-| **Finance Criteria** | | |
-| **Existing Mortgage/ Financing** | • Most recent mortgage / home finance statement | • Most recent mortgage / home finance statement |
-| **ID & Residency** | | |
-| **Applicant Proof of ID and Residence** | For a detailed list showing ID requirements and proof of residence for applicants that is acceptable to the Bank, please refer to our document Gatehouse ID and Residence Requirements on the Bank's website. | |
-| **Applicant Residency Status and ID Evidence** | **UK Residents – including the Green Product options:**<br>• Maximum FTV: 80%<br><br>**Acceptable:**<br>• UK Nationals - (80% FTV)<br>• EEA / EU Nationals with 'Settled status' – (80% FTV)<br>• EEA / EU Nationals with 'Pre-Settled status' - (80% FTV)<br>• Foreign Nationals resident in the UK – (80% FTV)<br><br>**Documents:**<br>• UK Nationals – UK Passport or UK Driving Licence<br>• All EEA / EU Nationals who:<br>  - Relocated to the UK prior to 31 July 2021 – Valid 'Share Code' and 'DOB' (Details to view and prove the immigration status provided by the Home Office) or a Valid Passport and valid Visa or Biometric Resident Permit Card<br>  - Relocated to the UK from 1 August 2021 –Valid Passport and valid UK Visa with at least 6 months remaining at application<br><br>**Foreign Nationals Resident in UK:**<br>• Maximum FTV: 80%<br>• Acceptable: Valid Passport and valid UK Visa with at least 6 months remaining at application<br>• Documents:<br>  - Applicants must have been a resident in the UK for last 6 months consecutively at the time of application<br>  - Applicants must have 12 months continuous employment history; of which the last 6 months must be in the UK at the time of application<br>  - All applicants must provide a Valid 'Share Code' and 'DOB' (Details to view and prove the immigration status provided by the Home Office)<br>  - Applicant's UK contract of employment<br>• Where an applicant holds dual nationality, proof of all nationalities must now be provided when uploading the proof of ID documentation<br><br>Terms and requirements may differ according to status – for more detailed information please refer to our document Gatehouse ID Requirements on the Bank's website. | • UK Expats (UK Citizens resident abroad) are only eligible to apply for our UK Expat Home Purchase Plan products – (80% FTV). Valid UK Passport<br>• International Residents (Foreign Nationals non-resident in the UK) are only eligible to apply for our International Home Purchase Plan products – (80% FTV) - Valid Passport, or if passport is not available, a valid National ID card issued by the government.<br>• Other applicants who hold British passports and do not have an automatic right to live and work in the UK- are only eligible to apply for our International Home Purchase Plan products. Please see https://www.gov.uk/types-of-british-nationality for a full list.<br>• Evidence of all Nationalities held must be provided on the application form with supporting evidence.<br>• Where an applicant holds dual nationality, proof of all nationalities must now be provided when uploading the proof of ID documentation<br><br>Terms and requirements may differ according to status – for more detailed information please refer to our document Gatehouse ID Requirements on the Bank's website. |
-| **Ensure that all Documents are:** | • Valid and in date (statements and utility bills must not be older than 90 days) and certified as true copies and likeness if photo ID (a list of persons able to certify documents is available on our website here)<br>• Named, Signed, and dated by approved certifiers only (FCA / PRA authorised introducer or a professional covered by the AML legislation) | |
-| **Applicants not considered** | Gatehouse Bank will not provide finance to applicants with diplomatic immunity, and all applicants will be checked for inclusion on financial sanction and Politically Exposed Persons (PEPs) lists. | |
-| **Property** | | |
-| **Location** | England and Wales | England and Wales |
-| **Tenure** | Freehold and Leasehold (Lease must have a minimum of 70 years remaining at time of application and 40 years remaining at the end of the term). | |
-| **Property Type** | Standard Residential only | Standard Residential only |
-| **Valuation Basis** | Market Value or purchase price, whichever is the lower | Market Value or purchase price, whichever is the lower |
-| **Minimum Property Value** | • £94,000 at 80% FTV<br>• £115,000 at 65% FTV | • £94,000 UK Expats and International residents for 80% FTV<br>• £115,000 at 65% FTV |
-| **Property types acceptable as security** | For more information on the property types acceptable as security, please refer to our document Home Finance Property Types – Guidance Notes for Intermediaries on the Bank's website. Please note this list is not exhaustive and if unsure about the suitability of any property as security, you should contact the Bank or your BDM.<br><br>Green Option - properties with an EPC rating of A or B receive a reduction of 0.10% on the rental rate, plus measures will be taken by the Bank to offset the carbon emissions of the property for the full 2 or 5 year initial fixed term. The offset incentive is based on the average consumption of gas and electricity of an average UK home and is operated through a partnership with a leading environmental conservationist organisation. | |
-
---- Page 9 ---
-
-(Page 9 content continues from Page 8 - Property section is complete)
-
---- Page 10 ---
-
-================================================================================
-VALUATION AND PRODUCT FEES
-================================================================================
-
-| Property Value | Valuation Fee (including VAT) |
-|---|---|
-| Up to £100,000 | £192 |
-| £100,001 - £150,000 | £230 |
-| £150,001 - £200,000 | £252 |
-| £200,001 - £250,000 | £308 |
-| £250,001 - £300,000 | £322 |
-| £300,001 - £350,000 | £364 |
-| £350,001 - £400,000 | £406 |
-| £400,001 - £500,000 | £448 |
-| £500,001 - £600,000 | £476 |
-| £600,001 - £700,000 | £518 |
-| £700,001 - £800,000 | £567 |
-| £800,001 - £900,000 | £644 |
-| £900,001 - £1m | £707 |
-| £1m - £1.25m | £735 |
-| £1.25m - £1.5m | £770 |
-| £1.5m - £1.75m | £910 |
-| £1.75m - £2m | £1,050 |
-| £2,000,001 - £2,500,000 | £1,200 |
-| £2,500,001 - £3,000,000 | £1,700 |
-| £3,000,001 - £4,000,000 | £2,200 |
-| £4,000,001 - £5,000,000 | £2,900 |
-| £5,000,001 and above | By agreement |
-| Re-valuation Fee | £180 |
-| Re-inspection Fee | £90 |
-
-APPLICATION FEES
---------------------------------------------------------------------------------
-
-- £149 UK RESIDENTS
-- £199 UK EXPATS
-- £299 INTERNATIONAL RESIDENTS
-
-PRODUCT FEES
---------------------------------------------------------------------------------
-
-- £499 UK RESIDENTS
-- £699 UK EXPATS
-- 1% (Min £999) INTERNATIONAL RESIDENTS
+* Application fees: £149 UK Residents; £199 UK Expats; £299 International Residents
+* Product fees: £499 UK Residents; £699 UK Expats; 1% (Min £999) International Residents
 
 The Bank reserves the right to request any further information it requires in order to make a decision.
 
-================================================================================
-FOR MORE INFORMATION, PLEASE CONTACT OUR RESIDENTIAL PROPERTY FINANCE TEAM:
-================================================================================
+---
 
-**Kelly Hau**
-- Telephony BDM
-- T: 08000 356 544 (Option 1)
-- E: kelly.hau@gatehousebank.com
+## SECTION 6 – Contact
 
-**Simon Field**
-- Telephony BDM
-- T: 08000 356 544 (Option 1)
-- E: simon.field@gatehousebank.com
+* Main: T 08000 356 544 | E bdteam@gatehousebank.com | W www.gatehousebank.com/intermediaries
+* Kelly Hau (Telephony BDM): 08000 356 544 Option 1, kelly.hau@gatehousebank.com
+* Simon Field (Telephony BDM): 08000 356 544 Option 1, simon.field@gatehousebank.com
+* Tol Mulka (Telephony BDM): 08000 356 544 Option 1, tol.mulka@gatehousebank.com
+* Thomas Humphreys (Lead Telephony BDM): 08000 356 544 Option 1, thomas.humphreys@gatehousebank.com
+* Tyler Sullivan (BDM – Midlands, East Anglia, South West, South East, Watford, Enfield): +44 (0) 7593 448 441, tyler.sullivan@gatehousebank.com
+* Chris Proudfoot (BDM – East Midlands, North West, North East, Yorkshire & Humber): +44 (0) 7593 446 190, chris.proudfoot@gatehousebank.com
+* Emma Kelman (BDM – South East and London): +44 (0) 7507 909 686, emma.kelman@gatehousebank.com
+* Lottie Dougill (Head of Intermediary Sales): +44 (0) 7851 249 352, lottie.dougill@gatehousebank.com
+* HPP Criteria PDF: https://assets.gatehousebank.com/production/downloads/2025-05-30-Home-Purchase-Plan-Criteria-Guide-finance-up-to-80-V1.pdf
 
-**Tol Mulka**
-- Telephony BDM
-- T: 08000 356 544 (Option 1)
-- E: tol.mulka@gatehousebank.com
+---
 
-**Thomas Humphreys**
-- Lead Telephony BDM
-- T: 08000 356 544 (Option 1)
-- E: thomas.humphreys@gatehousebank.com
+## SECTION 7 – How It Works
 
-**Tyler Sullivan**
-- Business Development Manager - The Midlands, East Anglia, the South West and the South East, including Watford and Enfield
-- T: +44 (0) 7593 448 441
-- E: tyler.sullivan@gatehousebank.com
+### 7.1 Acquisition & Rent Purchase Plan
 
-**Chris Proudfoot**
-- Business Development Manager - East Midlands, North West and North East of England, Yorkshire and The Humber Regions
-- M: +44 (0) 7593 446 190
-- E: chris.proudfoot@gatehousebank.com
+* The Bank and the applicant each contribute a percentage towards the purchase or refinance (e.g. Bank 75%, applicant 25%; for refinances the applicant's contribution is the equity in the property).
+* The Bank leases its share to the applicant for the finance term. The applicant makes monthly Acquisition Payments; the Bank's share diminishes and the applicant's share increases. The Bank charges rent on its share until acquired.
+* The applicant may acquire the Bank's share early via Additional Acquisition Payments (AAPs) or at term end. An Early Redemption Charge (ERC) may apply if the Bank's share is acquired in full or AAPs exceed the 10% annual allowance during the Fixed Rental Rate Period. When the Bank's share is fully acquired, the Bank transfers the registered title to the applicant.
 
-**Emma Kelman**
-- Business Development Manager - South East and London
-- M: +44 (0) 7507 909 686
-- E: emma.kelman@gatehousebank.com
+### 7.2 Notes
 
-**Lottie Dougill**
-- Head of Intermediary Sales
-- M: +44 (0) 7851 249 352
-- E: lottie.dougill@gatehousebank.com
+* On settlement, an Account Settlement Fee is payable per the Bank's Tariff of Charges. Minimum Additional Acquisition Payment (AAP) is £2,000.
+* The customer is responsible for solicitor costs, stamp duty and other conveyancing charges (e.g. land registry fees) at outset and on settlement.
 
---- Page 11 ---
+---
 
-================================================================================
-HOW DOES IT WORK?
-================================================================================
+## SECTION 8 – Legal and Regulatory
 
-ACQUISITION & RENT PURCHASE PLAN
---------------------------------------------------------------------------------
+Gatehouse Bank plc is authorised by the PRA and regulated by the FCA and PRA, incorporated in England and Wales (registered number 06260053). Registered office: The Helicon, One South Place, London, EC2M 2RB, United Kingdom.
 
-Our Acquisition & Rent Purchase Plan product is an arrangement between the Bank and the applicant. Both the applicant and the Bank will each contribute a percentage towards the purchase or refinance of a residential property. For example, the Bank may contribute 75% and the applicant 25% of the purchase price (for refinances, and the applicant's contribution is the equity in the property).
+* This document provides information about residential financing products on a non-advised basis and does not constitute an offer or invitation.
+* No information in this document shall form the basis of any contract. Transactions are governed by applicable terms and conditions. Recipients in jurisdictions outside the UK should inform themselves of and observe applicable legal requirements.
+* Prospective clients should make their own independent assessment and seek independent financial, tax and legal advice. By accepting this document, the recipient agrees to be bound by the foregoing limitations.
 
-The Bank will lease its share in the property to the applicant for the duration of the finance term.
+---
 
-Over the finance term, the applicant will make monthly Acquisition Payments through which the Bank will sell its share of the property to the applicant. With each Acquisition Payment, the Bank's share in the property diminishes while the applicant's share increases.
-
-While the Acquisition Payments are being made, the Bank will charge the applicant rent for the use of its share of the property. The rent is calculated according to the respective shares owned.
-
-The applicant may acquire the Bank's share before the end of the finance term by making Additional Acquisition Payments (AAPs). Alternatively, they may reduce the monthly Acquisition Payments and acquire the Bank's share at the end of the original finance term.
-
-An Early Redemption Charge (ERC) may be payable if the Bank's share is acquired in full or AAPs greater than the 10% annual allowance is made during the Fixed Rental Rate Period.
-
-Following the applicant's acquisition of all the Bank's share, either at the end of the agreed term or upon early purchase of the Bank's share, whichever is earlier, the Bank will transfer the registered ownership title of the property to the applicant.
-
-NOTES
---------------------------------------------------------------------------------
-
-- On settlement of the finance, an Account Settlement Fee is payable in accordance with the Bank's standard Tariff of Charges to cover the Bank's administration costs.
-- The minimum Additional Acquisition Payment (AAP) is £2,000.
-- The Customer is responsible for their own solicitor costs, stamp duty and other conveyancing charges (such as land registry fees) at outset and on settlement.
-
---- Page 12 ---
-
-================================================================================
-FOR THE USE OF PROFESSIONAL MORTGAGE INTERMEDIARIES ONLY
-================================================================================
-
-Gatehouse Bank plc ("Gatehouse") is a public limited company authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority and incorporated under the laws of England and Wales with registered number 06260053 having its registered office at The Helicon, One South Place, London, EC2M 2RB, United Kingdom.
-
-**Contact:**
-- T: 08000 356 544
-- E: bdteam@gatehousebank.com
-- W: www.gatehousebank.com/intermediaries
-
-================================================================================
-IMPORTANT NOTICE
-================================================================================
-
-This document is issued by Gatehouse and its purpose is to provide information about residential financing products offered by Gatehouse on a non-advised basis, it does not constitute an offer or invitation in respect the products.
-
-No information set out or referred to in this Document shall form the basis of any contract. Any prospective transaction shall be governed by applicable terms and conditions and any agreements entered into by the relevant parties acknowledging that it has not relied on, or been induced to enter into such an agreement by, any representation, warranty, assurance or undertaking save as expressly set out in that agreement. The issue of this document shall not be deemed to be any form of commitment on the part of Gatehouse (or any other person) to proceed with any transaction.
-
-Any recipient of this document in jurisdictions outside the UK should inform themselves about and observe any applicable legal requirements.
-
-Prospective clients should make their own independent assessment when considering the products described in this document. In reaching a decision, prospective clients should discuss their options with an independent financial adviser and seek independent professional tax and legal advice.
-
-By accepting this document, the recipient agrees to be bound by the foregoing limitations.
+*END OF DOCUMENT*

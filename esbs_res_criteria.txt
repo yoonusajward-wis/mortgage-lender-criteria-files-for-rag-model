@@ -1,395 +1,365 @@
-LENDER NAME: ESBS
-PRODUCT: Residential
+# ESBS – RESIDENTIAL LENDING CRITERIA
 
-================================================================================
-ESBS LENDING CRITERIA GUIDE - JUNE 2025
-================================================================================
+---
 
-Source: https://cdn.esbs.co.uk/wp-content/uploads/2025/06/10141005/Criteria-Grid-for-esbs-June_2025.pdf
+**LENDER:** ESBS
+**PRODUCT:** Residential
+**DOCUMENT TYPE:** Lending Criteria
+**LAST UPDATED:** June 2025
+**FOR INTERMEDIARY USE ONLY**
 
-THIS DOCUMENT IS FOR THE USE OF INTERMEDIARIES ONLY AND IS NOT FOR USE BY THE GENERAL PUBLIC
+**Source:** https://cdn.esbs.co.uk/wp-content/uploads/2025/06/10141005/Criteria-Grid-for-esbs-June_2025.pdf
 
-IMPORTANT NOTES:
-• Residential only as esbs does not lend on a Buy To Let basis.
-• This is a guide only as criteria is subject to change at any time, so please always check with esbs before submitting an application.
-• We would also welcome speaking with you for cases which are slightly out of criteria.
+* Residential only as ESBS does not lend on a Buy to Let basis.
+* This is a guide only; criteria is subject to change at any time, so please always check with ESBS before submitting an application.
+* ESBS would also welcome speaking with you for cases which are slightly out of criteria.
 
-================================================================================
-TERM, LOAN AMOUNT & VALUATION
-================================================================================
+---
 
-| Criteria | Details |
-|----------|---------|
-| Min. Term | 5 years |
-| Max. Term | 40 years |
-| Min. Loan | £20,000 purchase<br>£25,001 Remortgage |
-| Max. Loan | £1,000,000 (Max £300,000 if a First Time Buyer 95% LTV, or if the applicant is a contract worker without accounts. Max £250,000 if a MMC property, or if the property is mixed use) |
-| Min. Valuation | No minimum |
+## SECTION 1 – Term, Loan Amount and Valuation
 
-================================================================================
-AFFORDABILITY
-================================================================================
+* **Min. Term**: 5 years
+* **Max. Term**: 40 years
+* **Min. Loan**: £20,000 purchase; £25,001 Remortgage
+* **Max. Loan**: £1,000,000 (Max £300,000 if a First Time Buyer 95% LTV, or if the applicant is a contract worker without accounts. Max £250,000 if a MMC property, or if the property is mixed use)
+* **Min. Valuation**: No minimum
 
-| Criteria | Details |
-|----------|---------|
-| Income multiples | 4.49 x joint (Can have up to four applicants). The case must also pass on our affordability calculator |
-| Interest only: Is affordability calculated on interest only or repayment? | Interest only |
-| Are dependants taken into account for affordability? | Yes |
-| Minimum income | Minimum income is 15K for interest only/standard – sole or joint<br>Minimum income on self-build is 35K or if B2L's are in the background |
-| Are repaid/consolidated debts still taken into account for affordability? | No |
-| Time remaining on a loan where the payment will be ignored for affordability | For affordability, we will not ignore any debt unless this is being paid off before completion. However we do ignore for income multiples |
-| How are credit card commitments treated? | If they will be remaining then 3% of the balance remaining should be applied to the affordability calculator, with a minimum amount of £25 |
-| Childcare costs deducted? | Yes |
-| School fees deducted? | No |
-| Pension contributions deducted? | No (unless deducted at source on payslips for affordability) |
-| Travel costs deducted | Yes |
-| Leasehold service and ground rent costs deducted? | Yes |
-| Second homes: How is the deduction calculated? Monthly payments x12 or total available lending minus mortgage balance? | Total available lending less balance, also monthly repayments taken into account for affordability |
-| Second homes: Which bills are deducted if any from affordability? | All outgoings |
+---
 
-================================================================================
-ADVERSE
-================================================================================
+## SECTION 2 – Affordability
 
-| Criteria | Details |
-|----------|---------|
-| CCJs | No more than £500 (including any defaults) in total within the last 3 years & satisfied at any time up to application<br>We can ignore any satisfied over 3 years ago |
-| Defaults | No more than £500 (including any CCJs) in total within the last 3 years & satisfied at any time up to application<br>We can ignore any satisfied over 3 years ago |
-| Mortgage Arrears | 2 missed payments in the last two years as long as there is a good explanation (combined with other commitments) |
-| IVA's | Need to be cleared with no residual liability over three years to consider |
-| Bankrupts | Need to be cleared with no residual liability over three years to consider |
-| Credit Score or Search (reference agency Used) | Search only (Equifax) |
-| Soft or Hard Footprint | At Full Mortgage Application stage only - hard |
-| Late Payments on Unsecured Debts | 2 missed payments in the last two years combined with other commitments |
-| Debt Management Scheme/Length of time since been in Debt Management Scheme | Debt management plans need to be cleared for over three years for us to consider |
-| Pay Day Loans | Not acceptable if more than one in the last 12 months. If they have had any before this we can consider |
-| 'Check out' loans (Klana etc) | No more than eight in the last in the last year (subject to no other credit issues in the last three years) |
-| Repossessions | Need to be cleared with no residual liability for over three years for us to consider |
+* **Income multiples**: 4.49 x joint (Can have up to four applicants). The case must also pass on our affordability calculator
+* **Interest only: Is affordability calculated on interest only or repayment?**: Interest only
+* **Are dependants taken into account for affordability?**: Yes
+* **Minimum income**: Minimum income is 15K for interest only/standard – sole or joint. Minimum income on self-build is 35K or if B2L's are in the background
+* **Are repaid/consolidated debts still taken into account for affordability?**: No
+* **Time remaining on a loan where the payment will be ignored for affordability**: For affordability, we will not ignore any debt unless this is being paid off before completion. However we do ignore for income multiples
+* **How are credit card commitments treated?**: If they will be remaining then 3% of the balance remaining should be applied to the affordability calculator, with a minimum amount of £25
+* **Childcare costs deducted?**: Yes
+* **School fees deducted?**: No
+* **Pension contributions deducted?**: No (unless deducted at source on payslips for affordability)
+* **Travel costs deducted**: Yes
+* **Leasehold service and ground rent costs deducted?**: Yes
+* **Second homes: How is the deduction calculated? Monthly payments x12 or total available lending minus mortgage balance?**: Total available lending less balance, also monthly repayments taken into account for affordability
+* **Second homes: Which bills are deducted if any from affordability?**: All outgoings
 
-================================================================================
-AGE
-================================================================================
+---
 
-| Criteria | Details |
-|----------|---------|
-| Minimum | 18 |
-| Maximum | 85 for repayment and interest only where the income is to be used<br>There is no upper age limit where the applicant's income is not required |
-| Age at which projected pension income is requested | When under 10 years from stated retirement age<br>If person's income is to be used we can lend to our max age for employed and self-employed (85) if it is feasible and if that's their planned retirement date |
+## SECTION 3 – Adverse
 
-================================================================================
-BENEFITS
-================================================================================
+* **CCJs**: No more than £500 (including any defaults) in total within the last 3 years and satisfied at any time up to application. We can ignore any satisfied over 3 years ago
+* **Defaults**: No more than £500 (including any CCJs) in total within the last 3 years and satisfied at any time up to application. We can ignore any satisfied over 3 years ago
+* **Mortgage Arrears**: 2 missed payments in the last two years as long as there is a good explanation (combined with other commitments)
+* **IVA's**: Need to be cleared with no residual liability over three years to consider
+* **Bankrupts**: Need to be cleared with no residual liability over three years to consider
+* **Credit Score or Search (reference agency Used)**: Search only (Equifax)
+* **Soft or Hard Footprint**: At Full Mortgage Application stage only - hard
+* **Late Payments on Unsecured Debts**: 2 missed payments in the last two years combined with other commitments
+* **Debt Management Scheme/Length of time since been in Debt Management Scheme**: Debt management plans need to be cleared for over three years for us to consider
+* **Pay Day Loans**: Not acceptable if more than one in the last 12 months. If they have had any before this we can consider
+* **'Check out' loans (Klana etc)**: No more than eight in the last year (subject to no other credit issues in the last three years)
+* **Repossessions**: Need to be cleared with no residual liability for over three years for us to consider
 
-| Criteria | Details |
-|----------|---------|
-| Tax Credits | 75% used for income multiples, 100% for net affordability, provided sufficient longevity<br>Child Tax Credit will be acceptable if the child is 9 years or younger<br>Earned income is also required |
-| Child Benefit | 75% used for income multiples, 100% for net affordability, provided sufficient longevity (child is 9 years or younger)<br>Earned income is also required |
-| DLA | 75% used for income multiples, 100% for net affordability<br>Earned income is also required<br>If relates to a child then they need to be 9 years or younger |
-| Carers Allowance | 75% used for income multiples, 100% for net affordability<br>Earned income is also required<br>If relates to a child then they need to be 9 years or younger |
-| Universal Credit | 75% used for income multiples, 100% for net affordability<br>Earned income is also required<br>Any Housing element, and elements relating to Children aged 10 or over, will need to be deducted in full |
+---
 
-================================================================================
-CAPITAL RAISING
-================================================================================
+## SECTION 4 – Age
 
-| Criteria | Details |
-|----------|---------|
-| Business Purposes | 75% LTV Maximum. Please refer to your BDM to discuss the situation - this is generally acceptable provided not a startup |
-| Debt Consolidation | 85% LTV Maximum (we will also pay the creditors upon completion)<br>Any unsecured debt consolidation element cannot be on an interest only basis (but the remainder can be subject to our usual Interest Only or Part/Part criteria) |
-| Other (Gift, Second Property purchase, B2L Deposit, Wedding etc) | 85% LTV Maximum |
+* **Minimum**: 18
+* **Maximum**: 85 for repayment and interest only where the income is to be used. There is no upper age limit where the applicant's income is not required
+* **Age at which projected pension income is requested**: When under 10 years from stated retirement age. If person's income is to be used we can lend to our max age for employed and self-employed (85) if it is feasible and if that's their planned retirement date
 
-================================================================================
-CONTRACT/AGENCY WORKERS
-================================================================================
+---
 
-| Criteria | Details |
-|----------|---------|
-| Requirements for employed contractor? (length of time contracting and renewal requirements) | 9 months to run plus one roll over (To qualify for standard criteria) |
-| CIS and other contract workers (Where not classed as self-employed) | Contracting income is acceptable without accounts or tax returns, provided the following is met:<br>• They must be able to prove 12 months in the industry<br>• They must have been with the same employer for at least three months and have had no more than 3 employers in the previous 12 month period<br>• Gross income for income multiples is calculated at Hourly rate x 7 x 5 days x 46 weeks<br>• Net income for affordability (with tax and national insurance contributions deducted) would be an average of the last six months' payslips<br>• Max loan £300,000<br>• Max LTV 75% |
-| Self-employed contracts? | We would work off the accounts figures |
-| Will you accept first contracts? | No but refer to esbs if long term on the first contract |
-| Zero Hours and Piecework Contracts | 2 years with the same employer is required |
-| Agency Workers | 2 years with the same end employer is required |
+## SECTION 5 – Benefits
 
-================================================================================
-DAY ONE REMORTGAGE
-================================================================================
+* **Tax Credits**: 75% used for income multiples, 100% for net affordability, provided sufficient longevity. Child Tax Credit will be acceptable if the child is 9 years or younger. Earned income is also required
+* **Child Benefit**: 75% used for income multiples, 100% for net affordability, provided sufficient longevity (child is 9 years or younger). Earned income is also required
+* **DLA**: 75% used for income multiples, 100% for net affordability. Earned income is also required. If relates to a child then they need to be 9 years or younger
+* **Carers Allowance**: 75% used for income multiples, 100% for net affordability. Earned income is also required. If relates to a child then they need to be 9 years or younger
+* **Universal Credit**: 75% used for income multiples, 100% for net affordability. Earned income is also required. Any Housing element, and elements relating to Children aged 10 or over, will need to be deducted in full
+
+---
+
+## SECTION 6 – Capital Raising
+
+* **Business Purposes**: 75% LTV Maximum. Please refer to your BDM to discuss the situation - this is generally acceptable provided not a startup
+* **Debt Consolidation**: 85% LTV Maximum (we will also pay the creditors upon completion). Any unsecured debt consolidation element cannot be on an interest only basis (but the remainder can be subject to our usual Interest Only or Part/Part criteria)
+* **Other (Gift, Second Property purchase, B2L Deposit, Wedding etc)**: 85% LTV Maximum
+
+---
+
+## SECTION 7 – Contract/Agency Workers
+
+* **Requirements for employed contractor? (length of time contracting and renewal requirements)**: 9 months to run plus one roll over (To qualify for standard criteria)
+* **CIS and other contract workers (Where not classed as self-employed)**: Contracting income is acceptable without accounts or tax returns, provided the following is met: They must be able to prove 12 months in the industry; they must have been with the same employer for at least three months and have had no more than 3 employers in the previous 12 month period; gross income for income multiples is calculated at Hourly rate x 7 x 5 days x 46 weeks; net income for affordability (with tax and national insurance contributions deducted) would be an average of the last six months' payslips; max loan £300,000; max LTV 75%
+* **Self-employed contracts?**: We would work off the accounts figures
+* **Will you accept first contracts?**: No but refer to ESBS if long term on the first contract
+* **Zero Hours and Piecework Contracts**: 2 years with the same employer is required
+* **Agency Workers**: 2 years with the same end employer is required
+
+---
+
+## SECTION 8 – Day One Remortgage
 
 Yes
 
-================================================================================
-DEPOSITS
-================================================================================
+---
 
-| Criteria | Details |
-|----------|---------|
-| Audit Trail | Full audit trail required, no deposit permitted from "high risk" countries |
-| Builder Deposit | Would reduce the valuation / purchase price by the deposit amount therefore own deposit still required |
-| Gifted Deposit | Yes - The deposit needs to be at least 10% and this can be made up by the customers if the gift is less than 10% (or larger deposit depending on the esbs max valuation rules)<br>Does not need to be from a family member<br>The donor can live in the property<br>We will need our Gifted Deposit Form completed (found on this page - https://www.esbs.co.uk/intermediaries/) and an indemnity will need to be arranged |
-| Gifted Equity/Concessionary Purchase | Yes - The deposit needs to be at least 10% and this can be made up by the customers if the gift is less than 10% (or larger deposit depending on the esbs max valuation rules<br>Does not need to be from a family member<br>The donor cannot live in the property<br>We will need our Gifted Deposit Form completed (found on this page - https://www.esbs.co.uk/intermediaries/) and an indemnity will need to be arranged |
-| Loans | Loans for a deposit are not acceptable |
+## SECTION 9 – Deposits
 
-================================================================================
-CRYPTO CURRENCY
-================================================================================
+* **Audit Trail**: Full audit trail required, no deposit permitted from "high risk" countries
+* **Builder Deposit**: Would reduce the valuation / purchase price by the deposit amount therefore own deposit still required
+* **Gifted Deposit**: Yes - The deposit needs to be at least 10% and this can be made up by the customers if the gift is less than 10% (or larger deposit depending on the ESBS max valuation rules). Does not need to be from a family member. The donor can live in the property. We will need our Gifted Deposit Form completed (found on this page - https://www.esbs.co.uk/intermediaries/) and an indemnity will need to be arranged
+* **Gifted Equity/Concessionary Purchase**: Yes - The deposit needs to be at least 10% and this can be made up by the customers if the gift is less than 10% (or larger deposit depending on the ESBS max valuation rules). Does not need to be from a family member. The donor cannot live in the property. We will need our Gifted Deposit Form completed (found on this page - https://www.esbs.co.uk/intermediaries/) and an indemnity will need to be arranged
+* **Loans**: Loans for a deposit are not acceptable
+
+---
+
+## SECTION 10 – Crypto Currency
 
 Not acceptable
 
-================================================================================
-HOUSING SCHEME
-================================================================================
+---
 
-| Criteria | Details |
-|----------|---------|
-| Help to Buy: Do you allow remortgages? | Yes – if the help to buy loan is cleared in full |
-| Shared Equity - Purchase | No |
-| Shared Equity - Remortgage | Yes – if 100% of the property is to be owned |
-| Shared Ownership - Purchase | No |
-| Shared Ownership - Remortgage | Yes – if 100% of the property is to be owned |
-| Right to Buy & Right to Acquire | 100% of the discount price can be lent<br>90% LTV of the open market value to include home improvements (Subject to esbs usual max valuation rules i.e. 75% for Flats/Maisonettes)<br>Houses must be of standard construction |
+## SECTION 11 – Housing Scheme
 
-================================================================================
-INCOME - ACCEPTABLE
-================================================================================
+* **Help to Buy: Do you allow remortgages?**: Yes – if the help to buy loan is cleared in full
+* **Shared Equity - Purchase**: No
+* **Shared Equity - Remortgage**: Yes – if 100% of the property is to be owned
+* **Shared Ownership - Purchase**: No
+* **Shared Ownership - Remortgage**: Yes – if 100% of the property is to be owned
+* **Right to Buy & Right to Acquire**: 100% of the discount price can be lent. 90% LTV of the open market value to include home improvements (Subject to ESBS usual max valuation rules i.e. 75% for Flats/Maisonettes). Houses must be of standard construction
 
-| Criteria | Details |
-|----------|---------|
-| Bonus - Guaranteed | 100% but cannot exceed 100% of the basic |
-| Bonus - Regular | 75% used for income multiples, 100% for net affordability but cannot exceed 100% of the basic |
-| Overtime - Guaranteed | 100% but cannot exceed 100% of the basic |
-| Overtime - Regular | 75% used for income multiples, 100% for net affordability but cannot exceed 100% of the basic |
-| Commission - Guaranteed | 100% but cannot exceed 100% of the basic |
-| Commission - Regular | 75% used for income multiples, 100% for net affordability but cannot exceed 100% of the basic |
-| Paid in cash | Yes if payslips and equivalent amount is paid into the applicant's bank account |
-| Maintenance | 75% used for income multiples, 100% for net affordability<br>Must be supported by a Court Order or similar and have been paid each month for at least the last 12 months and have at least 5 years to run<br>Earned income is required |
-| Pension Income | Accepted and must be receiving unless they are employed and will switch to pension before the term ends. In which case we would ignore the employed income and work on the projected pension figures<br>70% Max LTV if over 50% of the income is from pensions |
-| Maternity Pay | If applicant is returning less than 4 months away, plus returning on the same basis, and a letter received from the employer confirming this, then we can use the full income<br>If the applicant is returning on a different basis, letter needed from the employer, and we will use that income<br>If the applicant has more than 4 months remaining on maternity leave we will only take maternity pay that is being received |
+---
 
-================================================================================
-FOSTER CARERS INCOME
-================================================================================
+## SECTION 12 – Income (Acceptable)
 
-| Criteria | Details |
-|----------|---------|
-| Foster Carers Income | 100% can be used and no tax calculations required.<br>We need to see remittances and award letter<br>Existing people being cared for under the age of 18 are acceptable. For those 18 and over a Lasting Power of Attorney or Court of Protection Order must be in place |
-| Probationary Periods | No |
-| Future Income | Refer, but often 100% if there has been a satisfactory track record. Award letter to be seen |
-| Minimum length of time in current employment | None, as long as they are not in probation |
-| 2nd (or more) Job income | There is no minimum length of time in second (or other) job employment as long as they are not in probation and hours are complementary and reasonable<br>All employers must be aware of the others |
-| Bursary/Stipend | Considered if there is at least two years to run |
+* **Bonus - Guaranteed**: 100% but cannot exceed 100% of the basic
+* **Bonus - Regular**: 75% used for income multiples, 100% for net affordability but cannot exceed 100% of the basic
+* **Overtime - Guaranteed**: 100% but cannot exceed 100% of the basic
+* **Overtime - Regular**: 75% used for income multiples, 100% for net affordability but cannot exceed 100% of the basic
+* **Commission - Guaranteed**: 100% but cannot exceed 100% of the basic
+* **Commission - Regular**: 75% used for income multiples, 100% for net affordability but cannot exceed 100% of the basic
+* **Paid in cash**: Yes if payslips and equivalent amount is paid into the applicant's bank account
+* **Maintenance**: 75% used for income multiples, 100% for net affordability. Must be supported by a Court Order or similar and have been paid each month for at least the last 12 months and have at least 5 years to run. Earned income is required
+* **Pension Income**: Accepted and must be receiving unless they are employed and will switch to pension before the term ends. In which case we would ignore the employed income and work on the projected pension figures. 70% Max LTV if over 50% of the income is from pensions
+* **Maternity Pay**: If applicant is returning less than 4 months away, plus returning on the same basis, and a letter received from the employer confirming this, then we can use the full income. If the applicant is returning on a different basis, letter needed from the employer, and we will use that income. If the applicant has more than 4 months remaining on maternity leave we will only take maternity pay that is being received
 
-================================================================================
-INTEREST ONLY
-================================================================================
+---
 
-| Criteria | Details |
-|----------|---------|
-| Max. LTV | 75% (can do part and part thereafter) |
-| Acceptable Repayment Vehicles | • An endowment policy<br>• A pension plan<br>• The sale of a business (where adequate capital value is clearly evident)<br>• Other investments, including the sale of a UK BTL property (subject to assessment)<br>• Downsizing if 150K or 25% equity (greater of two) |
-| Can repayment vehicles be a mixture of these allowable vehicles or just a single vehicle? | Mixture |
-| Retirement interest only mortgages – acceptable? | We do not offer RIOs |
-| Property Types | Houses only, and those without restrictions e.g. Agricultural tie, S106, Age related, Overage<br>However, if the property is a self-build then we can consider interest only on restricted properties during the build phase |
+## SECTION 13 – Foster Carers Income
 
-================================================================================
-LET TO BUY
-================================================================================
+* **Foster Carers Income**: 100% can be used and no tax calculations required. We need to see remittances and award letter. Existing people being cared for under the age of 18 are acceptable. For those 18 and over a Lasting Power of Attorney or Court of Protection Order must be in place
+* **Probationary Periods**: No
+* **Future Income**: Refer, but often 100% if there has been a satisfactory track record. Award letter to be seen
+* **Minimum length of time in current employment**: None, as long as they are not in probation
+* **2nd (or more) Job income**: There is no minimum length of time in second (or other) job employment as long as they are not in probation and hours are complementary and reasonable. All employers must be aware of the others
+* **Bursary/Stipend**: Considered if there is at least two years to run
 
-| Criteria | Details |
-|----------|---------|
-| Maximum LTV (for onward purchase) | We do not do Let 2 Buys, however we are fine for one to be in place if we are to mortgage the onward residential purchase.<br>See LTB/Background Property section for self-funding rules |
-| LTB/ Background Property | To be classed as self-funding an AST is needed from day 1 – rent must be 140% of interest at a rate determined every six months (please contact esbs for this).<br>If there is a shortfall then the shortfall element will be classed as a commitment |
-| Is consent to let/mortgage offer required from existing lender? | Yes |
-| Can surplus rent be used to top up income? | Tax return income figure can be used |
+---
 
-================================================================================
-LOCATION
-================================================================================
+## SECTION 14 – Interest Only
 
-| Criteria | Details |
-|----------|---------|
-| England & Wales | Yes |
-| Scotland | No |
-| Northern Ireland | No |
+* **Max. LTV**: 75% (can do part and part thereafter)
+* **Acceptable Repayment Vehicles**: An endowment policy; a pension plan; the sale of a business (where adequate capital value is clearly evident); other investments, including the sale of a UK BTL property (subject to assessment); downsizing if 150K or 25% equity (greater of two)
+* **Can repayment vehicles be a mixture of these allowable vehicles or just a single vehicle?**: Mixture
+* **Retirement interest only mortgages – acceptable?**: We do not offer RIOs
+* **Property Types**: Houses only, and those without restrictions e.g. Agricultural tie, S106, Age related, Overage. However, if the property is a self-build then we can consider interest only on restricted properties during the build phase
 
-================================================================================
-LTVs
-================================================================================
+---
 
-| Criteria | Details |
-|----------|---------|
-| LTVs by Loan Size | £1m – 75%<br>£600k – 80%<br>£500k – 85%<br>£400k – 90%<br>£300k – 95% |
-| General LTVs | 95% FTB only<br>90% Standard<br>90% if restricted property<br>85% for debt consolidation/capital raising<br>75% if flat or maisonette<br>75% if self-build<br>75% if leased solar panels<br>75% for contractors not classed as self-employed<br>70% if 50% or more of the income is pension<br>65% if property is age restricted<br>(Higher Lending Charge, if applicable, may be applied to the mortgage with the cost met by esbs) |
+## SECTION 15 – Let to Buy
 
-================================================================================
-MIXED USE PROPERTIES
-================================================================================
+* **Maximum LTV (for onward purchase)**: We do not do Let 2 Buys, however we are fine for one to be in place if we are to mortgage the onward residential purchase. See LTB/Background Property section for self-funding rules
+* **LTB/ Background Property**: To be classed as self-funding an AST is needed from day 1 – rent must be 140% of interest at a rate determined every six months (please contact ESBS for this). If there is a shortfall then the shortfall element will be classed as a commitment
+* **Is consent to let/mortgage offer required from existing lender?**: Yes
+* **Can surplus rent be used to top up income?**: Tax return income figure can be used
 
-• 50% maximum loan to value
-• Capital and interest only (not interest only)
-• Only 50% of income from the business carried out in the property can be used. Other earned income will be assessed as usual
-• Only a single room may be used for business purposes
-• No structural alterations or adaptations are permitted to accommodate the business use
-• No employees can work on the premises (except close relatives)
-• Any external advertising of its use is discreet and has relevant Local Authority approval, and the Local Authority to confirm no change of use required
-• No restrictive covenants on the property preventing business use
-• The property's buildings insurer is aware of and has agreed the incidental use
-• Relevant public liability insurance is in place
-• Business usage is for our borrower and does not pass with the title to a subsequent owner
+---
 
-================================================================================
-NEW BUILD
-================================================================================
+## SECTION 16 – Location
 
-| Criteria | Details |
-|----------|---------|
-| New Build Flats (Residential) LTV | See section 'General LTVs' |
-| New Build House (Residential) LTV | See section 'General LTVs' |
-| Mortgage offers valid for? | 6 Months purchase<br>3 Months Remortgage |
-| Lenders definition of New Build | First owner |
+* **England & Wales**: Yes
+* **Scotland**: No
+* **Northern Ireland**: No
 
-================================================================================
-PROPERTY
-================================================================================
+---
 
-| Criteria | Details |
-|----------|---------|
-| Flats | If there is a communal area, we require sight of the Fire Risk Assessment at formal Enquiry stage<br>Ground Rent cannot exceed, or escalate above, £250pa, or £1,000pa if in Greater London<br>For RTB flats sight of the Local Authority letter is required to assess future major works liabilities |
-| Flats above Commercial Premises | No |
-| Max. Stories (flats) | 6 floors<br>If the property is on floor five or six then lift access is required |
-| Freehold Flats | Not acceptable |
-| Deck Access Flats | Refer |
-| Share of Freeholds | Must be a management company in place which can be owned fully or in part by the applicant |
-| Length of Time Remaining on Lease | 40 years after the mortgage term |
-| Ex Local Authority | Ok if standard construction |
-| Flying Freeholds | Not acceptable |
-| Tyneside Lease | No |
-| Standard Construction | Walls – brick, natural stone, reconstituted stone, concrete blocks, cob or flint<br>Cladding must have masonry behind<br>Pitched roofs – timber framed construction covered with slates, tiles, manmade slates, thatch, lead, copper or zinc<br>Flat roofs – copper, lead, zinc, asphalt, mineral felt or fibreglass |
-| Modern Methods of Construction (MMC) Properties | Properties are acceptable if BOPAS accredited construction.<br>Must be self-build or new build<br>Max 25 year term, capital and interest only and max loan £250,000 |
-| Poured Concrete Systems | The acceptable types are:<br>• Wimpey No Fines<br>• Laing Easiform (but not those built before 1945)<br>• Mowlem In Situ Concrete |
-| Barn Conversions | Acceptable under our Self-build scheme but cannot have a steel frame |
-| Local Occupancy Restriction (Section 106) | Will be considered to 90% LTV of reduced valuation.<br>Sight of the full wording is required at formal Enquiry stage<br>Capital and Interest only<br>Self-build considered with this restriction (and can be interest only during the build phase) |
+## SECTION 17 – LTVs
 
-================================================================================
-OVERAGE CLAUSE
-================================================================================
+* **LTVs by Loan Size**: £1m – 75%; £600k – 80%; £500k – 85%; £400k – 90%; £300k – 95%
+* **General LTVs**: 95% FTB only; 90% Standard; 90% if restricted property; 85% for debt consolidation/capital raising; 75% if flat or maisonette; 75% if self-build; 75% if leased solar panels; 75% for contractors not classed as self-employed; 70% if 50% or more of the income is pension; 65% if property is age restricted. (Higher Lending Charge, if applicable, may be applied to the mortgage with the cost met by ESBS)
 
-Will be considered to 90% LTV of reduced valuation.
-Sight of the full wording is required at formal Enquiry stage
+---
 
-================================================================================
-AGRICULTURAL TIES
-================================================================================
+## SECTION 18 – Mixed Use Properties
 
-Will be considered to 90% LTV of reduced valuation
-No Commercial element
-Capital and Interest only
-We need to see sight of the agricultural tie wording at formal Enquiry stage
-Self-build considered with this restriction (and can be interest only during the build phase)
+* 50% maximum loan to value
+* Capital and interest only (not interest only)
+* Only 50% of income from the business carried out in the property can be used. Other earned income will be assessed as usual
+* Only a single room may be used for business purposes
+* No structural alterations or adaptations are permitted to accommodate the business use
+* No employees can work on the premises (except close relatives)
+* Any external advertising of its use is discreet and has relevant Local Authority approval, and the Local Authority to confirm no change of use required
+* No restrictive covenants on the property preventing business use
+* The property's buildings insurer is aware of and has agreed the incidental use
+* Relevant public liability insurance is in place
+* Business usage is for our borrower and does not pass with the title to a subsequent owner
 
-================================================================================
-AGE RELATED PROPERTIES
-================================================================================
+---
 
-65% LTV
-Capital and Interest only
+## SECTION 19 – New Build
 
-================================================================================
-ANNEXES
-================================================================================
+* **New Build Flats (Residential) LTV**: See section 'General LTVs'
+* **New Build House (Residential) LTV**: See section 'General LTVs'
+* **Mortgage offers valid for?**: 6 Months purchase; 3 Months Remortgage
+* **Lenders definition of New Build**: First owner
+
+---
+
+## SECTION 20 – Property
+
+* **Flats**: If there is a communal area, we require sight of the Fire Risk Assessment at formal Enquiry stage. Ground Rent cannot exceed, or escalate above, £250pa, or £1,000pa if in Greater London. For RTB flats sight of the Local Authority letter is required to assess future major works liabilities
+* **Flats above Commercial Premises**: No
+* **Max. Stories (flats)**: 6 floors. If the property is on floor five or six then lift access is required
+* **Freehold Flats**: Not acceptable
+* **Deck Access Flats**: Refer
+* **Share of Freeholds**: Must be a management company in place which can be owned fully or in part by the applicant
+* **Length of Time Remaining on Lease**: 40 years after the mortgage term
+* **Ex Local Authority**: Ok if standard construction
+* **Flying Freeholds**: Not acceptable
+* **Tyneside Lease**: No
+* **Standard Construction**: Walls – brick, natural stone, reconstituted stone, concrete blocks, cob or flint. Cladding must have masonry behind. Pitched roofs – timber framed construction covered with slates, tiles, manmade slates, thatch, lead, copper or zinc. Flat roofs – copper, lead, zinc, asphalt, mineral felt or fibreglass
+* **Modern Methods of Construction (MMC) Properties**: Properties are acceptable if BOPAS accredited construction. Must be self-build or new build. Max 25 year term, capital and interest only and max loan £250,000
+* **Poured Concrete Systems**: The acceptable types are: Wimpey No Fines; Laing Easiform (but not those built before 1945); Mowlem In Situ Concrete
+* **Barn Conversions**: Acceptable under our Self-build scheme but cannot have a steel frame
+* **Local Occupancy Restriction (Section 106)**: Will be considered to 90% LTV of reduced valuation. Sight of the full wording is required at formal Enquiry stage. Capital and Interest only. Self-build considered with this restriction (and can be interest only during the build phase)
+
+---
+
+## SECTION 21 – Overage Clause
+
+* Will be considered to 90% LTV of reduced valuation.
+* Sight of the full wording is required at formal Enquiry stage
+
+---
+
+## SECTION 22 – Agricultural Ties
+
+* Will be considered to 90% LTV of reduced valuation
+* No Commercial element
+* Capital and Interest only
+* We need to see sight of the agricultural tie wording at formal Enquiry stage
+* Self-build considered with this restriction (and can be interest only during the build phase)
+
+---
+
+## SECTION 23 – Age Related Properties
+
+* 65% LTV
+* Capital and Interest only
+
+---
+
+## SECTION 24 – Annexes
 
 Considered if there is no commercial element and there is no separate services or Council Tax
 
-================================================================================
-SECOND HOME (DEPENDANT RELATIVES)
-================================================================================
+---
+
+## SECTION 25 – Second Home (Dependant Relatives)
 
 Only if all residents are party to both the deeds and the mortgage
 
-================================================================================
-SECOND HOME (HOLIDAY HOME)
-================================================================================
+---
 
-Refer to esbs
-75% LTV maximum and the property must be occupied at least monthly
+## SECTION 26 – Second Home (Holiday Home)
 
-================================================================================
-JOINT BORROWER SOLE PROPRIETOR (JBSP)
-================================================================================
+* Refer to ESBS
+* 75% LTV maximum and the property must be occupied at least monthly
 
-Yes
-Non proprietor applicants will need to be family members which will include extended family members and they will need to take independent legal advice.
-The Society's standard product range will apply, as will our standard criteria.
+---
 
-================================================================================
-LEASEHOLD HOUSE
-================================================================================
+## SECTION 27 – Joint Borrower Sole Proprietor (JBSP)
+
+Yes.
+
+* Non proprietor applicants will need to be family members which will include extended family members and they will need to take independent legal advice.
+* The Society's standard product range will apply, as will our standard criteria.
+
+---
+
+## SECTION 28 – Leasehold House
 
 Must be built before 2011
 
-================================================================================
-LAND SIZE
-================================================================================
+---
 
-Refer to esbs but high acreages can be acceptable
+## SECTION 29 – Land Size
 
-================================================================================
-SELF-BUILD
-================================================================================
+Refer to ESBS but high acreages can be acceptable
 
-Must be personal residential not commercial
-Detached only
-Can switch to lower rate retention product on completion of build
-Min income £35k
-Can include barn conversions and properties in poor state
-Standard construction or BOPAS accredited MMC
-Part completed/Remortgage acceptable
-Can neighbour family
+---
 
-================================================================================
-SELF-EMPLOYED
-================================================================================
+## SECTION 30 – Self-Build
 
-| Criteria | Details |
-|----------|---------|
-| Length of Trading Required | Where the business has been trading for less than two years, one year's accounts plus one year's projection can be considered. |
-| Most Recent Income or Average Income | Latest year figures |
-| Declining Profit | No |
-| Limited Company income requirements | For Ltd Company business owners we can use salary and share of net profit after tax for income multiples. For affordability (net monthly equivalent), we can use salary plus drawings as per the latest tax calculation<br>However, if they have not been drawing as much as they could leading to a pass on income multiples but a refer on affordability, then we can consider an increase in monthly drawings. In such circumstances, evidence must be provided that an amount equal to at least three months of such dividend has been received in the current tax year prior to offer (and providing all drawings do not exceed the share of net profit figure)<br>We require two full years accounts (if only one year trading then a projection for year two can be considered), latest personal tax calculations and latest three months' business bank statements |
-| Max. % shareholding to be classed as self-employed | Any |
-| Sole Trader income requirements | We require two full years accounts (if only one year trading then a projection for year two can be considered), latest personal tax calculations and latest three months' business bank statements<br>If there are no formal accounts then we can accept the full tax returns |
-| Partnership income requirements | We require two full years accounts (if only one year trading then a projection for year two can be considered), latest personal tax calculations and latest three months' business bank statements.<br>If there are no formal accounts then we can accept the full tax returns |
-| Max. Age of Accounts | 12 months |
+* Must be personal residential not commercial
+* Detached only
+* Can switch to lower rate retention product on completion of build
+* Min income £35k
+* Can include barn conversions and properties in poor state
+* Standard construction or BOPAS accredited MMC
+* Part completed/Remortgage acceptable
+* Can neighbour family
 
-================================================================================
-OTHER
-================================================================================
+---
 
-| Criteria | Details |
-|----------|---------|
-| ExPats | Only returning ExPats are acceptable as long as they have returned at the start of the mortgage, and are not in a probationary period if employed |
-| Foreign National Applicants | One applicant must have permanent rights of residency<br>If so then we can accept a spousal visa or pre-settled status |
-| Foreign Currency Mortgages (applicants receive income in a foreign currency but live in the UK) | Not acceptable |
-| Guarantors | Refer to esbs but only if the applicant is marginally short on income |
-| Family Assisted | Gifted Deposit and gifted equity is acceptable<br>We will also allow a parent to be party to the mortgage and not live in that subject property |
+## SECTION 31 – Self-Employed
 
-================================================================================
-SOLE NAME APPLICATIONS FOR A MARRIED CLIENT
-================================================================================
+* **Length of Trading Required**: Where the business has been trading for less than two years, one year's accounts plus one year's projection can be considered.
+* **Most Recent Income or Average Income**: Latest year figures
+* **Declining Profit**: No
+* **Limited Company income requirements**: For Ltd Company business owners we can use salary and share of net profit after tax for income multiples. For affordability (net monthly equivalent), we can use salary plus drawings as per the latest tax calculation. However, if they have not been drawing as much as they could leading to a pass on income multiples but a refer on affordability, then we can consider an increase in monthly drawings. In such circumstances, evidence must be provided that an amount equal to at least three months of such dividend has been received in the current tax year prior to offer (and providing all drawings do not exceed the share of net profit figure). We require two full years accounts (if only one year trading then a projection for year two can be considered), latest personal tax calculations and latest three months' business bank statements
+* **Max. % shareholding to be classed as self-employed**: Any
+* **Sole Trader income requirements**: We require two full years accounts (if only one year trading then a projection for year two can be considered), latest personal tax calculations and latest three months' business bank statements. If there are no formal accounts then we can accept the full tax returns
+* **Partnership income requirements**: We require two full years accounts (if only one year trading then a projection for year two can be considered), latest personal tax calculations and latest three months' business bank statements. If there are no formal accounts then we can accept the full tax returns
+* **Max. Age of Accounts**: 12 months
+
+---
+
+## SECTION 32 – Other
+
+* **ExPats**: Only returning ExPats are acceptable as long as they have returned at the start of the mortgage, and are not in a probationary period if employed
+* **Foreign National Applicants**: One applicant must have permanent rights of residency. If so then we can accept a spousal visa or pre-settled status
+* **Foreign Currency Mortgages (applicants receive income in a foreign currency but live in the UK)**: Not acceptable
+* **Guarantors**: Refer to ESBS but only if the applicant is marginally short on income
+* **Family Assisted**: Gifted Deposit and gifted equity is acceptable. We will also allow a parent to be party to the mortgage and not live in that subject property
+
+---
+
+## SECTION 33 – Sole Name Applications for a Married Client
 
 We do not insist that married applicants are both named on the mortgage. However we cannot allow a remortgage from joint to sole name if both will remain in the property
 
-================================================================================
-NUMBER OF APPLICANTS
-================================================================================
+---
 
-4 Applicants we also include all 4 incomes
+## SECTION 34 – Number of Applicants
 
-================================================================================
-FOREIGN CURRENCY
-================================================================================
+4 Applicants; we also include all 4 incomes
+
+---
+
+## SECTION 35 – Foreign Currency
 
 Not acceptable
 
-================================================================================
-END OF DOCUMENT
-================================================================================
+---
+
+## SECTION 36 – Contact
+
+* Intermediaries: https://www.esbs.co.uk/intermediaries/
+* Criteria (PDF): https://cdn.esbs.co.uk/wp-content/uploads/2025/06/10141005/Criteria-Grid-for-esbs-June_2025.pdf
+
+---
+
+*END OF DOCUMENT*

@@ -1,14 +1,18 @@
-# Beverley Building Society – Buy to Let Criteria
+# BEVERLEY BUILDING SOCIETY – BUY TO LET LENDING CRITERIA
 
 ---
 
 **LENDER:** Beverley Building Society
 **PRODUCT:** Buy to Let
-**DOCUMENT TYPE:** Lending Criteria
-**LAST UPDATED:** Updated daily
-**FOR INTERMEDIARY USE ONLY**
+**DOCUMENT TYPE:** Buy to Let lending criteria.
+**SOURCE:** [Lending Criteria – Buy to Let](https://beverleybs.co.uk/lending-criteria-buy-to-let/)
+**LAST VERIFIED:** Updated daily
 
-**Source:** https://beverleybs.co.uk/lending-criteria-buy-to-let/
+**IMPORTANT:** FOR INTERMEDIARY USE ONLY.
+
+**RAG convention:** Criteria use explicit labels **Maximum:** **Minimum:** **Allowed:** **Not Acceptable:** **Condition:** where applicable for retrieval.
+
+**Contact:** See Beverley Building Society website.
 
 ---
 
@@ -220,4 +224,5 @@ Austria, Belgium, Bulgaria, Canada, Cyprus, Czech Republic, Denmark, Estonia, Fi
 
 ---
 
-*END OF DOCUMENT*
+---
+*End of criteria.*
