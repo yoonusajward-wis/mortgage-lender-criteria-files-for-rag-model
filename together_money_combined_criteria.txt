@@ -1,15 +1,13 @@
-LENDER NAME: Together Money
-PRODUCT: Combined
+# TOGETHER MONEY – COMBINED LENDING CRITERIA
 
-# Together Money Combined Lending Criteria - Residential and Buy-to-Let
+---
 
-**Last Updated:** January 2025  
-**Source:** Together Money Intermediaries Website  
-**For Intermediaries & Introducers Only**
-
-**Residential Criteria:** [Personal Finance Lending Criteria](https://togethermoney.com/intermediaries/lending-criteria/personal-finance-lending-criteria)  
-**Buy-to-Let Criteria:** [Buy-to-Let Mortgages](https://togethermoney.com/buy-to-let-mortgages)  
-**PDF Criteria Guide:** [Personal Finance Criteria PDF](https://togethermoney.com/-/media/files/2024/intermediaries-criteria/packager/personal-finance-criteria.pdf)
+**LENDER:** Together Money
+**PRODUCT:** Residential & Buy-to-Let
+**DOCUMENT TYPE:** Combined Lending Criteria
+**LAST UPDATED:** January 2025
+**SOURCE:** [Personal Finance Criteria](https://togethermoney.com/intermediaries/lending-criteria/personal-finance-lending-criteria) | [Buy-to-Let](https://togethermoney.com/buy-to-let-mortgages) | [Personal Finance PDF](https://togethermoney.com/-/media/files/2024/intermediaries-criteria/packager/personal-finance-criteria.pdf) | [BTL Criteria PDF](https://togethermoney.com/-/media/files/2024/intermediaries-criteria/network-and-club/commercial-finance---buy-to-let-criteria.pdf)
+**FOR INTERMEDIARY USE ONLY**
 
 ---
 
@@ -395,3 +393,7 @@ Together is a trading style of each of the undernoted companies, which have thei
 * Blemain Finance Limited is authorised and regulated by the Financial Conduct Authority. FCA number is 719121. | Registered in England and Wales - Company Registration Number 01185052.
 
 Loans offered by Together Commercial Finance Limited are not regulated by the Financial Conduct Authority.
+
+---
+
+# END OF DOCUMENT

@@ -1,142 +1,23 @@
-LENDER NAME: Tipton Building Society
-PRODUCT: Residential
-
-# The Tipton Building Society - Residential Mortgage Lending Criteria
-
-**Last Updated:** 2025
-**Source:** The Tipton Building Society
-**For Intermediaries Only**
+# TIPTON BUILDING SOCIETY – RESIDENTIAL LENDING CRITERIA
 
 ---
 
-## Document Information
-
-This document contains comprehensive residential lending criteria for The Tipton Building Society, including standard residential mortgages and ex-pat mortgages.
-
----
-
-## Table of Contents
-
-This guide contains 68 criteria sections organized by topic:
-
-
-### Ex-Pat Mortgages
-
-1. AFFORDABILITY
-2. ACCEPTABLE CURRENCIES
-3. EMPLOYMENT
-4. INCOME
-5. JOINT APPLICATIONS
-6. LOAN AMOUNTS
-7. MINIMUM AND MAXIMUM AGE
-8. NUMBER OF APPLICANTS
-9. OCCUPANTS
-10. REPAYMENT METHODS
-11. SECOND PROPERTY
-37. INCOME MULTIPLES
-47. OTHER INCOME
-
-### General Information
-
-22. CONVEYANCING
-42. LOCATION
-45. MORTGAGE TERM
-46. MORTGAGE OFFER
-62. SECURITY
-
-### Applicant Requirements
-
-29. FIRST TIME BUYER DEFINITION
-51. PROOF OF RESIDENCY
-57. RESIDENCY STATUS
-64. SINGLE NAME APPLICANTS
-
-### Income and Employment
-
-16. COMMISSION
-17. COMPANY DIRECTORS
-19. CONTRACTORS
-26. EMPLOYED APPLICANTS
-33. GIG ECONOMY
-49. PARTNERSHIPS
-52. PROFESSIONAL PARTNERSHIPS
-60. SELF EMPLOYED DENTISTS
-61. SELF EMPLOYED APPLICANTS
-65. SOLE TRADERS
-
-### Affordability
-
-18. COMMITTED EXPENDITURE
-30. FUTURE CHANGES OF LIFE EVENTS
-66. STRESS TESTING
-
-### Credit History
-
-13. ARRANGEMENT TO PAY
-14. ARREARS AND LATE PAYMENTS
-25. DEFAULTS
-48. PAYDAY LOANS
-
-### Deposits
-
-23. DEPOSIT
-
-### Loan Details
-
-20. CAPITAL RAISING
-24. DEBT CONSOLIDATION
-32. FURTHER ADVANCES
-40. LET TO BUY
-50. PORTABILITY
-59. REMORTGAGE
-
-### Property
-
-21. CONSTRUCTION
-28. EXTERNAL CLADDING
-39. JAPANESE KNOTWEED
-43. LEASE TERMS
-44. MINING REPORTS
-53. PROPERTY AGE AND CERTIFICATION
-54. PROPERTY INSURANCE
-55. PROPERTY TYPES
-56. PROPERTY USE
-67. TENURE
-
-### Repayment Methods
-
-38. INTEREST ONLY
-41. LATER LIFE LENDING
-
-### Special Products
-
-31. FAMILY ASSIST MORTGAGES
-35. HOLIDAY HOME
-58. RIGHT TO BUY
-63. SHARED OWNERSHIP
-
-### Documentation
-
-12. ACCOUNTANT QUALIFICATIONS
-15. BANK STATEMENTS
-
-### Other
-
-27. EXISTING MORTGAGED PROPERTIES
-34. GREEN DEAL INITIATIVES
-36. HOME IMPROVEMENTS
-68. UNACCEPTABLE APPLICATION TYPES
+**LENDER:** Tipton Building Society
+**PRODUCT:** Residential
+**LAST UPDATED:** 2025
+**SOURCE:** The Tipton Building Society
+**FOR INTERMEDIARIES ONLY**
 
 ---
 
-## Affordability
+# Affordability
 
 No minimum income required. Applications are capped at 5.0 loan to income, once converted to GBP using our currency conversion calculations. We will not take a % haircut, however we will calculate affordability based on actual income/expenditure (net).
 Applicants that live abroad and have a UK based self-employed business, this income will be excluded from the affordability assessment.
 Foreign Income that is from foreign pension will be excluded from the affordability assessment.
 In the circumstance an application has not progressed to mortgage offer within 90 days, affordability must be reassessed on our current Standard Variable Rate (SVR).
 
-## Acceptable Currencies
+# Acceptable Currencies
 
 We can assess affordability using the below 20 currencies:
 Acceptable currencies include:
@@ -162,22 +43,22 @@ Acceptable currencies include:
 - Oman Rial
 - Bermudian Dollar (if pegged as US Dollar)
 
-## Employment
+# Employment
 
 Excluding applicants previously within full time education, all employed applicants must be in permanent full or part-time employment, on a fixed term contract or a zero-hours contract, and continuously employed for the last 6 months, including probationary period, if appropriate.
 
-## Income
+# Income
 
 All income and expenditure must be included in the local currency on the decision in principle and application form, not in GBP conversion.
 Applicants who are party to the application, that reside in the UK and are self-employed with a UK-based business are acceptable, subject to the standard self-employed lending criteria.
 Applicants that live abroad and have a UK based self-employed business, this income will be excluded from the affordability assessment.
 Foreign Income that is from foreign pension will be excluded from the affordability assessment.
 
-## Joint Applications
+# Joint Applications
 
 We can accept applications where applicants 1 and 2 earn income in different acceptable currencies and/or reside in different countries.
 
-## Loan Amounts
+# Loan Amounts
 
 There is a minimum loan amount of £50,000 for new mortgages. Lending above £1,000,000 can be considered on a case-by-case basis.
 Maximum loan amounts by LTV:
@@ -191,279 +72,268 @@ Maximum loan amounts by LTV:
 Note: The above LTVs are subject to product availability.
 There is a minimum loan amount of £50,000 for new mortgages. Lending above £1,500,000 can be considered on a case-by-case basis. The maximum loan amounts are: Up to 80% LTV - £1,500,000; Up to 85% LTV - £1,000,000; Up to 90% LTV - £750,000; and Up to 95% LTV - £600,000.
 
-## Minimum And Maximum Age
+# Minimum And Maximum Age
 
 All applicants must be aged 21-75 years of age.
 All applicants must be aged 18 years or over of age. Earned income can be used to aged 70 as standard, and to age 75 on a case-by-case basis. All lending into retirement mortgages must end before the eldest applicants 95th birthday.
 
-## Number Of Applicants
+# Number Of Applicants
 
 The maximum number of applicants per application is four.
 The maximum number of applicants per application is 4.
 
-## Occupants
+# Occupants
 
 Family members that are not named on the mortgage can occupy the property as long as there is no tenancy in place, and a consent to mortgage can be obtained at offer stage.
 Acceptable occupying family members are defined as a spouse, common-law partner, parent, grand-parent (including step-parents), siblings and adult children.
 
-## Repayment Methods
+# Repayment Methods
 
 Applications can be accepted on either a repayment or interest only basis.
 Interest Only: Pure interest only is available up to 70% LTV when using sale of the subject property as the repayment strategy (for further details on equity requirements and other repayment strategies that can be considered please see our standard interest only criteria).
 We will consider applications on the following basis: Capital and interest repayment; Interest only; and Part and part (up to 85% LTV).
 
-## Second Property
+# Second Property
 
 Applicants who already hold a mortgaged property either in the UK or overseas, will be subject to our second property affordability calculations.
-THE TIPTON BUILDING SOCIETY - RESIDENTIAL LENDING CRITERIA
-Applicants who already hold a mortgaged property either in the UK or overseas, will be subject to our second property affordability calculations.
-THE TIPTON BUILDING SOCIETY - RESIDENTIAL LENDING CRITERIA
-This document contains the comprehensive residential lending criteria for The Tipton Building Society.
-All lending criteria, requirements, and restrictions are detailed below in a clear, readable format.
-Applicants who already hold a mortgaged property either in the UK or overseas, will be subject to our second property affordability calculations.
-THE TIPTON BUILDING SOCIETY - RESIDENTIAL LENDING CRITERIA
-This document contains the comprehensive residential lending criteria for The Tipton Building Society.
-All lending criteria, requirements, and restrictions are detailed below in a clear, readable format.
-The Tipton Building Society provides residential mortgage lending with specific criteria and requirements.
-This comprehensive guide covers all aspects of their lending policy for residential mortgages.
 
-## Accountant Qualifications
+# Accountant Qualifications
 
 The following post-nominal accountancy qualifications are acceptable for preparation of certified accounts by the company accountant: AAPA – Association of Authorised Public Accountants; ACMA, FCMA – Chartered Institute of Management Accountants; CA, ACA, FCA – Institute of Chartered Accountants; ACCA, FCCA – Association of Chartered Certified Accountants; CIPFA – Chartered Institute of Public Finance and Accountancy; and ACAS, FCAS – Chartered Accountants of Scotland.
 
-## Arrangement To Pay
+# Arrangement To Pay
 
 Arrangements to pay which have been repaid over 3 months prior to application will be accepted.
 
-## Arrears And Late Payments
+# Arrears And Late Payments
 
 Arrears on any loan, mortgage, or credit agreement within 3 years of the application, may be considered where status 1’s or 2’s have been reported. Credit Plus Policy: Arrears on any loan, mortgage or higher purchase up to a status 2 within the last 36 months will be considered. Arrears on any other credit, such as credit cards or mail orders up to a status 2 within the last 24 months, and up to a status 4 between 25 and 36 months ago will be considered.
 
-## Bank Statements
+# Bank Statements
 
 For standard applications the latest two month’s bank statements will be required. Where variable pay is to be used three months bank statements will be required. Bank statements must show salary credits, household expenditure and committed expenditure for all applicants. Where multiple current accounts are used these must be provided.
 BANKRUPTCY & INDIVIDUAL VOLUNTARY ARRANGEMENTS (IVA)
 Applicants who have been discharged bankrupt or have settled IVA over 6 years ago can be considered.
 
-## Commission
+# Commission
 
 Where income is mainly commission based, an average of the most recent 2 years earnings with the same employer will be required through either an employer’s reference or the applicant’s two most recent P60’s.
 
-## Company Directors
+# Company Directors
 
 Applications require the most recent accounts if their shareholding within the company exceeds 25%. 100% of salary, remuneration and dividend can be included within the income assessment. The company must have been trading for a minimum of two years and a Companies House search will be carried out on all Directors. The below criteria applies: Latest two years SA302’s and tax year overview, or most recent Limited Company accounts which are no more than 12 months old and certified within 6 months of the business year end; A projection from an accountant may be considered to support the application; and A change of self-employed status within the same line of business will be accepted with a minimum of 1 years certified accounts where 2 years trading can be evidenced.
 
-## Committed Expenditure
+# Committed Expenditure
 
 When considering committed expenditure, we will include: Pension contributions (except where the applicant has already opted out/doesn’t contribute); Secured and unsecured loans, hire purchase agreements; Credit cards, store cards, mail order agreements or other commitments with no defined monthly repayment, 3% of the outstanding balance will be used as a monthly payment figure; Maintenance, school fees, child support or similar must be included as committed expenditure; Insurance contributions exceeding £100; If the rental income is less than 125% for Basic Rate Taxpayer (BRT)/140%for Higher Rate Taxpayer (HRT) of the existing mortgage payment, the shortfall in rental cover must be included in the affordability. However, the following can be omitted from the affordability assessment: When the committed expenditure is due to be repaid in full prior to completion; If the rental income is equal to or greater than 125% for BRT or 140% for HRT of the existing mortgage payment, the mortgage payment does not need to be included in the affordability; There are fewer than 3 monthly payments remaining; or The client declares that a credit card is paid in full each month.
 
-## Contractors
+# Contractors
 
 For CIS and Long-term Contractors , the below criteria applies: Affordability is calculated against last 6 months total gross earnings; Must have been subcontracting via this business for a minimum of 6 months; Must have at least 12 months employment experience in a similar industry; and Have no fixed end date on their current contract. For Fixed-Term Contractors who are employed and taxed at source, the below criteria applies; They must have a minimum of 12-months contractor history with no more than a 2 month break within the latest 12 months; Affordability will be calculated against the current contract daily rate multiplied by 240 working days; and The current contract must have a minimum of 3 months remaining at the time of application, where this is not the case, confirmation that the contract is expected to continue. For Self-Employed Contractors (Limited Company) , the below will apply: Minimum of 2 years self-employed history; Affordability will be calculated against the current contract daily rate multiplied by 240 working days; The latest years Limited Company accounts will be required; A minimum of 12 months contractor employment history; and The current contract must have a minimum of 3 months remaining at the time of application. Day Rate Contractors the below will apply: Evidence of last 12 months contractor income (if applicable); and Copy of current contract must be provided. GIG Economy and zero-hour applicants will be considered subject to a minimum 12-month history and satisfactory evidence of income for this type of employment. Seafarer applicants will be considered on an individual basis.
 
-## Capital Raising
+# Capital Raising
 
 Capital raising is permitted for any non-commercial reason, up to the following maximum LTVs: 80% LTV 90% LTV Purchase additional land or property Home improvements Release of equity for any other non-commercial purpose (e.g family gift, holidays, weddings etc.) Repay part/all of an equity loan Transfer of equity
 COUNTY COURT JUDGEMENT (CCJS)
 Where the total value does not exceed £500 and satisfied 3 months prior to application, applications can be accepted. Credit Plus policy: Up to three CCJs per application will be considered up to total value of £5,000 and must be satisfied prior to completion of the mortgage. The value of any CCJs registered within 3 years must not exceed £500.
 
-## Construction
+# Construction
 
 Properties are expected to be of standard construction (walls of brick or stone and roof of tile or slate). The below construction types may also be considered, subject to valuation: Timber frame with render cladding; Solid stone; SIPS (structural insulated panels); Oak framed; Metal (zinc) roof; Mundic Block Concrete Construction – A1, A2 or A3 classification only; Thatched roof; Grade II listing; and PRC repaired properties with a 30-year insurance-backed guarantee and structural warranty. All properties must have basic amenities (hot and cold running water, sink, bath/shower, inside toilet, electrical power, drainage, and waste disposal).
 
-## Conveyancing
+# Conveyancing
 
 Legal Marketing Services (LMS) manage the Society’s panel of acceptable conveyancers. To see a full list of acceptable conveyancers, please visit the Society’s website.
 
-## Deposit
+# Deposit
 
 Acceptable deposit types include: Gifted Deposit: from a family member including parents, stepparents, grandparents, aunts, uncles, siblings, cousins. ‘Close associates’ can also be considered on a case-by-case basis. This must be gifted and not in the form of a loan. Those gifting part or all of the deposit can reside in the property being purchased; Foreign Currency Deposit: deposits and gifted deposits originating outside the UK are accepted subject the funds are deposited in the applicant(s) UK bank account prior to application. To support the underwriting assessment, an explanation of the source of funds will be required, including originating country, and how the funds have been raised (i.e. savings, or sale of assets); Building Incentive Schemes: up to 5% of the purchase price or valuation (whichever is the lower), accompanied by a minimum of 5% borrower deposit; Armed Forces Advance of Pay: acceptable where it is a taxable interest free loan repayable over 10 years; Tenant’s Incentive Schemes; and Sale at Under Value: maximum of 80% LTV, with 100% of the reduced price permitted. There must be a family association in the sale.
 
-## Debt Consolidation
+# Debt Consolidation
 
 Applications for debt consolidation are permitted, subject to the below: Up to 75% LTV; Cannot exceed 50% of the applicants’ total gross salaries and is capped at £50,000; Available on a capital and repayment basis only; and Not available for the repayment of adverse debt, debts accrued through gambling, or business purposes. Where a customer is looking to consolidate home improvement loans, this will not be treated as debt consolidation as long as the works are less than 24 months old and supported by documentary evidence and valuer confirmation. Remortgage applications where more than 50% of the whole mortgage borrowing is for debt consolidation, will not be considered. Secured credit is not considered as debt consolidation.
 DEBT MANAGEMENT PLAN (DMP)
 Debt Management Plans taken out and repaid over 12 months prior to application will be considered based in the overall credit scenario of the applicant. Credit Plus Policy: No Debt Management Plans taken out within the last 12 months and must be repaid 6 months ago.
 
-## Defaults
+# Defaults
 
 Defaults up to £500 maximum value and registered over 6 months ago, must be satisfied upon completion. Telecommunications or Utilities defaults (satisfied or unsatisfied) that are less than £100 are acceptable. Credit Plus policy: Defaults up to £2000 maximum value and registered over 3 months ago, must be satisfied upon completion. Telecommunications or Utilities defaults (satisfied or unsatisfied) that are less than £500 are acceptable.
 
-## Employed Applicants
+# Employed Applicants
 
 Excluding applicants previously within full time education, all employed applicants must be in permanent full or part-time employment and continuously employed for the last 6 months, including probationary period, if appropriate. Where the applicant(s) have studied for a vocational qualification (i.e. a degree) they must: be in the role for one month upon completion; and have evidence to support this, such as a contract of employment, and condition for first payslip. The probation period does not need to have been completed if within the same industry/sector, and the applicant has been employed for 12 months previously. The below documents will be required to evidence basic income (where further income is required, 3 months’ payslips will be required): Latest P60; Last monthly payslip; and Last two months bank statements (showing salary credit). The below income will be included in affordability assessments: 100% of all guaranteed salary and additional income; 50% of non-guaranteed income (up to 100% can be considered on a case-by-case basis); and 50% of any annual bonus. Known future increases in income within the next three months may be considered, provided that the increase is guaranteed. Applicants employed by a family business will require independent verification of income.
 
-## Existing Mortgaged Properties
+# Existing Mortgaged Properties
 
 Where there is an existing mortgage on another property, which is to remain following completion, and rental income meets or exceeds 140% of the mortgage payment, the mortgage payment does not need to be included. If there is a shortfall the shortfall amount must be included. Suitable evidence includes either: Latest bank statements confirming receipt of regular rental income; A copy of the tenancy agreement; or A letter from an ARLA registered lettings agency confirming the anticipated rental income.
 
-## External Cladding
+# External Cladding
 
 The following rules apply for applications on properties that require an EWS1 form: Properties certified as A1 (there are no attachments whose construction included significant quantities of combustible materials); Properties certified as A2 (there is an appropriate risk of the attachment confirming that no remedial works are required) are considered subject to approval; and Properties certified as B1 (a fire risk assessment completed by a Chartered Engineer or Member of the Institute of Fire Engineers, is sufficiently low that no material works are required), will be considered subject to approval. Properties certified as A3 or B2 as identified on the EWS1 form, are not acceptable.
 
-## First Time Buyer Definition
+# First Time Buyer Definition
 
 An applicant who has not previously had a mortgage with any UK lender. In the case of joint applicants, at least one applicant must be a first-time buyer to allow the case the be treated as a first-time buyer application.
 
-## Future Changes Of Life Events
+# Future Changes Of Life Events
 
 Where there are any known changes in income or expenditure, these must be considered when assessing affordability.
 
-## Family Assist Mortgages
+# Family Assist Mortgages
 
 Family Assist mortgages allow a family member to provide savings or their residential property as additional security to support an application. Property as security: Confirmed through a formal valuation of the property; There must be a minimum of 40% equity in the security property; The charge and any borrower deposit must total 20% of the total mortgage being applied for; Only a first or second charge will be acceptable; Family Assist Mortgages are on a repayment basis only; and All collateral property owners must receive independent legal advice and written confirmation from the solicitor. Savings as security: The savings must be held in the dedicated Family Assist Savings Account with the Society; No withdrawals will be permitted until the borrower reaches 80% LTV; and The savings and any borrower deposit must total 20% of the total mortgage being applied for.
 
-## Further Advances
+# Further Advances
 
 Further advances for existing customers will only be considered where they have held the mortgage with the Society for at least six months and are currently up to date with their mortgage payments.
 
-## Gig Economy
+# Gig Economy
 
 Latest P60 and minimum 6 months’ payslips will be required as evidence of income.
 
-## Green Deal Initiatives
+# Green Deal Initiatives
 
 Where an applicant is looking to complete environmentally friendly work such as loft insulation, boiler replacement etc under a specific green initiative. there may be a need to inform us or gain consent based on the proposed work. Please contact us to clarify this if you are unsure.
 
-## Holiday Home
+# Holiday Home
 
 The Society will allow the property to be let for holiday rentals (no assured tenancy agreement in place). The following criteria applies, alongside our standard residential affordability assessments. Up to 75% LTV; Interest only applications permitted; Only single dwellings will be considered, no consent for multiple occupancy; Applicants must intend to use the property themselves, pure investment (holiday let) will not accepted; and The property must be of standard construction and free of any occupancy restrictions (properties on holiday parks or with local ownership clauses are not permitted).
 
-## Home Improvements
+# Home Improvements
 
 If an application for home improvements puts the loan to value over 80% LTV, the property must be revalued and further documentation may be requested to support the application.
 
-## Income Multiples
+# Income Multiples
 
 Product type Max income multiple All fixed and discount products 5.0x Higher Income Multiple products 6.5x
 
-## Interest Only
+# Interest Only
 
 The Society will consider applications where there is a declared repayment vehicle and definite term of repayment in place. Maximum LTV is 75% with a repayment vehicle, or 70% if using sale of mortgaged property. The below are acceptable repayment vehicles: Pension – maximum of 25% of the projection or SIPP value, or 50% of the cash lump sum; Legal charge on main residence with a minimum of 30% or £200,000 equity, whichever is the higher; or Investment product – which must have been in place for at least 12 months using the mid-range point stated on the projection letter.
 JOINT BORROWER SOLE PROPRIETOR (JBSP)
 JBSP mortgages will be considered subject to the below criteria: Up to 95% LTV; Applications can be made on standard residential mortgage products; Part and part is considered where LTV is 75% or under; If the term requires lending into retirement, a later life lending product will be required, and the LTV is capped at 70%; Affordability will be assessed using joint household costs for the borrower residing in the property and additional household costs for borrowers not residing in the property. Any additional committed expenditure will also be included; All borrowers are required to take independent legal advice and must sign the mortgage deed; If any borrower on the application exceeds their retirement age, the application will be limited to 80% LTV. The term will then be capped for the eldest applicant at 79 years old for a make and 83 years old for a female; Split term lending is permitted on Capital and Repayment terms to support affordability and reduce the impact of the eldest applicants age on the overall case; Applications for standard JBSP are accepted for close family members such as: parents, stepparents, adoptive parents, brothers, sisters, half-brothers, half-sisters, stepbrothers, stepsisters, children, stepchildren, adopted children, grandparents, step grandparents, grandchildren, step grandchildren, aunties and uncles. Non-owner-occupier joint borrowers accepted, with the exception of sibling supported applications whereby the sibling must be a homeowner.
 
-## Japanese Knotweed
+# Japanese Knotweed
 
 Extreme caution will be exercised in the presence of Japanese knotweed or other invasive species.
 
-## Let To Buy
+# Let To Buy
 
 Consent to let should be obtained from the applicants existing lender and must not be for student or DWP accommodation.
 
-## Later Life Lending
+# Later Life Lending
 
 Later Life applications are restricted to 70% LTV. The later life product range is available to those already in retirement and those in employment, wishing to take their mortgage into retirement. Earned income will be considered up to retirement age. Following retirement, affordability will be assessed using verifiable income from a pension or other sustainable source. Permitted criteria includes: Satisfactory evidence of pension income; The term cannot extend past the oldest borrowers 95th birthday; and Independent legal advice must be taken by any non-borrower in cases where the mortgage is in single name, but the property is jointly occupied. Applications can be considered where there is a life policy in place which is sufficient to pay the shortfall in the event of death of the highest earning borrower or, where there is sufficient equity for the surviving borrower to downsize to a two-bedroom flat or house within a 25-mile radius of the mortgaged property. Where borrowers at the end of the mortgage term do not exceed the below thresholds, the second affordability calculation is not required: Males: 79 years; and Females: 83 years.
 
-## Location
+# Location
 
 The Society will consider lending on properties across England, Wales and the Isle of Wight.
 
-## Lease Terms
+# Lease Terms
 
 Leasehold properties, with an unexpired lease of at least 85 years at the start of the mortgage, are acceptable subject to criteria. The lease must also have at least 60 years remaining at the end of the mortgage term.
 MATERNITY, PATERNITY AND ADOPTION LEAVE
 Statutory Maternity/Paternity/Adoption pay will be used as assessable income unless the applicant has less than 3 months to go before returning to work or the employer confirms in writing the amount above statutory pay that the applicant will receive and for what period.
 
-## Mining Reports
+# Mining Reports
 
 Within 10m Untreated Within 10m Treated Between 10m-20m Untreated Between 10m-20m Treated Under property/touching external wall 50% 25% - - Within property boundary 25% 10% 5% 5% Within neighbouring property boundary 20% 5-10% 5-10% 0% Outside of property boundary and neighbouring property boundaries 20% 5-10% Nominal Nominal
 
-## Mortgage Term
+# Mortgage Term
 
 There is a minimum term of 5 years and a maximum term of 40 years. Where mortgage term extends into retirement, there is a maximum term of 25 years.
 
-## Mortgage Offer
+# Mortgage Offer
 
 Mortgage offers are valid for 6 months from the date of issue. Where the exchange of contracts has not yet taken place, but the solicitor can confirm completion within 10 working days, offer can be extended with no further checks. Outside this time frame, full re-underwrite and re-inspection of the property is required and a new product will need to be selected.
 
-## Other Income
+# Other Income
 
 Income from secondary employment can be considered where the income is permanent and a minimum of 12-month history can be verified. Any pension income can be considered. To use projected pension income, a copy of the latest annual pension statement will be required, using the mid-range figure on the latest annual pension statement for affordability. 50% of benefits or maintenance payments will be taken as assessable in supporting income multiples, and any child-based benefits will only be considered where children are aged 12 and under. The amount of maintenance being taken cannot exceed 50% of the award and 25% of the total assessable income. 6 months bank statements are required as evidence to support non court ordered maintenance. (Where maintenance payments are applicable for children aged over 12, cases can be referred for consideration on an individual basis.) Any maintenance payments will be considered where they are made under a formal agreement. Foster Carers allowance will be accepted subject to satisfactory evidence of ongoing entitlement and a minimum 12-month income evidenced. Bursary / Stipend Up to 100% of earnings may be accepted; applications considered on individual case basis. Bank Nursing income Minimum 12 months evidence; and 100% can be used where evidenced YTD and latest P60. Rental income can be considered where there are 2 years SA302s and a tax year overview as evidence. For basic rate tax payers (BRT) a maximum of 80% income, reducing to 70% for a higher rate taxpayers (HRT) will be used to support the affordability assessment. The following formula applies for rental properties with a mortgage: Existing mortgage payment x 125/140% X 12 = This figure will be deducted from the income declared on the SA302. The surplus income can then be applied to the income multiple and affordability assessment. Where the rental income is derived from a portfolio of properties, payments should be combined to calculate level of income which can be applied to the income multiple and affordability assessment: Combined Existing Mortgage payments x 125/140% X 12 = deduction from SA302 Investment income can be considered where the latest annual statement is available. 100% of dividend income for employed applicants can be considered where they own less than 25% shareholding and the latest two years SA302s are available as evidence. The amount of any dividend payment used to support the application is restricted to 50% of the applicant’s guaranteed salary. Applications where the applicant is in receipt of Housing Benefit, will not be used to support with the affordability assessment and will be deducted from the monthly payment figure. Latest three months statements of Universal Credit will be used as evidence.
 
-## Payday Loans
+# Payday Loans
 
 No more than 3 payday loans taken out within the last 36 months and must be repaid 12 months prior to the application. Credit Plus policy: No payday loans taken out within the last 6 months. Maximum total value of £1,000 over the last 36 months
 
-## Partnerships
+# Partnerships
 
 For partners, income equates to the share of the profit allocated to them (confirmed by the partnership’s accountants). The below criteria applies: Minimum of 2 years trading; Where shareholding is equal to or exceeds 25%, the latest 2 years SA302’s and tax year overview will be required; and Where shareholding is less than 25%, an employer’s reference from the company accountant will be accepted.
 
-## Portability
+# Portability
 
 Where a customer is looking to port their existing mortgage balance with no additional borrowing, and doesn’t meet affordability criteria, but has proven they can meet their monthly repayments by making consistent mortgage payments without financial difficulties, the application can be considered. Where a customer is looking to port their existing balance with additional borrowing, the amount available will be restricted to standard affordability criteria.
 
-## Proof Of Residency
+# Proof Of Residency
 
 We will require proof of residency over the latest three-year period.
 
-## Professional Partnerships
+# Professional Partnerships
 
 Partners in professional partnerships do not need to provide full accounts, an income reference from the partnership’s accountant or similar authorised party will be accepted.
 
-## Property Age And Certification
+# Property Age And Certification
 
 All properties will be considered on its own merits irrespective of age. Properties built or converted within the last 10 years must hold an acceptable form of certification
 
-## Property Insurance
+# Property Insurance
 
 All security properties must have a suitable buildings insurance policy.
 
-## Property Types
+# Property Types
 
 Houses, bungalows, flats and maisonettes must have a minimum value of £100,000, or £250,000 if located within Greater London. Flats and Maisonettes will be considered subject to the below criteria: · Up to 95% LTV (85% LTV for new build excluding Shared Ownership); · Must be a maximum of 10 storeys in the block including any basements(flats in blocks of more than 4 storeys require lift access regardless of which floor our security is on); · Blocks with 4 or more storeys must have a lift; · Ex-local authority flats and maisonettes will be considered to a maximum of 6 storeys and blocks more than 4 storeys require lift access. Valuers must also confirm the property is in a good area with good resale ability, and consideration given to the level of privately owned property within the block. · Must have a minimum of 35m2 internal floor space; · Flats above commercial premises will only be considered subject to valuation; · Flats above “Sui Generis” (pubs and drinking establishments) and A5 (hot food takeaways) will not be considered; · Exceptions for flats exceeding 6 storeys may be considered on an individual basis; · Freehold flats will only be considered if there is an appropriate management company in place; and · Commonhold flats will be considered subject to valuation.
 
-## Property Use
+# Property Use
 
 The whole of the mortgaged property must be used for residential use of the applicants (and their family). Properties with an annex will be considered on an individual basis and the below criteria applies: · The size of the annex must indicate it is ancillary to the main building; · The annex should share its access and services with the main building; · If it is let commercially, this can be on an assured shorthold tenancy (AST) for maximum of 6 months or, short term let such as Airbnb, and must be within a maximum of 20 acres of land; and · The planning status of the annex must be that it can be only occupied as an annex to the main building.
 
-## Residency Status
+# Residency Status
 
 All applicants must be a UK resident. Applications from non-UK nationals require the following: Each applicant must have resided in the UK for a minimum of 12 months; Each applicant must provide a valid passport; If we are unable to meet the standard identification criteria, a valid passport may be required. Applications from Foreign Nationals without indefinite leave to remain can be considered subject to the following: The applicant(s) hold a Tier 1 (Entrepreneur) or Tier 2 (Skilled Worker) visa, with a minimum of 24 months remaining at point of application; The applicant(s) will have been a resident in the UK for a minimum of 12 months; Gifted deposits are acceptable subject to standard underwriting criteria; and Maximum LTV of 80% EU Settlement Scheme: Applications from EU Nationals where applicants have pre-settled status can be considered subject to the following: Applicants have pre-settled status, settled status or a combination of both for joint applications; Up to a maximum 85% LTV; and Gifted deposits are acceptable subject to standard underwriting criteria. Applicants will need to provide evidence of settled/pre settled status, by providing a share code (found on the Government website), which can be used by underwriters to view their immigration status online. If it is a joint application and one of the applicants is a UK national or has indefinite leave to remain then the above LTV and deposit restriction is not applicable.
 
-## Right To Buy
+# Right To Buy
 
 For Right to Buy applications mortgage advances will be limited to the lower of: 100% of the discounted purchase price; or 75% of the open market valuation. The below criteria will apply: Flats and maisonettes will be considered on an individual basis; Applicants must mirror the applicants named on the Right to Buy documentation; Applications where the borrower is in receipt of Universal credit, housing benefit can be considered, however the award for housing benefit must be excluded from the affordability assessment Additional borrowing applications will only be considered for home improvements; and The Society must be registered as first charge (for remortgages only).
 RETIREMENT INTEREST ONLY (RIO)
 The minimum age at application is 55, and the maximum is 85. Applications will be considered up to 60% LTV. A secondary affordability assessment is required to demonstrate the loan is affordable in the event of death on the event of either borrower. The mortgage balance must be repaid in the event of: Death of the sole borrower; The requirement for long-term residential care of the sole borrower; or Sale of the mortgaged property.
 
-## Remortgage
+# Remortgage
 
 Remortgage applications are acceptable subject to a minimum six-month ownership of the security property. Where the property has been inherited, remortgages within 6 months of ownership are acceptable. No previously registered second charges will be accepted.
 
-## Self Employed Dentists
+# Self Employed Dentists
 
 Applications from self-employed dentists are accepted subject to: A professional partner’s reference confirming NHS and private income used to support affordability; and There is a minimum of six months employment within the practice.
 
-## Self Employed Applicants
+# Self Employed Applicants
 
 The Society will require their most recent 2-year certified accounts, prepared by a suitably qualified accountant. The latest set of accounts must be less than 12 months old and should have a certification date within 6 months of the business year end. Latest years self-employed income may be used, restricted to a maximum of a two-year average, or the latest year (subject to a 20% annual increase cap being applied). If a reduction in earning is noted, affordability will be assessed on the latest years earnings. Consideration will be given for reduced earnings during the pandemic, where there is evidence that the business is recovering, subject to individual case assessment.
 
-## Security
+# Security
 
 The Society will only accept a first charge on all properties.
 
-## Shared Ownership
+# Shared Ownership
 
 We will consider applications where the below criteria is satisfied: The arrangements must be through a registered Housing Association or Social Landlord; The client must satisfy affordability checks with rent, maintenance and service charges all taken into consideration; Staircasing must be available up to 100% LTV – meaning the client can increase their share up to full ownership of the property; There is a minimum share of 25% and a maximum share of 75% at application stage; We will lend up to 95% (minimum 5% deposit) of the share being purchased; Only leasehold properties will be considered; There is a minimum property valuation of £100,000; The client must opt for a capital and interest repayment method; New build flats are accepted up to 95%; The completing solicitor will be required the ensure the lease meets our requirements; We will only consider applications in England and require the lease on the property to have a minimum of 85 years remaining at the point of application; and Please remember the Society’s minimum loan amount is £50,000. Section 106 will be permitted where the scheme provider has an option to buy back the customers share at full market value for a period of no longer than three months. The Society must then be able to staircase to 100% LTV and sell the property on the open market at its full market value.
 
-## Single Name Applicants
+# Single Name Applicants
 
 Applications on a single name basis will be considered where it is known that the applicant’s partner will also reside in the property. However, sole income will be used to support joint expenditure for affordability. Circumstances where one partner is not party to the mortgage due to adverse, can be considered on a case by case basis.
 
-## Sole Traders
+# Sole Traders
 
 For sole traders and short-term subcontractors, income equates to the net profit of the business. The below criteria applies: Minimum of 2 years trading; Latest 2 years SA302 documentation with tax year overviews will be required; A two-year average will be applied, except in cases where the current income exceeds 100% of the previous year.
 
-## Stress Testing
+# Stress Testing
 
 The Society applies the below stressed rate: The chosen product rate + 2%; or Where the product applied for is a fixed rate for 5 years or longer, the stress calculation can be based on the product rate.
 
-## Tenure
+# Tenure
 
 The following is considered as suitable tenure for security purposes: Freehold (excluding flats or maisonettes); Flying Freehold (maximum 15%); Leasehold (there must be at least 85 years remaining on the term at application and at least 60 at the end of the mortgage term); and Commonhold.
 
-## Unacceptable Application Types
+# Unacceptable Application Types
 
 The Society will not consider the following application types: lifetime or equity release mortgages, guarantor mortgages, or impaired credit.
 

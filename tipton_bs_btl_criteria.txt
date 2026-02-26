@@ -1,296 +1,241 @@
-LENDER NAME: Tipton Building Society
-PRODUCT: Buy to Let
-
-# The Tipton Building Society - Buy-to-Let Mortgage Lending Criteria
-
-**Last Updated:** 2025
-**Source:** The Tipton Building Society
-**For Intermediaries Only**
+# TIPTON BUILDING SOCIETY – BTL LENDING CRITERIA
 
 ---
 
-## Document Information
-
-This document contains comprehensive buy-to-let lending criteria for The Tipton Building Society.
-
----
-
-## Table of Contents
-
-This guide contains 51 criteria sections organized by topic:
-
-
-### General Information
-
-7. CONVEYANCING
-27. LOCATION
-30. MORTGAGE OFFER
-31. MORTGAGE TERM
-36. PROOF OF RESIDENCY
-45. SECURITY
-51. UNSUITABLE SECURITY
-
-### Applicant Requirements
-
-13. EX-PAT APPLICANTS
-29. MINIMUM AND MAXIMUM AGE
-34. NUMBER OF APPLICANTS
-35. NON-OWNER OCCUPIER
-43. RESIDENCY STATUS
-
-### Affordability and Income
-
-1. AFFORDABILITY ASSESSMENT
-21. INTEREST COVER RATIO (ICR)
-32. MINIMUM INCOME
-46. STRESS TESTING
-
-### Credit History
-
-2. ARRANGEMENT TO PAY
-3. BANKRUPTCY & INDIVIDUAL VOLUNTARY ARRANGEMENTS (IVA)
-6. COUNTY COURT JUDGEMENT (CCJS)
-11. DEFAULTS
-12. DEBT MANAGEMENT PLAN (DMP)
-39. PAYDAY LOANS
-50. UNACCEPTABLE CREDIT HISTORY
-
-### Deposits
-
-9. DEPOSIT
-
-### Loan Details
-
-4. CAPITAL RAISING
-10. DEBT CONSOLIDATION
-18. FURTHER ADVANCES
-26. LOAN AMOUNT
-
-### Property
-
-8. CONSTRUCTION
-14. EPC RATING
-15. EXTERNAL CLADDING
-23. JAPANESE KNOTWEED
-28. LEASE TERMS
-33. MINING REPORTS
-40. PROPERTY AGE AND CERTIFICATION
-41. PROPERTY TYPES
-42. PROPERTY INSURANCE
-48. TENURE
-
-### Repayment Methods
-
-44. REPAYMENT METHODS
-
-### Tenancy and Letting
-
-16. FAMILY LETS
-20. HOUSE IN MULTIPLE OCCUPATION (HMO)
-24. LICENSING & SELECTIVE LICENSING
-47. TENANCIES
-
-### Landlord Types
-
-17. FIRST TIME LANDLORDS
-25. LIMITED COMPANY
-37. PORTFOLIO LANDLORDS
-38. PROFESSIONAL LANDLORDS
-
-### Special Products
-
-5. CONSUMER BUY TO LET (CBTL)
-22. INTER-FAMILY TRANSACTION
-
-### Other
-
-19. HOME IMPROVEMENTS
-49. UNACCEPTABLE APPLICATION TYPES
+**LENDER:** Tipton Building Society
+**PRODUCT:** Buy to Let
+**LAST UPDATED:** 2025
+**SOURCE:** The Tipton Building Society
+**FOR INTERMEDIARIES ONLY**
 
 ---
 
-## Affordability Assessment
+# Affordability Assessment
 
 Affordability is calculated against the minimum rental cover and other policy requirements detailed within this document. In the circumstance an application has not progressed to mortgage offer within 90 days, affordability must be reassessed on our current Buy to Let Variable Rate (BTLVR).
 
-## Arrangement To Pay
+# Arrangement To Pay
 
 Arrangements to pay which have been repaid over 3 months prior to application will be accepted subject to individual case assessment. Arrangements to pay which have been repaid within the last 3 months will be considered on an individual basis.
 
-## Bankruptcy & Individual Voluntary Arrangements (Iva)
+# Bankruptcy & Individual Voluntary Arrangements (Iva)
 
 Applicants who have been discharged bankrupt or have settled IVA over 6 years ago can be considered.
 
-## Capital Raising
+# Capital Raising
 
 Capital raising is permitted for any non-commercial reason up to 80% LTV, as defined below: Home improvements; Purchase additional land or property; Release of equity for any other non-commercial purpose (e.g family gift, holidays, weddings, etc.); or Transfer of equity.
 
-## Consumer Buy To Let (Cbtl)
+# Consumer Buy To Let (Cbtl)
 
 For us to accept a purchase application and not be considered a CBTL, the applicant(s) or their relative(s) must not intend to live in the property now or in the future. If it is a remortgage application and for us not to consider it to be a CBTL, the applicant(s) or their relative(s) must not intend to live in the property now or in the future and they must also have at least one other BTL property in the background.
 
-## County Court Judgement (Ccjs)
+# County Court Judgement (Ccjs)
 
 One CCJ registered within three years and satisfied over three months prior to application can be considered on an individual basis and requires Lending Committee approval, where the total value does not exceed £500. Up to three CCJs per application registered and satisfied over three years prior to application can be considered on an individual basis, where the total value does not exceed £500. Up to three CCJs per application registered within three years and satisfied over three months prior to application can be considered on an individual basis and requires Lending Committee approval, where the total value exceeds £500.
 
-## Conveyancing
+# Conveyancing
 
 Legal Marketing Services (LMS) manage the Society’s panel of acceptable conveyancers. To see a full list of acceptable conveyancers, please click here.
 
-## Construction
+# Construction
 
 Properties are expected to be of standard construction (walls of brick or stone and roof of tile or slate). The below construction types may also be considered, subject to valuation: Timber frame with render cladding; Solid stone; SIPS (structural insulated panels); Oak framed; Metal (zinc) roof; Thatched roof; Grade II listing; PRC repaired properties with a 30-year insurance-backed guarantee and structural warranty; and All properties must have basic amenities (hot and cold running water, sink, bath/shower, inside toilet, electrical power, drainage, and waste disposal).
 
-## Deposit
+# Deposit
 
 Acceptable deposit types* include: Gifted deposits; Foreign currency deposits and gifted deposits which originated outside of the UK are accepted subject to the funds being deposited in the applicant(s) UK bank account prior to offer. To support the underwriting assessment, an explanation of the source of funds will be required, including originating country, and how the funds have been raised (i.e. savings, or sale of assets); Equity; or Sales at under value (Concessionary Purchase). Directors Loans for Limited Company BTLs These are considered acceptable subject to the following conditions: Confirmation is obtained from the broker that there is no repayment schedule in place for the loan. Evidence of the deposit and its source must be provided in all cases. *Please note, further criteria may apply. Unacceptable deposit types include: Vendors incentives; or Builder’s incentives.
 
-## Debt Consolidation
+# Debt Consolidation
 
 Further advances for the purpose of debt consolidation are not permitted.
 
-## Defaults
+# Defaults
 
 Defaults up to £500 maximum value and registered over 6 months ago, must be satisfied upon completion. Telecommunications or Utilities defaults (satisfied or unsatisfied) that are less than £100 are acceptable.
 
-## Debt Management Plan (Dmp)
+# Debt Management Plan (Dmp)
 
 Debt Management Plans taken out and repaid over 12 months prior to application will be considered based in the overall credit scenario of the applicant. Debt Management Plans taken out and repaid within 12 months prior to the application will be considered on an individual basis.
 
-## Ex-Pat Applicants
+# Ex-Pat Applicants
 
 The Financial Action Task Force (FAFT) list will refer to all the approved countries, please click here to see the list.
 
-## Epc Rating
+# Epc Rating
 
 The Society requires properties to have a minimum EPC rating of E, or a suitable exemption on application. Properties must also have a minimum potential C rating detailed on the certificate.
 
-## External Cladding
+# External Cladding
 
 The following rules apply for applications on properties that require an EWS1 form: Properties certified as A1 (there are no attachments whose construction included significant quantities of combustible materials); Properties certified as A2 (there is an appropriate risk of the attachment confirming that no remedial works are required) are considered subject to approval; and Properties certified as B1 (a fire risk assessment completed by a Chartered Engineer or Member of the Institute of Fire Engineers, is sufficiently low that no material works are required), will be considered subject to approval. Properties certified as A3 or B2 as identified on the EWS1 form, are not acceptable.
 
-## Family Lets
+# Family Lets
 
 Transactions where the property is to be let to a family member are not accepted.
 
-## First Time Landlords
+# First Time Landlords
 
 Applications from first time landlords will be considered.
 
-## Further Advances
+# Further Advances
 
 Further advances for existing customers will only be considered where they have held the mortgage with the Society for at least six months and are up to date with their mortgage payments.
 
-## Home Improvements
+# Home Improvements
 
 Applications for home improvements are available up to 80% LTV.
 
-## House In Multiple Occupation (Hmo)
+# House In Multiple Occupation (Hmo)
 
 Applications for HMOs will not be considered
 
-## Interest Cover Ratio (Icr)
+# Interest Cover Ratio (ICR)
 
-The minimum ICR stress rates are detailed in the table below:
-| Product rate | Basic Rate Taxpayer | Higher Rate Taxpayer | Limited Co BTL | Ex-Pat BTL |
-| ------------ | ------------------- | -------------------- | -------------- | ---------- |
-| </=3.50%     | 125% @ 5.50%        | 140% @ 5.50%         | 125% @ 5.50%   | 125% @ 5.50% |
-| >3.50%       | 125% @ product rate + 2% | 140% @ product rate + 2% | 125% @ product rate + 2% | 125% @ product rate + 2% |
-Or payrate if fixed for 5 years or longer.
-For Ex-Pat BTL, the basic rate taxpayer ICR calculation will be used for expat applications unless an applicant has UK based income that places them into the higher rate tax band, resulting in the higher rate tax calculation being used.
-In circumstances where fees are being added to the loan, the ICR calculation must be calculated on the gross loan amount (including all fees).
-The rental income detailed on the valuation report will be used to support the ICR assessment.
-The total rental coverage for any background Buy to Lets owed must exceed 140% (or 125% for Limited Companies). This can be calculated across the investment portfolio on an interest only basis.
+* The minimum ICR stress rates are as follows for products with a **product rate less than or equal to 3.50%**:
 
-## Inter-Family Transaction
+  * **Basic Rate Taxpayer:** 125% @ 5.50%
+  * **Higher Rate Taxpayer:** 140% @ 5.50%
+  * **Limited Co BTL:** 125% @ 5.50%
+  * **Ex-Pat BTL:** 125% @ 5.50%
+
+* The minimum ICR stress rates are as follows for products with a **product rate greater than 3.50%**:
+
+  * **Basic Rate Taxpayer:** 125% @ product rate + 2%
+  * **Higher Rate Taxpayer:** 140% @ product rate + 2%
+  * **Limited Co BTL:** 125% @ product rate + 2%
+  * **Ex-Pat BTL:** 125% @ product rate + 2%
+
+* The **pay rate** may be used where the product is **fixed for 5 years or longer**.
+
+* For **Ex-Pat BTL** applications:
+
+  * The **basic rate taxpayer ICR calculation** will be applied by default.
+  * Where an applicant has **UK-based income** that places them into the **higher rate tax band**, the **higher rate taxpayer calculation** will be used.
+
+* Where **fees are added to the loan**, the ICR calculation must be based on the **gross loan amount**, including all applicable fees.
+
+* The **rental income stated on the valuation report** will be used to support the ICR assessment.
+
+* The **total rental coverage** for any **background Buy to Let properties owned** must exceed:
+
+  * **140%** for individual applicants.
+  * **125%** for Limited Company applications.
+
+* Portfolio rental coverage may be calculated **across the investment portfolio** on an **interest-only basis**.
+
+# Inter-Family Transaction
 
 Transactions where a family member is the vendor are acceptable providing that it is a clear and transparent sale, and that all appropriate taxes (i.e., stamp duty) are paid at completion. In these circumstances the Society will require separate legal representation for the applicant and vendor.
 
-## Japanese Knotweed
+# Japanese Knotweed
 
 Extreme caution will be exercised in the presence of Japanese knotweed or other invasive species.
 
-## Licensing & Selective Licensing
+# Licensing & Selective Licensing
 
 If the property is subject to licensing issues, there may be an adverse effect on potential rental income and future saleability of the property. If the property is in a Selective Licencing area and the licensing is in respect of the property owner, the Society will rely on valuers’ comments, but applications will be considered. Where our valuer confirms that the property is in a Selective Licencing Scheme due to being in a lower income area the application will be declined.
 
-## Limited Company
+# Limited Company
 
 Applications will be accepted from Limited Companies on the following basis: The company must be a limited company set up solely to own/buy/sell/let property and must have one or more of the following SIC codes (Standard Industrial Classification) 68100: Buying and selling of own real estate; 68209: Other letting and operating of own or leased real estate; or 68320: Management of real estate on a fee or contract basis. All directors and shareholders must provide a personal guarantee for the loan; All applicants must be people and not other limited companies; Maximum of four directors; and There must be no more than 3 buy-to-let properties in mortgage, including the property being mortgaged to the Society
 
-## Loan Amount
+# Loan Amount
 
-There is a minimum loan amount of £50,000 for new mortgages, and £5,000 for further advance applications. A maximum loan amount of £1,250,000 applies. Applications for lending over £1,250,000 may be considered on a case-by-case basis.
-Buy to Let Maximum Loan Amounts:
-| LTV                    | Maximum Loan Amount     |
-| ---------------------- | ----------------------- |
-| Up to 80% LTV          | £800,000                |
-| Up to 70% LTV          | £1,250,000              |
-| < 70% LTV              | Individual case assessment |
+* There is a minimum loan amount of £50,000 for new mortgages.
+* There is a minimum loan amount of £5,000 for further advance applications.
+* A maximum loan amount of £1,250,000 applies.
+* Applications for lending over £1,250,000 may be considered on a case-by-case basis.
 
-## Location
+## Buy to Let Maximum Loan Amounts
+
+* Up to 80% LTV: Maximum loan amount £800,000.
+* Up to 70% LTV: Maximum loan amount £1,250,000.
+* Less than 70% LTV: Individual case assessment.
+
+# Location
 
 The Society will consider lending on properties across England, Wales and Isle of Wight.
 
-## Lease Terms
+# Lease Terms
 
 Leasehold properties, with an unexpired lease of at least 85 years at the start of the mortgage, are acceptable subject to criteria. The lease must also have at least 60 years remaining at the end of the mortgage term.
 
-## Minimum And Maximum Age
+# Minimum And Maximum Age
 
 Applicants must be aged 21 years or over at the date of the application. The mortgage term cannot extend past the applicant’s 95th birthday.
 
-## Mortgage Offer
+# Mortgage Offer
 
 Mortgage offers are valid for 6 months from the date of issue. Where the exchange of contracts has not yet taken place, but the solicitor can confirm completion within 10 working days, offer can be extended with no further checks. Outside this time frame, full re-underwrite and re-inspection of the property is required and a new product will need to be selected.
 
-## Mortgage Term
+# Mortgage Term
 
 There is a minimum term of 5 years and a maximum term of 40 years. The term must not extend past the oldest borrower’s 95th birthday.
 
-## Minimum Income
+# Minimum Income
 
 No minimum income required.
 
-## Mining Reports
+# Mining Reports
 
-Properties with mines within the boundary will be considered, based on the below valuation amendments:
-| Location of entry and potential expected effect on valuation | Within 10m Untreated | Within 10m Treated | Between 10m-20m Untreated | Between 10m-20m Treated |
-| ------------------------------------------------------------ | -------------------- | ------------------ | ------------------------- | ----------------------- |
-| Under property/touching external wall                        | 50%                  | 25%                | -                         | -                       |
-| Within property boundary                                      | 25%                  | 10%                | 5%                        | 5%                      |
-| Within neighbouring property boundary                         | 20%                  | 5-10%              | 5-10%                     | 0%                      |
-| Outside of property boundary and neighbouring property boundaries | 20%                  | 5-10%              | Nominal                   | Nominal                 |
+* Properties with mines located **under the property or touching the external wall** will be considered subject to the following valuation amendments:
 
-## Number Of Applicants
+  * **Within 10m – Untreated:** 50%
+  * **Within 10m – Treated:** 25%
+  * **Between 10m–20m – Untreated:** Not applicable
+  * **Between 10m–20m – Treated:** Not applicable
+
+* Properties with mines located **within the property boundary** will be considered subject to the following valuation amendments:
+
+  * **Within 10m – Untreated:** 25%
+  * **Within 10m – Treated:** 10%
+  * **Between 10m–20m – Untreated:** 5%
+  * **Between 10m–20m – Treated:** 5%
+
+* Properties with mines located **within a neighbouring property boundary** will be considered subject to the following valuation amendments:
+
+  * **Within 10m – Untreated:** 20%
+  * **Within 10m – Treated:** 5–10%
+  * **Between 10m–20m – Untreated:** 5–10%
+  * **Between 10m–20m – Treated:** 0%
+
+* Properties with mines located **outside of the property boundary and neighbouring property boundaries** will be considered subject to the following valuation amendments:
+
+  * **Within 10m – Untreated:** 20%
+  * **Within 10m – Treated:** 5–10%
+  * **Between 10m–20m – Untreated:** Nominal
+  * **Between 10m–20m – Treated:** Nominal
+
+# Number Of Applicants
 
 Applications will be considered with up to four borrowers.
 
-## Non-Owner Occupier
+# Non-Owner Occupier
 
 Non-owner occupier applications are accepted where the applicants already own a property. Accepted for expat applications.
 
-## Proof Of Residency
+# Proof Of Residency
 
 We will require proof of residency over the latest three-year period. Please, click here for acceptable proof of residency , or click here for Ex-Pat applicants .
 
-## Portfolio Landlords
+# Portfolio Landlords
 
 Portfolio landlords accepted with no more than 3 buy to let properties in mortgage, including the property being mortgaged to the Society.
 
-## Professional Landlords
+# Professional Landlords
 
 The Society will accept applications from Professional Landlords (a property owner whose sole source of income is derived from buy to lets).
 
-## Payday Loans
+# Payday Loans
 
 Payday loans taken out and repaid over 12 months prior to the application will be considered based in the overall credit scenario of the applicant. Payday loans taken out and repaid within 12 months prior to the application will be considered on an individual basis.
 
-## Property Age And Certification
+# Property Age And Certification
 
 All properties will be considered on their merits irrespective of age. Properties built or converted within the last 10 years must hold an acceptable form of certification.
 
-## Property Types
+# Property Types
 
 Houses, bungalows, flats and maisonettes must have a minimum value of £100,000, or £250,000 if located within Greater London.
 Flats and Maisonettes will be considered subject to the below criteria:
@@ -304,43 +249,43 @@ Flats and Maisonettes will be considered subject to the below criteria:
 - Freehold flats will only be considered if there is an appropriate management company in place; and
 - Commonhold flats will be considered subject to valuation
 
-## Property Insurance
+# Property Insurance
 
 All security properties must have suitable buildings insurance policy.
 
-## Residency Status
+# Residency Status
 
 Applications from non-UK nationals can be considered subject to the following: Each applicant must have lived in the UK for a minimum of 2 years prior to application; Each applicant must provide a valid passport; For expat applications, clients must be British nationals. Each applicant must provide a valid visa giving indefinite leave to reside (previously termed indefinite right to reside & work) in the UK. Pre-settled status is not accepted. If we are unable to meet the standard identification criteria, a valid passport may be required.
 
-## Repayment Methods
+# Repayment Methods
 
 We will consider applications on the following basis: Capital and interest repayment; Interest only; and Part and part.
 
-## Security
+# Security
 
 The Society will only accept a first charge on all properties.
 
-## Stress Testing
+# Stress Testing
 
 A stressed rate of 6.5% is applied. For existing portfolios, the ICR requirement must be met across the portfolio. For applications on products fixed for 5 years or more, these will be stressed at product rate.
 
-## Tenancies
+# Tenancies
 
 Assured Shorthold Tenancy agreements (AST) are the only acceptable type of tenancy arrangement. Where an AST is in place or is to be created as part of the application, it must be for a maximum period of 24-months. An AST exceeding 24 months will be considered on a case by case basis. Where the AST is for longer than 12 months, this will be considered when valuing the property. The following types of tenancy arrangement will not be accepted under any circumstances: Sub-letting; Student lets; Assured Tenancy; Corporate let; Person with Diplomatic immunity; Multiple occupancy; Local Authority tenants; or Regulated tenancy (property let to family member).
 
-## Tenure
+# Tenure
 
 The following is considered as suitable tenure for security purposes: Freehold (excluding flats or maisonettes); Flying Freehold (maximum 15%); Leasehold (there must be at least 85 years remaining on the term at application and at least 60 at the end of the mortgage term); and Commonhold.
 
-## Unacceptable Application Types
+# Unacceptable Application Types
 
 The Society will not consider the following application types: HMOs, holiday let, regulated (Let to Family Member) BTL, guarantor, bridging finance.
 
-## Unacceptable Credit History
+# Unacceptable Credit History
 
 The below will not be considered: Insolvency; Logbook loans; and Previous repossession. Circumstances where a partner is not party to the mortgage due to adverse will not be considered.
 
-## Unsuitable Security
+# Unsuitable Security
 
 The below will cause a property to become unsuitable security: The property is/will be part used for the business purposes (unless it can be clearly demonstrated that this will not affect current value or resale prospects); Properties with spray foam insulation; Restrictive covenants/planning conditions exist which could affect resale (e.g., Agricultural Restrictions); or The property is divided in any way (e.g., to create a bedsit).
 
