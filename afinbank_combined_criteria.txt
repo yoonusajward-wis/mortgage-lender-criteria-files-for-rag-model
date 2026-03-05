@@ -1,7 +1,5 @@
 # AFINBANK – COMBINED MORTGAGE LENDING CRITERIA
 
----
-
 **LENDER:** Afinbank
 **PRODUCT:** Combined (Residential Prime / Professional / Premier, Buy to Let, Consumer Buy to Let)
 **DOCUMENT TYPE:** Combined lending criteria. 7 sections: 1 Applicant, 2 Loan, 3 Property, 4 Product, 5 Charges, 6 Additional Information, 7 Terms and Conditions.
@@ -14,8 +12,6 @@ For intermediary use only. This document is for use by authorised intermediaries
 **RAG convention:** Where applicable, criteria use explicit labels **Maximum:** **Minimum:** **Allowed:** **Not Acceptable:** **Condition:** so that rules are self-contained for retrieval.
 
 **Contact:** www.afinbank.com | 0333 344 2974
-
----
 
 # SECTION 1 – APPLICANT
 
@@ -191,8 +187,6 @@ A minimum of one applicant must be a professional to qualify for the professiona
 **Not Acceptable:** Joint borrower / sole proprietor; Diplomatic immunity / Politically exposed clients
 **Not currently available:** Limited company BTL; Clients based outside the UK / Expats
 
----
-
 # SECTION 2 – LOAN
 
 ## Loan limits
@@ -252,8 +246,6 @@ A minimum of one applicant must be a professional to qualify for the professiona
 ## Consumer Buy to Let definition
 
 See our guide on [Afinbank.com](https://afinbank.com/for-intermediaries/resources-and-documents/)
-
----
 
 # SECTION 3 – PROPERTY
 
@@ -353,8 +345,6 @@ See our guide on [Afinbank.com](https://afinbank.com/for-intermediaries/resource
 * Houseboats
 * Static homes / caravan style homes
 
----
-
 # SECTION 4 – PRODUCT
 
 ## Residential Mortgage Products
@@ -435,8 +425,6 @@ See our guide on [Afinbank.com](https://afinbank.com/for-intermediaries/resource
 
 **Product Fee:** £1,495 (Can be added, to max of 75% LTV)
 
----
-
 # SECTION 5 – CHARGES
 
 ## Before your first monthly payment
@@ -478,8 +466,6 @@ See our guide on [Afinbank.com](https://afinbank.com/for-intermediaries/resource
 * Some charges may be added to your mortgage account and will attract interest.
 * For more information about charges, please refer to your mortgage terms and conditions or contact us.
 
----
-
 # SECTION 6 – ADDITIONAL INFORMATION
 
 ## Buy-to-let Flow Chart
@@ -493,8 +479,6 @@ See our guide on [Afinbank.com](https://afinbank.com/for-intermediaries/resource
 **Source:** [https://afinbank.com/wp-content/uploads/2025/07/Legal-Process-Afin-Bank-Jul-2025.pdf](https://afinbank.com/wp-content/uploads/2025/07/Legal-Process-Afin-Bank-Jul-2025.pdf)
 
 **Note:** This PDF file could not be automatically parsed. Please download the original PDF from the source URL above for the complete Legal Process guide which covers conveyancing requirements and the legal aspects of mortgage applications.
-
----
 
 # SECTION 7 – TERMS AND CONDITIONS
 
@@ -804,8 +788,6 @@ The Financial Ombudsman Service, Exchange Tower, London, E14 9SR
 Alternatively, you can call them on 08000234567.
 
 12.5 The FOS is an independent organisation, which settles complaints that consumers and financial businesses have not been able to resolve between themselves. The service is free and easy-to-use. To find out more about the service, visit [www.financial-ombudsman.org.uk](https://www.financial-ombudsman.org.uk).
-
----
 
 **Afin Bank t/a Afin is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority. Afin Bank Limited is registered on the Financial Services Register reference number 1004742. Registered in England and Wales under company number 13090556 with registered office address at 10 Chiswell Street, London EC1Y 4XY.**
 

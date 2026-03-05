@@ -1,15 +1,11 @@
 # VIDA HOME LOANS – RESIDENTIAL LENDING CRITERIA
 
----
-
 **LENDER:** Vida Home Loans
 **PRODUCT:** Residential
 **DOCUMENT TYPE:** Residential Mortgage Lending Criteria
 **SOURCE:** [Vida Intermediaries Lending Criteria](https://www.vidahomeloans.co.uk/intermediaries/lending-criteria)
 **EXTRACTED:** 2025-08-28
 **FOR INTERMEDIARY USE ONLY**
-
----
 
 # ACCEPTABLE VISA TYPES
 
@@ -32,29 +28,21 @@ If these income thresholds are not met, the maximum LTV is restricted to 75%.
 
 A minimum of 5% of the deposit must come from the applicant’s own funds.
 
----
-
 # ACCOUNTANT QUALIFICATIONS
 
 Recognised qualifications include ACA, FCA, ACCA, FCCA, AAPA, FAPA, ACMA, FCMA, MAAT, FMAAT, CTA and AIA.
 
 If the accountant does not hold a recognised qualification, SA302s and Tax Year Overviews are required for Sole Traders and Partnerships. For Limited Companies, the accountant’s certificate must be signed by a recognised qualified accountant.
 
----
-
 # ADOPTION ALLOWANCE
 
 Adoption allowance is not accepted.
-
----
 
 # AFFORDABILITY
 
 The following are considered within affordability:
 
 Childcare, school or university fees, ground rent, service charges, maintenance, CCJs, defaults, DMP payments, council tax, student loans, salary sacrifice schemes, payslip deductions and travel costs.
-
----
 
 # AGE
 
@@ -69,19 +57,13 @@ Is borrowing on Capital & Interest (Interest Only not allowed beyond age 70).
 
 If an applicant does not meet these criteria, they may remain on the application but their income cannot be used for affordability. The term must still end by age 80.
 
----
-
 # FOREIGN CURRENCY INCOME
 
 Applicants paid in foreign currency are not acceptable.
 
----
-
 # ARCHITECT’S CERTIFICATE
 
 An architect’s certificate is acceptable where the consultant holds a recognised qualification and suitable professional indemnity insurance.
-
----
 
 # ARREARS
 
@@ -92,8 +74,6 @@ Vida 24 – acceptable if older than 24 months
 Vida 6 – acceptable if older than 6 months
 Packager – considered with no maximum
 
----
-
 # BANKRUPTCY / IVA / DRO / TRUST DEED
 
 Acceptable subject to product range:
@@ -102,8 +82,6 @@ Vida 36 – 3 years from discharge
 Vida 24 – 3 years from discharge
 Vida 6 – 3 years from discharge
 Packager – 1 year from discharge
-
----
 
 # CCJs
 
@@ -114,21 +92,15 @@ Vida 24 – older than 24 months
 Vida 6 – older than 6 months
 Packager – considered if less than 6 months
 
----
-
 # DEFAULTS
 
 Satisfied and unsatisfied defaults of £250 or more follow the same timeframes as CCJs across the Vida 36, 24, 6 and Packager ranges.
-
----
 
 # DEBT CONSOLIDATION
 
 Debt consolidation is available up to 85% LTV.
 
 Debt Management Plans and Debt Arrangement Schemes may be considered at underwriter discretion subject to satisfactory affordability and conduct.
-
----
 
 # DEPOSIT
 
@@ -140,8 +112,6 @@ Cryptocurrency deposits are not acceptable.
 
 Deposits from a Limited Company are acceptable with written confirmation from the company accountant that the loan will not adversely affect the business and all shareholders agree.
 
----
-
 # CONCESSIONARY / DISCOUNT PURCHASE
 
 Permitted where the vendor is either a family member or a landlord (minimum 5% deposit and 12-month tenancy).
@@ -149,8 +119,6 @@ Permitted where the vendor is either a family member or a landlord (minimum 5% d
 Maximum advance is 100% of the discounted purchase price or 75% of open market value (whichever is lower). For long-term tenants purchasing from a landlord, up to 95% of the discounted purchase price or 75% of market value (whichever is lower).
 
 The family vendor must not remain in the property and must relinquish rights. Proof of satisfactory mortgage conduct is required if the property is mortgaged. Gifted equity is not acceptable.
-
----
 
 # CONTRACTORS
 
@@ -161,8 +129,6 @@ Day 1 contractors must have at least 1 year’s track record in the same line of
 Umbrella and PAYE contractors require latest 3 months’ payslips and P60 (if applicable).
 
 CIS contractors are assessed using latest SA302 and Tax Year Overviews plus either 3 months’ payslips/invoices or 12 months’ CIS payslips/invoices.
-
----
 
 # EMPLOYMENT & INCOME
 
@@ -180,8 +146,6 @@ Income accepted:
 
 Commission and profit-related pay accepted at 75% where evidenced.
 
----
-
 # BENEFIT INCOME
 
 Benefit income can be considered provided at least one applicant earns £15,000 per annum from employment or self-employment.
@@ -195,13 +159,9 @@ Other benefits such as ESA, DLA, PIP, IIDB, Incapacity Benefit and Universal Cre
 
 Carer’s Allowance is accepted at 50%.
 
----
-
 # CREDIT CARD BALANCES
 
 3% of the outstanding balance is annualised and deducted unless evidence shows the card has been fully repaid each month for the last 3 months.
-
----
 
 # PROPERTY – FLATS
 
@@ -221,25 +181,17 @@ Flying freehold is acceptable up to 25% of total floor space subject to valuer c
 
 Flat roofs are acceptable up to 100% coverage subject to valuation.
 
----
-
 # FREEHOLD HOUSES WITH SELF-CONTAINED FLATS
 
 Properties with a single annex may be considered where services are shared. The annex must be occupied by family members on a long-term basis or used on a short-term/holiday let basis.
-
----
 
 # FURTHER ADVANCE
 
 Further advances are not currently offered.
 
----
-
 # GUARANTEED INCOME PAYMENT / FORCES
 
 Accepted at 100%.
-
----
 
 # GUARANTORS
 
@@ -247,57 +199,39 @@ Guarantors are not accepted.
 
 Vida offers a Joint Borrower / Sole Proprietor product called **Helping Hand**, allowing family members (including parents, stepparents, children, step/adopted children, siblings, grandparents, aunts, uncles, cousins, nieces and nephews) to support an applicant by joining the mortgage without being named on the title deeds. Income from the supporting applicant can be used for affordability.
 
----
-
 # GUARDIAN’S ALLOWANCE
 
 Accepted at 100%.
-
----
 
 # HOUSING ALLOWANCE / MORTGAGE SUBSIDY
 
 Accepted at 100% where provided by an employer.
 
----
-
 # HOUSING BENEFIT
 
 Not accepted as income.
-
----
 
 # TRUST INCOME
 
 Accepted at 100% where supported by SA302 and corresponding Tax Year Overview.
 
----
-
 # INCOME MULTIPLE
 
 Maximum income multiple is 6×, subject to affordability.
-
----
 
 # INHERITANCE AS INTEREST ONLY STRATEGY
 
 Not acceptable. Repayment strategies must be in place on or before completion.
 
----
-
 # INHERITED PROPERTIES
 
 Acceptable once probate has been completed. Applications are treated as a remortgage.
-
----
 
 # INTEREST ONLY
 
 Available up to 75% LTV with a maximum loan of £1m.
 
 Interest Only is not permitted where the applicant is already retired or where the term extends into retirement.
-
----
 
 # INTEREST ONLY – REPAYMENT STRATEGY
 
@@ -314,13 +248,9 @@ Other strategies, including sale of other assets or occasional income payments, 
 
 An Interest Only Repayment Strategy Declaration Form is required.
 
----
-
 # INVESTMENT INCOME
 
 Accepted at 100% where supported by SA302 and Tax Year Overview.
-
----
 
 # JAPANESE KNOTWEED
 
@@ -328,33 +258,23 @@ Not acceptable if Category A or B within the property boundary or neighbouring p
 
 Category C or D may be considered, or where previously Category A/B but now subject to an assignable, up-to-date treatment plan. All cases subject to satisfactory valuation.
 
----
-
 # JOB SEEKER’S ALLOWANCE
 
 Not accepted.
-
----
 
 # JOINT BORROWER / SOLE PROPRIETOR
 
 The Helping Hand product allows family members to join the mortgage and support affordability without being named on the title deeds.
 
----
-
 # LEASEHOLD – OWNED FREEHOLD INTEREST
 
 Where the applicant owns part or all of the freehold, Vida will register its charge against both the leasehold and freehold titles (where solely owned).
-
----
 
 # LEASEHOLD REMAINING TERM
 
 Capital & Interest requires a minimum of 40 years remaining at the end of term.
 
 Interest Only requires 70 years remaining at the end of term.
-
----
 
 # LENDING AREA
 
@@ -363,8 +283,6 @@ Lending available in England, Wales and selected Scottish postcodes.
 Accepted Scottish postcode areas include AB (with exclusions), DD, DG, EH (with exclusions), FK (with exclusions), G (with exclusions), IV (with exclusions), KA (with exclusions), KW (with exclusions), KY (with exclusions), ML, PA (with exclusions), PH (with exclusions) and TD.
 
 (Full postcode exclusions apply as per Vida criteria.)
-
----
 
 # LENDING INTO RETIREMENT
 
@@ -380,8 +298,6 @@ Plausibility of working to loan maturity.
 
 Restricted to Capital & Interest only.
 
----
-
 # RETIRED AT APPLICATION
 
 A retired applicant may only apply jointly with another employed or self-employed applicant.
@@ -390,19 +306,13 @@ The retired applicant’s income cannot be used for affordability.
 
 Term must end by the oldest applicant’s 80th birthday.
 
----
-
 # LENDING TO TRUSTS
 
 Not offered.
 
----
-
 # LIGHT REFURBISHMENT
 
 Acceptable subject to valuer comments.
-
----
 
 # LIVE / WORK PROPERTIES
 
@@ -411,8 +321,6 @@ Considered where:
 The property is used exclusively by the owner for their own business.
 Business use does not exceed 40% of floor area.
 The property can be sold as a standard residence without major modification.
-
----
 
 # LOAN ASSESSMENT
 
@@ -423,8 +331,6 @@ Outgoings assessed include childcare, fees, ground rent, maintenance, credit com
 Remaining credit commitments are included in the assessment. For remortgages with debt consolidation, remaining balances after consolidation are included.
 
 Credit card commitments are assessed at 3% of outstanding balance.
-
----
 
 # LOAN PURPOSE
 
@@ -440,27 +346,19 @@ Consumer Buy to Let
 Second charges
 Further advances
 
----
-
 # LOAN SIZE
 
 Minimum loan: £50,000
 Maximum loan: £2m
 Maximum Interest Only loan: £1m
 
----
-
 # LODGER INCOME
 
 For remortgages, 100% of lodger income accepted, evidenced by last 3 months’ bank statements.
 
----
-
 # LONDON WEIGHTING
 
 Accepted at 100%.
-
----
 
 # LTV
 
@@ -480,21 +378,15 @@ For LTVs above 90%, credit file must show no current arrears on major unsecured 
 
 For Vida 24 and Vida 6 products, LTV above 85% requires no current arrears on major unsecured items.
 
----
-
 # MARITAL STATUS
 
 Applications should be submitted jointly where applicants are married, in civil partnership, cohabiting or financially dependent.
 
 Single applications in these cases require full justification and are subject to underwriter discretion.
 
----
-
 # MATERNITY / PATERNITY LEAVE
 
 Considered using return-to-work income, supported by employer confirmation of return date and salary.
-
----
 
 # MINIMUM FLOOR AREA
 
@@ -503,13 +395,9 @@ Studio flats require:
 Minimum internal area of 30m².
 Minimum external area of 35m².
 
----
-
 # MINIMUM INCOME
 
 Main applicant must earn at least £15,000 per annum.
-
----
 
 # NATIONALITY, RESIDENCY & VISAS
 
@@ -520,8 +408,6 @@ Permanent right to reside applicants can access Standard Residential range up to
 Visa holders listed under Foreign National criteria can access up to 90% LTV (income thresholds apply). If income thresholds are not met, maximum LTV is 75%.
 
 Minimum 5% deposit must be from applicant’s own funds.
-
----
 
 # NEW BUILD
 
@@ -539,39 +425,27 @@ Offers valid for 6 months and extendable for a further 6 months subject to reass
 
 Bulk purchase discounts and certain off-plan arrangements are not acceptable.
 
----
-
 # NEW BUILD – BUILDER SALES INCENTIVES
 
 Accepted provided total incentives do not exceed 5% of the purchase price. Confirmation must be provided by the vendor/builder via the CML/UK Finance Disclosure Form.
 
 The 5% maximum can be split, for example 2.5% gifted deposit and 2.5% cash or other incentives.
 
----
-
 # NON-BORROWING OCCUPIERS
 
 Acceptable. All occupiers over age 17 must sign a witnessed Declaration following independent legal advice.
-
----
 
 # NON-SIMULTANEOUS / STAGGERED COMPLETION
 
 Acceptable provided income can support both mortgage commitments.
 
----
-
 # NON-UK TAX PAYER / NON-DOMICILE
 
 Not acceptable. Applicants must reside in the UK and be paid in sterling.
 
----
-
 # NUMBER OF APPLICANTS
 
 Maximum of 4 applicants.
-
----
 
 # OTHER INCOME
 
@@ -583,19 +457,13 @@ Income accepted as follows:
 
 50% accepted — DLA, Carer’s Allowance, IIDB, PIP, ESA, Incapacity Benefit, Armed Forces Independence Payment, Universal Credit, Working Family Tax Credits.
 
----
-
 # PART REPAYMENT / PART INTEREST ONLY
 
 Not offered.
 
----
-
 # PAYDAY LOANS
 
 All payday loans must be repaid prior to completion. Underwriter must be satisfied there is no ongoing reliance.
-
----
 
 # PENSION CONTRIBUTIONS
 
@@ -603,31 +471,21 @@ Generally ignored for affordability unless considered excessive.
 
 Where lending into retirement and pension income is relied upon, evidence of pension contributions is required.
 
----
-
 # PERIOD PROPERTIES / NON-STANDARD CONSTRUCTION
 
 Timber framed properties constructed pre-1950 acceptable only if considered a “period property” and subject to valuer comments.
-
----
 
 # PORTING
 
 Not offered.
 
----
-
 # PRIVATE SALES
 
 Private sales (no estate agent) acceptable.
 
----
-
 # PROBATIONARY PERIOD
 
 May be considered subject to underwriter discretion.
-
----
 
 # PRODUCT FEATURES
 
@@ -641,25 +499,17 @@ Broker fees cannot be added to the loan.
 
 Porting not available.
 
----
-
 # PRODUCT TRANSFER
 
 Available via Vida’s Product Switch Hub.
-
----
 
 # PROFESSIONAL LANDLORDS
 
 Accepted and treated as self-employed.
 
----
-
 # PROFESSIONAL SPORTS PEOPLE
 
 Considered on individual merit.
-
----
 
 # PROOF OF ADDRESS
 
@@ -667,13 +517,9 @@ Minimum 2-year residency history required.
 
 If not on electoral roll, acceptable documents include driving licence, recent utility bill, recent bank/credit card statement, council tax bill, HMRC correspondence or mortgage/rent statement.
 
----
-
 # PROOF OF ID
 
 Electronic ID checks are undertaken. If unsuccessful, documentary ID and address verification required as per acceptable document list.
-
----
 
 # PROPERTIES ABOVE / ADJACENT TO COMMERCIAL
 
@@ -681,31 +527,21 @@ Accepted up to 75% LTV.
 
 Properties above or next to restaurants, takeaways, dry cleaners, hairdressers, laundrettes, tattoo/piercing/nail parlours, public houses or petrol stations limited to 60% LTV, subject to valuer comments.
 
----
-
 # PROPERTY INVESTMENT CLUBS
 
 Not accepted.
-
----
 
 # PROPERTY – MINING / MINESHAFT
 
 May be considered subject to valuation and legal checks.
 
----
-
 # PROPERTY – SUBSIDENCE
 
 Not acceptable.
 
----
-
 # PROPERTY CONDITION
 
 Property must be habitable at application. Subject to valuer comments.
-
----
 
 # PROPERTY INFORMATION
 
@@ -723,25 +559,17 @@ Various non-standard constructions acceptable subject to BOPAS/BBA certification
 
 Estate rent charges acceptable where specific legal protections apply and annual charge does not exceed £500.
 
----
-
 # PROPERTY OWNED LESS THAN 6 MONTHS
 
 May be considered subject to underwriter discretion.
-
----
 
 # PROPERTY WITH LAND / ACREAGE
 
 Up to 3 acres acceptable. Must be wholly residential. Private paddocks and stables acceptable. Farms and smallholdings not acceptable.
 
----
-
 # PROPERTY WITH OUTBUILDINGS
 
 Permitted under same criteria as land — must remain residential in nature.
-
----
 
 # PROPERTY WITH SHARED ACCESS / SERVICES
 
@@ -749,25 +577,17 @@ Shared access may be acceptable subject to valuer and solicitor confirmation.
 
 Shared services not acceptable except for septic tanks.
 
----
-
 # SPRAY FOAM INSULATION
 
 Not acceptable.
-
----
 
 # PURCHASE
 
 Vendor ownership under 6 months may be considered subject to discretion.
 
----
-
 # PURCHASE OF ADJOINING PROPERTY
 
 Acceptable where both are single dwelling units with no shared services other than cesspit.
-
----
 
 # REMORTGAGE
 
@@ -787,15 +607,11 @@ Second charges must be repaid unless securing business overdraft (Deed of Postpo
 
 Not permitted for speculative investments, gambling, time share or failing business support.
 
----
-
 # RENTAL INCOME
 
 As additional income: accepted at 100%.
 
 As sole income: acceptable under self-employed criteria.
-
----
 
 # REPAYMENT METHODS
 
@@ -805,8 +621,6 @@ Interest Only available to 75% LTV with acceptable repayment vehicle, including 
 
 UK bank Direct Debit required.
 
----
-
 # REPOSSESSIONS
 
 Acceptable subject to tier:
@@ -814,25 +628,17 @@ Acceptable subject to tier:
 Vida 36, 24, 6 – 6 years since repossession.
 Packager – 3 years since repossession.
 
----
-
 # ADVERSE TIERS
 
 Three Residential tiers plus a Packager tier available.
-
----
 
 # RESTRICTIVE COVENANTS
 
 Not acceptable.
 
----
-
 # RETIREMENT INTEREST ONLY
 
 Not offered.
-
----
 
 # RIGHT TO BUY / RIGHT TO ACQUIRE
 
@@ -844,19 +650,13 @@ Section 125/RTA3 required and last 12 months rental history.
 
 Permanent right to reside required.
 
----
-
 # SECOND HOME
 
 Not accepted.
 
----
-
 # SECOND JOB
 
 Up to 100% accepted with minimum 3-month track record.
-
----
 
 # SECURED CREDIT ARREARS
 
@@ -866,13 +666,9 @@ Historic secured arrears must be up to date for at least 6 months.
 
 Timeframes apply depending on product tier (Vida 36, 24, 6, Packager).
 
----
-
 # SELF BUILD
 
 Only considered once completed with suitable 10-year warranty.
-
----
 
 # SELF-EMPLOYED
 
@@ -884,37 +680,25 @@ If 100% shareholder, net profit may be used. Otherwise salary + dividends.
 
 Retained profit can be used as deposit, not income.
 
----
-
 # SHARED OWNERSHIP
 
 Not offered.
-
----
 
 # SHELTERED / RETIREMENT HOUSING
 
 Not offered.
 
----
-
 # SOLAR PANELS
 
 Roof space lease consent acceptable.
-
----
 
 # SOLICITORS
 
 Must be on Vida panel.
 
----
-
 # STEEL FRAME
 
 Acceptable if post-2000 construction.
-
----
 
 # TERM
 
@@ -922,19 +706,13 @@ Acceptable if post-2000 construction.
 
 Leasehold minimum remaining term: 40 years (C&I) and 70 years (Interest Only).
 
----
-
 # TIMBER FRAME
 
 Acceptable with brick or block/render outer skin.
 
----
-
 # TRONC (TIPS) INCOME
 
 Accepted at 75% with sufficient evidence and track record.
-
----
 
 # UNACCEPTABLE APPLICANTS
 
@@ -943,8 +721,6 @@ Not accepted:
 Power of Attorney
 Diplomatic immunity
 Criminal records (except minor/spent convictions under Rehabilitation of Offenders Act)
-
----
 
 # UNDERPINNED PROPERTIES
 
@@ -955,19 +731,13 @@ No sign of new movement,
 Insurer willing to provide normal cover,
 Solicitor confirms compliance.
 
----
-
 # UNIVERSAL CREDIT
 
 Accepted at 50%, not as main income source.
 
----
-
 # UNSECURED CREDIT ARREARS
 
 Acceptable subject to product tier limits and timeframes.
-
----
 
 # VALUATION
 
@@ -977,8 +747,6 @@ HomeBuyer and Building Surveys not offered.
 
 Valuer: Esurv.
 
----
-
 # OFFER VALIDITY
 
 Standard offer valid 4 months.
@@ -987,18 +755,12 @@ New Build/Off-plan valid 6 months.
 
 Extensions may require fresh credit and affordability checks.
 
----
-
 # VALUATION APPEALS
 
 Minimum 3 comparable properties within 1 mile sold in last 6 months required.
 
----
-
 # ZERO HOURS CONTRACTS
 
 Acceptable with 12-month track record of sustainable earnings.
-
----
 
 # END OF DOCUMENT

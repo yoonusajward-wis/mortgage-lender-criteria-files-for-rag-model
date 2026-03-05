@@ -18,7 +18,6 @@ This document contains comprehensive Buy to Let lending criteria for Clydesdale 
 
 ## SECTION 1 – Adverse Credit
 
-
 ### Arrears
 
 * In the last 6 months: There must be no mortgage arrears
@@ -27,28 +26,23 @@ This document contains comprehensive Buy to Let lending criteria for Clydesdale 
 * In the last 2 years: Maximum 2 months' arrears per account if it's a mortgage or loan
 * Other missed payments may be acceptable, subject to application
 
-
 ### Defaults
 
 * Unsatisfied: No defaults of any value that are currently unsatisfied
 * Satisfied: No defaults registered in the last 12 months. In the last 6 years, maximum 2 satisfied defaults and the maximum total value of all satisfied defaults is £2,000
-
 
 ### CCJs
 
 * Unsatisfied: No CCJs of any value that are currently unsatisfied
 * Satisfied: No CCJs registered in the last 6 months. In the last 6 years, maximum 1 satisfied CCJ and the value must be no more than £500
 
-
 ### Debt Management Plans
 
 * Customers must not have a current debt management plan in place
 
-
 ### IVAs, Administration Orders, Debt Relief Orders or Bankruptcy
 
 * None of these are acceptable within the last 6 years, even where satisfied or discharged
-
 
 ## SECTION 2 – Affordability
 
@@ -64,7 +58,6 @@ The maximum number of buy to lets the client can have with the bank is 3 or a ma
 
 London & South East defined as: Greater London (post codes starting E, EC, N, NW, SE, SW, W, WC, BR, CR, DA, EN, HA, IG, KT, RM, SM, TW, or UB), Berkshire, Buckinghamshire, East Sussex, Hampshire, Isle of Wight, Kent, Oxfordshire, Surrey, West Sussex.
 
-
 ## SECTION 3 – Age
 
 The minimum age at the start of the application is 18.
@@ -75,11 +68,9 @@ For Interest Only mortgages where downsizing is being used as the repayment vehi
 
 View lending into retirement policy.
 
-
 ## SECTION 4 – Applicants
 
 The maximum number of applicants is 2.
-
 
 ## SECTION 5 – Assignable Contracts
 
@@ -87,11 +78,9 @@ We do not lend on assigned contracts.
 
 This is where a vendor allows the assignment of a purchase contract from the original buyer to a new buyer before completion.
 
-
 ## SECTION 6 – Back To Back Transactions
 
 Back to back transactions (where a property is purchased and immediately sold or where there are multiple transactions in quick succession) are not acceptable. We will not provide mortgage lending where the purchase application transaction forms part of a back to back transaction arrangement.
-
 
 ## SECTION 7 – Background Buy-To-Lets
 
@@ -100,7 +89,6 @@ We will need to see your client's last 3 months' bank statements to evidence the
 If your client has 4 or more buy to let properties we will need to see their last 3 years' accounts or their last 3 years' self assessment forms combined with the respective SA302's to evidence the combined rentals received and interest charged for all properties.
 
 We will also require a full list of all properties owned together with addresses, lenders details, mortgages outstanding, monthly mortgage payments and rents received.
-
 
 ## SECTION 8 – Bank Statements
 
@@ -115,7 +103,6 @@ We will accept online statements if they include:
 * The applicant's name
 * Account number and sort code
 
-
 ## SECTION 9 – Bonus And Variable Income
 
 For variable pay received annually, six monthly or quarterly, we will use 60% of the 2 year average. If the most recent year is lower, we'll use 60% of that.
@@ -125,7 +112,6 @@ For variable pay received monthly or weekly, we will use 60% of the variable pay
 Exceptionally, we may be able to use up to 75% of variable income where a 3 year track record of stability is held (2 years if monthly or more regular). This must be agreed with us before applying.
 
 To find out what we need to evidence variable income, check out our packaging requirements.
-
 
 ## SECTION 10 – Capital Raising
 
@@ -137,7 +123,6 @@ The following restrictions/requirements apply:
 * We cannot lend for business purposes
 
 For further guidance please contact us.
-
 
 ## SECTION 11 – Cladding
 
@@ -172,13 +157,11 @@ We are here to support our existing customers who have a mortgage on a property 
 
 For changes to an existing Virgin Money mortgage we will assess each case based on individual circumstances. As a responsible lender, any application for additional borrowing from customers impacted by unsafe EWS will be carefully considered before a decision is made. For any other questions relating to EWS please refer to the FAQs provided by RICS or visit the governments website to view their guidance on cladding.
 
-
 ## SECTION 12 – Consumer Buy To Let
 
 The Mortgage Credit Directive (MCD) Order, defines a Consumer Buy to Let (CBTL) Mortgage Contract as: a buy-to-let mortgage contract which is not entered into by the borrower wholly or predominantly for the purposes of a business carried on, or intended to be carried on, by the borrower.
 
 We can consider a CBTL mortgage contract.
-
 
 ## SECTION 13 – Contractors
 
@@ -209,11 +192,9 @@ Construction Industry Scheme (CIS):
 Evidence:
 * View packaging requirements
 
-
 ## SECTION 14 – Debt Consolidation
 
 Debt Consolidation: Maximum LTV 80%. For such applications there is no requirement to input the monthly payments as expenditure items for the financial commitments being consolidated.
-
 
 ## SECTION 15 – Deposit
 
@@ -225,13 +206,11 @@ Where the deposit is being loaned by a family member, consideration must be give
 Rotating Savings and Credit Associations:
 Deposits that are sourced from Rotating Savings and Credit Associations (ROSCA) for example where the deposit monies have been raised via an open cooperative funding circle scheme are not acceptable as a source of deposit.
 
-
 ## SECTION 16 – Direct Debit
 
 Payment by Direct Debit mandate is compulsory for all mortgages. Payments can be taken from an account on any day of the month between the 1st and the 28th. We cannot issue a mortgage offer until a fully completed Direct Debit mandate has been submitted. If no date is stated your payment will be taken on the 1st of the month.
 
 If the client will have more than one mortgage product i.e. part and part, then we will require a Direct Debit mandate for each mortgage product.
-
 
 ## SECTION 17 – Discounted Purchase
 
@@ -244,7 +223,6 @@ Applications will be considered up to 100% of the purchase price and the approva
 We also require the solicitor or licensed conveyancer to establish that the family member gifting the property is not insolvent and to arrange suitable indemnity insurance for the full value of the property if they deem it necessary.
 
 Note: When an applicant is purchasing a property from a family member separate legal representation is required, the same solicitor or licensed conveyancer cannot act for both seller and buyer.
-
 
 ## SECTION 18 – Eligibility
 
@@ -288,16 +266,13 @@ We do not accept buy to let applications for:
   * Examples of A3-A5 premises include: Hot Food Takeaway/Restaurants/Café, Public House/Wine Bar, Car Show Room, Dry Cleaners/Launderette's
   * Care homes, kennels, catteries, caravan parks and working farms are considered predominantly commercial propositions and are not considered suitable for mortgage purposes
 
-
 ## SECTION 19 – Energy Performance Certificate (Epc)
 
 All BTLs must have a minimum EPC rating of E. For a new build it can be a Predicted Energy Assessment (PEA) or a Standard Assessment Procedure calculation (SAP) rather than EPC. If a property has a valid EPC exemption please contact us before applying to see if we can help.
 
-
 ## SECTION 20 – Execution Only
 
 We do not accept execution only applications. All applications must be submitted through an FCA authorised mortgage intermediary.
-
 
 ## SECTION 21 – Existing Customers - Additional Borrowing
 
@@ -309,11 +284,9 @@ Existing customers may apply for additional borrowing on their Buy to Let mortga
 
 For changes to an existing Virgin Money mortgage we will assess each case based on individual circumstances. As a responsible lender, any application for additional borrowing from customers impacted by unsafe EWS will be carefully considered before a decision is made.
 
-
 ## SECTION 22 – Existing Customers - Consent To Reside
 
 For existing residential mortgage customers who wish to let out their property, we may consider granting consent to let subject to individual assessment. This is not available for Buy to Let mortgages. For Buy to Let customers, the property must be let in accordance with the mortgage terms.
-
 
 ## SECTION 23 – Existing Customers - Overpayments And Lump Sum Payments
 
@@ -322,7 +295,6 @@ The flexibility of our mortgage products allow our customers the option of makin
 Our fixed rate products allow customers to make lump sum payments of up to 10% of the mortgage balance during each year of the fixed rate product without incurring an early repayment charge. There are no penalties for making lump sum payments to our offset discounted products.
 
 It is important to note that customers cannot reduce their regular payment amount following a lump sum payment if they are still in a fixed or discounted period.
-
 
 ## SECTION 24 – Existing Customers - Porting
 
@@ -352,7 +324,6 @@ Customers Who Need to Change the Parties Named on the Mortgage When Moving Home:
 Support:
 If you have any questions, get in touch with your Business Development Manager, who will do everything they can to help.
 
-
 ## SECTION 25 – Existing Customers - Product Transfer
 
 Your customer can apply for a product transfer up to 180 days before the expiry of their current fixed-rate product.
@@ -375,11 +346,9 @@ During the final 3 months of a new product switch application, customers can mak
 
 All our current on-sale products are available to product transfer customers, provided the above criteria and product conditions are met. For full product information, please visit our Products pages.
 
-
 ## SECTION 26 – Ex-Pats
 
 We do not lend to ex-pats.
-
 
 ## SECTION 27 – Expenditure
 
@@ -399,16 +368,13 @@ Monthly expenditure for all buy to let properties must include:
 * Buy to let council tax (if these are not paid by the tenant)
 * Buy to let insurances
 
-
 ## SECTION 28 – Expenditure Variations
 
 Where a client advises that their expenditure will change in the future, additional information must be provided in the application. This must include a plausible explanation of how the client will service their mortgage and other essential commitments. Supporting evidence must be provided, where applicable, to assist the Underwriter in making a responsible lending decision.
 
-
 ## SECTION 29 – First Time Buyers
 
 First time buyers are accepted for Buy to Let mortgages. There is no requirement to be an owner occupier.
-
 
 ## SECTION 30 – Flats
 
@@ -433,14 +399,12 @@ Commercial Premises:
 Tenure:
 * Flats must be leasehold (or in Scotland, heritable or leasehold). Share of freehold properties are acceptable but there must be an acceptable underlying lease upon which we can place our charge
 
-
 ## SECTION 31 – Foreign Currency
 
 The Bank is unable to lend in the case of a new foreign currency mortgage. This means that:
 * We are unable to consider using any non-sterling income (whether this is regular or additional / bonus income)
 * We are unable to consider any non-sterling repayment vehicle for interest only mortgages
 * We are unable to lend to any individual who is not resident in the United Kingdom
-
 
 ## SECTION 32 – Foreign Nationals
 
@@ -494,25 +458,21 @@ Please Note:
 
 View packaging requirements.
 
-
 ## SECTION 33 – Foster Carers
 
 Income from foster caring is acceptable and is subject to our usual self employed policy.
 
 Any individuals under foster care should be included as dependants within the application.
 
-
 ## SECTION 34 – Guarantors
 
 We do not accept guarantors on any of our mortgages.
-
 
 ## SECTION 35 – Hmos
 
 We do not lend on Houses in Multiple Occupation.
 
 An HMO is a property with 3 or more tenants forming more than 1 household who share a toilet, bathroom or kitchen. A household is either a single person or a family (including unmarried partners).
-
 
 ## SECTION 36 – Income
 
@@ -615,13 +575,11 @@ Please contact us to discuss these types of income before applying.
 
 Note: We do not accept income in foreign currency.
 
-
 ## SECTION 37 – Interest Only
 
 At 75% LTV we can lend up to £1m. This increases to £1.5m in London and South East England. At 80% LTV (including product fee) we can lend up to £500k on Interest Only or up to £750k on Full C&I.
 
 If the client advises they have an alternate repayment strategy to repay the capital component of the BTL loan (other than sale of property); the details of the repayment strategy(s) can be captured on the additional information section of the online application form.
-
 
 ## SECTION 38 – Joint Borrower Sole Owner
 
@@ -632,7 +590,6 @@ We may consider Joint Borrower Sole Owner (JBSO) applications for Buy to Let mor
 * The application meeting standard affordability requirements
 
 For remortgage applications, Joint Borrower Sole Owner arrangements may be considered where additional fees usually apply. Please contact us to discuss individual cases.
-
 
 ## SECTION 39 – Leasehold
 
@@ -645,11 +602,9 @@ Leases:
 * Leases which contain a provision for periodic increase of the ground rent are acceptable if the amount remains reasonable throughout its term. Increases should usually be linked to RPI or similar. If subject to a multiplier, any multipliers which cause a doubling of rent every period of 15 years or less are not permitted
 * Ground rent must not exceed £250 per annum at any point during the lease term. In Greater London it's £1,000. We don't accept indemnity policies for this matter, instead leases must be varied so that the ground rent does not rise above the threshold
 
-
 ## SECTION 40 – Legal Panel
 
 Clydesdale Bank have an approved panel of solicitors and licensed conveyancers to provide legal services to customers buying a property and remortgaging. For further information including the list of the approved firms, please visit the Clydesdale Bank Approved Legal Panel page.
-
 
 ## SECTION 41 – Lending Into Retirement
 
@@ -658,7 +613,6 @@ After or Approaching Retirement:
 
 Over 10 Years Before Retirement:
 * If the term extends to or beyond the customer's declared retirement date or their 71st birthday but the customer is not within 10 years of either date, we don't need proof of income in retirement but we do need to see that the customer is paying in to a pension plan
-
 
 ## SECTION 42 – Lending Limits
 
@@ -671,7 +625,6 @@ A maximum of 8 properties are allowed in the total portfolio.
 We can only lend to portfolio landlords if they are requesting a remortgage with no additional borrowing.
 
 London and South East defined as Greater London (postcodes E, EC, N, NW, SE, SW, W, WC, BR, CR, DA, EN, HA, IG, KT, RM, SM, TW, or UB), Berkshire, Buckinghamshire, East Sussex, Hampshire, Isle of Wight, Kent, Oxfordshire, Surrey and West Sussex.
-
 
 ## SECTION 43 – Let-To-Buy
 
@@ -693,7 +646,6 @@ We will require confirmation of the expected rental income from the existing pro
 * A valid Assured Shorthold Tenancy (AST) agreement; or
 * An independent valuation carried out by the external mortgage provider confirming the expected rental income
 
-
 ## SECTION 44 – Loan Purpose
 
 The loan purpose must be legal and genuine. Capital raising is permitted as part of a re-mortgage application or against an unencumbered property for:
@@ -704,7 +656,6 @@ The loan purpose must be legal and genuine. Capital raising is permitted as part
 We cannot lend for business purposes.
 
 For further guidance please contact us.
-
 
 ## SECTION 45 – Loan Size
 
@@ -720,7 +671,6 @@ Note: We offer various repayment strategies for Interest Only Buy to Let lending
 
 Location Details: For loans above £1,000,000, the property must be in London or South East England. This includes Greater London (postcodes starting with E, EC, N, NW, SE, SW, W, WC, BR, CR, DA, EN, HA, IG, KT, RM, SM, TW, or UB) as well as Berkshire, Buckinghamshire, East Sussex, Hampshire, Isle of Wight, Kent, Oxfordshire, Surrey, and West Sussex.
 
-
 ## SECTION 46 – Lump Sum Payments
 
 The flexibility of our mortgage products allow our customers the option of making lump sum payments in addition to their regular payment amount. Lump sum payments can only be lodged once the first payment has been credited to the mortgage account.
@@ -729,11 +679,9 @@ Our fixed rate products allow customers to make lump sum payments of up to 10% o
 
 It is important to note that customers cannot reduce their regular payment amount following a lump sum payment if they are still in a fixed or discounted period.
 
-
 ## SECTION 47 – Maximum Age
 
 We will accept applications for Buy to Lets up to the age of 75 at the end of the mortgage term.
-
 
 ## SECTION 48 – Maximum Ltv
 
@@ -768,7 +716,6 @@ Special Condition for Larger Loans: If you're borrowing more than £1,000,000, t
 New Build Flats:
 * For new build flats, the maximum LTV is 70% of the property value
 
-
 ## SECTION 49 – Maximum Number Of Buy To Lets
 
 * The maximum number of buy to let mortgages available to an individual is 3, with a maximum total borrowing of £1,000,000 with us (this increases to £1,500,000 provided no more than £1,000,000 is outside of London and South East England)
@@ -776,7 +723,6 @@ New Build Flats:
 * We can only lend to portfolio landlords if they are requesting a remortgage with no additional borrowing
 
 London & South East defined as: Greater London (post codes starting E, EC, N, NW, SE, SW, W, WC, BR, CR, DA, EN, HA, IG, KT, RM, SM, TW, or UB), Berkshire, Buckinghamshire, East Sussex, Hampshire, Isle of Wight, Kent, Oxfordshire, Surrey, West Sussex
-
 
 ## SECTION 50 – Minimum Income
 
@@ -786,18 +732,15 @@ Please note: We require evidence of income for all applications, income must be 
 
 Here are our packaging requirements.
 
-
 ## SECTION 51 – Minimum Term
 
 5 years (or the product term if longer).
-
 
 ## SECTION 52 – Mortgage Free Property (Unencumbered)
 
 One free standard valuation is available on properties worth £3m, or less.
 
 Please ensure your clients solicitor is listed on the bank's Approved Legal Panel.
-
 
 ## SECTION 53 – Multi Unit Freehold Blocks (Mufbs)
 
@@ -809,7 +752,6 @@ For all types of property our valuers must be able to find suitably comparable p
 
 If the flats were on individual leasehold titles, we would require separate mortgage applications per flat.
 
-
 ## SECTION 54 – Neighbouring Land
 
 Where the applicant owns land that neighbours the security property, we will need a mortgage over the neighbouring land as well. 
@@ -819,7 +761,6 @@ This will only apply if:
 * Services for the security property run over the neighbouring land
 
 This won't apply where the applicant owns multiple flats in a building.
-
 
 ## SECTION 55 – New Build
 
@@ -839,13 +780,11 @@ Incentives:
 * Cash Incentives: Cash incentives are allowed up to 5% of the purchase price. This includes cashback deals, Stamp Duty paid, payment of professional fees (e.g., solicitors, surveyors, etc.), and guaranteed rental payments for a specific period. All these are considered cash incentives
 * Non-Cash Incentives: Non-cash incentives include items fixed or fitted to the property or white goods. These are accepted without affecting the loan amount
 
-
 ## SECTION 56 – Offers
 
 Mortgage offers are valid for a period of 6 months from the date of issue. If completion does not take place within this period, a new offer may be required subject to re-assessment of the application and current lending criteria.
 
 We may extend the offer validity period in exceptional circumstances. Please contact us to discuss if an extension is required.
-
 
 ## SECTION 57 – Offset
 
@@ -888,7 +827,6 @@ For interest-only mortgages, the offset benefit allows a portion of the monthly 
 What Happens If a Customer Fully Offsets Their Mortgage Balance?
 If the total credit balance across the offset portfolio exceeds the mortgage balance, the customer pays no interest. Their monthly repayment then reduces the capital (outstanding balance), and they earn credit interest on the overall offset balance. For a detailed breakdown of interest charged, customers can contact our Mortgage Services Team at 0800 121 4203.
 
-
 ## SECTION 58 – Parental Leave
 
 If an applicant is on parental leave (e.g., maternity or paternity leave):
@@ -897,7 +835,6 @@ If an applicant is on parental leave (e.g., maternity or paternity leave):
 * Any anticipated childcare costs must be included in the application
 
 For packaging requirements, please refer to our packaging guide.
-
 
 ## SECTION 59 – Portfolio Landlords
 
@@ -918,11 +855,9 @@ Limits:
 * The maximum number of BTLs with Clydesdale Bank is 3, with a maximum total borrowing of £1 million (£1.5 million if £500k or more of the mortgages are on properties in the Greater London area)
 * We cannot lend to anyone who has more than 8 BTLs in their portfolio, whether or not they are mortgaged
 
-
 ## SECTION 60 – Probation
 
 If the customer is in probation or has not been in their current job for 6 months, this is acceptable as long as they have a permanent contract (as opposed to short term) and they've received their first payslip.
-
 
 ## SECTION 61 – Processing
 
@@ -1083,18 +1018,15 @@ Important notes:
 * This information is for mortgage intermediaries/professional advisers
 * Always ensure any reproduced information for retail clients meets FCA MCOB rules
 
-
 ## SECTION 62 – Procurement Fee
 
 Procuration fees will be paid in accordance with your contract with the Bank.
-
 
 ## SECTION 63 – Product Fees
 
 The product fee can be added to the loan, provided the total borrowing does not exceed 95% LTV for a residential loan, or 80% LTV for Buy to Let.
 
 Please see the Loan To Value section for more information on our LTV restrictions.
-
 
 ## SECTION 64 – Product Switching
 
@@ -1106,7 +1038,6 @@ We allow product switching on pipeline cases, which means you can switch your cu
 * Once we've changed the product, we'll send a new offer to the customer. If the case is not yet at offer stage, we'll send an updated illustration instead
 
 Please note: We allow product switching on Product Transfer pipeline cases for existing customers too.
-
 
 ## SECTION 65 – Product Transfer
 
@@ -1130,7 +1061,6 @@ During the final 3 months of a new product switch application, customers can mak
 
 All our current on-sale products are available to product transfer customers, provided the above criteria and product conditions are met. For full product information, please visit our Products pages.
 
-
 ## SECTION 66 – Promotion Or Pay Rise
 
 If an applicant has recently received a promotion or pay rise, we may be able to use the new income level subject to:
@@ -1139,7 +1069,6 @@ If an applicant has recently received a promotion or pay rise, we may be able to
 * The increase being sustainable and permanent (not temporary)
 
 For significant increases or where the promotion is very recent, we may require additional evidence or may use a blended approach. Please contact us to discuss individual cases.
-
 
 ## SECTION 67 – Property
 
@@ -1268,7 +1197,6 @@ Escalating Ground Rent:
 * If subject to a multiplier, any multipliers causing a doubling of rent every period of 15 years or less are not permitted
 * If you are unsure if the lease terms are unreasonable, please refer the details to us
 
-
 ## SECTION 68 – Proof Of Rental Payments
 
 We accept the following documents from the client to evidence the rental income they are receiving from their existing buy-to-let properties:
@@ -1280,16 +1208,13 @@ Property Rental Income:
 
 In addition, for any new Buy to Let properties, we will instruct a professional valuation and use the rental income estimated by the valuer within our application.
 
-
 ## SECTION 69 – References
 
 All applications will be subject to a credit search and credit score. We may also request full references or telephone references from an employer or accountant.
 
-
 ## SECTION 70 – Regulated Btl
 
 We do not accept applications for MCOB Regulated Buy to Let mortgages. All Buy to Let applications must be non-regulated.
-
 
 ## SECTION 71 – Remortgage Package
 
@@ -1304,7 +1229,6 @@ In the following circumstances (not exhaustive) the standard legal fees incentiv
 
 Customers who want to appoint their own legal rep can do so at their own cost. Their chosen legal rep will act for the customer and Virgin Money and must be on our Approved Legal Panel.
 
-
 ## SECTION 72 – Rental Calculation
 
 We don't have a minimum rental cover requirement.
@@ -1317,7 +1241,6 @@ When calculating affordability for a Buy to Let application we will take the fol
 
 Please use our affordability calculator to find out how much your customers can borrow.
 
-
 ## SECTION 73 – Rental Cover
 
 We don't have a minimum rental cover requirement. Instead, we conduct an overall affordability assessment that takes into account:
@@ -1329,7 +1252,6 @@ We don't have a minimum rental cover requirement. Instead, we conduct an overall
 
 Please use our affordability calculator to find out how much your customers can borrow.
 
-
 ## SECTION 74 – Replacement Property
 
 If your client is selling their existing Buy to Let property and purchasing a replacement Buy to Let property, we may consider the application subject to:
@@ -1340,7 +1262,6 @@ If your client is selling their existing Buy to Let property and purchasing a re
 * Maximum LTV restrictions being met
 
 For further guidance, please contact us before submitting an application.
-
 
 ## SECTION 75 – Repayment Strategies For Interest Only Mortgages
 
@@ -1355,7 +1276,6 @@ If the client advises they have an alternate repayment strategy to repay the cap
 
 For further guidance, please contact us to discuss individual cases.
 
-
 ## SECTION 76 – Residency
 
 All applicants must have a minimum of 3 years UK address history.
@@ -1364,13 +1284,11 @@ We do not lend to ex-pats or applicants who are not resident in the UK.
 
 For foreign nationals, please refer to the Foreign Nationals section for specific requirements.
 
-
 ## SECTION 77 – Right To Buy
 
 We do not accept Buy to Let applications for Right to Buy properties still within the discount repayment period.
 
 For Right to Buy properties outside the discount repayment period, standard Buy to Let criteria apply.
-
 
 ## SECTION 78 – Second Jobs
 
@@ -1382,7 +1300,6 @@ We accept 100% of income from a second job, provided:
 
 For packaging requirements, please refer to our packaging guide.
 
-
 ## SECTION 79 – Self Build, Shared Ownership Or Shared Equity
 
 We do not accept Buy to Let applications for:
@@ -1392,7 +1309,6 @@ We do not accept Buy to Let applications for:
 * Shared equity properties
 
 These property types are not suitable for Buy to Let lending purposes.
-
 
 ## SECTION 80 – Self Employed
 
@@ -1415,7 +1331,6 @@ For full details, refer to our Self-Employed Income Policy and packaging require
 
 Important: If your customer has BTLs, also see Rental income section.
 
-
 ## SECTION 81 – Solicitors
 
 Clydesdale Bank has an approved panel of solicitors and licensed conveyancers to provide legal services to customers buying a property and remortgaging.
@@ -1424,18 +1339,15 @@ For remortgage applications with our remortgage package, we'll choose a firm to 
 
 For further information including the list of approved firms, please visit the Clydesdale Bank Approved Legal Panel page.
 
-
 ## SECTION 82 – Student Lettings
 
 We do not accept Buy to Let applications for properties that are let or intended to be let specifically to students under student letting arrangements.
 
 Standard Buy to Let properties that happen to be let to students may be considered, subject to standard criteria and valuer assessment.
 
-
 ## SECTION 83 – Telegraphic Transfer
 
 For remortgage applications, there will always be a funds transfer fee of up to £35 to send remortgage funds to the existing mortgage provider or the customer's bank account. This fee applies even where free basic legal work is included in the remortgage package.
-
 
 ## SECTION 84 – Tenancy
 
@@ -1452,7 +1364,6 @@ Tenancy agreements should be:
 
 For background Buy to Let properties, please refer to the Background Buy-to-Lets section for evidence requirements.
 
-
 ## SECTION 85 – Term
 
 Minimum Term:
@@ -1462,7 +1373,6 @@ Maximum Term:
 * The mortgage term must not extend beyond the applicant's 75th birthday (75 years and 364 days at the end of the mortgage term)
 
 For lending into retirement, please refer to the Lending into Retirement section.
-
 
 ## SECTION 86 – Top Slicing
 
@@ -1475,7 +1385,6 @@ We may consider top slicing where:
 
 Top slicing is assessed on a case-by-case basis. Please contact us to discuss individual cases before submitting an application.
 
-
 ## SECTION 87 – Transcripts
 
 For Scottish property valuations on residential applications at 90% LTV or below, a transcript from a Home Buyers Report may be accepted if:
@@ -1487,7 +1396,6 @@ For Scottish property valuations on residential applications at 90% LTV or below
 A full bank valuation is needed if outside this criteria.
 
 Note: Transcripts are not accepted for Buy to Let applications.
-
 
 ## SECTION 88 – Undervalue Transactions
 
@@ -1503,25 +1411,19 @@ Note: When an applicant is purchasing a property from a family member separate l
 
 For further details, please refer to the Discounted Purchase section.
 
-
 ## SECTION 89 – Valuation Fees
-
 
 ### Valuation report
 
-
 The only valuation type available is a lender's valuation report which is for Clydesdale to calculate how much we can lend. This may involve a physical inspection of the property or be completed remotely without visiting the property. The customer may want to separately instruct a firm of their choosing to carry out a valuation or survey.
 
-
 ### Fees
-
 
 We offer a range of products with one free valuation for properties valued up to £3m. If the property is valued over £3m we'll cover the first £1,640 of the valuation fee. Our product details will make clear if a free valuation applies.
 
 The fees below include VAT and an administration fee. The cost to Clydesdale may differ from the fee charged.
 
 We may also charge a reinspection fee of £58.75 where a valuation expires and needs to be updated or where work has been carried out and the valuation needs to be updated.
-
 
 ### Valuation fee bands
 

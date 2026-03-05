@@ -1,7 +1,5 @@
 # ATOM BANK – RESIDENTIAL MORTGAGE LENDING CRITERIA
 
----
-
 **LENDER:** Atom Bank
 **PRODUCT:** Residential
 **DOCUMENT TYPE:** Residential lending criteria. 3 sections: 1 Applies to all, 2 Prime, 3 Near Prime.
@@ -17,8 +15,6 @@
 Atom bank plc is authorised by the PRA and regulated by the FCA and the PRA. Financial Services Register number 661960.
 
 **Note:** We take a common sense approach to lending and remortgaging, doing all that we can to help your customer buy their ideal home.
-
----
 
 # SECTION 1 – APPLIES TO ALL
 
@@ -917,8 +913,6 @@ Please be aware we are unable to accept:
 
 All valuations are valid for 180 days from the date of inspection. If the valuation expires before the offer, the customer may need to pay for a new one.
 
----
-
 # SECTION 2 – PRIME
 
 ## Additional borrowing / capital raising
@@ -1064,8 +1058,6 @@ Short term loans are sometimes associated with customers in financial difficulty
 
 If an applicant has opened any short term loans within the last 12 months, the application will be declined.
 
----
-
 # SECTION 3 – NEAR PRIME
 
 ## CCJs
@@ -1108,8 +1100,6 @@ Includes all credit items, including but not limited to; credit cards, unsecured
 
 Applicants must be up to date at the point of application.
 
----
-
 **FOR INTERMEDIARY USE ONLY**
 
 "Atom bank" and "Atom" are trading names of Atom bank plc, a company registered in England and Wales with company number 08632552. Registered office: The Pattern Shop, Sussex Street, Newcastle upon Tyne, NE1 3PD.
@@ -1117,5 +1107,3 @@ Applicants must be up to date at the point of application.
 Atom bank plc is authorised by the Prudential Regulation Authority (PRA) and regulated by the Financial Conduct Authority and the PRA. Our Financial Services Register number is 661960.
 
 **Contact:** [Contact us](https://www.atombank.co.uk/intermediaries/residential/contact-us/) | [Intermediary Support Team](https://www.atombank.co.uk/intermediaries/residential/contact-us/)
-
----

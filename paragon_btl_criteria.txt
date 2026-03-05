@@ -1,462 +1,493 @@
-LENDER NAME: Paragon
+# PARAGON BANK – BUY TO LET LENDING CRITERIA
+
+LENDER: Paragon Bank
 PRODUCT: Buy to Let
+DOCUMENT TYPE: Buy to Let Criteria.
+SOURCE: [https://www.paragonbank.co.uk/intermediary/btl](https://www.paragonbank.co.uk/intermediary/btl)
+LAST UPDATED: 2025
 
-# Paragon Bank - Buy-to-Let Mortgage Lending Criteria
+IMPORTANT:
+This document covers Buy to Let criteria only. For intermediary use only; for use by authorised intermediaries and should not be relied upon by anyone else.
 
-**Last Updated:** 2025
-**Source:** Paragon Bank Intermediaries
-**For Intermediaries Only**
-
----
+RAG convention: Where applicable, criteria use explicit labels Maximum: Minimum: Allowed: Not Acceptable: Condition: so that rules are self-contained for retrieval.
 
 ## Document Information
 
 This document contains comprehensive buy-to-let mortgage lending criteria covering all topics from the Paragon Bank lending guidelines.
 
-**Note:** Where an application falls outside these guidelines, we would be happy to discuss it with you. Or, if you have an application you'd like to talk to us about before you submit it, simply call us and we'll be happy to help.
+Note: Where an application falls outside these guidelines, we would be happy to discuss it with you. Or, if you have an application you'd like to talk to us about before you submit it, simply call us and we'll be happy to help.
 
-**Website:** https://www.paragonbank.co.uk
-**Website:** https://www.paragonbank.co.uk/btbdocuments/Intermediary
-**Website:** https://www.paragonbank.co.uk/btldocuments/intermediary
-**Website:** https://www.paragonbank.co.uk/intermediary/btl
-**Website:** https://www.paragonbank.co.uk/personal/mortgages/buy-to-let/consumer-buy-to-let.
-**Website:** https://www.paragonbank.co.uk/resources/paragonbank/documents/mortgages/buy-to-let/both/buy-to-let-lending-guidelines
-**Email:** btlenquiries@paragonbank.co.uk
-**Phone:** 03458494040
-**Address:** 51 Homer Road, Solihull, West Midlands B91 3QJ
-
----
-
-## Table of Contents
-
-This guide contains 16 main sections organized by topic:
-
-
-### Application Process
-
-1. Submission Requirements
-
-### Loan Details
-
-2. Loan Requirements
-3. Income / Affordability
-
-### Applicant Requirements
-
-4. Personal Details
-5. Credit History
-6. Employment
-
-### Property Requirements
-
-7. Property
-8. Letting Requirements
-10. Property Insurance
-
-### Legal and Administrative
-
-9. Solicitors
-11. Underwriting
-12. Products and Fees
-13. Direct Debit Instructions
-14. Product Switches
-15. Offer of Loan
-
-### Special Products
-
-16. Refurb-to-Let
-
----
+Website: [https://www.paragonbank.co.uk](https://www.paragonbank.co.uk)
+Website: [https://www.paragonbank.co.uk/btbdocuments/Intermediary](https://www.paragonbank.co.uk/btbdocuments/Intermediary)
+Website: [https://www.paragonbank.co.uk/btldocuments/intermediary](https://www.paragonbank.co.uk/btldocuments/intermediary)
+Website: [https://www.paragonbank.co.uk/intermediary/btl](https://www.paragonbank.co.uk/intermediary/btl)
+Website: [https://www.paragonbank.co.uk/personal/mortgages/buy-to-let/consumer-buy-to-let](https://www.paragonbank.co.uk/personal/mortgages/buy-to-let/consumer-buy-to-let)
+Website: [https://www.paragonbank.co.uk/resources/paragonbank/documents/mortgages/buy-to-let/both/buy-to-let-lending-guidelines](https://www.paragonbank.co.uk/resources/paragonbank/documents/mortgages/buy-to-let/both/buy-to-let-lending-guidelines)
+Email: [btlenquiries@paragonbank.co.uk](mailto:btlenquiries@paragonbank.co.uk)
+Phone: 03458494040
+Address: 51 Homer Road, Solihull, West Midlands B91 3QJ
 
 ## Submission Requirements
 
-Although every application will have a bespoke list of submission requirements, you may be asked to provide some or all of the following. If you can't provide the required documents during the online application, please make sure you send them to us within 24 hours of making your application as we won't be able to fully underwrite your case until we receive these.
+Although every application may have different submission requirements, the following documents may be requested. Documents not uploaded during the online application must be provided within **24 hours**.
 
-| Requirement | Landlords with four or more buy-to-let properties, and HMO and multi-unit block applications | Limited companies | Landlords with three or fewer buy-to-let properties |
-|:------------|:----------------------------------------------------------------------------------------------|:-------------------|:-----------------------------------------------------|
-| Fully completed online application | ✓ | ✓ | ✓ |
-| Fully completed property schedule (We can accept your own property schedule, providing it contains all of our required fields) | Only required if the landlord owns four or more buy-to-let properties | Only required if the limited company owns four or more buy-to-let properties | Will be required for refurb-to-let applications |
-| If employed: the last three months' payslips | ✓ | Only required if the Guarantors sole income is from employment | ✓ |
-| If self-employed, the last two years: SA302 tax calculations (or equivalent), Tax Year Overview, Tax return / SA100 | Sole traders and for rental income from property held in personal name | However, we will need to verify the income declared | SA302 tax calculations only |
-| For limited companies whose principal purpose is holding buy-to-let property: the last two years accounts (if available), prepared by a qualified member of an accountancy body acceptable to us | | If self-employed, we will require SA302 tax calculations (or equivalent) | |
-| The last three months' rental bank statements (To confirm all rental income and investment mortgage payments across all portfolios) | Only required if the landlord owns four or more buy-to-let properties | | |
-| For refurb-to-let applications: schedule of works, evidence of funds to complete works | ✓ | ✓ | ✓ |
+Fully completed online application: Required for all applications
 
----
+Property schedule:
+
+* Required for landlords with four or more buy-to-let properties
+* Required for limited companies with four or more buy-to-let properties
+* Required for refurb-to-let applications
+
+Employed applicants:
+
+* Last 3 months’ payslips
+
+Self-employed applicants:
+
+* Last 2 years SA302 tax calculations or equivalent
+* Tax Year Overview
+* Tax return / SA100 (for sole traders or personal rental income)
+
+Limited company accounts:
+
+* Last 2 years accounts where available
+* Must be prepared by an acceptable qualified accountant
+
+Rental bank statements:
+
+* Last 3 months required where landlord owns four or more buy-to-let properties
+
+Refurb-to-let applications:
+
+* Schedule of works
+* Evidence of funds to complete works
 
 ## Loan Requirements
 
-### Minimum Loan Amount (excluding any fees added to the loan)
+Minimum loan amount:
 
-* Purchase/Remortgage: £30,000
+* Purchase or remortgage: £30,000
 * Further advance: £5,000
 
-### Minimum Property Valuation
-
-£75,000
+Minimum property valuation: £75,000
 
 ### Loan to Value (LTV)
 
-The maximum loan to value per property for purchases, remortgages and further advances (including any existing loans and further advances) is as follows:
+Individuals with three or fewer mortgaged buy-to-let properties:
 
-**For individuals with three or fewer mortgaged buy-to-let properties:**
+* 70% LTV: Maximum loan £1,500,000
+* 75% LTV: Maximum loan £1,000,000
+* 80% LTV: Maximum loan £750,000
 
-* up to 70% LTV: maximum loan up to £1,500,000
-* up to 75% LTV: maximum loan up to £1,000,000
-* up to 80% LTV: maximum loan up to £750,000
+Individuals with four or more mortgaged buy-to-let properties, limited companies, HMOs or multi-unit blocks:
 
-**For individuals with four or more mortgaged buy-to-let properties, limited companies and applications for Houses in Multiple Occupation (HMO) or multi-unit blocks:**
+* 65% LTV: Maximum loan £4,000,000
+* 70% LTV: Maximum loan £1,500,000
+* 75% LTV: Maximum loan £1,000,000
+* 80% LTV: Maximum loan £750,000
 
-* up to 65% LTV: maximum loan up to £4,000,000
-* up to 70% LTV: maximum loan up to £1,500,000
-* up to 75% LTV: maximum loan up to £1,000,000
-* up to 80% LTV: maximum loan up to £750,000
+Fees added to the loan:
 
-Any fees added to the loan will be taken into account for higher LTV applications and included within both the maximum loan available and LTV calculations. The total amount of the loan, plus any fees added, must not exceed 80% LTV.
+* Included in LTV and maximum loan calculations
+* Total borrowing including fees must not exceed 80% LTV
 
 ### Maximum Aggregate Borrowing
 
-**For individuals with three or fewer mortgaged buy-to-let properties:**
+Individuals with three or fewer mortgaged buy-to-let properties: £2,000,000
 
-£2,000,000 (including any fees added to the loans)
+Individuals with four or more mortgaged buy-to-let properties, limited companies, HMOs or multi-unit blocks: £10,000,000
 
-**For individuals with four or more mortgaged buy-to-let properties, limited companies and applications for Houses in Multiple Occupation (HMO) or multi-unit blocks:**
+Portfolio exposure conditions:
 
-£10,000,000 (including any fees added to the loans)
+* Up to £5,000,000 exposure: Maximum portfolio LTV 80%
+* Above £5,000,000 exposure: Maximum portfolio LTV 75%
+* New lending above £5,000,000 exposure: Maximum 70% LTV per property
 
-Where a total mortgage exposure is less than or equal to £5,000,000 (including any fees added to the loans), the portfolio LTV cannot exceed 80%.
+Where aggregate lending with Paragon exceeds £2,000,000:
 
-Where a total mortgage exposure is above £5,000,000 (including any fees added to the loans), the portfolio LTV cannot exceed 75%.
-
-All new lending where the total mortgage exposure is currently above £5,000,000 will be subject to a maximum LTV of 70% per property.
-
-Where aggregate lending with Paragon Banking Group is in excess of £2,000,000 (including any fees added to the loans), this will be subject to additional underwriting and will require:
-
-* A portfolio review meeting with a senior underwriter
-* Cash flow forecast*
-* Business plan*
-* Net worth statement*
-
-*Electronic copies are available on our website www.paragonbank.co.uk/btbdocuments/Intermediary
+* Portfolio review meeting with senior underwriter
+* Cash flow forecast required
+* Business plan required
+* Net worth statement required
 
 ### Loan Purpose
 
-We will consider applications for either the purchase or remortgage of buy-to-let properties and further advances.
+Accepted purposes:
 
-We will only consider capital raising for the purpose of owning and renting residential property.
+* Purchase of buy-to-let property
+* Remortgage of buy-to-let property
+* Further advance
 
-For remortgage / capital raising applications, properties must be owned in the name of all applicants.
+Capital raising: Only accepted for owning and renting residential property
 
-### Purchase Application
+Remortgage ownership requirement:
 
-The loan amount will be calculated using the lower of the purchase price or the current valuation.
+* Property must be owned by all applicants
 
-All deposit funds must originate from the UK, and we may need proof of the source of these funds.
+### Purchase Applications
 
-Where the whole balance of the purchase price is not coming from the applicants' own funds, full details will be required.
+Loan calculation basis: Lower of purchase price or current valuation
 
-### Remortgage Application
+Deposit funds:
 
-We will consider remortgage applications where the applicant has been the registered proprietor for less than six months. However, the loan amount will be based upon the lower of the purchase price or current valuation.
+* Must originate from the UK
+* Source of funds must be evidenced
 
-We may consider using the current valuation where it can be demonstrated that since the date of purchase, significant improvement works which have enhanced the property value have been carried out. In these instances, a schedule of works and evidence of expenditure will be required.
+### Remortgage Applications
 
-The property must be registered at the Land Registry (or in Scotland, Registers of Scotland) as owned by the applicant(s), at the date of completion.
+Ownership requirement: Property may have been owned for less than 6 months
+
+Loan calculation basis: Lower of purchase price or current valuation
+
+Current valuation may be used if:
+
+* Significant improvement works completed
+* Evidence of expenditure and schedule of works provided
+
+Ownership registration: Property must be registered in applicant name at Land Registry or Registers of Scotland before completion
 
 ### Consumer Buy-to-Let
 
-We will accept applications that qualify as consumer buy-to-let mortgage contracts, if the appropriate criteria is being met.
-
-More information about consumer buy-to-let can be found on our website at www.paragonbank.co.uk/personal/mortgages/buy-to-let/consumer-buy-to-let.
+Consumer buy-to-let applications: Accepted subject to meeting relevant criteria
 
 ### Mortgage Term
 
-* Minimum: 5 years
-* Maximum: 35 years
+Minimum term: 5 years
+Maximum term: 35 years
 
-The mortgage term for a further advance must match the remaining term of the existing mortgage.
+Further advances: Must match the remaining term of the existing mortgage
 
 ### Repayment Methods
 
-Interest only, capital and interest repayment, and part interest only and part capital repayment loans are available.
+Allowed repayment methods:
+
+* Interest only
+* Capital and interest
+* Part interest only and part capital repayment
 
 ### Property Investment Clubs and Syndicates
 
-We will not accept applications where the property is being purchased or refinanced through, or where the applicant is in any way connected to, a property investment club or syndicate.
-
----
+Applications connected to property investment clubs or syndicates: Not accepted
 
 ## Income / Affordability
 
-We will assess the affordability of a mortgage based on the expected monthly income generated from letting the property to a tenant. The actual income generated may be different and can be influenced over time by changes within the rental market.
+Affordability assessment: Based primarily on expected rental income
 
-The applicant(s) will remain responsible for meeting the costs of the mortgage and the additional costs associated with letting the property for the duration of the mortgage.
+Applicants remain responsible for covering:
+
+* Mortgage payments
+* Property letting costs
+* Any rental shortfalls
 
 ### Income
 
-Applicants should have a minimum combined gross annual income of £25,000 per annum.
+Minimum income: £25,000 combined gross annual income
 
-All income must be evidenced and can include:
+Acceptable income sources:
 
-* gross employment income
-* taxable self-employed income
-* occupational or private pension income
-* state pension income
+* Employment income
+* Self-employed income
+* Occupational pension income
+* Private pension income
+* State pension income
 
-However, we understand the specialist nature of a landlords' income structure. So, where a landlord or limited company has four or more properties, and can't meet the £25,000 minimum income, but can demonstrate they have sufficient income to cover their existing expenditure, we will consider and assess these applications on a case-by-case basis.
+Applicants with four or more properties or limited companies:
 
-**For individuals with three or fewer mortgaged buy-to-let properties:**
+* Applications may be considered without the £25,000 minimum if financial position is sufficient
 
-State benefits, investment income and income derived from Land and Property will not be considered but may be taken into account when calculating the tax band applicable to an applicant.
+Income restrictions:
 
-**For individuals with four or more mortgaged buy-to-let properties, limited companies and applications for Houses in Multiple Occupation (HMO) or multi-unit blocks:**
+Individuals with three or fewer buy-to-let properties:
 
-State benefits and investment income will not be considered but may be taken into account when calculating the tax band applicable to an applicant.
+* State benefits: Not considered
+* Investment income: Not considered
+* Land and property income: Not considered
 
-The useable income figure in respect of Land and Property income will be derived by deducting the total amount of 'residential finance costs' from the 'taxable profit for the year' figure, in line with current tax calculation requirements. For more information about this, please see our **how to calculate usable income for landlords guide.**
+Individuals with four or more buy-to-let properties, limited companies, HMOs or multi-unit blocks:
 
-### Affordability
+* State benefits: Not considered
+* Investment income: Not considered
 
-Any fees that will be added to the loan will be included in the loan amount used in both the current and future affordability calculations.
+Land and property income for portfolio landlords:
 
-All applications will be subject to validation of:
+* Calculated using taxable profit minus residential finance costs
 
-* The income requirements above
-* The gross rental income from the property equalling or exceeding the Interest Cover Ratio (ICR), as determined using a combination of the tax band applicable to an applicant's income and the property type. The tax band applicable to the applicant with the highest income will be used.
+### Affordability Calculations
 
-All calculations will be based on either the current reference rate published on our website and in our product guides, or the product charging rate plus 2%, whichever is the greater. The exception to this is our five year fixed rate products, which will be calculated using either the current five year fixed reference rate published on our website and in our product guides, or the product charging rate, whichever is the greater. Some products may be subject to an individual reference rate, but where this is the case, it will be clearly indicated within the product details.
+Affordability validation based on:
 
-Future affordability will also be taken into account and may limit the maximum loan amount available. Before submitting an application, please ensure you check how much we may be able to lend your client by using our online calculator, which can be found on our website www.paragonbank.co.uk/intermediary/btl
+* Verified income
+* Rental income meeting Interest Cover Ratio (ICR)
 
-For further advances, the affordability assessment will take into account both the proposed advance (including fees added to the loan) and the existing loans secured against the property.
+Calculation rate:
 
-**Tax Band and ICR (Interest Cover Ratio) Levels:**
+* Product rate + 2% or reference rate (whichever is higher)
+* For 5-year fixed rates: product rate or 5-year reference rate (whichever is higher)
 
-**For single self-contained properties:**
-* Basic rate tax payers (20%) and limited companies: 125%
-* Higher rate tax payers (40%) and additional rate tax payers (45%): 140%
+Future affordability: Also assessed
 
-**For HMOs, multi-unit blocks, and all other property types:**
-* Basic rate tax payers (20%) and limited companies: 130%
-* Higher rate tax payers (40%) and additional rate tax payers (45%): 145%
+Further advances:
 
-We must be satisfied that the applicant(s) can withstand increases in mortgage interest rates, cover rental voids, and afford the mortgage both now and after any fixed or discounted period expires. We may request evidence of contingency funds to support increased mortgage payments and may decline an application if we believe the applicant will not be able to meet mortgage payments should interest rates increase.
+* Assessment includes existing loans and proposed borrowing
 
-The ICR calculation is determined by multiplying the amount of loan by the ICR calculation rate and the ICR tax band percentage, resulting in the minimal rental income required to borrow the requested amount of loan.
+### Interest Cover Ratio (ICR)
 
----
+Single self-contained properties:
+
+* Basic rate taxpayers (20%) and limited companies: 125%
+* Higher/additional rate taxpayers: 140%
+
+HMOs, multi-unit blocks and other property types:
+
+* Basic rate taxpayers (20%) and limited companies: 130%
+* Higher/additional rate taxpayers: 145%
+
+Lenders may request:
+
+* Evidence of contingency funds
+* Additional affordability checks
 
 ## Personal Details
 
 ### Applicants
 
-**Age at application:**
-* Minimum: 21 years old
-* The applicant(s) should not be over 85 years old at the end of the mortgage term.
+Minimum age: 21
+Maximum age at end of term: 85
 
-**Identity:**
-* Applications will be considered for up to four individuals who should all have been resident and liable to tax in the UK for a minimum of the last two years.
-* All applicants must have indefinite leave to remain in the UK.
-* At least one applicant must be the owner of a residential property or residential investment property.
-* Further advance applicants must match those who are party to the existing mortgage.
+Applicants:
 
-Where the identity of all applicants cannot be established through the underwriting process, we will require proof of identity verified by the solicitor or mortgage intermediary. We will also accept documents certified as true copies of the originals if verified using the Post Office Identity Document Checking Service.
+* Maximum 4 individuals
+
+Residency requirement: Resident and liable to UK tax for minimum 2 years
+
+Immigration status: Indefinite leave to remain required
+
+Ownership requirement: At least one applicant must own a residential property
+
+Further advance applicants: Must match existing mortgage parties
+
+Identity verification:
+
+* Required if identity cannot be verified through underwriting
+* Certified documents accepted via solicitor or intermediary
+* Post Office Identity Document Checking Service accepted
 
 ### Limited Companies / LLPs
 
-**Limited companies and limited liability partnerships (LLPs):**
+Limited companies and LLPs:
 
-Applications will be considered from limited companies and LLPs registered and trading in England, Wales or Scotland. All directors / members should have been resident and liable to tax in the UK for a minimum of the last two years.
+* Must be registered and trading in England, Wales or Scotland
+* Directors or members must have been resident and liable to UK tax for at least 2 years
 
-* The company or LLP must have been incorporated for the principal activity of buying and holding residential investment property. This must continue to be its principal activity. All other activities must be disclosed at application for further consideration
-* We will always let you know when additional security in the form of a floating charge will be required. This will be for companies that have material assets and business activities other than holding and letting residential investment property
-* All members of an acceptable LLP must be designated members
-* LLPs with corporate members are not acceptable
-* Full personal guarantees must be available from all directors and members on a joint and several basis. The company or LLP must have a maximum of four directors or members who each satisfy our lending criteria
-* At least 80% of the applicant company shares should be owned by the directors and guarantors in their personal names. Alternatively, the shares may be held by a holding company, provided the shareholders and directors are the same as the applicant company
-* Persons with significant control must be registered at Companies House and be party to the mortgage application
+Company purpose: Principal activity must be buying and holding residential investment property
 
-We reserve the right to request full personal guarantees from significant shareholders.
+Floating charge:
 
----
+* May be required where companies have other material business activities
+
+LLP requirements:
+
+* All members must be designated members
+* LLPs with corporate members are not accepted
+
+Guarantees:
+
+* Full personal guarantees required from all directors or members
+
+Company ownership:
+
+* Maximum 4 directors or members
+* At least 80% of shares owned by directors/guarantors personally or through holding company with same ownership
+
+Persons with significant control:
+
+* Must be registered at Companies House
+* Must be party to the mortgage application
 
 ## Credit History
 
-We will undertake a comprehensive review of the credit history for each applicant, including a credit search and their credit score.
+Credit assessment: Comprehensive review including credit search and credit score
 
-We will not consider applications where an applicant:
+Applications will not be considered where an applicant:
 
-* has historic or current county court judgements
-* is an historic or current disqualified director
-* has evidence of poor credit history such as defaults or arrears
+* Has current or historic county court judgements
+* Is a current or historic disqualified director
+* Has poor credit history including defaults or arrears
 
-We reserve the right to obtain a new credit search at any time, and any change in the applicants' credit history could lead to the application being reviewed.
-
----
+Lender may conduct additional credit searches during application processing.
 
 ## Employment
 
-At least one applicant must be employed or self-employed as defined below.
+Employment requirement: At least one applicant must be employed or self-employed.
 
 ### Employed Applicants
 
-* Applicants must be in permanent non-probationary employment.
-* Applicants on long term contract work will be considered on an individual basis.
+Employment type: Permanent employment
+
+Probationary period: Must not be in probation
+
+Contract workers: Considered on a case-by-case basis
 
 ### Self-Employed Applicants
 
-* Applicants must have been trading in their present business for a minimum of two years and be able to provide two years accounts and/or tax returns.
-* Applicants who work on a subcontract basis will be treated as self-employed.
-* An applicant will be classed as self-employed where they own 20% or more shareholding of the company or are employed by a family business.
+Minimum trading history: 2 years
+
+Documentation required:
+
+* 2 years accounts or tax returns
+
+Self-employed definition:
+
+* Applicants owning 20% or more of a company
+* Applicants employed by a family business
 
 ### Accepted Accountancy Institutes
 
-Accounts must be prepared by a member of one of the following institutions:
+Accounts must be prepared by members of:
 
 * Institute of Chartered Accountants in England & Wales (ACA/FCA)
 * Institute of Chartered Accountants of Scotland (CA)
-* Association of Chartered Certified Accountants (ACCA / FCCA)
+* Association of Chartered Certified Accountants (ACCA/FCCA)
 * Chartered Institute of Management Accountants (ACMA/FCMA)
 * Association of International Accountants (AAIA/FAIA)
 * Association of Authorised Public Accountants (AAPA/FAPA)
-* Association of Accounting Technicians (MAAT/FMAAT) - Must be a practicing and licensed member under the AAT organisation regulations or work for, and be indemnified by, another accountancy firm with a separate qualification from the above list
-
----
+* Association of Accounting Technicians (MAAT/FMAAT – licensed practising member)
 
 ## Property
 
-### Minimum Property Valuation
-
-£75,000
+Minimum property valuation: £75,000
 
 ### Valuations
 
-We will take a first legal charge and will normally consider most types of traditionally constructed residential property in England, Wales or Scotland.
+Security: First legal charge normally taken
 
-Further advances will be secured by way of a second charge against the property.
+Property types: Traditionally constructed residential property in England, Wales or Scotland
 
-A security assessment and valuation report will be arranged as soon as an application is received. This is to determine the property value, the realistic and sustainable monthly rental income and the suitability of the property for mortgage purposes.
+Further advances: Secured via second charge
 
-Although we will provide you with a copy of the valuation, this is for mortgage lending purposes only. It is not intended to provide a detailed report on the condition of the property, and if this is required, it should be instructed separately by the applicant to be carried out by a suitably qualified independent surveyor.
+Valuation report:
 
-Any property we are considering should be lettable in its current condition.
+* Determines property value
+* Confirms sustainable rental income
+* Assesses suitability as security
 
-Properties that are likely to have low demand from tenants due to their current condition, location or other factors, including poor maintenance or management of common areas, will not normally be acceptable.
+Valuation copies:
 
-We reserve the right to accept or decline any individual property.
+* Provided for lending purposes only
+* Not a full condition survey
 
-Before completion of the loan, a revaluation will be arranged by us, at the applicant's expense, where the initial inspection is more than four months old.
+Property condition: Must be lettable in current condition
 
-The property must comply with the current Energy Performance Certificate (EPC) regulation, and have a minimum rating of E, unless there is an applicable exemption. This will be verified by Paragon and the acting solicitor, and we will not be able to lend on any property that is found not to be compliant. We will be unable to consider a further advance application on any property that does not meet the current EPC regulation. It is the responsibility of the applicant(s) to ensure that the property remains compliant with the EPC regulation for the duration of the mortgage term.
+Revaluation requirement:
+
+* Required if original inspection is older than 4 months
+
+Energy Performance Certificate (EPC):
+
+* Minimum rating E unless exemption applies
+* Compliance required throughout mortgage term
 
 ### Multi-Unit Property
 
-The applicant must have a minimum two years lettings experience as a landlord.
+Minimum landlord experience: 2 years
 
-A single property may be divided into a maximum of 20 units and the following minimum values will apply:
+Maximum units per property: 20
 
-* Up to 10 units, the property value must be greater than or equal to £100,000
-* Up to 20 units, the property value must be greater than or equal to £150,000
+Minimum property values:
 
-If more than one unit (house or flat) is held on a single title and each unit is capable of sale separately, although a valuation based on the total value of all units may be used, a discounted reflecting the value as a single purchase will be applied.
+* Up to 10 units: £100,000
+* Up to 20 units: £150,000
 
-We will not consider properties where more than 50% of the units are on long leases.
+Where units could be sold individually:
 
-At our discretion, and where considered appropriate, an investment valuation may be carried out.
+* Valuation discount applied reflecting single title purchase
 
-Where the property has been purchased in the last 12 months:
+Long lease restriction:
 
-* and there has been an uplift in value, it will be subject to a maximum LTV of 70%
-* but the property value and lending requirements equate to a like for like transaction, we may consider lending more than 70%, subject to product criteria
+* Not accepted if more than 50% units held on long leases
 
-Where the property was purchased more than 12 months ago, and there has been a significant recent uplift in valuation, we may still limit the advance to a maximum LTV of 70%.
+Recent purchases:
+
+* Within 12 months with uplift: Maximum 70% LTV
+* Like-for-like refinancing may exceed 70% subject to product criteria
 
 ### House in Multiple Occupation (HMO)
 
-A property is a HMO if at least three tenants live there, forming more than one household, and sharing toilet, bathroom or kitchen facilities.
+Definition: Property occupied by at least three tenants forming more than one household sharing facilities
 
-The applicant must have a minimum two years' lettings experience as a landlord.
+Minimum landlord experience: 2 years
 
-The following minimum HMO values will apply:
+Minimum property values:
 
-* Up to 10 rooms - the property value must be greater than or equal to £100,000
-* Up to 20 rooms - the property value must be greater than or equal to £150,000
+* Up to 10 rooms: £100,000
+* Up to 20 rooms: £150,000
 
-At our discretion, and where considered appropriate, an investment valuation may be carried out.
+Required documentation for conversions:
 
-Where the property has been purchased in the last 12 months:
-
-* and there has been an uplift in value, it will be subject to a maximum LTV of 70%
-* but the property value and lending requirements equate to a like for like transaction, we may consider lending more than 70%, subject to product criteria
-
-Where the property was purchased more than 12 months ago, and there has been a significant recent uplift in valuation, we may still limit the advance to a maximum LTV of 70%.
-
-Where a HMO has been subject to alteration, conversion or change of use, the following items will be required:
-
-* a copy of the current HMO licence. If applicable, for property purchases, a copy of the new HMO licence will also be required after completion
-* confirmation that the property has planning permission for its current layout and use. Evidence will be required after completion, and this can be:
-  * a copy of the planning consent(s) for the current configuration/use
-  * permitted development for change from Class C3 to C4 of the Town and Country Planning (Use Classes) (Amendments) (England) Order 2010
-  * assuming no Article 4 Direction Order is in place at the time of the change
-  * sui generis (as appropriate)
-  * an established use certificate or a certificate of lawfulness of existing use or development
+* HMO licence
+* Planning permission or evidence of lawful use
+* Building regulations approval
+* Completion certificate
 
 ### Investment Valuations
 
-An investment valuation may be carried out where the property is no longer capable of being assessed as a single residential dwelling. This may be either due to the overall level of occupancy, or its subdivision into separate units.
+Required for:
 
-For multi-unit properties (purpose built or converted), an investment valuation will be carried out.
-
-For HMO's, an occupancy level of five or more tenants will normally require an investment valuation.
+* Multi-unit properties
+* HMOs with 5 or more tenants
+* Properties no longer functioning as a single dwelling
 
 ### All Properties
 
-Where a property has been subject to alteration, conversion or change of use, the following items will need to be forwarded with the deeds:
+Where property has been altered or converted:
 
-* evidence that the property has the appropriate building regulations approval
-* a copy of the building regulations completion certificate
+* Building regulations approval required
+* Completion certificate required
 
 ### Property Exclusions
 
-A property is unacceptable if it is:
+Unacceptable property types:
 
-* an ex-local authority flat or maisonette
-* non-traditional construction such as concrete or timber or where existing or possible structural defects are apparent
-* a shared ownership property (currently or previously)
-* a converted flat where the applicant occupies a property in the same building
-* a freehold flat or maisonette in England and Wales
-* subject to unreasonable lease terms, including onerous ground rent amounts, review periods, escalation provisions and event fees
-* a leasehold property in Scotland
-* designated as defective under any housing legislation
-* subject to agricultural or other planning restrictions
-* subject to notice of mineral extraction, contaminated land or previous mining subsidence and landfill
-* being purchased under the Right to Buy Scheme or Housing Association Scheme
-* built within the last ten years without an NHBC certificate or another guarantee acceptable to us
-* subject to a pre-emption clause
-* located within either ten metres of an electrical sub-station or 100 metres of an overhead high voltage cable or communication mast
-* located in Wales and occupied on the basis of a secure contract
-* a flat in a building which requires a scheme of remediation to the external wall system
+* Ex-local authority flats or maisonettes
+* Non-traditional construction (concrete, timber or structurally defective)
+* Shared ownership properties
+* Converted flats where applicant occupies another unit in same building
+* Freehold flats or maisonettes in England or Wales
+* Leasehold properties in Scotland
+* Properties designated defective under housing legislation
+* Agricultural or restrictive planning properties
+* Properties affected by mining subsidence, landfill or contamination
+* Right to Buy or Housing Association purchases
+* New properties built within last 10 years without NHBC or acceptable warranty
+* Properties with pre-emption clauses
+* Properties within 10 metres of electrical substations
+* Properties within 100 metres of high-voltage cables or communication masts
+* Properties in Wales occupied under secure contracts
+* Flats requiring external wall remediation schemes
 
-At our discretion, the following types of property may be considered on an individual basis:
+Properties that may be considered on a case-by-case basis:
 
-* ex-local authority houses
-* flats in blocks over 10 storeys high or with more than 100 units
-* studio flats, with a minimum of 30 square metres
-* new or recently built flats where there is, or is likely to be, a low demand from tenants
-* leasehold flats and maisonettes attached to or above commercial premises
-* residential let property where there is a commercial element not exceeding 40% of the total floor space of the whole property
-* properties with an element of "flying freehold"
-* self-build properties
-* properties with restrictions relating to sale or occupancy eg Section 106 notice
-* properties subject to chancel repairs/liability
-* properties subject to issues identified by an environmental search
+* Ex-local authority houses
+* Flats in blocks above 10 storeys or with more than 100 units
+* Studio flats (minimum 30 m²)
+* New flats with potentially low rental demand
+* Flats above commercial premises
+* Properties with commercial elements up to 40% of floor space
+* Flying freehold properties
+* Self-build properties
+* Properties with sale or occupancy restrictions (Section 106)
+* Properties with chancel repair liability
+* Properties affected by environmental search issues
 
 ### Tenure
 
-**Acceptable tenure in England, Wales or Scotland:**
+Acceptable tenure in England, Wales or Scotland:
+
 * Freehold/heritable
 
-**Acceptable tenure in England and Wales only:**
+Acceptable tenure in England and Wales only:
+
 * Leasehold, subject to a minimum of 85 years unexpired term at the commencement of the mortgage, and 65 years unexpired term at the end of the mortgage
 
 Ground rent and other event fees must be reasonable at all times during the lease term.
@@ -473,276 +504,374 @@ Depending on the specific conditions of each loan, the property must be occupied
 
 ### Legal Charges
 
-We require a first legal charge (or in Scotland, standard security) over the property.
+First legal charge requirement: We require a first legal charge (or in Scotland, standard security) over the property.
 
-We will not accept subsequent charges in favour of any other party, for any purpose, including borrowing from other lending institutions.
+Subsequent charges: We will not accept subsequent charges in favour of any other party, for any purpose, including borrowing from other lending institutions.
 
-For further advances, we require a second legal charge over the property.
-
----
+Further advances: We require a second legal charge over the property.
 
 ## Letting Requirements
 
-The landlord is responsible for checking the legal status of a tenant to ensure they have a permanent right to reside in the UK.
+Tenant legal status: The landlord is responsible for checking the legal status of a tenant to ensure they have a permanent right to reside in the UK.
 
-**In England, property may either be let:**
-* on an assured shorthold tenancy, subject to a minimum term of six months and a maximum of 36 months
-* or to a limited company registered in England, Wales or Scotland, or a suitable educational institute for up to three years
-* to a local authority or housing association for up to five years
+### England Letting Requirements
 
-In all instances, where the property is occupied by a private individual or individuals:
-* their rights of occupation must not extend beyond the term granted to the acceptable tenant
-* they must occupy the property only for the purposes of their main residence without the provision of any support services/assistance from any service provider
+Property may either be let:
 
-In all instances, the limited company, suitable educational institute, local authority or housing association:
-* must not occupy or use the property for any business purposes
-* must not be an accommodation and support services provider that provides support, services/assistance to the occupiers or engages any third party to provide any such accommodation and support services/assistance to the occupiers
+* On an assured shorthold tenancy, subject to a minimum term of six months and a maximum of 36 months
+* To a limited company registered in England, Wales or Scotland, or a suitable educational institute for up to three years
+* To a local authority or housing association for up to five years
 
-**In Wales, occupation on the basis of a secure contract by any occupier is not permitted. The only basis upon which the property may be let is either:**
-* under a standard contract as defined by the Renting Homes (Wales) Act 2016 ('The Act') subject to a minimum term of six months and a maximum of 36 months
-* or to a limited company registered in England, Wales or Scotland, or a suitable educational institute for up to three years
-* to a local authority or housing association for up to five years
+Where the property is occupied by private individuals:
 
-In all instances, where the property is occupied by a private individual or individuals:
-* their rights of occupation must not extend beyond the term granted to the acceptable tenant
-* they must occupy the property only for the purposes of their main residence without the provision of any support services/assistance from any service provider
+* Their rights of occupation must not extend beyond the term granted to the acceptable tenant
+* They must occupy the property only for the purposes of their main residence without the provision of any support services or assistance from any service provider
 
-In all instances, the limited company, suitable educational institute, local authority or housing association:
-* must not occupy or use the property for any business purposes
-* must not be an accommodation and support services provider that provides support, services/assistance to the occupiers or engages any third party to provide any such accommodation and support services/assistance to the occupiers
+Where the property is let to an organisation:
 
-**In Scotland, property may either be let:**
-* on a short assured tenancy, subject to a minimum term of six months and a maximum term of 12 months
-* or on a private residential tenancy
+* The limited company, suitable educational institute, local authority or housing association must not occupy or use the property for any business purposes
+* They must not be an accommodation and support services provider that provides support, services or assistance to occupiers or engages third parties to provide such services
 
-In all instances, where the property is occupied by a private individual or individuals:
-* their rights of occupation must not extend beyond the term granted to the acceptable tenant.
-* they must occupy the property only for the purposes of their main residence without the provision of any support services/assistance from any service provider.
+### Wales Letting Requirements
 
-For full details please refer to our General and Special conditions booklet on our website www.paragonbank.co.uk/btldocuments/intermediary
+Occupation under a secure contract: Not permitted.
 
-Each tenancy agreement must require the rent to be paid at either monthly or quarterly intervals (or in the case of students, termly).
+Property may only be let:
 
-Property shall not in whole or in part be let to or occupied by:
+* Under a standard contract as defined by the Renting Homes (Wales) Act 2016 subject to a minimum term of six months and a maximum of 36 months
+* To a limited company registered in England, Wales or Scotland, or a suitable educational institute for up to three years
+* To a local authority or housing association for up to five years
 
-* the applicant, or any member of their family
-* the guarantor, or any member of their family
-* the vendor of the property, or any member of their family
-* any previous owner of the property, or any member of their family
-* an employee of the applicant
-* an associated subsidiary, or parent company of the applicant
+Where the property is occupied by private individuals:
 
-Sale-and-rent-back arrangements are not acceptable.
+* Their rights of occupation must not extend beyond the term granted to the acceptable tenant
+* They must occupy the property only for the purposes of their main residence without the provision of support services or assistance from any service provider
 
-Holiday lets are not acceptable.
+Where the property is let to organisations:
 
-Where a tenancy agreement pre-dates the completion of the loan, then the solicitor acting must ensure that our interests are fully protected, and the property is let in accordance with our criteria.
+* The limited company, suitable educational institute, local authority or housing association must not occupy or use the property for any business purposes
+* They must not be an accommodation and support services provider or engage third parties to provide such services
 
----
+### Scotland Letting Requirements
+
+Property may either be let:
+
+* On a short assured tenancy with a minimum term of six months and a maximum term of 12 months
+* On a private residential tenancy
+
+Where the property is occupied by private individuals:
+
+* Their rights of occupation must not extend beyond the term granted to the acceptable tenant
+* They must occupy the property only for the purposes of their main residence without support services or assistance from any service provider
+
+For full details please refer to the General and Special Conditions booklet at: [www.paragonbank.co.uk/btldocuments/intermediary](http://www.paragonbank.co.uk/btldocuments/intermediary)
+
+### Tenancy Agreement Conditions
+
+Rent payment intervals:
+
+* Monthly
+* Quarterly
+* Termly (students)
+
+Property must not be let to or occupied by:
+
+* The applicant or any member of their family
+* The guarantor or any member of their family
+* The vendor or any member of their family
+* Any previous owner or their family members
+* An employee of the applicant
+* An associated subsidiary or parent company of the applicant
+
+Sale-and-rent-back arrangements: Not acceptable
+
+Holiday lets: Not acceptable
+
+Existing tenancy agreements before completion:
+
+* Solicitor must ensure lender interests are protected
+* Property must meet lender criteria
 
 ## Solicitors
 
-We will normally instruct the applicant's solicitors/licensed conveyancers to act on behalf of both parties provided:
+Solicitors may act for both parties provided the following conditions are met:
 
-* the firm has a minimum of four partners each holding current practising certificates/licenses, operates from commercial premises, has been in business for at least three years, and is currently registered with the Law Society/Council for Licensed Conveyancers
-* the solicitor/licensed conveyancer acting holds a current practising certificate and is currently registered with the Law Society/Council for Licensed Conveyancers
-* the solicitor/licensed conveyancer acting holds Professional Indemnity Insurance cover of £4 million or more where the loan amount being applied for is £2 million or more
-* the firm is registered on Lender Exchange, agrees to our terms and conditions, and has been accepted onto our conveyancing panel
+Firm requirements:
 
-Should an applicant choose a firm that is not acceptable to us, they will act solely for the applicant. The applicant will then have to select another firm from our panel to act on our behalf, and any costs incurred from both firms will be the responsibility of the applicant whether or not completion takes place.
+* Minimum of four partners
+* All partners must hold current practising certificates or licences
+* Firm must operate from commercial premises
+* Firm must have been in business for at least three years
+* Firm must be registered with the Law Society or Council for Licensed Conveyancers
 
-In all cases, we reserve the right to instruct alternative solicitors/licensed conveyancers to act solely for us and again, any costs incurred from both firms, will be the responsibility of the applicant(s) whether or not completion takes place.
+Solicitor requirements:
 
-To see if your solicitor is on our panel of approved firms, please check the Lender Exchange website.
+* Must hold a current practising certificate
+* Must be registered with the Law Society or Council for Licensed Conveyancers
 
----
+Professional Indemnity Insurance:
+
+* Minimum £4 million cover where the loan amount is £2 million or more
+
+Panel requirement:
+
+* Firm must be registered on Lender Exchange
+* Must agree to Paragon’s terms and conditions
+* Must be accepted onto the Paragon conveyancing panel
+
+If the applicant selects a firm not acceptable to Paragon:
+
+* The firm will act for the applicant only
+* The applicant must select another firm from the panel to act for the lender
+* All associated legal costs will be payable by the applicant
+
+Paragon reserves the right to instruct alternative solicitors to act solely for the lender, with all related costs payable by the applicant.
+
+Panel verification: Solicitor status can be checked via the Lender Exchange website.
 
 ## Property Insurance
 
-Index linked buildings insurance will be required to be maintained for the rebuilding cost of the property.
+Buildings insurance:
 
-The applicant(s) must make their own insurance arrangements, and we reserve the right to request a copy of the insurance policy. The applicant must contribute towards the cost of contingency insurance taken out by Paragon, to cover any subsequent loss as a result of any inadequacy of the insurance arranged by them.
+* Must be index-linked
+* Must cover the full rebuilding cost
 
-All properties must be acceptable to insurers on standard terms ie, exclusions or increased excesses must not apply.
+Insurance arrangements:
 
-For leasehold property, the freeholders may already have adequate cover in force under the terms of the lease.
+* Arranged by the applicant
+* Paragon may request a copy of the policy
 
-The solicitor will be required to confirm that the policy meets the minimum requirements of the mortgage contract, is in force at completion and that, wherever possible, our interest has been noted on the policy.
+Contingency insurance:
 
-Where a higher reinstatement value for the property is confirmed on a further advance valuation, it will be necessary for the existing buildings insurance cover to be increased accordingly.
+* Applicant must contribute if Paragon arranges contingency cover due to inadequate insurance
 
----
+Insurance terms:
+
+* Property must be acceptable to insurers on standard terms
+* No exclusions or increased excesses permitted
+
+Leasehold insurance:
+
+* May already be arranged by the freeholder under lease terms
+
+Solicitor confirmation requirements:
+
+* Insurance policy meets mortgage contract requirements
+* Policy is active at completion
+* Lender interest noted where possible
+
+Further advance requirement:
+
+* Insurance must be increased if the reinstatement value rises
 
 ## Underwriting
 
 ### Decision
 
-To evaluate the suitability of an application, we will undertake a detailed assessment of the following:
+Assessment factors include:
 
-* the applicant's credit history
-* the applicant's credit score
-* the applicant's income and employment status
-* the overall affordability of the loan
-* the loan to value
-* the suitability and value of the property
-* whether the rental income available is sufficient to support the loan
-* the tenant's right to reside
+* Applicant credit history
+* Applicant credit score
+* Income and employment status
+* Overall affordability
+* Loan to value
+* Property suitability and value
+* Rental income adequacy
+* Tenant right to reside
 
 ### Final Decision
 
-We reserve the right to determine whether to make an offer and the terms on which the offer is made.
+Paragon reserves the right to determine whether to make an offer and the terms of the offer.
 
 ### Verification
 
-We may contact all applicants by telephone to verify information submitted in support of the application.
+Verification actions may include:
 
-When assessing the application, we reserve the right to validate any references, or any other documentation received.
+* Telephone contact with applicants
+* Validation of references and documents
 
-Updated references will be required where completion has not taken place within six months.
-
----
+Updated references required if completion does not occur within six months.
 
 ## Products and Fees
 
-Please refer to our buy-to-let product guide for full details of our current product range and the fees associated with them.
+Product details: Available in the buy-to-let product guide.
 
-For full details of all fees and charges, please see our **tariff of mortgage charges**.
-
----
+Fees and charges: Available in the tariff of mortgage charges.
 
 ## Direct Debit Instructions
 
-It is a condition of the loan that monthly payments are made from an account with a UK based bank in the applicant's name. These payments must be made by direct debit.
+Loan repayment condition:
 
----
+* Monthly payments must be made from a UK bank account in the applicant’s name
+* Payments must be made by direct debit
 
 ## Product Switches
 
-If the current mortgage product incentive period is coming to an end, it may be possible to switch to a new product up to three months ahead of the current product maturing.
+Product switch availability:
 
-Details of our current product switch range can be found in our **switch product guide**.
+* Up to three months before the current product incentive period ends
 
-Applications can be made on our online portal.
+Product switch applications:
 
----
+* Available via the online portal
 
 ## Offer of Loan
 
-From the date of issue, our offer of loan is valid for three calendar months.
+Offer validity: Three calendar months from the date of issue
 
-Our offer of loan will be issued by email. Therefore, we require email addresses for all applicants, solicitor and intermediary.
+Offer delivery: Issued by email
 
----
+Email requirement: Email addresses required for all applicants, solicitors and intermediaries
 
 ## Refurb-to-Let
 
-Our refurb-to-let product is available for refitting and modernisation works that do not materially change the existing floor area of a property, and where costs do not usually exceed 25% of the current property value.
+Refurb-to-let product purpose:
 
-This does not cover alterations that require planning permission, permitted development rights or building regulations approval and should not involve any major structural works to the property. There should also be no change of use to the property, except between planning use class C3 to C4 (permitted or with consent in place), ie smaller properties up to and including six sharers.
+* Refitting and modernisation works
+* No material change to existing floor area
+* Costs usually not exceeding 25% of property value
 
-In all instances a proposed schedule of works must be submitted, either with the online application or immediately after. It is important that as much detail as possible is provided, in terms of the proposed works, pricing, timescales and contractors, including a detailed project plan if available and evidence of the funds required to complete the scheduled works. All information will be passed to our surveyor prior to the valuation, which will not be carried out until full details are received.
+Excluded works:
 
-When the scheduled works are completed, the refurb-to-let loan will then be replaced with a standard buy-to-let mortgage. You can find details of the products available in our buy-to-let product guide.
+* Alterations requiring planning permission
+* Works requiring permitted development rights
+* Works requiring building regulations approval
+* Major structural works
+* Change of use except C3 to C4 (up to six sharers)
 
-Both the refurbishment loan and buy-to-let mortgage will be assessed and offered at the same time, which means fee reductions will apply – details of which can be found in our buy-to-let product guide.
+Application documentation:
+
+* Proposed schedule of works
+* Detailed project plan where available
+* Pricing, timescales and contractor details
+* Evidence of funds for works
+
+Surveyor process:
+
+* Works information provided before valuation
+* Valuation only carried out once details are received
+
+Post-refurbishment:
+
+* Loan replaced with a standard buy-to-let mortgage
+
+Offers:
+
+* Refurbishment loan and buy-to-let mortgage offered simultaneously
+
+Fee reductions: Available as per the buy-to-let product guide
 
 ### Criteria Exceptions
 
-The standard criteria set out in these guidelines will apply to our refurb-to-let applications, subject to the following exceptions:
+Minimum loan amount: Purchase/Remortgage: £30,000
 
-**Minimum loan amount:** Purchase/Remortgage: £30,000
+Maximum loan amount: Purchase/Remortgage: £1,000,000
 
-**Maximum loan amount:** Purchase / Remortgage: £1,000,000
+Minimum property valuation: £50,000
 
-**Minimum property valuation:** £50,000
+**Loan to Value (LTV):**
 
-**Loan to value (LTV):**
+* **Maximum LTV based on initial loan where interest is rolled up:** 70%
+* **Maximum LTV based on end loan balance where interest is rolled up:** 75%
+* **Maximum LTV based on initial loan where interest is serviced:** 75%
+* **Maximum LTV where loan is greater than £750,000:** 70%
 
-| Maximum LTV based on initial loan where interest is rolled up | Maximum LTV based on end loan balance where interest is rolled up | Maximum LTV based on initial loan where interest is serviced | Maximum LTV where loan is > £750,000 |
-|:--------------------------------------------------------------|:------------------------------------------------------------------|:------------------------------------------------------------|:-------------------------------------|
-| 70% | 75% | 75% | 70% |
-
-Any fees that may be added to the loan are excluded from the LTV calculations.
+Fees added to loan: Excluded from LTV calculations
 
 ### Maximum Aggregate Borrowing
 
-A normal total mortgage exposure per borrower of £5,000,000 may be advanced to an applicant on a property portfolio.
+Maximum portfolio exposure: £5,000,000 per borrower
 
 ### Loan Purpose
 
-We will generally consider applications for either purchase or remortgage of residential investment property.
+Accepted purposes:
+
+* Purchase of residential investment property
+* Remortgage of residential investment property
 
 ### Consumer Buy-to-Let
 
-We will not consider refurb-to-let applications that qualify as consumer buy-to-let mortgage contracts.
+Consumer buy-to-let applications: Not accepted for refurb-to-let products
 
 ### Mortgage Term
 
-* Minimum: 1 month
-* Maximum: 6 months
+Minimum term: 1 month
+Maximum term: 6 months
 
 ### Repayment Methods
 
-Interest only loans with the repayment type of either serviced monthly payments or gross rolled up interest are available.
+Available repayment methods:
+
+* Interest-only loans
+* Serviced monthly payments
+* Gross rolled-up interest
 
 ### Property Valuation
 
-* Minimum property valuation: £50,000
+Minimum property valuation: £50,000
 
-A security assessment and valuation report will be arranged to determine the property value, in its present condition at the time of submission.
+Valuation purpose:
 
-A fully completed schedule of works will be required prior to valuation and should be accompanied by as much supporting documentation as possible.
+* Assess current property value
+* Determine sustainable rental income
 
-An after works capital value will also be provided, and the property will be assessed in respect of the realistic and sustainable monthly rental income. Any properties that are likely to have low demand from tenants due to location or other factors, will not normally be acceptable.
+Valuation documentation:
 
-We reserve the right to accept or decline any individual property.
+* Full schedule of works required prior to valuation
+* Supporting documentation required
 
-After completion of the refurbishment loan, we reserve the right to arrange at our discretion, a revaluation at our expense, to review the progress of works.
+After works valuation:
+
+* Capital value after refurbishment provided
+
+Paragon reserves the right to accept or decline any property.
+
+Post-completion revaluation: May be carried out to review progress of works.
 
 ### House in Multiple Occupation (HMO)
 
-A copy of the current licence, if applicable, must be provided evidencing that the property is capable of being let on a multiple occupancy basis having regard to the permitted number of occupants and any attached conditions.
+HMO licence: Current licence required where applicable
 
-Where the HMO has already been altered/converted or had a change of use, the following MUST be provided before release of funds:
+Conversion documentation required before funds release:
 
-* evidence of planning consent for any alteration/conversion and/or change of use. This may be a permitted development, a formal planning consent or a lawful development certificate
-* evidence of building regulations approvals together with a building regulations completion certificate where applicable
+* Planning consent or lawful development certificate
+* Building regulations approval
+* Building regulations completion certificate
 
-Please note, we do not accept indemnity insurance in the absence of the above.
+Indemnity insurance: Not accepted where the above documentation is missing
 
 ### All Properties
 
-Where a property has been subject to alteration, conversion or change of use, the following items will be required to be forwarded with the deeds, unless the property is a HMO, when copies will be required prior to release of funds:
+For altered, converted or change-of-use properties the following must be provided:
 
-* a copy of the current HMO licence, if applicable (for property purchases a copy of the new HMO licence will also be required after completion)
-* evidence that the property has the benefit of planning permission for its current layout and use. Evidence may be in the form of a copy of the planning consent(s) for the current configuration/use, permitted development for change from Class C3 to C4 of the Town and Country Planning (Use Classes) (Amendments) (England) Order 2010, assuming no Article 4 Direction Order in place at the time of the change, or sui generis (as appropriate); an established use certificate or a certificate of lawfulness of existing use or development
-* Evidence that the property has the benefit of appropriate building regulations approval and a copy of the building regulations completion certificate
+* HMO licence where applicable
+* Planning permission or lawful development evidence
+* Building regulations approval
+* Building regulations completion certificate
 
 ### Occupancy
 
-Depending on the specific conditions of each loan, the property may be vacant for the duration of the proposed refurbishment works, subject to the conditions of the insurance cover being complied with.
+Property vacancy during refurbishment: Permitted subject to insurance conditions
 
 ### Offer of Loan
 
-Both the refurbishment loan and buy-to-let mortgage will be offered at the same time.
+Refurbishment loan and buy-to-let mortgage: Offered simultaneously
 
-The refurbishment offer will lapse if completion does not take place within three calendar months of it being issued.
+Refurbishment offer validity: Three calendar months
 
-The buy-to-let mortgage offer is valid for six calendar months from the date it is issued, allowing the refurbishment loan to complete and the works to be carried out. Once the works have been finalised, you can then complete on the buy-to-let mortgage.
+Buy-to-let mortgage offer validity: Six calendar months
 
 ### Post-Completion Monitoring
 
-Due to the complex nature and limited timeframe of this borrowing, close contact will be maintained by a bespoke team of underwriters throughout the term.
-
----
+Underwriting oversight: Dedicated team monitoring progress throughout the loan term.
 
 ## Main URLs and Contact Information
 
-- https://www.paragonbank.co.uk
-- https://www.paragonbank.co.uk/btbdocuments/Intermediary
-- https://www.paragonbank.co.uk/btldocuments/intermediary
-- https://www.paragonbank.co.uk/intermediary/btl
-- https://www.paragonbank.co.uk/personal/mortgages/buy-to-let/consumer-buy-to-let.
-- https://www.paragonbank.co.uk/resources/paragonbank/documents/mortgages/buy-to-let/both/buy-to-let-lending-guidelines
-- Email: btlenquiries@paragonbank.co.uk
-- Phone: 03458494040
+Website: [https://www.paragonbank.co.uk](https://www.paragonbank.co.uk)
+BTL intermediaries: [https://www.paragonbank.co.uk/intermediary/btl](https://www.paragonbank.co.uk/intermediary/btl)
+Documents: [https://www.paragonbank.co.uk/btbdocuments/Intermediary](https://www.paragonbank.co.uk/btbdocuments/Intermediary)
+Guidelines: [https://www.paragonbank.co.uk/resources/paragonbank/documents/mortgages/buy-to-let/both/buy-to-let-lending-guidelines](https://www.paragonbank.co.uk/resources/paragonbank/documents/mortgages/buy-to-let/both/buy-to-let-lending-guidelines)
+
+Email: [btlenquiries@paragonbank.co.uk](mailto:btlenquiries@paragonbank.co.uk)
+Phone: 03458494040
+Address: 51 Homer Road, Solihull, West Midlands B91 3QJ

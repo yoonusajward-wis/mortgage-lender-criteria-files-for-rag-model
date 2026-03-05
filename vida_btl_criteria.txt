@@ -1,14 +1,10 @@
 # VIDA HOME LOANS – BTL LENDING CRITERIA
 
----
-
 **LENDER:** Vida Home Loans
 **PRODUCT:** Buy to Let
 **DOCUMENT TYPE:** BTL Lending Criteria
 **SOURCE:** [Vida Intermediaries Lending Criteria](https://www.vidahomeloans.co.uk/intermediaries/lending-criteria)
 **FOR INTERMEDIARY USE ONLY**
-
----
 
 ## AGE
 
@@ -20,8 +16,6 @@ Maximum age at application: 79.
 
 Mortgage must end before the oldest applicant’s 85th birthday.
 
----
-
 ## PROPERTY USE RESTRICTIONS
 
 AirBnB and Holiday Lets: Not accepted.
@@ -31,8 +25,6 @@ Consumer Buy to Let: Not accepted.
 Holiday Lets (tenancy type): Not accepted.
 
 Regulated / Assured / Protected / Statutory tenancies: Not accepted.
-
----
 
 ## CREDIT – ADVERSE
 
@@ -55,8 +47,6 @@ No secured arrears within last 6 months. Historic secured arrears must be up to 
 
 Debt Management Plans: May be considered at underwriter discretion.
 
----
-
 ## LOAN PURPOSE
 
 Remortgage allowed for legal purposes excluding:
@@ -70,8 +60,6 @@ Further Advances: Not offered.
 Second Charges: Not offered.
 Top Slicing: Not available. All BTL must be self-funding.
 
----
-
 ## LOAN SIZE & LTV
 
 Minimum loan: £50,000
@@ -80,8 +68,6 @@ Maximum loan: £2,000,000
 Maximum LTV: 85%
 
 Product fees may be added provided total borrowing does not exceed 85% LTV. Adviser fees cannot be added.
-
----
 
 ## RENTAL CALCULATION (ICR)
 
@@ -99,8 +85,6 @@ Remortgage with no additional borrowing – initial rate
 
 All BTL applications must be self-funding.
 
----
-
 ## REPAYMENT METHODS
 
 Capital & Interest – available up to product max LTV.
@@ -114,8 +98,6 @@ Leasehold minimum remaining term:
 40 years (Capital & Interest)
 70 years (Interest Only)
 
----
-
 ## DEPOSIT
 
 Proof of deposit required unless from equity release.
@@ -128,8 +110,6 @@ Builder incentives up to 5%
 Director loans (SPV only, with accountant confirmation)
 
 Government bounce back loan funds cannot be used as deposit.
-
----
 
 ## SPV LIMITED COMPANY LENDING
 
@@ -150,8 +130,6 @@ All directors and shareholders must provide joint and several guarantees.
 
 SPV must not be a holding company or have subsidiaries.
 
----
-
 ## PORTFOLIO LANDLORDS
 
 Defined as 4 or more mortgaged properties.
@@ -167,8 +145,6 @@ Average portfolio LTV ≤ 80%.
 Minimum portfolio ICR 125%.
 
 Portfolio schedule and business plan required.
-
----
 
 ## PROPERTY TYPES
 
@@ -194,8 +170,6 @@ Spray foam insulation – not acceptable.
 
 Large Panel System (PRC) – not accepted.
 
----
-
 ## NEW BUILD
 
 Accepted within scheme limits.
@@ -213,8 +187,6 @@ New Build – 6 months
 
 Extensions subject to fresh checks.
 
----
-
 ## NATIONALITY & RESIDENCY
 
 All applicants must provide 3 years address history, with latest 2 years continuous UK residency (not applicable to Expat range).
@@ -227,16 +199,12 @@ Permanent right to reside
 
 Visa holders not accepted for BTL.
 
----
-
 ## EXPAT RANGE
 
 For UK nationals living abroad purchasing UK BTL.
 
 EEA-based landlords – standard limits apply.
 Non-EEA landlords – minimum property value £150,000.
-
----
 
 ## TENANCY TYPES
 
@@ -255,8 +223,6 @@ Not accepted:
 Holiday lets
 Regulated BTL
 Assured / Protected / Statutory tenants
-
----
 
 ## VALUATION
 
@@ -277,8 +243,6 @@ Valuation appeals require 3 comparable sales within 6 months.
 
 Valuation reports not released to customers or brokers.
 
----
-
 ## PRODUCT FEATURES
 
 Non-refundable application fee: £195.
@@ -289,14 +253,10 @@ Products are not portable.
 
 Soft credit footprint at DIP stage.
 
----
-
 ## UNACCEPTABLE APPLICANTS
 
 Power of Attorney
 Diplomatic immunity
 Criminal convictions (except minor traffic/spent convictions)
-
----
 
 # END OF DOCUMENT

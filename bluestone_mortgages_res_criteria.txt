@@ -1,7 +1,5 @@
 # BLUESTONE MORTGAGES – RESIDENTIAL LENDING CRITERIA
 
----
-
 **LENDER:** Bluestone Mortgages
 **PRODUCT:** Residential
 **DOCUMENT TYPE:** Residential lending criteria.
@@ -16,11 +14,7 @@
 
 Bluestone Mortgages Limited. Authorised and regulated by the FCA. Registered in England and Wales No. 2305213. Registered office: Floor 10, 40 Leadenhall Street, London EC3A 2BJ.
 
----
-
 # SECTION 1 – RESIDENTIAL LENDING CRITERIA
-
----
 
 ## Overview
 
@@ -39,8 +33,6 @@ Bluestone Mortgages is a specialist mortgage lender that assists brokers in prov
 ### Our Approach
 
 We understand that life can be unpredictable and customers can build up a lot of unsecured debt that can lead to credit issues, such as CCJs, Defaults and Debt Management Plans. This shouldn't hold customers back from achieving their homeownership dreams, which is why we're here to help your customers find the right mortgage solution for their unique circumstances.
-
----
 
 ## Credit Categories for Residential Mortgages
 
@@ -95,8 +87,6 @@ Lending is based on the **lowest credit tier of any individual applicant**. For 
 * Maximum of 2 missed payments in the last 6 months per credit agreement
 * If balance >£500, the latest payment must have been made
 
----
-
 ## Residential Mortgage Products
 
 ### Standard Residential Products
@@ -141,8 +131,6 @@ The rate does not have a direct link to the Bank of England Base Rate (BBR), whi
 * Free basic valuation
 * A £500 contribution to Solicitors costs (Remortgages Only)
 
----
-
 ## Loan Criteria
 
 * **Term:** 5–40 years.
@@ -154,8 +142,6 @@ The rate does not have a direct link to the Bank of England Base Rate (BBR), whi
 * **Fees:** Product fees can be added to the loan regardless of LTV; restricted to maximum 90% LTV for Residential.
 
 *Close family member: parent, child, grandparent, brother, sister, uncle, aunt, foster parent or legal guardian (includes step relatives).
-
----
 
 ## Income Criteria
 
@@ -198,8 +184,6 @@ We consider various income types and complex income situations on a case-by-case
 * Flexible underwriting approach for unique circumstances
 * Please contact Bluestone Mortgages to discuss specific income scenarios
 
----
-
 ## Right to Buy Mortgage Products
 
 Right to Buy mortgages are available with specific criteria and product features.
@@ -227,8 +211,6 @@ Fees Free benefits are available for Right to Buy products:
 * Right to Buy applications follow the same credit category structure as standard residential products
 * Please refer to the product guide for detailed Right to Buy rates and specific criteria
 
----
-
 ## Valuation Fees and Application Criteria
 
 ### Valuation Fees
@@ -245,8 +227,6 @@ Fees Free benefits are available for Right to Buy products:
 * Properties in England, Wales, Scotland, and Northern Ireland accepted
 * Specific location criteria may apply
 
----
-
 ## Applicants
 
 * **Maximum per application:** 4.
@@ -254,8 +234,6 @@ Fees Free benefits are available for Right to Buy products:
 * **Minimum age at application:** 20 years. Term cannot take applicants past 75th birthday (residential/affordability-based).
 * **Residency (main applicants):** Permanent UK residency rights or permanent settled status; resident in UK at least 1 year (application for settled status alone not sufficient).
 * **Not accepted:** Guarantors, Expats, Diplomats.
-
----
 
 ## Service Levels
 
@@ -267,8 +245,6 @@ At Bluestone Mortgages, we prioritise accountability and transparency in every a
 * **DIP's reviewed within 1 day**
 * **New case reviewed within 1 day**
 * **An underwriting turnaround of 1 day**
-
----
 
 ## Broker Portal
 
@@ -283,8 +259,6 @@ Our innovative broker portal is changing the landscape of specialist lending. Th
 ### Open Banking
 
 Our open banking approach, coupled with the ability to pull through your client's committed expenditure, allows for an accurate valuation of their household expenditures within minutes.
-
----
 
 ## Forms and Downloads
 
@@ -316,8 +290,6 @@ The following forms are available for download:
 * **Signature Discrepancy Form** - Please complete and return this form if you have multiple signatures
 * **Tenancy Reference** - Please fill in and return
 
----
-
 ## Contact Information
 
 ### Broker Support Team
@@ -334,8 +306,6 @@ The following forms are available for download:
 * **Midlands & East Anglia:** 020 3884 2955
 * **London:** 0800 368 1833
 * **South:** 0800 368 1833
-
----
 
 ## Additional Information
 
@@ -355,8 +325,6 @@ Bluestone Mortgages is committed to Consumer Duty. More information about our Co
 
 Guidance on submitting cases is available on our website and through the broker portal.
 
----
-
 ## Important Notes
 
 * All criteria are subject to change and should be verified with Bluestone Mortgages directly
@@ -366,8 +334,6 @@ Guidance on submitting cases is available on our website and through the broker 
 * Always refer to the latest Product Guide for the most up-to-date information
 * For cases outside standard criteria, contact Bluestone Mortgages for consideration
 * We make our decisions based on your customer's unique circumstances – we don't credit score
-
----
 
 ## About Bluestone Mortgages
 
@@ -383,5 +349,4 @@ We're assisting brokers in providing support to customers that other lenders may
 * Those going back to work after a life event
 * Customers with complex credit histories including CCJs, Defaults and Debt Management Plans
 
----
 *End of criteria. Product Guide BM01 12/25; rates effective 19/12/25. See SOURCE above for current links.*

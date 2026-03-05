@@ -1,23 +1,16 @@
-LENDER NAME: Nottingham Building Society
-PRODUCT: Residential
+# NOTTINGHAM BUILDING SOCIETY – RESIDENTIAL CRITERIA
 
-# Nottingham Building Society - Residential Lending Criteria
+**LENDER:** Nottingham Building Society
+**PRODUCT:** Residential
+**DOCUMENT TYPE:** Lending Criteria
+**SOURCE:** [Residential Lending Criteria](https://www.thenottingham.com/intermediaries/lending-criteria/residential), [Lending Criteria Overview](https://www.thenottingham.com/intermediaries/lending-criteria/overview)
+**LAST UPDATED:** 2025
 
-**Source:** 
-* [Nottingham Building Society - Residential Lending Criteria](https://www.thenottingham.com/intermediaries/lending-criteria/residential)
-* [Nottingham Building Society - Lending Criteria Overview](https://www.thenottingham.com/intermediaries/lending-criteria/overview)
+**IMPORTANT:** For intermediary use only.
 
-**Last Updated:** 2025  
-**Version:** Comprehensive Residential Lending Criteria Guide
-
-**FOR INTERMEDIARY USE ONLY**
+**RAG convention:** Criteria use explicit labels where applicable for retrieval.
 
 This document contains comprehensive residential mortgage lending criteria covering all topics from the Nottingham Building Society intermediaries website.
-
-**Contact Information:**
-* Intermediary Support: 0344 481 2010 (Press option two for further options)
-
----
 
 ## Lending Criteria Overview
 
@@ -27,21 +20,17 @@ At the decision in principle (DIP) stage, we ensure our actions don't leave a 'h
 
 ### Adverse Credit Criteria
 
-| Criteria | Acceptable |
-|:---------|:-----------|
-| Mortgage or secured loan arrears | 2 in 24 |
-| Unsecured loan arrears | 2 in 24 |
-| CCJ | Single satisfied CCJ <£500 may be considered. CCJs above £500 must be satisfied for at least three years |
-| Defaults | Satisfied defaults up to £250 may be considered (none for mortgage/secured/unsecured loans). Defaults >£250 must be satisfied for at least three years |
-| Bankruptcy | Discharged for three years |
+* Mortgage or secured loan arrears: 2 in 24
+* Unsecured loan arrears: 2 in 24
+* CCJ: Single satisfied CCJ <£500 may be considered. CCJs above £500 must be satisfied for at least three years
+* Defaults: Satisfied defaults up to £250 may be considered (none for mortgage/secured/unsecured loans). Defaults >£250 must be satisfied for at least three years
+* Bankruptcy: Discharged for three years
 
-**Note:** We only need the discharge certificate for applicants who were previously declared bankrupt. No documents are required for all other criteria points.
+Note: We only need the discharge certificate for applicants who were previously declared bankrupt. No documents are required for all other criteria points.
 
 ### Minimum Packaging Requirements
 
 Check our [minimum packaging guide](https://www.thenottingham.com/media/h3hnc0kw/minimum-packaging-guides.pdf) to find out what documents you need to submit with your application. This will help us provide a speedier underwriting decision.
-
----
 
 ## The Application
 
@@ -60,32 +49,24 @@ The minimum loan is **£30,000**.
 
 #### Traditional Residential
 
-| Maximum loan size (inclusive of capitalised fees) | Maximum LTV |
-|:--------------------------------------------------|:------------|
-| £500,000 | 95% |
-| £750,000 | 90% |
-| £1,000,000 | 80% |
-| £1,500,000 | 75% |
+* £500,000: 95%
+* £750,000: 90%
+* £1,000,000: 80%
+* £1,500,000: 75%
 
 #### New Build House
 
-| Maximum loan size (inclusive of capitalised fees) | Maximum LTV |
-|:--------------------------------------------------|:------------|
-| £750,000 | 90% |
+* £750,000: 90%
 
 #### Flats and Maisonettes
 
-| Type | Maximum loan size (inclusive of capitalised fees) | Maximum LTV |
-|:-----|:--------------------------------------------------|:------------|
-| Non-new build (old build) | £500,000 | 90% |
-| Non-new build (old build) | £750,000 | 80% |
-| New build | £500,000 | 80% |
+* Non-new build (old build): £500,000: 90%
+* Non-new build (old build): £750,000: 80%
+* New build: £500,000: 80%
 
 #### Retirement Interest-Only
 
-| Maximum loan size (inclusive of capitalised fees) | Maximum LTV |
-|:--------------------------------------------------|:------------|
-| £500,000 | 60% |
+* £500,000: 60%
 
 ### Maximum Term
 
@@ -99,12 +80,14 @@ The maximum term is **40 years**.
 
 #### Examples of Acceptable Repayment Vehicles
 
-* **Sale of mortgage property:** Maximum 60% LTV, minimum equity requirement £200k or £300k in [London and the South East](https://www.thenottingham.com/media/0gxfgcxa/london-postcodes.pdf) (minimum equity applies at point of application).
+* Sale of mortgage property: Maximum 60% LTV, minimum equity requirement £200k or £300k in [London and the South East](https://www.thenottingham.com/media/0gxfgcxa/london-postcodes.pdf) (minimum equity applies at point of application).
+
   * Only 80% of LTV is allowable using more than one repayment vehicle.
-* **Endowment.**
-* **25% of the projected total value of a defined contribution pension plan.**
-* **100% of the projected lump sum value of a defined benefit plan.**
-* **Equity ISA.**
+* Endowment.
+* 25% of the projected total value of a defined contribution pension plan.
+* 100% of the projected lump sum value of a defined benefit plan.
+* Equity ISA.
+
   * The sale of investment property or a second home, unless occupied by a family member, isn't acceptable (it must be owned in the applicant's/s' name only).
   * If a shortfall is found this must be made up by increasing the deposit.
   * We'll accept selling an investment property or second home in England and Wales if the property's equity covers the borrowed amount.
@@ -143,8 +126,6 @@ Properties owned for less than six months will be considered individually. In th
 
 Our application systems create a soft footprint on decisions in principle applications. This is converted to a hard footprint on a full mortgage application.
 
----
-
 ## The Applicant(s)
 
 ### Minimum Age
@@ -156,6 +137,7 @@ The minimum age is **18** (55 for a Retirement Interest Only (RIO) mortgage).
 The maximum age is **75** (at end of the mortgage term).
 
 * If the applicant plans to work until age 75, we need written confirmation from the adviser on the broker declaration form.
+
   * The type of employment will need to reflect their ability to work to age 75.
 
 ### Lending into Retirement
@@ -163,16 +145,19 @@ The maximum age is **75** (at end of the mortgage term).
 If the mortgage term may exceed our assumed retirement age of 68, document the ability to pay the mortgage on a potentially reduced income.
 
 * Max LTV restrictions will apply for applicants lending in or into retirement.
-  * **Lending into retirement:** if the applicant (or a joint applicant) has earned income, and the mortgage term extends past their intended retirement age. The max LTV **80%**.
-  * **Lending in retirement:** if the applicants aren't in receipt of any earned income and will be reliant on pension income only – max LTV **70%**.
+
+  * Lending into retirement: if the applicant (or a joint applicant) has earned income, and the mortgage term extends past their intended retirement age. The max LTV **80%**.
+  * Lending in retirement: if the applicants aren't in receipt of any earned income and will be reliant on pension income only – max LTV **70%**.
 * We'll carefully consider affordability into retirement for older applicants nearing retirement age.
 
 ### Criteria for Foreign National and Returning Expat Mortgage Range
 
 * Maximum **90% LTV** for borrowers with sufficient UK credit data. Or where we can get enough overseas credit data from its data partner in one of the following countries. Countries include Australia, Austria, Canada, the Dominican Republic, Germany, India, Kenya, Mexico, the Philippines, South Korea, Spain, Switzerland, and the United States.
 * Suppose a borrower is from one of the above countries, but an overseas credit file match failed, or the bureau returned insufficient info.
+
   * The case can still be considered up to a maximum LTV of **75%**.
 * We will accept applications from foreign nationals on the following visas:
+
   * Health & Care Worker.
   * Skilled Worker.
   * Global Talent.
@@ -184,6 +169,7 @@ If the mortgage term may exceed our assumed retirement age of 68, document the a
   * Spousal/partner (as a joint account).
   * Armed forces exemption.
 * You can choose from capital repayment, interest-only, or part and part options.
+
   * This is subject to a suitable repayment strategy.
 * In all cases where borrowers don't have sufficient UK or overseas credit data, the maximum LTV is **75%**.
 * No minimum time in the UK or minimum time remaining on their visa.
@@ -218,16 +204,16 @@ Subject to passing credit score, we can consider:
 * We'll consider maternity leave applicants and assess the return-to-work salary.
 
 Please provide us with:
+
 * the last pay slip before maternity leave starts, showing the full-time salary.
 
 The applicant/s will need to confirm the following information in writing:
+
 1. Whether they will return to work full or part-time and the pro rata salary as applicable.
 2. Full details of maternity leave pay, i.e. how many weeks are left at full pay, half pay and statutory maternity pay (SMP).
 3. The savings provisions they have in place to support the mortgage whilst on reduced pay.
 4. What childcare costs (if any) will be payable when they return to work.
 5. The intended return to work date.
-
----
 
 ## Affordability and Income
 
@@ -245,21 +231,22 @@ We'll consider a pay rise where evidence of the increase can be provided. We'll 
 
 ### Other Income We May Assess
 
-* **Cash in hand:** where employees are paid in cash, we need to verify this by regular cash payments into the bank account.
+* Cash in hand: where employees are paid in cash, we need to verify this by regular cash payments into the bank account.
+
   * We can't assess the income if corresponding payments aren't made.
-* **Profit from UK Land and Property** if consistent and shown via two years SA302s minus finance costs: **100%**.
-* **Regular overtime or bonus** (monthly, quarterly, six-monthly, annually - must prove regularity): **50%**.
-* **Child maintenance:** **100%** subject to six months' paid evidence on bank statements.
-* **Second job income:** **100%** subject to six months' track record.
-* **Child Tax Credit:** **50%** (excluding childcare element).
-* **Guaranteed bonus/overtime/shift allowance:** **100%**.
-* **State and occupational pension:** **100%**.
-* **Working Families Tax Credit:** **50%**.
-* **Investment income:** not acceptable.
-* **Large town allowance:** **100%**.
-* **Self-employed income.**
-* **Travel allowance:** **100%**.
-* **Commission:** **50%**.
+* Profit from UK Land and Property if consistent and shown via two years SA302s minus finance costs: 100%.
+* Regular overtime or bonus (monthly, quarterly, six-monthly, annually - must prove regularity): 50%.
+* Child maintenance: 100% subject to six months' paid evidence on bank statements.
+* Second job income: 100% subject to six months' track record.
+* Child Tax Credit: 50% (excluding childcare element).
+* Guaranteed bonus/overtime/shift allowance: 100%.
+* State and occupational pension: 100%.
+* Working Families Tax Credit: 50%.
+* Investment income: not acceptable.
+* Large town allowance: 100%.
+* Self-employed income.
+* Travel allowance: 100%.
+* Commission: 50%.
 
 ### Self-Employed Income
 
@@ -273,33 +260,56 @@ SA302 and Tax Year Overview must relate to an entire 12-month trading period. We
 
 ### Acceptable Accountant Qualifications
 
-AAPA, FAPA, ACMA, FCMA, ACA, FCA, ACCA, CA, CPFA, FCCA, MAAT, FMAAT, CTA (Fellow), FTII (Fellow), CTA, ATII, ATT, ACPA, and FCPA.
+* AAPA
+* FAPA
+* ACMA
+* FCMA
+* ACA
+* FCA
+* ACCA
+* CA
+* CPFA
+* FCCA
+* MAAT
+* FMAAT
+* CTA (Fellow)
+* FTII (Fellow)
+* CTA
+* ATII
+* ATT
+* ACPA
+* FCPA
 
 ### Commitments and Expenditure
 
 The affordability calculator will ask for all monthly commitments and household expenditures. The household expenditure should be based on the property to be mortgaged.
 
-We'll consider monthly credit commitments, including student loans. They must have an outstanding term of six months or longer. If not shown, we'll use 3.00% of the outstanding balances on any/all credit cards as the monthly commitment figure.
+We'll consider monthly credit commitments, including student loans. They must have an outstanding term of six months or longer. If not shown, we'll use **3.00% of the outstanding balances on any/all credit cards** as the monthly commitment figure.
 
 ### Retirement Income
 
-We'll accept the following retirement income:
+Non RIO:
 
-| | Non RIO | RIO |
-|:---|:--------|:-----|
-| **Lending into retirement** | Defined benefits pension | Defined benefits pension |
-| **Lending in retirement** | Defined benefits pension<br>Defined contribution pension | Defined benefits pension<br>Defined contribution pension (annuity only) |
+* Lending into retirement: Defined benefits pension
+* Lending in retirement:
+
+  * Defined benefits pension
+  * Defined contribution pension
+
+RIO:
+
+* Lending into retirement: Defined benefits pension
+* Lending in retirement:
+
+  * Defined benefits pension
+  * Defined contribution pension (annuity only)
 
 ### Higher Lending Charge
 
-A higher lending charge is payable on loans above 80% LTV.
+A higher lending charge is payable on loans above **80% LTV**.
 
-| Advance | Premium |
-|:--------|:--------|
-| 80.00% or below | No higher lending charge |
-| 80.01% - 95.00% | We pay the higher lending charge for the borrower |
-
----
+* 80.00% or below: No higher lending charge
+* 80.01% - 95.00%: We pay the higher lending charge for the borrower
 
 ## Supporting Documents
 
@@ -307,15 +317,21 @@ A higher lending charge is payable on loans above 80% LTV.
 
 #### Where the Applicant is Employed (Including PAYE Directors)
 
-* Where the LTV is 80% or above, the applicant is a first-time buyer or renting, and bank statements are needed for the last three months.
+* Where the LTV is **80% or above**, the applicant is a first-time buyer or renting, and bank statements are needed for the last **three months**.
+
   * Underwriters may ask for bank statements at their discretion.
 * Last month's pay slip.
-  * At least the last three consecutive payslips must show monthly bonuses, overtime, shift allowances and commission. For quarterly bonuses, provide 2 payslips showing the payment or a P60 may be accepted if this can clearly evidence the bonus payment within the gross income.
-* Annual bonus - most recent payslip evidencing annual bonus payment. A P60 may be accepted if this can clearly evidence the bonus payment within the gross income.
+
+  * At least the last three consecutive payslips must show monthly bonuses, overtime, shift allowances and commission.
+  * For quarterly bonuses, provide 2 payslips showing the payment or a P60 may be accepted if this can clearly evidence the bonus payment within the gross income.
+* Annual bonus - most recent payslip evidencing annual bonus payment.
+
+  * A P60 may be accepted if this can clearly evidence the bonus payment within the gross income.
 
 #### Where the Applicant is Self-Employed
 
 * Three years' accounts or SA302s and tax year overviews.
+
   * We may need to write to the applicant's accountant for a reference.
 * Last three months' business bank statements.
 
@@ -330,7 +346,7 @@ A higher lending charge is payable on loans above 80% LTV.
 * Non-EU ID card.
 * Council tax bill.
 
-**Note:** All submitted documents must be photocopies of the originals. We can't consider photographs or camera-scanned documents.
+Note: All submitted documents must be photocopies of the originals. We can't consider photographs or camera-scanned documents.
 
 ### Proof of Address
 
@@ -348,11 +364,9 @@ It's assumed that an electoral roll search will verify proof of address. If veri
 * Recent utility bill.
 * Council tax bill.
 
-**Note:** All submitted documents must be photocopies of the originals. We can't consider photographs or camera-scanned documents.
+Note: All submitted documents must be photocopies of the originals. We can't consider photographs or camera-scanned documents.
 
-Sorry, we can't use the same document to check the applicant's ID and address. If you can't provide any of the above documents, please contact intermediary support on 0344 481 2010. Press option two to chat about further options.
-
----
+Sorry, we can't use the same document to check the applicant's ID and address. If you can't provide any of the above documents, please contact intermediary support on **0344 481 2010**. Press option two to chat about further options.
 
 ## Residential Applicants Who Own Other Properties
 
@@ -367,7 +381,8 @@ New residential mortgages can be considered up to **90% max LTV** where the cust
 We need:
 
 * Rental coverage of **125%** of the mortgage commitment. This calculation must include any added capital raising for deposit funds.
-* We'll annualise any shortfall if the rental coverage is under 125%.
+* We'll annualise any shortfall if the rental coverage is under **125%**.
+
   * We will deduct it from income before applying our income multiples to new residential mortgages.
   * No surplus rental income will be assessed.
 * Where the existing property has little equity or negative equity, we may be unable to help, and the case should be referred to us before submission.
@@ -380,8 +395,8 @@ The customer(s) have their existing residential property up for sale but may hav
 
 We'll assess as follows:
 
-* Up to 90% LTV, we will treat the existing mortgage payment as a commitment.
-* Over 90% LTV, the existing mortgage must be redeemed.
+* Up to **90% LTV**, we will treat the existing mortgage payment as a commitment.
+* Over **90% LTV**, the existing mortgage must be redeemed.
 * We need a copy of the estate agent's sales details.
 
 ### Existing Matrimonial/Dependent Relative(s) Mortgages to Remain
@@ -390,71 +405,84 @@ If the existing matrimonial/dependent relative(s) mortgage is to stay, we must b
 
 We'll assess as follows:
 
-* Up to 90% LTV, we will treat the existing mortgage payment as a commitment.
-* Above 90% LTV the existing mortgage must be redeemed.
+* Up to **90% LTV**, we will treat the existing mortgage payment as a commitment.
+* Above **90% LTV** the existing mortgage must be redeemed.
 
 ### Existing Buy-to-Let Properties in the Background
 
 * Professional landlords are considered self-employed.
-  * We need two years' accounts and/or tax assessments to complete an [assets and liabilities statement](https://www.thenottingham.com/media/eyqalewt/buy-to-let-assets-and-liabilities-form.pdf).
+
+  * We need two years' accounts and/or tax assessments to complete an assets and liabilities statement.
 * Where the existing property has little equity or negative equity, we may be unable to help, and the case should be referred to us before submission.
 * For non-professional landlords, we'll consider BTL (buy-to-let) mortgages as self-financing, subject to:
-  * If the rental coverage is less than 125%, any shortfall will be considered in the affordability calculation.
+
+  * If the rental coverage is less than **125%**, any shortfall will be considered in the affordability calculation.
   * Consent to let will be needed, or proof the mortgage is on a BTL basis (BTL mortgage statement).
   * Proof of rental income and mortgage payment/s on the most recent bank statement/s.
   * This calculation including any added capital raising for deposit funds.
-  * Rental coverage must be 125% of the mortgage commitment.
+  * Rental coverage must be **125% of the mortgage commitment**.
 * New residential mortgages can be considered up to a maximum of **90% LTV**.
-
----
 
 ## The Property
 
 ### Acceptable Properties
 
-* **Acceptable cladding types:** brick, block, or other strong, fireproof cladding with the right safety certification.
-* **Solar panels:** houses fitted with solar panels are acceptable.
+* Acceptable cladding types: brick, block, or other strong, fireproof cladding with the right safety certification.
+* Solar panels: houses fitted with solar panels are acceptable.
+
   * Provided that adequate insurance is in place to cover any damage caused to the property by the solar panels.
   * New build warranties: we accept NHBC, Premier Guarantee, BLP, Buildzone, LABC, The Q Policy, Protek, and ICW.
   * Our free legal service is unavailable for remortgage applications on houses with leased solar panels.
-* **Wimpey No-fines House and Laing Easiform house** can be considered subject to a satisfactory valuation.
-* **Property must be of traditional construction** with brick or stone walls and pitched slate or tile roof.
-* **New build houses** are acceptable up to 90% LTV (we can accept builders' deposits for foreign national or returning expat mortgages up to 5%). A new build property is defined as one built or converted in the last two years, which has never been sold. NBS do not accept the following: builders cash incentives over 5%, help to buy scheme, armed forces help to buy scheme, shared ownership, own and new, deposit unlock.
-* **Houses and bungalows** with a minimum internal floor area of **50 m²**.
-* **Flats and studios** with a minimum internal floor area of **30 m²**.
+* Wimpey No-fines House and Laing Easiform house can be considered subject to a satisfactory valuation.
+* Property must be of traditional construction with brick or stone walls and pitched slate or tile roof.
+* New build houses are acceptable up to **90% LTV** (we can accept builders' deposits for foreign national or returning expat mortgages up to **5%**).
+
+  * A new build property is defined as one built or converted in the last two years, which has never been sold.
+  * NBS do not accept the following:
+
+    * builders cash incentives over **5%**
+    * help to buy scheme
+    * armed forces help to buy scheme
+    * shared ownership
+    * own and new
+    * deposit unlock
+* Houses and bungalows with a minimum internal floor area of **50 m²**.
+* Flats and studios with a minimum internal floor area of **30 m²**.
 * The property must be the applicant's main permanent residence.
-* **Structurally Insulated Panel Systems (SIPS).**
-* **Insulated concrete formwork (ICF).**
-* **Modern timber frame or oak frame.**
+* Structurally Insulated Panel Systems (SIPS).
+* Insulated concrete formwork (ICF).
+* Modern timber frame or oak frame.
 * Properties in **England and Wales**.
-* **Modern steel frame.**
+* Modern steel frame.
 
 ### Ground Rent and Service Charge
 
 #### Outside London
 
-* Ground rent is **£250 max**, with a review period of at least 10 years.
+* Ground rent: **£250 max**, with a review period of at least **10 years**.
 * Service charges: generally **1%** considered acceptable but can be up to **1.5%** depending on facilities – lifts, concierge, gym, communal grounds, etc.
 
 #### Inside London
 
-* Ground rent is **£1,000 max**, with a review period of at least 10 years.
+* Ground rent: **£1,000 max**, with a review period of at least **10 years**.
 * Service charges: generally **1%** considered acceptable but can be up to **1.5%** depending on facilities – lifts, concierge, gym, communal grounds, etc.
 
 ### Flats
 
 * Flats/maisonettes (including new builds) are acceptable for owner-occupiers but must be leasehold.
+
   * (not for BTL applications).
 * Flats requiring an EWS1 form must provide a valid EWS1 form to support the property valuation.
-* Flat roofs are acceptable and subject to a minimum 25-year insurance-backed guarantee.
+* Flat roofs are acceptable and subject to a minimum **25-year insurance-backed guarantee**.
 * If above a shop, the flat must have its entrance separate from the shop entrance.
 * No limit on the number of storeys for flats on both residential and BTL mortgages.
-* Max LTV on residential mortgages for non-new-build flats is 90%.
+* Max LTV on residential mortgages for non-new-build flats is **90%**.
 * We'll only lend on flats above the fourth floor with lift access.
 
 ### Unacceptable Properties
 
 * Any construction covered by Housing Defect laws.
+
   * Includes high alumina cement, prefabricated reinforced concrete and large panel systems.
 * Ex-local authority and housing association (ex-public sector flats), including Right to Buy flats.
 * Purchases that the vendor has owned for less than six months.
@@ -476,8 +504,6 @@ All products are subject to valuation. These are instructed via a panel manageme
 
 Both freehold and leasehold are acceptable. If leasehold, the minimum required unexpired term on a lease must be at least **85 years** from the commencement of the mortgage.
 
----
-
 ## Special Schemes
 
 ### Introduction
@@ -488,13 +514,17 @@ Shared ownership/shared equity/Government HomeBuy purchases are not acceptable. 
 
 Applications are considered on the following basis:
 
-The second charge will require a Deed of Postponement at extra cost to the applicant. This does not apply if only 12 months of the discount period remain.
+The second charge will require a Deed of Postponement at extra cost to the applicant. This does not apply if only **12 months** of the discount period remain.
 
 * If no added funds are being raised, remortgaging a Right to Buy (RTB) property within the five-year pre-emption period can be considered.
 * The RTB is usually restricted to the official tenants who must also be party to the mortgage.
 * We don't offer RTB on flats, only houses.
-* Maximum loan **100%** of the discounted purchase price plus up to £250 costs.
+* Maximum loan **100%** of the discounted purchase price plus up to **£250** costs.
 * No added borrowing for home improvements is available.
 * A copy of the RTB letter should be obtained.
 
----
+## Main URLs and Contact Information
+
+* [https://www.thenottingham.com/intermediaries/lending-criteria/residential](https://www.thenottingham.com/intermediaries/lending-criteria/residential)
+* [https://www.thenottingham.com/intermediaries/lending-criteria/overview](https://www.thenottingham.com/intermediaries/lending-criteria/overview)
+* Intermediary Support: 0344 481 2010 (Press option two for further options)

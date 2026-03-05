@@ -1,7 +1,5 @@
 # ALDERMORE – BUY TO LET CRITERIA GUIDE
 
----
-
 **LENDER:** Aldermore
 **PRODUCT:** Buy to Let
 **DOCUMENT TYPE:** Buy to Let criteria. 7 sections: 1 Loan, 2 Applicants, 3 Income and Affordability, 4 Credit Status, 5 Property, 6 Legal Fees, 7 Legal Q&As.
@@ -16,8 +14,6 @@ For intermediary use only. Aldermore Bank PLC is authorised by the Prudential Re
 **Contact:** 0333 321 1000 | [aldermore.co.uk/intermediaries/mortgages](https://aldermore.co.uk/intermediaries/mortgages)
 
 **Note:** Our lending criteria is now searchable on our website. Cases will only be passed for underwriter review once our office based BDM team are confident everything is supplied to our minimum standards.
-
----
 
 # SECTION 1 – LOAN
 
@@ -145,8 +141,6 @@ Monetary sales incentives, such as builder gifted deposit, payment of legal cost
 
 Non-monetary sales incentives, such as white goods, electrical equipment, flooring and curtains/blinds and the upgrade of kitchen/bathroom are acceptable.
 
----
-
 # SECTION 2 – APPLICANTS
 
 ## Maximum number of applicants and properties
@@ -210,8 +204,6 @@ Where the applicant is a Limited Company and the loan amount is £1m and over we
 **Condition (Property type):** Single dwelling residential security only
 **Condition (Additional):** Where both applicants are first time landlords, one must meet the key criteria; minimum 6 months required following a completed first time landlord application before a subsequent application; for multi unit freeholds at least one applicant must have been a landlord for 6 months; for HMOs at least one applicant must have been a landlord for 1 year
 
----
-
 # SECTION 3 – INCOME AND AFFORDABILITY
 
 ## Minimum Interest Cover Ratio (ICR) affordability
@@ -274,8 +266,6 @@ Portfolio landlords - 4 or more mortgaged buy to let properties in total.
 * Cashflow statements for 12 month period
 * Statement of assets and liabilities
 
----
-
 # SECTION 4 – CREDIT STATUS
 
 ## Acceptable adverse credit
@@ -293,8 +283,6 @@ This refers to the maximum acceptable credit status within the stated term:
 * **Repossessions:** Not Acceptable – forced or voluntary repossessions unacceptable
 * **Corporate Gazette History:** No directorships with Creditors Voluntary or Compulsory Liquidation, Administration Orders, Winding Up Orders or Receiverships active in last 3 years
 * **Debt Management Plan:** Considered when satisfactorily maintained for last 12 months
-
----
 
 # SECTION 5 – PROPERTY
 
@@ -456,8 +444,6 @@ Please note this list may not cover all property types, so if you have any quest
 * Any property determined as unacceptable security by the appointed valuer
 * Properties situated above restaurants, takeaways or public houses
 
----
-
 # SECTION 6 – LEGAL FEES
 
 ## For buy to let landlords purchasing / remortgaging property through the Residential Portal (X case reference)
@@ -510,8 +496,6 @@ In order to proceed on these transactions, we will require the model articles to
 
 See our buy to let conveyancing guide for more information.
 
----
-
 # SECTION 7 – LEGAL Q&As
 
 ## How can I check if my applicant's solicitors are on your panel for a case I've submitted?
@@ -528,12 +512,9 @@ Our agreement with our free legal partners is that a mortgage offer is required 
 
 You can choose to instruct your own solicitor to act dual representation for yourself and the bank. Please enter their details during the application process, ensuring that they meet our qualification criteria as noted earlier in this document.
 
----
-
 **FOR INTERMEDIARY USE ONLY**
 
 Aldermore Bank PLC is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (Financial Services Register number: 204503). Registered Office: Apex Plaza, Forbury Road, Reading, RG1 1AX. Registered in England. Company No. 947662. Invoice Finance, Commercial Mortgages, Property Development, Buy-To-Let Mortgages and Asset Finance lending to limited companies are not regulated by the Financial Conduct Authority or Prudential Regulation Authority. Asset Finance lending where an exemption within the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 applies, is exempt from regulation by the Financial Conduct Authority or Prudential Regulation Authority.
 
 **Contact:** 0333 321 1000 | [aldermore.co.uk/intermediaries/mortgages](https://aldermore.co.uk/intermediaries/mortgages)
 
----

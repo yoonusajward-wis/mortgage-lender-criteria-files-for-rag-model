@@ -1,7 +1,5 @@
 # Principality Building Society – Buy to Let & Holiday Let Criteria
 
----
-
 **LENDER:** Principality Building Society
 **PRODUCT:** Buy to Let & Holiday Let
 **DOCUMENT TYPE:** Lending Criteria
@@ -9,8 +7,6 @@
 **FOR INTERMEDIARY USE ONLY**
 
 **Source:** https://www.principality.co.uk/intermediaries/our-mortgage-lending-criteria/buy-to-let-and-holiday-let
-
----
 
 ## SECTION 1 – MORTGAGE TERM
 
@@ -20,14 +16,10 @@
 - For buy to let or holiday let applications, the mortgage must be repaid before the eldest applicant's 85th birthday.
 - Leasehold properties: minimum unexpired lease term at start of mortgage is 85 years.
 
----
-
 ## SECTION 2 – OFFER PERIOD
 
 - Residential and buy to let purchase and remortgage offers: maximum validity 180 days (6 months).
 - New build purchase offers: maximum validity 240 days (8 months).
-
----
 
 ## SECTION 3 – CAPITAL RAISING
 
@@ -42,21 +34,15 @@ Further lending, Lifestyle Loan, or remortgage for existing borrowers is allowed
 
 - Debt consolidation on buy to let mortgages: not acceptable.
 
----
-
 ## SECTION 4 – MINIMUM LOAN AMOUNT
 
 - Minimum loan amount (new build, buy to let, holiday let): £25,000.
-
----
 
 ## SECTION 5 – HMO AND STUDENT LETS
 
 Not acceptable:
 - Houses with multiple occupancy (HMOs).
 - Student lets.
-
----
 
 ## SECTION 6 – AGE LIMITS (BUY TO LET AND HOLIDAY LET)
 
@@ -78,16 +64,12 @@ In all other circumstances:
 
 - Where the term extends beyond the oldest borrower's 76th birthday, the underwriter must be satisfied the loan remains affordable following the death of either borrower.
 
----
-
 ## SECTION 7 – OVERPAYMENTS
 
 - Overpayments are allowed on all non-flexible residential, buy to let and holiday let mortgages.
 - Maximum annual overpayment allowance: 10% of outstanding balance as at 1 January each calendar year.
 - Regular or lump sum overpayments are allowed.
 - Overpayments above the annual allowance may incur an early repayment charge.
-
----
 
 ## SECTION 8 – HOLIDAY LET ELIGIBILITY
 
@@ -111,14 +93,10 @@ At 75% LTV:
 - Minimum loan: £25,000.
 - Maximum loan: £750,000.
 
----
-
 ## SECTION 9 – HOLIDAY LET RENTAL COVERAGE
 
 - Remortgage where property was purchased before January 2017 on a holiday let basis: minimum 125% at 7.80%.
 - Remortgage where property was purchased after January 2017 on a holiday let basis: minimum 145% at 7.80%.
-
----
 
 ## SECTION 10 – HOLIDAY LET RENTAL INCOME CALCULATION
 
@@ -132,8 +110,6 @@ At 75% LTV:
 - Assumed occupancy level: 30 weeks.
 - Maximum personal use by applicant: 2 months per annum.
 
----
-
 ## SECTION 11 – CONSUMER BUY TO LET (CBTL)
 
 **Allowed when:**
@@ -144,8 +120,6 @@ At 75% LTV:
 
 - New regulated buy to let applications: not acceptable.
 - Existing regulated buy to let accounts: serviced.
-
----
 
 ## SECTION 12 – BUY TO LET ELIGIBILITY
 
@@ -173,16 +147,12 @@ At 75% LTV:
 - Minimum loan: £25,000.
 - Maximum loan: £750,000.
 
----
-
 ## SECTION 13 – BUY TO LET RENTAL COVERAGE
 
 - Standard new purchases: minimum 145% at 5.50%.
 - Remortgage where property was purchased before January 2017 on a BTL basis: minimum 125% at 5.50%.
 - Remortgage where property was purchased after January 2017 on a BTL basis: minimum 145% at 5.50%.
 - Remortgage with additional borrowing on a BTL property: minimum 145% at 5.50%.
-
----
 
 ## SECTION 14 – BUY TO LET LETTINGS REQUIREMENTS
 
@@ -202,12 +172,8 @@ Lettings must be conducted under:
 - Company lets.
 - Local authority lets.
 
----
-
 ## SECTION 15 – GIFTED EQUITY
 
 - For purchases using gifted equity, contact the local BDM before submitting the case.
-
----
 
 *END OF DOCUMENT*

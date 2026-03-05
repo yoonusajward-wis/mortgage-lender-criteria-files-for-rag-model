@@ -1,7 +1,5 @@
 # Suffolk Building Society – Residential Mortgage Criteria
 
----
-
 **LENDER:** Suffolk Building Society
 **PRODUCT:** Residential Mortgages
 **DOCUMENT TYPE:** Lending Criteria
@@ -9,8 +7,6 @@
 **FOR INTERMEDIARY USE ONLY**
 
 **Source:** https://www.suffolkforintermediaries.co.uk/lending-criteria/?type=residential
-
----
 
 ## SECTION 1 – APPLICANT ELIGIBILITY
 
@@ -47,8 +43,6 @@
 - Applicants on the CIFAS register can be considered — refer cases.
 - Criminal convictions: must be spent and not monetary-related (e.g. no fraud, money laundering); applicant must be able to obtain home insurance on standard terms.
 
----
-
 ## SECTION 2 – CREDIT HISTORY
 
 - Arrears: historic arrears considered; no arrears in the last 3 years.
@@ -63,8 +57,6 @@
 - Debts with less than 6 months remaining: ignored.
 - Repossessions: acceptable up to 75% LTV if more than 3 years ago and any shortfall repaid in full by the applicant.
 - Payday loans: refer to BDM with frequency, value and time period.
-
----
 
 ## SECTION 3 – INCOME AND AFFORDABILITY
 
@@ -121,8 +113,6 @@
 - Foster income: considered if 3 years' fostering and not sole income — contact BDM.
 - Seafarers: considered — contact BDM.
 
----
-
 ## SECTION 4 – INCOME TYPES
 
 - Benefits (100%): Child Benefit, Child Tax Credits, Working Tax Credits — must be payable for next 5 years minimum.
@@ -133,8 +123,6 @@
 - Investment income: use 75%.
 - Foreign currency income: accepted; convert to GBP and apply 20% haircut, then standard affordability. Permitted currencies (residential/regulated BTL): GBP, EUR, CHF, NOK, USD, CAD, SGD, HKD, AED, KWD, QAR, AUD, NZD, DKK, SEK, SAR. If Expat with foreign income, Expat product applies.
 
----
-
 ## SECTION 5 – NATIONALITY AND RESIDENCY
 
 - Foreign nationals with ILR: accepted on standard criteria.
@@ -143,8 +131,6 @@
 - Expats: residential LTV up to 90%; residential and regulated BTL accepted. Currencies: GBP, EUR, CHF, NOK, USD, CAD, SGD, HKD, AED, KWD, QAR, AUD, NZD, DKK, SEK, SAR. Foreign currency income: convert to GBP, 20% haircut, then deduct tax/NI. Minimum income £40,000 (or equivalent). Non-UK national can be included if case fits policy and affordability using UK national's income and details. Not acceptable: sanctioned or war-torn countries; self-employed Expats. Returning Expats: can be accepted — refer to BDM.
 - Visas: Family/Spousal — can be considered (referral recommended). Tier 1 working visas not accepted. Skilled Worker Visa (formerly Tier 2): accepted; must have 12 months remaining at application.
 - Gifted deposits not acceptable on Expat or Foreign National applications.
-
----
 
 ## SECTION 6 – LOAN PARAMETERS
 
@@ -159,8 +145,6 @@
 - Length of time property owned: must have been owned for 6 months before remortgage/additional borrowing.
 - Lending areas: Residential UK and Residential Expat accepted; Self Build accepted; Shared Ownership temporarily withdrawn.
 
----
-
 ## SECTION 7 – DEPOSITS
 
 - Gifted deposit: accepted up to 100%; gift must be from close family (parent, grandparent, son/daughter, brother/sister). If only 5% is gifted, client must add 5% themselves or have 12 months' rental history. Not acceptable on Expat or Foreign National applications.
@@ -170,8 +154,6 @@
 - Forces Help to Buy: accepted.
 - Loan repayable on sale of property (divorce cases): acceptable — contact BDM.
 - Raising funds on another property: acceptable (included in affordability).
-
----
 
 ## SECTION 8 – PROPERTY CRITERIA
 
@@ -215,8 +197,6 @@
 - Listed properties (Grade I / II / II*): acceptable.
 - Maximum acreage: 10 acres.
 
----
-
 ## SECTION 9 – REPAYMENT METHODS
 
 - Capital & Interest (Repayment): accepted.
@@ -226,8 +206,6 @@
 - Unacceptable vehicle: annual lump sum repayments.
 - Interest-only LTV caps: 70% if standard/going into retirement (may be topped up with 10% repayment to 80%).
 - Minimum income for IO: no minimum as standard.
-
----
 
 ## SECTION 10 – SPECIAL PRODUCTS AND REMORTGAGE PURPOSE
 
@@ -254,13 +232,9 @@
 - Purchase of land: accepted.
 - School fees: accepted.
 
----
-
 ## SECTION 11 – IMPORTANT NOTES
 
 - Main criteria URL: https://www.suffolkforintermediaries.co.uk/lending-criteria/?type=residential
 - For referrals and case-by-case discussions contact the Business Development Team (BDM).
-
----
 
 *END OF DOCUMENT*

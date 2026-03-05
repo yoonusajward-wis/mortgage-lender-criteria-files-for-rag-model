@@ -1,7 +1,5 @@
 # Suffolk Building Society – Buy-to-Let and Holiday Let Criteria
 
----
-
 **LENDER:** Suffolk Building Society
 **PRODUCT:** Buy-to-Let and Holiday Let Mortgages
 **DOCUMENT TYPE:** Lending Criteria
@@ -9,8 +7,6 @@
 **FOR INTERMEDIARY USE ONLY**
 
 **Source:** https://www.suffolkforintermediaries.co.uk/lending-criteria/?type=btl
-
----
 
 ## SECTION 1 – APPLICANT ELIGIBILITY
 
@@ -60,8 +56,6 @@
 - CIFAS: customers on the CIFAS register can be considered — refer cases.
 - Criminal convictions: conviction must be spent and cannot be monetary related (e.g. fraud, money laundering). Applicant must be able to obtain home insurance on standard terms.
 
----
-
 ## SECTION 2 – CREDIT HISTORY
 
 - Arrears: historic arrears considered; no arrears in the last 3 years.
@@ -74,8 +68,6 @@
 - Debt Relief Order (DRO): up to 75% LTV; must have been satisfied 3 years.
 - IVA: up to 75% LTV; must have been satisfied 3 years.
 - Payday loans: refer details (frequency, value, time period) to Business Development Team.
-
----
 
 ## SECTION 3 – INCOME AND AFFORDABILITY
 
@@ -98,8 +90,6 @@
 
 - Not accepted currently.
 
----
-
 ## SECTION 4 – LOAN PARAMETERS
 
 - Maximum loan: £1 million (larger loans — contact Business Development Team).
@@ -113,8 +103,6 @@
 - Back-to-back transactions: property must have been owned for 6 months before remortgage application accepted.
 - Changes to application post offer: potentially allowed; subject to further underwrite and possibly additional admin fee — contact Business Development Team.
 
----
-
 ## SECTION 5 – DEPOSITS
 
 - Gifted deposit accepted for UK applicants (must be from immediate family members).
@@ -122,8 +110,6 @@
 - Capital raising on another property: considered; funds cannot have originated from Suffolk BS.
 - Concessionary purchase: treated as transaction under value; applicant must provide deposit in line with product (e.g. 80% LTV).
 - Vendor-paid deposits: in some circumstances accepted, maximum 5%; acceptable where developer pays as part of marketing and valuer confirms full valuation; for small independent builder written confirmation that paying deposit is part of marketing activity required; applicant must also provide 15% deposit.
-
----
 
 ## SECTION 6 – PROPERTY CRITERIA
 
@@ -164,8 +150,6 @@
 - Acceptable: NHBS Guarantee; Premier Guarantee Scheme; Building Life Plans; Build-Zone (includes BuildCare); Checkmate (Castle 10); ICW; LABC; Professional Consultants Certificate.
 - Professional Consultants Certificate: Architect's certificate accepted where supervised by a qualified person (Conveyancer must ensure supervisor is member of: RICS (FRICS/MRICS), IStructE (F.I.Struct.E/M.I.Struct.E), CIOB (FCIOB/MCIOB), ASI (FASI/MASI), ABE (FB.Eng/MB.Eng), CIAT, Architect registered with ARB, ICE (FICE/MICE)). Conveyancer must obtain copy of Professional Indemnity insurance with cover of not less than six years.
 
----
-
 ## SECTION 7 – TENANCY AND LETTING
 
 - Tenancy: Assured Shorthold Tenancy; minimum 6 months AST; maximum 36 months AST.
@@ -175,8 +159,6 @@
 - DWP/Housing Benefit tenants: can consider — contact Business Development Team.
 - Property let via Airbnb (Holiday Let): accepted; lettings agent (not Airbnb) must provide known or anticipated letting value; same rental coverage assessment as standard holiday let.
 
----
-
 ## SECTION 8 – HOLIDAY LET
 
 - Accepted; maximum 80% LTV (product dependent).
@@ -185,8 +167,6 @@
 - Affordability: average of low, medium and high season weekly rent × 30 weeks (35 weeks if let as holiday let for last 2 years by applicants), divided by 12 for average monthly rental, then standard ICR.
 - Lettings agent letter required for known or anticipated rental (not Airbnb).
 - Personal use: up to 60 days permitted.
-
----
 
 ## SECTION 9 – SPECIAL APPLICATIONS AND REMORTGAGE PURPOSE
 
@@ -212,21 +192,15 @@
 - Medical expenses: can consider — contact BDM.
 - School fees: can consider — contact BDM.
 
----
-
 ## SECTION 10 – PORTFOLIO LANDLORDS
 
 - Portfolio landlord applications not accepted.
 - Maximum 3 properties per applicant (including limited company and including unencumbered and mortgaged).
-
----
 
 ## SECTION 11 – OTHER
 
 - Private local authority searches: potentially accepted if carried out by suitably qualified search agent with adequate indemnity insurance or search insurance protecting the Society, solicitor confirms title good and marketable, and search firm subscribes to the Search Code (Property Code Compliance Board).
 - Main criteria URL: https://www.suffolkforintermediaries.co.uk/lending-criteria/?type=btl
 - For referrals and case-by-case discussions contact the Business Development Team.
-
----
 
 *END OF DOCUMENT*

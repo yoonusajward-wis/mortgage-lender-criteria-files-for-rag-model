@@ -1,7 +1,5 @@
 # BATH BUILDING SOCIETY – BUY TO LET LENDING CRITERIA
 
----
-
 **LENDER:** Bath Building Society
 **PRODUCT:** Buy to Let
 **DOCUMENT TYPE:** Buy to Let lending criteria.
@@ -13,8 +11,6 @@
 **RAG convention:** Criteria use explicit labels **Maximum:** **Minimum:** **Allowed:** **Not Acceptable:** **Condition:** where applicable for retrieval.
 
 **Contact:** Intermediary team – see Bath Building Society website.
-
----
 
 # SECTION 1 – BUY TO LET LENDING CRITERIA
 
@@ -579,5 +575,4 @@ Valuation Fees:
 - For any further questions about criteria, please contact the Intermediary team
 - To search for specific items in the Society's lending criteria, you can select Buy To Let or Residential criteria, then search the relevant category, filter by sub-category, or search by topic or keyword
 
----
 *End of criteria.*

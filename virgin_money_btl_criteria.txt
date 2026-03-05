@@ -1,7 +1,5 @@
 # VIRGIN MONEY – BTL LENDING CRITERIA
 
----
-
 **LENDER:** Virgin Money
 **PRODUCT:** Buy to Let
 **DOCUMENT TYPE:** BTL Lending Criteria Guide
@@ -9,13 +7,9 @@
 **SOURCE:** [Virgin Money Intermediaries BTL Criteria](https://intermediaries.virginmoney.com/lending-criteria/buy-to-let/)
 **FOR INTERMEDIARY USE ONLY**
 
----
-
 ## Links
 
 * [BTL Criteria](https://intermediaries.virginmoney.com/lending-criteria/buy-to-let/) | [Product Guide PDF](https://intermediaries.virginmoney.com/downloads/pdf/product_guide.pdf) | [Affordability Calculator](https://intermediaries.virginmoney.com/affordability-calculator/) | [Packaging Requirements](https://intermediaries.virginmoney.com/packaging-requirements/) | [Retrofit Boost](https://intermediaries.virginmoney.com/retrofit-boost-mortgage/) | [Downloads](https://intermediaries.virginmoney.com/useful-downloads/)
-
----
 
 ## Adverse credit
 
@@ -43,8 +37,6 @@ None of these are acceptable within the last 6 years, even where satisfied or di
 ### Repossession
 Customers must never have had a property repossessed.
 
----
-
 ## Affordability types
 
 We have two types of BTL assessment, rental cover and top slicing.
@@ -58,26 +50,18 @@ Top slicing uses a customer's spare personal income to boost their borrowing amo
 ### Affordability calculator
 Our [affordability calculator](https://intermediaries.virginmoney.com/affordability-calculator/) will let you know how much we could lend. It will first look at whether we could lend the amount requested using our stressed ICR rental cover assessment. If we can't get to the amount you need but our top slicing assessment might help, it will then ask for personal income details.
 
----
-
 ## Age
 
 - The minimum age at the start of the application is 21 for the first named applicant, and 18 for any additional applicants
 - The maximum age at the end of the mortgage term is 85 and 364 days. If top slicing is used, the maximum age at the end of the mortgage term is 75 and 364 days
 
----
-
 ## Applicants
 
 The maximum number of applicants is 4. If there are more than 2 applicants our online system can't be used and to get an illustration, a DIP or to apply, call us on 0345 601 0680.
 
----
-
 ## Assignable contracts
 
 We do not lend on assigned contracts. This is where a vendor allows the assignment of a purchase contract from the original buyer to a new buyer before completion.
-
----
 
 ## Back to back transactions
 
@@ -89,8 +73,6 @@ Also known as a day one remortgage, we allow a remortgage within 6 months of pur
 
 ### Contact us before applying
 You need to let us know if a case is a back to back transaction before applying.
-
----
 
 ## Background buy-to-lets
 
@@ -121,15 +103,11 @@ The background BTL portfolio must have an aggregate maximum LTV of 75% and cover
 **Like for like remortgage**
 Where the application being placed with us is a remortgage with no additional borrowing there is no maximum number of background BTLs, and the portfolio LTV and post code tests do not apply. The background BTL portfolio must cover its mortgage payments by 125% at a stressed interest rate of 5%. This excludes the mortgage being placed with us but includes any other mortgaged or unmortgaged BTLs including where held in an SPV. The maximum with Virgin Money of 5 BTLs and £3,000,000 balances still apply.
 
----
-
 ## Bank statements
 
 We don't always need bank statements, but may ask for them to evidence rental income, personal income where top slicing is being used, or in certain cases where our basic rate tax ICR is used. We'll let you know if we need it.
 
 View [packaging requirements](https://intermediaries.virginmoney.com/packaging-requirements/)
-
----
 
 ## Bonus and variable income
 
@@ -148,8 +126,6 @@ Exceptionally, we may be able to use up to 75% of variable income where a 3 year
 
 View [packaging requirements](https://intermediaries.virginmoney.com/packaging-requirements/)
 
----
-
 ## Capital raising
 
 ### Allowable purposes
@@ -162,8 +138,6 @@ The maximum LTV for additional borrowing, including where it is for debt consoli
 
 ### Debt consolidation
 For top slicing, we include the monthly payments of any debts being repaid (other than Help to Buy Equity Loans) in our affordability assessment as if they were not being paid off.
-
----
 
 ## Cladding
 
@@ -200,15 +174,11 @@ For changes to an existing Virgin Money mortgage we will assess each case based 
 
 For any other questions relating to EWS please refer to the [FAQs](https://www.rics.org/news-insights/current-topics-campaigns/fire-safety/cladding-external-wall-system-ews-faqs) provided by RICS or visit the [Government's website](https://www.gov.uk/guidance/cladding-remediation) to view their guidance on cladding.
 
----
-
 ## Consumer buy-to-let
 
 A consumer BTL mortgage is defined by MCD as a "BTL mortgage contract which is not entered into by the borrower wholly or predominantly for the purposes of a business carried on, or intended to be carried on, by the borrower".
 
 We accept consumer BTL applications from brokers with the necessary permissions, and our lending criteria and product range are the same for non-regulated BTL and consumer BTL mortgages.
-
----
 
 ## Contractors
 
@@ -238,13 +208,9 @@ We assess CIS income using our [self employed policy](https://intermediaries.vir
 ### Evidence
 View [packaging requirements](https://intermediaries.virginmoney.com/packaging-requirements/)
 
----
-
 ## Debt consolidation
 
 The maximum LTV for debt consolidation is 80%. For top slicing, we include the monthly payments of any debts being repaid (other than Help to Buy Equity Loans) in our affordability assessment as if they were not being paid off.
-
----
 
 ## Deposit
 
@@ -269,8 +235,6 @@ Deposits sourced from Rotating Savings and Credit Associations (ROSCA), for exam
 ### Evidence
 We do not usually require proof of deposit to be provided. The legal rep will confirm the deposit as part of their due diligence. If the deposit is gifted, we require a [gifted deposit form](https://intermediaries.virginmoney.com/downloads/pdf/gifted-deposit-template.pdf).
 
----
-
 ## Discounted purchase
 
 Also known as a concessionary purchase, an undervalue purchase or use of gifted equity as deposit for a purchase is acceptable when buying from a family member. The seller cannot live in the property after it has been sold.
@@ -281,49 +245,33 @@ The LTV will be calculated on the property value instead of the purchase price a
 ### Conditions
 The legal rep must establish that the family member selling the property is not insolvent and/or arrange suitable indemnity insurance for the full value of the property, and the buyer and seller must have separate legal representation. We will need a letter from the family member(s) gifting the equity to confirm that it is a gift and they do not expect to be repaid during the recipient's ownership of the property or on its sale. We do not allow a remortgage within 6 months of being gifted a property.
 
----
-
 ## Energy Performance Certificate (EPC)
 
 All BTLs must have a minimum EPC rating of E. For a new build, it can be a Predicted Energy Assessment (PEA) or a Standard Assessment Procedure calculation (SAP) rather than EPC. We do not usually require evidence of the rating, but we'll let you know if we do.
-
----
 
 ## Existing customers - additional borrowing
 
 *Note: This section was not available in the source material at the time of extraction.*
 
----
-
 ## Existing customers - consent to reside
 
 *Note: This section was not available in the source material at the time of extraction.*
-
----
 
 ## Existing customers - overpayments or lump sum payments
 
 *Note: This section was not available in the source material at the time of extraction.*
 
----
-
 ## Existing customers - porting
 
 *Note: This section was not available in the source material at the time of extraction.*
-
----
 
 ## Existing customers - product transfer
 
 *Note: This section was not available in the source material at the time of extraction.*
 
----
-
 ## Ex-pats
 
 We do not lend to ex-pats or customers resident abroad.
-
----
 
 ## First time buyers
 
@@ -332,8 +280,6 @@ At least one customer must have been an owner occupier for 6 months before appli
 - The application is for a portfolio landlord
 - One or more of the customers has an existing BTL mortgage (or residential with CTL in place) with Virgin Money
 - One or more of the customers lives in tied accommodation
-
----
 
 ## Flats
 
@@ -358,8 +304,6 @@ Flats must be leasehold (or in Scotland, heritable or leasehold). Share of freeh
 
 The minimum property value for all property types is £50,000 up to 75% LTV or £100,000 over 75% LTV.
 
----
-
 ## Foreign currency
 
 We do not lend in the case of foreign currency loans. This means:
@@ -370,37 +314,25 @@ We do not lend in the case of foreign currency loans. This means:
 ### UK residency
 UK residency is determined by the UK's Statutory Residence Test. This does not always require a minimum number of days an individual must be physically present in the UK but confirms if you've been in the UK for 183 or more days in a given tax year, you'll be a UK resident.
 
----
-
 ## Foreign nationals
 
 Virgin Money does not differentiate between UK and Irish Nationals in our lending policy. Non-UK/Irish nationals with either the permanent right to reside and work in the UK or a settled or pre-settled EU Settlement Scheme status are accepted on standard lending policy. All applicants must be resident in the UK and have a 3 year consecutive UK address history. We cannot lend to nationals of a [country subject to financial sanctions](https://www.gov.uk/government/collections/financial-sanctions-regime-specific-consolidated-lists-and-releases) or to a foreign national with diplomatic immunity.
-
----
 
 ## Foster carers
 
 The following information relates to our treatment of income for top slicing. Income from foster caring is acceptable and is subject to our usual self employed policy. Any individuals under foster care should be included as dependants within the application.
 
----
-
 ## Greener mortgages
 
 Our Greener mortgage products are currently only available for residential applications.
-
----
 
 ## Guarantors
 
 We don't offer guarantor mortgages.
 
----
-
 ## HMOs
 
 We do not lend on Houses in Multiple Occupation. An HMO is a property with 3 or more tenants forming more than 1 household who share a toilet, bathroom or kitchen. A household is either a single person or a family, (including unmarried partners). You might also want to check our criteria for tenancy.
-
----
 
 ## Income
 
@@ -481,19 +413,13 @@ View [rental cover requirements](https://intermediaries.virginmoney.com/lending-
 - [Packaging requirements](https://intermediaries.virginmoney.com/packaging-requirements/)
 - [Affordability calculator](https://intermediaries.virginmoney.com/affordability-calculator/)
 
----
-
 ## Interest only
 
 We assume sale of the mortgaged property is the repayment vehicle for BTL. Please let us know if this is not the case.
 
----
-
 ## Joint borrower sole owner
 
 Also known as JBSO or JBSP, we don't offer joint borrower sole owner mortgages through Virgin Money. Clydesdale Bank offers JBSO mortgages on a residential basis but not BTL.
-
----
 
 ## Leasehold
 
@@ -507,8 +433,6 @@ Leases should have at least 85 years remaining at the time of application. If a 
 Leases which contain a provision for periodic increase of the ground rent are acceptable if the amount remains reasonable throughout its term. Increases should usually be linked to RPI or similar. If subject to a multiplier, any multipliers which cause a doubling of rent every period of 15 years or less are not permitted.
 
 Ground rent must not exceed £250 per annum at any point during the lease term. In Greater London it's £1,000. We don't accept indemnity policies for this matter, instead leases must be varied so that the ground rent does not rise above the threshold.
-
----
 
 ## Lending into retirement
 
@@ -526,8 +450,6 @@ For self-employed customers we may be able to use their current income up to age
 ### Acceptable pensions
 The following types of pension are all acceptable: annuities, occupational (defined benefits / final salary, defined contribution / money purchase), pension tax credits, personal (stakeholder, SIPP), state, war, war disability.
 
----
-
 ## Lending limits
 
 The maximum number of BTL properties mortgaged with Virgin Money is 5 with the total balance of all mortgages not exceeding £3,000,000.
@@ -535,13 +457,9 @@ The maximum number of BTL properties mortgaged with Virgin Money is 5 with the t
 **More information**
 Please see our loan size criteria for minimum and maximum individual loan sizes, background BTLs for maximum portfolio size and tests, and our maximum LTV criteria for LTV limits that may apply.
 
----
-
 ## Let-to-buy
 
 For the BTL remortgage transaction on a LTB, our standard BTL criteria and LTV limits apply. We require simultaneous completion with the onwards residential purchase. For our criteria on the residential purchase transaction in a let-to-buy, please check the [Let-to-buy article](https://intermediaries.virginmoney.com/lending-criteria/residential/let-to-buy/) of our residential criteria.
-
----
 
 ## Loan purpose
 
@@ -559,8 +477,6 @@ The maximum LTV for additional borrowing, including where it is for debt consoli
 ### Debt Consolidation
 We include the monthly payments of any debts being repaid in (other than Help to Buy Equity Loans), our affordability assessment as if they were not being paid off.
 
----
-
 ## Loan size
 
 ### Minimum loan size and property value
@@ -575,8 +491,6 @@ The maximum loan size is £1,000,000.
 - For maximum portfolio size and tests, background BTLs criteria
 - For LTV limits, view our maximum LTV criteria
 
----
-
 ## Maximum LTV
 
 ### Maximum LTV - loan size
@@ -588,19 +502,13 @@ The maximum loan size is £1,000,000.
 - BTL new build flats are accepted to 75% LTV
 - Product fees can be added to the loan, but the total borrowing must not exceed 80% LTV
 
----
-
 ## Minimum income
 
 We do not have a minimum income requirement for cases which meet our standard rental cover requirements but please enter all the customer's income in the application. Top slicing requires a minimum combined personal income of £50,000 (excluding income received from BTL properties). For the income we accept for top slicing applications check our income criteria.
 
----
-
 ## Multi unit freehold blocks (MUFBs)
 
 We do not lend on multi unit freehold blocks. A MUFB is a property split into two or more self-contained flats (no shared kitchen, bathroom, etc), each let on a single tenancy agreement with its own utilities. These properties are often houses which have been converted into flats, but the building has been left on a single freehold title without the creation of individual leases for each flat. A lender's security would usually be the freehold title upon which they would place a single mortgage. If the flats were on individual leasehold titles then we could lend, and would require separate mortgage applications per flat.
-
----
 
 ## New build
 
@@ -629,13 +537,9 @@ Properties built or converted in the last 10 years must have been issued with an
 ### Offers
 New build offers are valid for 210 days. Further offer extensions of 210 days require up to date documentation, a new on sale product to be selected and re-assessment against current criteria. We will also refer to the valuer to determine whether the original valuation report can be used, an updated valuation figure should be used or a reinspection is required. This will not result in additional product or valuation fees.
 
----
-
 ## Non-advised
 
 We allow advised and non-advised applications for BTL. We allow brokers to submit their own applications and we pay the usual procuration fee.
-
----
 
 ## Offers
 
@@ -652,15 +556,11 @@ Offer extensions are not available for non-new build properties. Instead, we req
 
 For new build properties we can extend offers for a further 210 days and will require up to date documentation, a new on sale product to be selected and re-assessment against current criteria. We will also refer to the valuer to determine whether the original valuation report can be used, an updated valuation figure should be used or a reinspection is required. This will not result in additional product or valuation fees.
 
----
-
 ## Parental leave
 
 The following information relates to our treatment of income for top slicing. When someone is on parental leave (often maternity leave or paternity leave), we will use their return to work income subject to confirming their intended return to work date, which should be in the next 12 months. We'll also need to confirm their working hours. If they're not returning in the next 3 months, we'll need to know how they will afford their commitments until they return to work (employee benefits, statutory pay, partner's income, savings, for example). If they're returning within the next 3 months this information is not needed. Any future childcare costs should be included within the application.
 
 View [packaging requirements](https://intermediaries.virginmoney.com/packaging-requirements/)
-
----
 
 ## Portfolio landlords
 
@@ -680,31 +580,21 @@ A portfolio landlord is someone who will have 4 or more mortgaged properties on 
 
 View [packaging requirements](https://intermediaries.virginmoney.com/packaging-requirements/)
 
----
-
 ## Probation
 
 The following information relates to our treatment of income for top slicing. If the customer is in probation or has not been in their current job for 6 months, this is acceptable as long as they have a permanent contract (as opposed to short term) and they've received their first payslip.
-
----
 
 ## Product fees
 
 Product fees can be added to the mortgage without affecting our LTV calculation, but the total borrowing cannot exceed 80% LTV. When an application includes more than one product the overall loan amount determines the products available, and the product fees for each product chosen will apply. All our mortgages have a funds transfer fee of £25 for us to send mortgage funds to the legal rep.
 
----
-
 ## Professional sportsperson or entertainer
 
 The following information relates to our treatment of income for top slicing. We can consider lending to a professional sportsperson or entertainer with at least 12 months remaining on their current contract. The maximum LTV is usually 75%. Lending to these customers is subject to underwriter assessment so please check with us before applying.
 
----
-
 ## Promotion or pay rise
 
 The following information relates to our treatment of income for top slicing. If an employed applicant has a confirmed pay rise (from a pay review or promotion, for example) we may be able to use the increased income if it is due to start within a reasonable time-frame. We'll need confirmation from the employer, and you should contact us before applying.
-
----
 
 ## Property
 
@@ -761,13 +651,9 @@ We are usually able to lend with no further requirements.
 
 You might also want to check our criteria on cladding, EPCs, flats, leasehold, multi unit freehold blocks, new build, and valuation fees.
 
----
-
 ## Regulated BTL
 
 If a property is lived in by a family member or if any of the applicants intend to live in the property, then the application should be submitted as residential, using a residential product, rather than BTL. Our usual residential lending criteria applies, but we will not include any rent received for the property, and our maximum LTV is 80%. To see how much we could lend, use our [residential affordability calculator](https://intermediaries.virginmoney.com/affordability-calculator/) instead of our BTL affordability calculator.
-
----
 
 ## Remortgage package
 
@@ -777,8 +663,6 @@ We'll choose a firm to complete the free basic legal work under the package. Add
 
 ### Free basic legal work eligibility
 Most transactions are eligible for the free basic legal work. Customers who want to appoint their own legal rep must choose a product without free basic legal work included. Then they can appoint a legal rep at their own cost. Their chosen legal rep will act for the customer and Virgin Money and must be on our legal panel.
-
----
 
 ## Rental cover
 
@@ -808,8 +692,6 @@ Top slicing uses a customer's spare personal income to boost their borrowing amo
 ### Affordability calculator
 Our [affordability calculator](https://intermediaries.virginmoney.com/affordability-calculator/) will let you know how much we could lend. It will first look at whether we could lend the amount requested using our stressed ICR rental cover assessment. If we can't get to the amount you need but our top slicing assessment might help, it will then ask for personal income details.
 
----
-
 ## Replacement property
 
 You must submit a new application to change a property, add or remove applicants or change the application type from residential to BTL (or vice versa). This includes a new product and valuation, up to date documentation and re-assessment against current criteria. A new valuation fee will apply if selecting a product without free valuation.
@@ -820,19 +702,13 @@ Application details can be copied over to the new application. Any product fee p
 ### Changing an existing offer
 We can usually make changes to existing offers if you need to amend things like the term, loan amount, repayment method, or purchase price. Just contact us to let us know what you need to change. Where this requires a change to product, the range used should be our current new business range. We allow a change of product using the current product range as many times as needed prior to completion. This can be pre-offer or post-offer, up until we have received the Certificate of Title from the solicitor. We can't make changes to the product after the COT has been received.
 
----
-
 ## Residency
 
 Applicants must be resident and the UK, have a 3 year consecutive UK address history and cannot be working abroad. UK residency is determined by the UK's Statutory Residence Test. This does not always require a minimum number of days an individual must be physically present in the UK but confirms if you've been in the UK for 183 or more days in a given tax year, you'll be a UK resident. For non-UK/Irish nationals resident in the UK, check our foreign nationals policy.
 
----
-
 ## Retrofit Boost
 
 Our Retrofit Boost mortgage range charges a higher rate of interest in return for providing cashback to spend on eligible energy efficient home improvements. For more information, including the list of eligible improvements, please see our [Retrofit Boost page](https://intermediaries.virginmoney.com/retrofit-boost-mortgage/).
-
----
 
 ## Self employed
 
@@ -878,13 +754,9 @@ Where an established business has changed its trading entity (e.g. the business 
 
 View [packaging requirements](https://intermediaries.virginmoney.com/packaging-requirements/)
 
----
-
 ## Student lettings
 
 Student lets are only acceptable with a maximum of 2 tenants who must be on a single tenancy agreement. There must be suitable demand for the property in that area as a single family dwelling and the property must not have been adapted from a single family dwelling in any way.
-
----
 
 ## Tenancy
 
@@ -898,16 +770,12 @@ Student lets are only acceptable with a maximum of 2 tenants who must be on a si
 - Properties which aren't let on one of the above contract types, including short term holiday style lets, are not accepted
 - We don't allow premium leases (where a lump sum is paid for the grant of a lease rather than as rent due), or sale and leaseback (where the property has been sold by someone who becomes its tenant)
 
----
-
 ## Term
 
 - The minimum term is 5 years, and must be at least 1 month longer than the initial product end date
 - The maximum term is 40 years
 
 You might also want to check our age policy.
-
----
 
 ## Top Slicing
 
@@ -916,13 +784,9 @@ Top slicing uses a customer's spare personal income to boost their borrowing amo
 ### Affordability calculator
 Our [affordability calculator](https://intermediaries.virginmoney.com/affordability-calculator/) will let you know how much we could lend. It will first look at whether we could lend the amount requested using our stressed ICR rental cover assessment. If we can't get to the amount you need but our top slicing assessment might help, it will then ask for personal income details.
 
----
-
 ## Transcripts
 
 We do not accept transcripts of a Scottish Home Report (Single Survey) for BTL applications.
-
----
 
 ## Valuation fees
 
@@ -947,7 +811,5 @@ Up to £60,000: £112
 £2,000,001 – £2,500,000: £817
 £2,500,001 – £3,000,000: £970
 Over £3,000,000: Quoted individually
-
----
 
 # END OF DOCUMENT

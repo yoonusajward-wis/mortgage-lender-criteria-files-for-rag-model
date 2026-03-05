@@ -1,7 +1,5 @@
 # ACCORD MORTGAGES – RESIDENTIAL LENDING CRITERIA
 
----
-
 **LENDER:** Accord Mortgages
 **PRODUCT:** Residential
 **DOCUMENT TYPE:** Residential Criteria. 21 sections: 1 Income, 2 Deposit, 3 Age, 4 Foreign nationals, 5 Adverse credit, 6 Concessionary purchase, 7 Joint borrowers & guarantors, 8 Residence, 9 Unacceptable applicants, 10 Loan limits, 11 Additional lending, 12 Product transfers, 13 Portability, 14 Interest only, 15 Remortgages, 16 Schemes, 17 Debt consolidation, 18 Valuations, 19 Property specifics, 20 New build, 21 Letting.
@@ -13,12 +11,9 @@ This document covers Residential criteria only. For intermediary use only; for u
 
 **RAG convention:** Where applicable, criteria use explicit labels **Maximum:** **Minimum:** **Allowed:** **Not Acceptable:** **Condition:** so that rules are self-contained for retrieval.
 
----
-
 ## Applicant
 
 # SECTION 1 – INCOME
-
 
 ## Salaried income
 
@@ -420,10 +415,7 @@ The following outgoings must be declared:
 * The latest payslip and corresponding bank statement required if employed.
 * Normal self-employed or limited company director documentation required for self-employed applicants.
 
----
-
 # SECTION 2 – DEPOSIT
-
 
 ## Gifted deposit
 
@@ -436,10 +428,7 @@ By family, we mean a relation by blood or law or if you are in a relationship an
 **Allowed:**
 * We can accept cryptocurrency as a source of deposit (subject to full underwriting).
 
----
-
 # SECTION 3 – AGE
-
 
 ## Applicant age
 
@@ -475,10 +464,7 @@ The term can exceed their 71st birthday however their income will not be used fo
 
 For applications with any element of debt consolidation, a maximum age of 70 years old at the end of the term applies.
 
----
-
 # Foreign nationals
-
 
 ## Loan and LTV limits for foreign nationals
 
@@ -512,10 +498,7 @@ If no applicants meet the minimum acceptable income of £50,000, the maximum len
 
 All applicants must have evidence of their current right to reside in the UK e.g. immigration documentation, e-visa or passport stamp.
 
----
-
 # SECTION 5 – ADVERSE CREDIT
-
 
 ## Bankruptcy and sequestration
 
@@ -617,10 +600,7 @@ A full credit reference search is carried out for all additional lending applica
 **Applications with characteristics which we no longer allow:**
 Any applications falling outside our new lending criteria may be considered on an individual basis. 
 
----
-
 # SECTION 6 – CONCESSIONARY PURCHASE
-
 
 ## Concessionary purchase
 
@@ -629,8 +609,6 @@ Concessionary purchases from family members, landlords and ex-partners are accep
 The maximum loan amount cannot exceed the discounted purchase price.
 
 A solicitor's letter is required to confirm the reduced purchase price, the name of vendor and your relationship to them.
-
----
 
 # SECTION 7 – JOINT BORROWERS AND GUARANTORS
 
@@ -671,10 +649,7 @@ Proprietor minimum income of £20,000 per annum.
 **Not Acceptable:**
 * Guarantor applications are not acceptable.
 
----
-
 # SECTION 8 – RESIDENCE
-
 
 ## Main residence only
 
@@ -700,10 +675,7 @@ We will consider cases that are outside of our lending policy in this area if yo
 
 * [Less than 6 Months residency for Remortgage](https://www.accordmortgages.com/criteria/residence#csl-modal)
 
----
-
 # Unacceptable applicants
-
 
 ## Unacceptable applicants
 
@@ -719,12 +691,9 @@ We will consider cases that are outside of our lending policy in this area if yo
 * Distressed sales
 * Applicants with diplomatic immunity.
 
----
-
 ## Loan
 
 # SECTION 10 – LOAN LIMITS
-
 
 ## Min/max loan term
 
@@ -862,10 +831,7 @@ If no applicants meet the minimum acceptable income of £50,000, the maximum len
 
 All applicants must have evidence of their current right to reside in the UK e.g. immigration documentation, e-visa or passport stamp.
 
----
-
 # SECTION 11 – ADDITIONAL LENDING
-
 
 ## Income for additional lending
 
@@ -956,10 +922,7 @@ When capital raising for the purpose of debt consolidation (either secured or un
 
 All parts of the existing mortgage must have been open for 6 months to apply for an additional loan.
 
----
-
 # SECTION 12 – PRODUCT TRANSFERS
-
 
 ## Loan size and LTV limits for product transfers
 
@@ -976,10 +939,7 @@ Mortgage arrears must be less than the value of 1 month's mortgage payment at th
 
 Borrowers previously on a credit repair self cert product and who have made all their payments on time and in full within the last 12 months, and can now prove their income, can select a full status prime EBT.
 
----
-
 # SECTION 13 – PORTABILITY
-
 
 ## Loan size and LTV limits for portability
 
@@ -1016,10 +976,7 @@ Any applications falling outside our new lending criteria may be considered on a
 
 If the customer has a mortgage with us where a Help to Buy equity loan is outstanding against their property, the customer is able to port their existing mortgage deal providing the equity loan is repaid upon sale of their current property and they meet our new lending criteria.
 
----
-
 # Interest only
-
 
 ## Interest only repayment
 
@@ -1124,10 +1081,7 @@ The term can exceed their 71st birthday however their income will not be used fo
   * The maximum LTV for interest only lending is 75%. 
   * For mortgages that are part capital and interest and part interest only, the maximum case LTV is 85% provided the interest only part does not exceed 75%.
 
----
-
 # SECTION 15 – REMORTGAGES
-
 
 ## Main residence only
 
@@ -1190,10 +1144,7 @@ The following are unacceptable reasons for remortgages:
   * Lifetime mortgages
   * Equity release products.
 
----
-
 # SECTION 16 – SCHEMES
-
 
 ## Unacceptable schemes
 
@@ -1230,10 +1181,7 @@ The customer must have evidence of permission from Homes England/Help to Buy (Wa
 
 If the customer has a mortgage with us where a Help to Buy equity loan is outstanding against their property, the customer is able to port their existing mortgage deal providing the equity loan is repaid upon sale of their current property and they meet our new lending criteria.
 
----
-
 # SECTION 17 – DEBT CONSOLIDATION
-
 
 ## Debt consolidation
 
@@ -1255,12 +1203,9 @@ When capital raising for the purpose of debt consolidation (either secured or un
 
 For applications with any element of debt consolidation, a maximum age of 70 years old at the end of the term applies.
 
----
-
 ## Property
 
 # SECTION 18 – VALUATIONS
-
 
 ## Valuations for new borrowing
 
@@ -1304,10 +1249,7 @@ A revaluation is required where:
 
 In all cases a new valuation will be carried out for all portability applications, regardless of whether a top-up product is required to determine the new loan to value (LTV) of the lending.
 
----
-
 # SECTION 19 – PROPERTY SPECIFICS
-
 
 ## Location of property
 
@@ -1435,10 +1377,7 @@ B and below - Not acceptable
 
 Precast reinforced concrete properties, designated under the Housing Act 1985, part XVI are acceptable if the property has undergone licensed repairs. If the property is a flat, or adjoined to an unrepaired PRC property, then it is unacceptable, regardless of a report.
 
----
-
 # SECTION 20 – NEW BUILD
-
 
 ## Loan size and LTV limits for new builds
 
@@ -1503,10 +1442,7 @@ Unfortunately, we are unable to accept applications for some new build developme
 
 Use our handy [New build development checker tool](https://www.accordmortgages.com/tools/new-build-development-checker) to check before you submit an application.
 
----
-
 # SECTION 21 – LETTING
-
 
 ## Consent to let out
 
@@ -1553,6 +1489,4 @@ The applicant(s) may be asked to provide:
 * Verification of rental Income - A copy of the rental valuation document which must have been completed by an ARLA registered agent
 * Consent to Let - Evidence the customer has consent to let
 * Verification of future mortgage balance - If the customer is applying to re-mortgage the property to a BTL – a copy of the KFI or ESIS document will be required to evidence the future mortgage balance.
-
----
 

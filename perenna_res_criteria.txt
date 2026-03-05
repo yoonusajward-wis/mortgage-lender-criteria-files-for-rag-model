@@ -1,13 +1,15 @@
-LENDER NAME: Perenna
-PRODUCT: Residential
+# PERENNA – RESIDENTIAL LENDING CRITERIA
 
-# Perenna - Residential Mortgage Lending Criteria
+**LENDER:** Perenna
+**PRODUCT:** Residential
+**DOCUMENT TYPE:** Residential Criteria.
+**SOURCE:** [https://intermediary.perenna.com/lending-criteria](https://intermediary.perenna.com/lending-criteria)
+**LAST UPDATED:** 2025
 
-**Last Updated:** 2025
-**Source:** Perenna Intermediaries
-**For Intermediaries Only**
+**IMPORTANT:**
+This document covers Residential criteria only. For intermediary use only; for use by authorised intermediaries and should not be relied upon by anyone else.
 
----
+**RAG convention:** Where applicable, criteria use explicit labels **Maximum:** **Minimum:** **Allowed:** **Not Acceptable:** **Condition:** so that rules are self-contained for retrieval.
 
 ## Document Information
 
@@ -17,75 +19,34 @@ This document contains comprehensive residential mortgage lending criteria cover
 
 **Website:** https://intermediary.perenna.com/lending-criteria
 
----
-
-## Table of Contents
-
-This guide contains 8 main sections organized by topic:
-
-
-### Applicant Requirements
-
-1. Applicants
-
-### Credit History
-
-2. Adverse Credit
-
-### Application Details
-
-3. Applications
-
-### Loan Parameters
-
-4. Loan Parameters
-
-### Repayment Methods
-
-5. Repayment Types
-
-### Retirement Lending
-
-6. Lending into Retirement
-
-### Property Requirements
-
-7. Property
-
-### Existing Customers
-
-8. Existing Customers
-
----
-
 ## Applicants
 
 ### Address History
 
-* All applicants must provide at least **18 months of UK address history**.
-* **BFPO (British Forces Post Office) and military deployment addresses** (e.g. HM Ships, Naval Parties, Exercises) will count as UK residential addresses. Evidence may be required (e.g. letter from Commanding Officer).
+* All applicants must provide at least 18 months of UK address history.
+* BFPO (British Forces Post Office) and military deployment addresses (e.g. HM Ships, Naval Parties, Exercises) will count as UK residential addresses. Evidence may be required (e.g. letter from Commanding Officer).
 * If a UK mainland address exists, this must also be declared.
 
 ### Number of Applicants
 
-* Maximum of **2 applicants per application**.
+* Maximum of 2 applicants per application.
 
 ### Age
 
-* **Minimum age:** 18 at application.
-* **Maximum age:** No upper limit, but additional criteria apply (see *Lending into Retirement*).
+* Minimum age: 18 at application.
+* Maximum age: No upper limit, but additional criteria apply (see Lending into Retirement).
 
 ### Nationality & Residency
 
-* Applicants must currently **reside in the UK**, be **tax resident in the UK**, and be **paid in GBP Sterling**.
-* **Minimum 18 months residence in the UK** is required.
+* Applicants must currently reside in the UK, be tax resident in the UK, and be paid in GBP Sterling.
+* Minimum 18 months residence in the UK is required.
 * For applicants without indefinite rights to remain:
 
-  * Main applicant must hold a **Tier 1 or Tier 2 Visa**.
-  * Must earn a minimum of **£50,000 per year** (income requirement applies only to the main applicant).
-  * Visa must have at least **12 months remaining**.
-* **EU/EEA/Swiss nationals** with pre-settled or settled status are accepted if resident in the UK for a minimum of 18 months.
-* **Offshore workers** must:
+  * Main applicant must hold a Tier 1 or Tier 2 Visa.
+  * Must earn a minimum of £50,000 per year (income requirement applies only to the main applicant).
+  * Visa must have at least 12 months remaining.
+* EU/EEA/Swiss nationals with pre-settled or settled status are accepted if resident in the UK for a minimum of 18 months.
+* Offshore workers must:
 
   * Be UK tax residents,
   * Paid in GBP Sterling,
@@ -93,33 +54,31 @@ This guide contains 8 main sections organized by topic:
 
 ### Criminal Convictions
 
-* Perenna will **not lend** where there is a criminal record unless it is:
+* Perenna will not lend where there is a criminal record unless it is:
 
   * A minor traffic offence, or
-  * A conviction that is spent under the **Rehabilitation of Offenders Act 1974**.
+  * A conviction that is spent under the Rehabilitation of Offenders Act 1974.
 
 ### Diplomatic Immunity
 
-* **Not accepted**.
+* Not accepted.
 
 ### Vulnerable Customers
 
 * Vulnerable applicants (due to personal circumstances) should be disclosed so Perenna can provide additional support.
 
----
-
 ## Adverse Credit
 
 ### General Position
 
-* Perenna aims to originate **prime residential mortgages**.
-* Applications with adverse credit are **generally declined**.
+* Perenna aims to originate prime residential mortgages.
+* Applications with adverse credit are generally declined.
 * Adverse credit includes: arrears, bankruptcy, IVA, defaults, CCJs, repossessions.
 
 ### Bankruptcy / IVA / DMP
 
-* Applications declined if bankruptcy, IVA, or equivalent registered within last **6 years** (whether settled or not).
-* Perenna will lend only where bankruptcy/IVA has been discharged for **at least 6 years**.
+* Applications declined if bankruptcy, IVA, or equivalent registered within last 6 years (whether settled or not).
+* Perenna will lend only where bankruptcy/IVA has been discharged for at least 6 years.
 
 ### CCJs
 
@@ -149,7 +108,7 @@ Applications will be declined if there are:
 
 ### Payday / Short-Term Loans
 
-* Any loan opened in the last **12 months** results in decline.
+* Any loan opened in the last 12 months results in decline.
 
 ### Notice of Correction / Dispute
 
@@ -157,44 +116,50 @@ Applications will be declined if there are:
 
 ### Credit Score
 
-* Applicants must meet **Perenna’s internal credit score**.
+* Applicants must meet Perenna’s internal credit score.
 * Applicants with thin credit files or adverse history may still be declined even if other rules are met.
-
----
 
 ## Applications
 
 ### Back-to-Back Transactions
 
 * Properties bought/sold in the last 6 months are usually declined.
-* **Exceptions** may include probate sales or developer transactions.
-* Lending will be based on **lower of current market value or original purchase/probate value**.
+* Exceptions may include probate sales or developer transactions.
+* Lending will be based on lower of current market value or original purchase/probate value.
 
 ### Builder Incentives
 
-* Maximum of **5%** of purchase price/valuation (whichever is lower).
-* A minimum **5% deposit** from other sources is required.
+* Maximum of 5% of purchase price/valuation (whichever is lower).
+* A minimum 5% deposit from other sources is required.
 * Non-financial incentives (e.g. upgrades) must be proportionate to value.
 
 ### Debt Consolidation
 
-* Accepted up to **£1m and 90% LTV**.
+* Accepted up to £1m and 90% LTV.
 * All commitments (to be repaid or retained) must be included in application.
 * Solicitor will be instructed to clear repaid debts on completion.
-* Perenna will not accept applications reliant on **unsecured debt**.
+* Perenna will not accept applications reliant on unsecured debt.
 
 ### Deposits
 
 * All deposits must be held in the UK at application.
-* Acceptable sources:
 
-  * Sale of property, investments, savings, inheritance.
-  * Additional borrowing (if affordability tested).
-  * Online sources (crypto, eGaming) if converted into GBP and held in UK account.
-  * Forces Help to Buy (must be declared as loan commitment).
-  * Builder incentives.
-  * Gifted deposits (close family, subject to Gifted Deposit Form).
+Acceptable sources:
+
+* Sale of property, investments, savings, inheritance.
+
+* Additional borrowing (if affordability tested).
+
+* Online sources (crypto, eGaming) if converted into GBP and held in UK account.
+
+* Forces Help to Buy (must be declared as loan commitment).
+
+* Builder incentives.
+
+* Gifted deposits (close family, subject to Gifted Deposit Form).
+
 * Gifted deposits allowed from: parents, grandparents, siblings, spouse, godparents.
+
 * Gifted equity from a landlord may also be acceptable.
 
 ### Fees
@@ -204,74 +169,71 @@ Applications will be declined if there are:
 
 ### Loan Purpose
 
-* **Acceptable:**
+Acceptable:
 
-  * House purchase, remortgage, debt consolidation, Help to Buy repayment, staircasing in Shared Equity, freehold/lease extension, Transfer of Equity, repayment of secured charges, lifestyle purposes (weddings, holidays, cars), land to extend security.
-* **Unacceptable:**
+* House purchase, remortgage, debt consolidation, Help to Buy repayment, staircasing in Shared Equity, freehold/lease extension, Transfer of Equity, repayment of secured charges, lifestyle purposes (weddings, holidays, cars), land to extend security.
 
-  * Right to Buy, staircasing shared ownership, building plots, timeshares, unfinished properties, freehold share purchases, shares/stocks, currency speculation, gambling, tax payment, business purposes, unethical/unsafe purposes.
+Unacceptable:
 
----
+* Right to Buy, staircasing shared ownership, building plots, timeshares, unfinished properties, freehold share purchases, shares/stocks, currency speculation, gambling, tax payment, business purposes, unethical/unsafe purposes.
 
 ## Loan Parameters
 
-* **Loan size:**
+Loan size:
 
-  * Minimum £25,000
-  * Maximum £1.5m (with underwriter review for >£1m)
-  * New build max: £1m
+* Minimum £25,000
+* Maximum £1.5m (with underwriter review for >£1m)
+* New build max: £1m
 
-* **Loan to Value (LTV):**
+Loan to Value (LTV):
 
-  * 95% for loans ≤ £750k
-  * 90% for loans ≤ £1.5m
-  * 90% for new build houses (95% with Deposit Unlock ≤ £750k)
-  * 80% for new build flats (95% with Deposit Unlock)
-  * 80% for second homes/holiday homes
-  * 75% if lending into retirement
+* 95% for loans ≤ £750k
+* 90% for loans ≤ £1.5m
+* 90% for new build houses (95% with Deposit Unlock ≤ £750k)
+* 80% for new build flats (95% with Deposit Unlock)
+* 80% for second homes/holiday homes
+* 75% if lending into retirement
 
-* **Term:** 10–40 years (subject to product).
+Term:
 
-* **Offers:**
+* 10–40 years (subject to product).
 
-  * Remortgage: 90 days
-  * Purchase: 150 days
+Offers:
 
----
+* Remortgage: 90 days
+* Purchase: 150 days
 
 ## Repayment Types
 
-* **Capital & Interest** – accepted.
-* **Interest Only** – up to 25 years, max 75% LTV.
+* Capital & Interest – accepted.
 
-  * Repayment vehicles:
+Interest Only – up to 25 years, max 75% LTV.
 
-    * Sale of mortgaged property (min £300k equity in London/South East, £150k elsewhere).
-    * Savings/investments (with 20% stress).
-    * Sale of other property.
-    * Pension lump sum (25% of current value ≥ loan amount).
-* **Retirement Interest Only (RIO):**
+Repayment vehicles:
 
-  * Minimum age: 50.
-  * Max 75% LTV.
-  * Assessed on interest-only affordability.
-  * Trigger events: sale, death, long-term care, breach.
-  * Independent Legal Advice required for purchases.
-  * Remortgages include fee-assisted legal support.
-  * Must be joint tenancy for joint RIO.
+* Sale of mortgaged property (min £300k equity in London/South East, £150k elsewhere).
+* Savings/investments (with 20% stress).
+* Sale of other property.
+* Pension lump sum (25% of current value ≥ loan amount).
 
----
+Retirement Interest Only (RIO):
+
+* Minimum age: 50.
+* Max 75% LTV.
+* Assessed on interest-only affordability.
+* Trigger events: sale, death, long-term care, breach.
+* Independent Legal Advice required for purchases.
+* Remortgages include fee-assisted legal support.
+* Must be joint tenancy for joint RIO.
 
 ## Lending into Retirement
 
-* Standard retirement age = lower of applicant’s declared age or **70**.
-* **Within 10 years of retirement:** affordability based on lower of current or projected retirement income.
-* **More than 10 years from retirement:** affordability based on current income if paying into a pension.
-* **Already retired:** affordability based on retirement income.
-* **LTV capped at 75%** if all applicants ≥65 at application and term extends past age 85.
-* Applicants ≥70 at application must obtain **Independent Legal Advice**.
-
----
+* Standard retirement age = lower of applicant’s declared age or 70.
+* Within 10 years of retirement: affordability based on lower of current or projected retirement income.
+* More than 10 years from retirement: affordability based on current income if paying into a pension.
+* Already retired: affordability based on retirement income.
+* LTV capped at 75% if all applicants ≥65 at application and term extends past age 85.
+* Applicants ≥70 at application must obtain Independent Legal Advice.
 
 ## Property
 
@@ -343,27 +305,31 @@ Properties must be located in England, Wales, Scotland, or Northern Ireland.
 New build properties are acceptable subject to the following:
 
 * Maximum loan size: £1m for new builds.
-* LTV limits:
-  * 90% for new build houses (95% with Deposit Unlock ≤ £750k).
-  * 80% for new build flats (95% with Deposit Unlock).
-* New build warranty required from one of the following providers:
-  * N.H.B.C. guarantee
-  * Premier Guarantee Scheme
-  * Building Life Plan
-  * LABC New Home Warranty
-  * Checkmate Castle 10 New Home Warranty
-  * Build Assure (New Homes Structural Defects Insurance)
-  * Build Zone Structural Warranty
-  * Zurich Municipal
-  * UK FINANCE Compliant Professional Consultants Certificate with proof of PI
-  * Advantage
-  * Aedis Warranties
-  * Global Home Warranties
-  * Protek
-  * ICW
-  * Ark Residential New Build Warranty
-  * The Q Policy
-  * One Guarantee
+
+LTV limits:
+
+* 90% for new build houses (95% with Deposit Unlock ≤ £750k).
+* 80% for new build flats (95% with Deposit Unlock).
+
+New build warranty required from one of the following providers:
+
+* N.H.B.C. guarantee
+* Premier Guarantee Scheme
+* Building Life Plan
+* LABC New Home Warranty
+* Checkmate Castle 10 New Home Warranty
+* Build Assure (New Homes Structural Defects Insurance)
+* Build Zone Structural Warranty
+* Zurich Municipal
+* UK FINANCE Compliant Professional Consultants Certificate with proof of PI
+* Advantage
+* Aedis Warranties
+* Global Home Warranties
+* Protek
+* ICW
+* Ark Residential New Build Warranty
+* The Q Policy
+* One Guarantee
 
 If your client is looking at a new build mortgage you may want to explore our Perenna Zero Bills, Own New and Deposit Unlock mortgage propositions.
 
@@ -405,8 +371,8 @@ Where structural movement is evident at the property and not stated as "historic
 
 Reports may be accepted from members of the following bodies:
 
-* The Institution of Structural Engineers (www.IStructE.org.uk)
-* Institution of Civil Engineers (www.ice.org.uk)
+* The Institution of Structural Engineers ([www.IStructE.org.uk](http://www.IStructE.org.uk))
+* Institution of Civil Engineers ([www.ice.org.uk](http://www.ice.org.uk))
 * The Royal Institution of Chartered Surveyors (RICS) – Building Surveyor
 
 If the report is not addressed to the applicant, written confirmation must be obtained from the originator that its contents may be relied upon by the applicant(s).
@@ -460,8 +426,6 @@ The following property types are not acceptable:
 * Properties with deck or balcony access.
 * Properties with leased solar panels.
 
----
-
 ## Existing Customers
 
 ### Porting (moving home)
@@ -487,8 +451,6 @@ We understand that customers experience changes to their circumstances and that 
 * There is no maximum period for the CTL arrangement and the interest rate increase can only be removed once Perenna has been notified the property is no longer being let.
 * The rental coverage ratio must be 125% at the customers product rate plus an extra 1%. This is calculated at the current repayment method.
 
----
+## Main URLs and Contact Information
 
-## Main URLs
-
-- https://intermediary.perenna.com/lending-criteria
+* [https://intermediary.perenna.com/lending-criteria](https://intermediary.perenna.com/lending-criteria)

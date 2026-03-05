@@ -1,12 +1,16 @@
-LENDER NAME: Shawbrook Bank
-PRODUCT: BTL Personal
+# SHAWBROOK BANK – BUY TO LET (PERSONAL) LENDING CRITERIA
 
-# Shawbrook Bank - Buy to Let (Personal) Lending Criteria
-**Source:** https://www.shawbrook.co.uk/property-brokers/buy-to-let-mortgages/
-**PDF:** https://www.shawbrook.co.uk/media/bjrdgoyj/btl-lending-criteria.pdf
-**Last Updated:** 2025
+**LENDER:** Shawbrook Bank
+**PRODUCT:** Buy to Let (Personal)
+**DOCUMENT TYPE:** Buy to Let Personal Criteria. For individual applicants, sole traders, partnerships, and LLPs.
+**SOURCE:** [https://www.shawbrook.co.uk/property-brokers/buy-to-let-mortgages/](https://www.shawbrook.co.uk/property-brokers/buy-to-let-mortgages/)
+**PDF:** [BTL Lending Criteria](https://www.shawbrook.co.uk/media/bjrdgoyj/btl-lending-criteria.pdf)
+**LAST UPDATED:** 2025
 
-**FOR INTERMEDIARY USE ONLY**
+**IMPORTANT:**
+This document covers Buy to Let (Personal) criteria only. For intermediary use only; for use by authorised intermediaries and should not be relied upon by anyone else.
+
+**RAG convention:** Where applicable, criteria use explicit labels **Maximum:** **Minimum:** **Allowed:** **Not Acceptable:** **Condition:** so that rules are self-contained for retrieval.
 
 Shawbrook Bank Limited is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (Financial Services Register number: 204574).
 
@@ -21,8 +25,6 @@ Shawbrook Bank Limited is authorised by the Prudential Regulation Authority and 
 **Registered Office:**
 Lutea House, Warley Hill Business Park, The Drive, Great Warley, Brentwood, Essex, CM13 3BE
 
----
-
 ## Overview
 
 Shawbrook Bank offers Buy to Let (BTL) mortgages for personal applicants (individuals, sole traders, partnerships, and LLPs). The Bank provides flexible BTL products suitable for professional property landlords and investors growing their portfolios, with products designed specifically for the current property landscape.
@@ -35,8 +37,6 @@ Shawbrook Bank offers Buy to Let (BTL) mortgages for personal applicants (indivi
 * **Wide range of property types** - Including large portfolios, blocks of flats, and investment-grade HMOs
 * **Supports new entrants to seasoned professionals** - Including individuals, LLPs, ex-pats, and trusts
 * **Flexible finance solutions** - Tailored to client needs
-
----
 
 ## General Lending Criteria
 
@@ -74,8 +74,6 @@ Shawbrook Bank offers Buy to Let (BTL) mortgages for personal applicants (indivi
 * **Rates from:** 4.64%
 * **Arrangement fees:** Product choices with 2%, 3%, or 5% arrangement fees and corresponding rates
 * **Rate structure:** Lower arrangement fees correspond to higher interest rates, and vice versa
-
----
 
 ## Applicant Requirements
 
@@ -133,8 +131,6 @@ Shawbrook Bank offers Buy to Let (BTL) mortgages for personal applicants (indivi
 * **Bankruptcy/CVA/IVA:** Discharged for at least 12 months
 * **CIFAS:** No adverse fraud data
 * **Business Credit Profile:** No history of receivership, administration order, winding up petition, creditors or compulsory liquidation, disqualified director within the last 36 months (extends to associated companies within the same industry)
-
----
 
 ## Property Criteria
 
@@ -243,8 +239,6 @@ Shawbrook Bank offers Buy to Let (BTL) mortgages for personal applicants (indivi
 * **Example:** If a 3% arrangement fee is applicable, client would be charged 2.55% for a property with an EPC rating of 'B'
 * **Partial refund available:** Making energy efficient improvements during the lifetime of the mortgage that result in a new EPC of at least 'C' means eligibility for a partial refund of the arrangement fee (applicable only to new Buy-to-Let mortgages completed on and after 6 May 2022)
 * **EPC certificate cost refund:** Up to £100 refunded for the new EPC certificate
-
----
 
 ## Rental Income & Affordability
 
@@ -362,8 +356,6 @@ Shawbrook Bank offers Buy to Let (BTL) mortgages for personal applicants (indivi
 * Essential living costs – to include food, utilities, council tax, phone bills, ground rent, service charge, essential travel, and childcare
 * The declared amounts should be checked against available sources such as bank statements and credit search data
 
----
-
 ## Product Types
 
 ### SB1 Specialist Buy-to-Let Products
@@ -447,8 +439,6 @@ Shawbrook Bank offers Buy to Let (BTL) mortgages for personal applicants (indivi
 * **Tailored loan structuring** - Ability to structure the funding package around client's unique needs
 * **Personalised experience** - For larger, complex deals
 
----
-
 ## Repayment Methods
 
 ### Available Repayment Types
@@ -480,8 +470,6 @@ Shawbrook Bank offers Buy to Let (BTL) mortgages for personal applicants (indivi
 * **Builders Incentives** - LTV reduced by 5%
 * **Mini-Bonds** - Not acceptable
 
----
-
 ## Experience Requirements
 
 **Property Type Experience:**
@@ -510,8 +498,6 @@ Shawbrook Bank offers Buy to Let (BTL) mortgages for personal applicants (indivi
 
 **Portfolio Landlords:**
 * **Successful track record** of owning relevant properties in the same sector
-
----
 
 ## Application Types
 
@@ -593,8 +579,6 @@ Shawbrook Bank offers Buy to Let (BTL) mortgages for personal applicants (indivi
 * **Full title investigation required**
 * **The Borrower is to be fully advised with separate legal representation**
 
----
-
 ## Fees
 
 * **Arrangement fees:** 2%, 3%, or 5% (varies by product and rate selected)
@@ -605,8 +589,6 @@ Shawbrook Bank offers Buy to Let (BTL) mortgages for personal applicants (indivi
 * **Electronic Banking Fee:** £30 (including VAT) - May apply
 * **Energy Efficiency Discount:** Available for properties with EPC rating of at least C (reduces arrangement fee)
 * **Existing customer discount:** 0.25% off arrangement fee (for SB1 and SB2 products)
-
----
 
 ## Application Process
 
@@ -692,14 +674,24 @@ Standard BTL mortgage application documentation required, including:
 
 **AVM Maximum LTV and Minimum Confidence Levels:**
 
-| Max LTV | Minimum Confidence Levels (value) | Minimum Confidence Level (rental) |
-|---------|-----------------------------------|-----------------------------------|
-| 65%-75% | 4.0 – 5.0 | 4.0 |
-| 55%- 64% | 3.0 – 3.9 | 4.0 |
-| Up to 55% | Min 3.0 | 4.0 |
+* **65%–75%**
 
-* LTV calculated against the corresponding CL (i.e., 4.2CL = 67% LTV)
-* Rental Confidence between 4-4.9 requires a second automated verification
+  * Minimum Confidence Levels (value): 4.0 – 5.0
+  * Minimum Confidence Level (rental): 4.0
+
+* **55%–64%**
+
+  * Minimum Confidence Levels (value): 3.0 – 3.9
+  * Minimum Confidence Level (rental): 4.0
+
+* **Up to 55%**
+
+  * Minimum Confidence Levels (value): Min 3.0
+  * Minimum Confidence Level (rental): 4.0
+
+* *LTV calculated against the corresponding CL (i.e., 4.2CL = 67% LTV)*
+
+* *Rental Confidence between 4-4.9 requires a second automated verification*
 
 **Valuation Methodology:**
 
@@ -763,8 +755,6 @@ Standard BTL mortgage application documentation required, including:
 * Client interview
 * Accounts for the company we are lending to (if applicable)
 
----
-
 ## Unacceptable Security
 
 **The following are not acceptable:**
@@ -780,8 +770,6 @@ Standard BTL mortgage application documentation required, including:
 * **Hostels**
 * **Agricultural properties**
 * **Properties with no valid EPC rating or rating below E** (unless exempt)
-
----
 
 ## Other
 
@@ -860,8 +848,6 @@ Standard BTL mortgage application documentation required, including:
 * Suitable warranty documentation and architects sign off (including details of that architects PII) are required
 * Other modern/sustainable methods of construction can be considered on a case-by-case basis
 
----
-
 ## Specialist Reports
 
 **Report Note Requirements:**
@@ -909,8 +895,6 @@ Standard BTL mortgage application documentation required, including:
 * If there are no further derogatory comments, then a copy of the report is not required before completion
 * **Qualifications:** PCA, Gas Safe, NICEIC
 
----
-
 ## Additional Information
 
 ### Calculators
@@ -957,44 +941,175 @@ Standard BTL mortgage application documentation required, including:
 * **Commercial property with short WAULTs** - Considered
 * **Personalised experience** - For larger, complex deals
 
----
-
 ## Criteria by Product - Summary Table
 
 **This table provides a quick reference for key criteria across different property types:**
 
-| Criteria | Single Residential | Small HMO | Large HMO | MUFB | Serviced Accommodation |
-|----------|-------------------|-----------|-----------|------|----------------------|
-| **Loan** | | | | | |
-| Minimum Loan | £40,000 | £40,000 | £40,000 | £40,000 | £40,000 |
-| Maximum Loan (single asset) | £5,000,000 | £5,000,000 | £5,000,000 | N/A | N/A |
-| Maximum Exposure | £35,000,000 (aggregated) | | | | |
-| Minimum Term | 3 Years | | | | |
-| Maximum Term | 30 Years | | | | |
-| Repayment Method | Interest only and capital repayment options available | | | | |
-| Maximum LTV | 75% | 75% | 75% | 75% | 75% |
-| **Customer** | | | | | |
-| Age | Minimum 21 years, Maximum 80 years at start of mortgage. Applicants aged 70+ must have succession plan | | | | |
-| Type | Individuals, LTD Company, PLC, LLP, Trusts (£1m min), SIPPS (£1m min), Ex-Pats | | | | |
-| Personal Guarantees | 25% or £50,000 (whichever is higher) from directors with 25%+ shareholding | | | | |
-| Credit Status | Refer to main document for SB1 vs SB2/SRE product variations | | | | |
-| **Security** | | | | | |
-| Charge | 1st legal charge over the security offered | | | | |
-| Location | England, Wales, and Scotland | | | | |
-| Tenure | Freehold and Feuhold (Scotland) acceptable. Leasehold with minimum 50 years remaining | | | | |
-| Minimum Size | Residential unit size of 30 Sqm | | | | |
-| Works Allowed | Minor works (Décor/internal fittings/general upkeep) permitted where value and structural integrity not compromised | | | | |
-| Valuation Method | Open Market Value confirmed by surveyor or AVM | Single dwelling value (if minimal conversion works) or yield-based investment valuation (if extensively adapted) | Yield-based investment valuation (Sui Generis planning required) | Blocks up to 10: Aggregated individual values (if sales within 12 months). Blocks 11+: Investment block value | Blocks up to 10: Aggregated individual values (if sales within 12 months). Blocks 11+: Investment block value |
-| Affordability Method | Valuer to confirm gross market rental | Valuer to confirm adjusted gross rental | Valuer to confirm adjusted gross rental | Lower of Valuer confirmation or Passing rental | Valuer to confirm gross market rental on AST basis |
-| DSCR (England & Wales) | 140% Personal / 125% LTD Co | 165% Personal / 130% Ltd Co | 165% Personal / 130% Ltd Co | 140% Personal / 125% LTD Co | 140% Personal / 125% LTD Co |
-| **Submission Documents** | | | | | |
-| Up to £1.25m | Application Form, Portfolio Schedule (Portfolio landlord), Asset and Liabilities (Portfolio landlord), 3 months bank statements (Portfolio Landlord), Background to first Purchase (First-time Landlords), ID, Proof of deposit (Purchase), Redemption statement (Refinance) | Application Form, Portfolio Schedule, Asset and Liabilities, 3 months bank statements, HMO Licence (refinance), ID, Proof of deposit, Redemption statement | Application Form, Portfolio Schedule, Asset and Liabilities, 3 months bank statements, HMO Licence (refinance), ID, Proof of deposit, Redemption statement | Application Form, Portfolio Schedule, Asset and Liabilities, 3 months bank statements, ID, Proof of deposit, Redemption statement | Application Form, Portfolio Schedule, Asset and Liabilities, 3 months bank statements, Buildings Insurance to cover short term lettings, ID, Proof of deposit, Redemption statement |
-| Over £1.25m | All of above, plus: Client interview, Accounts for the company we are lending to (if applicable) | | | | |
-| Conditions (All) | ID, Proof of deposit (Purchase), Redemption statement (Refinance) | | | | |
+### Single Residential
+
+* **Loan**
+
+  * Minimum Loan: £40,000
+  * Maximum Loan (single asset): £5,000,000
+  * Maximum Exposure: £35,000,000 (aggregated)
+  * Minimum Term: 3 Years
+  * Maximum Term: 30 Years
+  * Repayment Method: Interest only and capital repayment options available
+  * Maximum LTV: 75%
+
+* **Customer**
+
+  * Age: Minimum 21 years, Maximum 80 years at start of mortgage. Applicants aged 70+ must have succession plan
+  * Type: Individuals, LTD Company, PLC, LLP, Trusts (£1m min), SIPPS (£1m min), Ex-Pats
+  * Personal Guarantees: 25% or £50,000 (whichever is higher) from directors with 25%+ shareholding
+  * Credit Status: Refer to main document for SB1 vs SB2/SRE product variations
+
+* **Security**
+
+  * Charge: 1st legal charge over the security offered
+  * Location: England, Wales, and Scotland
+  * Tenure: Freehold and Feuhold (Scotland) acceptable. Leasehold with minimum 50 years remaining
+  * Minimum Size: Residential unit size of 30 Sqm
+  * Works Allowed: Minor works (Décor/internal fittings/general upkeep) permitted where value and structural integrity not compromised
+  * Valuation Method: Open Market Value confirmed by surveyor or AVM
+  * Affordability Method: Valuer to confirm gross market rental
+  * DSCR (England & Wales): 140% Personal / 125% LTD Co
+
+* **Submission Documents**
+
+  * Up to £1.25m: Application Form, Portfolio Schedule (Portfolio landlord), Asset and Liabilities (Portfolio landlord), 3 months bank statements (Portfolio Landlord), Background to first Purchase (First-time Landlords), ID, Proof of deposit (Purchase), Redemption statement (Refinance)
+  * Over £1.25m: All of above, plus: Client interview, Accounts for the company we are lending to (if applicable)
+  * Conditions (All): ID, Proof of deposit (Purchase), Redemption statement (Refinance)
+
+### Small HMO
+
+* **Loan**
+
+  * Minimum Loan: £40,000
+  * Maximum Loan (single asset): £5,000,000
+  * Maximum LTV: 75%
+
+* **Customer**
+
+  * Age: Minimum 21 years, Maximum 80 years at start of mortgage. Applicants aged 70+ must have succession plan
+  * Type: Individuals, LTD Company, PLC, LLP, Trusts (£1m min), SIPPS (£1m min), Ex-Pats
+  * Personal Guarantees: 25% or £50,000 (whichever is higher) from directors with 25%+ shareholding
+  * Credit Status: Refer to main document for SB1 vs SB2/SRE product variations
+
+* **Security**
+
+  * Charge: 1st legal charge over the security offered
+  * Location: England, Wales, and Scotland
+  * Tenure: Freehold and Feuhold (Scotland) acceptable. Leasehold with minimum 50 years remaining
+  * Minimum Size: Residential unit size of 30 Sqm
+  * Works Allowed: Minor works (Décor/internal fittings/general upkeep) permitted where value and structural integrity not compromised
+  * Valuation Method: Single dwelling value (if minimal conversion works) or yield-based investment valuation (if extensively adapted)
+  * Affordability Method: Valuer to confirm adjusted gross rental
+  * DSCR (England & Wales): 165% Personal / 130% Ltd Co
+
+* **Submission Documents**
+
+  * Up to £1.25m: Application Form, Portfolio Schedule, Asset and Liabilities, 3 months bank statements, HMO Licence (refinance), ID, Proof of deposit, Redemption statement
+  * Over £1.25m: All of above, plus: Client interview, Accounts for the company we are lending to (if applicable)
+  * Conditions (All): ID, Proof of deposit (Purchase), Redemption statement (Refinance)
+
+### Large HMO
+
+* **Loan**
+
+  * Minimum Loan: £40,000
+  * Maximum Loan (single asset): £5,000,000
+  * Maximum LTV: 75%
+
+* **Customer**
+
+  * Age: Minimum 21 years, Maximum 80 years at start of mortgage. Applicants aged 70+ must have succession plan
+  * Type: Individuals, LTD Company, PLC, LLP, Trusts (£1m min), SIPPS (£1m min), Ex-Pats
+  * Personal Guarantees: 25% or £50,000 (whichever is higher) from directors with 25%+ shareholding
+  * Credit Status: Refer to main document for SB1 vs SB2/SRE product variations
+
+* **Security**
+
+  * Charge: 1st legal charge over the security offered
+  * Location: England, Wales, and Scotland
+  * Tenure: Freehold and Feuhold (Scotland) acceptable. Leasehold with minimum 50 years remaining
+  * Minimum Size: Residential unit size of 30 Sqm
+  * Works Allowed: Minor works (Décor/internal fittings/general upkeep) permitted where value and structural integrity not compromised
+  * Valuation Method: Yield-based investment valuation (Sui Generis planning required)
+  * Affordability Method: Valuer to confirm adjusted gross rental
+  * DSCR (England & Wales): 165% Personal / 130% Ltd Co
+
+* **Submission Documents**
+
+  * Up to £1.25m: Application Form, Portfolio Schedule, Asset and Liabilities, 3 months bank statements, HMO Licence (refinance), ID, Proof of deposit, Redemption statement
+  * Over £1.25m: All of above, plus: Client interview, Accounts for the company we are lending to (if applicable)
+  * Conditions (All): ID, Proof of deposit (Purchase), Redemption statement (Refinance)
+
+### MUFB
+
+* **Loan**
+
+  * Minimum Loan: £40,000
+  * Maximum Loan (single asset): N/A
+  * Maximum LTV: 75%
+
+* **Customer**
+
+  * Age: Minimum 21 years, Maximum 80 years at start of mortgage. Applicants aged 70+ must have succession plan
+  * Type: Individuals, LTD Company, PLC, LLP, Trusts (£1m min), SIPPS (£1m min), Ex-Pats
+  * Personal Guarantees: 25% or £50,000 (whichever is higher) from directors with 25%+ shareholding
+  * Credit Status: Refer to main document for SB1 vs SB2/SRE product variations
+
+* **Security**
+
+  * Charge: 1st legal charge over the security offered
+  * Location: England, Wales, and Scotland
+  * Tenure: Freehold and Feuhold (Scotland) acceptable. Leasehold with minimum 50 years remaining
+  * Minimum Size: Residential unit size of 30 Sqm
+  * Works Allowed: Minor works (Décor/internal fittings/general upkeep) permitted where value and structural integrity not compromised
+  * Valuation Method: Blocks up to 10: Aggregated individual values (if sales within 12 months). Blocks 11+: Investment block value
+  * Affordability Method: Lower of Valuer confirmation or Passing rental
+  * DSCR (England & Wales): 140% Personal / 125% LTD Co
+
+* **Submission Documents**
+
+  * Up to £1.25m: Application Form, Portfolio Schedule, Asset and Liabilities, 3 months bank statements, ID, Proof of deposit, Redemption statement
+  * Over £1.25m: All of above, plus: Client interview, Accounts for the company we are lending to (if applicable)
+  * Conditions (All): ID, Proof of deposit (Purchase), Redemption statement (Refinance)
+
+### Serviced Accommodation
+
+* **Loan**
+
+  * Minimum Loan: £40,000
+  * Maximum Loan (single asset): N/A
+  * Maximum LTV: 75%
+
+* **Customer**
+
+  * Age: Minimum 21 years, Maximum 80 years at start of mortgage. Applicants aged 70+ must have succession plan
+  * Type: Individuals, LTD Company, PLC, LLP, Trusts (£1m min), SIPPS (£1m min), Ex-Pats
+  * Personal Guarantees: 25% or £50,000 (whichever is higher) from directors with 25%+ shareholding
+  * Credit Status: Refer to main document for SB1 vs SB2/SRE product variations
+
+* **Security**
+
+  * Charge: 1st legal charge over the security offered
+  * Location: England, Wales, and Scotland
+  * Tenure: Freehold and Feuhold (Scotland) acceptable. Leasehold with minimum 50 years remaining
+  * Minimum Size: Residential unit size of 30 Sqm
+  * Works Allowed: Minor works (Décor/internal fittings/general upkeep) permitted where value and structural integrity not compromised
+  * Valuation Method: Blocks up to 10: Aggregated individual values (if sales within 12 months). Blocks 11+: Investment block value
+  * Affordability Method: Valuer to confirm gross market rental on AST basis
+  * DSCR (England & Wales): 140% Personal / 125% LTD Co
+
+* **Submission Documents**
+
+  * Up to £1.25m: Application Form, Portfolio Schedule, Asset and Liabilities, 3 months bank statements, Buildings Insurance to cover short term lettings, ID, Proof of deposit, Redemption statement
+  * Over £1.25m: All of above, plus: Client interview, Accounts for the company we are lending to (if applicable)
+  * Conditions (All): ID, Proof of deposit (Purchase), Redemption statement (Refinance)
 
 **Note:** Refer to main document sections for detailed criteria, product variations (SB1 vs SB2/SRE), and specific requirements.
-
----
 
 ## Notes
 
@@ -1010,8 +1125,6 @@ Standard BTL mortgage application documentation required, including:
 * Shawbrook Base Rate (SBR) is subject to a minimum floor of 0.75%
 * Variable rates are inclusive of Shawbrook Base Rate
 * NACFB's Buy-to-Let Lender of the Year 2021-2024
-
----
 
 **Document Version:** 2025
 **Source PDF:** Buy-to-Let Lending Criteria

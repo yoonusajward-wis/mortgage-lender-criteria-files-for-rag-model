@@ -1,7 +1,5 @@
 # BARCLAYS – RESIDENTIAL LENDING CRITERIA
 
----
-
 **LENDER:** Barclays
 **PRODUCT:** Residential
 **DOCUMENT TYPE:** Residential lending criteria (A–Z).
@@ -15,8 +13,6 @@
 **Contact:** [Contact us](https://intermediaries.uk.barclays/home/contact-us/) | Intermediary Mortgage Experts Centre: 0345 073 3330 (Mon–Fri 9am–5pm)
 
 Barclays Bank UK PLC. Authorised by the PRA and regulated by the FCA and the PRA (Financial Services Register number: 759676). Registered no. 9740322. Registered office: 1 Churchill Place, London E14 5HP.
-
----
 
 # SECTION 1 – RESIDENTIAL LENDING CRITERIA A TO Z
 
@@ -192,7 +188,6 @@ Allowable Income Table
 * **Permanent Income Protection Payments** – 100%. Policy statement (payout schedule/amounts). Net; gross-up for LTI possible.
 * **Personal & Workplace Pensions / Annuities (currently receiving)** – 100%. Bank statement + pension payslip/statement/letter/P60 (≤12 months). SIPP drawdown not acceptable.
 * **Pensions (not yet receiving)** – 100%. Statement from provider (projected income, retirement date) or FCA-regulated scheme administrator letter.
-
 
 **Documentation**
 
@@ -655,8 +650,6 @@ We can only issue a mortgage offer once all proof of identity and address requir
 **Looking for enhanced affordability?**
 You may wish to visit Kensington Mortgages, one of the UK’s leading specialist lenders and a subsidiary of Barclays Bank UK PLC. Kensington offer more flexible lending criteria to help people who may not meet typical lending requirements. [Learn more](https://www.kensingtonmortgages.co.uk/intermediaries?utm_source=Barclays_intermediaries&utm_medium=referral&utm_content=multiple_income_link "Opens in a new window").
 
----
-
 ### Interest-only mortgages - Residential
 
 The maximum loan to value allowed on an interest-only basis is **75%**.
@@ -720,13 +713,9 @@ Existing interest-only customers wishing to borrow additional funds or port must
 **Interest-only repayment vehicles**
 We require a plausibility check to be done on all interest-only mortgages as per the assessment guidelines in the table below. This will determine if your client can borrow the required amount on an interest-only basis. Documentary evidence must be submitted with the mortgage application and will be checked as part of the underwriting process.
 
----
-
 ### Regional Minimum Equity Requirements
 
 **Minimum equity (interest-only, sale of mortgaged property):** Greater London: £300,000 (postcodes BR1–BR7, CR, DA, E, EC, EN1–EN5, HA, IG, KT1–KT6, N, NW, RM, SE, SM, SW, TW, UB, W, WC). South-East and East Anglia: £250,000 (AL, BN, CB, CM, CO, CT, GU, HP, IP, KT7–KT24, LU, ME, MK, NR, OX, PE, PO, RG, RH, SG, SL, SO, SS, TN, WD, etc.). Rest of the UK: £200,000.
-
----
 
 ### Repayment Vehicle Assessment Guidelines
 
@@ -734,13 +723,9 @@ We require a plausibility check to be done on all interest-only mortgages as per
 * **Existing Stocks and Shares ISA; share/unit/investment trust (professionally managed):** Current asset value must cover IO mortgage at application; no reliance on future premiums or growth. Evidence: latest statement (≤1 year). Plausibility: current balance must cover IO amount; no potential growth.
 * **Sale of mortgaged property:** Max 50% LTV for IO part (part and part up to 85% LTV); beyond 50% must be capital and interest. Min equity after repayment part: Greater London £300k, South-East & East Anglia £250k, rest of UK £200k.
 
----
-
 ### Internet bank statements - Residential
 
 If the bank statements are from the internet (i.e. screen shots or print offs from internet banking websites/applications) then they are acceptable if either (1) they have been stamped and certified by the issuing bank or (2) the statements show the sort code, account number and the applicant's full name (or this information can be seen elsewhere and cross-referenced to full bank statements).
-
----
 
 ## L–N
 
@@ -749,8 +734,6 @@ If the bank statements are from the internet (i.e. screen shots or print offs fr
 The minimum lease term we accept is 70 years.
 
 Where the unexpired term of the lease is less than 70 years but it is confirmed that the lease will be extended as part of the mortgage application, these can be considered on a case-by-case basis.
-
----
 
 ### Leaseholders
 
@@ -762,15 +745,11 @@ In the event the freehold is also owned by the leaseholder, then we would not be
 
 The minimum lease term we accept is 70 years at the point of application. Where the lease is under 70 years at the point of application, these will only be considered where the lease is being extended within the mortgage transaction and any offer would include a condition to ensure the lease is extended by the legal representatives for the application.
 
----
-
 ### Loan purpose
 
 Lending can be for any purpose except for the purchase of a timeshare, business-related lending, funding of any stock market trading, gambling, or to make monthly mortgage payments.
 
 No discretion applies to this area.
-
----
 
 ### Loan to Value (LTV) - Residential
 
@@ -792,9 +771,6 @@ The following maximum LTV criteria apply; lowest LTV takes precedent:
 * **Part and Part:** 85% | 85%
 
 **High-value mortgages:** Mortgages >£5m ≤£10m: Purchase 70%, Re-Mortgage 70%. Mortgages >£10m: Purchase 65%, Re-Mortgage 65%.
-
-
----
 
 **Special Schemes**
 
@@ -820,8 +796,6 @@ See the Mortgage Schemes section for full details of specific residential mortga
 * When calculating LTV, the aggregate loan amount used should not include the capitalised Barclays product fee applicable to that application.
 * The affordability assessment and lending for income multiples are to be based on the total advance including the addition of any fees.
 * Where the loan size is > £5m, underwriters retain discretion to reduce the maximum LTV based on individual circumstances.
-
----
 
 ### Mixed-use properties - Residential
 
@@ -854,8 +828,6 @@ At least 40% of the property must be used as the applicant’s main residence, a
 Mixed-use properties are not acceptable for Shared Ownership/Equity nor Buy to Let.
 
 Further standard lending conditions will apply to mixed-use properties. Please refer to our lending criteria pages for more details.
-
----
 
 ### Mortgage Boost (Joint borrower / Sole proprietor)
 
@@ -893,8 +865,6 @@ This facility is available for Barclays Residential Mortgages and Openplan Offse
 
 For intermediary use only.
 
----
-
 ### New build properties - Residential
 
 For Residential and BTL lending purposes, a new build is defined as a property first registered two or fewer years ago and subject to first sale by the developer, regardless of time or rental use in the interim. This may include a new construction, conversion, or renovation from an earlier use.
@@ -921,8 +891,6 @@ Upgrades forming an integral part of the property are not counted toward the 5% 
 
 All incentives must be declared to the valuer using the UK Finance Disclosure Form.
 
----
-
 **Offer validity**
 
 Mortgage offers are valid for six months from application date.
@@ -930,13 +898,9 @@ If completion takes longer (e.g. off-plan purchases), we can usually extend the 
 
 If significant changes have occurred, full re-underwriting may be required.
 
----
-
 **Second properties**
 
 If a customer already owns a property (and isn’t selling it), the maximum LTV is 90%. Under schemes like Help to Buy, customers cannot buy a new property if they own another property.
-
----
 
 **Sub-sales and sale contract reassignments**
 
@@ -948,8 +912,6 @@ Acceptable if:
 * Deposit is from own resources or gifted from relatives
 * No relationship exists between seller, buyer, and third party
 
----
-
 **Acceptable warranties include:**
 
 ABC+, Advantage (CGICE only), ARK, Build Assure, Build-Zone, CADIS, Checkmate Castle 10, Global Home Warranties, Protek, Home Proof, ICW, LABC, NHBC, One Guarantee, Premier Guarantee, Q Policy/Q Assure.
@@ -957,8 +919,6 @@ ABC+, Advantage (CGICE only), ARK, Build Assure, Build-Zone, CADIS, Checkmate Ca
 CRL (no longer trading): Policies backed by Casualty & General or ARK remain acceptable.
 BLP: Policies underwritten by AGCS up to 27 Nov 2020 are acceptable.
 Retrospective warranties and PCCs are not acceptable.
-
----
 
 **Professional Consultant Certificates (PCCs)**
 
@@ -970,16 +930,12 @@ PCCs are only acceptable if:
 * Scheme ≤ 5 properties (max 10 by exception with approval)
 * Not used for flats or large developments
 
----
-
 ### Number of applicants
 
 The maximum number of borrowers is 4.
 For 3 or more applicants, only the 2 highest incomes are used for affordability and income multiple calculations. All financial commitments from all applicants are included in affordability.
 
 Only 2 borrowers are allowed for Openplan Offset Mortgages.
-
----
 
 ## O-Q
 
@@ -1107,8 +1063,6 @@ Some properties may have certain features which mean that extra care will have t
 
 The above lists are not exhaustive. Please contact the Intermediary Support Team for further details.
 
----
-
 ## R–Z
 
 ### Reduced income for defined period of time
@@ -1126,8 +1080,6 @@ To verify their income, please provide all the following:
   * If the applicant is working hourly, the proposed number of hours to be worked on their return
   * If the applicant intends to amend their working hours, confirmation that their employer has approved this
 
----
-
 ### Rent to Own
 
 The Rent to Own scheme allows participants to rent a home from a Housing Association/Registered Social Landlord (RSL)/Housebuilders and have the option to purchase the property after an initial period.
@@ -1139,8 +1091,6 @@ Barclays will accept these funds as part of the deposit – standard policy appl
 Applicants may also have the option to purchase their home on a Shared Ownership basis and in these cases standard Shared Ownership policy applies.
 
 There can be no restriction on resale.
-
----
 
 ### Reserves
 
@@ -1164,8 +1114,6 @@ In all of the scenarios above, any applicable early repayment charge on the exis
 
 Please note: Our interest-only limit product maximum LTV applies across the mortgage and any reserve that the customer might have.
 
----
-
 ### Residency - Residential
 
 All mortgage applications will be assessed in terms of length of time living in the UK and rights to reside. There will potentially be further checks dependent on the application LTV.
@@ -1179,8 +1127,6 @@ All mortgage applications will be assessed in terms of length of time living in 
 * We’ll need proof that money is available to pay the deposit
 
 We can’t consider applications from refugees until they’ve got a permanent right to reside in the UK.
-
----
 
 ### Right to Buy
 
@@ -1207,8 +1153,6 @@ Please note that:
 All applications are to be submitted on a full-status basis. In addition to the supporting documentation required as per our requirements tables, your client will need to provide a copy of the letter from their landlord/local authority confirming the details of their RTB offer.
 
 Product availability is based on the full market value.
-
----
 
 ### Scottish valuations
 
@@ -1248,8 +1192,6 @@ Please see the list below for the Scottish Surveyors who are on our approved pan
 
 Note: In Scotland it is essential the home report is dated within the last 90 days prior to the application being submitted in order to be acceptable.
 
----
-
 ### Second/subsequent charges
 
 When a second/subsequent charge is secured against the subject property, you should provide us with the following information:
@@ -1264,13 +1206,9 @@ If the charge will not be repaid before/upon completion we will require a Deed o
 
 If the charge will be repaid in full upon completion, solicitors must control the funds advanced and ensure the second charge is discharged. The legal costs associated with this will be at the applicant’s expense.
 
----
-
 ### Self-build mortgages
 
 No new mortgages will be accepted at the present time on self-build mortgages or stage payment projects. This includes demolish and rebuild scenarios.
-
----
 
 ### Self-employed
 
@@ -1300,8 +1238,6 @@ What to do if your client only has 1 year trading history?
 
 You may wish to visit Kensington Mortgages, one of the UK’s leading specialist lenders and a subsidiary of Barclays Bank UK PLC. Kensington offer more flexible lending criteria to help people who may not meet typical lending requirements. [Learn more](https://www.kensingtonmortgages.co.uk/intermediaries?utm_source=Barclays_intermediaries&utm_medium=referral&utm_content=self_employed_link "Opens in a new window").
 
----
-
 ### Shared equity
 
 Under shared equity schemes, the customer owns the property outright, usually with the right to pay off the equity loan in parts. In shared ownership schemes, the customer only owns a share in the property. The customer pays for the property by way of:
@@ -1318,8 +1254,6 @@ The equity loan term must be the same or longer than the mortgage term agreed. F
 
 Barclays UK must be able to take a **first legal charge** prior to any charge registered by the Scheme Provider.
 
----
-
 **Additional Borrowing**
 Can be considered providing Scheme Provider permission is obtained and all areas of this section of Lending Guidelines are met.
 
@@ -1331,8 +1265,6 @@ Can be considered providing Scheme Provider permission is obtained and all areas
 * The equity loan will usually be a percentage of the current market value.
 * Permission to Let is not to be considered unless there is specific agreement from the Shared Equity Scheme Provider.
 * Any fee/interest payment (current or deferred) associated with the equity loan must be included as a commitment in the affordability assessment.
-
----
 
 **Scottish Government Schemes:**
 Barclays supports the following Scottish Government schemes:
@@ -1373,8 +1305,6 @@ Can be considered providing Scheme Provider permission is obtained, where requir
 
 * Please refer to the Help to Buy section
 
----
-
 ### Shared ownership
 
 Under shared ownership schemes, the customer part-owns and part-rents the property from the Scheme Provider under the terms of a shared ownership lease. With shared ownership, the applicant must be buying a minimum 25% share of the property.
@@ -1399,8 +1329,6 @@ Re-mortgages from another lender are acceptable provided agreement from the sche
 * Products under the NewBuy and Help to Buy schemes are not available for any Shared Ownership proposition.
 * If the scheme does not meet all the above criteria then Barclays will not lend.
 
----
-
 ### Supporting documentation - Residential
 
 Depending on the circumstances of your client's application, supporting documents may be required for the mortgage to be assessed and underwritten. By providing the documentation we need at the outset, you'll help make the experience for you and your client as smooth and efficient as possible.
@@ -1408,8 +1336,6 @@ Depending on the circumstances of your client's application, supporting document
 Submitting applications via MAX will enable us to provide the best possible service.
 
 For details of documentary requirements for employed income, please see [Criteria and Packaging Guide](https://intermediaries.uk.barclays/content/dam/intermediaries-uk-barclays/pdf/Criteria_and_Packaging_Guide.pdf "Opens in a new window") [PDF, 757KB].
-
----
 
 ### Short-term letting
 
@@ -1432,8 +1358,6 @@ Rental income from renting out this property or part of it (for example, using a
 
 We offer additional options if your clients want to let their property. See *Permission to Let* for more information.
 
----
-
 ### S.106 agreement (S.75 in Scotland)
 
 The valuer must be able to value the property on a residential basis ignoring any possible business usage.
@@ -1452,8 +1376,6 @@ Discount market sales will typically have a S.106 present to ensure the discount
 
 Where the restriction includes a nomination period, these are acceptable provided the nomination period is no more than 3 months.
 
----
-
 ### Term of mortgage - Residential
 
 For new interest-only mortgage customers, the term can't extend into retirement.
@@ -1461,8 +1383,6 @@ For new interest-only mortgage customers, the term can't extend into retirement.
 Our usual mortgage term is between **5 and 40 years** (25 for interest-only, including part and part).
 
 Certain products also have specific requirements around their maximum mortgage term – for example, Family Springboard. See *Lending products* for more details about specific products.
-
----
 
 ### Transaction under value
 
@@ -1482,8 +1402,6 @@ It must be confirmed that the property being bought is not that being sold by a 
 
 The above deposit requirement does not apply to **Springboard Mortgage** transactions where a minimum 5% deposit is required (based on lower of valuation and discounted purchase price), with a further 10% cash deposit to be held in line with standard requirements applicable to a Springboard Mortgage Product.
 
----
-
 ### Valuation appeals
 
 Customers can appeal against valuations where the following apply:
@@ -1498,8 +1416,6 @@ Appeals can only be considered when submitted against a **physical valuation (i.
 If your customer wishes to appeal the valuation in line with the guidance above, you will need to contact your **Barclays Support Team** or email [brokersupport@barclays.com](mailto:brokersupport@barclays.com).
 
 An appeals form will be issued, and you will be required to supply **three comparable properties sold in the last six months**.
-
----
 
 ### Valuations - Residential
 
@@ -1527,8 +1443,6 @@ More information on survey types can be found on the *Home Surveys* section of t
 
 Please note that if your clients do instruct their own survey, this will be a separate contract between them and their chosen survey provider, with separate fees applying. Barclays will always rely on the mortgage valuation for the purpose of agreeing the mortgage.
 
----
-
 **Automated Valuation Model (AVM)**
 
 For remortgages on properties:
@@ -1541,8 +1455,6 @@ AVMs assist with instant mortgage decisions. Whether you apply through MAX or vi
 AVMs are only suitable for further borrowing where the latest valuation was a physical one (not an AVM).
 
 In all further borrowing cases where the latest valuation was an AVM, a **Non-Disclosed PRA valuation** must be requested.
-
----
 
 **Japanese Knotweed**
 
@@ -1585,4 +1497,3 @@ Japanese Knotweed is not seen at the property, but can be seen on neighbouring l
 
 Report this in the valuation together with a valuation of the property. No further investigation or action required.
 
----

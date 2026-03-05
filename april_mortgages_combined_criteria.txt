@@ -1,7 +1,5 @@
 # APRIL MORTGAGES – COMBINED LENDING CRITERIA
 
----
-
 **LENDER:** April Mortgages
 **PRODUCT:** Combined (Residential)
 **DOCUMENT TYPE:** Combined lending criteria. 44 sections: Overview, Product Types, Income Assessment, Employment Income, Other Income Types, Property Types, LTV, Loan Amounts, Mortgage Terms, Age Limits, Interest Only, RIO, Credit History & Adverse Credit, Property Construction, Property Factors, Property Ownership, Deposit Sources, Remortgage, Purchase Types, Shared Ownership, Help to Buy, Right to Buy, Right to Acquire, First Homes, Discount Market Scheme, Self Build, Applicants, Address History, Employment Status, Nationality & Residency, Lending Locations, Property Value, Affordability Assessment, Additional Features, Special Circumstances, Specialized Products, Property Restrictions, Legal & Conveyancing, Other Considerations, SVR, Broker Partnership, Tools & Resources, Contact Information, Important Notes.
@@ -15,8 +13,6 @@ For intermediary use only. This website is for use by FCA authorised intermediar
 
 **Contact:** https://aprilmortgages.co.uk/broker/contact/ | **Broker Portal:** https://broker.aprilmortgages.co.uk/
 
----
-
 # SECTION 1 – OVERVIEW
 
 April Mortgages offers residential mortgages with a unique combination of peace of mind and freedom. We think mortgages should be simple, which is why we've designed all our products to give you **certainty** and **flexibility**, with clever features that put you in control.
@@ -29,8 +25,6 @@ April Mortgages offers residential mortgages with a unique combination of peace 
 * **Up to 7x income** - We'll lend up to 7x your income, helping more people access the homes they want, with the confidence they need
 * **Uncapped overpayments** - Make overpayments without limits
 * **Portable mortgages** - Keep your mortgage when you move home
-
----
 
 # SECTION 2 – PRODUCT TYPES
 
@@ -83,8 +77,6 @@ Interest Only+ is available with a **Part & Part** option, offering lower monthl
 
 Get a borrowing boost with AffordAbility+ (up to **7x income**). Cannot be used with No Deposit product.
 
----
-
 # SECTION 3 – INCOME ASSESSMENT
 
 ## Income Multiples
@@ -95,8 +87,6 @@ Get a borrowing boost with AffordAbility+ (up to **7x income**). Cannot be used 
 ## Minimum Income Requirements
 
 **Minimum (No Deposit product):** £24,000. Standard products: no specific minimum stated.
-
----
 
 # SECTION 4 – EMPLOYMENT INCOME
 
@@ -160,8 +150,6 @@ Various contractor income types are accepted:
 * Latest years self employed figures used for affordability
 * Loss in Latest Year assessed individually
 
----
-
 # SECTION 5 – OTHER INCOME TYPES
 
 ## Pension Income
@@ -210,8 +198,6 @@ Various contractor income types are accepted:
 * Seafarer
 * Stipend
 
----
-
 # SECTION 6 – PROPERTY TYPES
 
 ## Standard Property Types
@@ -255,8 +241,6 @@ Various contractor income types are accepted:
 * New Build purchased off plan
 * Various New Build warranties accepted (NHBC, Premier Guarantee, LABC, ICW, Buildzone, Checkmate, Protek, AEDIS, Building Life Plans, CRL Management Ltd, Global Home Warranties, Q Assure Build, Zurich Municipal "New Build", Professional Consultants Certificate)
 
----
-
 # SECTION 7 – LOAN TO VALUE (LTV)
 
 ## Maximum LTV
@@ -273,8 +257,6 @@ Various contractor income types are accepted:
 
 * No specific minimum LTV stated
 
----
-
 # SECTION 8 – LOAN AMOUNTS
 
 ## Minimum Loan Size
@@ -290,8 +272,6 @@ Various contractor income types are accepted:
 * Maximum loan size for RIO applies
 * Minimum loan size for RIO applies
 
----
-
 # SECTION 9 – MORTGAGE TERMS
 
 ## Minimum Term
@@ -302,8 +282,6 @@ Various contractor income types are accepted:
 
 * Maximum term (years) applies
 * Maximum term for Retirement Interest Only (RIO) applies
-
----
 
 # SECTION 10 – AGE LIMITS
 
@@ -329,8 +307,6 @@ Various contractor income types are accepted:
 * RIO maximum age at term end applies
 * RIO minimum age at application applies
 
----
-
 # SECTION 11 – INTEREST ONLY MORTGAGES
 
 ## Interest Only Repayment Strategies
@@ -349,8 +325,6 @@ Various contractor income types are accepted:
 * Minimum equity requirement applies
 * Minimum income requirement applies
 * Maximum LTV for Interest Only mortgages applies
-
----
 
 # SECTION 12 – RETIREMENT INTEREST ONLY (RIO)
 
@@ -374,8 +348,6 @@ Various contractor income types are accepted:
 * Other Non Provable Income
 * Rental Income
 * Survivors Pension
-
----
 
 # SECTION 13 – CREDIT HISTORY & ADVERSE CREDIT
 
@@ -459,8 +431,6 @@ Various contractor income types are accepted:
 * Previously Repossessed (years ago acceptable) - assessed individually
 * Telecommunications Adverse Ignored - assessed individually
 
----
-
 # SECTION 14 – PROPERTY CONSTRUCTION
 
 ## Standard Construction
@@ -506,8 +476,6 @@ Various contractor income types are accepted:
 
 * EWS1 required on properties with combustible cladding or materials on balconies (check current policy)
 
----
-
 # SECTION 15 – PROPERTY FACTORS
 
 ## Property Issues
@@ -543,8 +511,6 @@ Various contractor income types are accepted:
 * Maximum number of stories where no lift is present applies
 * Minimum Percentage of Properties under Private Ownership on Ex-Local Authority Blocks of Flats applies
 
----
-
 # SECTION 16 – PROPERTY OWNERSHIP
 
 * Possessory Title
@@ -552,8 +518,6 @@ Various contractor income types are accepted:
 * Splitting of a title deed on completion
 * Tenancy in Common with Unequal Shares
 * Trust
-
----
 
 # SECTION 17 – DEPOSIT SOURCES
 
@@ -578,8 +542,6 @@ Various contractor income types are accepted:
 ## Cryptocurrency
 
 * Cryptocurrency / Bitcoin - assessed individually
-
----
 
 # SECTION 18 – REMORTGAGE
 
@@ -625,8 +587,6 @@ Various contractor income types are accepted:
 * Back to Back (Remortgage - Other)
 * Back to Back (Remortgage - Ported)
 
----
-
 # SECTION 19 – PURCHASE TYPES
 
 ## Standard Purchase
@@ -665,8 +625,6 @@ Various contractor income types are accepted:
 
 * Non Simultaneous Sale and Purchase - assessed individually
 
----
-
 # SECTION 20 – SHARED OWNERSHIP
 
 * Shared Ownership accepted
@@ -676,16 +634,12 @@ Various contractor income types are accepted:
 * Restricted Staircasing - assessed individually
 * Shared Ownership remortgage purpose: Capital raising for home improvements
 
----
-
 # SECTION 21 – HELP TO BUY
 
 * Help to Buy Equity Loan accepted
 * Help to Buy Equity Loan Remortgage
 * Help to Buy Equity Loan Remortgage with Capital Raising
 * Help to Buy Wales
-
----
 
 # SECTION 22 – RIGHT TO BUY
 
@@ -697,25 +651,17 @@ Various contractor income types are accepted:
 * Right to buy remortgage within pre-emption period - Balance swap
 * Right to buy remortgage within pre-emption period - Capital raising
 
----
-
 # SECTION 23 – RIGHT TO ACQUIRE
 
 * Right to Acquire accepted
-
----
 
 # SECTION 24 – FIRST HOMES SCHEME
 
 * First Homes Scheme: discounts for first time buyers
 
----
-
 # SECTION 25 – DISCOUNT MARKET SCHEME
 
 * Discount Market Scheme accepted
-
----
 
 # SECTION 26 – SELF BUILD
 
@@ -791,8 +737,6 @@ Various contractor income types are accepted:
 * Property Type: Semi-detached property
 * Property Usage: Holiday/Second Home
 
----
-
 # SECTION 27 – APPLICANTS
 
 ## Maximum Number of Applicants
@@ -817,8 +761,6 @@ Various contractor income types are accepted:
 * Reverse (younger applicant guarantor for older applicant)
 * Where applicant significant income growth is not expected
 
----
-
 # SECTION 28 – ADDRESS HISTORY
 
 * Address History (Min UK address history needed) applies
@@ -826,8 +768,6 @@ Various contractor income types are accepted:
 ## Applicant Status
 
 * Applicant not on electoral register - assessed individually
-
----
 
 # SECTION 29 – EMPLOYMENT STATUS
 
@@ -850,8 +790,6 @@ Various contractor income types are accepted:
 * Employment: Pending new job salary accepted
 * Employment: Pending pay rise accepted
 * Employment: Probationary Period
-
----
 
 # SECTION 30 – NATIONALITY & RESIDENCY
 
@@ -881,8 +819,6 @@ Various contractor income types are accepted:
 
 * Expat Residential Mortgage
 
----
-
 # SECTION 31 – LENDING LOCATIONS
 
 * England
@@ -900,8 +836,6 @@ For the purposes of determining valuation fees applicable, the following postcod
 
 BR, CR, DA, E, EC, EN, HA, IG, KT, N, NW, RM, SE, SM, SW, TW, UB, W, WC
 
----
-
 # SECTION 32 – PROPERTY VALUE
 
 ## Minimum Property Value
@@ -912,8 +846,6 @@ BR, CR, DA, E, EC, EN, HA, IG, KT, N, NW, RM, SE, SM, SW, TW, UB, W, WC
 ## Maximum Property Value
 
 * No specific maximum stated (subject to loan size limits)
-
----
 
 # SECTION 33 – AFFORDABILITY ASSESSMENT
 
@@ -949,8 +881,6 @@ BR, CR, DA, E, EC, EN, HA, IG, KT, N, NW, RM, SE, SM, SW, TW, UB, W, WC
 
 * Income made up primarily of benefits - assessed individually
 
----
-
 # SECTION 34 – ADDITIONAL FEATURES
 
 ## Overpayments
@@ -977,8 +907,6 @@ BR, CR, DA, E, EC, EN, HA, IG, KT, N, NW, RM, SE, SM, SW, TW, UB, W, WC
 
 * Arrangement Fees Can Be Added When Exceeding LENDING LTV Limits
 * Arrangement Fees Can Be Added When Exceeding PRODUCT LTV Limits
-
----
 
 # SECTION 35 – SPECIAL CIRCUMSTANCES
 
@@ -1010,8 +938,6 @@ BR, CR, DA, E, EC, EN, HA, IG, KT, N, NW, RM, SE, SM, SW, TW, UB, W, WC
 
 * Minimum period background property let before can be ignored (months) applies
 
----
-
 # SECTION 36 – SPECIALIZED PRODUCTS
 
 ## Sports Professionals
@@ -1021,8 +947,6 @@ BR, CR, DA, E, EC, EN, HA, IG, KT, N, NW, RM, SE, SM, SW, TW, UB, W, WC
 ## Buy for University (Student Mortgages)
 
 * Buy for University (Student Mortgages) - assessed individually
-
----
 
 # SECTION 37 – PROPERTY RESTRICTIONS
 
@@ -1038,8 +962,6 @@ BR, CR, DA, E, EC, EN, HA, IG, KT, N, NW, RM, SE, SM, SW, TW, UB, W, WC
 
 * Property with Restrictive Covenant Section 106
 
----
-
 # SECTION 38 – LEGAL & CONVEYANCING
 
 ## Search Indemnity Insurance
@@ -1051,8 +973,6 @@ BR, CR, DA, E, EC, EN, HA, IG, KT, N, NW, RM, SE, SM, SW, TW, UB, W, WC
 
 * Legal: Private local authority search (purchases)
 * Legal: Private local authority search (remortgages)
-
----
 
 # SECTION 39 – OTHER CONSIDERATIONS
 
@@ -1092,23 +1012,17 @@ BR, CR, DA, E, EC, EN, HA, IG, KT, N, NW, RM, SE, SM, SW, TW, UB, W, WC
 
 * Advisor Own Application - assessed individually
 
----
-
 # SECTION 40 – STANDARD VARIABLE RATE (SVR)
 
 At the end of the fixed-rate product, our Standard Variable Rate (SVR) will apply. Unlike other lenders, our SVR is priced according to risk and the lower the LTV, the lower the rate will be. Our SVR uses the same LTV bands as our fixed rate products and, as the LTV reduces over time, the SVR automatically moves to a new lower rate as it passes into a new LTV band.
 
 However, an SVR should rarely be a first choice and we will offer your client the same great deals we offer to new clients. We always make sure you are involved in this process and will proactively contact you at the same time as your client in advance of the fixed rate ending.
 
----
-
 # SECTION 41 – BROKER PARTNERSHIP
 
 We believe in building long-term relationships, with our broker partners and with our customers. That's why we only distribute through intermediaries and work closely with you to ensure you receive the same great service as your clients and are fairly rewarded for your expertise.
 
 We'll work closely with you throughout the term of your client's mortgage. From arranging the mortgage to further advances and product switches. At the end of their product term we will proactively contact you at the same time we contact your client. And we'll offer them the same great rates we offer to new borrowers.
-
----
 
 # SECTION 42 – TOOLS & RESOURCES
 
@@ -1129,15 +1043,11 @@ We'll work closely with you throughout the term of your client's mortgage. From 
 * April Advisor Lounge access
 * Training videos available
 
----
-
 # SECTION 43 – CONTACT INFORMATION
 
 **Broker Contact:** https://aprilmortgages.co.uk/broker/contact/
 **Broker Portal:** https://broker.aprilmortgages.co.uk/
 **Phone:** 0333 456 0333 (for No Deposit enquiries)
-
----
 
 # SECTION 44 – IMPORTANT NOTES
 
@@ -1146,8 +1056,6 @@ We'll work closely with you throughout the term of your client's mortgage. From 
 * Product availability and rates are subject to change
 * Always refer to the latest Product Features documents and criteria search tool for the most up-to-date information
 * For cases outside standard criteria, contact April Mortgages for consideration
-
----
 
 **Last Updated:** 2025
 **Source:** https://aprilmortgages.co.uk/

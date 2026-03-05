@@ -1,76 +1,18 @@
-LENDER NAME: Skipton International
-PRODUCT: Buy to Let
+# SKIPTON INTERNATIONAL – BTL LENDING CRITERIA (EXPATS & OVERSEAS RESIDENTS)
 
-# Skipton International - UK Buy-to-Let Mortgage Criteria for Expats and Overseas Residents
+**LENDER:** Skipton International
+**PRODUCT:** Buy to Let
+**LAST UPDATED:** 2025
+**SOURCE:** Skipton International
+**FOR INTERMEDIARIES ONLY**
 
-**Last Updated:** 2025
-**Source:** Skipton International
-**For Intermediaries Only**
-
----
-
-## Document Information
-
-This document contains comprehensive buy-to-let lending criteria for Skipton International, specifically for expats and overseas residents remortgaging or purchasing Buy-To-Let properties in England, Wales or the Scottish mainland.
-
-**Website:** https://www.skiptoninternational.com/expat-mortgage-broker/aip-calculators/
-**Website:** https://www.skiptoninternational.com/expat-mortgage-broker/documents/
-**Website:** https://www.skiptoninternational.com/expat-mortgage-broker/emortgages/
-**Website:** https://www.skiptoninternational.com/expat-mortgage-broker/intermediary-faqs/
-**Website:** https://www.skiptoninternational.com/expat-mortgage-broker/key-criteria/
-**Website:** https://www.skiptoninternational.com/expat-mortgage-broker/packaging-guidelines/
-**Website:** https://www.skiptoninternational.com/expat-mortgage-broker/property-letting-requirements-england-wales/
-**Website:** https://www.skiptoninternational.com/expat-mortgage-broker/property-letting-requirements-scotland/
-**Website:** https://www.skiptoninternational.com/expat-mortgage-broker/restricted-countries/
-**Website:** https://www.skiptoninternational.com/expat-mortgage-broker/restricted-properties/
-**Website:** https://www.skiptoninternational.com/expat-mortgage-broker/uk-buy-to-let-rates/
-**Contact:** mortgagesales@skiptoninternational.com
-
----
-
-## Table of Contents
-
-This guide contains 9 main sections organized by topic:
-
-
-### General Information
-
-1. Overview
-7. Useful Resources
-8. Contact Information
-9. Important Regulatory Information
-
-### Client Requirements
-
-2. Client
-
-### Income and Employment
-
-4. Income Confirmation
-
-### Portfolio
-
-3. Portfolio Landlord
-
-### Mortgage Details
-
-5. Mortgage
-
-### Property
-
-6. Property
-
----
-
-## Overview
+# Overview
 
 **Expats and Overseas Residents remortgaging or purchasing Buy-To-Let properties in England, Wales or the Scottish mainland.**
 
 The application can be emailed or couriered to our office. Please note, as the application is for non-UK residents the documentation requirements may be more extensive than for similar applications for UK residents to other banks. Please see [Packaging Guidelines](https://www.skiptoninternational.com/expat-mortgage-broker/packaging-guidelines/) for full information.
 
----
-
-## Client
+# Client
 
 1. Each applicant must be a passport holder and have their citizenship noted in the nationality section of their passport for a country not listed in Skipton International's [Restricted Country List](https://www.skiptoninternational.com/expat-mortgage-broker/restricted-countries/).
 
@@ -86,9 +28,7 @@ The application can be emailed or couriered to our office. Please note, as the a
 
 7. The client can never have been declared bankrupt, insolvent or equivalent and no action should be pending. They should never have entered into any arrangement with creditors or party to a voluntary arrangement. Should never had a property repossessed by a lender or entered into an arrangement for mortgage arrears. They should also not have an unsatisfied court order or have any such actions pending. If a court order has been satisfied, we will look at this on a case by case basis.
 
----
-
-## Portfolio Landlord
+# Portfolio Landlord
 
 Once an applicant owns, or will own as a result of their proposed purchase(s), four or more mortgaged Buy-To-Let properties, they are classified as a "Portfolio Landlord" by Skipton International.
 
@@ -102,9 +42,7 @@ In addition:
 
 The above is not exhaustive just a guide.
 
----
-
-## Income Confirmation
+# Income Confirmation
 
 Clients can be employed, self-employed or pensioners. Income must be from one source only. **Earned income with the exception of pension income cannot be subject to UK income tax.**
 
@@ -155,9 +93,7 @@ For a joint application minimum £80,000 p.a or equivalent if paid in local curr
 
 Pension income can be subject to U.K. income tax if the clients have retired abroad and can be from more than one pension provider.
 
----
-
-## Mortgage
+# Mortgage
 
 1. We support mortgages on properties in England, Wales, Scottish mainland and the Channel Islands. Please note Skipton International does not lend on properties located in Northern Ireland, Isle of Man or the islands of Scotland
 
@@ -167,9 +103,7 @@ Pension income can be subject to U.K. income tax if the clients have retired abr
 
 4. The maximum mortgage term is 35 years subject to point 3.
 
----
-
-## Property
+# Property
 
 1. The property must be for Buy-To-Let purposes and neither the borrower nor their family can live in the property during the original product period.
 
@@ -185,9 +119,7 @@ Pension income can be subject to U.K. income tax if the clients have retired abr
 
 **Earned income with the exception of pension income cannot be subject to UK income tax**
 
----
-
-## Useful Resources
+# Useful Resources
 
 - **[AIP Calculators](https://www.skiptoninternational.com/expat-mortgage-broker/aip-calculators/)** - Use our handy approval in principle calculators providing full borrowing amounts and repayments
 - **[Help and FAQs](https://www.skiptoninternational.com/expat-mortgage-broker/intermediary-faqs/)** - FAQs, guides and articles for new and existing Buy-To-Let mortgage customers
@@ -197,9 +129,7 @@ Pension income can be subject to U.K. income tax if the clients have retired abr
 - **[Restricted Properties](https://www.skiptoninternational.com/expat-mortgage-broker/restricted-properties/)** - Properties that Skipton cannot offer mortgages against
 - **[Documents and Forms](https://www.skiptoninternational.com/expat-mortgage-broker/documents/)** - Including accountant certificate and business questionnaire
 
----
-
-## Contact Information
+# Contact Information
 
 **New Mortgages:**  
 Phone: +44(0)1481 734000  
@@ -214,31 +144,10 @@ Phone: +44(0)1481 730 730
 **Address:**  
 PO BOX 509, Tudor House, Le Bordage, St Peter Port, Guernsey, GY1 6DS GREAT BRITAIN
 
----
-
-## Important Regulatory Information
+# Important Regulatory Information
 
 **YOUR HOME MAY BE REPOSSESSED IF YOU DO NOT KEEP UP REPAYMENTS ON YOUR MORTGAGE.**
 
 Skipton International Ltd is licensed under the Lending, Credit and Finance (Bailiwick of Guernsey) Law 2022. All mortgages are subject to status and valuation.
 
----
-
 **Source URL:** https://www.skiptoninternational.com/expat-mortgage-broker/key-criteria/
-
----
-
-## Main URLs
-
-- https://www.skiptoninternational.com/expat-mortgage-broker/aip-calculators/
-- https://www.skiptoninternational.com/expat-mortgage-broker/documents/
-- https://www.skiptoninternational.com/expat-mortgage-broker/emortgages/
-- https://www.skiptoninternational.com/expat-mortgage-broker/intermediary-faqs/
-- https://www.skiptoninternational.com/expat-mortgage-broker/key-criteria/
-- https://www.skiptoninternational.com/expat-mortgage-broker/packaging-guidelines/
-- https://www.skiptoninternational.com/expat-mortgage-broker/property-letting-requirements-england-wales/
-- https://www.skiptoninternational.com/expat-mortgage-broker/property-letting-requirements-scotland/
-- https://www.skiptoninternational.com/expat-mortgage-broker/restricted-countries/
-- https://www.skiptoninternational.com/expat-mortgage-broker/restricted-properties/
-- https://www.skiptoninternational.com/expat-mortgage-broker/uk-buy-to-let-rates/
-- mortgagesales@skiptoninternational.com

@@ -1,14 +1,10 @@
 # THE MORTGAGE WORKS – COMBINED LENDING CRITERIA
 
----
-
 **LENDER:** The Mortgage Works (Nationwide Building Society)
 **PRODUCT:** Combined (BTL / Limited Company / HMO)
 **DOCUMENT TYPE:** A-Z Lending Criteria
 **SOURCE:** [TMW A-Z Criteria](https://www.themortgageworks.co.uk/intermediaries/lending-criteria/a-z) | [HMO](https://www.themortgageworks.co.uk/intermediaries/lending-criteria/hmo) | [Broker Chat](https://www.themortgageworks.co.uk/intermediaries/support/broker-chat)
 **FOR INTERMEDIARY USE ONLY**
-
----
 
 # Intermediary support and contact
 
@@ -77,12 +73,9 @@ If you're an intermediary, we have dedicated teams ready to help you with your q
 - **URL:** https://www.themortgageworks.co.uk/contact-us
 - Full contact information and additional support options
 
----
 # Limited Company Criteria
 
 If you're arranging Buy to Let mortgages through a Limited Company, the company must meet our eligibility, structure and application requirements.
-
----
 
 ### Selling Property to an SPV
 
@@ -94,8 +87,6 @@ Applications where a Limited Company purchases from one of its directors/shareho
 - These applications must be submitted as a **purchase**.
 - Refer to Private Sales and Gifts criteria for full details.
 
----
-
 ### Selling a Residential Main Residence to Your SPV
 
 We’ll consider applications where an SPV purchases a director/shareholder’s main residence for Buy to Let use, subject to:
@@ -104,8 +95,6 @@ We’ll consider applications where an SPV purchases a director/shareholder’s 
 - Director/shareholder vacating the property on completion and providing new correspondence address if required.
 - Copy of onward residential mortgage offer provided prior to completion (if applicable).
 - A Limited Company purchase product selected.
-
----
 
 # Product and Loan Criteria
 
@@ -117,8 +106,6 @@ We’ll consider applications where an SPV purchases a director/shareholder’s 
 - First Time Landlords accepted (subject to standard criteria)
 
 Use the product finder for stress rates and product details.
-
----
 
 # Limited Company Key Criteria
 
@@ -154,8 +141,6 @@ Additional requirements:
 - SPVs considered from day one of setup
 - Guarantors must obtain Independent Legal Advice before signing Deed of Guarantee
 
----
-
 ### Company Structure
 
 - Directors/shareholders must meet standard lending criteria.
@@ -177,8 +162,6 @@ Acceptable structures:
 
 Only SPV directors have account access and decision-making authority.
 
----
-
 ### Minority Shareholders
 
 - Up to four additional shareholders allowed.
@@ -189,8 +172,6 @@ Only SPV directors have account access and decision-making authority.
 - Shares cannot be held in trust or another company.
 - No personal guarantee or credit assessment required.
 
----
-
 ### Companies House Requirements
 
 - Director/shareholder details must match Companies House records.
@@ -200,13 +181,9 @@ Only SPV directors have account access and decision-making authority.
 
 Applications declined for PSC issues can be reviewed via [dip@themortgageworks.co.uk](mailto:dip@themortgageworks.co.uk).
 
----
-
 # Portfolio Landlords
 
 If the company and its directors own four or more mortgaged properties (individually or collectively), Portfolio Landlord criteria apply.
-
----
 
 # Source of Deposit
 
@@ -237,8 +214,6 @@ Bank Statements:
 
 Application will not be assessed until all evidence received.
 
----
-
 ### Gifts
 
 - Gifted deposits acceptable from individuals to directors.
@@ -246,8 +221,6 @@ Application will not be assessed until all evidence received.
 - Gift of equity accepted (submitted as purchase).
 - Non-UK gifts or funds from non-UK companies/trusts not accepted.
 - Overseas personal funds considered subject to full audit trail.
-
----
 
 ### Shareholder Funds
 
@@ -267,13 +240,9 @@ Not accepted:
 - Advance payments for goods/services
 - Capital contributions without additional shares
 
----
-
 ### Bounce Back Loans
 
 Business Bounce Back Loans not accepted as deposit.
-
----
 
 # Before You Apply
 
@@ -283,8 +252,6 @@ Business Bounce Back Loans not accepted as deposit.
 - Mortgage Illustrations via sourcing system.
 
 TMW Online updates every 10 minutes for case tracking.
-
----
 
 # Underwriting Requirements
 
@@ -299,8 +266,6 @@ If not met face-to-face, documents must be certified.
 Certificate of Incorporation may be requested if electronic verification fails.
 
 Additional information may be required.
-
----
 
 # Company Changes
 
@@ -317,8 +282,6 @@ If approved:
 
 - Change of parties fee applies.
 
----
-
 ### Unacceptable Company Changes
 
 - Conversion to Charity, Trust or Foundation.
@@ -326,23 +289,17 @@ If approved:
 - Offshore links.
 - Adding directors/shareholders under 21.
 
----
-
 # Additional Information
 
 - Additional 0.10% gross procuration fee for Limited Company cases.
 - Separate solicitor representation not required.
 - First legal charge required over security.
 
----
-
 # Useful Forms
 
 - Gifted Deposit Form
 - Deed of Guarantee
 - Property Schedule
-
----
 
 # Support
 
@@ -351,10 +308,7 @@ For assistance:
 - Contact your BDM.
 - Use Broker Chat via TMW Online.
 
----
 # Portfolio Landlord Criteria
-
----
 
 ### The Mortgage Works Portfolio Landlord Definition
 
@@ -376,8 +330,6 @@ This includes:
 
 - Example: If Applicant 1 owns three mortgaged properties and Applicant 2 owns five, they collectively own eight and are treated as portfolio landlords.
 
----
-
 ### Affordability Assessment
 
 All new mortgage applications are assessed to ensure the client can cover the monthly mortgage interest payment.
@@ -396,8 +348,6 @@ The assessment is based on the entire portfolio, including:
 
 Different products apply depending on portfolio size. Check the latest product guide before application.
 
----
-
 ### Existing Portfolio Rental Calculation
 
 ### Up to 10 Mortgaged Buy to Let Properties at Completion
@@ -414,13 +364,9 @@ Different products apply depending on portfolio size. Check the latest product g
 - Stress rate
 - ICR
 
----
-
 ### Portfolio Checker
 
 Use the Portfolio Checker tool to get an indication of whether the client’s portfolio is likely to fit criteria.
-
----
 
 ### Keying Applications in TMW Online
 
@@ -438,8 +384,6 @@ Use the Portfolio Checker tool to get an indication of whether the client’s po
 
 - Enter the full rental income.
 - Enter the full mortgage balance.
-
----
 
 ### Packaging Applications (Including Portfolio Portal)
 
@@ -475,15 +419,11 @@ Depending on portfolio size and case complexity, additional information such as 
 
 Only submit requested proofs and supporting documents when asked.
 
----
-
 ### Useful Tools, Guides and Forms
 
 - Portfolio Checker.
 - Property Schedule Template.
 - Portfolio Portal Guidance Notes.
-
----
 
 ### Support
 
@@ -491,8 +431,6 @@ If further clarification is required, contact:
 
 - Your Business Development Manager (BDM), OR
 - Broker Chat via TMW Online.
-
----
 
 # Property criteria
 
@@ -608,8 +546,6 @@ Flats in blocks over four storeys high should have a lift. This applies when the
 - The property is fully complete.
 - The property will be let on completion.
 
----
-
 ### Local Authority Flats
 
 - Former local authority flats in blocks of more than five storeys are not accepted.
@@ -618,8 +554,6 @@ Flats in blocks over four storeys high should have a lift. This applies when the
 - Maisonettes in blocks of more than five storeys.
 - Scottish tenements in blocks of more than five storeys.
 - Properties that were, or still are, in local authority ownership.
-
----
 
 ### Lease Terms
 
@@ -660,8 +594,6 @@ Flats in blocks over four storeys high should have a lift. This applies when the
 
 These examples are not exhaustive. Solicitors must refer any lease terms that may affect value or saleability.
 
----
-
 ### Estate Charges
 
 - Estate Rent Charges or Estate Management Charges may apply to freehold or leasehold properties.
@@ -669,8 +601,6 @@ These examples are not exhaustive. Solicitors must refer any lease terms that ma
 - If charges exceed £500 per annum:
 
 - Details must be provided so the valuer can assess impact on valuation.
-
----
 
 ### Japanese Knotweed
 
@@ -698,8 +628,6 @@ Then:
 - Written confirmation is required from the applicant confirming awareness of the presence and risks.
 - Independent professional advice is recommended.
 
----
-
 ### Building Insurance
 
 - Adequate insurance must be in place.
@@ -707,8 +635,6 @@ Then:
 
 - The Mortgage Works (UK) plc noted as mortgagee.
 - Switching mortgage products does not affect house insurance.
-
----
 
 ### Post Valuation Queries Reports
 
@@ -725,8 +651,6 @@ Valuers may request specialist reports to:
 - Only reports from qualified firms/professions are accepted.
 - Reports must show a detailed inspection.
 - If a report initially certifies the property as unsuitable security, an independent specialist review may be considered.
-
----
 
 ### Examples of Specialist Reports
 
@@ -746,8 +670,6 @@ Must:
 - MRICS / FRICS
 - MASI / FASI / MCABE / FCABE / MCIOB / FCIOB / MIEI
 
----
-
 ### Damp and Timber Report
 
 Must:
@@ -758,8 +680,6 @@ Must:
 
 - A 10-year insurance-backed guarantee is required.
 - Guarantee must be in the applicant’s name and/or transferable.
-
----
 
 ### Electrical Report
 
@@ -772,8 +692,6 @@ Testing must be completed by:
 
 - England & Wales: NICEIC, STORMA or NAPIT registered electrician.
 - Scotland: NICEIC registered electrician.
-
----
 
 ### Loft / Basement / Attic Conversions
 
@@ -796,15 +714,11 @@ The valuer will decline the property if it has:
 - Non-cladding related fire safety concerns with external wall systems and any attachment (e.g. balconies).
 - Any other significant fire safety concerns in a multi-storey, multi-occupancy building.
 
----
-
 ### Why Do We Ask for More Information Before Mortgage Offer?
 
 It’s important that fire safety issues are identified and addressed with your client as early as possible.
 
 If we’re able to issue a mortgage offer, this ensures your client can be confident that fire safety issues won’t arise later in the mortgage journey, for example close to completion.
-
----
 
 ### What Happens Next?
 
@@ -817,8 +731,6 @@ We’ll need additional information to determine whether the property is suitabl
 - Whether the fire safety issues are being remediated and/or mitigated.
 - Whether the issues are being refuted by the Principal Accountable Person (responsible for repairing and reporting on common parts).
 
----
-
 ### Our Requirements for Cases Affected by Fire Safety Issues
 
 If a valuer declines a property due to fire safety concerns, we’ll contact you. We’ll know the jurisdiction and building height.
@@ -829,11 +741,7 @@ Once the remediation/mitigation route has been identified, submit the required d
 
 If a **free legal fee product** is selected and the valuer raises fire safety concerns, we cannot proceed on a free legal fee basis. A new product using panel solicitors must be selected.
 
----
-
 # Jurisdiction Guidance
-
----
 
 # England – Multi-storey / Multi-occupancy Buildings 11m or More (or 5 Storeys or More)
 
@@ -846,8 +754,6 @@ Provide one of:
 - EWS1 confirming A1/A2/B1 rating.
 - Fire Risk Assessment of External Walls (FRAEW) confirming no work required.
 - Signed letter from responsible person confirming building is safe, plus copy of current Fire Risk Assessment.
-
----
 
 ### Developer Remediation
 
@@ -862,8 +768,6 @@ Signed and dated letter from Freeholder/Landlord/Principal Accountable Person co
 - No interim fire safety measures required pre-remediation (or details of measures introduced).
 - Summary of remedial works (if assessed).
 
----
-
 ### Remediation Funded via Cladding Safety Scheme
 
 Signed and dated letter from Freeholder/Principal Accountable Person confirming:
@@ -874,16 +778,12 @@ Signed and dated letter from Freeholder/Principal Accountable Person confirming:
 - Interim measures (if applicable).
 - Summary of remedial work (start and end dates preferred).
 
----
-
 ### Freeholder Funding Remediation at Nil Cost
 
 Signed and dated letter confirming:
 
 - Freeholder will fund remediation in full.
 - Summary of remedial works (if assessed).
-
----
 
 ### Leaseholders Liable for Remediation Costs
 
@@ -896,8 +796,6 @@ Signed and dated letter confirming:
 - Payment method.
 - Summary of remedial works.
 
----
-
 ### Landlord/Freeholder Liable for Costs
 
 Provide:
@@ -909,8 +807,6 @@ Provide:
 
 If landlord refuses remediation or disputes exist – decline.
 
----
-
 ### Superior Landlord Liable / No Confirmed Route
 
 Mandatory documents required.
@@ -918,8 +814,6 @@ Mandatory documents required.
 Accepted based on legislation protections, even if application to Building Safety Fund has not been made.
 
 Solicitor must refer any confirmed capped costs post-offer.
-
----
 
 # Wales – Multi-storey / Multi-occupancy Buildings 11m or More (or 5 Storeys or More)
 
@@ -931,16 +825,12 @@ Buildings under 11m (or 4 storeys or fewer) have different requirements.
 
 Signed and dated developer letter confirming summary of remedial works (if assessed).
 
----
-
 ### Welsh Building Safety Fund
 
 Signed and dated letter from Freeholder/Principal Accountable Person confirming:
 
 - Fund will fully cover remediation.
 - Summary of remedial works (if assessed).
-
----
 
 ### Concerns Raised but Rejected
 
@@ -949,8 +839,6 @@ Provide one of:
 - EWS1 confirming A1/A2/B1.
 - FRAEW confirming no works required.
 - Signed letter from responsible person confirming safety, plus Fire Risk Assessment.
-
----
 
 # Scotland – 11m or More (or 5 Storeys or More)
 
@@ -975,8 +863,6 @@ Building owner responsible for ensuring signatory is appropriate professional bo
 - A1, A2, B1 – Sent to valuer for reassessment.
 - A3 or B2 – Case assessed; may request confirmation of remedial work and liability. Confirmation required from building factors/managing agents.
 
----
-
 ### Where Building Owner Covers Costs
 
 Written confirmation required stating:
@@ -985,8 +871,6 @@ Written confirmation required stating:
 - Interim measures satisfactory.
 - No costs passed to leaseholders.
 - Remediation within 12 months.
-
----
 
 ### Where Leaseholders Liable
 
@@ -1005,8 +889,6 @@ Further Advances:
 - Summary and timeline.
 - Costs and payment schedule.
 
----
-
 # UK – Buildings Under 11m (or 4 Storeys or Fewer)
 
 Valuer will decline pending receipt of:
@@ -1019,8 +901,6 @@ EWS1 must be:
 - Obtained from building owner (property owner in Scotland).
 - Fully completed.
 - Accompanied by headed letter from signing firm.
-
----
 
 # New Build Assessment
 
@@ -1040,8 +920,6 @@ Buildings started after 21 February 2019 should not contain flammable materials.
 - Unless valuer raises other fire safety concerns.
 
 If compliance cannot be confirmed, valuation report will be declined pending confirmation from Building Owner/Developer/Conveyancer.
-
----
 
 # Houses in Multiple Occupation criteria
 
@@ -1104,8 +982,6 @@ If the property is within an Article 4 direction, we need proof of either:
 - Certificate of Lawful Use
 
 We need this before the valuation, and for all application types.
-
----
 
 # Source of Deposit criteria
 
@@ -1182,8 +1058,6 @@ The maximum number of gifts or loan repayments, either separately or in aggregat
 - Funds from children under the age of 18, whether a sole or joint account holder, or beneficiary of a trust.
 - Cryptoassets
 
----
-
 # Valuation Criteria
 
 ### Valuation Policy and Fees
@@ -1213,8 +1087,6 @@ Valuation fees are collected at Full Mortgage Application (FMA) submission. Fees
 
 **Home Survey Level 2 Report**: not available for **remortgage** or **HMO** applications.
 
----
-
 ### Houses in Multiple Occupation (HMO) Specialist Security Valuation
 
 **Specialist security valuation fee (HMO):**
@@ -1234,8 +1106,6 @@ Valuation fees are collected at Full Mortgage Application (FMA) submission. Fees
 
 Further advance applications for HMO require payment of the **full specialist security valuation fee**.
 
----
-
 ### Valuation Policy
 
 Where a physical valuation is required, safety is the priority. Valuers will complete a detailed safety assessment with the customer before conducting the valuation. If the customer is not comfortable allowing entry, the application will be placed on hold until the customer is ready to proceed.
@@ -1254,8 +1124,6 @@ Valuation will be carried out once the relevant fee has been received.
 For HMO guidance see:
 [https://www.themortgageworks.co.uk/intermediaries/lending-criteria/hmo#valuation](https://www.themortgageworks.co.uk/intermediaries/lending-criteria/hmo#valuation)
 
----
-
 ### Valuation Appeals
 
 To appeal the valuation figure, the appeal must meet the following requirements (appeals missing these will be rejected):
@@ -1273,13 +1141,9 @@ Valuations can only be appealed within **10 working days** of you or your client
 
 Once all evidence is ready, contact broker support to request the **Valuations Appeal form**, then submit it to: **[valuation.appeals@nationwide.co.uk](mailto:valuation.appeals@nationwide.co.uk)**
 
----
-
 ### Transcribed Valuations (Scotland)
 
 Transcriptions are **not accepted** for valuation purposes on **Scottish Buy to Let** applications. A Mortgage Valuation Report will be instructed on all cases and a valuation fee will be payable by the customer.
-
----
 
 ### Energy Efficiency Regulations (EPC)
 
@@ -1289,8 +1153,6 @@ The EPC shows energy performance and potential improvements. When submitting an 
 
 Exemption guidance:
 [https://www.gov.uk/guidance/domestic-private-rented-property-minimum-energy-efficiency-standard-landlord-guidance](https://www.gov.uk/guidance/domestic-private-rented-property-minimum-energy-efficiency-standard-landlord-guidance)
-
----
 
 ### Properties in England and Wales
 
@@ -1350,8 +1212,6 @@ The EPC assessment described applies only to the property on the new application
 
 Landlords must comply with new regulations for post completion contract variations (including transfer of equity, conversions, or term amendments).
 
----
-
 ### Properties in Scotland
 
 (For purchase, remortgage, further advance, and porting)
@@ -1365,8 +1225,6 @@ A reinspection may take place 3 months after completion to confirm works.
 
 Retention treatment follows the current retention policy thresholds (as above): the application can proceed where the cost of work is no more than the applicable threshold; if it exceeds the threshold, a full retention applies. Maximum loan and LTV are calculated on the **purchase price** or **pre-works value** (whichever is lower).
 
----
-
 ### Other Information
 
 The valuer is instructed by The Mortgage Works to determine suitability of the security.
@@ -1378,7 +1236,6 @@ For standard BTL applications, estimated rental value is based on market rent fo
 
 If the valuation has been carried out and the property is unsuitable security, or the application does not proceed, the valuation fee will not be refunded.
 
----
 # MCOB Regulated Post Completion
 
 ### Post Completion Lending Criteria
@@ -1390,8 +1247,6 @@ These applications are typically (but not exclusively) assessed in line with **N
 
 The main exception is that **applications requiring additional borrowing are not accepted**.
 
----
-
 ### Porting (Substitution of Property)
 
 Acceptable:
@@ -1401,8 +1256,6 @@ Acceptable:
 Not acceptable:
 
 - Porting where the **loan balance and/or LTV increases**.
-
----
 
 ### Transfer of Equity (Substitution of Borrower)
 
@@ -1419,8 +1272,6 @@ Not acceptable:
 - Residential properties which are let.
 - Where the borrower being removed from the mortgage will remain in the property.
 
----
-
 ### Conversions
 
 Permitted conversion types include:
@@ -1433,8 +1284,6 @@ Permitted conversion types include:
 - Part and part to interest only.
 - Part and part where the interest only element is increasing.
 
----
-
 ### Term Amendments
 
 Acceptable:
@@ -1444,8 +1293,6 @@ Acceptable:
 Not acceptable:
 
 - Term extensions.
-
----
 
 ### Consent to Let
 
@@ -1464,27 +1311,19 @@ Not acceptable:
 
 - Consent to let with additional borrowing.
 
----
-
 # Solicitor Information
 
 If you are a solicitor, please refer to:
 [https://www.themortgageworks.co.uk/intermediaries/solicitors](https://www.themortgageworks.co.uk/intermediaries/solicitors)
 
----
-
 ### Who Can Act for an Applicant?
 
 We can only work with solicitors and conveyancers whose firms have **two or more partners**, unless the firm is on our approved panel.
-
----
 
 ### Our Panel of Solicitors
 
 Panel availability can be checked via:
 [https://www.lenderexchange.co.uk/PanelManagement/PublicSearch/Search](https://www.lenderexchange.co.uk/PanelManagement/PublicSearch/Search)
-
----
 
 ### Separate Legal Representation
 
@@ -1504,16 +1343,12 @@ Separate representation is not available on Limited Company applications.
 
 To proceed, call: **0345 605 40 40**
 
----
-
 ### Change of Solicitor
 
 To change solicitors post-offer, email the new solicitor’s details to:
 [TMW.Applications@themortgageworks.co.uk](mailto:TMW.Applications@themortgageworks.co.uk)
 
 The processing team will confirm the previous solicitor is no longer acting and issue a revised mortgage offer.
-
----
 
 ### Free Standard Legal Fee
 
@@ -1524,8 +1359,6 @@ Further information:
 
 - Products with free legal fees: [https://www.themortgageworks.co.uk/intermediaries/products#freeLegalFees](https://www.themortgageworks.co.uk/intermediaries/products#freeLegalFees)
 - Tariff of charges: [https://www.themortgageworks.co.uk/-/media/tmw/documents/t21-tariff-of-charges.pdf?rev=4c77f29564554eeca6392b0c335a3b41&hash=0093D6D6F9463680DED387373BAAA24C](https://www.themortgageworks.co.uk/-/media/tmw/documents/t21-tariff-of-charges.pdf?rev=4c77f29564554eeca6392b0c335a3b41&hash=0093D6D6F9463680DED387373BAAA24C)
-
----
 
 # Providing Proofs
 
@@ -1539,8 +1372,6 @@ Documents can be uploaded via:
 [https://www.tmwonline.co.uk/UserAccess/Login?ReturnUrl=/](https://www.tmwonline.co.uk/UserAccess/Login?ReturnUrl=/)
 
 We may request additional documents depending on circumstances.
-
----
 
 ### Identification
 
@@ -1556,8 +1387,6 @@ Provide:
 
 Biometric Residence Permits and Biometric Residence Cards are no longer accepted.
 
----
-
 ### Acceptable Proofs of Name
 
 - UK bank/building society postal statement
@@ -1569,8 +1398,6 @@ Biometric Residence Permits and Biometric Residence Cards are no longer accepted
 - Credit card statement (less than 3 months old; store cards and online printouts not accepted; only last 4 digits visible)
 
 Statements must be from different sources if used for both name and address.
-
----
 
 ### Acceptable Proofs of Current Address
 
@@ -1585,8 +1412,6 @@ Statements must be from different sources if used for both name and address.
 - University/College letter
 
 Driving licences can only be used as proof of address for UK/ROI nationals.
-
----
 
 ### Non-UK / ROI Foreign Nationals
 
@@ -1610,16 +1435,12 @@ Exceptions (non-EEA nationals without ILR) may apply where:
 - Residence card.
 - Additional proof of address.
 
----
-
 ### Income
 
 Income may be validated using credit bureau data. If validated successfully, no proofs will be required.
 
 Mortgage statement guide:
 [https://www.themortgageworks.co.uk/-/media/tmw/documents/t169-a-guide-to-your-mortgage-statement.pdf?rev=09aa20cd29db443ca81e8685d0fb7490&hash=A9E0E107EC5EE1B0803753BF9F84B8B4](https://www.themortgageworks.co.uk/-/media/tmw/documents/t169-a-guide-to-your-mortgage-statement.pdf?rev=09aa20cd29db443ca81e8685d0fb7490&hash=A9E0E107EC5EE1B0803753BF9F84B8B4)
-
----
 
 ### Bank Statements
 
@@ -1648,8 +1469,6 @@ Statements must show:
 
 Mobile banking screenshots not accepted.
 
----
-
 ### Mortgage Statements
 
 May be required to:
@@ -1667,8 +1486,6 @@ Must show:
 
 Missed payments may affect decision.
 
----
-
 ### Documents in Other Languages
 
 Only accepted if translated into English by an independent translator.
@@ -1680,14 +1497,10 @@ Translator details must include:
 
 Translator must not be a family member. Copies of both original and translation must be retained.
 
----
-
 ### Evidence of Deposit
 
 Refer to:
 [https://www.themortgageworks.co.uk/intermediaries/lending-criteria/source-of-deposit](https://www.themortgageworks.co.uk/intermediaries/lending-criteria/source-of-deposit)
-
----
 
 ### Sending Proofs
 
@@ -1697,21 +1510,15 @@ Refer to:
 - Personal data sent outside TMW Online must be encrypted.
 - Broker Chat available for support.
 
----
-
 ### Adobe Scan
 
 Free scanning apps (e.g. Adobe Scan) can be used to improve packaging quality.
 Photos must be submitted as PDF, TIF or JPEG.
 
----
-
 ### Guides
 
 TMW Online guides:
 [https://www.themortgageworks.co.uk/intermediaries/guides-and-forms/tmw-online-guides](https://www.themortgageworks.co.uk/intermediaries/guides-and-forms/tmw-online-guides)
-
----
 
 # Contact Us
 
@@ -1730,14 +1537,10 @@ New Build Support:
 0345 607 2245
 Same hours as above
 
----
-
 ### Email Support
 
 General intermediary support: [intermediary.support@nationwide.co.uk](mailto:intermediary.support@nationwide.co.uk)
 New Build Support: [NewBuild@nationwide.co.uk](mailto:NewBuild@nationwide.co.uk)
-
----
 
 ### Broker Chat
 
@@ -1746,8 +1549,6 @@ Monday 9:30am–6pm
 Tuesday–Friday 9am–6pm (excluding bank holidays)
 
 [https://www.themortgageworks.co.uk/intermediaries/support/broker-chat](https://www.themortgageworks.co.uk/intermediaries/support/broker-chat)
-
----
 
 ### Additional Support
 
@@ -1760,14 +1561,11 @@ Contact us page:
 Intermediaries website:
 [https://www.themortgageworks.co.uk/intermediaries](https://www.themortgageworks.co.uk/intermediaries)
 
----
-
 ### Case Tracking
 
 Track your case online:
 [https://www.themortgageworks.co.uk/intermediaries/placing-business/case-tracking](https://www.themortgageworks.co.uk/intermediaries/placing-business/case-tracking)
 
----
 # Age (A–Z Summary)
 
 - **Experienced Landlord at 65% LTV or less:** Minimum age 21, no maximum age.
@@ -1775,8 +1573,6 @@ Track your case online:
 - **First Time Landlord:** See First Time Landlord criteria.
 
 For joint applications, the maximum age is based on the **eldest applicant**. There is no maximum age for a First Time Landlord applying jointly with an Experienced Landlord at 65% LTV or less.
-
----
 
 # Adverse Credit (A–Z Summary)
 
@@ -1795,8 +1591,6 @@ We also won’t consider lending where:
 - Applicants are in mortgage arrears (minor historic arrears may be considered by exception)
 - There are current or previous defaults (strong applications may be considered by exception)
 
----
-
 # Affordability (A–Z Summary)
 
 ### Use of Earned Income
@@ -1813,8 +1607,6 @@ The existing portfolio is also assessed to ensure aggregate LTV and ICR sustaina
 - Any rental properties without a mortgage
 
 Portfolio landlords have different products depending on portfolio size. Refer to the latest product guide before application.
-
----
 
 # Applicant Definitions (A–Z Summary)
 
@@ -1834,8 +1626,6 @@ Scenarios that may impact acceptance:
 - Not purchasing with spouse/partner
 - Deposit wholly gifted by second applicant or third party (unless gifted by partner)
 
----
-
 ### First Time Landlord (FTL)
 
 An applicant who:
@@ -1852,15 +1642,11 @@ Key criteria:
 - Maximum LTV 80%
 - Sole applicant maximum three properties
 
----
-
 ### Experienced Landlord (EXPL)
 
 An applicant who has owned and let a Buy to Let property for at least the last six months. They may or may not own and occupy their own home.
 
 If the only Buy to Let property has been vacant for 2+ months, the applicant is treated as a First Time Landlord.
-
----
 
 ### Consumer Buy to Let (CBTL)
 
@@ -1868,8 +1654,6 @@ An applicant with no other let properties seeking a mortgage on a property that:
 
 - Has been inherited, or
 - Was previously occupied by the borrower or related person.
-
----
 
 ### Applicant Combinations
 
@@ -1881,8 +1665,6 @@ Accepted combinations:
 
 Refer to Applicant Definitions for full combination detail.
 
----
-
 # Applicant Details (A–Z Summary)
 
 - Maximum two applicants per application.
@@ -1893,13 +1675,9 @@ Refer to Applicant Definitions for full combination detail.
 - Self-employed applicants accepted.
 - Regulated Buy to Lets not accepted where property is or will be occupied by borrower or immediate family.
 
----
-
 # Applicant Combinations (A–Z Summary)
 
 Refer to Applicant Definitions section.
-
----
 
 # Address Change (Security) (A–Z Summary)
 
@@ -1907,8 +1685,6 @@ If the security address changes during application:
 
 - A new application must be submitted.
 - Products and criteria at time of resubmission apply.
-
----
 
 # Additional Licence (A–Z Summary)
 
@@ -1920,13 +1696,9 @@ Licensed properties are acceptable where:
 
 If landlord holds incorrect licence for property use, the case will be declined.
 
----
-
 # Acceptable Income (A–Z Summary)
 
 Refer to Income Criteria and Income Proofs sections.
-
----
 
 # Builder Deposits, Cashback or Incentives (A–Z Summary)
 
@@ -1939,13 +1711,9 @@ Where funds paid directly to developer:
 - Applicant’s latest bank statement showing transfer, and
 - Letter from solicitor confirming amount and date (developer letters not accepted)
 
----
-
 # Building Insurance (A–Z Summary)
 
 Adequate insurance must be obtained. Policy schedule may be required noting The Mortgage Works (UK) plc as mortgagee.
-
----
 
 # Business (as Deposit) (A–Z Summary)
 
@@ -1963,13 +1731,9 @@ Required:
 
 No other business deposit sources accepted.
 
----
-
 # Business Bounce Back Loan (A–Z Summary)
 
 Not accepted as deposit.
-
----
 
 # Buy to Let Criteria (A–Z Summary)
 
@@ -1980,19 +1744,13 @@ All properties must:
 
 Refer to General, Income and Property Criteria sections.
 
----
-
 # CCJ (A–Z Summary)
 
 In general, CCJs within last six years not accepted. Strong cases may be considered by exception.
 
----
-
 # Change of Security Address (A–Z Summary)
 
 New application required. Current criteria apply.
-
----
 
 # Change of Solicitor (A–Z Summary)
 
@@ -2000,8 +1758,6 @@ Email new solicitor details to:
 [TMW.Applications@themortgageworks.co.uk](mailto:TMW.Applications@themortgageworks.co.uk)
 
 Revised mortgage offer will be issued.
-
----
 
 # Construction Types (A–Z Summary)
 
@@ -2011,8 +1767,6 @@ Refer to Property Criteria section for:
 - Non-traditional
 - Modern Methods of Construction
 - Spray Foam Insulation
-
----
 
 # Damp and Timber Report (A–Z Summary)
 
@@ -2026,13 +1780,9 @@ If remedial works required:
 - 10-year insurance backed guarantee required
 - Guarantee in applicant’s name or transferable
 
----
-
 # Deposit Sources (A–Z Summary)
 
 Refer to Source of Deposit Criteria section.
-
----
 
 # Electrical Report (A–Z Summary)
 
@@ -2045,8 +1795,6 @@ Qualified electricians:
 
 - England & Wales: NICEIC, STORMA, NAPIT
 - Scotland: NICEIC
-
----
 
 # Energy Performance Certificate (EPC) (A–Z Summary)
 
@@ -2062,8 +1810,6 @@ Above 75% LTV:
 
 Refer to Valuation Criteria for full jurisdiction details.
 
----
-
 # Equity (as Deposit) (A–Z Summary)
 
 Required:
@@ -2078,8 +1824,6 @@ Jointly held property:
 
 Nationwide remortgages/further advances not accepted as deposit source for TMW BTL.
 
----
-
 # Estate Charges (A–Z Summary)
 
 Charges must be reasonable.
@@ -2088,13 +1832,9 @@ If over £500 per annum:
 
 - Breakdown required for valuer review.
 
----
-
 # EWS1 Form (A–Z Summary)
 
 Required where fire safety concerns exist. Refer to Fire Safety Assessment.
-
----
 
 # Fire Safety Assessment (A–Z Summary)
 
@@ -2108,8 +1848,6 @@ Requirements depend on:
 - Jurisdiction (England, Wales, Scotland)
 - Height
 - Remediation status
-
----
 
 # Foreign Nationals (A–Z Summary)
 
@@ -2128,8 +1866,6 @@ Non-UK/ROI Nationals:
 - Minimum 2 years 6 months visa remaining if applicable
 - Deposit from own resources
 
----
-
 # Freehold Flats (A–Z Summary)
 
 Generally not accepted.
@@ -2140,8 +1876,6 @@ Accepted if:
 - Remaining flats subject to minimum 70-year lease
 
 Coach house flats acceptable where one flat above garages/access way.
-
----
 
 # Gifts (as Deposit) (A–Z Summary)
 
@@ -2165,8 +1899,6 @@ Not accepted:
 - Donor outside UK
 - Funds originating outside UK
 
----
-
 # HMO Criteria (A–Z Summary)
 
 Defined as:
@@ -2188,8 +1920,6 @@ Key criteria:
 
 Experience may need validating for purchase (2 years BTL or 1 year HMO).
 
----
-
 # HMO Licensing (A–Z Summary)
 
 Licence required where applicable.
@@ -2201,8 +1931,6 @@ Criteria:
 - Must meet current property standards
 
 Incorrect licence results in decline.
-
----
 
 # Income Proofs (A–Z Summary)
 
@@ -2233,8 +1961,6 @@ Lower rate defined as:
 - Income under £50,271 (or £43,662 Scotland)
 - Max three rental properties
 
----
-
 # Interest Cover Ratio (ICR) (A–Z Summary)
 
 Gross rental income must cover mortgage interest by:
@@ -2244,8 +1970,6 @@ Gross rental income must cover mortgage interest by:
 - Limited Company BTL: 125%
 
 Personal applicants with more than three rental properties treated as higher rate taxpayers.
-
----
 
 # Japanese Knotweed (A–Z Summary)
 
@@ -2259,8 +1983,6 @@ If present but managed and no material impact:
 
 - Written confirmation from applicant acknowledging risk required
 
----
-
 # Leasehold Terms (A–Z Summary)
 
 - Minimum lease term 70 years
@@ -2270,15 +1992,11 @@ If present but managed and no material impact:
 
 Refer to Property Criteria for full lease requirements.
 
----
-
 # Lending Exposure / Maximum Overall Exposure Per Application (A–Z summary)
 
 - **Total BTL borrowing with Nationwide Group (including new loan):** Up to £750,000 → Max LTV on new property 80%. £750,001–£1,000,000 → 75%. £1,000,001–£1,500,000 → 70%. £1,500,001–£2,000,000 → 65%. £2,000,001–£5,000,000 → 60%.
 
 See [Maximum Overall Exposure Per Application](#maximum-overall-exposure-per-application) section for more details.
-
----
 
 # Licensing (A–Z summary)
 
@@ -2290,13 +2008,9 @@ We'll lend on licensed properties if they meet the following criteria: Remortgag
 
 See [General Criteria](#general-criteria) section for detailed licensing information.
 
----
-
 # Limited Company Source of Deposit (A–Z summary)
 
 For detailed information on Limited Company source of deposit, including intercompany loans, gifts, shareholder funds, and bounce back loans, please see [Limited Company Criteria](#limited-company-criteria) section under "Source of deposit".
-
----
 
 # Loan Purpose (A–Z summary)
 
@@ -2306,13 +2020,9 @@ For detailed information on Limited Company source of deposit, including interco
 - Raising capital for non-structural home improvements will be considered.
 - Remortgage with no capital raising may require proof of the current mortgage balance e.g. the last mortgage or redemption statement.
 
----
-
 # Local Authority Flats (A–Z summary)
 
 We won't accept former local authority flats in blocks of more than five storeys. This also applies to maisonettes and Scottish tenements in blocks of more than five storeys that were, or still are, in local authority ownership.
-
----
 
 # Local Authority Owned Properties (A–Z summary)
 
@@ -2320,15 +2030,11 @@ Applicants purchasing/transferring a property not owned in personal name(s) are 
 
 See [Properties Not Owned in Personal Name](#property-not-owned-in-personal-name) section for more details.
 
----
-
 # Mandatory HMO Licensing (A–Z summary)
 
 Under the Housing Act 2004, all large HMOs in England and Wales must be licensed. A large HMO is: 3 or more storeys; occupied by 5 or more persons; forming at least 2 separate households.
 
 See [HMO Licensing](#hmo-licensing) section for detailed criteria.
-
----
 
 # Maximum Age (A–Z summary)
 
@@ -2340,15 +2046,11 @@ For maximum age on joint applications: we'll use the age of the eldest applicant
 
 See [Age](#age) section for more details.
 
----
-
 # Maximum Concentration / Property Concentration Exposure Limits (A–Z summary)
 
 The Mortgage Works will consider its overall exposure by applicant, geographical area and development when assessing applications. These exposure limits are per applicant and the number of units include securities mortgaged to other lenders and/or unencumbered properties. The maximum concentration that can be considered per development is: **1–3 Units:** 1 unit if a purchase application. For remortgages we can consider up to 3 flats, in a block of no more than 3 flats, providing the applicant has owned each of their flats for at least 12 months. **4–20 Units:** 25%, rounded down to the nearest unit. **21+ Units:** Maximum of 10 in a postcode up to the first digit of the second grouping (e.g. BH2 6). Up to 5 in the exact postcode (e.g. BH2 6EP).
 
 See [Property Concentration Exposure Limits](#property-concentration-exposure-limits) section for more details.
-
----
 
 # Maximum Loan Per Property (A–Z summary)
 
@@ -2363,19 +2065,13 @@ When calculating the maximum borrowing, this will include any product fees you w
 
 For applications above 75% LTV, the property must have an Energy Performance Certificate (EPC) rated C or above. Applications on properties which don't meet this criteria will be declined.
 
----
-
 # Maximum LTV Per Property (A–Z summary)
 
 See [Maximum Loan Per Property](#maximum-loan-per-property) section above for LTV limits by product/customer type.
 
----
-
 # Maximum Overall Exposure Per Application (A–Z summary)
 
 - **Total BTL borrowing with Nationwide Group (including new loan):** Up to £750,000 → Max LTV on new property 80%. £750,001–£1,000,000 → 75%. £1,000,001–£1,500,000 → 70%. £1,500,001–£2,000,000 → 65%. £2,000,001–£5,000,000 → 60%.
-
----
 
 # Maximum Term (A–Z summary)
 
@@ -2383,15 +2079,11 @@ Maximum term: 35 years.
 
 See [Term](#term) section for more details.
 
----
-
 # Minimum Age (A–Z summary)
 
 Minimum age: 21 years.
 
 See [Age](#age) section for more details.
-
----
 
 # Minimum Income (A–Z summary)
 
@@ -2401,28 +2093,20 @@ There is no minimum personal income requirement. Proof of personal income may be
 
 See [Income Criteria](#income-criteria) section for more details.
 
----
-
 # Minimum Loan (A–Z summary)
 
 - £25,001 (unless otherwise stated); minimum property value £50,000.
 - £2,500 for Further Advance applications.
 
----
-
 # Minimum Property Value/Purchase Price (A–Z summary)
 
 £50,000 (apart from HMO which will need a minimum property value of £100,000).
-
----
 
 # Minimum Term (A–Z summary)
 
 Minimum term: 5 years.
 
 See [Term](#term) section for more details.
-
----
 
 # Modern Methods of Construction (A–Z summary)
 
@@ -2432,8 +2116,6 @@ Please provide the following information to enable us to consider your developme
 
 See [Property Criteria](#property-criteria) section for more details.
 
----
-
 # Non-Traditional Construction (A–Z summary)
 
 Many properties have been built using a variety of other construction methods. Lending terms vary depending on construction types and if a repair scheme, where appropriate, has been used. Where a property is of non traditional construction please contact your usual Service Centre with the following details for further advice: the name of the type of construction; year built (if known); flat/terrace/semi or detached; details of any repair scheme if appropriate and if the scheme applies to the whole block (e.g. the whole terrace/both semi's).
@@ -2441,8 +2123,6 @@ Many properties have been built using a variety of other construction methods. L
 The exact construction name is important as lending terms may differ between different types and year built.
 
 See [Property Criteria](#property-criteria) section for more details.
-
----
 
 # Offer Validity (A–Z summary)
 
@@ -2458,15 +2138,11 @@ To help us process your request, please submit your request no later than 15 day
 
 Please be aware that you can't apply for an extension when the offer has expired.
 
----
-
 # Our Panel of Solicitors (A–Z summary)
 
 You can check Lender Exchange to see if your client's solicitor is available on our panel.
 
 See [Solicitors](#solicitors) section for more details.
-
----
 
 # Overseas Savings (as Deposit) (A–Z summary)
 
@@ -2477,14 +2153,10 @@ Where funds have been in the account for less than three or six months respectiv
 
 See [Source of Deposit Criteria](#source-of-deposit-criteria) section for more details.
 
----
-
 # Pensions (as Deposit) (A–Z summary)
 
 - If pension funds have been released, bank statement/passbook (dated within the last three months) should be provided.
 - If pension funds have not been released, latest pension statement (no more than twelve months old) showing sufficient funds to cover the deposit amount required should be provided.
-
----
 
 # Personal Income (A–Z summary)
 
@@ -2492,13 +2164,9 @@ There is no minimum personal income requirement. Proof of personal income may be
 
 See [Minimum Income](#minimum-income) and [Income Criteria](#income-criteria) sections for more details.
 
----
-
 # Portability (A–Z summary)
 
 Accepted. Applies when applicant simultaneously completes a mortgage for the same or greater amount keeping the same interest rate for that portion of the new mortgage without incurring an early repayment charge. Subject to meeting the company's lending criteria at the time of application.
-
----
 
 # Portfolio Landlords (A–Z summary)
 
@@ -2512,8 +2180,6 @@ If there are two applicants, we'll use the combined number of rental properties 
 
 For detailed portfolio landlord criteria, including affordability assessment, rental calculations, and maximum LTVs, please see [Portfolio Landlord Criteria](#portfolio-landlord-criteria) section.
 
----
-
 # Portfolio Portal (A–Z summary)
 
 Portfolio landlords with 11 or more mortgaged BTL properties need to provide three months' current account statements showing rental payments for their portfolio.
@@ -2524,8 +2190,6 @@ Once submitted, the details will be automatically validated and the results will
 
 See [Portfolio Landlord Criteria](#portfolio-landlord-criteria) section for more details.
 
----
-
 # Post Valuation Queries Reports (A–Z summary)
 
 Valuers may request specialist reports within their valuation which are designed to highlight defects and/or to assist them in obtaining additional information upon which to base their valuation.
@@ -2535,8 +2199,6 @@ The valuer will advise which reports they need. A surveyor will then need to com
 Examples of specialist reports include: Structural Engineers Report; Damp and timber report; Electrical report.
 
 See [Property Criteria](#property-criteria) section for detailed requirements for each report type.
-
----
 
 # Post-Completion Lending Criteria (A–Z summary)
 
@@ -2555,8 +2217,6 @@ The main exception being that any applications where additional borrowing is req
 
 See [MCOB Regulated Post Completion](#msob-regulated-post-completion) section for full details.
 
----
-
 # Private Sales (A–Z summary)
 
 Private sales can be considered subject to the following:
@@ -2568,43 +2228,29 @@ Private sales can be considered subject to the following:
 - Properties sourced due to proximity of an existing Buy to Let (BTL or residential are potentially acceptable, however, please consider our property concentration limits before applying).
 - All cases will be subject to full underwrite and plausibility review.
 
----
-
 # Proof of Address (A–Z summary)
 
 Please see [Providing Proofs](#providing-proofs) section for detailed information on acceptable proofs of current address.
-
----
 
 # Proof of ID (A–Z summary)
 
 Please see [Providing Proofs](#providing-proofs) section for detailed information on acceptable proofs of identification.
 
----
-
 # Proof of Income (A–Z summary)
 
 Please see [Income Proofs](#income-proofs) section for detailed information on acceptable proof of income.
-
----
 
 # Proof of Name (A–Z summary)
 
 Please see [Providing Proofs](#providing-proofs) section for detailed information on acceptable proofs of name.
 
----
-
 # Proof of Source of Deposit (A–Z summary)
 
 Please see [Source of Deposit Criteria](#source-of-deposit-criteria) section for comprehensive information on acceptable source of deposits and required proofs.
 
----
-
 # Property and Construction (A–Z summary)
 
 Please see [Property Criteria](#property-criteria) section for comprehensive information on: property concentration exposure limits; minimum property value/purchase price; construction types (Traditional, Non-Traditional, Modern Methods of Construction); purpose built flats, converted flats and studio flats; property developers; lease terms; fire safety assessment; and other property-related criteria.
-
----
 
 # Property Concentration Exposure Limits (A–Z summary)
 
@@ -2612,21 +2258,15 @@ The Mortgage Works will consider its overall exposure by applicant, geographical
 
 The maximum concentration that can be considered per development is: **1–3 Units:** 1 unit if a purchase application. For remortgages we can consider up to 3 flats, in a block of no more than 3 flats, providing the applicant has owned each of their flats for at least 12 months. **4–20 Units:** 25%, rounded down to the nearest unit. **21+ Units:** Maximum of 10 in a postcode up to the first digit of the second grouping (e.g. BH2 6). Up to 5 in the exact postcode (e.g. BH2 6EP).
 
----
-
 # Property Developers (A–Z summary)
 
 - Applications where the loan purpose is to fund the development and sale of property are not acceptable.
 - Where your client is a Property Developer, we will conduct an underwriting assessment to ensure that there is no risk of structural alteration or subdivision to the proposed security or that capital raised could be used to fund a development project.
 - Applications that meet our remortgage policy for properties that have been built or converted by an applicant can be accepted, providing the property is fully complete and will be let on completion.
 
----
-
 # Property Investment Clubs / Companies (A–Z summary)
 
 Applications to purchase properties sourced via Property Investment Clubs/Companies are not accepted. These are typically businesses which offer to buy a property quickly from a seller, and then sells it on to another buyer.
-
----
 
 # Property Not Owned in Personal Name (A–Z summary)
 
@@ -2634,19 +2274,13 @@ Applicants purchasing/transferring a property not owned in personal name(s) are 
 
 **Properties owned by limited companies:** Properties owned by limited companies where the purchase is an open market transaction and the applicant has no links to the vendor.
 
----
-
 # Property Restrictions (A–Z summary)
 
 Please see [Property Criteria](#property-criteria) section for information on property restrictions and requirements.
 
----
-
 # Property Substitution (A–Z summary)
 
 See [Porting](#portability) section for information on property substitution (porting).
-
----
 
 # Purpose Built Flats, Converted Flats and Studio Flats (A–Z summary)
 
@@ -2662,8 +2296,6 @@ Flats in blocks over four storeys high should have a lift. This applies when the
 
 See [Property Criteria](#property-criteria) section for more details.
 
----
-
 # Remortgages (A–Z summary)
 
 Remortgages acceptable after the property has been owned and let for a minimum of six months.
@@ -2671,8 +2303,6 @@ Remortgages acceptable after the property has been owned and let for a minimum o
 Remortgage with no capital raising may require proof of the current mortgage balance e.g. the last mortgage or redemption statement.
 
 See [Loan Purpose](#loan-purpose) section for more details.
-
----
 
 # Remortgaging Existing Residential Properties (A–Z summary)
 
@@ -2686,8 +2316,6 @@ This joint proposition is only available through intermediaries.
 
 See [Let to Buy Criteria](#let-to-buy-criteria) section for full details.
 
----
-
 # Rental Income (A–Z summary)
 
 Of the existing buy to let income input at Decision in principle stage, we'll take into account: 75% of all rental income (including existing and proposed buy to lets with The Mortgage Works); 100% of all other sources of income.
@@ -2698,21 +2326,15 @@ For joint applications, we'll add half of the 75% proposed gross rental income t
 
 See [Income Criteria](#income-criteria) section for more details.
 
----
-
 # Rental Stress Rate (A–Z summary)
 
 See [Stress Rates](#stress-rates) section for detailed information on stress rates used in affordability calculations.
-
----
 
 # Repayment of Loans (as Deposit) (A–Z summary)
 
 Deposits provided from the repayment of loans are acceptable from a third party if repaid over three months ago and will be treated as savings.
 
 The maximum number of gifts or loan repayments, either separately or in aggregate, will be two per application.
-
----
 
 # Residency (A–Z summary)
 
@@ -2725,25 +2347,17 @@ To find out what ID proofs we need to see for all new mortgage customers, see ou
 
 See [Foreign Nationals](#foreign-nationals) section for information on non-UK residents.
 
----
-
 # Restrictions (A–Z summary)
 
 Please see [Property Restrictions](#property-restrictions) and relevant sections for information on property and lending restrictions.
-
----
 
 # Sale and Rent Back (A–Z summary)
 
 It is not permitted for the vendor to remain as a tenant in the property or to retain an interest in the property.
 
----
-
 # Scheme Abuse (A–Z summary)
 
 The Mortgage Works customers aren't allowed to live in the Buy to Let property at any time and will be in breach of the terms and conditions of the mortgage contract should they choose to do so. Where this is the case, The Mortgage Works's policy is to give the customer a period of time in which to vacate the property, or instead remortgage to a residential loan. If a customer fails to comply with these terms, this may lead to legal action being taken against them, which could ultimately result in The Mortgage Works taking possession of the property.
-
----
 
 # Second Charge (A–Z summary)
 
@@ -2754,8 +2368,6 @@ New applications with existing second charges are not accepted (unless repaid as
 This will be subject to criteria and affordability at the time of application, including rental cover assessment and LTV limits (currently the LTV can't exceed 50% LTV before adding second charge) and the purpose must be for home improvements only.
 
 Please contact us to find out more.
-
----
 
 # Selective Licence (A–Z summary)
 
@@ -2768,8 +2380,6 @@ We'll lend on licensed properties if they meet the following criteria:
 
 See [Licensing](#licensing) section for more details.
 
----
-
 # Separate Legal Representation (A–Z summary)
 
 Applicants can nominate a conveyancer to act solely on their behalf, but must be aware that we'll instruct a separate conveyancer to act for us – and that this will be at the applicant's expense.
@@ -2780,8 +2390,6 @@ Applicants can nominate a conveyancer to act solely on their behalf, but must be
 
 If your client still wants to use this process, please call us on **0345 605 40 40**.
 
----
-
 # Solicitors (A–Z summary)
 
 We can only work with solicitors and conveyancers whose firms have two or more partners – unless the firm is on our approved panel.
@@ -2790,15 +2398,11 @@ You can check Lender Exchange to see if your client's solicitor is available on 
 
 See [Solicitor Information](#solicitor-information) section for full details.
 
----
-
 # Source of Deposit (A–Z summary)
 
 The Mortgage Works reserve the right to request evidence of deposit on all applications (for first time landlord and private sale applications, evidence of deposit is required).
 
 For comprehensive information on all acceptable deposit sources and required proofs, please see [Source of Deposit Criteria](#source-of-deposit-criteria) section.
-
----
 
 # Specialist Security Valuation (HMO) (A–Z summary)
 
@@ -2808,8 +2412,6 @@ For Further Advance applications for HMO require payment of the full specialist 
 
 See [Valuation Criteria](#valuation-criteria) section for detailed fee information.
 
----
-
 # Spray Foam Insulation (A–Z summary)
 
 If spray foam insulation has been fitted in the wall voids of the property, then the valuer will decline the property.
@@ -2818,14 +2420,10 @@ Where spray foam has been installed in the rafters, frame, and/or underfloor str
 
 See [Property Criteria](#property-criteria) section for more details.
 
----
-
 # Stocks / Shares as Deposit (A–Z summary)
 
 - UK: most recent Share statement or Share Portfolio statement. Share statements must be no more than 12 months older than the Decision in Principle (DIP) date.
 - **Foreign Funds:** If the stocks/shares aren't UK based: 3 months' stocks/shares statements (Non-UK/EEA) and 6 months (Non-EEA) stocks/shares statements dated within 3 months. Funds are not required to be transferred/evidenced into customer's UK bank account.
-
----
 
 # Stress Rates (A–Z summary)
 
@@ -2843,8 +2441,6 @@ We'll always use whichever is the higher of stress rate or pay rate (pay rate +2
 
 See [Income Criteria](#income-criteria) section for more details.
 
----
-
 # Structural Engineers Report (A–Z summary)
 
 Valuers may require this specialist report to consider if a property is suitable security and if there's any required works which could impact the value.
@@ -2852,8 +2448,6 @@ Valuers may require this specialist report to consider if a property is suitable
 For a structural report to be acceptable it must: be dated within the last 90 days; be for the whole property and have comment(s) on any specific issues which the valuer has identified; be addressed to the applicant and in both names if this is a joint mortgage application; be on appropriate letter headed paper; indicate that the Structural Engineer holds one of: **Standard** – MICE / FICE / AMI Struct E / MI Struct E / FI Struct E; **Chartered Building Surveyor** – MRICS / FRICS; **Corporate Building/Corporate Structural Engineer** – MASI / FASI / MCABE / FCABE / MCIOB / FCIOB / MIEI (Members of Engineers Ireland).
 
 See [Property Criteria](#property-criteria) section for more details.
-
----
 
 # Tenancy Agreements (A–Z summary)
 
@@ -2872,25 +2466,17 @@ See [Property Criteria](#property-criteria) section for more details.
 
 *We'll accept tenancies in a PRT form in Scotland and the 36-month period will not apply to those tenancies. All tenancy agreements are subject to assessment by the conveyancer acting on behalf of the client. This is to ensure adherence with UK Finance guidelines.
 
----
-
 # Term (A–Z summary)
 
 Minimum / Maximum Term: Min 5 years – Max 35 years.
-
----
 
 # Term Extension (A–Z summary)
 
 If your client wants to change the term of their buy to let mortgage, they'll need to apply directly on our Extend your mortgage term page.
 
----
-
 # Top Slicing (A–Z summary)
 
 We don't allow surplus earned income to be used to cover any rental shortfall.
-
----
 
 # Traditional Construction (A–Z summary)
 
@@ -2902,13 +2488,9 @@ The following are regarded as traditional construction and normal lending terms 
 
 See [Property Criteria](#property-criteria) section for more details.
 
----
-
 # Transcribed Valuations (A–Z summary)
 
 We don't accept transcriptions for valuation purposes on Scottish Buy to Let Applications. We'll instruct our own Mortgage Valuation Report on all cases as a valuation fee will be payable by the customer.
-
----
 
 # Unacceptable Source of Deposit (A–Z summary)
 
@@ -2925,8 +2507,6 @@ We don't accept transcriptions for valuation purposes on Scottish Buy to Let App
 - Funds from children under the age of 18, whether a sole or joint account holder, or beneficiary of a trust.
 - Cryptoassets.
 
----
-
 # Valuation (A–Z summary)
 
 The valuer will be instructed by The Mortgage Works to determine the suitability of the security.
@@ -2939,8 +2519,6 @@ If the valuation has been carried out and the property has been found to be of u
 
 See [Valuation Criteria](#valuation-criteria) section for full details.
 
----
-
 # Valuation Appeals (A–Z summary)
 
 If you wish to appeal the valuation figure, it's important that it fits our criteria. We'll need the following information to consider your appeal and will reject appeals which do not provide the following:
@@ -2951,8 +2529,6 @@ If you wish to appeal the valuation figure, it's important that it fits our crit
 **Important information:** Appeals received with missing information, or which don't meet the necessary requirements will be rejected. Valuations can only be appealed within 10 working days of you or your client being made aware of the valuation outcome. We'll respond to the appeal within 10 working days. The response will be the final outcome and the valuation can't be appealed again.
 
 It's important that you review the above criteria first before contacting us. Once you have all the relevant information to hand you can contact broker support who will send you the Valuations Appeal form, which should be submitted to valuation.appeals@nationwide.co.uk.
-
----
 
 # Valuation Fees (A–Z summary)
 
@@ -2967,8 +2543,6 @@ Further advance applications for HMO require payment of the full specialist secu
 Re-inspection fee is £100.
 
 See [Valuation Criteria](#valuation-criteria) section for full details.
-
----
 
 # Valuation Policy (A–Z summary)
 
@@ -2986,27 +2560,19 @@ The valuation will be carried out when the relevant fee has been received.
 
 See [Valuation Criteria](#valuation-criteria) section for full details.
 
----
-
 # Additional Borrowing (A–Z summary)
 
 For post-completion contract variations, any applications where additional borrowing is required are not accepted.
 
 See [Post-Completion Lending Criteria](#post-completion-lending-criteria) section for more details.
 
----
-
 # Broker Connect (A–Z summary)
 
 Please contact your BDM or Broker Chat for information about Broker Connect services.
 
----
-
 # Credit Reference Agencies/Bureaus (A–Z summary)
 
 The Mortgage Works uses credit reference agencies to assess applications. For more information, please contact Broker Chat or your BDM.
-
----
 
 # Early Repayment Charges (ERCs) (A–Z summary)
 
@@ -3014,15 +2580,11 @@ Early repayment charges may apply when repaying your mortgage early. Portability
 
 See [Portability](#portability) section for more details.
 
----
-
 # Free Standard Legal Fee (A–Z summary)
 
 For contacts and tracking information, please see our [Case Tracking page](https://www.themortgageworks.co.uk/intermediaries/placing-business/case-tracking#conveyancing).
 
 You can also find out more about our [products offering free standard legal fee](https://www.themortgageworks.co.uk/intermediaries/products#freeLegalFees) or view our [Tariff of mortgage charges](https://www.themortgageworks.co.uk/-/media/tmw/documents/t21-tariff-of-charges.pdf?rev=4c77f29564554eeca6392b0c335a3b41&hash=0093D6D6F9463680DED387373BAAA24C).
-
----
 
 # Further Advances (A–Z summary)
 
@@ -3151,13 +2713,9 @@ For further advances, we'll consider applications if the funds are being raised 
 
 See [Green Further Advance](#green-further-advance-mortgage) section for Green Further Advance product details.
 
----
-
 # Going Green
 
 The Mortgage Works supports green initiatives and energy efficiency improvements. See [Green Further Advance](#green-further-advance-mortgage) section for information on Green Further Advance products.
-
----
 
 # Green Further Advance mortgage
 
@@ -3169,8 +2727,6 @@ Maximum loan on Green Further Advance products is £15,000.
 We'll place a condition on the mortgage offer confirming your client must undertake the work within 3 months. We can reinspect the property 3 months after completion to: ensure your client has carried out the work or requested an updated EPC to show they have made the improvements.
 
 The valuer will assess the EPC data and detail any works needed to bring the property to the minimum standards above in the valuation report. We'll reflect the costs of any works in the valuation figure.
-
----
 
 # Income criteria (A–Z summary)
 
@@ -3243,8 +2799,6 @@ We may decline the application if we consider the exposure to be too high. For e
 
 See [Income Proofs](#income-proofs) section for detailed information on acceptable income types and proof requirements.
 
----
-
 # Let to Buy criteria
 
 If your client is a first time or experienced landlord looking to remortgage their existing main residence as a Buy to Let property and purchase a new residential property, we can help. You'll find our full range of options in the 'Let to Buy' section of our [product finder](https://www.themortgageworks.co.uk/intermediaries/products/product-finder).
@@ -3272,8 +2826,6 @@ If your client is a first time or experienced landlord looking to remortgage the
 
 [See our general criteria for full details](https://www.themortgageworks.co.uk/intermediaries/lending-criteria/general)
 
----
-
 # Limited Company criteria (A–Z summary)
 
 If you're helping clients secure and manage buy to let mortgages through a limited company, we're here to support you. Our criteria provides clear guidance on eligibility, company structure, and the application process.
@@ -3281,8 +2833,6 @@ If you're helping clients secure and manage buy to let mortgages through a limit
 Information: We have a range of Limited Company Houses in Multiple Occupation (HMO) product options. Make sure to also check our [HMO criteria](https://www.themortgageworks.co.uk/intermediaries/lending-criteria/hmo).
 
 For detailed Limited Company criteria, please see the [Limited Company criteria section](#limited-company-criteria) earlier in this document.
-
----
 
 # Minimum Property Standards (A–Z summary)
 
@@ -3294,8 +2844,6 @@ Properties must meet certain minimum standards to be acceptable as security. Thi
 - Fire safety: See [Fire Safety Assessment](#fire-safety-assessment) section for details
 
 See [Property and Construction](#property-and-construction) section for full details.
-
----
 
 # New Build
 
@@ -3327,13 +2875,9 @@ To request a New Build offer extension, please email us at TMW.Applications@them
 
 For detailed New Build criteria, please see the [New Build section](#new-build) earlier in this document.
 
----
-
 # Overpayments
 
 Clients can make overpayments on their mortgage. Please contact Broker Chat or your BDM for specific information about overpayment terms and any restrictions that may apply.
-
----
 
 # Porting
 
@@ -3352,13 +2896,9 @@ This includes purchase, remortgage, further advance and porting applications.
 
 See [Portability](#portability) and [Post-Completion Lending Criteria](#post-completion-lending-criteria) sections for more details.
 
----
-
 # Product Switch
 
 Clients can switch between mortgage products. Please see our [product finder](https://www.themortgageworks.co.uk/intermediaries/products/product-finder) for available products and contact Broker Chat or your BDM for specific information about product switching.
-
----
 
 # Rate Switch
 
@@ -3366,19 +2906,13 @@ Clients can switch their mortgage rate. Only the director of the SPV will have a
 
 Please contact Broker Chat or your BDM for specific information about rate switching options.
 
----
-
 # Switcher Valuation Appeals
 
 For information about valuation appeals for switcher applications, please see the [Valuation Appeals](#valuation-appeals) section.
 
----
-
 # Under Market Value Transactions
 
 Please contact Broker Chat or your BDM for information about under market value transactions.
-
----
 
 # Valuation Criteria (A–Z summary)
 
@@ -3387,5 +2921,3 @@ Please contact Broker Chat or your BDM for information about under market value 
 - Although an application may meet the guidelines above, the property may still be declined by the valuer, e.g. a mortgage application in England for a 20 year term with a 71 year unexpired lease is within policy, but the valuer may advise the property is not readily marketable and saleable and we will therefore not consider the property as suitable security.
 
 For detailed valuation information including fees, policy, and appeals, please see the [Valuation](#valuation), [Valuation Fees](#valuation-fees), [Valuation Policy](#valuation-policy), and [Valuation Appeals](#valuation-appeals) sections.
-
----

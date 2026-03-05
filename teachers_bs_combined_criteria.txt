@@ -1,7 +1,5 @@
 # Teachers Building Society – Combined Lending Criteria (Residential and Buy to Let)
 
----
-
 **LENDER:** Teachers Building Society
 **PRODUCT:** Combined – Standard Mortgages (Residential) and Buy to Let / Holiday Let
 **DOCUMENT TYPE:** Lending Criteria
@@ -12,11 +10,7 @@
 
 **Affordability check:** 0800 378669
 
----
-
 ## PART A – RESIDENTIAL CRITERIA
-
----
 
 ## SECTION 1 – APPLICANT ELIGIBILITY
 
@@ -43,8 +37,6 @@
 - Adults over 18 not on the mortgage (e.g. adult children, short-term partners, lodgers) can be excluded where applicant confirms they are self-sufficient and do not add to household expenditure.
 - Child at university not residing during term time: include support as committed expenditure (childcare/school fees).
 
----
-
 ## SECTION 2 – CREDIT HISTORY
 
 - No IVA or Bankruptcy Order in force or outstanding at any time within the last 5 years.
@@ -57,8 +49,6 @@
 - No more than 1 missed credit card payment in the last 3 months and no more than 2 consecutive missed credit card payments in the last 2 years.
 - Poor conduct of current accounts (exceeding/reliance on overdrafts, returned payments, adverse spending e.g. gambling) may impact lending — refer with full details.
 - Payday loans: not acceptable if used in the last 12 months.
-
----
 
 ## SECTION 3 – INCOME AND AFFORDABILITY
 
@@ -132,8 +122,6 @@
 
 - The Society does not lend on mortgages classed as Foreign Currency Mortgages under MCOB/MCD.
 
----
-
 ## SECTION 4 – DEPOSITS AND FEES
 
 - Minimum 5% deposit from applicant's personal funds or gift required, in addition to government loan schemes (Help to Buy), Forces Help to Buy or builders' incentives (New Build).
@@ -148,8 +136,6 @@
 - **Help to Buy:** HTB England, Wales & England (Homes and Communities Agency). Customer must provide 5% deposit in addition to equity loan. Maximum age at end of term 70 or retirement if earlier. Where equity loan has less than 15 years to run, consideration of repayment of equity loan must be in affordability assessment.
 - **New build incentives:** stamp duty and legal fees incentives acceptable up to 5% of purchase price; over 5% must be referred. Purchase price as on Mortgage Deed; incentives disclosed to valuer; lending on valuation. Mortgage offers valid 6 months. Houses: max LTV 90% (95% of share for shared ownership). Flats: max 85% on open market. Help to Buy: max 75% LTV (95% of share for shared ownership).
 
----
-
 ## SECTION 5 – LOAN PARAMETERS
 
 - **Loan purpose:** house purchase up to 95%; remortgage up to 95%; remortgage with capital raising up to 90%. Capital raising acceptable for home improvements, debt consolidation, releasing equity for deposit for separate purchase by applicants or their children/grandchildren. Capital raising not permitted for business purposes.
@@ -158,8 +144,6 @@
 - **LTV 60–90%:** restriction when lending in or into retirement (see Retirement).
 - **LTV 90–95%:** no lending past retirement or age 70; must be only property owned; earned income and child benefit only; age at expiry not to exceed 70; remortgage — no additional borrowing.
 - **Term:** minimum 5 years; maximum 40 years. Shorter term may be considered for HNW/higher earners under specialist lending.
-
----
 
 ## SECTION 6 – PROPERTY (RESIDENTIAL)
 
@@ -212,8 +196,6 @@
 
 - Properties under 10 years old: NHBC Buildmark, Premier Guarantee, Zurich Municipal BLP, LABC Warranty, Build Zone 10 year, Checkmate New Home Warranty, ICW. Other mainstream warranties/Architects Certificates considered on merit.
 
----
-
 ## SECTION 7 – FAMILY ASSIST (JOINT BORROWER SOLE PROPRIETOR)
 
 - Non-occupying applicant can be on mortgage for affordability but not legal owner (JBSP) subject to: max LTV 80%; non-occupying applicant(s) must be parent(s)/grandparent(s) of one occupying applicant; max 2 non-occupying applicants; max 4 applicants in total; 100% of income (allowed under policy) from all applicants for affordability; affordability compliant with MCOB covering both applicants' and parent(s)/grandparent(s) households; recommendation in offer that parties agree personal future exit plans separately from legal obligations.
@@ -221,11 +203,7 @@
 - Lending on specific Family Assist products (risk priced by Product Governance Committee). Cannot be used with shared ownership or help to buy.
 - Where parent(s)/grandparent(s) are named as joint legal owner: above criteria available; ILA not required; solicitors for parent(s)/grandparent(s) must confirm they understand joint and several liability for full mortgage if child cannot pay.
 
----
-
 ## PART B – BUY TO LET CRITERIA
-
----
 
 ## SECTION 8 – BTL SCOPE AND GENERAL CRITERIA
 
@@ -249,15 +227,11 @@
 - Repayment: capital and repayment or interest only; sale of property acceptable as repayment vehicle.
 - Restrictions: not available for debt consolidation; private individuals only; not available on new build, bedsits or studio flats; existing homeowners only; cannot be used with Shared Ownership, Right to Buy or similar schemes.
 
----
-
 ## SECTION 9 – STANDARD BTL (AST) ADDITIONAL CRITERIA
 
 - **Coverage ratio:** higher rate taxpayer 145%; lower rate taxpayer 125%. If using lower tax banding, income evidenced by payslips, P60 and SA302 as appropriate; income must include all income and gross rental for the BTL/holiday let with the Society. If more than 1 applicant, highest tax banding applies.
 - **Rental assessment:** annual rent on AST basis.
 - **Occupancy:** single AST of no more than 12 months to a single family unit. Multiple tenancies or HMO not acceptable.
-
----
 
 ## SECTION 10 – HOLIDAY LET ADDITIONAL CRITERIA
 
@@ -268,14 +242,10 @@
 - **Restrictions:** not available for properties on holiday parks or with restrictive usage covenants (e.g. holiday let covenant).
 - **Marketing:** property can be marketed via Airbnb-type platforms.
 
----
-
 ## SECTION 11 – IMPORTANT NOTES
 
 - All criteria subject to individual assessment and product availability.
 - For specialist lending (HNW/higher earners), greater flexibility may apply — contact the Society.
 - Main criteria URL: https://www.teachersbuildingsociety.co.uk/intermediaries/standard-mortgages/lending-criteria
-
----
 
 *END OF DOCUMENT*

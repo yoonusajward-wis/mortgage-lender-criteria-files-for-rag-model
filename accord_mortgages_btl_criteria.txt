@@ -1,7 +1,5 @@
 # ACCORD MORTGAGES – BUY TO LET LENDING CRITERIA
 
----
-
 **LENDER:** Accord Mortgages
 **PRODUCT:** Buy to Let
 **DOCUMENT TYPE:** Buy to Let Criteria. 25 sections: 1 Income & top slicing, 2 Deposit, 3 Age, 4 Adverse credit, 5 Portfolio landlord, 6 First time landlord, 7 Loan limits, 8 Rental coverage, 9 Property specifics, 10 Accidental/Consumer BTL, 11 Let to Buy, 12 Foreign nationals, 13 Number of borrowers, 14 Inter-family & Inheritance, 15 Unacceptable applicants, 16 Tenancy limits, 17 Interest only, 18 Remortgaging, 19 Additional lending, 20 Portability, 21 Consumer BTL, 22 Debt consolidation, 23 Unacceptable loan purposes, 24 Valuations, 25 New build.
@@ -12,8 +10,6 @@
 This document covers Buy to Let criteria only. For intermediary use only; for use by authorised intermediaries and should not be relied upon by anyone else.
 
 **RAG convention:** Where applicable, criteria use explicit labels **Maximum:** **Minimum:** **Allowed:** **Not Acceptable:** **Condition:** so that rules are self-contained for retrieval.
-
----
 
 ## Applicant
 
@@ -287,10 +283,7 @@ All cases will require underwriter assessment.
   * Details of pension provisions
   * Details of injury insurance.
 
----
-
 # SECTION 2 – DEPOSIT
-
 
 ## Acceptable deposit sources
 
@@ -309,10 +302,7 @@ All cases will require underwriter assessment.
 * Cryptocurrency.
 * Gift of equity from family (concessionary purchase).
 
----
-
 # SECTION 3 – AGE
-
 
 ## Age
 
@@ -323,10 +313,7 @@ All cases will require underwriter assessment.
 * Maximum age of 75 at the time of application.
 * Maximum age cannot exceed the applicant's 86th birthday at the end of the mortgage term.
 
----
-
 # SECTION 4 – ADVERSE CREDIT
-
 
 ## Bankruptcy and sequestration
 
@@ -382,10 +369,7 @@ DMP will be considered if:
 **Not Acceptable:**
 * A defaulted pay day loan in the last 36 months is unacceptable.
 
----
-
 # SECTION 5 – PORTFOLIO LANDLORD
-
 
 ## Portfolio landlord definition
 
@@ -459,10 +443,7 @@ This is sufficient to cover the shortfall, pulling up the portfolio collectively
 
 The portfolio as a whole is not meeting the 145% rule, and whilst one property is above the required 145%, this is not by a substantial amount.
 
----
-
 # SECTION 6 – FIRST TIME LANDLORD
-
 
 ## First time landlord criteria
 
@@ -476,19 +457,13 @@ The portfolio as a whole is not meeting the 145% rule, and whilst one property i
 **Not Acceptable (for first time landlords):**
 * Top slicing is not permitted when lending to first time landlords.
 
----
-
 # SECTION 10 – ACCIDENTAL LANDLORD / CONSUMER BTL
-
 
 ## Consumer buy to let
 
 For more information please visit our [consumer buy to let page](https://www.accordmortgages.com/btl/tools-and-guides/consumer-btl).
 
----
-
 # SECTION 11 – LET TO BUY
-
 
 ## Let to buy
 
@@ -499,10 +474,7 @@ The following information is required:
 * Where there isn't a mortgage, the solicitor must confirm the details of the new property.
 * The remortgage and the purchase must be completed simultaneously.
 
----
-
 # SECTION 12 – FOREIGN NATIONALS
-
 
 ## Loan and LTV limits for foreign nationals
 
@@ -537,16 +509,12 @@ All applicants must be resident in the UK at the time of application.
 
 We will complete checks using electoral roll and credit search data, where we cannot verify the customers address history electronically, the underwriter reserves the right to request additional documentation.
 
----
-
 # SECTION 13 – NUMBER OF BORROWERS
 
 ## Number of borrowers
 
 **Maximum:**
 * Up to two borrowers are allowed on a mortgage loan.
-
----
 
 # SECTION 14 – INTER-FAMILY AND INHERITANCE
 
@@ -567,8 +535,6 @@ We will complete checks using electoral roll and credit search data, where we ca
 * A previous owner retains an interest in the security.
 * Any tenant retains or may acquire an overriding interest in the property.
 
----
-
 # Unacceptable applicants
 
 ## Unacceptable applicants
@@ -582,8 +548,6 @@ We only accept applications from private individuals; we cannot accept applicati
 * Applications made on behalf of Limited Liability Partnerships
 * Property developers
 * Guarantors
-
----
 
 ## Loan and rental
 
@@ -668,8 +632,6 @@ All applicants must have evidence that they can currently reside in the UK e.g. 
 * **Application and supporting verification documents:** 90 days.
 * **Valuation:** 90 days.
 
----
-
 # SECTION 8 – RENTAL COVERAGE
 
 ## Rental coverage
@@ -708,8 +670,6 @@ We may be able to use surplus personal income (top slicing) to cover a rental sh
 
 To see a breakdown of the types of income we accept and the evidence required, please see our [income and top slicing criteria page](https://www.accordmortgages.com/btl/criteria/income-and-top-slicing).
 
----
-
 # SECTION 16 – TENANCY LIMITS
 
 ## Length of tenancies
@@ -719,8 +679,6 @@ We allow landlords to offer tenancies of up to 3 years in length. Minimum length
 ## Number of tenants
 
 Maximum of 4 individuals on a single tenancy agreement (max 2 in Scotland).
-
----
 
 # SECTION 17 – INTEREST ONLY
 
@@ -741,8 +699,6 @@ Interest only or repayment (capital and interest) methods are acceptable but not
 * **First time landlords:** Loan up to £500k: 80% (excl. unsecured debt consolidation). £500k–£1m: 75%. Flats: 75%. Houses: 75%.
 * **Existing landlords:** Loan up to £500k: 80% (excl. unsecured debt consolidation). £500k–£1m: 75%. Flats: 75%. Houses: 75%.
 
----
-
 # SECTION 18 – REMORTGAGING
 
 ## Loan purposes for remortgaging
@@ -762,16 +718,12 @@ For capital-raising remortgages the following are permitted:
 
 Please note there are specific restrictions for top slicing cases. [https://www.accordmortgages.com/btl/criteria/rental-coverage#top-slicing]
 
----
-
 # SECTION 19 – ADDITIONAL LENDING
 
 ## Additional lending
 
 **Not Acceptable:**
 * We do not offer further advances for existing BTL mortgages.
-
----
 
 # SECTION 20 – PORTABILITY
 
@@ -780,15 +732,11 @@ Please note there are specific restrictions for top slicing cases. [https://www.
 **Not Acceptable:**
 * Accord BTL mortgages are not portable.
 
----
-
 # SECTION 21 – CONSUMER BTL
 
 ## Consumer buy to let
 
 For more information please visit our [consumer buy to let page](https://www.accordmortgages.com/btl/tools-and-guides/consumer-btl).
-
----
 
 # SECTION 22 – DEBT CONSOLIDATION
 
@@ -799,8 +747,6 @@ For more information please visit our [consumer buy to let page](https://www.acc
 * Maximum of £50,000 of unsecured debts can be consolidated onto the mortgage.
 * Maximum of 10 debts to be repaid (this can be a combination of both secured & unsecured).
 * Unlimited secured debts (against any property, i.e. primary residence, buy to let, second home), providing the above max 10 debt rule is still not exceeded.
-
----
 
 # SECTION 23 – UNACCEPTABLE LOAN PURPOSES
 
@@ -823,8 +769,6 @@ For more information please visit our [consumer buy to let page](https://www.acc
 * Unsecured debt consolidation where the LTV is >75%.
 * Payment of tax liabilities.
 * Office conversions.
-
----
 
 ## Property
 
@@ -989,8 +933,6 @@ A - Acceptable
 A/B - Should be referred to the valuer to check it doesn't affect his valuation
 B and below - Not acceptable
 
----
-
 # SECTION 24 – VALUATIONS
 
 ## Valuation
@@ -1014,8 +956,6 @@ The minimum property valuation for new build properties is £100,000.
 ## Rental valuation
 
 The rental value figure must be on an unfurnished gross monthly basis on an Assured Short hold tenancy for 6 months or on a proper tenancy if the rent is over £100,000 pa (equivalents in Scotland and Wales). There must be good demand for rental property in the area concerned.
-
----
 
 # SECTION 25 – NEW BUILD
 

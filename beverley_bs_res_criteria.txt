@@ -1,7 +1,5 @@
 # Beverley Building Society – Residential Criteria
 
----
-
 **LENDER:** Beverley Building Society
 **PRODUCT:** Residential
 **DOCUMENT TYPE:** Lending Criteria
@@ -9,8 +7,6 @@
 **FOR INTERMEDIARY USE ONLY**
 
 **Source:** https://beverleybs.co.uk/lending-criteria/
-
----
 
 ## SECTION 1 – LOAN PARAMETERS
 
@@ -34,8 +30,6 @@
 - Remortgages: up to 90%.
 - Flats and apartments: maximum 80% LTV.
 - Interest-only loans: lower LTV limits apply (see Section 5).
-
----
 
 ## SECTION 2 – APPLICANT ELIGIBILITY
 
@@ -78,8 +72,6 @@
 - Applications on behalf of members of the public accepted only from FCA-registered intermediaries.
 - Thorough due diligence and cross-referencing carried out on all applications.
 
----
-
 ## SECTION 3 – AFFORDABILITY ASSESSMENT
 
 ### Stress Rate
@@ -115,8 +107,6 @@
 - Pension income: certainty of ongoing income assessed, including potential exhaustion of drawdown pension pots. Pension valuation statements dated within 1 month of application required. 10% haircut applied to non-guaranteed income.
 - Joint mortgages: affordability assessed to ensure both borrowers could maintain payments should the other die. A declaration to sell and downsize is acceptable for affordability purposes.
 
----
-
 ## SECTION 4 – CREDIT HISTORY
 
 - Discharged bankrupt: acceptable after 6 years.
@@ -128,8 +118,6 @@
 - Active DMP: acceptable after 2 years.
 - A common sense view will be taken where a credit record shows a minor blip (e.g. one late or missed payment over a substantial period, swiftly settled, resulting from genuine oversight).
 - COVID-19 payment breaks taken in line with UK government measures: considered.
-
----
 
 ## SECTION 5 – INTEREST ONLY
 
@@ -158,8 +146,6 @@
 - Minimum equity: £150,000; maximum LTV: 70%.
 - Borrower must commit to repaying the existing mortgage on sale and demonstrate sufficient remaining funds to purchase a new home.
 
----
-
 ## SECTION 6 – RETIREMENT INTEREST ONLY (RIO)
 
 - Interest-only loans repaid when the borrower dies, moves into long-term care, or sells the property.
@@ -176,8 +162,6 @@
 - Net income from buy-to-let property.
 - Pension income.
 - Other non-salaried income, investments (e.g. stocks and shares ISAs, defined contribution pensions) — 10% haircut applied.
-
----
 
 ## SECTION 7 – INCOME TYPES
 
@@ -197,8 +181,6 @@
 - All contractor types considered on a case-by-case basis: CIS members, agency, nursing bank, fixed, temporary and short-term contracts, IT consultants and self-employed contractors — from 1 year's contract with evidence of a track record in a related field.
 - Umbrella companies: accepted with evidence of 1 year's track record in a related field.
 - No credit scoring — all decisions made on a case-by-case basis with individual underwriting.
-
----
 
 ## SECTION 8 – CAPITAL RAISING AND REMORTGAGE
 
@@ -229,8 +211,6 @@ Affordability criteria for LTI ratios may be flexed for remortgage purposes, sub
 - The existing mortgage is fully up to date at application and has been so for the previous 12 months.
 - The monthly payment at the Society's SVR would not exceed the amount currently paid to the existing lender.
 - Affordability can be validated based on the borrower's current income.
-
----
 
 ## SECTION 9 – PROPERTY CRITERIA
 
@@ -325,8 +305,6 @@ Affordability criteria for LTI ratios may be flexed for remortgage purposes, sub
 
 - Not available; the Society must always hold the first charge.
 
----
-
 ## SECTION 10 – GUARANTORS AND FAMILY ASSIST
 
 - Family members accepted as guarantors on a case-by-case basis, assessed for affordability in the same way as the borrowers.
@@ -335,8 +313,6 @@ Affordability criteria for LTI ratios may be flexed for remortgage purposes, sub
 **Options available:**
 - Straight guarantor (not party to the mortgage): guarantor legally agrees to assume liability for mortgage payments.
 - Joint Borrower, Sole Proprietor: guarantor is party to the mortgage without incurring stamp duty or ongoing mortgage payment obligations.
-
----
 
 ## SECTION 11 – SUPPORTING DOCUMENTATION
 
@@ -347,7 +323,5 @@ Affordability criteria for LTI ratios may be flexed for remortgage purposes, sub
 - Investments and assets: evidence of deposits in savings, shares and other asset forms where applicable.
 - Additional documentation may be required depending on the case, as directed by the Society or the introducing broker.
 - RIO mortgages: additional specific documentation required (see Section 6).
-
----
 
 *End of criteria.*

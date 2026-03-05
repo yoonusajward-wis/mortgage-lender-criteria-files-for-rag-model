@@ -1,7 +1,5 @@
 # StrideUp – Residential Home Purchase Plan (HPP) Criteria
 
----
-
 **LENDER:** StrideUp (trading name of StrideUp Homes Limited)
 **PRODUCT:** Residential Home Purchase Plan (HPP) – Shariah-Compliant
 **DOCUMENT TYPE:** Lending Criteria
@@ -19,8 +17,6 @@
 
 > **Warning:** Your client's home may be repossessed if they do not keep up payments on their Home Purchase Plan.
 
----
-
 ## SECTION 1 – FINANCING PARAMETERS
 
 - Minimum financing: £50,000.
@@ -35,8 +31,6 @@
 - Minimum property value: £85,000.
 - Maximum property value: uncapped.
 - Products are not portable.
-
----
 
 ## SECTION 2 – APPLICANT ELIGIBILITY
 
@@ -64,8 +58,6 @@
 ### Marital Status
 
 - A sole application can be considered even where the applicant is in a legally sanctioned relationship, for both purchases and refinances. Independent Legal Advice (ILA) may be required.
-
----
 
 ## SECTION 3 – INCOME AND AFFORDABILITY
 
@@ -144,8 +136,6 @@
 - Less than 10 years from retirement: latest pension statement showing a forecast of the pension amount.
 - More than 10 years from retirement: evidence of contributions into a pension fund (including sale of other property and/or buy to let rental income), reviewed on a proportionate basis.
 
----
-
 ## SECTION 4 – CREDIT HISTORY
 
 ### Secured Arrears or Missed Payments
@@ -181,8 +171,6 @@
 
 - Not considered.
 
----
-
 ## SECTION 5 – PROPERTY CRITERIA
 
 - England only.
@@ -197,8 +185,6 @@
 - New build houses (maximum 85% FTV).
 - New build flats (maximum 80% FTV).
 
----
-
 ## SECTION 6 – DEPOSIT AND EQUITY
 
 - 100% gifted deposit acceptable from any number of sources (including outside close family members).
@@ -211,16 +197,12 @@
 - Sale of current home: Memorandum of Sale and redemption statement from current lender.
 - Gift: gifted deposit form from each donor.
 
----
-
 ## SECTION 7 – APPLICATION TYPES
 
 - First-time buyers: accepted.
 - Remortgage/refinance: accepted where the property was last purchased or remortgaged at least 6 months ago (unless remortgaging out of bridge financing).
 - Capital raising remortgage/refinance: accepted.
 - Porting: not available — StrideUp products are not portable.
-
----
 
 ## SECTION 8 – DOCUMENTATION REQUIREMENTS
 
@@ -248,15 +230,11 @@
 - Widowed Parents' Attendance: latest award notice.
 - Employment and Support Allowance: latest award notice.
 
----
-
 ## SECTION 9 – IMPORTANT NOTES
 
 - All criteria subject to individual assessment.
 - StrideUp reserves the right to decline applications that do not meet lending criteria.
 - Product availability and rates are subject to change.
 - Always refer to the latest criteria guide or contact the broker success team for the most up-to-date information.
-
----
 
 *END OF DOCUMENT*

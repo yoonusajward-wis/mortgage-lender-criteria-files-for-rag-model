@@ -1,7 +1,5 @@
 # CAMBRIDGE & COUNTIES BANK – BUY TO LET (PERSONAL) CRITERIA
 
----
-
 **LENDER:** Cambridge & Counties Bank
 **PRODUCT:** Buy to Let – Personal (Individual Applicants)
 **DOCUMENT TYPE:** Lending Criteria
@@ -9,8 +7,6 @@
 **FOR INTERMEDIARY USE ONLY**
 
 **Source:** [Property finance – intermediaries](https://ccbank.co.uk/intermediaries/property-finance/#resi)
-
----
 
 ## SECTION 1 – GENERAL LENDING CRITERIA
 
@@ -29,8 +25,6 @@
 * Commission paid at the same time as the loan is drawn down.
 * Manual underwriting process.
 
----
-
 ## SECTION 2 – BUY TO LET
 
 * Available to experienced property investors only.
@@ -46,8 +40,6 @@
 * Gifted deposits permitted between family members.
 * Security: first legal charge on a property in England, Scotland or Wales.
 
----
-
 ## SECTION 3 – EXPAT BUY TO LET
 
 * Available to experienced property investors only.
@@ -62,8 +54,6 @@
 * Gifted deposits permitted between family members.
 * All identification and paperwork can be signed and witnessed by a legal firm on the Global 500 list — travel to the UK is not required.
 * Security: first legal charge on a property in England, Scotland or Wales.
-
----
 
 ## SECTION 4 – HOLIDAY LETS
 
@@ -92,8 +82,6 @@
 * Variable rate terms: 12 months to 30 years.
 * Fixed rate terms: 3 or 5 years.
 
----
-
 ## SECTION 5 – HOUSES IN MULTIPLE OCCUPATION (HMO)
 
 * Available to experienced HMO investors in their local area only.
@@ -112,8 +100,6 @@
 * Gifted deposits permitted between family members.
 * Security: first legal charge on a property in England, Scotland or Wales.
 
----
-
 ## SECTION 6 – SUPPORTING DOCUMENTATION
 
 ### Property Documentation
@@ -128,15 +114,11 @@
 * Credit checks performed by the Bank.
 * Additional forms as required by the Bank.
 
----
-
 ## SECTION 7 – FEES
 
 * Valuation fee: not payable until the loan is approved.
 * Arrangement fees: may apply — refer to product-specific terms.
 * Early repayment charges: may apply — refer to product-specific terms.
-
----
 
 ## SECTION 8 – IMPORTANT NOTES
 
@@ -146,8 +128,6 @@
 * Expat Buy to Let: must be through a limited company or LLP — not available in individual names.
 * Always refer to the latest product guides or contact the property finance team for the most up-to-date information.
 
----
-
 ## SECTION 9 – CONTACT
 
 * **Phone:** 0344 225 3939
@@ -156,7 +136,5 @@
 * **Website:** [Property finance](https://ccbank.co.uk/intermediaries/property-finance/)
 
 Cambridge & Counties Bank Ltd is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority. FRN: 579415. Registered Office: Charnwood Court, 5B New Walk, Leicester, LE1 6TE.
-
----
 
 *END OF DOCUMENT*

@@ -1,7 +1,5 @@
 # BATH BUILDING SOCIETY – RESIDENTIAL LENDING CRITERIA
 
----
-
 **LENDER:** Bath Building Society
 **PRODUCT:** Residential
 **DOCUMENT TYPE:** Residential lending criteria.
@@ -13,8 +11,6 @@
 **RAG convention:** Criteria use explicit labels **Maximum:** **Minimum:** **Allowed:** **Not Acceptable:** **Condition:** where applicable for retrieval.
 
 **Contact:** Intermediary team – see Bath Building Society website.
-
----
 
 # SECTION 1 – RESIDENTIAL LENDING CRITERIA
 
@@ -775,5 +771,4 @@ Survey Types:
 - For any further questions about criteria, please contact the Intermediary team
 - To search for specific items in the Society's lending criteria, you can select Residential or Buy To Let criteria, then search the relevant category, filter by sub-category, or search by topic or keyword
 
----
 *End of criteria.*

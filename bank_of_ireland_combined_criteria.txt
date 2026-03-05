@@ -1,7 +1,5 @@
 # BANK OF IRELAND – COMBINED LENDING CRITERIA (RESIDENTIAL & BUY TO LET)
 
----
-
 **LENDER:** Bank of Ireland
 **PRODUCT:** Combined (Residential, Buy to Let)
 **DOCUMENT TYPE:** Combined lending criteria. 2 sections: 1 Residential Lending Criteria, 2 Buy to Let Lending Criteria.
@@ -15,8 +13,6 @@
 **Contact:** [Contact us](https://www.bankofireland4intermediaries.co.uk/contact-us/)
 
 Bank of Ireland UK is a trading name of Bank of Ireland (UK) plc, authorised by the PRA and regulated by the FCA and the PRA (registration number 512956).
-
----
 
 # SECTION 1 – RESIDENTIAL LENDING CRITERIA
 
@@ -998,8 +994,6 @@ To find standard valuation, revaluation and re-inspection fees, please see our [
 * It must also be for the same product type
 * The valuation fee will be the agreed panel fee. This is non-refundable once the valuation has been completed.
 
----
-
 # SECTION 2 – BUY TO LET LENDING CRITERIA
 
 ## Acceptable tenure
@@ -1872,8 +1866,6 @@ To find standard valuation, revaluation and re-inspection fees, please see our [
 
 We don't accept valuation transcripts for Buy to Let applications.
 
----
-
 **FOR INTERMEDIARY USE ONLY**
 
 Bank of Ireland UK is a trading name of Bank of Ireland (UK) plc which is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority under registration number 512956. You can confirm our registration on the [FCA's website](https://www.fca.org.uk/).
@@ -1882,4 +1874,3 @@ Bank of Ireland (UK) plc is registered in England & Wales (No.7022885), 45 Gresh
 
 **Contact:** [Contact us](https://www.bankofireland4intermediaries.co.uk/contact-us/)
 
----

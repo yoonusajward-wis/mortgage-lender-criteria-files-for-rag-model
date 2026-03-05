@@ -1,63 +1,22 @@
-LENDER NAME: Skipton Building Society
-PRODUCT: Buy to Let
+# SKIPTON BUILDING SOCIETY – BUY TO LET LENDING CRITERIA
 
-# Skipton Building Society - Buy-to-Let Mortgage Lending Criteria
+**LENDER:** Skipton Building Society
+**PRODUCT:** Buy to Let
+**LAST UPDATED:** 2025
+**SOURCE:** Skipton Building Society for Intermediaries
+**FOR INTERMEDIARIES ONLY**
 
-**Last Updated:** 2025
-**Source:** Skipton Building Society for Intermediaries
-**For Intermediaries Only**
-
----
-
-## Document Information
-
-This document contains comprehensive buy-to-let lending criteria for Skipton Building Society, organized by People, Property, and Policy sections.
-
-**Website:** https://www.skipton-intermediaries.co.uk/calculators/affordability-calculator/
-**Website:** https://www.skipton-intermediaries.co.uk/calculators/buy-to-let-calculator/
-**Website:** https://www.skipton-intermediaries.co.uk/criteria/a-z-lending-criteria/a-z-lending-criteria-btl
-**Website:** https://www.skipton-intermediaries.co.uk/emortgages/
-**Website:** https://www.skipton-intermediaries.co.uk/submitting-cases/fees/
-
----
-
-## Table of Contents
-
-This guide contains 5 main sections organized by topic:
-
-
-### General Information
-
-1. Overview
-5. Useful Resources
-
-### People - Applicant Requirements
-
-2. People
-
-### Property
-
-3. Property
-
-### Policy
-
-4. Policy
-
----
-
-## Overview
+# Overview
 
 This document contains comprehensive buy-to-let lending criteria for Skipton Building Society, organized by People, Property, and Policy sections.
 
 **Note:** This website is for use by **authorised intermediaries only.** Customers should visit www.skipton.co.uk
 
----
-
-## People
+# People
 
 ### Acceptable/Not Acceptable
 
-First Time Landlords are acceptable provided there have owned their own residential property in the UK and has had at least 6 months mortgage experience with evidence available where required. Applicants do not need to be owner occupants.
+First Time Landlords are acceptable provided they have owned their own residential property in the UK and have had at least 6 months mortgage experience with evidence available where required. Applicants do not need to be owner occupants.
 
 The following are unacceptable for BTL Applications:
 
@@ -74,7 +33,7 @@ A full Credit Search is required for each applicant.
 
 The Society's policy on Credit Performance and Credit History is as follows:
 
-#### Credit Defaults
+### Credit Defaults
 
 The following is acceptable (subject to overall 'score') and providing all other conditions are met:
 
@@ -82,11 +41,11 @@ The following is acceptable (subject to overall 'score') and providing all other
 * A maximum of 3 defaults recorded in the last 24 months where the total value of the defaults is less than £1000, all defaults must be satisfied at the time of application
 * There must be no missed payments on any account within the last 6 months
 
-#### Unsatisfied Defaults
+### Unsatisfied Defaults
 
 We will only accept an unsatisfied default if this is less than £50 and evidence is provided to confirm this has been paid.
 
-#### County/High Court Judgements
+### County/High Court Judgements
 
 The following is acceptable (subject to overall 'score') and providing all other conditions are met:
 
@@ -94,7 +53,7 @@ The following is acceptable (subject to overall 'score') and providing all other
 * Total value of all CCJs on the credit report must be less than £500
 * All CCJs must be satisfied at the time of application
 
-#### Bankruptcy/IVA/Debt Relief Order
+### Bankruptcy/IVA/Debt Relief Order
 
 The application can be considered where:
 
@@ -102,12 +61,12 @@ The application can be considered where:
 * Applicant is within limits on all revolving/flexible credit lines
 * There are no arrears on any account within the last 6 months
 
-#### Mortgage and Secured credit Arrears
+### Mortgage and Secured credit Arrears
 
 * Applications with any mortgage or secured arrears in the last 6 months will be declined
 * Applications with mortgage arrears of more than 2 months in last 2 years will be declined
 
-#### Unsecured Loan missed payments/credit card/store cards
+### Unsecured Loan missed payments/credit card/store cards
 
 The application will be declined if:
 
@@ -115,7 +74,7 @@ The application will be declined if:
 * There are more than 2 missed payments on any loan within the last 2 years
 * If any account is currently 1 month in arrears (where total balance of accounts is greater than £100)
 
-#### Bank Account conduct
+### Bank Account conduct
 
 The application will be declined if:
 
@@ -123,15 +82,15 @@ The application will be declined if:
 * Credit Bureau report status 1 or worse is reported on any bank account within latest month
 * Credit Bureau report status 2 or worse is reported on any bank account within latest 6 months
 
-#### Credit limits
+### Credit limits
 
 * If any credit line is reported as over the limit at the time of the search the application will be declined
 
-#### Payday loans
+### Payday loans
 
 * If any Payday loan has been used within the last 2 years the application will be declined
 
-#### Debt Management programmes
+### Debt Management programmes
 
 * Applicants who are currently or have been previously subject to a Debt Management Plan must have no missed payments on any accounts in the last 6 months.
 
@@ -158,18 +117,16 @@ The following policy applies to all Portfolio Landlord applications:
 * The rental income for background properties must meet the Society's calculation of 145% @ 6%. However, if the application is for a Like for Like Remortgage (with no requirement for top slicing) then the rental calculation of 125% @ 6% will be applied
 * A Cash Flow & Other Assets Document must be completed for all Portfolio Landlord applications.
 
----
-
-## Property
+# Property
 
 ### Property Restrictions
 
-#### The Society is willing to lend in the following instances:
+### The Society is willing to lend in the following instances:
 
 * Converted Properties (where not mandatory licensed HMO)
 * New build properties. This is provided that the build is in progress & subject to mortgage offer. If remortgaging, proof from the Land Registry will be required confirming that the property has been owned by the applicant(s) for at least 6 months.
 
-#### The following are unacceptable:
+### The following are unacceptable:
 
 * Properties where the applicant is also an owner occupier in the same building as the tenants (mix of ownership - rental & freehold)
 * Properties with more than 4 bedrooms where let on a multiple occupancy basis
@@ -231,31 +188,29 @@ If your client is capital raising against their unencumbered property then we wo
 * The Society will instruct a valuation for mortgage purposes only
 * The Customer can request a RICS Home Survey Level 2 or a RICS Home Survey Level 3 but they would need to arrange this directly with Connells. Connells will provide a discount for cases proceeding with the Society, the customer should contact [Connells](tel:01525218655) (01525 218655) to benefit from this service. Your client needs to confirm their application is with Skipton Building Society and quote their mortgage application number, Skipton customers can expect to receive a minimum discount of 28%. Requesting a RICS home survey Level 2 or Level 3 will not delay the mortgage offer.
 
----
-
-## Policy
+# Policy
 
 ### Rental Income / Stress Rates
 
 Rental Income cover for the property being mortgaged must meet the Society's appropriate rental calculation as explained below:
 
-#### Higher rate taxpayers and Portfolio BTL Landlords
+### Higher rate taxpayers and Portfolio BTL Landlords
 
 * less than 5-year fixed rate product taken - 145% at the higher of; product rate plus 2% or 5.5%.
 * 5-year fixed rate product or more taken - 145% at the higher of; product rate plus 1% or 5.5%.
 
-#### Standard rate taxpayers
+### Standard rate taxpayers
 
 * less than 5-year fixed rate product taken - 125% at the higher of; product rate plus 2% or 5.5%.
 * 5-year fixed product or more taken - 125% at the higher of; product rate plus 1% or 5.5%.
 
-#### Like for Like Remortgage (regardless of Tax Status)
+### Like for Like Remortgage (regardless of Tax Status)
 
 (Excluding Consumer BTL and/or Let To Buy applications)
 
 * 125% at the higher of; product rate plus 1% or 5.5%.
 
-#### BTL Additional Borrowing (irrespective of product selected)
+### BTL Additional Borrowing (irrespective of product selected)
 
 Higher rate taxpayers and BTL Portfolio Landlords
 
@@ -377,7 +332,7 @@ When assessing the application we will use the following rental calculations:
 
 * 125% at the higher of; product rate plus 2% or 5.5% (or at the higher of; product rate plus 1% or 5.5% if taking a fixed rate product of 5+ years).
 
-#### Let to Buy: Onward Residential Purchase
+### Let to Buy: Onward Residential Purchase
 
 This will be the applicants' main residence after their existing residential property has been converted to a BTL. If the onward purchase is to be mortgaged with Skipton Building Society then the following policy applies:
 
@@ -528,7 +483,7 @@ If the property does not have the benefit of a new home warranty scheme, we requ
 
 Builders may offer sales incentives to potential buyers to encourage them to purchase their property. An incentive is anything the builder gives or provides to the buyer in cash or goods. Typical examples are deposits (i.e. builders deposits) paid before completion and cash paid after completion - often to pay stamp duty or legal fees. As all incentives must be paid for by the builder, they can be regarded as a less transparent alternative to reducing the sale price.
 
-#### Assessment of Incentives
+### Assessment of Incentives
 
 Financial incentives of up to 5% of the purchase price or valuation (whichever is the lower) are allowed on New Build properties only and are permitted on any New Build. Any application where the financial incentive value exceeds 5% will be declined, regardless of the LTV.
 
@@ -536,7 +491,7 @@ Where there is a financial incentive on a BTL application the maximum LTV availa
 
 The Customer must be able to provide a minimum of a 5% deposit (a builder deposit can be accepted in addition to this but not in place of the customer's own deposit).
 
-#### Evidence
+### Evidence
 
 All incentives must be declared at DIP stage. The UK Finance Disclosure of Incentives form (formally CML incentive form) is required by the valuer, which provides details and value of any incentives. Valuers take incentives into account when preparing the valuation report. Please note that all lending is always subject to a satisfactory valuation for mortgage purposes. We will work off the lower of the valuation or the purchase price. Evidence of the deposit may be requested at application stage.
 
@@ -545,25 +500,12 @@ The Society does not accept applications where:
 * The builders/vendors are paying above market value for a part exchange property.
 * The application has any form of Vendor (Private Seller) deposit funding.
 
----
+# Useful Resources
 
-## Useful Resources
+***[eMortgages](https://www.skipton-intermediaries.co.uk/emortgages/)** - Online mortgage system
+***[Buy to Let Calculator](https://www.skipton-intermediaries.co.uk/calculators/buy-to-let-calculator/)** - BTL affordability calculator
+***[Affordability Calculator](https://www.skipton-intermediaries.co.uk/calculators/affordability-calculator/)** - Calculate maximum borrowing
+***[Valuation Fee Scale](https://www.skipton-intermediaries.co.uk/submitting-cases/fees/)** - View current valuation fees
 
-- **[eMortgages](https://www.skipton-intermediaries.co.uk/emortgages/)** - Online mortgage system
-- **[Buy to Let Calculator](https://www.skipton-intermediaries.co.uk/calculators/buy-to-let-calculator/)** - BTL affordability calculator
-- **[Affordability Calculator](https://www.skipton-intermediaries.co.uk/calculators/affordability-calculator/)** - Calculate maximum borrowing
-- **[Valuation Fee Scale](https://www.skipton-intermediaries.co.uk/submitting-cases/fees/)** - View current valuation fees
+**Source URL:** [https://www.skipton-intermediaries.co.uk/criteria/a-z-lending-criteria/a-z-lending-criteria-btl](https://www.skipton-intermediaries.co.uk/criteria/a-z-lending-criteria/a-z-lending-criteria-btl)
 
----
-
-**Source URL:** https://www.skipton-intermediaries.co.uk/criteria/a-z-lending-criteria/a-z-lending-criteria-btl
-
----
-
-## Main URLs
-
-- https://www.skipton-intermediaries.co.uk/calculators/affordability-calculator/
-- https://www.skipton-intermediaries.co.uk/calculators/buy-to-let-calculator/
-- https://www.skipton-intermediaries.co.uk/criteria/a-z-lending-criteria/a-z-lending-criteria-btl
-- https://www.skipton-intermediaries.co.uk/emortgages/
-- https://www.skipton-intermediaries.co.uk/submitting-cases/fees/

@@ -1,7 +1,5 @@
 # CAMBRIDGE & COUNTIES BANK – BUY TO LET (LIMITED COMPANY) CRITERIA
 
----
-
 **LENDER:** Cambridge & Counties Bank
 **PRODUCT:** Buy to Let – Limited Company (SPVs, LLPs, Corporate Borrowers)
 **DOCUMENT TYPE:** Lending Criteria
@@ -9,8 +7,6 @@
 **FOR INTERMEDIARY USE ONLY**
 
 **Source:** [Property finance – intermediaries](https://ccbank.co.uk/intermediaries/property-finance/#resi)
-
----
 
 ## SECTION 1 – GENERAL LENDING CRITERIA
 
@@ -36,8 +32,6 @@
 * Limited Liability Partnerships (LLPs).
 * Corporate borrowers must be registered in the UK or Crown dependencies.
 
----
-
 ## SECTION 2 – BUY TO LET
 
 * Available to experienced property investors only.
@@ -53,8 +47,6 @@
 * Corporate borrowers must be registered in the UK or Crown dependencies.
 * Personal guarantees requested from business owners/directors (not always mandatory).
 * Security: first legal charge on a property in England, Scotland or Wales.
-
----
 
 ## SECTION 3 – EXPAT BUY TO LET
 
@@ -72,8 +64,6 @@
 * Corporate borrowers must be registered in the UK or Crown dependencies.
 * Personal guarantees requested from business owners/directors (not always mandatory).
 * Security: first legal charge on a property in England, Scotland or Wales.
-
----
 
 ## SECTION 4 – HOLIDAY LETS
 
@@ -102,8 +92,6 @@
 * Variable rate terms: 12 months to 30 years.
 * Fixed rate terms: 3 or 5 years.
 
----
-
 ## SECTION 5 – HOUSES IN MULTIPLE OCCUPATION (HMO)
 
 * Available to experienced HMO investors in their local area only.
@@ -122,8 +110,6 @@
 * Corporate borrowers must be registered in the UK or Crown dependencies.
 * Personal guarantees requested from business owners/directors (not always mandatory).
 * Security: first legal charge on a property in England, Scotland or Wales.
-
----
 
 ## SECTION 6 – SUPPORTING DOCUMENTATION
 
@@ -146,15 +132,11 @@
 * Personal guarantees (where required).
 * Additional forms as required by the Bank.
 
----
-
 ## SECTION 7 – FEES
 
 * Valuation fee: not payable until the loan is approved.
 * Arrangement fees: may apply — refer to product-specific terms.
 * Early repayment charges: may apply — refer to product-specific terms.
-
----
 
 ## SECTION 8 – IMPORTANT NOTES
 
@@ -162,8 +144,6 @@
 * The Bank reserves the right to decline applications that do not meet lending criteria.
 * Product availability and rates are subject to change.
 * Always refer to the latest product guides or contact the property finance team for the most up-to-date information.
-
----
 
 ## SECTION 9 – CONTACT
 
@@ -173,7 +153,5 @@
 * **Website:** [Property finance](https://ccbank.co.uk/intermediaries/property-finance/)
 
 Cambridge & Counties Bank Ltd is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority. FRN: 579415. Registered Office: Charnwood Court, 5B New Walk, Leicester, LE1 6TE.
-
----
 
 *END OF DOCUMENT*

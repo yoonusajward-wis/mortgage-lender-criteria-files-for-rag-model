@@ -1,7 +1,5 @@
 # Principality Building Society – Residential Mortgage Criteria
 
----
-
 **LENDER:** Principality Building Society
 **PRODUCT:** Residential Mortgage
 **DOCUMENT TYPE:** Lending Criteria
@@ -10,13 +8,9 @@
 
 **Source:** https://www.principality.co.uk/intermediaries/our-mortgage-lending-criteria/our-full-lending-criteria
 
----
-
 ## SECTION 1 – LEGAL FEES
 
 - Where the product allows for legal fee assistance, solicitors used are Optima Legal or O'Neill Patient Solicitor (ONP).
-
----
 
 ## SECTION 2 – LOAN TO VALUE LIMITS (RESIDENTIAL PURCHASES)
 
@@ -42,8 +36,6 @@
 - Maximum LTV: 75%.
 - Maximum loan size: £750,000.
 
----
-
 ## SECTION 3 – MORTGAGE TERM
 
 - Minimum repayment term: 5 years.
@@ -54,15 +46,11 @@
 - Maximum age at end of term where any element is interest only: mortgage must be repaid on or before the eldest applicant's 70th birthday.
 - Leasehold requirement: minimum unexpired lease term at start of mortgage is 85 years.
 
----
-
 ## SECTION 4 – PRODUCT FEE
 
 - Product fee can be added to the loan if total borrowing meets the affordability calculation.
 - At 95% LTV: adding a product fee must not exceed the maximum LTV cap for the product.
 - All product fees are non-refundable and non-transferable.
-
----
 
 ## SECTION 5 – LENDING IN ENGLAND AND WALES
 
@@ -85,8 +73,6 @@
 - Regular or lump sum overpayments are allowed.
 - Overpayments above the annual allowance may incur an early repayment charge.
 
----
-
 ## SECTION 6 – VALUATIONS
 
 ### Desk Valuation
@@ -102,8 +88,6 @@ Allowed for residential purchase or remortgage applications with LTV cap of 75%,
 ### All Other Application Types
 
 - A physical valuation is required.
-
----
 
 ## SECTION 7 – FOREIGN NATIONALS
 
@@ -127,22 +111,16 @@ Allowed for residential purchase or remortgage applications with LTV cap of 75%,
 - Maximum LTV for EEA and non-EEA applicants: 95%, subject to successfully passing a credit check.
 - Strong cases up to 90% LTV outside criteria may be discussed with the local BDM.
 
----
-
 ## SECTION 8 – DEPOSIT
 
 - Deposit and purchase costs must be from the applicant's own resources.
 - Gifts from family, including step-family, are allowed.
-
----
 
 ## SECTION 9 – APPLICANT NUMBERS
 
 - Maximum number of applicants: 4.
 - All applicants' incomes are considered.
 - All 4 applicants must live at the property.
-
----
 
 ## SECTION 10 – INTEREST ONLY (RESIDENTIAL)
 
@@ -154,8 +132,6 @@ Allowed for residential purchase or remortgage applications with LTV cap of 75%,
 - Evidence of an acceptable repayment strategy with documentary proof is required.
 - All income is assessed using the standard affordability calculator on a repayment basis.
 - Capital raising for debt consolidation on an interest only basis: not acceptable.
-
----
 
 ## SECTION 11 – DEBT CONSOLIDATION
 
@@ -170,8 +146,6 @@ Allowed for residential purchase or remortgage applications with LTV cap of 75%,
 **Proof of Address:**
 - If the applicant is not on the electoral register, proof of address is required for the last 3 years.
 - UK address required.
-
----
 
 ## SECTION 12 – JOINT BORROWER SOLE PROPRIETOR (JBSP)
 
@@ -191,15 +165,11 @@ Allowed for residential purchase or remortgage applications with LTV cap of 75%,
 - Sponsor cannot live in the property.
 - Available for purchase only — remortgage applications are not acceptable.
 
----
-
 ## SECTION 13 – FORCES HELP TO BUY
 
 - Applications from armed forces personnel are allowed.
 - Confirmation document from employer is required.
 - Any scheme loan repayment or required residence costs must be included as expenditure in the affordability calculation.
-
----
 
 ## SECTION 14 – LET TO BUY
 
@@ -209,8 +179,6 @@ Allowed for residential purchase or remortgage applications with LTV cap of 75%,
 **Rental coverage requirements:**
 - 5-year fixed products: 145% of monthly mortgage payment at 5.50%.
 - 2-year fixed products: 7.65% as rental coverage.
-
----
 
 ## SECTION 15 – AFFORDABLE HOUSING SCHEMES
 
@@ -229,8 +197,6 @@ Allowed for residential purchase or remortgage applications with LTV cap of 75%,
 ### Shared Equity
 
 - Rent must be included as a cost in the affordability assessment.
-
----
 
 ## SECTION 16 – AGE LIMITS (RESIDENTIAL)
 
@@ -253,8 +219,6 @@ If retirement is more than 10 years away AND the term does not extend beyond age
 
 In all other circumstances:
 - Affordability assessed based on projected pension income.
-
----
 
 ## SECTION 17 – PROPERTY TYPES
 
@@ -289,8 +253,6 @@ In all other circumstances:
 
 - Properties with a restricted occupancy clause (Section 157 or 106).
 
----
-
 ## SECTION 18 – PORTING
 
 ### Early Repayment Charge Waiver
@@ -309,7 +271,5 @@ An ERC waiver is allowed if:
 ### Additional Borrowing
 
 - Must be on a separate non-flexible product from the current range.
-
----
 
 *END OF DOCUMENT*

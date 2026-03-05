@@ -1,7 +1,5 @@
 # VERNON BUILDING SOCIETY – COMBINED LENDING CRITERIA
 
----
-
 **LENDER:** Vernon Building Society
 **PRODUCT:** Residential, Buy-to-Let, Buy for Uni & Specialist
 **DOCUMENT TYPE:** Combined Lending Criteria
@@ -10,23 +8,17 @@
 **FOR INTERMEDIARY USE ONLY**
 **CONTACT:** [intermediaries@thevernon.co.uk](mailto:intermediaries@thevernon.co.uk)
 
----
-
 # GENERAL INFORMATION
 
 ## GEOGRAPHICAL RESTRICTIONS
 
 Property to be used as security must be in England or Wales.
 
----
-
 ## SOLICITORS
 
 The borrower’s solicitor can provide dual representation providing practice is at least a dual partnership and where Law Society guidelines permit joint representation.
 
 Solicitors acting for the Society must have professional qualifications and professional indemnity insurance of at least £1m (or the amount of the loan or higher).
-
----
 
 # CREDIT AND ELIGIBILITY
 
@@ -50,15 +42,11 @@ In all cases, the enquiry should initially be referred to the Intermediary Sales
 
 A Decision in Principle can only be obtained following a satisfactory credit report by the Society.
 
----
-
 ## GIFTED DEPOSIT
 
 Accepted.
 
 A Signed Gift Declaration confirming that the gifted deposit is non-repayable is required.
-
----
 
 ## GUARANTOR MORTGAGES
 
@@ -70,8 +58,6 @@ Minimum age – 25.
 Maximum age - <86 at the end of the mortgage term.
 
 Not available in use with Buy for Uni.
-
----
 
 ## JOINT BORROWER SOLE PROPRIETOR
 
@@ -85,22 +71,16 @@ Affordability Assessment must show the younger borrower can meet at least 50% of
 
 We require a plausible explanation as to how the youngest borrower will be able to take over the mortgage in the next 5-10 years.
 
----
-
 # RESIDENTIAL MORTGAGES
 
 ## RESIDENTIAL – MINIMUM VALUATION
 
 £140,000.
 
----
-
 ## RESIDENTIAL – MINIMUM LOAN AMOUNT
 
 New mortgage - £25,000.
 Further advance - £5,000.
-
----
 
 ## RESIDENTIAL – MAXIMUM TERM
 
@@ -108,13 +88,9 @@ Further advance - £5,000.
 25 years (Interest-Only).
 25 years (Part & Part).
 
----
-
 ## RESIDENTIAL – MINIMUM TERM
 
 5 years.
-
----
 
 ## RESIDENTIAL – MAXIMUM AGE AT TERM END (OLDEST BORROWER)
 
@@ -122,13 +98,9 @@ No maximum age (subject to LTV & term).
 
 For Interest-Only, must use Sale of Mortgaged Property/Downsizing as repayment vehicle.
 
----
-
 ## RESIDENTIAL – MAXIMUM APPLICANTS
 
 Up to 4 applicants accepted.
-
----
 
 ## RESIDENTIAL – MAXIMUM LOAN AMOUNTS
 
@@ -142,13 +114,9 @@ For loans between 85-90% LTV, the maximum loan amount is £450,000.
 
 For loans between 90-95% LTV, the maximum loan amount is £350,000.
 
----
-
 ## RESIDENTIAL – CAPITAL RAISING
 
 Accepted for personal expenditure, acquisition of an asset or providing a cash gift.
-
----
 
 ## RESIDENTIAL – DEBT CONSOLIDATION
 
@@ -166,40 +134,28 @@ Not permitted for:
 * Gambling debts
 * Settlement of debt arising from providing 'called upon' guarantee or surety against loss
 
----
-
 # BUY TO LET
 
 ## BUY TO LET – MINIMUM VALUATION
 
 £140,000.
 
----
-
 ## BUY TO LET – MINIMUM LOAN AMOUNT
 
 New lending £50,000.
 Further advance £5,000.
 
----
-
 ## BUY TO LET – MAXIMUM LOAN AMOUNT
 
 £1,800,000 (consolidated).
-
----
 
 ## BUY TO LET – MAXIMUM TERM
 
 35 years.
 
----
-
 ## BUY TO LET – MINIMUM TERM
 
 5 years.
-
----
 
 ## BUY TO LET – MAX AGE AT TERM END
 
@@ -211,19 +167,13 @@ No maximum age where:
 * ICR met with no personal income required
 * 3rd party property management arrangements demonstrated
 
----
-
 ## BUY TO LET – MAXIMUM APPLICANTS
 
 Up to 4 applicants.
 
----
-
 ## BUY TO LET – DEBT CONSOLIDATION
 
 Not accepted.
-
----
 
 ## BUY TO LET – PARTIAL BUSINESS USE
 
@@ -234,13 +184,9 @@ Accepted subject to:
 * Residential parking provision where appropriate
 * Rent from residential area must be minimum 75% of stressed ICR (Interest-Only basis)
 
----
-
 ## BUY TO LET – HMO
 
 Please refer to Intermediary team.
-
----
 
 ## BUY TO LET – PURPOSE
 
@@ -254,13 +200,9 @@ FIRST-TIME LANDLORDS:
 
 Knowledge and experience considered. Underwriters assess competency.
 
----
-
 ## BUY TO LET – MINIMUM AGE
 
 18 years old.
-
----
 
 ## BUY TO LET – MINIMUM INCOME
 
@@ -268,22 +210,16 @@ No minimum income required.
 
 Rationale required explaining how mortgage will be maintained during voids.
 
----
-
 ## BUY TO LET – REGULATED
 
 Accepted.
 
 Must fit residential affordability calculator including existing commitments/living costs.
 
----
-
 ## BUY TO LET – MAXIMUM LTV
 
 75% LTV – £1m.
 70% LTV – £1.8m.
-
----
 
 ## BUY TO LET – INTEREST COVERAGE RATIO (ICR)
 
@@ -308,19 +244,13 @@ Buy-to-Let Limited Company (HMO):
 Buy-to-Let Personal (HMO) (Basic Rate Taxpayer):
 150% at stressed rate 7.60% (or pay rate if 5-year fixed)
 
----
-
 ## BUY TO LET – TENANCY AGREEMENT
 
 Minimum AST of 6 months accepted.
 
----
-
 ## BUY TO LET – PORTFOLIO LANDLORDS
 
 Portfolios exceeding 4 properties subject to approval.
-
----
 
 ## BUY TO LET – AFFORDABILITY
 
@@ -329,8 +259,6 @@ Actual costs used to assess affordability assuming stressed rate and future tax 
 Other earned income can be considered.
 
 Full income and expenditure required.
-
----
 
 # HOLIDAY LET
 
@@ -347,33 +275,23 @@ The letter must be appropriately composed from a holiday letting agent with comp
 
 The last 2 years accounts showing income and expenditure generated from the holiday let.
 
----
-
 # BUY FOR UNI
 
 ## BUY FOR UNI – MINIMUM VALUATION
 
 £125,000.
 
----
-
 ## BUY FOR UNI – MINIMUM LOAN AMOUNT
 
 £125,000.
-
----
 
 ## BUY FOR UNI – MAXIMUM TERM
 
 25 years.
 
----
-
 ## BUY FOR UNI – MINIMUM TERM
 
 5 years.
-
----
 
 ## BUY FOR UNI – MINIMUM AGE
 
@@ -392,13 +310,9 @@ Mortgage term must not extend beyond the earlier of:
 
 (i.e., term maturity before age 76)
 
----
-
 ## BUY FOR UNI – MAXIMUM APPLICANTS
 
 Up to 4 applicants.
-
----
 
 ## BUY FOR UNI – MAXIMUM LOAN AMOUNTS
 
@@ -408,27 +322,19 @@ Maximum cash sum accepted as collateral/additional security: £80,000.
 
 Maximum loan consequently restricted to £400,000 where collateral used.
 
----
-
 ## BUY FOR UNI – CAPITAL RAISING
 
 Not accepted.
 
----
-
 ## BUY FOR UNI – DEBT CONSOLIDATION
 
 Not accepted.
-
----
 
 ## BUY FOR UNI – MAXIMUM LTV
 
 100%.
 
 Any LTV exceeding 80% requires additional security from a parent.
-
----
 
 ## BUY FOR UNI – BORROWERS
 
@@ -443,8 +349,6 @@ Youngest borrower (property owner) must:
 
 Course details must be disclosed.
 
----
-
 ## BUY FOR UNI – PROPERTY
 
 Property must be within 10 miles of the University being studied at.
@@ -452,20 +356,14 @@ Property must be within 10 miles of the University being studied at.
 Flats not acceptable.
 HMOs not acceptable.
 
----
-
 ## BUY FOR UNI – ROOMS
 
 Minimum 2 bedrooms.
 Maximum 4 bedrooms.
 
----
-
 ## BUY FOR UNI – LODGERS
 
 Maximum of 3 lodgers accepted in addition to the applicant.
-
----
 
 ## BUY FOR UNI – AFFORDABILITY
 
@@ -476,8 +374,6 @@ If rental income does not fully support the loan:
 Affordability assessment conducted on parental borrowers.
 
 Student maintenance grants can be included as income.
-
----
 
 ## BUY FOR UNI – DEPOSIT / SECURITY
 
@@ -497,15 +393,11 @@ If property charge provided:
 
 Must equal the amount of loan exceeding 75% of property value/price.
 
----
-
 ## BUY FOR UNI – PURPOSE
 
 Purchase only accepted.
 
 Re-mortgage not accepted.
-
----
 
 # INTEREST-ONLY
 
@@ -522,8 +414,6 @@ At least 50% of total loan must be on Capital & Interest.
 
 If LTV is 60% or below, there is no minimum percentage requirement for Capital & Interest.
 
----
-
 ## INTEREST-ONLY – REPAYMENT VEHICLES
 
 * Regular savings plan (current value must be at least 50% of loan amount)
@@ -532,8 +422,6 @@ If LTV is 60% or below, there is no minimum percentage requirement for Capital &
 * Sale of mortgaged property (property valued at minimum £450k and plausible downsize plan required)
 
 The Society will review any proposed repayment plan for plausibility.
-
----
 
 # RETIREMENT – ASSESSMENT CONSIDERATIONS
 
@@ -550,8 +438,6 @@ Underwriting approach:
 
 Affordability based on earned income.
 
----
-
 ## <10 YEARS TO RETIREMENT
 
 Period: <10 years to retirement and/or loan extends >5 years beyond retirement.
@@ -563,8 +449,6 @@ Proof required:
 Underwriting approach:
 
 Affordability based on lower of earned or pension income.
-
----
 
 ## ALREADY IN RETIREMENT
 
@@ -578,8 +462,6 @@ Based on pension income.
 
 Consideration given to whether index linked depending on circumstance.
 
----
-
 # RETIREMENT – PRODUCT ELIGIBILITY
 
 ## AGE 75 OR UNDER AT MATURITY
@@ -587,15 +469,11 @@ Consideration given to whether index linked depending on circumstance.
 Capital & Interest = Standard products.
 Interest-Only = Standard products.
 
----
-
 ## AGE 76–85 AT MATURITY
 
 Capital & Interest = Standard products.
 Interest-Only not using sale of mortgaged property = Standard products.
 Interest-Only using sale of mortgaged property = RIO products.
-
----
 
 ## AGE 85 OR ABOVE AT MATURITY
 
@@ -605,14 +483,10 @@ Interest-Only not using sale of mortgaged property = Standard products (Maximum 
 
 Interest-Only using sale of mortgaged property = RIO products.
 
----
-
 ## RETIREMENT INTEREST-ONLY (RIO)
 
 Minimum age: 55 years old.
 Maximum LTV: 50%.
-
----
 
 # SELF-BUILD
 
@@ -620,16 +494,12 @@ Maximum LTV: 50%.
 
 80% LTV.
 
----
-
 ## SELF-BUILD – MAXIMUM LOAN AMOUNT
 
 £1,000,000 maximum up to 80% LTV.
 £1,800,000 maximum up to 70% LTV.
 
 Cases exceeding limits may be referred.
-
----
 
 ## SELF-BUILD – BUILD STAGES
 
@@ -639,8 +509,6 @@ Cases exceeding limits may be referred.
 * Wind and water-tight
 * First fix and plastering
 * Second fix to completion
-
----
 
 ## SELF-BUILD – STAGE RELEASES
 
@@ -658,8 +526,6 @@ Stage inspection and sign off required by:
   OR
 * Architect stage sign off
 
----
-
 ## SELF-BUILD – DOCUMENTATION
 
 * Plans and elevations
@@ -671,8 +537,6 @@ Stage inspection and sign off required by:
 * Evidence of capital available
 * Details of residence during project
 
----
-
 ## SELF-BUILD – COMMERCIAL USE
 
 No more than 20% commercial use.
@@ -681,15 +545,11 @@ Business rates not payable.
 
 Properties above or adjacent to commercial premises may be considered – refer to Intermediary team.
 
----
-
 ## SELF-BUILD – AFFORDABILITY
 
 Where funds are ringfenced and designated to cover monthly mortgage/rental costs and specific property costs (utilities, council tax etc), these can be ignored for affordability.
 
 Maximum allowed: £2,000 per month for duration of expected build.
-
----
 
 # PROPERTY
 
@@ -697,15 +557,11 @@ Maximum allowed: £2,000 per month for duration of expected build.
 
 No restriction on property age.
 
----
-
 ## PROPERTY – TENURE
 
 Freehold accepted.
 
 Leasehold accepted – minimum of 50 years remaining at the end of the mortgage term.
-
----
 
 ## PROPERTY – FLATS / MAISONETTES
 
@@ -718,15 +574,11 @@ Discretion permitted up to properties with 10 floors subject to:
 * Minimum value of £250,000 outside London
 * Minimum value of £350,000 within London
 
----
-
 ## PROPERTY – STUDIO FLATS
 
 Accepted subject to minimum floor area of 39 square meters.
 
 Must comply with Government Technical Housing Standards – Nationally Described Space Standard.
-
----
 
 ## PROPERTY – EWS1
 
@@ -736,8 +588,6 @@ Buildings with 5–6 storeys: May require EWS1 only where specific concern ident
 
 Buildings over 18m (typically 6 storeys): EWS1 required and stated in valuation report.
 
----
-
 ## PROPERTY – CONSTRUCTION TYPE
 
 All standard construction types accepted subject to:
@@ -746,8 +596,6 @@ All standard construction types accepted subject to:
 * Insurability
 
 Non-standard construction must be referred to Intermediary Team.
-
----
 
 ## PROPERTY – GENERALLY UNACCEPTABLE SECURITY
 
@@ -775,16 +623,12 @@ Generally not permitted:
 
 Discretion may be given on non-standard construction types subject to satisfactory valuer’s comments and insurability.
 
----
-
 ## PROPERTY – FLYING FREEHOLD
 
 Discretion permitted subject to:
 
 * Valuer’s comments
 * Rights of access for essential / routine maintenance
-
----
 
 ## PROPERTY – RIGHT TO BUY
 
@@ -795,13 +639,9 @@ Permitted 100% of concession price plus product fee subject to:
 * Applicants registered on voters roll at security for minimum 3 years
 * Local authority flats / maisonettes not permitted
 
----
-
 ## PROPERTY – EPC RATING
 
 Minimum rating of E (Buy to Let only).
-
----
 
 # EMPLOYMENT AND INCOME
 
@@ -821,8 +661,6 @@ Income evidence required:
 
 Accounts must be prepared or certified by qualified accountant.
 
----
-
 ## SELF-EMPLOYED – ACCEPTABLE ACCOUNTANCY BODIES
 
 * A.C.A or F.C.A
@@ -837,8 +675,6 @@ Accounts must be prepared or certified by qualified accountant.
 * C.P.F.A
 * C.A
 
----
-
 ## SELF-EMPLOYED – LIMITED COMPANY DIRECTORS
 
 Shareholding must be >20%.
@@ -849,8 +685,6 @@ Average of last two years:
 * Directors’ remuneration
 
 Evidenced by two years audited accounts and tax computations.
-
----
 
 ## SELF-EMPLOYED – SUB-CONTRACTORS
 
@@ -868,8 +702,6 @@ Discretion permitted with minimum 12 months contracting history if previously pe
 
 CIS workers treated as self-employed.
 
----
-
 ## SELF-EMPLOYED – PROFESSIONAL CONTRACTORS
 
 Maximum LTV capped at 80%.
@@ -886,8 +718,6 @@ Gross income calculation:
 
 Daily rate × days worked × 46 weeks.
 
----
-
 ## EMPLOYMENT – MINIMUM EMPLOYMENT PERIOD
 
 Minimum 3 months with current employer.
@@ -896,13 +726,9 @@ Less may be considered by referral.
 
 12 months continuous employment required.
 
----
-
 ## EMPLOYMENT – PROBATION
 
 Confirmation of probation period required from employer before completion.
-
----
 
 # ACCEPTED INCOME
 
@@ -915,23 +741,17 @@ Required:
 * 3 months’ payslips
 * Most recent P60
 
----
-
 ## GUARANTEED REGULAR INCOME
 
 100% accepted.
 
 3 months’ payslips and most recent P60 required.
 
----
-
 ## CAR ALLOWANCE
 
 100% accepted (3 months history required).
 
 3 months’ payslips and most recent P60 required.
-
----
 
 ## LARGE TOWN ALLOWANCE
 
@@ -941,15 +761,11 @@ Required:
 
 3 months’ payslips and most recent P60 required.
 
----
-
 ## GUARANTEED SHIFT ALLOWANCE
 
 50% accepted.
 
 3 months’ payslips and most recent P60 required.
-
----
 
 ## ZERO HOURS CONTRACTS
 
@@ -959,8 +775,6 @@ Minimum 12 months history required.
 
 12 months’ payslips and most recent P60 required.
 
----
-
 ## AGENCY WORKERS
 
 100% accepted.
@@ -968,8 +782,6 @@ Minimum 12 months history required.
 Minimum 12 months history required.
 
 3 months’ payslips and most recent P60 required.
-
----
 
 ## SECONDARY EMPLOYMENT
 
@@ -979,8 +791,6 @@ Minimum 12 months history required.
 
 3 months’ payslips and most recent P60 required.
 
----
-
 ## SEASONAL
 
 Accepted subject to 3-year history.
@@ -989,8 +799,6 @@ Up to 100% used with 3 years P60s.
 
 3 months’ payslips and most recent P60 required.
 
----
-
 ## FIXED-TERM CONTRACTS
 
 100% accepted.
@@ -998,8 +806,6 @@ Up to 100% used with 3 years P60s.
 Minimum 12 months history in same occupation required.
 
 3 months’ payslips and most recent P60 required.
-
----
 
 ## MATERNITY PAY
 
@@ -1012,8 +818,6 @@ Not accepted as sole applicant unless returning to work before completion.
 
 3 months’ payslips and most recent P60 required.
 
----
-
 # NON-GUARANTEED INCOME
 
 ## REGULAR OVERTIME
@@ -1022,15 +826,11 @@ Not accepted as sole applicant unless returning to work before completion.
 
 100% if 3 years history provided (refer to Intermediary team).
 
----
-
 ## BONUS
 
 50% as secondary applicant.
 
 100% if 3 years history provided (refer to Intermediary team).
-
----
 
 ## ALLOWANCES
 
@@ -1038,15 +838,11 @@ Not accepted as sole applicant unless returning to work before completion.
 
 100% if 3 years history provided (refer to Intermediary team).
 
----
-
 ## NON-CONTRACTED SHIFT ALLOWANCE
 
 50% as secondary applicant.
 
 100% if 3 years history provided (refer to Intermediary team).
-
----
 
 # OTHER INCOME
 
@@ -1054,15 +850,11 @@ Not accepted as sole applicant unless returning to work before completion.
 
 50% accepted.
 
----
-
 ## INCAPACITY BENEFIT
 
 50% accepted if received minimum 6 months.
 
 Up to 100% accepted subject to DWP confirmation of indefinite payment.
-
----
 
 ## EMPLOYMENT & SUPPORT ALLOWANCE
 
@@ -1070,55 +862,37 @@ Up to 100% accepted subject to DWP confirmation of indefinite payment.
 
 Up to 100% accepted subject to DWP confirmation of indefinite payment.
 
----
-
 ## INCOME SUPPORT
 
 Not accepted.
-
----
 
 ## UNIVERSAL CREDIT
 
 Not accepted.
 
----
-
 ## WORKING TAX CREDIT
 
 50% accepted (subject to age of children).
-
----
 
 ## CARER’S ALLOWANCE
 
 100% accepted (track record and evidence of continuity required).
 
----
-
 ## FOSTER CARER’S ALLOWANCE
 
 50% accepted (minimum 2 years track record).
-
----
 
 ## CHILD TAX CREDIT
 
 50% accepted (subject to age of children).
 
----
-
 ## CHILD BENEFIT
 
 50% accepted (subject to age of children).
 
----
-
 ## FROM FAMILY LIVING IN PROPERTY BUT NOT ON MORTGAGE
 
 Not accepted.
-
----
 
 ## INCOME FROM NON-FAMILY LODGER
 
@@ -1126,21 +900,15 @@ Not accepted.
 
 100% accepted with 2 years history.
 
----
-
 ## PROPERTY RENTAL INCOME
 
 Mortgaged property – assessed under ICR.
 
 Un-encumbered property – 80% of tax computation accepted.
 
----
-
 ## PENSION
 
 100% accepted.
-
----
 
 ## MAINTENANCE
 
@@ -1149,8 +917,6 @@ Un-encumbered property – 80% of tax computation accepted.
 100% accepted subject to court order remaining minimum 5 years.
 
 Not accepted as sole income.
-
----
 
 # DOCUMENTATION
 
@@ -1167,15 +933,11 @@ Documents dated within required timeframe:
 
 (List preserved exactly as supplied)
 
----
-
 ## PROOF OF INCOME / EXPENDITURE
 
 Documentary evidence varies dependent upon case.
 
 Affordability calculator determines requirements.
-
----
 
 ## ADDITIONAL DOCUMENTS
 
@@ -1188,7 +950,5 @@ Affordability calculator determines requirements.
 * Building work estimates and planning permission approval
 * AST and lender approval to let (where Buy to Let exists)
 * Payment of fees
-
----
 
 # END OF DOCUMENT

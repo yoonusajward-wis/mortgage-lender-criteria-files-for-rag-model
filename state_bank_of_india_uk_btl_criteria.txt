@@ -1,768 +1,1702 @@
-LENDER NAME: State Bank Of India Uk
-PRODUCT: Buy to Let
+# STATE BANK OF INDIA UK – BTL LENDING CRITERIA
 
-# State Bank of India UK - Buy-to-Let Mortgage Lending Criteria
+**LENDER:** State Bank of India UK
+**PRODUCT:** Buy to Let
+**LAST UPDATED:** 2025
+**SOURCE:** State Bank of India UK
+**FOR INTERMEDIARIES ONLY**
 
-**Last Updated:** 2025
-**Source:** State Bank of India UK
-**For Intermediaries Only**
+# Accountants Qualifications
 
----
+The following post-nominal accountancy qualifications are acceptable for preparation of certified accounts by the company accountant:
 
-## Document Information
+ICAEW
+ICAS
+CAI
+ACCA
+AIA
+AAPA
+CIPFA
+CIMA
+CIOT
+AAT
+IFA
+ATT
 
-This document contains comprehensive buy-to-let lending criteria for State Bank of India UK.
+# Adverse Credit
 
-**Website:** https://sbi-prod.azurewebsites.net/Portal/PreLogon/Logon
-**Website:** https://sbiuk.statebank/btl-criteria
-**Website:** https://sbiuk.statebank/btl-literature
+SBI UK will not accept an application if there is history of any of the following:
 
----
+Bankruptcy
+Administration Orders
+Debt Relief Orders
+Repossessions
+Payment Arrangements
+Debt Management Programmes
+Individual Voluntary Arrangements (IVA)
+Company Voluntary Arrangements (CVA)
 
-## Table of Contents
+**CCJ/Default**
 
-This guide contains 136 criteria sections organized by topic:
+SBI UK will accept applications with CCJ's/Defaults under the following scenario:
 
+Where cases of one satisfied CCJ’s/one satisfied defaults up to GBP 2500 and outstanding defaults of up to £250 exist, subject to receipt of a detailed, “satisfactory” explanation outlining the circumstances of the CCJ/default.
 
-### General Information
+**Payment Arrears (Not including mortgage arrears)**
 
-9. CASE SUBMISSION
-63. LOCATION
-76. LOCATION
-79. MORTGAGE OFFER
-83. PORTABILITY
-88. PROCURATION FEE
-91. PROPERTY - LOCATION
-109. RETENTIONS
-113. SPV/LTD CO - LOCATION OF COMPANY
+Any late or missed payments can be considered in the context of the case. Refer to BDM.
 
-### Applicant Requirements
+**Mortgage Arrears**
 
-3. AGE REQUIREMENTS
-21. EX-PATS
-24. FIRST TIME BUYERS
-25. FIRST TIME LANDLORDS
-26. FOREIGN EMBASSY STAFF & DIPLOMATS
-27. FOREIGN NATIONALS
-68. IDENTITY/KYC REQUIREMENTS
-77. MAXIMUM NUMBER OF BORROWERS
-81. NON-UK NATIONALS
-82. NON-UK RESIDENTS
-108. RESIDENCY
+If the credit search or mortgage statement provided reveals no more than one missed or late mortgage payment this can be considered in the context of the application but must be supported by:
 
-### Income and Employment
+An explanation from the customer
+Evidence that the late/missed payment did not occur as a result of an inability to pay
 
-12. CONSULTANTS/CONTRACTORS
-18. EMPLOYMENT PERIOD
-19. EMPLOYMENT STATUS
-30. INCOME REQUIREMENT
-47. MINIMUM INCOME
-70. INCOME
-71. INCOME TYPES
-104. RENTAL INCOME
-110. RETIRED APPLICANTS
-119. SELF EMPLOYED - APPLICANTS
-120. SELF EMPLOYED - LTD CO SHAREHOLDER
-121. SELF EMPLOYED - PARTNERSHIP
-122. SELF EMPLOYED - SOLE TRADER
-135. UNEARNED INCOME
-136. WORKING FOR FAMILY
+Evidence is expected in the form of bank statements showing sufficient funds were available at the time.
 
-### Credit History
+**Payment Holidays**
 
-2. ADVERSE CREDIT
-8. CCJS/DEFAULTS
-78. MORTGAGE ARREARS
+SBI UK will consider applications where payment holiday took place on account of COVID19.
 
-### Deposits
+Underwriters will ensure applicants are not facing financial difficulty.
 
-7. BUILDERS DEPOSITS & SALES INCENTIVES
-15. DEPOSIT
-40. GIFTED DEPOSIT
-69. INCENTIVES
+Where the property is subject to a payment holiday:
 
-### Loan Details
+Release of funds will be subject to evidence rental income has restarted.
 
-4. AGGREGATE BORROWING
-22. EXPOSURE
-32. LTV RESTRICTIONS
-37. FURTHER ADVANCE APPLICATIONS
-44. MAXIMUM LTV
-73. LARGE LOANS
-74. LET TO BUY
-75. LOAN TO VALUE (LTV)
-105. REPAYMENT METHODS
-106. REPAYMENT STRATEGY (INTEREST ONLY)
-132. TERM OF REPAYMENT
+Portfolio stress calculations:
 
-### Property Types
+Mortgage payment will be considered
+Rent will only be considered if actually received
 
-20. EX-LOCAL AUTHORITY
-89. PROPERTY - CONSTRUCTION
-90. PROPERTY - FLATS
-92. PROPERTY - MULTIPLE UNITS
-93. PROPERTY - NEW BUILD
-94. PROPERTY - TENURE
-95. PROPERTY - UNACCEPTABLE
-96. PROPERTY - VALUE
-97. PROPERTY CONCENTRATION
-98. PROPERTY INVESTMENT CLUB
+**Members Voluntary Liquidation (MVL)**
 
-### Rental and Affordability
+SBI UK will accept application from customers who opted into MVL subject to satisfactory reason.
 
-33. ICR
-50. ICR
-51. ICR STRESS
-101. RENTAL COVER ASSESSMENT
-102. RENTAL COVERAGE (SPECIALIST PRODUCTS)
-103. RENTAL COVERAGE (STANDARD PRODUCTS)
+# Age Requirements
 
-### Special Products
+Minimum Age: 21 years at application
 
-13. CONSUMER BUY TO LET
-38. GREEN MORTGAGES
-41. HMO
-42. HOLIDAY LETS
-60. NON HMO/MUFB
+Maximum Age: Applicants age must not exceed 80 years at the end of the mortgage term.
 
-### Company and SPV
+**Joint Applications**
 
-10. COMPANY APPLICATIONS (SPV/LLP)
-11. COMPANY CRITERIA (SPV/LLP)
-111. SPV/LTD CO - BUSINESS ACTIVITIES
-112. SPV/LTD CO - INDIVIDUAL TO SPV TRANSFER
-114. SPV/LTD CO - NEWLY FORMED COMPANIES
-115. SPV/LTD CO - NO OF DIRECTORS/MEMBERS
-116. SPV/LTD CO - SECURITY & REGISTRATION OF CHARGES
-117. SPV/LTD CO – GROUP STRUCTURE
+All applicants must satisfy minimum and maximum age criteria.
 
-### Tenancy
+**SPV Applications**
 
-55. TENANCY
-124. TENANCY
-125. TENANCY AGREEMENT
-126. TENANCY AGREEMENT - COMPANY LET
-127. TENANCY AGREEMENT - HIGH RENT TENANCIES
-128. TENANCY AGREEMENT - HOUSING ASSOCIATION/COUNCIL
-129. TENANCY AGREEMENT - UNACCEPTABLE TYPE
-130. TENANCY AGREEMENT – ASSURED SHORTHOLD TENANCY
+Accept SPV applications where the loan term exceeds one or more applicants’ 80th birthday provided:
 
-### Transactions
+One or more remaining applicants is under age 80 at end of term
+Remaining applicant meets income requirements
+Remaining applicant holds at least 25% stake in SPV
 
-5. ARMS-LENGTH TRANSACTIONS
-6. BACK TO BACK TRANSACTIONS
-80. NON ARMS LENGTH
-87. PRIVATE SALES
-107. REPLACEMENT PROPERTY
-118. SALE AND RENT/SALE AND LEASE
-123. SUB-SALES
-134. UNDERVALUE TRANSACTIONS
+# Aggregate Borrowing
 
-### Portfolio
+Maximum total borrowing: £5,000,000 per client (personal name and/or SPV, LTD, LLP)
 
-84. PORTFOLIO LANDLORD (DEFINITION)
-85. PORTFOLIO LANDLORD (REQUIREMENTS)
+Existing customers:
+
+Maximum exposure £7 million subject to 12 months satisfactory repayment history.
+
+Borrowing above £5 million:
+
+Restricted to 60% LTV.
+
+Maximum loan: £3,000,000
+
+# Arms-Length Transactions
+
+Arms-Length Transactions are preferred.
+
+Non-Arm’s length/Private Sales permitted subject to:
+
+Maximum 5% variation of Open Market Value.
+
+**Individual to SPV Transfers**
+
+Permitted subject to:
+
+Minimum 6 months ownership
+Solicitor confirmation of purchase structure
+Stamp duty confirmation
+Insolvency indemnity policy
+Purchase price aligned with valuation
+Existing owners must be shareholders/directors
+Directors loan requires Subordination Deed
+
+# Back To Back Transactions
+
+- SBI UK will only consider a remortgage application once:
+
+- A clear Land Registry search has been conducted by SBI UK evidencing the applicant's ownership of the property; or
+- Sight of TR1 to confirm registration has been submitted.
+
+- SBI UK will accept remortgage applications where ownership is less than 6 months. In these cases:
+
+- The purchase price and cost of improvement will be considered for LTV purposes; or
+- The value given by the valuer will be used;
+- Whichever is lower will apply.
+
+- A special condition must be added to the mortgage offer requiring the acting solicitor to:
+
+- Confirm property ownership; and
+- Ensure the applicant’s name is updated upon completion with a sole charge registered in favour of SBI UK.
+
+- For new purchase applications:
+
+- The existing vendor must have owned the property for a minimum of 6 months.
+- Exception: New build properties which have not yet been registered at the Land Registry.
+
+# Builders Deposits & Sales Incentives
+
+- The total amount of any builder or developer sales incentives must be:
+
+- Discounted from the purchase price; or
+- Discounted from the valuation (unless already discounted by the valuer);
+- When calculating the maximum loan available.
+
+# CCJs/Defaults
+
+- SBI UK will accept applications with CCJs/Defaults under the following scenario:
+
+- One satisfied CCJ/default up to £2,500; AND
+- Outstanding defaults up to £250.
+
+- In all cases:
+
+- SBI UK must be made aware of the exact reasons why the CCJ/default has been registered.
+- Six months bank statements must be provided as evidence that there are no issues with the applicant’s cash flow.
+
+# Case Submission
+
+- All applications must be submitted electronically.
+- A signed application form must also be provided.
+- All supporting documentation must be included.
+- Access to the online system is available at:
+
+- [https://sbi-prod.azurewebsites.net/Portal/PreLogon/Logon](https://sbi-prod.azurewebsites.net/Portal/PreLogon/Logon)
+
+# Company Applications (SPV/LLP)
+
+- Applications will be accepted from:
+
+- UK incorporated Limited Companies; or
+- Limited Liability Partnerships.
+
+- The sole activity must be:
+
+- Purchase and/or remortgage of residential property for letting.
+
+- All shareholding directors (Companies), partners (Partnerships), or members (LLP or others):
+
+- Must be named on the application.
+
+- A minimum of 75% of shareholders:
+
+- Must be applicants for the Buy to Let mortgage.
+
+- SBI UK requires:
+
+- All applicants to have the correct board authorisations to conduct the transaction.
+
+# Company Criteria (SPV/LLP)
+
+- Lending can only be considered to:
+
+- Ltd Companies; or
+- LLP Companies.
+
+- SBI UK will not lend to:
+
+- Trusts;
+- Offshore Companies;
+- Any similar structures.
+
+- Maximum of four applicants permitted.
+
+- Business type must be:
+
+- Purchase/remortgage and letting of properties in the UK.
+- Evidenced by trading accounts and SIC code recorded at Companies House.
+
+- The business must:
+
+- Have been profitable for the last 2 years; and
+- Have a clear credit history.
+- Exception: Newly formed companies.
+
+- SPV Group Structures:
+
+- Parent Company Application:
+
+  - If the parent company meets the SIC code criteria, subsidiaries may have different SIC codes.
+  - This is acceptable provided the subsidiary does not control the parent company operations and funds.
+
+- Subsidiary Company Application:
+
+  - All companies within the Group must be in the same line of business.
+  - Directors and shareholders must be named applicants on the loan proposal.
+  - Shareholding percentage need not be identical across group companies, provided shareholders are the same.
+
+# Consultants / Contractors
+
+- Contract workers are accepted under the following criteria:
+
+### 12 Months or More
+
+- Current contract must have at least 3 months remaining at the time of full mortgage application; or
+- Evidence of a new or renewed contract for 12 months.
+- Previous contract(s) must be provided demonstrating continuous employment for 12 months.
+
+### 6 to 12 Months
+
+- Current contract must have at least 3 months remaining; or
+- Evidence of a new or renewed contract.
+- Previous contract(s) must be provided demonstrating continuous employment for 12 months.
+- Income must be a minimum of £50,000 gross (annualised).
+
+### Less than 6 Months
+
+- Not acceptable.
+
+- SBI UK will not accept applicants under the following contract types:
+
+- Seasonal Contract
+- Zero Hours Contract (Piecework)
+- Agency Staff
+- Part Time Contracts
+- Fixed Term Contracts below 6 months
+
+- Self-Employed Contractors:
+
+- Where income is derived from own business and turnover is solely from third party contracts:
+
+  - Applicant will be assessed under contractor rules above;
+  - Not treated as self-employed.
+- Example: IT Industry Professionals.
+
+# Consumer Buy To Let
+
+- SBI UK does not accept any mortgage application that could be classified as a Consumer BTL.
+
+# Criminal Convictions
+
+- SBI UK will not accept any application where:
+
+- The applicant (Director, Shareholder, or sole applicant); or
+- A financial associate;
+- Has a criminal conviction or prosecution pending.
+
+- Exception:
+
+- The conviction or pending prosecution is for a minor traffic offence; or
+- The conviction is considered “spent” under the Rehabilitation of Offenders Act 1974.
+
+# Deposit
+
+- Where a property is being purchased, the applicant/s are required to provide a deposit of at least **25% of the purchase amount**.
+
+- The amount and source of deposit must be declared on the application and evidence provided to ensure full understanding of the nature of the transaction.
+
+- The deposit is expected to be provided from one, or a combination, of the following sources, and evidenced as outlined below:
+
+### Applicants Own Savings
+
+- Latest month bank or savings statement showing the required balance, taking into consideration any other anticipated costs (i.e., Stamp Duty, Solicitors fees).
+- If the funds have not been in the account for 1 month, the source of these monies must be confirmed.
+
+### Sale of Existing Property (one of the following required)
+
+- Copy of bank statement showing sale proceeds; or
+- Copy of the completion statement from the solicitor with full details of the property; or
+- Letter from the acting solicitor confirming that the sale is currently going through and a Land Registry search to evidence ownership.
+
+### Equity Release from an Existing Property (one of the following required)
+
+- Copy of bank statement showing equity release proceeds; or
+- Copy of existing mortgage statement and new mortgage offer evidencing equity being drawn on; or
+- Letter from the acting solicitor confirming that the equity release mortgage is currently going through, confirmation of the funds being raised and a Land Registry search to evidence ownership.
+
+### Gifted Deposits
+
+- A declaration from the donor (see “Gifted Deposits”).
+- Evidence of the donor monies in the format outlined in this section.
+- Only gifts from immediate relatives are acceptable:
+
+- Spouse
+- Parents
+- Grandparents
+- Children
+- Siblings
+
+### UK Limited Company
+
+- A letter from the company accountant confirming how the monies are being taken from the Ltd Company.
+- Confirmation that the shareholders/directors will not have an interest in the property.
+- The most recent set of accounts.
+- Last 3 months business bank statements evidencing sufficient funds to be drawn upon.
+- If monies are being taken as a loan, this is not acceptable (see SPV Directors Loan section below which confirms that a loan is acceptable when the borrower is an SPV).
+
+### SPV Directors Loan
+
+- Where lending is to an SPV and the deposit is being loaned to the SPV from the director/s of the organisation, this is acceptable to SBI UK provided that:
+
+- A Subordination Deed is signed by the director/s prior to release of funds.
+- The Subordination Deed ensures that the repayment of SBI UK's debt takes priority over any loan provided to fund the initial purchase.
+
+# Direct Debit
+
+- Monthly mortgage payments must be made by Direct Debit.
+- The Direct Debit must be taken from a bank account in the name of the applicant(s).
+- For Company applications (LTD / LLP / SPV):
+
+- The Direct Debit must be set up from a business bank account.
+
+# Documentation Requirements
+
+- All supporting documents provided to mortgage processing must be certified.
+
+- Documents can be certified by:
+
+- SBI UK Branch Staff
+- Mortgage Processing Staff
+- FCA Regulated Mortgage Intermediaries
+- Solicitor registered with the UK Law Society
+- Officials of UK Post Office
+- Qualified UK accountant
+
+- Where the broker is also the borrower:
+
+- Certification must be completed by SBI UK staff only.
+
+- Documents must be:
+
+- Valid and in date
+
+  - Bank statements no older than 1 month
+  - Bills no older than 3 months
+- Certified as a true copy of the original (and true likeness if photographic ID)
+- Stamped, signed, and dated by the named certifying party
+- Include FCA registration number if certified by an intermediary
+
+# Employment Period
+
+### Employed
+
+- Must have:
+
+- Been employed by the same employer for a minimum of 6 months; OR
+- Been in continuous employment for the last 2 years.
+- Not acceptable if the principal applicant is still within a probationary period.
+
+### Self-Employed
+
+- Must have been self-employed for a minimum of 2 years.
+
+### Contractors
+
+- Acceptable under certain circumstances.
+- Not acceptable if contracts are:
+
+- Seasonal contracts
+- Zero-hour contracts
+- Agency staff contracts
+- Refer to State Bank of India for comprehensive details.
+
+### Retired
+
+- Must meet minimum income requirements from pensions.
+
+# Employment Status
+
+- The following are acceptable:
+
+- Employed
+- Self-employed (25% or more of a company owned)
+- Contractors
+- Retired applicants
+
+# Ex-Local Authority
+
+- Ex-local authority houses are acceptable.
+
+- Ex-local authority flats are acceptable where:
+
+- At least 50% of the flat block is under private ownership;
+- Confirmed by the solicitor at conveyancing.
+
+- Exceptions may be considered in the following cities, subject to good resale and re-let demand:
+
+- London
+- Manchester
+- Birmingham
+- Leeds
+- Southampton
+- Newcastle
+- Cardiff
+
+# Ex-Pats
+
+To accept an application from a Non-UK Resident (Ex-Pat), the following requirements must be met:
+
+- British Passport holder with British Citizenship as nationality.
+- For employed applicants:
+
+- Confirmed employment with a company registered in their location.
+- For self-employed applicants:
+
+- Confirmation that they are registered in their location.
+- Valid UK bank account.
+- Minimum income:
+
+- £40,000 per annum if employed.
+- £100,000 per annum if self-employed.
+- Combination of overseas income and UK property/UK income is allowed.
+- All applicants must own at least one other current property (residential or investment) in the UK.
+- No adverse credit.
+- Must work in a low or medium risk country as per SBI UK AML matrix.
+- Where possible, a locally generated credit reference check should be provided.
+
+### Maximum Loan
+
+- £1,500,000
+
+### Income Verification
+
+- Employed:
+
+- 3 months payslips; and
+- Letter from employer confirming job terms.
+- Self-Employed:
+
+- Last 2 years accounts from a valid accountancy firm.
+- Contractor:
+
+- As per SBI UK policy; and
+- Confirmation letter from employer (in English).
+
+# Exposure
+
+- Maximum individual loan: £3,000,000.
+- Maximum total exposure: £5,000,000 per client (in personal name and/or SPV, LTD, LLP).
+- Consideration may be given to greater exposure levels subject to full assessment.
+
+# First Legal Charge
+
+- All mortgage lending must be secured by a legal charge with first priority.
+
+- Property must be located in:
+
+- England (including the Isle of Wight); or
+- Wales.
+
+- SBI UK does not offer secured lending against properties located in:
+
+- Scotland
+- Northern Ireland
+- Isle of Man
+- Isles of Scilly
+- The Channel Islands
+
+- The legal charge must be:
+
+- Fully enforceable.
+- Entered into by all legal owners of the property.
+- Have full effect against all other charges and interests.
+
+- SBI UK will not lend if another party’s charge has priority.
+
+- If a second charge is present at application:
+
+- It must be discharged prior to completion.
+- A letter from the lender confirming repayment must be provided.
+- A Land Registry search must confirm removal before completion.
+
+# First Time Buyers
+
+- An applicant who does not own their current main residence is classified as a first-time buyer.
+
+- In most cases, first-time buyer applications are not acceptable.
+
+- Exceptions:
+
+- Applicant is already an existing BTL investor and owns at least one additional BTL property other than the one being mortgaged to SBI UK (applies to all applicants in joint applications); OR
+- Joint application from Husband & Wife (or equivalent relationship) where only one applicant owns their current main residence.
+
+# First Time Landlords
+
+- Applications from first-time landlords are acceptable provided they own a residential property.
+
+# Foreign Embassy Staff & Diplomats
+
+- Applications from non-UK applicants employed in a Foreign Embassy are unacceptable and must be declined.
+
+- Reason:
+
+- Embassy staff may claim diplomatic immunity from legal action in the UK.
+- They may be required to leave the country at short notice.
+
+- UK Nationals employed by an Embassy in the UK:
+
+- Cannot claim diplomatic immunity.
+- Are exempt from this restriction.
+
+# Foreign Nationals
+
+### Borrower
+
+- SPV incorporated in the UK.
+
+### Amount
+
+- Maximum total exposure: £5,000,000.
+- Individual loan exposure: £3,000,000.
+
+### Income Requirement
+
+- Minimum £40,000 equivalent.
+
+### Existing Property Requirement
+
+- Must own a minimum of 1 residential property in India or internationally, either directly or through SPV.
+
+### LTV Restrictions
+
+- Maximum LTV: 65%.
+
+### ICR
+
+- Minimum 130%.
+- Stress rate:
+
+- Product Rate + 2.00%; OR
+- 5.50%;
+- Whichever is higher.
+- 5 Year Fixed Rate products stressed at product pay rate.
 
 ### Other
 
-1. ACCOUNTANTS QUALIFICATIONS
-14. CRIMINAL CONVICTIONS
-16. DIRECT DEBIT
-17. DOCUMENTATION REQUIREMENTS
-23. FIRST LEGAL CHARGE
-39. GUARANTOR MORTGAGES
-72. INTERNET STATEMENTS
-86. POWER OF ATTORNEY
-100. REMORTGAGES - UNACCEPTABLE
-133. TRUSTEES
+- All property types considered.
+- Stress test requirements must meet Bank policy.
+- Personal Guarantees from Directors of Non-National, Non-Resident applicants not required.
 
-### Other Criteria
+### Countries Where Product Offered
 
-28. BORROWER
-29. AMOUNT
-31. EXISTING PROPERTY REQUIREMENT
-34. OTHER
-35. COUNTRIES WHERE PRODUCT OFFERED
-36. ADDITIONAL CONDITIONS
-43. CRITERIA
-45. MAXIMUM LOAN
-46. MINIMUM LOAN
-48. MAX TERM
-49. MAX AGE
-52. RENTAL CALCULATION
-53. RENTAL CONFIRMATION
-54. TENANTS PROPERTY
-56. NEW HOLIDAY LET
-57. EXISTING HOLIDAY LET
-58. AIR BNB (OR EQUIVALENT)
-59. FIRST TIME BUYER
-61. EX-PAT
-62. PERSONAL USAGE
-64. APPROVAL PROCESS
-65. REMORTGAGE
-66. RENTAL ESTIMATE
-67. ADDITIONAL CRITERIA
-99. PROPERTY – FLATS
-131. TENURE
+- No geographic restriction except High Risk / Sanctioned countries.
+- KYC documents must be verified in original by SBI Branch (India/Overseas).
 
----
+### Additional Conditions
 
-## Accountants Qualifications
+1. Property must be managed through an ARLA registered letting agent.
+2. Customer must hold an SBI UK account with 3 months debt reserve.
+3. Debenture required if sole property; or letter of non-crystallisation from existing debenture holder.
+4. Minimum property value: £150,000.
+5. Home country credit report must be obtained.
 
-The following post-nominal accountancy qualifications are acceptable for preparation of certified accounts by the company accountant: ICAEW, ICAS, CAI, ACCA, AIA, AAPA, CIPFA, CIMA, CIOT, AAT, IFA, ATT.
+# Further Advance Applications
 
-## Adverse Credit
+- SBI UK does not consider further advance applications.
 
-SBI UK will not accept an application if there is history of any of the following: Bankruptcy Administration Orders Debt Relief Orders Repossessions Payment Arrangements Debt Management Programmes Individual Voluntary Arrangements (IVA) Company Voluntary Arrangements (CVA) CCJ/Default: SBI UK will accept applications with CCJ's/Defaults under the following scenario: Where cases of one satisfied CCJ’s/one satisfied defaults up to GBP 2500 and outstanding defaults of up to £250 exist, subject to receipt of a detailed, “satisfactory” explanation outlining the circumstances of the CCJ/default. Payment Arrears: (Not including mortgage arrears): Any late or missed payments can be considered in the context of the case. Refer to BDM. Mortgage Arrears: If the credit search or mortgage statement provided reveals no more than one missed or late mortgage payment this can be considered in the context of the application but must be supported by an explanation from the customer together with evidence that the late/missed payment did not occur as a result of an inability to pay. This evidence is expected to be in the form of bank statements which show that sufficient funds were available at the time of the late/missed payment. Payment Holidays: SBI UK will consider applications where payments holiday took place which was on account of impact by COVD19. Underwriters will ensure before proceeding with the application that the applicants are not facing financial difficulty. In cases where the property offered as security is subject to a payment holiday, release of funds will be subject to evidence that payment of rental income has restarted. When calculating the portfolio stress, mortgage payment will be considered for calculation and rent will only be considered if actually received. Members Voluntary Liquidation – MVL: SBI UK will accept application from customers who opted into MVL subject to satisfactory reason.
+# Green Mortgages
 
-## Age Requirements
+- Property must have EPC rating of:
 
-Minimum Age - 21 years at application, Maximum Age - Applicants age must not exceed 80 years at the time of the end of the mortgage term. Discretion can be applied where applications are received in joint names all applicants must satisfy the minimum and maximum age criteria detailed below: Accept SPV applications where the loan term is in excess of one or more of the applicants 80th birthday. This will only be acceptable if one or more of the remaining applicants is under the age of 80 at the time of end of the term of the mortgage, this applicant meets the banks income requirements & they have at least a 25% stake in the borrowing SPV. Applications where the loan term is in excess of one or more of the applicants 80th birthday. This will only be acceptable if one or more of the remaining applicants is under the age of 80 at the time of end of the term of the mortgage, the remaining applicant meets the banks income requirements.
+- A;
+- B;
+- C;
+- Confirmed upon valuation.
 
-## Aggregate Borrowing
+# Guarantor Mortgages
 
-Maximum total borrowing is £5,000,000 per client (in personal name and/or SPV, LTD, LLP) For existing customers, maximum exposure is set at £7 million subject to applicant having a mortgage relation for a minimum of 12 months that demonstrates sound repayment. Any additional borrowing above £5 million will be restricted to 60% LTV. Maximum loan is £3,000,000.
+- Guarantors are not accepted on Buy to Let applications.
 
-## Arms-Length Transactions
+# Gifted Deposit
 
-Arms-Length Transactions are preferred (purchase through estate agent). Non-Arm’s length/Private Sales (purchase from family member/not through estate agent) will be allow as long as the purchase is taking place at a maximum of 5% variation of the Open market value to account for ease of transaction and reduction in transaction costs. *Also see ‘Private Sale’’ section and transactions where the property is transferred from individual/s name(s) into an SPV Ltd Company, this is subject to the following criteria. The property must have been in the individual’s ownership for a period of at least 6 months. The transaction must be taking place as a purchase, with the acting solicitor providing confirmation of this along with confirmation of the amount of stamp duty being paid or exemption for the payment of the stamp duty is agreed by HMRC or any other competent authority. There must be a suitable insolvency indemnity policy in place (to protect the Banks interest in case the transaction is taking place without proper consideration) at completion, in view that the transaction is not taking place at arms-length. The purchase price must be approximate to the value that has been independently provided by the Banks surveyor on their report. The existing owners must all be named as shareholders/directors of the SPV Company looking to complete the purchase. If the deposit is coming by way of a loan from the directors to the purchasing company, then a deed of subordination must be completed. Where the property transfer to the SPV has taken place before submission of the case to the Bank but within the last 6-month period, this will be acceptable provided the above six principles have been met. The solicitor who dealt with the transfer will be required to provide the confirmations.
+- Gift must be provided by an immediate family member:
 
-## Back To Back Transactions
+- Spouse
+- Parents
+- Grandparents
+- Children
+- Siblings
 
-SBI UK will only consider a remortgage application once a clear Land Registry search has been conducted by SBI UK evidencing the applicant's ownership of that property or sight of TR1 to confirm registration has been submitted. UK will accept remortgage applications where the ownership is less than 6 months and, in these cases, we will consider the purchase price and the cost of improvement for the purpose of LTV or the value as given by the valuer, whichever is lower. A special condition must be added to the offer for the acting solicitor to confirm the property ownership and to ensure the applicants names are updated upon completion with sole charge registered in favour of SBI UK. Likewise for a new purchase application the existing vendor must have owned the property for a minimum of six months (with the exception of new build properties which will not yet have been registered at Land Registry).
+- Conditions:
 
-## Builders Deposits & Sales Incentives
+- No repayment terms.
+- No expectation of repayment at any time, including from sale proceeds.
+- Not secured by Deed of Trust or Second Charge.
+- Donor must not have financial interest in the property.
+- Donor will not acquire any interest in the property.
 
-The total amount of any builder or developer sales incentives must be discounted from the purchase price or valuation (unless already discounted by the valuer), when calculating the maximum loan available.
+# HMO
 
-## Ccjs/Defaults
+### Applicant Experience
 
-SBI UK will accept applications with CCJ's/Defaults under the following scenario: Where cases of one satisfied CCJ/default up to £2,500 AND outstanding defaults of up to £250 exist. In all cases SBI UK must be made aware of the exact reasons why the CCJ/default has been registered and six months bank statements provided as evidence that there are no issues with the applicants' cash flow.
+- Must have been a BTL landlord for at least 1 continuous year preceding application; OR
+- Must have owned an HMO (as per definition) for at least 1 continuous year preceding application.
 
-## Case Submission
+### Loan
 
-All applications must be submitted electronically in addition to a signed application form and all supporting documentation. Access to our online system is available at https://sbi-prod.azurewebsites.net/Portal/PreLogon/Logon
+- £65,000 – £3,000,000 (subject to LTV restrictions).
 
-## Company Applications (Spv/Llp)
+### Maximum LTV Bands
 
-Applications will be accepted from UK incorporated Limited Companies or Limited Liability Partnerships, whose sole activity is the purchase and/or re-mortgage of residential property for letting. All shareholding directors (for Companies) / partners (for partnership firms) / members (LLP or others) must be named on any application for a company or Partnership or LLP. Also, minimum 75% of shareholders need to be applicants for BTL. SBI UK requires that all applicant(s) have the correct board authorisations to conduct the transaction.
+- 70%: £100,000 – £500,000
+- 65%: £500,001 – £1,000,000
+- 60%: £1,000,001 – £1,250,000
+- 50%: £1,250,001 – £3,000,000
 
-## Company Criteria (Spv/Llp)
+### Transaction
 
-Lending can only be considered to Ltd/LLP Companies. We cannot lend to Trust’s, Offshore Companies etc. A maximum of four applicants are permitted. Business type must only be the purchase/remortgage and letting of properties in the UK evidenced both by the trading accounts and the SIC code recorded at Companies House; Business must have been profitable for the last 2 years and have a clear credit history (with exception of newly formed company) The Bank will accept application for SPV group structure, where there is a ‘Parent company” or a “subsidiary”. In the situations when parent company is making BTL mortgage application with the Bank and meet the SIC code criteria, it is acceptable that the subsidiaries company in the group may not be in the same line of business and have different SIC code, as subsidiary company does not control the parent company operations and funds. However, when a subsidiary company from the group is making application with the Bank, it must be ensured that all companies within the Group must be in the same line of business, the directors and shareholders must be named applicants of the loan proposal. The shareholding percentage need not be identical in all group companies as long as the shareholders are the same.
+- Remortgage of existing HMO; OR
+- Purchase of completed HMO ready to let.
 
-## Consultants/Contractors
+### Property Requirements
 
-Contract workers are accepted under the following criteria: 12 Months or More: Current contract must have at least three months remaining at the time of full mortgage application, or evidence of a new or renewed contract for 12 months, And The previous contract(s) must be provided and demonstrate continuous employment for 12 months. 6 to 12 Months: Current contract must have at least three months remaining, or evidence of a new or renewed contract, And The previous contract(s) must be provided and demonstrate continuous employment for 12 months, Income must be a minimum of £50,000.00 gross (when annualised) Less than 6 Months: Not Acceptable. SBI UK will also not accept ANY applicant under the following contract types: Seasonal Contract Zero Hours Contract (also known as Piecework) Agency Staff Part Time Contracts Fixed Term Contracts below 6 months Self –Employed Contractors: Where an applicant derives their income from own business and the turnover of the business is solely from third party contracts, they should be assessed under the ‘contractor’ rules above rather than be treated as ‘Self Employed’. Example – IT Industry Professionals
+- Maximum 6 lettable bedrooms.
+- Maximum 6 tenants.
+- Maximum 3 storeys.
+- No more than 1 kitchen (unless required by licensing).
+- Bedsits not considered unless part of HMO.
 
-## Consumer Buy To Let
+### Rental Stress
 
-SBI UK do not accept any mortgage application that could be classified as a Consumer BTL.
+- Individual – 5 Year Fixed:
 
-## Criminal Convictions
+- 150% of monthly interest at product pay rate.
+- Individual – Other Rates:
 
-SBI UK will not accept any application where the applicants (Directors or Shareholders, or sole applicants), or a financial associate has a criminal conviction or prosecution pending, unless: The conviction or pending prosecution is for a minor traffic offence. The conviction is considered "spent" as specified under the Rehabilitation of Offenders Act 1974.
+- 150% of monthly interest at product rate + 2.00% OR 5.50% (whichever higher).
+- SPV Ltd/LLP – 5 Year Fixed:
 
-## Deposit
+- 130% of monthly interest at product pay rate.
+- SPV Ltd/LLP – Other Rates:
 
-Where a property is being purchased, the applicant/s are required to provide a deposit of at least 25% of the purchase amount. The amount and source of deposit must be declared on the application and evidence provided to ensure that we understand the full nature of the transaction. The deposit would be expected to be provided from one, or a combination, of the following sources, and be evidenced in the following manner:
-Applicants Own Savings: Latest month bank or savings statement showing the required balance taking into consideration any other anticipated costs i.e., Stamp Duty, Solicitors fees. If the funds have not been in the account for 1 month the source of these monies must be confirmed.
-Sale of Existing Property (one of the following): Copy of bank statement showing sale proceeds; or Copy of the completion statement from the solicitor with full details of the property; or Letter from the acting solicitor confirming that the sale is currently going through and a Land Registry search to evidence ownership.
-Equity release from an existing property: Copy of bank statement showing equity release proceeds; or copy of existing mortgage statement and new mortgage offer evidencing equity being drawn on; or Letter from the acting solicitor confirming that the equity release mortgage is currently going through, confirmation of the funds being raised and a Land Registry search to evidence ownership.
-Gifted Deposits: A declaration from the donor (see 'Gifted Deposits') and evidence of the donor monies in the format outlined in this section. Only gifts from immediate relatives are considered acceptable. (Spouse, parents, grandparents, children, siblings)
-UK Limited Company: A letter from the company accountant confirming how the monies is being taken from the Ltd Company and that the shareholders/directors will not have an interest in the property, together with the most recent set of accounts and last 3 months business bank statements evidencing sufficient funds to be drawn upon. If monies are being taken as a loan, then this is not acceptable (see SPV Directors Loan section below which confirms that a loan is acceptable when the borrower is an SPV).
-SPV Directors Loan: Where we are lending to an SPV and the deposit is being loaned to the SPV from the director/s of the organisation, it will be acceptable to SBI UK on the provision that a Subordination Deed is signed by the director/s prior to release of funds. The subordination deed ensures that the repayment of SBI UK's debt takes priority over any loan that may have been provided to fund the initial purchase.
+- 130% of monthly interest at product rate + 2.00% OR 5.50% (whichever higher).
+# Holiday Lets
 
-## Direct Debit
+### Criteria Overview
 
-Monthly mortgage payments are to be made by Direct Debit from a bank account in the name of the applicant/s. If this is a company (LTD/LLP/SPV) application, then the direct debit is set up from a business bank account
+- Maximum LTV: 75%
 
-## Documentation Requirements
+- Maximum Loan:
 
-All supporting documents provided to mortgage processing must be certified. Documents can be certified by SBI UK Branch Staff, Mortgage Processing Staff, FCA Regulated Mortgage Intermediaries; Solicitor registered with the UK Law Society, Officials of UK Post Office, or Qualified UK accountant. Cases where the broker is the borrower the certification must be done by SBI UK staff only. The documents must be: Valid and in date (bank statements can be no older than 1 month, bills can be no older than 3 months). Certified as a true copy of the original (and true likeness if photographic ID). Stamped, signed & dated by the named certifying party together with the FCA registration number if an intermediary.
+- Up to 60% LTV – £1,000,000
+- Up to 70% LTV – £750,000
+- Up to 75% LTV – £500,000
 
-## Employment Period
+- Minimum Loan: £200,000
 
-Employed - Must have been either employed by the same employer for a minimum of 6 months or have been in continuous employment for the last 2 years. It is not acceptable if the principal applicant is still within a probationary period. Self-Employed - Must have been self-employed for a minimum of 2 years. Contractors - Acceptable under certain circumstances. For example, we cannot accept contracts that are seasonal contracts, zero-hour contracts or agency staff. Please refer to State Bank of India for comprehensive details. Retired - Must meet minimum income requirements from pensions.
+- Minimum Income: £40,000 per annum
 
-## Employment Status
+- Maximum Term: 25 years
 
-Can accept employed, self-employed (25% or more of a company is owned), contractors and retired applicants.
+- Maximum Age: 80 years at end of term
 
-## Ex-Local Authority
+- ICR: 145%
 
-Ex-local authority houses are acceptable. Ex-local authority flats are acceptable where at least 50% of the flat block is under private ownership; confirmed by the solicitor at the time conveyancing. Exceptions to may be considered in following cities namely London, Manchester, Birmingham, Leeds, Southampton, Newcastle & Cardiff and subject to good resale and relet demand.
+- ICR Stress:
 
-## Ex-Pats
+- 2 Year Fixed – 5.50% / Rate + 2.00%
+- 5 Year Fixed – Pay Rate
 
-In order to accept an application from a Non-UK Resident (Ex-Pat) the following requirements must be met: British Passport holder with British Citizenship as nationality For employed applicants, confirmed employment with a company registered in their location. If Self-Employed, confirmation that they are registered in their location. Valid UK bank account Minimum income of £40,000 per annum if employed and £100,000 if Self-Employed. A combination of income from overseas income and UK property/UK income are allowed. All applicants must own at least one another current property (residential or investment) in the UK. No adverse credit Must work at a low or medium risk country as per the SBI UK AML matrix. If possible, a locally generated credit reference check should be provided. Maximum Loan: £1,500,000 Income must be verified in any of the following way, subject to employment type: Employed: 3 month’s payslips and letter from employer confirming job terms Self-Employed: Last 2 years accounts from a valid accountancy firm Contractor: As per SBI UK policy, plus confirmation letter from employer (in English)
+### Rental Calculation
 
-## Exposure
+- Based on average of:
 
-Maximum loan is £3,000,000 Maximum total exposure is £5,000,000 per client (in personal name and/or SPV, LTD, LLP. Consideration may be given to greater exposure levels subject to full assessment.
+- Standard AST rental; and
+- Holiday rental.
 
-## First Legal Charge
+- 30-week average rental income is considered due to seasonality.
 
-All mortgage lending must be secured by a legal charge with first priority over a property located in England (including the Isle of Wight) or Wales. SBI UK does not currently offer secured lending facilities against properties located in Scotland, Northern Ireland, Isle of Man, Isles of Scilly, or The Channel Islands. The legal charge must be: Fully enforceable. Entered into by all legal owners of the property. Have full effect against all other charges and interests in the property. SBI UK will not lend if another party's charge or interest has priority over ours. If a second charge is already present at application, it must be discharged prior to completion of our loan. A letter from the lender in question must be provided confirming that the loan has been repaid. A land registry search must be conducted before completion confirming that the charge has been removed.
+- Holiday Rental Evidence:
 
-## First Time Buyers
+- Headed letter from approved letting agent confirming annual projected rental.
+- Rental must be split into High / Medium / Low seasons.
 
-For assessment purposes SBI UK classifies any applicant who does not own their current main residence as a "first time buyer". In most cases an application from someone who is a first-time buyer will not be acceptable. However, SBI UK will accept an application from a "first time buyer" in the following circumstances: If they are already an existing BTL investor, meaning that they must own at least one additional BTL other than the one being mortgaged to us (this rule applies to all applicants if the application is joint), OR Joint applications from Husband & Wife (or where the relationship has the same characteristics as Husband & Wife) where only one of the joint applicants owns their current main residence.
+### Rental Confirmation
 
-## First Time Landlords
+- 2 years rental income required.
+- If rental income was lower in the most recent year:
 
-The Bank will accept applications from first time landlords as long as they own a residential property.
+- The most recent year's rental amount will be used.
+- 30-week average rental income considered due to seasonality.
 
-## Foreign Embassy Staff & Diplomats
+### Tenants Property
 
-All applications from non-UK applicants employed in a Foreign Embassy are unacceptable and should be declined. Members of staff employed at Foreign Embassies can claim diplomatic immunity from legal action in the UK, and the nature of their positions can leave them exposed to having to leave the Country at short notice.UK Nationals employed by any Embassy in the UK cannot claim diplomatic immunity from legal action, and therefore are exempt from this restriction in policy.
+- Must be let via an approved holiday letting agent.
+- For properties outside London:
 
-## Foreign Nationals
+- Air BnB is accepted.
 
-Borrower SPV incorporated in UK Amount Maximum total exposure - £5m Individual loan exposure - £3m Income Requirement Minimum £40,000 equivalent. Existing property requirement Owns minimum 1 residential property in India/Internationally either directly or through SPV. LTV restrictions Maximum LTV of 65% ICR Min 130% Applicable Stress rate would be Product Rate + 2.00% OR 5.50% (Whichever is higher) 5 Year Fixed Rate Products stressed at product pay rate. Other All property types considered. Stress test requirements etc would need to be met in line with Bank’s policy. Personal Guarantees from Directors of Non-National, Non-Resident applicants is not required. Countries where product offered There is no restriction for applicants to be based in any geography (except High Risk / Sanctioned countries). However, KYC documents need to be verified in original by SBI Branch (India/Overseas). Additional conditions 1. Property needs to be managed through an ARLA registered letting agent. 2. Customer has account with SBI UK to hold 3 months debt reserve. Rent may be paid to this or other accounts. 3. Debenture on borrower entity would be required if this is the sole property or letter of non-crystallisation would be required from existing debenture holder. 4. Minimum property value of £150,000 5. Home Country credit report to be obtained
+### Tenancy
 
-## Borrower
+- No more than 30 days for any one tenancy.
 
-SPV incorporated in UK
+### New Holiday Let
 
-## Amount
+- Yes.
 
-Maximum total exposure - £5m Individual loan exposure - £3m
+### Existing Holiday Let
 
-## Income Requirement
+- Yes.
 
-Minimum £40,000 equivalent.
+### Air BnB (or equivalent)
 
-## Existing Property Requirement
+- Yes, for properties outside London.
+- No, for properties in London.
 
-Owns minimum 1 residential property in India/Internationally either directly or through SPV.
+### First Time Buyer
 
-## Ltv Restrictions
+- No.
 
-Maximum LTV of 65%
+### Non HMO / MUFB
 
-## Icr
+- No.
 
-Min 130% Applicable Stress rate would be Product Rate + 2.00% OR 5.50% (Whichever is higher) 5 Year Fixed Rate Products stressed at product pay rate.
+### Ex-Pat
 
-## Other
+- No.
 
-All property types considered. Stress test requirements etc would need to be met in line with Bank’s policy. Personal Guarantees from Directors of Non-National, Non-Resident applicants is not required.
+### Personal Usage
 
-## Countries Where Product Offered
+- 90 Days.
 
-There is no restriction for applicants to be based in any geography (except High Risk / Sanctioned countries). However, KYC documents need to be verified in original by SBI Branch (India/Overseas).
+### Location
 
-## Additional Conditions
+- England and Wales.
 
-1. Property needs to be managed through an ARLA registered letting agent. 2. Customer has account with SBI UK to hold 3 months debt reserve. Rent may be paid to this or other accounts. 3. Debenture on borrower entity would be required if this is the sole property or letter of non-crystallisation would be required from existing debenture holder. 4. Minimum property value of £150,000 5. Home Country credit report to be obtained
+### Approval Process
 
-## Further Advance Applications
+- All Holiday Let applications must be approved by SBI (UK) Ltd Credit Committee.
 
-At present SBI UK do not consider any further advance application requests.
+### Remortgage
 
-## Green Mortgages
+- Capital raising for investment properties only.
 
-To qualify for any Green mortgage product the applicants property must be confirmed upon valuation to have either an ‘A’ ‘B’ or "C" EPC rating.
+### Rental Estimate
 
-## Guarantor Mortgages
+- Approved Letting Agent and empanelled Surveyors only.
 
-SBI UK does not accept Guarantors on Buy to Let mortgage applications.
+### Additional Criteria
 
-## Gifted Deposit
+- Property must be let in its entirety.
+- Not on a room-by-room basis.
+- No B&Bs.
+- Acting Solicitor must confirm licensing and planning permission requirements.
+- First and sole charge on property.
 
-SBI UK will only accept a genuine gifted deposit if the gift is being provided by an immediate family member (spouse, parents, grandparents, children, and siblings), subject to the following conditions: The person providing the gift is an immediate close family member (spouse, parents, grandparents, children, siblings) The gift is being provided without any repayment terms and with no expectation of the amount being repaid at any time in the future, including from the proceeds of the sale of the property. The gift is a genuine gift and is not proposed to be secured by a Deed of Trust or a Second Charge. The donor must not have any current financial interest in the property to be purchased. The donor will not acquire any interest in the property.
+# Identity / KYC Requirements
 
-## Hmo
+- All applicants must provide:
 
-Applicant Experience: They must have been a BTL landlord for at least 1 continuous year preceding the application date to SBIUK; or They must have either owned an HMO (as per our definition) for at least 1 continuous year preceding the application date to SBIUK. Loan: £65,000 - £3,000,000 (Subject to LTV restrictions, see below) Maximum 70%: Between £100,000 and £500,000 65%: Between £500,001 and £1,000,000 60%: Between £1,000,001 and £1,250,000 50%: Between £1,250,001 and £3,000,000 Transaction: Remortgage of an existing HMO or purchase of an HMO in a completed state ready to be let to tenants. Property Requirements: Maximum of 6 lettable bedrooms; Maximum of 6 tenants. Maximum of 3 storeys; No more than 1 kitchen (Unless required by HMO Licensing conditions); Properties with Bedsits cannot be considered unless Bedsits are part of the HMO. Rental: Individual - 5 Year Fixed is 150% of monthly interest at product pay rate Individual - All other rates is 150% of monthly interest at product rate + 2.00% OR 5.50% (whichever is higher) SPV Ltd/LLP – 5 Year Fixed is 130% of monthly interest at product pay rate SPV Ltd/LLP - All other rates is 130% of monthly interest at product rate + 2.00% OR 5.50% (whichever is higher)
+- One document from List A and one from List B; OR
+- Copy of passport plus any one document from either list evidencing address.
 
-## Holiday Lets
+- If applicant:
 
-Criteria Method Maximum LTV 75% Maximum Loan Up to 60% LTV - £1,000,000, Up to 70% LTV - £750,000, Up to 75% LTV - £500,000 Minimum Loan £200,000 Minimum Income £40,000 pa Max Term 25 years Max Age 80 years at end of term ICR 145% ICR Stress 2yr Fixed - 5.50%/Rate +2.00% 5yr Fixed - Pay Rate Rental Calculation Based on average of Standard AST rental and Holiday Rental. (30-week average rental income is considered due to seasonality). Holiday Rental: Headed letter from approved letting agent confirming annual projected rental for proposed property, split into High/Medium/Low seasons. Rental Confirmation 2 years rental income unless rental income was lower in the most recent year. In that case we would take the most recent year's rental amount (30-week average rental income is considered due to seasonality of the holiday let market.) Tenants Property Must be let via an approved holiday letting agent, for properties outside London Air BnB is accepted. Tenancy No more than 30 days for any one tenancy New Holiday Let Yes Existing Holiday Let Yes Air BNB (or equivalent) Yes, for properties outside London. No, for properties in London First Time Buyer No Non HMO/MUFB No Ex-Pat No Personal Usage 90 Days Location England and Wales Approval Process All Holiday Let applications to be approved by SBI (UK) Ltd Credit Committee Remortgage Capital raising for investment properties only Rental Estimate Approved Letting Agent and empanelled Surveyors only. Additional Criteria Property to be let in its entirety not on a room-by-room basis, No B&B's. Acting Solicitor to confirm licensing and planning permission requirements. First and sole charge on property.
+- Is recorded on the Voters Roll at current address; AND
+- Holds a credit match at same address;
+- Then only a document from List A is required.
 
-## Criteria
+- Documents under List A must be valid for a minimum of 6 months at time of application.
 
-Method
+### List A
 
-## Maximum Ltv
+- Current full signed UK passport.
+- Full UK driving licence (new style photo card) – address must be current.
+- Provisional UK photo card driving licence (new style) – address must be current.
+- Full UK driving licence (old style paper) – address must be current.
+- Foreign Driving Licence – photocard only.
+- Current full signed foreign passport.
+- National Identity Card – incorporating signature and photograph.
 
-75%
+### List B
 
-## Maximum Loan
+- Bank / Building Society / Credit Card Statement – less than 3 months old (internet statements not acceptable).
+- Utility Bill – less than 3 months old (mobile phone and internet utility bills not acceptable).
+- Latest Council Tax Demand – less than 1 year old.
+- Latest UK Mortgage Statement for main residence – must show credit transactions and be less than 1 year old.
 
-Up to 60% LTV - £1,000,000, Up to 70% LTV - £750,000, Up to 75% LTV - £500,000
+# Incentives
 
-## Minimum Loan
+- Any sales incentive must be deducted from the purchase price when calculating acceptable LTV.
 
-£200,000
+# Income
 
-## Minimum Income
+### Individual Loans up to £500,000 / Aggregate up to £1,000,000
 
-£40,000 pa
+- Sole applicant:
 
-## Max Term
+- Minimum gross annual income £25,000.
+- Joint applicant:
 
-25 years
+- At least one applicant must have minimum gross annual income £25,000.
 
-## Max Age
+### Individual Loans £500,000 – £1,000,000 / Aggregate above £1,000,000
 
-80 years at end of term
+- Sole applicant:
 
-## Icr
+- Minimum gross annual income £40,000.
+- Joint applicant:
 
-145%
+- Minimum combined gross annual income £40,000.
+- At least one applicant must earn minimum £30,000.
 
-## Icr Stress
+### Individual Loans above £1,000,000
 
-2yr Fixed - 5.50%/Rate +2.00% 5yr Fixed - Pay Rate
+- Sole or joint applicant:
 
-## Rental Calculation
+- At least one applicant must earn minimum £50,000.
 
-Based on average of Standard AST rental and Holiday Rental. (30-week average rental income is considered due to seasonality). Holiday Rental: Headed letter from approved letting agent confirming annual projected rental for proposed property, split into High/Medium/Low seasons.
+# Income Types
 
-## Rental Confirmation
+### Employed
 
-2 years rental income unless rental income was lower in the most recent year. In that case we would take the most recent year's rental amount (30-week average rental income is considered due to seasonality of the holiday let market.)
+- Salary
+- Regular Bonus
+- Regular Commission
+- Regular Overtime
+- Secondary Employment
+- Vehicle Allowance
+- Large City Weighting Allowances
 
-## Tenants Property
+### Self-Employed
 
-Must be let via an approved holiday letting agent, for properties outside London Air BnB is accepted.
+- Average of last two years’ dividends, remuneration and salary used.
+- If latest year income reduced:
 
-## Tenancy
+- Latest year figure used only.
+- By exception:
 
-No more than 30 days for any one tenancy
+- Applicant’s share of net profit may be considered.
 
-## New Holiday Let
+### Retired
 
-Yes
+- Private Pension
+- State Pension
 
-## Existing Holiday Let
+# Internet Statements
 
-Yes
+Internet bank statements acceptable only in the following circumstances:
 
-## Air Bnb (Or Equivalent)
+### Stamped by Issuing Bank
 
-Yes, for properties outside London. No, for properties in London
+- Must show:
 
-## First Time Buyer
+- Bank name
+- Customer name
+- Sort code
+- Account number
+- Must be stamped as “certified true reflection of the transactions” (or similar).
+- Must include:
 
-No
+- Staff name
+- Staff number
+- Signature
+- Date
 
-## Non Hmo/Mufb
+### Not Stamped by Issuing Bank
 
-No
+- Must show full customer name (not initials).
+- Must show sort code and account number.
+- Must provide full 3 months statements.
+- Must be supported by:
 
-## Ex-Pat
+- 3 months payslips; and
+- P60.
+- Salary credits and NI number must match.
+- Not available for self-employed applicants.
 
-No
+### Printed in SBI UK Branch
 
-## Personal Usage
+- Must be printed in front of SBI UK staff.
 
-90 Days
+- Certified as “true copy of the original and true reflection of the account”.
 
-## Location
+- If none of the above met:
 
-England and Wales
+- Postal copies required.
 
-## Approval Process
+- Internet statements cannot be used as proof of address.
 
-All Holiday Let applications to be approved by SBI (UK) Ltd Credit Committee
+# Large Loans
 
-## Remortgage
+- Loans above £1,250,001 defined as large loans.
+- Subject to additional underwriting.
+- Maximum LTV: 60%.
+- Minimum Income: £50,000 per annum.
 
-Capital raising for investment properties only
+# Let To Buy
 
-## Rental Estimate
+- Not accepted.
+- Loan amount:
 
-Approved Letting Agent and empanelled Surveyors only.
+- Minimum £100,000.
+- Maximum £3,000,000.
 
-## Additional Criteria
+# Loan To Value (LTV)
 
-Property to be let in its entirety not on a room-by-room basis, No B&B's. Acting Solicitor to confirm licensing and planning permission requirements. First and sole charge on property.
+- £100,000 – £750,000: 75% LTV.
 
-## Identity/Kyc Requirements
+- £750,001 – £1,250,000: 70% maximum LTV.
 
-All applicants must provide a document from both List A and List B, or a copy of the passport plus any one document from either list evidencing address. If the applicant is recorded on the Voters Roll at the current address and also holds a credit match at that same address, then only a document from List A is required. Documents submitted under List A must be valid for a minimum period of 6 months at the time of application.
-List A: Current full signed UK passport. Full UK driving licence (new style photo card) - Address detail must be current. Provisional UK photo card driving licence (new style) - Address detail must be current. Full UK driving licence (old style paper) - Address detail must be current. Foreign Driving Licence - Photocard only. Current full signed foreign passport. National Identity Card - Incorporating signature and photograph.
-List B: Bank/Building Society/Credit Card Statement - Must be less than 3 months old (internet statements are not acceptable). Utility Bill - Must be less than 3 months old (mobile phone statements & internet utility bills are not acceptable). Latest Council Tax Demand - Must be less than 1 year old. Latest UK Mortgage Statement for applicants' main residence - Must show credit transactions and be less than 1 year old.
+- £1,250,001 – £1,500,000: 65% maximum LTV.
 
-## Incentives
+- £1,500,001 – £2,000,000: 60% maximum LTV.
 
-Any sales incentive must be deducted from the purchase price when calculating acceptable LTV.
+- £2,000,001 – £3,000,000: 50% maximum LTV.
 
-## Income
+- Fees added to mortgage:
 
-Individual loans up to and including £500,000/Aggregate borrowing up to and including £1,000,000 Sole applicant Minimum gross annual income of £25,000 Joint applicant At least one of the applicants must have a minimum gross annual income of £25,000 Individual loans between £500,000 and £1,000,000/Aggregate borrowing above £1,000,000: Sole applicant Minimum gross annual income of £40,000 Joint applicant Minimum combined gross annual income of £40,000. At least one of the applicants must have a minimum gross annual income of £30,000 Individual loans above £1,000,000: Joint or sole applicant At least one of the applicants must have a minimum gross annual income of £50,000
+- Not included in LTV calculation.
+- Must be included in rental coverage assessment.
 
-## Income Types
+- Overall LTV including fees must not exceed 78%.
 
-Employed - Salary, Regular Bonus, Regular Commission, Regular Overtime, Secondary Employment, Vehicle & Large City Weighting Allowances are all allowable sources. Self Employed – An average of the last two years’ dividends, remuneration and salary must be used to calculate income. If the latest year’s income has reduced then only that year’s figure should be used, not the average. By exception the Bank will consider using the applicants’ share of the net profit. Retired - Private & State Pensions
+# Location
 
-## Internet Statements
+- Property must be located in an area with strong demand for residential rented properties.
 
-Internet bank statements will be acceptable under the following circumstances: Stamped by Issuing Bank: Internet statements for UK bank accounts will be accepted if they show the Banks name, the name of the customer, sort code & account number and if they have been stamped by the issuing bank as a 'certified true reflection of the transactions' (or similar wording) together with the banks staff name, staff number, signature, and date. Not Stamped by Issuing Bank: Internet statements for UK bank accounts will be accepted if they show the full name of the customer (not just initial for forename), sort code & account number and are provided as a full 3 months together with 3 months' payslips and P60 where we can verify the salary credits against the payslips and the national insurance number from the payslips against the P60 (this is not an available option if the applicant is self-employed). Printed in SBI UK Branch: Internet statements for UK bank accounts will be accepted if they show the name of the customer, sort code & account number and have been printed in an SBI UK branch in front of a member of SBI UK bank staff and they have certified the document as a 'true copy of the original and a true reflection of the account as seen by them' (or similar wording). If one of the above scenarios cannot be met, then postal copies will need to be requested by the applicant. Internet bank statements cannot be used under any circumstance as proof of an applicant's address.
+# Maximum Number Of Borrowers
 
-## Large Loans
+- Up to 4 applicants.
 
-Loans above £1250,001 and above are defined as large loans and are subject to additional underwriting requirements. Maximum LTV - 60% Minimum Income - £50,000pa
+# Mortgage Arrears
 
-## Let To Buy
+- No more than one missed or late mortgage payment may be considered.
 
-SBI UK do not accept Let to Buy applications. Loan amount - Minimum Loan £100,000, Maximum Loan £3,000,000
+- Must be supported by:
 
-## Loan To Value (Ltv)
+- Explanation from customer; and
+- Evidence sufficient funds were available at time of missed payment (bank statements).
 
-Loan between £100,000 to £750,000- 75% LTV. Loan between £750,001 to £1,250,000 - 70% Maximum LTV. Loan between £1,250,001 to £1,500,000- 65% Maximum LTV. Loan between £1,500,001 to £2,000,000 - 60% Maximum LTV. Loan between £2,000,001 to £3,000,000 - 50% Maximum LTV Fees which are being added to the mortgage will not be considered to form part of the loan to value calculation but must be included within the rental coverage assessment. The overall LTV including the fee should not exceed 78%.
+- Mortgage Offer validity:
 
-## Location
+- 6 months from date of issue; OR
+- Until expiry of valuation report (6 months from inspection).
 
-The property must be located in an area with strong demand for residential rented properties.
+# Mortgage Offer
 
-## Maximum Number Of Borrowers
+- Valid for 6 months from date of valuation inspection.
 
-Up to 4 applicants
+# Non Arms Length
 
-## Mortgage Arrears
+- Arms-length transactions preferred.
 
-If the credit search or mortgage statement provided reveals no more than one missed or late mortgage payment this can be considered in the context of the application but must be supported by an explanation from the customer together with evidence that the late/missed payment did not occur as a result of an inability to pay. This evidence is expected to be in the form of bank statements which show that sufficient funds were available at the time of the late/missed payment. The Mortgage Offer is valid for a period of six months from the date of issue or until the expiry of the valuation report (six months from inspection).
+- Non-arms length / Private Sales permitted subject to:
 
-## Mortgage Offer
+- Maximum 5% variation from Open Market Value.
 
-Mortgage offers are valid for 6 months from the date of valuation inspection.
+- Individual to SPV transfer criteria:
 
-## Non Arms Length
+- Minimum 6 months ownership.
+- Acting solicitor confirmation of purchase.
+- Stamp duty confirmation or exemption.
+- Insolvency indemnity policy in place.
+- Purchase price aligned to valuation.
+- Existing owners must be shareholders/directors.
+- Directors loan requires deed of subordination.
 
-Arms-Length Transactions are preferred (purchase through estate agent). Non-Arms length/Private Sales (purchase from friend/family member/not through estate agent) will be allow as long as the purchase is taking place at a maximum of 5% variation of the Open market value to account for ease of transaction and reduction in transaction costs. And transactions where the property is transferred from individual/s name(s) into an SPV Ltd Company, this is subject to the following criteria: The property must have been in the individual's ownership for a period of at least 6 months. The transaction must be taking place as a purchase, with the acting solicitor providing confirmation of this along with confirmation of the amount of stamp duty being paid or exemption for the payment of the stamp duty is agreed by HMRC or any other competent authority. There must be a suitable insolvency indemnity policy in place (to protect the Banks interest in case the transaction is taking place without proper consideration) at completion, in view that the transaction is not taking place at arms-length. The purchase price must be approximate to the value that has been independently provided by the Banks surveyor on their report. The existing owners must all be named as shareholders/directors of the SPV Company looking to complete the purchase. If the deposit is coming by way of a loan from the directors to the purchasing company, then a deed of subordination must be completed.
+# Non-UK Nationals
 
-## Non-Uk Nationals
+- KYC documents must be verified and certified by SBI branch in India or internationally.
+- Referring branch must provide proof applicant owns property in country of residence.
+- Refer to Business Development Manager.
 
-In order to accept an application from a Non-UK National (Foreign national) the following requirements must be met: The KYC documents must be verified and certified by a SBI branch in India or international. The referring branch would also provide a proof that the applicant is a property owner in country of residence. *Refer to Business Development Manager
+# Non-UK Residents
 
-## Non-Uk Residents
+To accept UK National Non-UK Resident (Ex-Pat):
 
-In order to accept an application from a UK-National Non-UK Resident (Ex-Pat) the following requirements must be met: British Passport holder with British Citizenship as nationality For employed applicants, confirmed employment with a company registered in their location. If Self-Employed, confirmation that they are registered in their location. Valid UK bank account Minimum income of £40,000 per annum if employed and £100,000 if Self-Employed. A combination of income from overseas income and UK property/UK income are allowed. All applicants must own at least one another current property (residential or investment) in the UK. No adverse credit Must work at a low or medium risk country as per the SBI UK AML matrix. If possible, a locally generated credit reference check should be provided. Maximum Loan: £1,500,000 Income must be verified in any of the following way, subject to employment type: Employed: 3 month's payslips and letter from employer confirming job terms Self-Employed: Last 2 years accounts from a valid accountancy firm Contract: As per SBI UK policy, plus confirmation letter from employer (in English)
+- British Passport holder.
+- Confirmed employment (employed) or registration (self-employed).
+- Valid UK bank account.
+- Minimum income:
 
-## Portability
+- £40,000 employed.
+- £100,000 self-employed.
+- Combination of overseas and UK income allowed.
+- Must own at least one other UK property.
+- No adverse credit.
+- Must work in low or medium risk country.
+- Local credit reference check preferred.
+- Maximum loan: £1,500,000.
 
-SBI UK do not at present offer a portability option.
+### Income Verification
 
-## Portfolio Landlord (Definition)
+- Employed:
 
-SBI UK considers any applicant who owns a BTL portfolio of four or more mortgaged properties a "Portfolio Landlord". Likewise, an applicant who owns less than four mortgaged BTL properties, but as a result of any application/s to SBI UK will exceed four properties, will also be treated as a "Portfolio Landlord". Applicants (including Director/Shareholders/Members if Ltd/LLP Company application) who meet the definition of a portfolio landlord must (in addition to ordinary case requirements) provide the following documentation: Full schedule of BTL properties in SBI UK's approved format. All background properties will be stressed that 6.00% of interest rate. If the present interest rate is above 6.00% then actual rate would be applicable. These stress rate rules are with the exception of any properties being re mortgaged to SBI UK which must meet the rules outlined in the "Rental Cover Assessment" section of this policy). For individually owned properties the coverage required is: Basic Rate Taxpayers stressed at 125% rent cover, Higher/ additional rate taxpayers are stressed at 145%. For company owned properties the coverage required is 125%. A full assets and liabilities statement from the borrower (excluding properties detailed to us in the schedule of BTL properties). A business plan which gives reference to short and long-term strategic objectives, any planned expenditure to the properties or further property expansion, details of how any long-term rental voids would be covered, and their understanding of the current BTL market.
+- 3 months payslips; and
+- Employer confirmation letter.
+- Self-employed:
 
-## Portfolio Landlord (Requirements)
+- Last 2 years accounts.
+- Contractor:
 
-Applicants (including Director/Shareholders/Members if Ltd/LLP Company application) who meet the definition of a portfolio landlord must (in addition to ordinary case requirements) provide the following documentation: Portfolio BTL - Schedule of Existing Properties in the Banks approved format - https://sbiuk.statebank/btl-literature Portfolio BTL – Assts & Liability Statement from the borrower (excluding properties detailed to us in the Schedule of Existing Properties). https://sbiuk.statebank/btl-literature Portfolio BTL _ Supplementary Information Form - A business plan which gives reference to short and long-term strategic objectives, any planned expenditure to the properties or further property expansion, details of how any long-term rental voids would be covered, and their understanding of the current BTL market. https://sbiuk.statebank/btl-literature Standard bank templates have been created and must be used to satisfy the four items above (BTL Property Schedule, Assets & Liabilities Statement & Portfolio Landlord Supplementary Information Form)
+- As per policy; and
+- Employer confirmation letter (English).
+# Portability
 
-## Power Of Attorney
+- SBI UK do not at present offer a portability option.
 
-SBI UK do not accept any of the following: A new loan application either signed or submitted by an Attorney on behalf of an applicant. Any request by an Attorney to change any details of an application that is currently in the pipeline. Any request to change details from an Attorney that has been appointed by an applicant after the date of the application. However, where an application has completed, we may be able to accept some instructions given by an ‘’Attorney’’ on behalf of our borrower.
+# Portfolio Landlord (Definition)
 
-## Private Sales
+- An applicant is considered a “Portfolio Landlord” where:
 
-Private Sales (purchase from friend/family member/not through estate agent/ non-Arms length transaction) will be allow as long as the purchase is taking place at a maximum of 5% variation of the Open market value to account for ease of transaction and reduction in transaction costs. Buyer to provide reasons why the purchase is occurring as a private sale (or inter-family purchase as it is sometime known), this will require them to sign a declaration confirming the following: The transaction is not being done to avoid BKO, IVA, Repossession or NPA on the part of the seller. Once the transaction is complete there will be no other individuals/companies who claim rights over the proposed security That all information provided regarding the transaction is to the best of their knowledge accurate and not misleading That all parties to the sale will be receiving independent legal advice That the property will be purchased as a Vacant Possession or tenanted to third party and that the seller will not occupy the property after completion As the property is likely to be purchased at a different price that it would on the open market, the following checks & requirements will need to be met: A standard valuation will be instructed that will provide SBI UK with an ‘Open Market Valuation (OMV)’ SBI UK will restrict LTV to 75 % of the Purchase Price or OMV, whichever is the lowest The applicant will then need to supply evidence that they have the additional deposit funds to complete the purchase. Alternately if the applicant is being sold the property at the OMV, then SBI UK would lend 75 % of the OMV with the remaining balance covered by a ‘Gifted Deposit’ from the seller who would need to confirm in writing: A. Equity is gifted with no requirement to repay/no charge, B. Seller waives all future rights to the property.
+- They own four or more mortgaged BTL properties; OR
+- They currently own fewer than four mortgaged BTL properties but, as a result of the application(s) to SBI UK, will exceed four properties.
 
-## Procuration Fee
+- This definition applies to:
 
-Non-SPV/LLP/Ltd Co BTL, Appointed Representatives (AR) cases – 0.50% (up to a maximum of £6,000.). Non-SPV/LLP/Ltd Co BTL, Directly Authorised (DA) cases – 0.50% (up to a maximum of £6,000.). SPV/LLP/Ltd Co BTL, DA and AR cases – 0.75% (Up to maximum of £10,000.) Retention cases – 0.2% (Maximum £10,000)
+- Individual applicants;
+- Directors / Shareholders / Members in Ltd / LLP applications.
 
-## Property - Construction
+### Additional Documentation Required
 
-Please refer to the "Property and Valuation Policy Manual" for full details of the acceptable and unacceptable types of construction.Download Here
+In addition to ordinary case requirements, the following must be provided:
 
-## Property - Flats
+- Full schedule of BTL properties in SBI UK approved format.
+- All background properties stressed at 6.00% interest rate.
 
-Freehold Flats/Maisonettes – Where the tenure of any flat or maisonette is freehold this will not represent suitable security to SBI UK. High Rise Blocks – Flats which are located in blocks that are six stories or more are defined by the Bank as ‘High Rise’ The Bank will consider flats in High Rise Block if there is a Lift Service available OR if the flat is deemed to be in a super prime ‘prestigious’ development without a lift service. Ex-Local Authority Flats/Maisonettes – These types of properties are generally not considered to be acceptable security for the Bank. Bank may consider flats in a block where at least 50% of the block is under private ownership; confirmed by the solicitor at the time conveyancing that at least 50% of the block is under private ownership Exceptions may be considered in following cities namely London, Manchester, Birmingham, Leeds, Southampton, Newcastle & Cardiff and subject to good resale and relet demand. Studio Flats – These types of properties are generally not considered to be acceptable security for the Bank. Exceptions may be considered for studio flats provided the internal floor area is not less than 22 square metres in London, Birmingham, and Manchester and not less than 30 square metres in other locations, provided there is a separate bathroom. The kitchen facilities and sleeping area can be in the same room. Independent Access – Flats which do not have their own independent & unimpeded access, or that are not fully self-contained are unacceptable to the Bank. No discretion is available. The properties with shared access and right of way will be accepted subject to satisfactory opinion from the solicitors. Commercial Premises – Flats above certain commercial premises will not be acceptable to SBI UK. Additionally flats which are not directly above but near to commercial premises which could have a detrimental impact will also not be considered.
+- If present interest rate exceeds 6.00%, actual rate will apply.
+- Exception: Properties being remortgaged to SBI UK must meet Rental Cover Assessment rules.
 
-## Property - Location
+### Rental Coverage Requirements
 
-SBI UK will only consider property that is located in mainland England (including the Isle of Wight) and Wales. SBI UK will not consider any property located in Scotland, Northern Ireland, the Isle of Man, or the Channel Islands (Jersey, Guernsey, Alderney, Sark, and Herm).
+- Individually owned properties:
 
-## Property - Multiple Units
+- Basic Rate Taxpayers – 125% rent cover.
+- Higher / Additional Rate Taxpayers – 145% rent cover.
 
-SA property which consists of more than one unit on a single title is defined by the Bank as a Multiple Unit Property i.e., a house which has been subdivided into two self-contained units, or a pair of semi-detached houses under one freehold title. The Bank will consider freehold houses or properties which have been sub-divided into no more than 10 units and the conversion works have been completed with the appropriate planning permission and building regulation approvals. The maximum LTV, subject to other considerations will be 75% for up to 4 flats/houses in one freehold, 70% for 5-6 flat/houses and above 6 flats/houses the maximum LTV will be 65%. Specialist rate will be applicable for more than 6 flats in one freehold. Each unit must have its own separate access and facilities, for example: water, central heating. The Bank will not consider a property which has a granny flat, or annexe included.
+- Company owned properties:
 
-## Property - New Build
+- 125% rent cover.
 
-To protect SBI UK's interest, lending on new build and newly converted properties (a property built/converted within the last 12 months or being sold/registered for the first time) will be subject to the following loan to value (LTV) restrictions: All new build and newly converted flats/apartments and houses, LTV will be restricted to 70%. All new build and newly converted flats/apartments and houses, LTV will be restricted to 70%.
+- Full Assets & Liabilities Statement (excluding properties listed in BTL schedule).
 
-## Property - Tenure
+- Business Plan including:
 
-SBI UK will consider lending against properties that are either Freehold or Leasehold. Leasehold must have at least 55 years as a minimum remaining at the end of the mortgage term. Commonhold is not an acceptable tenure type to SBI UK.
+- Short-term objectives.
+- Long-term objectives.
+- Planned expenditure.
+- Further expansion plans.
+- Strategy to cover long-term voids.
+- Understanding of current BTL market.
 
-## Property - Unacceptable
+# Portfolio Landlord (Requirements)
 
-Properties: Properties with Agricultural Restrictions/Ties. Bedsits - (unless under HMO) - HMO products would be applicable. BISF (British Iron and Steel Federation) properties. Colt Bungalows. Properties immediately adjacent to A3 commercial or any commercial which deters purchaser/tenants. Commonhold tenure. Max 15% Flying Freehold. Properties with a granny annexe. HACC (High Alumina Cement Concrete) properties. Hoop Iron Built properties. Houseboats. LPS (Large Panel System) construction. Mixed use properties. Multiple kitchens. "Rent to Buy" or "Right to Buy" properties. Shared Ownership. Steel Framed and Clad properties. Timber Clad (e.g., Swedish Timber Properties)
+Applicants must provide the following using SBI UK standard templates:
 
-## Property - Value
+- Portfolio BTL – Schedule of Existing Properties (Bank approved format).
 
-Properties in London (with a London postal code) must have a minimum value of £150,000. Properties outside of London must have a minimum value of £60,000. Where SBI UK is lending against a freehold house which has converted into flats, each flat must meet the minimum property value specified above. London postcodes are considered to be all of those beginning with E, EC, N, NW, SE, SW, W, WC
+- Portfolio BTL – Assets & Liabilities Statement (excluding properties listed in schedule).
 
-## Property Concentration
+- Portfolio BTL – Supplementary Information Form (Business Plan including objectives, expenditure plans, void cover strategy and BTL market understanding).
 
-Each applicant will be restricted to a maximum of 6 properties and in case of flats, 10 flats in one complete postcode. The maximum LTV, subject to other considerations will be 75% for up to 4 properties/flats, 70% for 5-6 properties/flats and above 6 flats the maximum LTV will be 65%.
+- Standard bank templates must be used for:
 
-## Property Investment Club
+- BTL Property Schedule
+- Assets & Liabilities Statement
+- Portfolio Landlord Supplementary Information Form
 
-A property purchase which has been sourced through a Property Investment Club/Company is not acceptable security to SBI UK
+# Power Of Attorney
 
-## Property – Flats
+SBI UK do not accept:
 
-Freehold Flats/Maisonettes – Where the tenure of any flat or maisonette is freehold this will not represent suitable security to SBI UK. High Rise Blocks – Flats which are located in blocks that are six stories or more are defined by the Bank as ‘High Rise’ The Bank will consider flats in High Rise Block if there is a Lift Service available OR if the flat is deemed to be in a super prime ‘prestigious’ development without a lift service. Ex-Local Authority Flats/Maisonettes – These types of properties are generally not considered to be acceptable security for the Bank. Bank may consider flats in a block where at least 50% of the block is under private ownership; confirmed by the solicitor at the time conveyancing that at least 50% of the block is under private ownership Exceptions may be considered in following cities namely London, Manchester, Birmingham, Leeds, Southampton, Newcastle & Cardiff and subject to good resale and relet demand. Studio Flats – These types of properties are generally not considered to be acceptable security for the Bank. Exceptions may be considered for studio flats provided the internal floor area is not less than 22 square metres in London, Birmingham, and Manchester and not less than 30 square metres in other locations, provided there is a separate bathroom. The kitchen facilities and sleeping area can be in the same room. Independent Access – Flats which do not have their own independent & unimpeded access, or that are not fully self-contained are unacceptable to the Bank. No discretion is available. The properties with shared access and right of way will be accepted subject to satisfactory opinion from the solicitors. Commercial Premises – Flats above certain commercial premises will not be acceptable to SBI UK. Additionally flats which are not directly above but near to commercial premises which could have a detrimental impact will also not be considered.
+- New loan applications signed or submitted by an Attorney on behalf of an applicant.
 
-## Remortgages - Unacceptable
+- Requests by an Attorney to change details of an application in the pipeline.
 
-The following are unacceptable reasons for remortgage to SBI UK: Sale and rent back/sale and lease back arrangements. The purchase of a timeshare property (there are regulatory requirements that would make the loan unenforceable if not complied with). Business purposes, including debt consolidation, cash injection into a business, working capital, purchase of commercial premises or to purchase an interest in a Company. Property development. Investment in or purchase of property from a Property Investment Club. The purchase of any equity investment, including stocks & shares, annuity, or Home Income Plan. Currency speculation. Accident, Sickness & Unemployment (ASU) premiums. To pay a tax bill or HMRC demand. Any purpose that is against the interests of SBI UK Group, or any purpose that would create a conflict of interests e.g., funding a customer's legal action against SBI UK.
+- Requests to change details from an Attorney appointed after the application date.
 
-## Rental Cover Assessment
+- After completion:
 
-A minimum rental income cover of 145% of the mortgage interest must be confirmed for all Buy to Let loans to private individuals unless they are a lower rate taxpayer in which case a rental income cover of 125% will apply. A minimum of 125% of the mortgage interest must be confirmed for all Buy to Let loans to SPV Ltd/LLP Companies. Please see current product guide for details of stressed interest rates that will be applied.
+- Some instructions from an Attorney may be accepted.
 
-## Rental Coverage (Specialist Products)
+# Private Sales
 
-5 Year Fixed Rate - 125% of monthly interest payments at product pay rate. Other Products - 125% of monthly interest payments at Product Rate + 2% or 5.50% (whichever is higher) Remortgage 5 Year Fixed Rate - 125% of monthly interest payments at product pay rate. Remortgage Other Products - 125% of monthly interest payments at Product Rate + 2% or 5.50% (whichever is higher)”
+Private Sales (non-arms length transactions) permitted subject to:
 
-## Rental Coverage (Standard Products)
+- Maximum 5% variation from Open Market Value (OMV).
 
-5 Year Fixed Rate - 145% of monthly interest payments at product pay rate, 5 Year Fixed Rate (Lower Rate Taxpayer) - 125% of monthly interest payments at product pay rate. Other Products - 145% of monthly interest payments at Product Rate + 2% or 5.50% (whichever is higher). Other Products (Lower Rate Taxpayer) - 125% of monthly interest payments at Product Rate + 2% or 5.50% (whichever is higher). Remortgage 5 Year Fixed Rate - 145% of monthly interest payments at product pay rate. Remortgage 5 Year Fixed Rate (Lower Rate Taxpayer) - 125% of monthly interest payments at product pay rate. Remortgage Other Products - 145% of monthly interest payments at Product Rate + 2% or 5.50% (whichever is higher) Remortgage Other Products (Lower Rate Taxpayer) - 125% of monthly interest payments at Product Rate + 2% or 5.50% (whichever is higher)
+### Buyer Declaration Required
 
-## Rental Income
+Buyer must confirm:
 
-75% of the net UK Property income (after all deductions/expenses) can be used as part of the Banks income assessment. This income must be evidenced by way of the last 2 years HMRC SA302's. However, by exception, if the applicant has trading accounts produced by a suitably qualified accountant and from this the Bank understands the setup and gearing of this portfolio, we will accept 100% of this income.
+- Transaction not being done to avoid BKO, IVA, Repossession or NPA.
+- No other parties will claim rights over security post-completion.
+- Information provided is accurate and not misleading.
+- All parties will receive independent legal advice.
+- Property purchased as Vacant Possession or tenanted to third party.
+- Seller will not occupy property after completion.
 
-## Repayment Methods
+### Valuation & LTV Rules
 
-SBI UK accepts the following methods: Repayment or Interest Only
+- Standard valuation will provide OMV.
 
-## Repayment Strategy (Interest Only)
+- LTV restricted to 75% of:
 
-Interest only and part & part repayment methods are acceptable for all SBI UK Buy to Let loans. Applicants must have a plausible repayment strategy for repaying the loan and will remain responsible for repaying the debt at the end of the mortgage term, regardless of the performance of their repayment plan. Acceptable repayments methods for SBI UK Buy to Let loans are listed below: Individual savings account Endowment policy Investment plan Savings Sale of subject property Sale of another property
+- Purchase Price; OR
+- OMV;
+- Whichever is lower.
 
-## Replacement Property
+- Applicant must evidence additional deposit funds where applicable.
 
-If the applicant wishes to change the property during the application process, then a new application must be submitted and assessed in line with our latest lending policy.
+- If purchased at OMV:
 
-## Residency
+- SBI UK may lend 75% of OMV.
+- Remaining balance may be covered by Gifted Deposit from seller, confirming:
 
-All applicants must have been resident in the UK for the last 2 years. Non-UK nationals must have permanent right to reside in the UK, settled or pre settled status. Refer to Business Development Manager for UK-National Non-UK-Resident (Ex-pat) and Non-UK National (Foreign National) applications.
+  - Equity gifted without repayment or charge.
+  - Seller waives all future rights to property.
 
-## Retentions
+# Procuration Fee
 
-Retention products are available, the applicant will be contacted prior to the expiry of their current rate with a range of options, please contact your SBI UK Business Development Manager for more details.
+- Non-SPV / LLP / Ltd Co BTL – AR cases:
 
-## Retired Applicants
+- 0.50% (maximum £6,000).
 
-For all Buy to Let Applications the income of the principal applicant only will be assessed. The principal applicant can be any one from the named applicants, who must meet the specified income requirements as per this policy document. SBI UK's minimum income requirements must be derived only from acceptable sources, which are detailed below: Private Pension. State Pension. We will not consider additional income from Investments, Shares, or Interest
+- Non-SPV / LLP / Ltd Co BTL – DA cases:
 
-## Spv/Ltd Co - Business Activities
+- 0.50% (maximum £6,000).
 
-SBI UK only lends to companies that have experience in the market and conform to this profile the following conditions apply: The company must be incorporated in the UK, by private individuals. The company's sole activity is the purchase and/or remortgage of residential property for letting. This must be confirmed by the SIC code registered at Companies House. The following SIC (2007) codes are acceptable: 68100 – Buying and selling of own real estate. 68209 – Other letting and operating of own or leased real estate. 68320 – Management of real estate on a fee or contract basis. In addition, the following historic codes under SIC (2003) are also acceptable: 7012 – Buying and selling own real estate. 7020 – Letting of own property. 7032 – Manage real estate.
+- SPV / LLP / Ltd Co BTL – DA and AR cases:
 
-## Spv/Ltd Co - Individual To Spv Transfer
+- 0.75% (maximum £10,000).
 
-SBI UK will consider these transactions, but they must meet with the following criteria: The property must have been in the individual's ownership for a period of at least 6 months. The transaction must be taking place as a purchase, with the acting solicitor providing confirmation of this along with confirmation of the amount of stamp duty being paid or exemption for the payment of the stamp duty is agreed by HMRC or any other competent authority. There must be a suitable insolvency indemnity policy in place (to protect the Banks interest in case the transaction is taking place without proper consideration) at completion, in view that the transaction is not taking place at arms-length. The purchase price must be approximate to the value that has been independently provided by the Banks surveyor on their report. The existing owners must all be named as shareholders/directors of the SPV Company looking to complete the purchase. If the deposit is coming by way of a loan from the directors to the purchasing company, then a deed of subordination must be completed. Where the property transfer to the SPV has taken place before submission of the case to the Bank but within the last 6-month period, this will be acceptable provided the above six principles have been met. The solicitor which dealt with the transfer will be required to provide the confirmations.
+- Retention cases:
 
-## Spv/Ltd Co - Location Of Company
+- 0.2% (maximum £10,000).
 
-All company applications must be from companies that are registered and based in the UK. Applications will not be accepted from any company based in any offshore location or jurisdiction, including: Jersey Guernsey Isle of Man British Virgin Islands Any other offshore or tax haven location
+# Property - Construction
 
-## Spv/Ltd Co - Newly Formed Companies
+- Refer to Property and Valuation Policy Manual for acceptable and unacceptable construction types.
 
-Newly incorporated SPV Ltd/LLP companies will be accepted by SBI UK subject to the following conditions:p> The company search must reveal full directors and shareholders details (off the shelf companies not permitted). SIC code must meet the requirements of policy. If a SIC code is not available at assessment, then it must be in place prior to completion.
+# Property - Flats
 
-## Spv/Ltd Co - No Of Directors/Members
+- Freehold Flats / Maisonettes:
 
-The maximum number of directors, shareholders or members that can be accepted on a Buy to Let application in a company name is four, subject to they have the authority to bind the company to the lending/Debt. All company directors, shareholders and members must be named and party to the application and must have signed our application form. Any company with more than four differing directors, shareholders or members will not be accepted. All directors, shareholders or members must be private individuals. All directors, shareholders or members must sign the application form. It is acceptable for a company to have shareholders that are not directors and vice-versa, but SBI UK requires that shareholding directors / partners / shareholders party to the application and must have the correct board authorities and hold a minimum of a 75% shareholding in the company.
+- Not acceptable security.
 
-## Spv/Ltd Co - Security & Registration Of Charges
+- High Rise Blocks (6 storeys or more):
 
-SBI UK will insist on the following: Personal Guarantees To protect SBI UK's interests full Personal Guarantees will be required from all Directors, shareholders, and members. In addition, all Directors, shareholders, and members will be required to obtain Independent Legal Advice prior to completion of the loan. The solicitor will be instructed to provide a letter confirming that each Director, shareholder, and member has received independent legal advice and a special condition will be added to the mortgage offer to ensure that this is enforced. Fixed Legal Charge SBI UK’s fixed legal charge must be a first legal charge ranking in priority over all other charges. Floating Charge (Debenture) A floating charge takes security over assets and material that may fluctuate over time, such as stock, but can also relate to property. When a Company uses floating charges, it does not affect their ability to use the stock or assets under the charge as normal. A floating charge may be explored which takes security over assets and material that may fluctuate over time, such as stock, but can also relate to property. When a Company uses floating charges, it does not affect their ability to use the stock or assets under the charge as normal. In case where the SPV has taken lending from some other lender too; where we are getting the PG and first and exclusive charge on the property the Bank will not request for Floating charge or debenture. The solicitor must ensure that: SBI UK’s floating charge where available must rank at least in equal priority to any other floating charge which may have been registered by any other lender. If a floating charge (debenture) has been provided to another lender it will be necessary to obtain permission from them to proceed with the processing of the new loan. The lender will be required to provide a letter of consent and confirmation that their floating charge has not crystallised (letter of non-crystallisation)
+- Acceptable if lift service available; OR
+- In super prime prestigious development without lift.
 
-## Spv/Ltd Co – Group Structure
+- Ex-Local Authority Flats:
 
-The Bank will accept application for SPV group structure, where there is a ‘Parent company” or a “subsidiary”. All companies within the Group must be in the same line of business, same directorship, shareholding pattern and same sic codes (i.e. – Property Investment). For example: If a parent SPV company applies for a mortgage and the shareholding is a subsidiaries company then both the companies (parent and subsidiary) must have the same sic codes as per the policy and all directorships/ shareholder must be the same. The same applies for a SPV company which are subsidiary.
+- Generally not acceptable.
+- May be considered if at least 50% privately owned.
+- Confirmed by solicitor.
+- Exceptions considered in:
 
-## Sale And Rent/Sale And Lease
+  - London
+  - Manchester
+  - Birmingham
+  - Leeds
+  - Southampton
+  - Newcastle
+  - Cardiff
 
-SBI UK will not accept any application in the UK which involves a sale and rent back or sale and lease back arrangement.
+- Studio Flats:
 
-## Self Employed - Applicants
+- Generally not acceptable.
+- Exception:
 
-The applicant is considered self-employed if they fall into any of the following categories: They are a Sole Trader They are a Partner in a Partnership They have a shareholding of 25% or more in a Ltd Company They are a member of a Limited Liability Partnership (LLP) The applicant is directly related to a principal of the business that employs them (in these circumstances the Company Accountant must confirm the applicant's income, in addition to the applicant providing their latest two years' P60).
+  - Minimum 22 sqm (London, Birmingham, Manchester).
+  - Minimum 30 sqm (other locations).
+  - Separate bathroom required.
 
-## Self Employed - Ltd Co Shareholder
+- Independent Access:
 
-Evidence of income must be in the form of: Last 2 years trading accounts produced and signed by a suitably qualified accountant (refer to accountant’s qualifications section of policy), AND Last 2 years receipted postal HMRC SA302's or the last 2 years online tax year overviews together with 2 years online tax calculations. This is expected to show a tax reference and have the covering letter from HMRC confirming the same reference. The total of the applicants’ dividends, remuneration and salary will be used to meet SBI UK’s minimum income requirement. An average of the last two years’ dividends, remuneration and salary must be used to calculate income. If the latest year's income has reduced then only that year's figure should be used, not the average
+- Must have independent and unimpeded access.
+- Shared access subject to solicitor confirmation.
 
-## Self Employed - Partnership
+- Commercial Premises:
 
-Evidence of income must be in the form of: Last 2 years trading accounts (if available) produced and signed by a suitably qualified accountant (refer to accountant’s qualifications section of policy), AND Last 2 years receipted postal HMRC SA302’s or the last 2 years online tax year overviews together with 2 years online tax calculations. The applicants' share of taxable net profit will be the figure used to meet SBI UK’s minimum income requirement.
+- Flats above certain commercial premises not acceptable.
+- Nearby detrimental commercial premises not acceptable.
 
-## Self Employed - Sole Trader
+# Property - Location
 
-Evidence of income must be in the form of: Last 2 years trading accounts (if available) produced and signed by a suitably qualified accountant (refer to accountant’s qualifications section of policy), AND Last 2 years receipted postal HMRC SA302’s or the last 2 years online tax year overviews together with 2 years online tax calculations. The taxable net profit will be the figure used to meet SBI UK’s minimum income requirement.
+- Property must be in:
 
-## Sub-Sales
+- Mainland England (including Isle of Wight); or
+- Wales.
 
-If SBI UK are aware that a sub-sale is taking place, then SBI UK is not able to consider the transaction under any circumstances.
+- Not accepted in:
 
-## Tenancy
+- Scotland
+- Northern Ireland
+- Isle of Man
+- Channel Islands
 
-The Bank will only consider BTL properties (non-HMO) which are occupied or intended to be occupied by no more than 4 tenants on a single tenancy agreement or a single family. The Bank will not consider a multiple tenancy proposal on a standard BTL submission (please also refer to HMO policy). Any remortgage property presented to SBI UK must be either presently let or have had no more than a 3-month void period at the time of application.
+# Property - Multiple Units
 
-## Tenancy Agreement
+- Defined as more than one unit on single title.
 
-There are three tenancy types which are acceptable to the Bank: 1. Assured Short hold Tenancy (AST) 2. High Rent Tenant ices 3. Company Let Agreements Tenancy - MultiUnits The Bank will require a tenancy agreement for each flat for a multiunit property which are converted flats under single freehold. The AST for each unit must fall within the three tenancy types which are acceptable to the Bank.
+- Maximum units:
 
-## Tenancy Agreement - Company Let
+- Up to 10 units.
 
-A tenancy agreement cannot be an assured shorthold where the tenant is a Limited Company. SBI will consider Company Lets on a Common Law Tenancy Agreement only where the tenant is a recognisable blue-chip company and subject to a maximum length of 12 months and a 6-month break clause.
+- Maximum LTV:
 
-## Tenancy Agreement - High Rent Tenancies
+- Up to 4 units – 75%.
+- 5–6 units – 70%.
+- Above 6 units – 65%.
+- Specialist rate for more than 6 units.
 
-The Bank will accept a ‘Common Law Tenancy’ where annual rental income exceeds £100,000 per annum. The tenancy agreement will be acceptable subject to a maximum length of 12 months and a 6-month break clause.
+- Each unit must have:
 
-## Tenancy Agreement - Housing Association/Council
+- Separate access.
+- Separate facilities (e.g., water, heating).
 
-Where a housing association or council is paying the rent of the tenant and the AST meets our criteria e.g., term of AST and relevant break clauses and on a 12-month agreement. The Bank will accept these types of AST's.
+- Granny flat / annexe not acceptable.
 
-## Tenancy Agreement - Unacceptable Type
+# Property - New Build
 
-The following list is some typical examples of unacceptable tenancy types to SBI UK: Tenancies of agricultural land or holdings College accommodation Let to or occupied by an embassy or diplomat. Assured Tenancies Regulated Tenancies (Sitting Tenancies) Regulated Buy to Lets Sale and Rent Backs Letting to Own Company Premium Leases
+- New build or newly converted (within 12 months or first registration):
 
-## Tenancy Agreement – Assured Shorthold Tenancy
+- Maximum LTV restricted to 70%.
 
-This is subject to a maximum length of 12 months remaining to ensure that the Bank is provided with adequate protection and enforcement rights in the event of possession. If the tenancy term was initially greater than 1 year and it has more than 12 months remaining this will also be acceptable if the agreement includes a break clause allowing 2 months’ notice to terminate the agreement. Tenancy Agreement - Company Let A tenancy agreement cannot be an assured shorthold where the tenant is a Limited Company. The Bank will consider Company Lets on a Common Law Tenancy Agreement only where the tenant is a recognisable company and subject to a maximum length of 12 months and a 6-month break clause.
+# Property - Tenure
 
-## Tenure
+- Acceptable:
 
-Freehold or Leasehold only.
+- Freehold.
+- Leasehold (minimum 55 years remaining at end of mortgage term).
 
-## Term Of Repayment
+- Not acceptable:
 
-The minimum loan term available is 5 years and the maximum loan term is 25 years. The maximum loan term of 25 years will be reduced in instances that the age of borrower exceeds age 80 at the end of the mortgage term. *Exception can be considered, refer to BDM..
+- Commonhold.
 
-## Trustees
+# Property - Unacceptable
 
-Properties owned or managed under trust or under a Deed of Trust used to arrange property ownership as Tenants in Common are not acceptable security for SBI UK.
+Not acceptable:
 
-## Undervalue Transactions
+- Agricultural Restrictions / Ties.
+- Bedsits (unless HMO).
+- BISF properties.
+- Colt Bungalows.
+- Immediately adjacent A3 commercial premises.
+- Commonhold.
+- More than 15% Flying Freehold.
+- Granny annexe.
+- HACC properties.
+- Hoop Iron Built.
+- Houseboats.
+- LPS construction.
+- Mixed use properties.
+- Multiple kitchens.
+- Rent to Buy / Right to Buy.
+- Shared Ownership.
+- Steel Framed and Clad.
+- Timber Clad (e.g., Swedish Timber).
 
-SBI UK will only accept a transaction at undervalue if the property is being purchased at a reduced amount to facilitate a quick sale or because of a court order (such as divorce proceedings).
+# Property - Value
 
-## Unearned Income
+- London (E, EC, N, NW, SE, SW, W, WC postcodes):
 
-The following list outlines the acceptable forms of unearned income which can be included in SBI UK's income assessment: Rental Income (75% of the 2 year's average, net UK Property income after all deductions/expenses) can be used as part of SBI UK's income assessment. This income must be evidenced by way of the last 2 years HMRC SA302's. However, by exception, if the applicant has trading accounts produced by a suitably qualified accountant and from this SBI UK understands the setup and gearing of this portfolio, we will accept 100% of the average income). Attendance Allowance Carer's Allowance Constant Attendance Allowance Disability Living Allowance (DLA) for adults. Disability Living Allowance (DLA) for Children Employment and Support Allowance (ESA) Income Support Industrial Injuries Disablement Benefit Personal Independence Payment (PIP) Reduced Earnings Allowance State Pension
+- Minimum £150,000.
 
-## Working For Family
+- Outside London:
 
-If the applicant is directly related to a principal of a business that employs them, we require the company accountant to confirm the applicant's income and their latest two years' P60 except directors. Applicants who draw a director's salary are treated as self-employed criteria.
+- Minimum £60,000.
 
----
+- Converted freehold into flats:
 
-## Main URLs
+- Each flat must meet minimum value criteria.
 
-- https://sbi-prod.azurewebsites.net/Portal/PreLogon/Logon
-- https://sbiuk.statebank/btl-criteria
-- https://sbiuk.statebank/btl-literature
+# Property Concentration
+
+- Maximum 6 properties per applicant.
+
+- Maximum 10 flats in one complete postcode.
+
+- Maximum LTV:
+
+- Up to 4 properties/flats – 75%.
+- 5–6 properties/flats – 70%.
+- Above 6 flats – 65%.
+
+# Property Investment Club
+
+- Properties sourced through Property Investment Club / Company not acceptable.
+
+# Remortgages - Unacceptable
+
+Unacceptable purposes:
+
+- Sale and rent back / lease back.
+- Timeshare purchase.
+- Business purposes.
+- Property development.
+- Property Investment Club purchase.
+- Equity investments (stocks, shares, annuity, Home Income Plan).
+- Currency speculation.
+- ASU premiums.
+- Tax bill / HMRC demand.
+- Any purpose against interests of SBI UK Group.
+
+# Rental Cover Assessment
+
+- Private Individuals:
+
+- 145% rental cover.
+- 125% if lower rate taxpayer.
+
+- SPV Ltd / LLP:
+
+- 125% rental cover.
+
+- Refer to product guide for stress rates.
+
+# Rental Coverage (Specialist Products)
+
+- 5 Year Fixed:
+
+- 125% at product pay rate.
+
+- Other Products:
+
+- 125% at Product Rate + 2% OR 5.50% (higher applies).
+
+- Remortgage rules identical.
+
+# Rental Coverage (Standard Products)
+
+- 5 Year Fixed:
+
+- 145% at product pay rate.
+- 125% if lower rate taxpayer.
+
+- Other Products:
+
+- 145% at Product Rate + 2% OR 5.50%.
+- 125% if lower rate taxpayer.
+
+- Remortgage rules identical.
+
+# Rental Income
+
+- 75% of net UK property income (after deductions) can be used.
+
+- Evidence:
+
+- Last 2 years HMRC SA302s.
+
+- Exception:
+
+- 100% may be used where supported by qualified accountant accounts and portfolio understanding.
+
+# Repayment Methods
+
+- Repayment.
+- Interest Only.
+
+# Repayment Strategy (Interest Only)
+
+Acceptable strategies:
+
+- Individual savings account.
+- Endowment policy.
+- Investment plan.
+- Savings.
+- Sale of subject property.
+- Sale of another property.
+
+Applicant remains responsible for full repayment.
+
+# Replacement Property
+
+- Change of property requires new application under latest policy.
+
+# Residency
+
+- Must have been UK resident for last 2 years.
+- Non-UK nationals must have permanent right to reside (settled or pre-settled).
+
+# Retentions
+
+- Retention products available.
+- Customer contacted prior to expiry of current rate.
+
+# Retired Applicants
+
+- Only principal applicant income assessed.
+
+- Acceptable sources:
+
+- Private Pension.
+- State Pension.
+
+- Not acceptable:
+
+- Investment income.
+- Shares.
+- Interest income.
+
+# SPV / Ltd Co - Business Activities
+
+- Company must be UK incorporated.
+- Sole activity:
+
+- Purchase / remortgage and letting residential property.
+- Confirmed via SIC code.
+
+### Acceptable SIC (2007)
+
+- 68100
+- 68209
+- 68320
+
+### Acceptable SIC (2003)
+
+- 7012
+- 7020
+- 7032
+
+# SPV / Ltd Co - Individual To SPV Transfer
+
+Must meet:
+
+- Minimum 6 months ownership.
+- Solicitor confirmation of purchase and stamp duty.
+- Insolvency indemnity policy.
+- Purchase price aligned with valuation.
+- Existing owners named as shareholders/directors.
+- Directors loan requires deed of subordination.
+- Transfers within last 6 months acceptable if criteria met.
+
+# SPV / Ltd Co - Location Of Company
+
+Not accepted if based in:
+
+- Jersey
+- Guernsey
+- Isle of Man
+- British Virgin Islands
+- Any offshore / tax haven location
+
+# SPV / Ltd Co - Newly Formed Companies
+
+- Accepted subject to:
+
+- Full directors/shareholders disclosed.
+- No off-the-shelf companies.
+- Correct SIC code in place before completion.
+
+# SPV / Ltd Co - No Of Directors / Members
+
+- Maximum 4 directors/shareholders/members.
+- All must:
+
+- Be private individuals.
+- Be party to application.
+- Sign application form.
+- Hold minimum 75% shareholding (collectively).
+- Have correct board authorities.
+
+# SPV / Ltd Co - Security & Registration Of Charges
+
+### Personal Guarantees
+
+- Required from all directors/shareholders/members.
+- Independent Legal Advice required.
+- Solicitor confirmation required.
+
+### Fixed Legal Charge
+
+- First legal charge ranking in priority.
+
+### Floating Charge (Debenture)
+
+- May be required.
+
+- Must rank equally with other floating charges.
+
+- If another lender has floating charge:
+
+- Letter of consent required.
+- Letter of non-crystallisation required.
+
+- If SBI UK holds PG and first exclusive charge:
+
+- Floating charge may not be required.
+
+# SPV / Ltd Co – Group Structure
+
+- Parent / Subsidiary structures acceptable.
+- All companies must:
+
+- Be in same line of business.
+- Have same directorship.
+- Have same shareholding pattern.
+- Have same SIC codes.
+
+# Sale And Rent / Sale And Lease
+
+- Not acceptable.
+
+# Self Employed - Applicants
+
+Considered self-employed if:
+
+- Sole Trader.
+- Partner in Partnership.
+- 25% or more shareholder in Ltd Company.
+- Member of LLP.
+- Related to principal of employing business (accountant confirmation required).
+
+# Self Employed - Ltd Co Shareholder
+
+Evidence required:
+
+- Last 2 years trading accounts (qualified accountant).
+- Last 2 years HMRC SA302s or tax year overviews and calculations.
+- Dividends + remuneration + salary used.
+- Average of last 2 years used.
+- If latest year reduced:
+
+- Latest year figure used only.
+
+# Self Employed - Partnership
+
+Evidence required:
+
+- Last 2 years trading accounts (if available).
+- Last 2 years HMRC SA302s or tax year overviews.
+- Share of taxable net profit used.
+
+# Self Employed - Sole Trader
+
+Evidence required:
+
+- Last 2 years trading accounts (if available).
+- Last 2 years HMRC SA302s or tax year overviews.
+- Taxable net profit used.
+
+# Sub-Sales
+
+- Not acceptable under any circumstances.
+
+# Tenancy
+
+- Non-HMO BTL:
+
+- Maximum 4 tenants on single tenancy; OR
+- Single family.
+
+- Multiple tenancy not acceptable under standard BTL.
+
+- Remortgage property:
+
+- Must be currently let; OR
+- Void no more than 3 months.
+
+# Tenancy Agreement
+
+Acceptable types:
+
+1. Assured Shorthold Tenancy (AST).
+2. High Rent Tenancies.
+3. Company Let Agreements.
+
+- Multiunit properties:
+
+- Tenancy agreement required for each flat.
+- Must fall within acceptable types.
+
+# Tenancy Agreement - Company Let
+
+- Cannot be AST if tenant is Limited Company.
+- Must be Common Law Tenancy.
+- Maximum 12 months.
+- 6-month break clause required.
+- Recognisable blue-chip company tenant.
+
+# Tenancy Agreement - High Rent Tenancies
+
+- Common Law Tenancy.
+- Annual rent exceeds £100,000.
+- Maximum 12 months.
+- 6-month break clause.
+
+# Tenancy Agreement - Housing Association / Council
+
+- Accepted if:
+
+- AST meets criteria.
+- 12-month agreement.
+- Appropriate break clauses.
+
+# Tenancy Agreement - Unacceptable Type
+
+Not acceptable:
+
+- Agricultural land tenancies.
+- College accommodation.
+- Embassy / diplomat occupation.
+- Assured Tenancies.
+- Regulated Tenancies.
+- Regulated Buy to Lets.
+- Sale and Rent Backs.
+- Letting to Own Company.
+- Premium Leases.
+
+# Tenancy Agreement – Assured Shorthold Tenancy
+
+- Maximum 12 months remaining.
+- If original term > 1 year:
+
+- Acceptable if break clause allowing 2 months’ notice.
+
+# Tenure
+
+- Freehold or Leasehold only.
+
+# Term Of Repayment
+
+- Minimum term: 5 years.
+- Maximum term: 25 years.
+- Reduced if borrower exceeds age 80 at end of term.
+- Exception may be considered via BDM.
+
+# Trustees
+
+- Properties owned under Trust or Deed of Trust (Tenants in Common arrangements) not acceptable.
+
+# Undervalue Transactions
+
+- Accepted only where:
+
+- Reduced amount to facilitate quick sale; OR
+- Court order (e.g., divorce).
+
+# Unearned Income
+
+Acceptable:
+
+- Rental income (75% of 2-year average net).
+- 100% by exception with accountant support.
+- Attendance Allowance.
+- Carer’s Allowance.
+- Constant Attendance Allowance.
+- Disability Living Allowance (Adult/Child).
+- Employment and Support Allowance.
+- Income Support.
+- Industrial Injuries Disablement Benefit.
+- Personal Independence Payment.
+- Reduced Earnings Allowance.
+- State Pension.
+
+# Working For Family
+
+- If applicant related to principal of employing business:
+
+- Company accountant must confirm income.
+- Provide last 2 years P60.
+- Directors drawing salary treated as self-employed.
+

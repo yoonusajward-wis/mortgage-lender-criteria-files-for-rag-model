@@ -1,7 +1,5 @@
 # CASTLE TRUST BANK – BUY TO LET (LIMITED COMPANY) CRITERIA
 
----
-
 **LENDER:** Castle Trust Bank
 **PRODUCT:** BTL Limited Company (SPVs, Trading Companies)
 **DOCUMENT TYPE:** Lending Criteria
@@ -9,8 +7,6 @@
 **FOR INTERMEDIARY USE ONLY**
 
 **Source:** [Lending criteria and documents](https://www.castletrust.co.uk/property-documents-lending-criteria/)
-
----
 
 ## SECTION 1 – OVERVIEW & LENDING PARAMETERS
 
@@ -41,8 +37,6 @@
 * **Term:** 10 years (TermTen Product).
 * **Fixed rate period:** 5 years (TermTen Product).
 * **Repayment:** Interest-only available.
-
----
 
 ## SECTION 2 – APPLICANT REQUIREMENTS
 
@@ -77,8 +71,6 @@
 
 * **Minimum applicant age:** 21 years.
 * **Maximum applicant age at end of term:** 85 years.
-
----
 
 ## SECTION 3 – PROPERTY CRITERIA
 
@@ -144,8 +136,6 @@
 * Holiday Lets, Serviced Apartments and Airbnb acceptable.
 * Holiday lets: affordability based on holiday let income, not AST.
 
----
-
 ## SECTION 4 – RENTAL INCOME & AFFORDABILITY
 
 ### Interest Coverage Ratio (ICR) – BTL Rental Coverage Test
@@ -166,8 +156,6 @@
 * Portfolio landlords accepted.
 * ICR stress testing applies to individual properties.
 * Portfolio-wide assessment may be considered.
-
----
 
 ## SECTION 5 – PRODUCT TYPES
 
@@ -194,8 +182,6 @@
 * Maximum LTV: Up to 75% (net).
 * Terms and rates vary by product; refer to current rate cards for specific product details.
 
----
-
 ## SECTION 6 – REPAYMENT METHODS, DEPOSITS & OWNERSHIP
 
 ### Repayment Types
@@ -219,8 +205,6 @@
 ### Ownership
 
 * Ownership can be as either an individual or corporate borrower.
-
----
 
 ## SECTION 7 – CREDIT HISTORY
 
@@ -257,8 +241,6 @@
 * Maximum 2 in 12 months, maximum status 1.
 * No more than 4 missed payments in 36 months, maximum status 1.
 
----
-
 ## SECTION 8 – APPLICATION TYPES
 
 ### Purchase
@@ -280,8 +262,6 @@
 * Home improvements – May be considered.
 * Other purposes – Subject to individual assessment.
 
----
-
 ## SECTION 9 – FEES
 
 * **Arrangement fees:** Vary by product (4% for TermTen Product, can be added to loan).
@@ -289,8 +269,6 @@
 * **Early repayment charges:** Apply during fixed rate period (5% for TermTen Product).
 * **Exit fees:** May apply (1% for TermTen Product).
 * **Product fees:** Can be added to loan (subject to LTV limits).
-
----
 
 ## SECTION 10 – APPLICATION PROCESS
 
@@ -323,8 +301,6 @@
 * Personal guarantee forms required.
 * Additional forms as required.
 
----
-
 ## SECTION 11 – ADDITIONAL INFORMATION
 
 ### Calculators
@@ -355,8 +331,6 @@
 * SPVs must have acceptable SIC codes (68100, 68209, 68320).
 * Portfolio landlords are accepted with no maximum portfolio size restrictions.
 
----
-
 ## SECTION 12 – CONTACT
 
 * **Phone:** 0345 241 3079
@@ -368,7 +342,5 @@
 * **Office hours:** Monday to Friday, standard business hours. Calls may be monitored and/or recorded for security and training purposes.
 
 Castle Trust Bank is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority.
-
----
 
 *END OF DOCUMENT*

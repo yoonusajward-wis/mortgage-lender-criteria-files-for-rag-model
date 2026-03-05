@@ -1,15 +1,11 @@
 # WEST ONE – RESIDENTIAL LENDING CRITERIA
 
----
-
 **LENDER:** West One
 **PRODUCT:** Residential
 **DOCUMENT TYPE:** Residential Mortgages Criteria Guide
 **LAST UPDATED:** September 2025
 **SOURCE:** West One Residential Mortgages Product Guide & Website
 **FOR INTERMEDIARY USE ONLY**
-
----
 
 ## Document Information
 
@@ -26,8 +22,6 @@ This product information is for intermediary use only and its contents should no
 - Firm Reference Number: 776026
 - Company Number: 09425230
 - Certain types of loans are not regulated, for example loans for business purposes or certain Buy-to-Lets
-
----
 
 ## Overview
 
@@ -69,8 +63,6 @@ West One takes a common-sense approach to lending, helping your client purchase 
 - Right-to-Buy purchases for borrowers with less than a perfect credit profile up to 100% of the discounted purchase price
 - Loan terms from 5 to 40 years
 
----
-
 ## Product Range
 
 West One offers the following product tiers:
@@ -83,8 +75,6 @@ West One offers the following product tiers:
 6. **Right to Buy** - Specialized product
 7. **Shared Ownership** - Specialized product
 8. **Extra** - Enhanced product range with additional features
-
----
 
 ## General Lending Criteria
 
@@ -166,8 +156,6 @@ West One offers the following product tiers:
 - England, Wales and mainland Scotland
 - Right to Buy: England and Isle of Wight Only
 - Shared Ownership: England, Wales and Isle of Wight Only
-
----
 
 ## Product-Specific Criteria
 
@@ -389,8 +377,6 @@ West One offers the following product tiers:
 - Interest only: Not available for LTI Boost/Extra
 - Unencumbered: Not available for LTI Boost
 
----
-
 ## Automated Valuation Model (AVM) Criteria
 
 **AVM Availability:**
@@ -412,8 +398,6 @@ West One offers the following product tiers:
 - 6+ confidence: £750,000
 - 5+ confidence: £300,000
 - 4+ confidence: £300,000
-
----
 
 ## Income and Employment
 
@@ -438,8 +422,6 @@ West One offers the following product tiers:
 **Retirement Income:**
 - Over 10 years from retirement: Work off current income with proof of pension (e.g. payslip showing pension deduction)
 - Within 10 years of retirement: Work off lower of current income or pension income
-
----
 
 ## Property Criteria
 
@@ -478,8 +460,6 @@ West One offers the following product tiers:
 **Debt Consolidation Definition:**
 - Unsecured debt becoming secured debt (this includes PCP)
 
----
-
 ## Fees and Charges
 
 ### Application Fee
@@ -508,19 +488,13 @@ West One offers the following product tiers:
 ### Cashback
 - £1,000 Cashback available (minimum loan £75k)
 
----
-
 ## Adverse Credit - General Notes
 
 1. An explanation is required for all adverse credit, especially in cases of a worsening credit profile
 2. Unsecured credit with balances below £500 are excluded from plan assessments but will be reviewed for affordability
 3. Utilities and comms suppliers' payment profiles are not taken into account for plan assessment purposes (excluding CCJs and defaults)
 
----
-
 # CREDIT TIERS – COMPARISON
-
----
 
 ## Satisfied Defaults
 
@@ -532,8 +506,6 @@ Near Prime: Accepted
 Right to Buy: No defaults over £500 within last 12 months
 Shared Ownership: No defaults over £500 within last 12 months
 
----
-
 ## Unsatisfied Defaults
 
 Premier: No defaults over £500 within last 36 months
@@ -543,8 +515,6 @@ Prime: No defaults over £500 within last 6 months
 Near Prime: Maximum 1 default over £500 within last 12 months
 Right to Buy: No defaults over £500 within last 12 months
 Shared Ownership: No defaults over £500 within last 12 months
-
----
 
 ## Satisfied CCJs
 
@@ -556,8 +526,6 @@ Near Prime: Accepted
 Right to Buy: No CCJs over £500 within last 12 months
 Shared Ownership: No CCJs over £500 within last 12 months
 
----
-
 ## Unsatisfied CCJs
 
 Premier: No CCJs over £500 within last 36 months
@@ -567,8 +535,6 @@ Prime: No CCJs over £500 within last 6 months
 Near Prime: Maximum 1 CCJ over £500 within last 12 months
 Right to Buy: No CCJs over £500 within last 12 months
 Shared Ownership: No CCJs over £500 within last 12 months
-
----
 
 ## Maximum CCJ Value
 
@@ -580,8 +546,6 @@ Near Prime: Not applicable
 Right to Buy: Over £7,500 by referral
 Shared Ownership: Over £7,500 by referral
 
----
-
 ## Secured Arrears
 
 Premier: None in last 36 months and must be up to date
@@ -591,8 +555,6 @@ Prime: Maximum 1 in last 12 months, none in last 6 months
 Near Prime: Maximum 1 in last 12 months, none in last 3 months
 Right to Buy: None in last 12 months and must be up to date
 Shared Ownership: None in last 12 months and must be up to date
-
----
 
 ## Unsecured Arrears
 
@@ -604,8 +566,6 @@ Near Prime: Accepted
 Right to Buy: Accepted if up to date
 Shared Ownership: Accepted if up to date
 
----
-
 ## Payday / High Interest / Short Term Loans
 
 Premier: None in last 36 months
@@ -615,8 +575,6 @@ Prime: None in last 6 months
 Near Prime: None in last 3 months
 Right to Buy: None in last 12 months
 Shared Ownership: None in last 12 months
-
----
 
 ## Discharged DMPs
 
@@ -628,8 +586,6 @@ Near Prime: Accepted with satisfactory explanation
 Right to Buy: None in last 72 months
 Shared Ownership: None in last 72 months
 
----
-
 ## Current DMPs
 
 Premier: Not accepted
@@ -640,13 +596,9 @@ Near Prime: Accepted if discharged from mortgage proceeds
 Right to Buy: Not accepted
 Shared Ownership: Not accepted
 
----
-
 ## Bankruptcies / IVAs
 
 All tiers: None within last 72 months.
-
----
 
 ## LTI Boost Range
 
@@ -663,8 +615,6 @@ All tiers: None within last 72 months.
 - Only available as capital repayment
 - Interest only: Not available for LTI Boost
 - Unencumbered: Not available for LTI Boost
-
----
 
 ## Solutions for Borrowers Every Step of the Way
 
@@ -692,8 +642,6 @@ Every mortgage borrower profile looks different. That's why West One serves a br
 - Those purchasing Shared Ownership or Right-to-Buy properties
 - Older age borrowers (up to 85 years at the end of the term)
 - Non-UK citizens with skilled worker, health and care, or ancestry visas
-
----
 
 ## Frequently Asked Questions
 
@@ -747,8 +695,6 @@ LTV calculations for New Build properties will be based on the lower of the open
 
 There is a standard application fee of £199. Product fees of £1,495 apply (product fee not applicable on fee assist products). For Fee Assist products, the application fee is refundable within 30 days of completion. Legal and valuation fees may also apply, but fast-track remortgage legal services are available with no legal fees.
 
----
-
 ## Additional Services
 
 ### Fast Track Remortgage Service
@@ -762,8 +708,6 @@ There is a standard application fee of £199. Product fees of £1,495 apply (pro
 - Dedicated broker support team
 - Office-based underwriting support available
 - Referrals considered for more complex cases or cases outside standard criteria
-
----
 
 ## Company Information
 
@@ -789,13 +733,9 @@ All the above firms are registered with the Information Commissioner Office and 
 
 Certain types of loans are not regulated, for example loans for business purposes or certain buy-to-lets.
 
----
-
 **If in doubt, please call or email us. Our dedicated broker support team would be delighted to discuss your case.**
 
 Email: brokersupport@westoneloans.co.uk | Tel: 0333 1234556  
 Website: [www.westoneloans.co.uk/residential-mortgages](https://www.westoneloans.co.uk/residential-mortgages)
-
----
 
 # END OF DOCUMENT

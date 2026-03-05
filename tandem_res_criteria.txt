@@ -1,7 +1,5 @@
 # Tandem Bank – Residential Mortgage Criteria
 
----
-
 **LENDER:** Tandem Bank (Tandem Bank Limited t/a Tandem)
 **PRODUCT:** Residential Mortgage
 **DOCUMENT TYPE:** Lending Criteria
@@ -16,8 +14,6 @@
 - Website: www.intermediary.tandem.co.uk
 
 **Regulatory:** Tandem Bank Limited t/a Tandem is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (FRN: 204479). Registered in England and Wales, Company number 00955491. Registered office: Viscount Court, Sir Frank Whittle Way, Blackpool, FY4 2FB.
-
----
 
 ## SECTION 1 – LOAN PARAMETERS
 
@@ -42,8 +38,6 @@
 - New build flats: maximum 75% LTV.
 - Maximum 10% exposure on one new build site.
 - New build definition: construction complete and/or property first occupied within the previous 2 years.
-
----
 
 ## SECTION 2 – APPLICANT ELIGIBILITY
 
@@ -72,8 +66,6 @@
 - Someone with no mortgage in the last 36 months.
 - 3 months' personal bank statements required for all tiers.
 
----
-
 ## SECTION 3 – INCOME AND AFFORDABILITY
 
 - Maximum LTI: 5x (inclusive of fees added to the loan).
@@ -93,8 +85,6 @@
 - On purchase applications: a solicitor's undertaking to evidence that an account will be settled on completion may be accepted, allowing it to be excluded from affordability.
 - Evidence that the account was settled post-completion may be requested.
 - Where a monthly payment is used for affordability, the account may be part-settled but the remaining balance is only excluded if it equates to fewer than 3 months' payments (6 months for purchases).
-
----
 
 ## SECTION 4 – CREDIT HISTORY
 
@@ -120,8 +110,6 @@
 - Discharged bankruptcy: considered if discharged more than 36 months ago.
 - Discharged IVA: considered if discharged more than 36 months ago.
 - Debt management plans: must be satisfactorily completed more than 12 months ago.
-
----
 
 ## SECTION 5 – PRODUCT TIER CRITERIA
 
@@ -174,8 +162,6 @@
 - CCJs and defaults do not need to be satisfied; balances over £2,000 must be referred to an underwriter.
 - 1 late payment on one account is allowed before tier cascade (both secured and unsecured).
 
----
-
 ## SECTION 6 – DEPOSIT CRITERIA
 
 - 6 months' deposit history required (except where funded by equity in an existing residential property, validated by Tandem's solicitors).
@@ -203,8 +189,6 @@
 - Copy of the credit agreement confirming the amount borrowed and monthly repayments required.
 - Monthly payments factored into the affordability assessment.
 
----
-
 ## SECTION 7 – PROPERTY CRITERIA
 
 ### Valuations
@@ -223,14 +207,10 @@
 - Timber-framed properties with retrospective cavity fill.
 - Any other non-standard construction: please refer prior to submission.
 
----
-
 ## SECTION 8 – LEGAL REPRESENTATION
 
 - Purchases: standard legal process.
 - Remortgages: standard lender-only legals provided; Tandem covers the cost of consolidating any credit. If the applicant requires their own representation, they must instruct their own solicitor, legal executive or licensed conveyancer.
-
----
 
 ## SECTION 9 – FEES AND ADDITIONAL FEATURES
 
@@ -243,8 +223,6 @@
 - Further advances considered after 6 months.
 - Rates reserved for 7 days after accepted DIP and ESIS produced.
 
----
-
 ## SECTION 10 – VALIDITY PERIODS
 
 - Offer validity (purchase): 6 months from date of offer.
@@ -252,7 +230,5 @@
 - On expiry: rescore and reunderwrite required.
 - Decision in Principle: valid for 7 days.
 - DIP to Offer: documents and credit search valid for 60 days; after 60 days a new credit search is required and new payslips and other documents may also be required.
-
----
 
 *END OF DOCUMENT*

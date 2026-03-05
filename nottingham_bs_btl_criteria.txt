@@ -1,23 +1,16 @@
-LENDER NAME: Nottingham Building Society
-PRODUCT: Buy to Let
+# NOTTINGHAM BUILDING SOCIETY – BUY TO LET CRITERIA
 
-# Nottingham Building Society - Buy-to-Let Lending Criteria
+**LENDER:** Nottingham Building Society
+**PRODUCT:** Buy to Let
+**DOCUMENT TYPE:** Lending Criteria
+**SOURCE:** [Buy-to-Let Lending Criteria](https://www.thenottingham.com/intermediaries/lending-criteria/buy-to-let), [Lending Criteria Overview](https://www.thenottingham.com/intermediaries/lending-criteria/overview)
+**LAST UPDATED:** 2025
 
-**Source:** 
-* [Nottingham Building Society - Buy-to-Let Lending Criteria](https://www.thenottingham.com/intermediaries/lending-criteria/buy-to-let)
-* [Nottingham Building Society - Lending Criteria Overview](https://www.thenottingham.com/intermediaries/lending-criteria/overview)
+**IMPORTANT:** For intermediary use only.
 
-**Last Updated:** 2025  
-**Version:** Comprehensive Buy-to-Let Lending Criteria Guide
-
-**FOR INTERMEDIARY USE ONLY**
+**RAG convention:** Criteria use explicit labels where applicable for retrieval.
 
 This document contains comprehensive buy-to-let mortgage lending criteria covering all topics from the Nottingham Building Society intermediaries website.
-
-**Contact Information:**
-* Intermediary Enquiry Line: 0344 481 2010 (Press option 2 for further options)
-
----
 
 ## Lending Criteria Overview
 
@@ -27,21 +20,17 @@ At the decision in principle (DIP) stage, we ensure our actions don't leave a 'h
 
 ### Adverse Credit Criteria
 
-| Criteria | Acceptable |
-|:---------|:-----------|
-| Mortgage or secured loan arrears | 2 in 24 |
-| Unsecured loan arrears | 2 in 24 |
-| CCJ | Single satisfied CCJ <£500 may be considered. CCJs above £500 must be satisfied for at least three years |
-| Defaults | Satisfied defaults up to £250 may be considered where there are none for a mortgage, secured or unsecured loans. Defaults >£250 must be satisfied for at least three years |
-| Bankruptcy | Discharged for three years |
+* Mortgage or secured loan arrears: 2 in 24
+* Unsecured loan arrears: 2 in 24
+* CCJ: Single satisfied CCJ <£500 may be considered. CCJs above £500 must be satisfied for at least three years
+* Defaults: Satisfied defaults up to £250 may be considered where there are none for a mortgage, secured or unsecured loans. Defaults >£250 must be satisfied for at least three years
+* Bankruptcy: Discharged for three years
 
 **Note:** We only need the discharge certificate for applicants who were previously declared bankrupt. No documents are required for all other criteria points.
 
 ### Minimum Packaging Requirements
 
 Check our [minimum packaging guide](https://www.thenottingham.com/media/h3hnc0kw/minimum-packaging-guides.pdf) to find out what documents you need to submit with your application. This will help us provide a speedier underwriting decision.
-
----
 
 ## The Applicant(s)
 
@@ -84,8 +73,6 @@ Subject to passing credit score, we can consider the following:
 * CCJs and Defaults more than £500 can also be considered if they weren't registered in the last 3 years.
 * Missed payments – Status 1 and 2 are acceptable, provided the commitment is up to date.
 * Bankrupts who've been discharged for at least three years.
-
----
 
 ## Loan Criteria
 
@@ -132,8 +119,6 @@ Unacceptable loan purposes include:
 * Speculative purposes.
 * Making of gifts.
 
----
-
 ## Income and Affordability
 
 ### Assessment of Rental Income
@@ -150,19 +135,18 @@ The rental income is based on your estimate and is subject to confirmation from 
 
 There is **no minimum income requirement**.
 
----
-
 ## Buy-to-Let Property Criteria
 
 ### Introduction
 
 The property must:
 
-* Have an energy performance certificate (EPC) rating of **E or higher** dated in the last ten years.
+* Have an energy performance certificate (EPC) rating of E or higher dated in the last ten years.
 * Be subject to selective licencing but not a house in multiple occupations.
-* Have a maximum of **five bedrooms**.
+* Have a maximum of five bedrooms.
+
   * We'll ask for a copy of the AST agreement and selective licence where applicable for properties with five bedrooms.
-* Be located in **England or Wales**.
+* Be located in England or Wales.
 * Provide basic standards.
 
 ### Tenancy Criteria
@@ -171,11 +155,12 @@ Only the property must be let on a single assured shorthold tenancy (AST) agreem
 
 * Where the tenancy is longer than 12 months, it must be a Department for Communities and Local Government (DCLG) model agreement.
 * The AST must be renewable at least every 36 months and no less than six months.
-* Maximum of **four people** on an AST.
+* Maximum of four people on an AST.
 
 We agree to you letting the property subject to your compliance with the following conditions:
 
 1. Any tenancy existing at the date of completion or created after must be:
+
    * to a private individual or, if to more than one such individual, to all of them jointly.
    * to an individual or individuals who don't enjoy diplomatic immunity.
    * an assured shorthold tenancy as defined in the Housing Acts.
@@ -190,9 +175,9 @@ We agree to you letting the property subject to your compliance with the followi
 
 * Flats requiring an EWS1 form must provide a valid EWS1 form to support the property valuation.
 * Where flats are in a block, flats above the fourth floor need lift access.
-* Flats and studios need a minimum of **30 m²**.
+* Flats and studios need a minimum of 30 m².
 * Leasehold only (85-year lease minimum).
-* **£100,000** minimum property value.
+* £100,000 minimum property value.
 
 The following types aren't acceptable:
 
@@ -204,8 +189,8 @@ The following types aren't acceptable:
 #### Houses
 
 * Leasehold, subject to a minimum unexpired lease term of 85 years.
-* **£70,000** minimum property value.
-* Maximum **three floors**.
+* £70,000 minimum property value.
+* Maximum three floors.
 * Freehold.
 
 ### Acceptable Properties
@@ -254,6 +239,7 @@ The property can't be constructed with the following methods:
 
 * Properties with timber cladding covering more than 25% of the surface wall area.
 * Any construction covered by the housing defect laws, such as:
+
   * unrepaired prefabricated reinforced concrete.
   * high alumina cement.
   * large panel systems.
@@ -265,14 +251,13 @@ We can't accept applications for:
 * The applicant intending to let the property to the local authority to use for social housing.
 * Properties being purchased from or connected to a property club.
 * Property classified as a house of multiple occupation (HMO).
+
   * This includes properties subject to mandatory, selective or extra licencing requirements.
 * Second homes or holiday homes for personal use.
 * Properties not in a habitable condition.
 * Freehold flats.
 
-**Note:** In a mostly HMO-licensed area, we recommend that applicants check with the local authority before applying. The property may need an HMO licence.
-
----
+Note: In a mostly HMO-licensed area, we recommend that applicants check with the local authority before applying. The property may need an HMO licence.
 
 ## Limited Company Buy-to-Let Lending Criteria
 
@@ -283,18 +268,20 @@ We accept buy-to-let mortgage applications from limited companies. Here's our cr
 ### Key Criteria
 
 * A limited company must be a special purpose vehicle (SPV), hold and let residential investment property with one of these standard industrial classification (SIC) codes:
-  * **68320:** other letting and operating of own or leased real estate.
-  * **68209:** management of real estate on a fee or contract basis.
-  * **68100:** buying and selling of own real estate.
-* Loan to value up to **80%**.
 
-**No other SIC codes can be accepted.**
+  * 68320: other letting and operating of own or leased real estate.
+  * 68209: management of real estate on a fee or contract basis.
+  * 68100: buying and selling of own real estate.
+* Loan to value up to 80%.
 
-* The rental income must cover at least **125%** of the monthly interest payment on an interest-only basis.
-* Directors and company shareholders need be the same, up to a maximum of **four directors**.
+No other SIC codes can be accepted.
+
+* The rental income must cover at least 125% of the monthly interest payment on an interest-only basis.
+* Directors and company shareholders need be the same, up to a maximum of four directors.
 * Partnerships or Limited liability partnerships (LLPs) cannot be considered.
 * The SPV must be non-trading.
 * The mortgage payment is calculated at:
+
   * Pay rate for 5 year fixed rates.
   * Pay rate for like-for-like remortgages.
   * Pay rate +2% for all other lending.
@@ -305,13 +292,11 @@ We accept buy-to-let mortgage applications from limited companies. Here's our cr
 * A floating charge won't be needed.
 * The assessment of the application will include reviewing all other properties owned by the limited company.
 
----
-
 ## Portfolio Landlords Application
 
 ### Definition
 
-The applicant is a portfolio landlord if the application includes **four or more properties**. This includes limited company buy-to-lets and mortgaged properties.
+The applicant is a portfolio landlord if the application includes four or more properties. This includes limited company buy-to-lets and mortgaged properties.
 
 Properties held in the names of any of the borrowers, whether solely or jointly, should be included in the portfolio.
 
@@ -321,11 +306,11 @@ The buy-to-let portfolio must meet these criteria, including unencumbered and ma
 
 ### Maximum LTV for the Portfolio
 
-The maximum LTV for the portfolio is **75%**.
+The maximum LTV for the portfolio is 75%.
 
 ### Maximum Buy-to-Let Portfolio Size
 
-The maximum buy-to-let portfolio size is **15 buy-to-let properties**. At most, **five properties** can be mortgaged with us.
+The maximum buy-to-let portfolio size is 15 buy-to-let properties. At most, five properties can be mortgaged with us.
 
 ### Additional Information
 
@@ -333,17 +318,15 @@ The rental income must show the whole portfolio is self-supporting. This include
 
 It must meet the following income coverage ratio calculation:
 
-* Maximum interest coverage ratio of **145%**.
-* Assumed stressed interest rate of **5.70%**.
+* Maximum interest coverage ratio of 145%.
+* Assumed stressed interest rate of 5.70%.
 
 It must be demonstrated that the landlord:
 
 * has grown their portfolio gradually, and any properties bought in the last 12 months haven't been purchased quickly.
 * has considered the portfolio's ongoing and future management, including professional and management fees.
-* has at least **two years of experience** in managing investment properties.
-* has no more than **25%** of the overall portfolio as HMO properties.
-
----
+* has at least two years of experience in managing investment properties.
+* has no more than 25% of the overall portfolio as HMO properties.
 
 ## Consumer Buy-to-Let
 
@@ -359,15 +342,11 @@ All advisers submitting a CBTL application must hold the relevant CBTL FCA permi
 
 We'll assess buy-to-let applications and the choice of products on offer in the same way for CBTL and investment property loan (IPL).
 
----
-
 ## Let-to-Buy
 
 ### Key Information
 
 Suppose your client is remortgaging their home onto a let-to-buy basis with us in a standard buy-to-let application. We need their new residential mortgage offer on the property they're buying. If the residential property is being bought with cash, we must see the memorandum of sale and full purchase details.
-
----
 
 ## Further Advances
 
@@ -375,8 +354,6 @@ Suppose your client is remortgaging their home onto a let-to-buy basis with us i
 
 * We can offer further advances to customers with standard buy-to-let mortgages.
 * Currently, we cannot offer further advances on limited company buy-to-let mortgages.
-
----
 
 ## Supporting Documents
 
@@ -387,6 +364,7 @@ We need:
 * A signed application declaration or application form.
 * A completed assets and liabilities form.
 * ID for each applicant:
+
   * UK photocard driving licence (full or provisional).
   * UK paper driving licence (full only).
   * UK or EU passport.
@@ -409,10 +387,14 @@ It's assumed that an electoral roll search will verify proof of address. If veri
 * Recent utility bill.
 * Council tax bill.
 
-**Note:** All submitted documents must be photocopies of the originals. We can't consider photographs or camera-scanned documents.
+Note: All submitted documents must be photocopies of the originals. We can't consider photographs or camera-scanned documents.
 
 We must use a different document to check the applicant's ID and address.
 
-If you cannot provide any of the above documents, please contact the intermediary enquiry line on **0344 481 2010**. Press option 2 to discuss further options.
+If you cannot provide any of the above documents, please contact the intermediary enquiry line on 0344 481 2010. Press option 2 to discuss further options.
 
----
+## Main URLs and Contact Information
+
+* [https://www.thenottingham.com/intermediaries/lending-criteria/buy-to-let](https://www.thenottingham.com/intermediaries/lending-criteria/buy-to-let)
+* [https://www.thenottingham.com/intermediaries/lending-criteria/overview](https://www.thenottingham.com/intermediaries/lending-criteria/overview)
+* Intermediary Enquiry Line: 0344 481 2010 (Press option 2 for further options)

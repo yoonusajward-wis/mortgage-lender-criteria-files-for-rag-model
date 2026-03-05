@@ -1,7 +1,5 @@
 # CHORLEY BUILDING SOCIETY – LENDING CRITERIA (RESIDENTIAL & BUY TO LET)
 
----
-
 **LENDER:** Chorley Building Society
 **PRODUCT:** Combined (Residential & Buy to Let)
 **DOCUMENT TYPE:** Lending Criteria
@@ -10,11 +8,7 @@
 
 **Source:** [Lending criteria](https://www.chorleybs.co.uk/intermediary/lending-criteria)
 
----
-
 We offer an individual manual underwrite with direct access to an underwriter and flexibility to support you and your clients. For specific requirements call 01257 235001 (Option 2).
-
----
 
 ## SECTION 1 – AGE
 
@@ -38,13 +32,11 @@ We offer an individual manual underwrite with direct access to an underwriter an
 * Lending into Retirement: Maximum 75% LTV
 * Lending whilst Retired: Maximum 70% LTV
 
-
 ## SECTION 2 – BUILDERS INCENTIVES
 
 * Builder incentives permitted up to 5% of the purchase price
 * Incentives are defined as contribution towards the deposit, stamp duty, white goods, carpets, and curtains etc. and must not include a discount to the purchase price
 * If the incentive is a contribution towards the deposit the applicants must also be making a personal contribution of 5% of the purchase price
-
 
 ## SECTION 3 – BUY TO LET (BTL) AND CONSUMER BUY TO LET (CBTL)
 
@@ -81,7 +73,6 @@ The Society may consider BTL and CBTL applications subject to the following:
 * Can be interest only – no need for £50k equity and may use sale of mortgage property as repayment vehicle
 * First Time Landlords accepted (including those who are First time Buyers) subject to being employed with the appropriate levels of minimum income
 
-
 ## SECTION 4 – CAPITAL RAISING
 
 Capital Raising may be considered up to a maximum of 90% LTV. The Society will not allow capital raising for the following reasons:
@@ -90,7 +81,6 @@ Capital Raising may be considered up to a maximum of 90% LTV. The Society will n
 * Buy to Let additional borrowing above 80% LTV
 * Purchase of Stocks and Shares or currency speculation
 * Capital injection into a business or consolidation of a business loan unless the business accounts have been assessed to ensure this is not a "distress" application
-
 
 ## SECTION 5 – CONCESSIONAL PURCHASE
 
@@ -105,7 +95,6 @@ The Society will consider concessional purchase/gifted equity transactions betwe
 * Maximum 100% of purchase price and subject to a maximum 90% LTV of open market valuation
 * Applicant must have resided at the address for a minimum of 12 months prior to application
 * The product / illustration should be based on the true value LTV not the purchase price. The product/illustration should be based on the true open market value not the purchase price
-
 
 ## SECTION 6 – CREDIT HISTORY PROFILE
 
@@ -122,9 +111,7 @@ In the case of loans involving two or more borrowers, the impaired credit test i
 
 The Society will consider applicants who are not credit impaired as follows.
 
-
 ### Standard Lending Criteria
-
 
 Applications can be accepted on a Standard Lending criteria basis where the applicant(s) can meet the following:
 
@@ -142,9 +129,7 @@ Debt Management Plan (DMP):
   * The DMP must be settled prior to submission of the Decision in Principle (DIP)
   * The credit file must be clean since settlement of the DMP
 
-
 ### Credit Renew Criteria
-
 
 Where a life event that the applicant(s) have recovered from has impacted the credit profile meaning they do not meet standard lending criteria applications can be accepted on our range of Credit Renew Mortgage Products as follows:
 
@@ -187,11 +172,9 @@ Debt Management Plan:
     * The DMP can have been in place less than 2 years however;
   * The DMP cannot include unsecured loans
 
-
 ## SECTION 7 – DEBT CONSOLIDATION
 
 Debt Consolidation may be considered up to a maximum of 90% LTV.
-
 
 ## SECTION 8 – EMPLOYED INCOME
 
@@ -226,18 +209,15 @@ Will consider using income from more than one job subject to:
 * The hours of the 2 roles must not significantly exceed the equivalent of 1 full time role (approximately 48 hours)
 * The 2nd role must have been held for a minimum of 6 months alongside the applicant's main employment prior to the Mortgage Application
 
-
 ## SECTION 9 – FLYING FREEHOLD
 
 Flying Freehold of up to 20% may be considered.
-
 
 ## SECTION 10 – GIFTED DEPOSITS
 
 Gifted deposits may be acceptable where the individual(s) making the gift have a close relationship with the applicant/s and where:
 * the gift is non-returnable
 * the individual(s) making the gift will have no interest in the mortgaged property
-
 
 ## SECTION 11 – GUARANTORS
 
@@ -258,7 +238,6 @@ The guarantor should:
 * Have sufficient disposable income to comfortably maintain mortgage payments to the Society (if called upon) whilst maintaining all current obligations
 * Be willing to accept responsibility for the whole mortgage debt (and accrued costs) if the borrower defaults
 * Satisfy the same lending criteria that the Society would apply to a mortgage applicant
-
 
 ## SECTION 12 – HELP TO BUY EQUITY LOAN SCHEME
 
@@ -299,7 +278,6 @@ Only permitted to:
 * Maximum term for a Remortgage where the Equity Loan exists is the unexpired term of the Equity Loan or less
 * Repayment method must be Capital & Interest
 
-
 ## SECTION 13 – HOLIDAY LETS
 
 The Society may consider Holiday Let applications in England & Wales and excluding Scotland.
@@ -323,12 +301,10 @@ The Society may consider applications subject to the following:
 * Property must have an Energy Performance Certificate (EPC) rating of E or above
 * Rental Income and demand will be assessed by a RICS qualified surveyor as part of the mortgage valuation. An ARLA letter can be accepted evidencing a higher rental yield if applicable
 
-
 ## SECTION 14 – INCOME MULTIPLES
 
 * For 1 or 2 Incomes: Up to 4.49 x Total Income
 * For 3 or 4 Incomes: Up to 4.49 x Total Income
-
 
 ## SECTION 15 – INTEREST ONLY AND PART INTEREST ONLY
 
@@ -369,7 +345,6 @@ The Society accepts a range of repayment strategies for residential 'interest on
 * To convert to Capital & Interest at a later date
 * Bonus income
 
-
 ## SECTION 16 – JOINT BORROWER SOLE PROPRIETOR (JBSP)
 
 A Joint Borrower Sole Proprietor (JBSP) mortgage allows up to four people to combine their income to buy a home together with only the main applicant(s) listed on the mortgage deed.
@@ -389,14 +364,12 @@ The Society will consider JBSP applications for House Purchase and Remortgage on
       * Pension fund of Joint Borrower
 * The applicants not being named as owners of the mortgaged property must provide a declaration confirming that they have taken independent legal advice and understand the nature of the transaction they are entering
 
-
 ## SECTION 17 – LIMITED COMPANY BUY TO LET
 
 The Society will accept applications for a Limited Company Buy to Let in the following circumstances:
 * The applicant(s) have purchased/are purchasing the property intending to let it out as a business / investment proposition
 * If re-mortgaging the property, they are doing this for business / investment purposes not because they are unable to sell the property and therefore an 'accidental landlord'
 * The Society will accept applications where the Limited Company is purchasing a property from one of its directors or shareholders
-
 
 ### Limited Company
 
@@ -422,7 +395,6 @@ The Society may consider Limited Company Buy to Let Applications subject to the 
 * Maximum total loans £2.3m (to any individual or connected counterparties)
 * Maximum number of mortgaged BTL properties within the portfolio is 3
 
-
 ### Applicants
 
 * All Directors of the Limited Company must be party to the mortgage
@@ -435,19 +407,16 @@ The Society may consider Limited Company Buy to Let Applications subject to the 
       * Sole Applicant - £20k
       * Joint Applicants - £25k
 
-
 ### Affordability
 
 * Interest Rate Coverage (ICR) - rental yield must cover 125% of the stress tested mortgage interest payment
 * The mortgage must demonstrate that it remains affordable based on a mortgage payment on Interest Only stress tested at the higher of +2.00% or 5.5%
-
 
 ### Property
 
 * Maximum 6 Bedrooms
 * Property must have an Energy Performance Certificate (EPC) rating of E or above
 * Assured Shorthold Tenancy only (1 AST per property)
-
 
 ## SECTION 18 – LTV LOAN AMOUNT
 
@@ -456,7 +425,6 @@ The Society may consider Limited Company Buy to Let Applications subject to the 
 * > 80 – 85% LTV: £450,001 to £600,000
 * > 85 – 90% LTV: £400,001 to £450,000
 * > 90 – 95% LTV (subject to product availability): Up to £400,000
-
 
 ## SECTION 19 – MATERNITY, PATERNITY AND ADOPTION LEAVE
 
@@ -469,11 +437,9 @@ If an applicant declares they are taking or will be taking maternity, paternity 
 * Reference is gained from employer to confirm they are still employed but on leave
 * Underwriter has evidence / rationale to confirm the applicants can afford the monthly mortgage payment over the period of leave (this may be funded from savings, or family gift etc.) evidence of this would be required from bank statements and/or savings statements
 
-
 ## SECTION 20 – NUMBER OF APPLICANTS
 
 The Society may consider up to four applicants per application.
-
 
 ## SECTION 21 – OTHER INCOME
 
@@ -525,7 +491,6 @@ Child Benefit:
 * The age of dependants and length of time the payments will continue will be taken into consideration
 * Not acceptable if either applicant has gross earned income of above £60k
 
-
 ## SECTION 22 – PROFESSIONAL MORTGAGES
 
 Applicants are eligible for a Professional Mortgage if one or more applicant(s) have qualified into the following profession within the last 3 years: 
@@ -568,7 +533,6 @@ Applicants are eligible for a Professional Mortgage if one or more applicant(s) 
 
 * Applicants may choose to apply for the loan on a low start basis, this will enable Interest-Only for the first 5 years
 * The affordability assessment must be done on a repayment basis for the term following the low start option. So, if for example the applicant(s) are taking a 30-year term and the first 5 years is on a low start basis, the affordability assessment will be on a 25-year term on Capital & Interest
-
 
 ## SECTION 23 – PROPERTY CRITERIA
 
@@ -637,7 +601,6 @@ Ex Local Authority Flats and Maisonettes:
 * Assignment pack required
 * Must not be subject to a Section 20, (notice of intention to carry out works)
 
-
 ## SECTION 24 – RESIDENCY
 
 Applicants who are EU Nationals (EU, EEA and Swiss Citizens) who were living in the UK as at 31st December 2020 and have been granted Settled or Pre-Settled status by 30th June 2021 (provided no diplomatic immunity is in place) may be considered.
@@ -655,7 +618,6 @@ We will also consider Foreign Nationals residing in the UK under one of the foll
 * British National Overseas Visa
 * UK Ancestry Visa
 
-
 ## SECTION 25 – RIGHT TO BUY/RIGHT TO ACQUIRE PURCHASES
 
 ### Right to Buy
@@ -667,7 +629,6 @@ We will also consider Foreign Nationals residing in the UK under one of the foll
 * The Society will lend up to 100% of the discounted purchase price providing the advance does not exceed 95% of the open market valuation
 * If, at the time of purchase, an applicant wishes to borrow additional funds to carry out home improvements taking the advance beyond 100% of the discounted purchase price, this may be acceptable subject to relevant local authority or social housing landlord approval and may require a retention being made
 
-
 ## SECTION 26 – SECOND HOMES
 
 The Society may consider applications to purchase commuter homes, holiday/weekend homes and homes for dependents.
@@ -678,11 +639,9 @@ Subject to the following:
 * Buildings Insurance must be in place at all times and, in the case of a property that is being used as a holiday or commuter home includes cover when unoccupied
 * Homes for dependents must not have any formal arrangement to pay rent
 
-
 ## SECTION 27 – SELF-BUILD/CUSTOM BUILD
 
 The Society offers self-build and custom build loans exclusively through Buildstore/Buildloan.
-
 
 ## SECTION 28 – SELF EMPLOYED INCOME
 
@@ -695,7 +654,6 @@ Where the applicant(s) has been trading for less than 2 years we will accept a p
 * Acceptable accountant qualifications: AAT, ACA, ACCA, FCA, FCCA, CA (Scottish) CIMA (may show as ACMA) and CIPFA.
 
 ### Type of Self Employment
-
 
 **All Self-Employed Applications:**
 ### Required Documentation
@@ -733,7 +691,6 @@ Salaried Director with less than 25% shareholding:
 * Treat for income purposes as employed
 * Last 3 months' payslips and P60
 
-
 ## SECTION 29 – SHARED OWNERSHIP
 
 The Society will consider applications for House Purchase and Remortgage under the Help to Buy: Shared Ownership scheme in England and Wales only:
@@ -767,7 +724,6 @@ The Society will also consider Remortgages/Additional Borrowing subject to the f
 * Later Life lending permitted (subject to LTVs for this type of lending)
 * Not available for shared ownership schemes that restrict the level of equity that can be purchased or where Section 106 agreements include additional restrictions on purchasers both on initial purchase and subsequent sales
 
-
 ## SECTION 30 – SOLICITORS
 
 The Society operates a managed panel of Solicitor's/Licensed Conveyancer's via Legal Marketing Services Ltd (LMS).
@@ -784,17 +740,14 @@ Applicants have the following options when choosing a Solicitor/Licensed Conveya
 * No Disciplinary Sanctions for partner or residential conveyancing related, fraud or client account related
 * DPA Breaches below 1% of the last 12 months completions
 
-
 ## SECTION 31 – TERM
 
 * The minimum mortgage term is 1 year
 * The maximum mortgage term is 40 years
 
-
 ## SECTION 32 – WHERE WE LEND
 
 We lend in England including the Isle of Wight and Walney Island (Barrow-in-Furness), Wales including the Isle of Anglesey, the Scottish mainland and the Isles of Argyll, Bute and Skye.
----
 
 ## SECTION 33 – CONTACT
 
@@ -810,7 +763,5 @@ We lend in England including the Isle of Wight and Walney Island (Barrow-in-Furn
 * Registered on the Financial Services Register under number 206023
 * Member of the Building Societies Association
 * Participant of the Financial Ombudsman Service and Financial Services Compensation Scheme
-
----
 
 *END OF DOCUMENT*

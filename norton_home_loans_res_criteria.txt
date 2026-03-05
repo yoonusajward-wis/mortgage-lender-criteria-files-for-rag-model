@@ -1,25 +1,18 @@
-LENDER NAME: Norton Home Loans
-PRODUCT: Residential
+# NORTON HOME LOANS – RESIDENTIAL CRITERIA
 
-# Norton Home Loans - Mortgage Lending Criteria
+**LENDER:** Norton Home Loans
+**PRODUCT:** Residential
+**DOCUMENT TYPE:** Lending Criteria (First & Second Charge)
+**SOURCE:** [First Charge Mortgage Criteria (May 2025)](https://www.nortonhomeloans.co.uk/Documents/FirstChargeMortgageCriteria0525.pdf), [Second Charge Mortgage Criteria (May 2025)](https://www.nortonhomeloans.co.uk/Documents/SecondChargeMortgageCriteria0525.pdf), [Knowledge Bank - Norton Home Loans](https://www.knowledgebank.uk/bank/norton-home-loans)
+**LAST UPDATED:** May 2025
 
-**Source:** 
-* [Norton Home Loans - First Charge Mortgage Criteria (May 2025)](https://www.nortonhomeloans.co.uk/Documents/FirstChargeMortgageCriteria0525.pdf)
-* [Norton Home Loans - Second Charge Mortgage Criteria (May 2025)](https://www.nortonhomeloans.co.uk/Documents/SecondChargeMortgageCriteria0525.pdf)
-* [Knowledge Bank - Norton Home Loans](https://www.knowledgebank.uk/bank/norton-home-loans)
+**IMPORTANT:** For intermediary use only.
 
-**Last Updated:** May 2025  
-**Version:** Comprehensive Mortgage Lending Criteria Guide (First & Second Charge)
-
-**FOR INTERMEDIARY USE ONLY**
+**RAG convention:** Criteria use explicit labels where applicable for retrieval.
 
 This document contains comprehensive mortgage lending criteria from Norton Home Loans covering both first charge and second charge (secured loan) mortgage applications.
 
----
-
 # PART 1: FIRST CHARGE MORTGAGE LENDING CRITERIA
-
----
 
 ## Summary of Criteria
 
@@ -29,8 +22,6 @@ This document contains comprehensive mortgage lending criteria from Norton Home 
 * Applicants on Benefits/Pensions
 * Minimum age of applicants **21 years**
 * The term must not extend past the **85th birthday** of customers unless their income is not being used in affordability
-
----
 
 ## Applicants
 
@@ -57,39 +48,27 @@ For all non-British Nationals an original passport is required, and we must be s
 
 For customers with Temporary rights to remain, we will require a **300+ credit score** and we will need confirmation of the progress towards their permanent residency.
 
----
-
 ## Mortgages into Retirement
 
 If the mortgage term is to extend into the retirement of the applicants, we must have confirmation how they intend to maintain repayments after they have stopped working. We will accept the applicant stating that they intend to work up to the age of **75**. After 75 the mortgage repayments must fit on their future pension income which must be stated on the Lending into Retirement document and proven by a copy of their pension statement. The term must not extend past the **85th birthday** of customers whose income we are using within affordability calculations.
-
----
 
 ## Mental Capacity
 
 All customers must show that they have the mental capacity to enter into and understand the Mortgage agreement.
 
----
-
 ## Bankruptcy
 
 Bankrupt within the last **3 years** unacceptable.
 
----
-
 ## Debt Relief Order
 
 Debt Relief Order within the last **2 years** unacceptable.
-
----
 
 ## IVA
 
 ### Plans Optimal 1, Optimal 2, A, A HLTV & B
 
 We will lend to applicants who have been paying a minimum of **54 months** of an Individual Voluntary Arrangement (IVA) but this must be repaid from the proceeds of the loan. A settlement figure must be obtained from the Supervisor of the IVA and confirmation obtained that they will have no interest in the security address once the settlement has been received.
-
----
 
 ## Debt Management Plans (DMP)
 
@@ -98,8 +77,6 @@ We will lend to applicants who have been paying a minimum of **54 months** of an
 * Breakdown of creditors required and explanation for why we are clearing or why we are leaving the DMP outstanding.
 
 **Plans Optimal 1 & Optimal 2 are not available for customers with current Debt Management Plans or DAS'.**
-
----
 
 ## Property
 
@@ -161,8 +138,6 @@ We do not lend in **N Ireland, Isle of Man & Channel Islands**.
 * If the applicants are currently living with parents, we will require a director's day one approval on all cases to assess this in a case-by-case manner.
 * Proof of Deposit is required in all cases.
 
----
-
 ## Valuations
 
 ### A Hometrack AVM is Required in All Cases Subject to the Following:
@@ -181,8 +156,6 @@ An average of the 2 comparables should be used for the valuation figure in all c
 Where the AVM does not have the required confidence level and comparables not acceptable a full valuation must be undertaken. A Drive-by valuation will be accepted in place of an AVM.
 
 **All RTBs and Purchases require a full valuation.**
-
----
 
 ## Income & Expenditure
 
@@ -225,19 +198,13 @@ Consolidated credit may require repaying directly from the mortgage proceeds unl
 * We will calculate a maximum **50% DTI** calculation on all cases to include all secured and unsecured credit.
 * All income for all parties must be proven on all cases.
 
----
-
 ## Interest Rate Stress Test
 
 We will re-calculate the mortgage repayment using an appropriate stress test to ensure that they are both affordable within our calculations should interest rates rise.
 
----
-
 ## Co-Habiting Non-Owners
 
 We will generally only use the income from the persons named on the deeds to the property. We will accept income of a partner if registered for one year or more on the voter's roll.
-
----
 
 ## Self Employed
 
@@ -246,8 +213,6 @@ We will generally only use the income from the persons named on the deeds to the
 * Accounts/Accountants Certificate/SA302 is required plus up to date business bank statements for at least **3 months**.
 
 We must be confident that the applicant can afford the repayments over the full term of the mortgage.
-
----
 
 ## General Criteria
 
@@ -287,8 +252,6 @@ An Early Redemption Charge will be charged whilst in a fixed rate period (please
 * Proof of Deposit.
 * If the property has been gifted, we require the giftor's full name to complete a bankruptcy search.
 
----
-
 ## Witnessing
 
 ### Legal Charge/Standard Security
@@ -296,8 +259,6 @@ An Early Redemption Charge will be charged whilst in a fixed rate period (please
 All legal charge documents and standard security documents must be witnessed and completed by a non-family member.
 
 Borrowers aged 80 or over or non-English speaking must have their legal charge/Standard security documents witnessed by a Solicitor, who must stamp the document with their company stamp. The Independent Legal Advice letter must be completed to verify that the documents have been explained.
-
----
 
 ## Identification and Proof of Residency
 
@@ -339,8 +300,6 @@ Where the above minimums are not met then you must see original signature identi
 
 If an applicant is unable to provide any of the above items, we accept a stamped and signed Certificate of Identity from a person in a position of responsibility who has known them a minimum of two years and can verify their signature and address. We need to know the name, address, telephone number and occupation of the person providing the verification.
 
----
-
 ## Further Advances
 
 Any applicants for further advances will be treated as a new application and all documents must be provided as for a new Mortgage. Broker fees and commission to be charged on the further advance amount only. For all Further Advances a Fixed Lender Fee of **£495** will be charged.
@@ -349,27 +308,19 @@ The Early Redemption Charge will not be charged for further advances.
 
 We may decline to lend if the customer has had difficulty in repayment of the existing mortgage.
 
----
-
 ## Commission and Broker Fee Disclosure
 
 Both commission and the broker fee must be disclosed to the applicants on the mortgage offer document.
 
----
-
 ## Responsible Lending and Delivering Good Customer Outcomes
 
 If a mortgage application is deemed not to be in the interests of the borrowers, as a responsible lender we reserve the right to decline the application or ask for additional documents to support the application. Norton Home Loans are committed to delivering good outcomes for its customers in line with Principle 12 of the Consumer Duty, the crosscutting rules and 4 specific outcomes. We consider the needs, objectives and characteristics of the customer throughout the mortgage design process and application journey, to ensure that we deliver high levels of consumer care and take steps to avoid any foreseeable harm. The delivery of good customer outcomes is central to our culture, mission statement and purpose.
-
----
 
 ## Client Funds
 
 If the mortgage application is a joint application, it is preferable to pay out to a joint bank account or by joint cheque, but if it is not possible, we will pay out to one party upon receipt of verbal confirmation from both applicants during the security call. We will not pay out to anybody not on the proprietorship register of the house.
 
 We will do a security check with all parties to the loan in all cases.
-
----
 
 ## General Principles of Fair Business Practice
 
@@ -385,8 +336,6 @@ When you signed your Standard Terms of Business, you agreed to comply with all r
 * There must be transparency in all dealings with all borrowers, with early disclosure of key contract terms and conditions (including rates and charges).
 * Contract terms and conditions must be fair and clear, in plain and intelligible language, which can be easily understood by borrowers.
 * No irresponsible lending, with all underwriting decisions being subject to a proper assessment of the borrower's ability to repay the loan without undue hardship and without resort to the security, taking full account of all relevant circumstances and any reasonably foreseeable future circumstances.
-
----
 
 ## Customers with Characteristics of Vulnerability
 
@@ -446,8 +395,6 @@ Where there is suspicion or knowledge of mental capacity or financial literacy l
 
 You should note what additional steps you have taken to assist customer understanding. Norton may require independent legal advice to be carried out to ensure that the customer has full understanding.
 
----
-
 # PART 2: SECOND CHARGE MORTGAGE (SECURED LOAN) LENDING CRITERIA
 
 ## Summary of Criteria
@@ -458,8 +405,6 @@ You should note what additional steps you have taken to assist customer understa
 * Applicants on Benefits/Pensions.
 * Minimum age of applicants **21 years**.
 * The term must not extend past the **85th birthday** of customers unless their income is not being used in affordability.
-
----
 
 ## Applicants
 
@@ -486,39 +431,27 @@ For all non-British Nationals an original passport is required, and we must be s
 
 For customers with Temporary rights to remain, we will require a **300+ credit score** and we will need confirmation of the progress towards their permanent residency.
 
----
-
 ## Loans into Retirement
 
 If the loan term is to extend into the retirement of the applicant, we must have confirmation how they intend to maintain repayments after they have stopped working. We will accept the applicant stating that they intend to work up to the age of **75**. After 75 the loan repayments must fit on their future pension income figure which must be stated on the Lending into Retirement document and be proven by a copy of their pension statement. The term must not extend past the **85th birthday** of customers whose income we are using within affordability calculations.
-
----
 
 ## Mental Capacity
 
 All customers must show that they have the mental capacity to enter into and understand the loan agreement.
 
----
-
 ## Bankruptcy
 
 Bankrupt within the last **3 years** unacceptable.
 
----
-
 ## Debt Relief Order
 
 Debt Relief Order within the last **2 years** unacceptable.
-
----
 
 ## IVA
 
 ### Plans Optimal 1, Optimal 2, A, A HLTV, B & C
 
 We will lend to clients who have been paying a minimum of **54 months** of an Individual Voluntary Arrangement (IVA) but this must be repaid from the proceeds of the loan. A settlement figure must be obtained from the Supervisor of the IVA and confirmation obtained that they will have no interest in the security address once the settlement has been received.
-
----
 
 ## Debt Management Plans (DMP)
 
@@ -527,8 +460,6 @@ We will lend to clients who have been paying a minimum of **54 months** of an In
 * Breakdown of creditors required and explanation for why we are clearing or why we are leaving the DMP outstanding.
 
 **Plans Optimal 1 & Optimal 2 are not available for customers with current Debt Management Plans or DAS'.**
-
----
 
 ## Property
 
@@ -581,8 +512,6 @@ There must be at least **40 years** unexpired term remaining on the lease at the
 
 We do not lend in **N Ireland, Isle of Man & Channel Islands**.
 
----
-
 ## Valuations
 
 A Hometrack AVM is required in all cases subject to the following:
@@ -599,8 +528,6 @@ Where the AVM confidence level is less than 4 or fails completely and LTV is les
 An average of the 2 comparables should be used for the valuation figure in all calculations.
 
 Where the AVM does not have the required confidence level and comparables not acceptable a full valuation must be undertaken. A Drive-by valuation will be accepted in place of an AVM.
-
----
 
 ## Income & Expenditure
 
@@ -639,19 +566,13 @@ Consolidated credit may require repaying directly from the mortgage proceeds unl
 * We will also calculate a maximum **50% DTI** calculation on all cases to include all secured and unsecured credit.
 * All income for all parties must be proven on all cases.
 
----
-
 ## Interest Rate Stress Test
 
 We will re-calculate both the mortgage repayment and the new secured loan repayment using an appropriate stress test to ensure that they are both affordable within our calculations should interest rates rise.
 
----
-
 ## Co-Habiting Non-Owners
 
 We will generally only use the income from the persons named on the deeds to the property. We will accept income of a partner if registered for one year or more on the voter's roll.
-
----
 
 ## Self Employed
 
@@ -660,8 +581,6 @@ We will generally only use the income from the persons named on the deeds to the
 * Accounts/Accountants Certificate/SA302 is required plus up to date business bank statements for at least **3 months**.
 
 We must be confident that the applicant can afford the repayments over the full term of the loan.
-
----
 
 ## General Criteria
 
@@ -673,8 +592,6 @@ We must be confident that the applicant can afford the repayments over the full 
 ### Early Redemption of Loans
 
 An Early Redemption Charge will be charged whilst in a fixed rate period (please refer to the ESIS & Mortgage Offer). For all other cases please refer to ESIS & Mortgage Offer. A redemption administration fee will be charged in all cases.
-
----
 
 ## Underwriting Guidelines
 
@@ -705,8 +622,6 @@ An Early Redemption Charge will be charged whilst in a fixed rate period (please
 
 We need confirmation of the amount outstanding and monthly repayment for the first mortgage. If this is not clear from the credit search, we will need a BSQ from the Lender. It must state the amount outstanding, monthly repayment, payment history, current arrears and Title information/copy conveyance. If the mortgage is in arrears, we will need confirmation of the amount of arrears and we will need to repay them from the proceeds of the loan. Customers will be accepted with any number of months of mortgage history.
 
----
-
 ## Witnessing
 
 ### Legal Charge/Standard Security
@@ -714,8 +629,6 @@ We need confirmation of the amount outstanding and monthly repayment for the fir
 All legal charge documents and standard security documents must be witnessed and completed by a non-family member.
 
 Borrowers aged 80 or over or non-English speaking must have their legal charge documents witnessed by a Solicitor, who must stamp the document with their company stamp. The Independent Legal Advice letter must be completed to verify that the documents have been explained.
-
----
 
 ## Identification and Proof of Residency
 
@@ -756,8 +669,6 @@ Where the above minimums are not met then you must see original signature identi
 
 If an applicant is unable to provide any of the above items, we accept a stamped and signed Certificate of Identity from a person in a position of responsibility who has known them a minimum of two years and can verify their signature and address. We need to know the name, address, telephone number and occupation of the person providing the verification.
 
----
-
 ## Further Advances
 
 Any applicants for further advances will be treated as a new application and all documents must be provided as for a new Mortgage. Broker fees and commission to be charged on the further advance amount only. For all Further Advances a Fixed Lender Fee of **£495** will be charged.
@@ -766,27 +677,19 @@ The Early Redemption Charge will not be charged for further advances.
 
 We may decline to lend if the customer has had difficulty in repayment of the existing mortgage.
 
----
-
 ## Commission and Broker Fee Disclosure
 
 Both commission and the broker fee must be disclosed to the applicants on the mortgage offer document.
 
----
-
 ## Responsible Lending and Delivering Good Customer Outcomes
 
 If a mortgage application is deemed not to be in the interests of the borrowers, as a responsible lender we reserve the right to decline the application or ask for additional documents to support the application. Norton Home Loans are committed to delivering good outcomes for its customers in line with Principle 12 of the Consumer Duty, the crosscutting rules and 4 specific outcomes. We consider the needs, objectives and characteristics of the customer throughout the mortgage design process and application journey, to ensure that we deliver high levels of consumer care and take steps to avoid any foreseeable harm. The delivery of good customer outcomes is central to our culture, mission statement and purpose.
-
----
 
 ## Client Funds
 
 If the mortgage application is a joint application, it is preferable to pay out to a joint bank account or by joint cheque, but if it is not possible, we will pay out to one party upon receipt of verbal confirmation from both applicants during the security call. We will not pay out to anybody not on the proprietorship register of the house.
 
 We will do a security check with all parties to the loan in all cases.
-
----
 
 ## General Principles of Fair Business Practice
 
@@ -802,8 +705,6 @@ When you signed your Standard Terms of Business, you agreed to comply with all r
 * There must be transparency in all dealings with all borrowers, with early disclosure of key contract terms and conditions (including rates and charges).
 * Contract terms and conditions must be fair and clear, in plain and intelligible language, which can be easily understood by borrowers.
 * No irresponsible lending, with all underwriting decisions being subject to a proper assessment of the borrower's ability to repay the loan without undue hardship and without resort to the security, taking full account of all relevant circumstances and any reasonably foreseeable future circumstances.
-
----
 
 ## Customers with Characteristics of Vulnerability
 
@@ -863,4 +764,8 @@ Where there is suspicion or knowledge of mental capacity or financial literacy l
 
 You should note what additional steps you have taken to assist customer understanding. Norton may require independent legal advice to be carried out to ensure that the customer has full understanding.
 
----
+## Main URLs and Contact Information
+
+* https://www.nortonhomeloans.co.uk/Documents/FirstChargeMortgageCriteria0525.pdf
+* https://www.nortonhomeloans.co.uk/Documents/SecondChargeMortgageCriteria0525.pdf
+* https://www.knowledgebank.uk/bank/norton-home-loans

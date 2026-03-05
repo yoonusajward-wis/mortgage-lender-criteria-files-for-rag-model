@@ -1,7 +1,5 @@
 # UTB Mortgages – Buy to Let Criteria
 
----
-
 **LENDER:** UTB Mortgages
 **PRODUCT:** Buy to Let
 **DOCUMENT TYPE:** Lending Criteria
@@ -14,8 +12,6 @@
 - Phone: 02070 311 551
 - Email: mortgage.enquiries@utbank.co.uk
 - Portal: https://www.utbankmortgages.co.uk
-
----
 
 ## SECTION 1 – LOAN PARAMETERS
 
@@ -32,8 +28,6 @@
 - Remortgage: property must have been owned for at least 3 months and registered in the borrower's name at Land Registry.
 - Consumer BTL: not allowed. If the client already owns other rental property, acceptable. Contact UTB if the subject property is the client's only BTL.
 - Overpayments: up to 10% of the outstanding balance can be repaid annually as a lump sum without penalty.
-
----
 
 ## SECTION 2 – APPLICANT ELIGIBILITY
 
@@ -56,8 +50,6 @@
 - CCJs and defaults: none in last 24 months if under £300 (mail order and communications accounts ignored).
 - Minor adverse accepted where over 2 years old.
 
----
-
 ## SECTION 3 – PROOF REQUIREMENTS
 
 ### Identification
@@ -70,8 +62,6 @@
 
 - 3-year UK address history required, usually evidenced via the Voters Roll.
 - If incomplete, acceptable documents include: mortgage/loan statement, council tax bill, utility bill, bank/credit card statements, or proof of active credit.
-
----
 
 ## SECTION 4 – PROPERTY CRITERIA
 
@@ -117,16 +107,12 @@
 - 70–75% LTV: underwriter review required.
 - Above 75% LTV: not acceptable.
 
----
-
 ## SECTION 5 – MULTI-UNIT BLOCKS (MUB)
 
 - At least one applicant must have 1 year's letting experience.
 - Minimum valuation: £150,000.
 - Up to 10 self-contained units accepted.
 - Each unit must have separate utilities and a minimum size of 30 sq.m.
-
----
 
 ## SECTION 6 – HOUSES IN MULTIPLE OCCUPATION (HMO)
 
@@ -135,16 +121,12 @@
 - Up to 10 lettable rooms meeting minimum size regulations.
 - HMO licence required where mandated by local authority; confirmed by solicitor.
 
----
-
 ## SECTION 7 – TENANCY TYPES
 
 - Assured Shorthold Tenancy (AST): 6–12 months, no subletting.
 - Corporate lets: to recognised companies.
 - Local authority or housing association lets: up to 5 years with break clause.
 - Tenant restrictions: no vulnerable tenants or tenants under Power of Attorney.
-
----
 
 ## SECTION 8 – HOLIDAY LETS
 
@@ -174,8 +156,6 @@ Agency letters must be on headed paper and include:
 - Apply occupancy rate: maximum 70% (equivalent to 36.4 weeks per year).
 - If using last 12 months' income: divide net income by 12 and input into portal.
 
----
-
 ## SECTION 9 – ICR AFFORDABILITY
 
 - Rental income confirmed by valuer or current rent (whichever is lower).
@@ -198,8 +178,6 @@ Agency letters must be on headed paper and include:
 - Capital repayment can be applied for on the same ICR basis as interest-only mortgages.
 - The actual mortgage payment must be covered by assessed rental income.
 
----
-
 ## SECTION 10 – PORTFOLIO LANDLORDS
 
 - Applies to any individual or limited company (SPV) applicant who owns other BTL properties.
@@ -210,8 +188,6 @@ Agency letters must be on headed paper and include:
 - UTB may require additional assurance if portfolios are highly geared.
 - Unlimited portfolio size for landlords overall (no restriction on properties held with other lenders).
 
----
-
 ## SECTION 11 – LENDING TO LIMITED COMPANIES
 
 - Single-layer SPV companies for residential BTL only; trading companies not permitted.
@@ -221,15 +197,11 @@ Agency letters must be on headed paper and include:
 - All directors and shareholders must provide joint and several personal guarantees and take independent legal advice.
 - Where the property is already in an applicant's name, at least one owner must be a shareholder in the limited company.
 
----
-
 ## SECTION 12 – DEPOSIT CRITERIA
 
 - Gifted deposits accepted from close relatives (parents, step-parents, children, grandparents, siblings, spouse, grandchildren).
 - Overseas deposits considered by referral (FATF and EEA countries only).
 - Concessionary purchase allowed if buying from a close relative; market value is used for purchase price and LTV calculation.
-
----
 
 ## SECTION 13 – VALUATION FEES
 
@@ -276,7 +248,5 @@ Agency letters must be on headed paper and include:
 - Up to £500,000: £175 (re-inspection), £70 (re-type).
 - Up to £1,000,000: £250 (re-inspection), £70 (re-type).
 - Over £1,000,000: fees available upon referral only.
-
----
 
 *END OF DOCUMENT*

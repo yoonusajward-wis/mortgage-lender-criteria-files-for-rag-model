@@ -1,14 +1,10 @@
 # WEST BROM – RESIDENTIAL LENDING CRITERIA
 
----
-
 **LENDER:** West Brom
 **PRODUCT:** Residential
 **DOCUMENT TYPE:** Lending and Security Guidelines
 **LAST UPDATED:** October 2025
 **FOR INTERMEDIARY USE ONLY**
-
----
 
 This document provides guidance for mortgage intermediaries on the areas the West Brom will consider as part of its mortgage underwriting processes.
 
@@ -17,8 +13,6 @@ In addition to the guidelines set out in this document, the West Brom also appli
 The West Brom retains the right to change its underwriting policy at any time and without necessarily updating these guidelines. However, the West Brom will endeavour to ensure the guidelines set out in this document represent the Society's current approach to lending.
 
 In the event of any clarification being required please contact your Business Development Manager (BDM). Prior to submission of supporting documentation please contact the BDM for clarification of any items or policy which may require further investigation to ensure cases are processed in a timely manner.
-
----
 
 ## Maximum Loan To Value
 
@@ -1046,8 +1040,6 @@ KFI: Key Facts Illustration
 LTV: Loan to Value
 RMC: Regulated Mortgage Contract
 
----
-
 This information is for the use of professional intermediaries only. It is not a consumer advertisement and should not be displayed as such or handed out to the public. Criteria is subject to change, please check before submitting applications.
 
 Head Office: 2 Providence Place, West Bromwich B70 8AF
@@ -1055,7 +1047,5 @@ Head Office: 2 Providence Place, West Bromwich B70 8AF
 [www.westbrom.co.uk](https://www.westbrom.co.uk)
 
 Calls and electronic communications may be monitored and/or recorded for your security and may be used for training purposes. Your confidentiality will be maintained. The West Brom is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority. Register No: 104877. 'the West Brom' and 'the West Brom for intermediaries' are trading names of West Bromwich Building Society.
-
----
 
 # END OF DOCUMENT

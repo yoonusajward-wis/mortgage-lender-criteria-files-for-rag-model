@@ -1,15 +1,11 @@
 # TSB – COMBINED LENDING CRITERIA
 
----
-
 **LENDER:** TSB
 **PRODUCT:** Residential & Buy-to-Let
 **DOCUMENT TYPE:** Combined Lending Criteria
 **LAST UPDATED:** September 2025
 **SOURCE:** [Residential](https://intermediary.tsb.co.uk/criteria/residential-criteria/) | [Buy-to-Let](https://intermediary.tsb.co.uk/criteria/buy-to-let/) | [Criteria changes](https://intermediary.tsb.co.uk/news/changes-to-our-criteria/)
 **FOR INTERMEDIARY USE ONLY**
-
----
 
 # RESIDENTIAL CRITERIA
 
@@ -41,8 +37,6 @@ Applicants who are on Temporary Interest Only (TIO) are unable to apply for Addi
 
 85% LTV is available on residential applications via Direct only.
 
----
-
 ## ADVERSE CREDIT – CCJs / DEFAULTS
 
 Applicants with CCJs and defaults can be considered subject to credit score and possible underwriter referral. Any CCJs/defaults registered within the last 6 years must be disclosed regardless of status.
@@ -54,8 +48,6 @@ Applications will be automatically declined where:
 * Default greater than £100 registered in last 12 months
 * Default greater than £500 registered in last 3 years
 * Two or more defaults with latest registered in last 3 years
-
----
 
 ## ARREARS
 
@@ -70,15 +62,11 @@ Automatic decline where:
 * Two months or more late on other individual debts in last 6 months
 * One month or more late with mortgage payment greater than £100 in last 12 months
 
----
-
 ## BANKRUPTCY / IVA / DEBT RELIEF ORDER / DEBT MANAGEMENT PLAN
 
 If any applicant has been bankrupt, subject to bankruptcy restriction order, IVA, debt relief order or debt management plan within last 6 years, application will be declined.
 
 Applicant must have been discharged for minimum 6 years to be considered.
-
----
 
 ## AFFORDABILITY
 
@@ -120,8 +108,6 @@ Income ≤£74,999:
 
 Stress rate is 6.75% or product rate +1% if higher. At DIP stage 6.75% applies. At application stage if selected rate is higher, product rate +1% applies.
 
----
-
 ## DEBT TO INCOME
 
 Application declined where:
@@ -133,8 +119,6 @@ AND EITHER:
 
 * Total monthly unsecured payments exceed 20% of gross monthly income
 * Total unsecured balances exceed 100% of gross annual income
-
----
 
 ## COMMITMENTS AND OUTGOINGS
 
@@ -158,15 +142,11 @@ Significant commuting costs and accommodation away from home must be captured.
 
 Known future changes to income and commitments must be reflected.
 
----
-
 ## BACKGROUND PROPERTIES – NOT RENTED OUT
 
 Existing mortgage payment must be keyed as credit commitment.
 
 Associated running costs must be keyed as “Second Home Running Costs” in Household Expenditure.
-
----
 
 ## EXISTING PROPERTY TO BE RENTED OUT
 
@@ -178,8 +158,6 @@ Evidence may include:
 
 * Letting agent letter
 * Valuation within last 6 months
-
----
 
 ## OTHER BUY-TO-LET PROPERTIES OWNED
 
@@ -199,8 +177,6 @@ Any deficit deducted as commitment.
 
 60% of surplus included.
 
----
-
 ## MORTGAGE FREE PROPERTIES
 
 Rental income acceptable if declared to Inland Revenue and evidenced via Tax Calculations and Tax Year Overviews or accountant reference.
@@ -209,15 +185,11 @@ Self-employed criteria applies (two years figures).
 
 If income solely derived from property letting, contact TSB before submission.
 
----
-
 ## HOLIDAY LETS (BACKGROUND)
 
 Rental income acceptable if declared to Inland Revenue and evidenced via Tax Calculations and Tax Year Overviews or accountant reference.
 
 Two years figures required. Treated as self-employed income.
-
----
 
 ## CONCESSIONARY PURCHASE
 
@@ -269,13 +241,9 @@ Valuation required in all cases including Scotland. Retypes are not permitted.
 
 Requirement: Contact the TSB Intermediary Processing Team for all Concessionary Purchase applications. Application results can differ once the correct purchase price has been keyed. Correct underwriting must be carried out at the time of application.
 
----
-
 ## CONTRACTORS
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/contractors/](https://intermediary.tsb.co.uk/criteria/residential-criteria/contractors/)
-
----
 
 ## SUBCONTRACTORS, FIXED/SHORT TERM CONTRACTS, AGENCY WORKERS AND UMBRELLA COMPANIES
 
@@ -290,8 +258,6 @@ Where the applicant has provided 12 months contract history but is now on a roll
 * Day rate amount
 * Confirmation the contract remains valid
 
----
-
 ## CIS CONTRACTORS
 
 The applicant must have 12 months contract history, evidencing no gaps exceeding 6 weeks, with at least 3 months remaining. If less than 3 months remain, a future contract showing a minimum of 3 months future employment will be required.
@@ -300,15 +266,11 @@ Treat as a fixed term contractor where employer deducts full PAYE tax and Nation
 
 Treat as self-employed where employer does not deduct full PAYE tax and National Insurance contributions.
 
----
-
 ## PROBATIONARY CONTRACTS
 
 If the applicant has started employment within 3 months and is on a probationary contract, select yes to the radio button confirming probation period.
 
 Applicants who have an initial probationary period at the start of their permanent contract are not included in the above and can be treated as permanent.
-
----
 
 ## ZERO HOURS CONTRACTS
 
@@ -321,8 +283,6 @@ Income verification required:
 * Latest P60
 * Last 3 months payslips (6 if fortnightly, 12 if weekly)
 * 12 months contract history evidencing consistent and sustainable income
-
----
 
 ## DAY RATE CONTRACTORS
 
@@ -351,8 +311,6 @@ For Buy To Let: 80% maximum LTV.
 
 Where contractor employed via LTD company and ownership share less than 100% and/or contract in LTD name, self-employed criteria applies.
 
----
-
 ## CREDIT SCORING
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/credit-scoring/](https://intermediary.tsb.co.uk/criteria/residential-criteria/credit-scoring/)
@@ -360,8 +318,6 @@ Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/credit-sco
 TSB undertakes a credit check on all applicants via Experian and TransUnion plus additional identity checks.
 
 Soft footprint only at Decision in Principle stage. No record of search left until proceeding to full application.
-
----
 
 ## DECISION IN PRINCIPLE
 
@@ -376,8 +332,6 @@ Soft footprint only at DIP stage.
 Available only for mortgages in the UK (excluding Northern Ireland).
 
 Clients must receive a Mortgage Illustration before application submission.
-
----
 
 ## DEPENDENTS
 
@@ -400,8 +354,6 @@ Dependent spouse example: If spouse not party to mortgage and financially depend
 Dependent relatives: If relative resides at property and financially reliant, key as dependent. If supported but living elsewhere, do not key as dependent but record costs under committed expenditure.
 
 Grown up children: Key as dependents if financially reliant and residing at property. Education costs must be recorded under committed expenditure.
-
----
 
 ## DEPOSITS
 
@@ -460,8 +412,6 @@ Monthly payment and balance must be keyed as Interest Free Loan.
 
 Repayable over 10 years. Monthly payment calculated as loan amount divided by 120.
 
----
-
 ## EWS1 PROCESS – CLADDING & EXTERNAL WALL SYSTEM
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/ews1/](https://intermediary.tsb.co.uk/criteria/residential-criteria/ews1/)
@@ -484,8 +434,6 @@ Option B Signatories: CEng or IEng with full IFE membership. RICS/CABE/IFE with 
 
 Acceptable EWS1 outcomes: A1, A2, B1.
 
----
-
 ## EMPLOYED APPLICANTS
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/employed-applicants/](https://intermediary.tsb.co.uk/criteria/residential-criteria/employed-applicants/)
@@ -498,23 +446,17 @@ Second job income may be used if sustainable and evidenced.
 
 Income received in foreign currency may be available for existing customers only via direct contact with TSB.
 
----
-
 ## EX PATS
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/ex-pats/](https://intermediary.tsb.co.uk/criteria/residential-criteria/ex-pats/)
 
 TSB does not accept new business applications from ExPat residents.
 
----
-
 ## FINDER’S FEES
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/finders-fees/](https://intermediary.tsb.co.uk/criteria/residential-criteria/finders-fees/)
 
 Applications involving finder’s fees are not acceptable.
-
----
 
 ## FIRST TIME BUYERS
 
@@ -535,8 +477,6 @@ FTB features include:
 * Unlimited overpayments on tracker
 * Family gifted deposits accepted
 * Affordable Housing schemes available
-
----
 
 ## FOREIGN NATIONALS
 
@@ -564,7 +504,6 @@ Unacceptable categories:
 
 Refugees must have indefinite leave to remain evidenced by Biometric Residence Permit or IND letter.
 
----
 ## FUTURE CHANGES
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/future-changes/](https://intermediary.tsb.co.uk/criteria/residential-criteria/future-changes/)
@@ -615,8 +554,6 @@ Applicant not yet started new role/received pay rise but will within 3 months of
 * Pay rise / Promotion letter
 * Contract of Employment (if contains new salary) and covering letter/email OR Employers Reference
 
----
-
 ### Commitments
 
 If a known future commitment will become payable within the next 12 months, it must be keyed into commitments.
@@ -637,15 +574,11 @@ If household expenditure will cease or reduce in the near future, key current am
 
 If affordability issues arise, refer to underwriting.
 
----
-
 ## GUARANTORS
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/guarantors/](https://intermediary.tsb.co.uk/criteria/residential-criteria/guarantors/)
 
 Guarantor applications are not available on new applications.
-
----
 
 ## IDENTIFICATION & VERIFICATION
 
@@ -723,8 +656,6 @@ Certifier must be:
 
 Certified copies from the Post Office are not acceptable.
 
----
-
 ## INCOME, TREATMENT – MAIN INCOME
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/income-treatment-main-income/](https://intermediary.tsb.co.uk/criteria/residential-criteria/income-treatment-main-income/)
@@ -756,8 +687,6 @@ Not acceptable (N):
 * Temporary (includes seasonal and piecework)
 
 Affordability must include known future income changes (refer to Future Changes).
-
----
 
 ## INCOME, TREATMENT – OTHER INCOME
 
@@ -808,8 +737,6 @@ For ADH, Flight Allowance, NHS Bank and Shift Allowance: average last 3 monthly 
 Main income must be keyed except for Disability Living Allowance and Retirement Income. Standalone income cases may be referred to Underwriters.
 
 Affordability must include known future income changes.
-
----
 
 ## INCOME, VERIFICATION – MAIN INCOME
 
@@ -907,8 +834,6 @@ Zero Hours Contracts:
 
 Affordability must include known future income changes (refer to Future Changes).
 
----
-
 ## INCOME, VERIFICATION – OTHER INCOME
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/income-verification-other-income/](https://intermediary.tsb.co.uk/criteria/residential-criteria/income-verification-other-income/)
@@ -988,8 +913,6 @@ For applicants paid monthly or 4 weekly, the latest payslip must be dated within
 
 Affordability must include any known future income changes (refer to Future Changes).
 
----
-
 ## INHERITED PROPERTIES
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/inherited-properties/](https://intermediary.tsb.co.uk/criteria/residential-criteria/inherited-properties/)
@@ -1007,8 +930,6 @@ Buy-to-Let Applications:
 
 * Property inherited and deeds in probate in deceased name: not acceptable. Concessionary purchase not available on BTL.
 * Property inherited and deeds in beneficiary’s name (under 6 months old): acceptable. Select ‘remortgage’, keying amount transferred from other lender as £0.
-
----
 
 ## INTEREST ONLY – REPAYMENT VEHICLES
 
@@ -1110,8 +1031,6 @@ Sale of Second Home/BTL details:
 * If mortgaged, latest mortgage statement within 12 months required (unless with TSB)
 * If not yet purchased, solicitor letter required prior to completion
 
----
-
 ## INTEREST ONLY – SALE OF THE SECURITY PROPERTY
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/interest-only-sale-of-the-security-property/](https://intermediary.tsb.co.uk/criteria/residential-criteria/interest-only-sale-of-the-security-property/)
@@ -1125,8 +1044,6 @@ Minimum Equity: £300,000 based on valuation (excluding fees).
 Maximum Term: 30 years. Repayment portion cannot exceed IO term.
 
 Maximum Age: 70 at end of term or anticipated retirement age if lower.
-
----
 
 ## INTEREST ONLY CRITERIA
 
@@ -1185,15 +1102,11 @@ Other Requirements:
 * Repayment vehicle(s) must cover full interest only amount including any product fees added.
 * Interest only lending not available for foreign nationals without permanent rights to reside.
 
----
-
 ## ISLAMIC MORTGAGES
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/islamic-mortgages/](https://intermediary.tsb.co.uk/criteria/residential-criteria/islamic-mortgages/)
 
 Islamic mortgages are not available on new applications.
-
----
 
 ## LTV & LENDING LIMITS
 
@@ -1247,8 +1160,6 @@ Examples:
 If credit score allows 90% but Additional Borrowing applies, maximum is 85%.
 If credit score allows 85% but applying for New Build BTL flat, maximum is 75%.
 
----
-
 ## LENDING LIMITS
 
 Lending limits subject to product availability.
@@ -1257,8 +1168,6 @@ Loan Amount < £570,000: 95%
 Loan Amount > £570,000 to £750,000: 90%
 Loan Amount > £750,000 to £1,000,000: 85%
 Loan Amount > £1,000,000 to £2,000,000: 75%
-
----
 
 ## LARGE LOAN
 
@@ -1273,8 +1182,6 @@ Buy to Let, Shared Ownership and Shared Equity: Excluded from Large Loan criteri
 
 Applications outside stated Large Loan criteria follow standard process.
 
----
-
 ### Manual Underwriting Criteria
 
 Applications will be referred for full manual review where any of the following apply:
@@ -1283,8 +1190,6 @@ Applications will be referred for full manual review where any of the following 
 * Individual or aggregate loan exposure to TSB > £750,000 and customer borrowing more than 80% of the maximum loan available.
 * Individual or aggregate loan exposure to TSB > £500,000 and customer borrowing more than 80% of the maximum loan available (subject to credit score and excluding like for like remortgages).
 * Remortgages with additional borrowing (including unencumbered and transfer of equity) where equity release > £300,000 and exceeds 50% of available equity.
-
----
 
 ### Underwriting Assessment
 
@@ -1308,8 +1213,6 @@ Property:
 * Property type and composition reviewed.
 * Valuer discussion where required.
 
----
-
 ### Documentation That May Be Required
 
 * 3 months’ main current account bank statements (each applicant).
@@ -1320,8 +1223,6 @@ Property:
 * Proof of deposit.
 * Evidence for capital raising (e.g. home improvement estimates, divorce settlement/separation order).
 * For sole applications, background details on spouse/partner and financial dependency status.
-
----
 
 ## LENDING INTO RETIREMENT
 
@@ -1336,8 +1237,6 @@ Policy applies where the mortgage term extends beyond:
 
 Interest Only:
 Not acceptable where all or part of the mortgage is on an interest only basis. Applies to any repayment element as well.
-
----
 
 ### More Than 10 Years Until Retirement (at application)
 
@@ -1363,8 +1262,6 @@ If already receiving a private pension:
 
 * Must evidence contribution to a separate private/company pension.
 
----
-
 ### Less Than 10 Years Until Retirement (at application)
 
 Maximum Age:
@@ -1381,8 +1278,6 @@ Affordability:
 * Based on both current income and verified future retirement income.
 * Further review may be required.
 
----
-
 ### Verifying Anticipated Retirement Income
 
 Evidence (dated within last 12 months):
@@ -1390,8 +1285,6 @@ Evidence (dated within last 12 months):
 * Private/Company Pension Forecast Statement (gross annual income).
 * State Pension Statement.
 * Annuity Statement.
-
----
 
 ### Other Income Treatment
 
@@ -1405,8 +1298,6 @@ Income into retirement screen:
 * Only future income once retired.
 * Includes pensions currently received where applicant has less than 10 years until retirement.
 
----
-
 ### Applicant Already Retired
 
 Lending into retirement rules: Do not apply.
@@ -1416,8 +1307,6 @@ Income Treatment:
 * Only pension income currently received can be used.
 * Key under Current Income.
 * Affordability based on entered Current Income.
-
----
 
 ## LET TO BUY
 
@@ -1436,8 +1325,6 @@ Requirement:
 If required:
 
 * Letting agent letter confirming expected rental income.
-
----
 
 ## LOCATION
 
@@ -1465,8 +1352,6 @@ Scotland including:
 * Inner Hebrides
 * Clyde Islands
 
----
-
 ### Not Acceptable Locations
 
 * Northern Ireland
@@ -1478,8 +1363,6 @@ Scotland including:
   * Herm
   * Sark
   * Alderney
-
----
 
 ## MATERNITY / PATERNITY / ADOPTION LEAVE
 
@@ -1501,8 +1384,6 @@ Other income affected:
 
 * Must be considered.
 
----
-
 ## MAXIMUM TERM
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/maximum-term/](https://intermediary.tsb.co.uk/criteria/residential-criteria/maximum-term/)
@@ -1510,8 +1391,6 @@ Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/maximum-te
 Full Repayment: Maximum 40 years.
 Interest Only (all or part): Maximum 30 years.
 30-year limit also applies to repayment portion where any part is interest only.
-
----
 
 ## MINIMUM / MAXIMUM AGE
 
@@ -1537,8 +1416,6 @@ For joint applicants:
 
 * Based on oldest applicant.
 
----
-
 ## MORTGAGE-FREE PROPERTY (UNENCUMBERED)
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/mortgage-free-property/](https://intermediary.tsb.co.uk/criteria/residential-criteria/mortgage-free-property/)
@@ -1563,8 +1440,6 @@ Requirement:
 * Property must be registered in applicant’s name for minimum 6 months.
 * Exception: inherited property where applicant is beneficiary.
 
----
-
 ## NEW BUILD PROPERTIES
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/new-build-properties/](https://intermediary.tsb.co.uk/criteria/residential-criteria/new-build-properties/)
@@ -1575,8 +1450,6 @@ Houses and Bungalows: 95%
 Flats and Maisonettes: 85%
 Second Home/Holiday Homes: 75%
 
----
-
 ### Definition of New Build
 
 Includes:
@@ -1585,8 +1458,6 @@ Includes:
 * Refurbished residential property by builder/developer.
 * Newly converted non-residential property.
 * Tenanted new/converted property sold by builder/developer.
-
----
 
 ### Warranty Requirements (properties built within last 10 years)
 
@@ -1611,8 +1482,6 @@ Professional consultant must:
 
 Retrospective warranties: Not acceptable.
 
----
-
 ### Leasehold New Build
 
 Minimum unexpired lease: 123 years at commencement.
@@ -1621,8 +1490,6 @@ Ground Rent (post 30 June 2022 leases):
 
 * Must not exceed peppercorn (£1 annually).
 * If greater than peppercorn: Not acceptable.
-
----
 
 ### Mortgage Offer Validity
 
@@ -1634,8 +1501,6 @@ Extension:
 * 180-day extension requires revaluation, credit search, affordability checks.
 * Extension request must be within 14 days of expiry.
 * If not extended in time: new application required.
-
----
 
 ## NEW BUILD CASH INCENTIVES
 
@@ -1659,8 +1524,6 @@ Shared Equity / Shared Ownership:
 
 Lending decision based on lower of valuation or purchase price.
 
----
-
 ## ACCEPTABLE WARRANTY PROVIDERS
 
 * NHBC
@@ -1681,8 +1544,6 @@ Lending decision based on lower of valuation or purchase price.
 * ARK
 * Thomas Miller Specialty Construction (TMSC)
 
----
-
 ## NON SIMULTANEOUS SALE (OUTSTANDING MORTGAGE)
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/non-simultaneous-sale/](https://intermediary.tsb.co.uk/criteria/residential-criteria/non-simultaneous-sale/)
@@ -1695,16 +1556,12 @@ Requirement:
 * Essential running costs added as expenditure.
 * Included in affordability.
 
----
-
 ## NUMBER OF APPLICANTS
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/number-of-applicants/](https://intermediary.tsb.co.uk/criteria/residential-criteria/number-of-applicants/)
 
 Maximum Applicants: 4.
 Income considered: First 2 applicants only.
-
----
 
 ## OCCUPANCY
 
@@ -1730,23 +1587,17 @@ Second Homes:
 * Family members must always be keyed.
 * Consent form always required.
 
----
-
 ### Remortgages
 
 Not acceptable:
 
 * Removing a person from mortgage if they will continue to reside in property.
 
----
-
 ### Tenants
 
 Not acceptable:
 
 * Sitting tenant under short hold tenancy occupying property on completion.
-
----
 
 ### Lodgers
 
@@ -1755,8 +1606,6 @@ Income from lodgers: Not allowed in affordability.
 Maximum: 2 lodgers.
 Must share living accommodation.
 Care required where exclusive occupation or annex use.
-
----
 
 ### Applicant Not Resident in Property
 
@@ -1778,8 +1627,6 @@ Not acceptable:
 
 * Second Home loan where applicant intends to let under shorthold tenancy immediately post completion.
 
----
-
 ## OCCUPANCY RESTRICTED PROPERTY / COVENANTS
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/occupancy-restricted-property/](https://intermediary.tsb.co.uk/criteria/residential-criteria/occupancy-restricted-property/)
@@ -1796,8 +1643,6 @@ Allowed subject to:
 
 No commitment before valuer consideration.
 
----
-
 ### Keying Requirements
 
 * Key as standard application.
@@ -1805,16 +1650,12 @@ No commitment before valuer consideration.
 * Regional Case Management team to add special condition.
 * Valuer to report value at appropriate discounted percentage.
 
----
-
 ### Acceptable Restrictive Covenants (examples)
 
 * Recognised councils (England, Scotland, Wales).
 * Right of First Refusal (Section 156).
 * Keyworker/Essential worker schemes.
 * National Parks.
-
----
 
 ### Restricted Re-Sale Price Covenant
 
@@ -1826,8 +1667,6 @@ Valuation:
 Restricted Re-Sale Covenant:
 
 * Valuation reported at 100% of market value considering restriction.
-
----
 
 ### Unacceptable Restrictive Covenants
 
@@ -1842,8 +1681,6 @@ Restricted Re-Sale Covenant:
 * Help to Buy subject to Section 106/75.
 * Overage agreements.
 
----
-
 ## RESALE PRICE COVENANT SCHEMES
 
 Subject to TSB Affordable Housing Scheme Guidance Notes.
@@ -1857,7 +1694,6 @@ Discount Market Sale:
 * Acceptable where discount passes purchaser to purchaser.
 * If discount only to original purchaser: treated as Concessionary Purchase and outside policy.
 
----
 ## OFFER EXPIRY
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/offer-expiry/](https://intermediary.tsb.co.uk/criteria/residential-criteria/offer-expiry/)
@@ -1877,8 +1713,6 @@ Condition:
 * Extension can only be actioned once the mortgage offer has expired.
 * No amendments or updates to application details are permitted during a 28-day extension (including product changes).
 * If no confirmation is received within the first 28 days after expiry (including the day of expiry), the case must be rekeyed as new business.
-
----
 
 ### New Build Mortgage Offers Only
 
@@ -1904,8 +1738,6 @@ Condition for 180-day extension:
 * Credit search.
 * Affordability checks.
 
----
-
 ## POLITICALLY EXPOSED PERSONS
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/politically-exposed-persons/](https://intermediary.tsb.co.uk/criteria/residential-criteria/politically-exposed-persons/)
@@ -1918,8 +1750,6 @@ Condition:
 
 * Further checks required.
 * Process may take up to 30 days from referral.
-
----
 
 ## PORTABILITY
 
@@ -1949,8 +1779,6 @@ Porting with top-up (simultaneous completion):
 * Key “Security address postcode”.
 * Proceed through DIP and full application as normal.
 
----
-
 ### General Porting Rules
 
 Maximum Loan Amount (Residential): £2,000,000 (includes any ported balance).
@@ -1978,8 +1806,6 @@ Proc Fees:
 
 * Apply to total new loan amount (not just top-up).
 
----
-
 ## EARLY REPAYMENT CHARGES (ERCS)
 
 ### Simultaneous Porting
@@ -1993,8 +1819,6 @@ ERC Treatment:
 * Full ERC waived if porting reduced amount because it is required amount or maximum borrowing.
 * If porting <90% of mortgage balance and taking additional borrowing on new rate covering non-ported amount, partial ERC charged.
 * If porting >90%, whole ERC waived.
-
----
 
 ### Non-Simultaneous Porting
 
@@ -2017,8 +1841,6 @@ Condition:
 Account numbers 50, 30, 77, 87:
 
 * May have different rules.
-
----
 
 ## PROFESSIONAL SPORTS PEOPLE
 
@@ -2043,8 +1865,6 @@ Buy to Let:
 
 * Professional sports people may apply if minimum income requirements met.
 
----
-
 ## PROPERTY
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/property/](https://intermediary.tsb.co.uk/criteria/residential-criteria/property/)
@@ -2057,8 +1877,6 @@ Minimum Internal Floor Area (Flats): 30 sqm (excluding balconies/terraces).
 Flats with balcony/open deck access:
 
 * Acceptable subject to specific criteria.
-
----
 
 ### Condition
 
@@ -2074,8 +1892,6 @@ Not acceptable:
 * Retentions.
 * Offer issued before essential works completed.
 
----
-
 ### Estate Management / Maintenance Charges (Freehold)
 
 Charges acceptable:
@@ -2089,15 +1905,11 @@ Requirement:
 
 * Must be keyed under “Ground Rent” for affordability.
 
----
-
 ### Service Charges (Leasehold)
 
 Allowed:
 
 * Subject to valuer comments on marketability and saleability.
-
----
 
 ### Leasehold Property
 
@@ -2109,8 +1921,6 @@ New Build Leasehold: 123 years minimum at commencement.
 Lease below 85 years:
 
 * Subject to valuer assessment.
-
----
 
 ### Ground Rent
 
@@ -2146,8 +1956,6 @@ Not acceptable:
 
 * Ground rent above peppercorn on leases created after 30 June 2022.
 
----
-
 ### Other Freehold Arrangements
 
 Allowed where:
@@ -2164,8 +1972,6 @@ Freehold flats not meeting criteria:
 
 * Not acceptable.
 
----
-
 ### High Rise Flats
 
 Allowed:
@@ -2175,8 +1981,6 @@ Allowed:
 Not acceptable:
 
 * No lift and property above 4th floor (ground plus 3 floors).
-
----
 
 ### Ex Local Authority
 
@@ -2188,8 +1992,6 @@ Must be:
 * Readily saleable.
 * Standard construction.
 * Not lone owner-occupied flat in LA tenanted block.
-
----
 
 ### Properties Above / Near Commercial Premises
 
@@ -2208,8 +2010,6 @@ Above convenience stores/small supermarkets:
 
 * Acceptable.
 
----
-
 ### Specialist Reports
 
 Must be from appropriately qualified professionals (e.g. Gas Safe, NICEIC, MRICS, MIStruct.E etc.).
@@ -2223,8 +2023,6 @@ Report Requirements:
 * Transferable to owner and lender in possession.
 * Normally dated within last 12 months.
 
----
-
 ### Studio Flats
 
 Allowed:
@@ -2235,8 +2033,6 @@ Allowed:
 Not acceptable:
 
 * Where interest only and repayment vehicle is sale of the security property.
-
----
 
 ### Japanese Knotweed
 
@@ -2254,21 +2050,15 @@ Category C and D:
 
 * Subject to valuer comments.
 
----
-
 ### Solar Panel Leasing Agreements
 
 Allowed:
 
 * Subject to meeting minimum requirements.
 
----
-
 ### Distressed Sale and Leaseback
 
 Not acceptable.
-
----
 
 ### Construction
 
@@ -2280,8 +2070,6 @@ PRC:
 
 * May be acceptable if repaired.
 * PRC flats and maisonettes: Not acceptable.
-
----
 
 ### Unacceptable Property / Construction Types
 
@@ -2306,8 +2094,6 @@ Not acceptable:
 * Steel frame post-1987 without WIMLAS/BBA or acceptable report.
 * Any BTL property with occupancy restrictions.
 
----
-
 ### Use of Property
 
 Requirement:
@@ -2324,8 +2110,6 @@ Not acceptable:
 Limited incidental business:
 
 * May be acceptable if residential status retained.
-
----
 
 ## RATE SWITCH
 
@@ -2348,8 +2132,6 @@ Effective Date:
 TSB product end dates:
 
 * Last calendar day of expiry month.
-
----
 
 ### Cancellation Rules
 
@@ -2375,8 +2157,6 @@ February:
 * Non-leap year: 14th.
 * Leap year: 15th.
 
----
-
 ### Buy to Let Rate Switch – Overseas Customers
 
 Not acceptable:
@@ -2386,8 +2166,6 @@ Not acceptable:
 Allowed:
 
 * If customer confirms UK residency.
-
----
 
 ## REMORTGAGES
 
@@ -2412,8 +2190,6 @@ Debt to income policy:
 
 * Applies.
 
----
-
 ## CAPITAL RAISING
 
 Maximum LTV: 85% (subject to credit score).
@@ -2436,8 +2212,6 @@ If raising to purchase another property:
 
 * All future costs must be included.
 * If for BTL purchase, estimated rental income evidence required.
-
----
 
 ## DEBT CONSOLIDATION
 
@@ -2468,8 +2242,6 @@ Not acceptable:
 * Forces Help to Buy/Long Service Advance of Pay.
 * Payday loans.
 
----
-
 ## RESIDENCY
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/residency/](https://intermediary.tsb.co.uk/criteria/residential-criteria/residency/)
@@ -2488,7 +2260,6 @@ No Permanent Right to Reside:
 
 * Minimum 12 months UK residency required.
 
----
 ## REVISED PROPERTY DETAILS
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/revised-property-details/](https://intermediary.tsb.co.uk/criteria/residential-criteria/revised-property-details/)
@@ -2509,8 +2280,6 @@ If the property is not changing but the address keyed requires amendment (e.g. p
 * The amendment must be completed by TSB prior to completion.
 * Revised information must be scanned and attached online to the application.
 * This cannot be actioned by telephone.
-
----
 
 ## RIGHT TO BUY
 
@@ -2543,8 +2312,6 @@ Additional Borrowing:
 Mortgage Type:
 
 * Must be on a repayment basis.
-
----
 
 ## SECOND HOME LOANS
 
@@ -2583,8 +2350,6 @@ Not acceptable:
 
 * Tenancy agreement between applicant and family member.
 
----
-
 ## SELF EMPLOYED APPLICANTS
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/self-employed-applicants/](https://intermediary.tsb.co.uk/criteria/residential-criteria/self-employed-applicants/)
@@ -2607,8 +2372,6 @@ Income Used:
 * Partnerships/LLP: Share of net profit.
 * Limited Company Directors: Salary and dividends.
 
----
-
 ### Sole Traders & Partnerships (including LLP)
 
 Requirements:
@@ -2627,16 +2390,12 @@ Documentation:
 * Corresponding tax year overviews.
 * Or accountant’s reference.
 
----
-
 ### Limited Company Director – Less than 25% Shareholding
 
 * No minimum experience period.
 * Future income accepted up to 3 months.
 * Affordability assessed under employed policy.
 * If dividends received, affordability assessed under self employed policy.
-
----
 
 ### Limited Company Director – 25% or More Shareholding
 
@@ -2664,16 +2423,12 @@ Dividends exceeding share of net profit:
 
 * Underwriting team will manually review if unaffordable based on share of net profit.
 
----
-
 ### Day Rate Contractors
 
 * Contractors not meeting policy criteria treated as self-employed.
 * Minimum 2 years trading.
 * 2 years finalised figures.
 * Income evidence required as per self-employed.
-
----
 
 ### Change in Company Structure
 
@@ -2689,8 +2444,6 @@ Sole Trader to LTD:
 * Key salary and dividends for relevant years.
 * For previous sole trader years, key net profit into salary field.
 
----
-
 ### Must Be Treated as Self-Employed If:
 
 * Shareholding of 25% or more.
@@ -2699,8 +2452,6 @@ Sole Trader to LTD:
 * Partnership interest (non-PAYE income).
 * Franchise owner.
 * Employed by LTD/LLP receiving salary and dividends and/or net profits.
-
----
 
 ## SHARED EQUITY MORTGAGES (Including Help to Buy Equity Loan)
 
@@ -2740,8 +2491,6 @@ Restrictions:
 Default Equity Loan Term:
 
 * 25 years (normal mortgage criteria apply).
-
----
 
 ### Help to Buy Equity Loan
 
@@ -2796,8 +2545,6 @@ HTB Wales from 1 April 2023:
 
 * Minimum EPC rating B.
 
----
-
 ## SHARED OWNERSHIP MORTGAGES
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/shared-ownership-mortgages/](https://intermediary.tsb.co.uk/criteria/residential-criteria/shared-ownership-mortgages/)
@@ -2843,8 +2590,6 @@ Lease under 85 years:
 
 * Subject to valuer assessment.
 
----
-
 ### Shared Ownership Remortgage
 
 Keying:
@@ -2871,8 +2616,6 @@ Final Tranche Purchase:
 * Use “Own Conveyancer” product range with cashback.
 * Must contact Mortgage Application Team (option 2).
 * Special condition added to offer.
-
----
 
 ## SUB-SALES AND BACK-TO-BACK TRANSACTIONS
 
@@ -2909,8 +2652,6 @@ Not acceptable:
 * Assignable contracts.
 * Irrevocable powers of attorney in favour of intervening sellers.
 * Any similar transaction structure.
-
----
 
 ## TIED ACCOMMODATION
 
@@ -2949,8 +2690,6 @@ If applicant occupies property on completion:
 
 * Standard residential criteria apply.
 
----
-
 ## UNACCEPTABLE SCHEMES
 
 Source: [https://intermediary.tsb.co.uk/criteria/residential-criteria/unacceptable-schemes/](https://intermediary.tsb.co.uk/criteria/residential-criteria/unacceptable-schemes/)
@@ -2966,10 +2705,7 @@ Not acceptable:
 * Shell Scheme(s)
 * Live/Work Scheme(s)
 
----
 # BUY-TO-LET CRITERIA
-
----
 
 ## ADVERSE CREDIT
 
@@ -2994,8 +2730,6 @@ Automatic Decline Where:
 * Default greater than £500 registered in the last 3 years.
 * Two or more defaults where the latest was registered in the last 3 years.
 
----
-
 ### Arrears
 
 Applicants with arrears can be considered subject to:
@@ -3013,8 +2747,6 @@ Automatic Decline Where:
 * Two months or more late with payments on other individual debts in the last 6 months.
 * One month or more late with mortgage payment greater than £100 in the last 12 months.
 
----
-
 ### Bankruptcy / IVA / Debt Relief Order / Debt Management Plan
 
 Application Declined If:
@@ -3028,8 +2760,6 @@ Application Declined If:
 Minimum Requirement:
 
 * Applicant must have been discharged for at least 6 years before consideration.
-
----
 
 ## AFFORDABILITY
 
@@ -3055,8 +2785,6 @@ ICR:
 
 * 145% irrespective of tax band (including joint applications).
 
----
-
 ### Stressed Interest Rates
 
 Re-mortgage with no additional borrowing
@@ -3068,8 +2796,6 @@ All other application types
 (including residential to BTL / Let to Buy):
 
 * Higher of 5.50% OR product rate +2%.
-
----
 
 ### Tax Banding Calculation
 
@@ -3092,8 +2818,6 @@ Rental income from unencumbered properties:
 * ICR = 145%.
 * No income evidence required.
 
----
-
 ### Rental Income Evidence
 
 Property subject to application:
@@ -3108,8 +2832,6 @@ Background mortgaged properties may be evidenced by:
 * Letter from accountant or solicitor.
 * Letter from letting agent confirming expected rental (if not currently let).
 
----
-
 ### Like for Like Remortgage
 
 * Balance keyed must match credit bureau.
@@ -3117,8 +2839,6 @@ Background mortgaged properties may be evidenced by:
 
   * Additional documentation required; OR
   * Loan reduced to match bureau balance.
-
----
 
 ### Insufficient Rental Income
 
@@ -3133,8 +2853,6 @@ Personal income:
 Product Fee:
 
 * Must be included in self-financing calculation if added to loan.
-
----
 
 ## AVAILABILITY
 
@@ -3167,8 +2885,6 @@ Allowed:
 * First time landlords.
 * Non owner occupiers.
 
----
-
 ### Loan & Property Limits
 
 Maximum Loan Size:
@@ -3189,8 +2905,6 @@ Term:
 * Minimum 5 years.
 * Maximum 40 years.
 
----
-
 ### Income
 
 No minimum income requirement.
@@ -3209,16 +2923,12 @@ Applicants must:
 * Be registered for UK tax.
 * Have UK income source.
 
----
-
 ### Portfolio Limits
 
 TSB will lend to landlords with:
 
 * Maximum 3 mortgaged Buy to Let properties (personal name, limited company, or other legal entity).
 * Applies across TSB and other lenders.
-
----
 
 ## BUY-TO-LET OVERVIEW
 
@@ -3232,8 +2942,6 @@ For queries:
 
 * Contact BDM.
 * Contact Telephone Business Development Managers (option 3).
-
----
 
 ## DEPOSITS
 
@@ -3266,8 +2974,6 @@ Acceptable Family Members:
 * First cousins.
 * Nieces / Nephews.
 
----
-
 ### Vendor Deposits & Cashbacks (Non New Build)
 
 Vendor gifted deposits:
@@ -3282,15 +2988,11 @@ Proof of deposit:
 
 * May be requested.
 
----
-
 ## EWS1 PROCESS – CLADDING & EXTERNAL WALL SYSTEM
 
 Source: [https://intermediary.tsb.co.uk/criteria/buy-to-let/ews1-btl/](https://intermediary.tsb.co.uk/criteria/buy-to-let/ews1-btl/)
 
 EWS1 may not be required in certain scenarios.
-
----
 
 ### Government / Developer Funded Works
 
@@ -3304,8 +3006,6 @@ Cannot proceed if:
 
 * Funding applied for but not yet approved.
 
----
-
 ### New Build Blocks
 
 Offer can be issued without EWS1:
@@ -3315,8 +3015,6 @@ Offer can be issued without EWS1:
 EWS1 may not be required if:
 
 * Written confirmation building complies with Building (Amendment) Regulations 2018 (or equivalent).
-
----
 
 ### Privately Funded Imminent Remediation
 
@@ -3331,8 +3029,6 @@ Written confirmation from managing owner includes:
 * Expected completion date.
 * Confirmation expected acceptable EWS1 outcome (A1, A2, B1).
 
----
-
 ### Blocks up to 6 Storeys
 
 Where metal cladding present:
@@ -3344,15 +3040,11 @@ EWS1 required if:
 * Vertically stacked balconies.
 * Combustible decking/balustrades linked vertically.
 
----
-
 ### Acceptable EWS1 Outcomes
 
 * A1
 * A2
 * B1
-
----
 
 ## EMPLOYMENT
 
@@ -3379,8 +3071,6 @@ Applicants must:
 * Be registered for UK tax.
 * Have UK income source.
 
----
-
 ## EXPOSURE LIMITS
 
 Source: [https://intermediary.tsb.co.uk/criteria/buy-to-let/exposure-limits/](https://intermediary.tsb.co.uk/criteria/buy-to-let/exposure-limits/)
@@ -3394,8 +3084,6 @@ Customer cannot have:
 Joint exposure:
 
 * Counts towards limits.
-
----
 
 ## INHERITED PROPERTIES
 
@@ -3414,8 +3102,6 @@ If deeds in beneficiary name under 6 months:
 * Key as remortgage.
 * Amount transferred from other lender = £0.
 
----
-
 ## LTV
 
 Source: [https://intermediary.tsb.co.uk/criteria/buy-to-let/ltv/](https://intermediary.tsb.co.uk/criteria/buy-to-let/ltv/)
@@ -3426,8 +3112,6 @@ Maximum: 80%.
 New Build Flats/Maisonettes: 75%.
 Interest Only: 80%.
 Additional Borrowing: 75%.
-
----
 
 ### Credit Score LTV Limits
 
@@ -3445,8 +3129,6 @@ Additional Borrowing:
 * 75% (A1/A2 & A3)
 * 65% (A4)
 
----
-
 Hard Stop:
 
 * Loan plus fees cannot exceed 80%.
@@ -3463,8 +3145,6 @@ Rate Switch (no additional borrowing):
 For product specific LTV:
 
 * Refer to latest Product Guide.
-
----
 
 ## LARGE LOANS
 
@@ -3502,8 +3182,6 @@ Underwriter may request:
 * Evidence for capital raising (e.g. estimates for home improvements).
 * Portfolio summary form.
 
----
-
 ## MINIMUM / MAXIMUM AGE
 
 Source: [https://intermediary.tsb.co.uk/criteria/buy-to-let/minimum-maximum-age/](https://intermediary.tsb.co.uk/criteria/buy-to-let/minimum-maximum-age/)
@@ -3511,8 +3189,6 @@ Source: [https://intermediary.tsb.co.uk/criteria/buy-to-let/minimum-maximum-age/
 * Minimum age at application: 25 (all applicants).
 * Maximum age at end of term: 80.
 * For joint applications, maximum age based on oldest applicant.
-
----
 
 ## NEW BUILD PROPERTIES
 
@@ -3585,8 +3261,6 @@ Leasehold new builds:
 
 * Minimum 123 years unexpired at mortgage commencement.
 
----
-
 ## NEW BUILD CASH INCENTIVES
 
 * Includes deposit contributions, cashback, legal fee contributions, stamp duty contributions, mortgage subsidies.
@@ -3599,8 +3273,6 @@ For new build leasehold properties created after 30 June 2022:
 
 * Ground rent must not exceed a peppercorn (£1 per year).
 * If ground rent exceeds peppercorn → not acceptable.
-
----
 
 ## OCCUPANCY
 
@@ -3632,8 +3304,6 @@ Immediate family includes:
 * Letting to immediate family member not permitted on new BTL.
 * Must be processed as Second Home Loan.
 
----
-
 ## OFFER EXPIRY
 
 Source: [https://intermediary.tsb.co.uk/criteria/buy-to-let/offer-expiry/](https://intermediary.tsb.co.uk/criteria/buy-to-let/offer-expiry/)
@@ -3664,8 +3334,6 @@ Must use New Build offer extension form.
 
 If no update within 28 days → rekey as new business.
 
----
-
 ## PORTABILITY
 
 Source: [https://intermediary.tsb.co.uk/criteria/buy-to-let/portability/](https://intermediary.tsb.co.uk/criteria/buy-to-let/portability/)
@@ -3673,8 +3341,6 @@ Source: [https://intermediary.tsb.co.uk/criteria/buy-to-let/portability/](https:
 * BTL product may be ported to new BTL property.
 * BTL product cannot be ported to residential.
 * Residential product cannot be ported to BTL.
-
----
 
 ## PROPERTY
 
@@ -3697,15 +3363,11 @@ Example of unacceptable:
 
 * Complete replacement of bathroom and/or kitchen required.
 
----
-
 ## ENERGY RATING
 
 * EPC rating F or G not acceptable unless valid exemption registered.
 * Improvements must be completed before offer.
 * Updated EPC required.
-
----
 
 ## ESTATE MANAGEMENT / SERVICE CHARGES (FREEHOLD)
 
@@ -3717,13 +3379,9 @@ Acceptable subject to valuation and insurance.
   * Maximum higher of 0.2% of market value OR £500.
 * Must be keyed under “Ground Rent” for affordability.
 
----
-
 ## SERVICE CHARGES (LEASEHOLD)
 
 * Acceptable subject to surveyor’s comments.
-
----
 
 ## LEASEHOLD PROPERTY
 
@@ -3732,16 +3390,12 @@ Acceptable subject to valuation and insurance.
 * New build leasehold: minimum 123 years.
 * Below 85 years subject to valuer assessment.
 
----
-
 ## FLATS WITH BALCONY / OPEN DECK ACCESS
 
 * No maximum floors if lift present.
 * Without lift → unacceptable above 4th floor (ground plus three).
 * Must have secure ground floor access.
 * Valuer must confirm marketable and mortgageable.
-
----
 
 ## GROUND RENT
 
@@ -3764,8 +3418,6 @@ Commonhold:
 
 * Not accepted.
 
----
-
 ## OTHER FREEHOLD ARRANGEMENTS
 
 Acceptable where:
@@ -3775,22 +3427,16 @@ Acceptable where:
 * If sole freeholder and leaseholder → mortgage registered on both titles.
 * Freehold flats outside policy → unacceptable.
 
----
-
 ## HIGH RISE FLATS
 
 * No maximum floors if lift present.
 * Without lift → unacceptable above 3rd floor (ground plus three).
-
----
 
 ## EX LOCAL AUTHORITY
 
 * Maximum 6 storeys (ground plus five).
 * Majority must be owner-occupied.
 * Must be standard construction.
-
----
 
 ## PROPERTIES ABOVE / NEAR COMMERCIAL
 
@@ -3802,14 +3448,10 @@ Acceptable subject to valuer comments and:
 * Not adjacent to high-risk commercial uses (e.g. pub, nightclub, petrol station, takeaway).
 * Above convenience stores/small supermarkets acceptable.
 
----
-
 ## STUDIO FLATS
 
 * Acceptable subject to valuer comments.
 * Minimum 30 sqm internal area.
-
----
 
 ## UNACCEPTABLE PROPERTIES
 
@@ -3836,13 +3478,9 @@ Includes:
 * Steel frame pre-1987 without compliant reports.
 * Steel frame post-1987 without WIMLAS/BBA or acceptable engineer report.
 
----
-
 ## NUMBER OF ROOMS
 
 * Must have kitchen and living room (excluding studio flats).
-
----
 
 ## RATE SWITCH
 
@@ -3858,8 +3496,6 @@ Source: [https://intermediary.tsb.co.uk/criteria/buy-to-let/rate-switch/](https:
 BTL overseas customers:
 
 * Not eligible unless residing in UK.
-
----
 
 ## REMORTGAGES
 
@@ -3880,8 +3516,6 @@ Unencumbered properties:
 
 * Treated as remortgages.
 
----
-
 ## DEBT CONSOLIDATION
 
 * Maximum 20% of property value.
@@ -3895,8 +3529,6 @@ Unencumbered properties:
   * Payday loans.
   * Customers in financial difficulty.
   * Debts with less than 12 months remaining (excluding revolving credit).
-
----
 
 ## RESIDENCY
 
@@ -3912,13 +3544,9 @@ Visas:
 
 * Not acceptable.
 
----
-
 ## SCHEME COMPATIBILITY
 
 * Not available with other schemes.
-
----
 
 ## TENANCY REQUIREMENTS
 
@@ -3945,8 +3573,6 @@ Not acceptable:
 * Housing association/local authority letting.
 * Asylum seekers.
 
----
-
 ## UNACCEPTABLE LETS
 
 Not available for:
@@ -3961,8 +3587,6 @@ Not available for:
 * Asylum seekers.
 * Diplomatic immunity.
 * Builder rent guarantees.
-
----
 
 ## KEY UPDATES – SEPTEMBER 2025
 
@@ -3980,14 +3604,10 @@ Not available for:
 * Property must be immediately lettable.
 * No family occupancy (must be residential if family).
 
----
-
 ## CONTACT INFORMATION
 
 Telephone BDM: 0330 123 3291
 Regional team: Option 3
 Portal: TSB Mortgage Pro
-
----
 
 # END OF DOCUMENT

@@ -1,14 +1,74 @@
-# FOUNDATION FOR INTERMEDIARIES – BUY TO LET CRITERIA
+# FOUNDATION FOR INTERMEDIARIES – BUY TO LET CRITERIA (COMBINED)
 
 ---
 
 **LENDER:** Foundation for Intermediaries
 **PRODUCT:** Buy to Let
-**DOCUMENT TYPE:** Lending Criteria Guide
-**LAST UPDATED:** October 2025 (v3.28)
+**DOCUMENT TYPE:** Lending Criteria Guide and Product Guide (combined)
+**LAST UPDATED:** November 2025 (Criteria v3.28; Product Guide November 2025)
 **FOR INTERMEDIARY USE ONLY**
 
-**Source:** https://www.foundationforintermediaries.co.uk/media/gxfel5z1/579fh-btl-criteria-guide-v328.pdf
+**Sources:**
+* Criteria: https://www.foundationforintermediaries.co.uk/media/gxfel5z1/579fh-btl-criteria-guide-v328.pdf
+* Product Guide: https://www.foundationforintermediaries.co.uk/media/j5zb34ja/btl-product-guide.pdf
+
+Note: BBR is set at 4.00% as of 7th August 2025.
+
+---
+
+## PRODUCTS AT A GLANCE
+
+Suitable for: Personal ownership landlords; Portfolio landlords; Limited company landlords; Semi-commercial / mixed use landlords; First time landlords; Expat landlords.
+
+Quick overview:
+* **F1 Product Range** – For clients with an almost clean credit history
+* **F2 Product Range** – For clients financing a more specialist property type and/or those with some historical blips on their credit rating
+* **F3 Product Range** – For clients with more recent blips on their credit rating
+
+Applicant type by product:
+* **Individual**: F1 ✓, F2 ✓, F3 ✓
+* **Individual – Consumer Buy to Let**: F1 ✓, F2 ✓, F3 ✓
+* **Limited Company**: F1 ✓, F2 ✓, F3 ✓
+* **Portfolio landlord (including large portfolio £5m+)**: F1 ✓, F2 ✓ (Large portfolios of £5m+ on F2 only), F3 ✓
+* **First time landlord**: F1 ✓, F2 ✓ (standard BTL & HMO up to 6 occupants – excluding Special HMO/MUB/STL products), F3 ×
+* **Standard buy to let**: F1 ✓, F2 ✓, F3 ✓
+* **HMO up to 6 occupants**: F1 ×, F2 ✓ (HMO specific products only), F3 ×
+* **Large HMOs from 7+ bedrooms and MUFBs**: F1 ×, F2 ✓ (Large HMO & MUFB specific products only), F3 ×
+* **Short term let**: F1 ×, F2 ✓ (STL specific products only), F3 ×
+* **Holiday let**: F1 ×, F2 ✓ (Holiday Let specific products only), F3 ×
+
+---
+
+## WHO WE HELP
+
+### Personal Ownership Landlords
+* We accept consumer buy to let applications
+* We don't require experienced landlords to have their own residential property
+
+### Portfolio Landlords
+* We don't set limits on the size or value of existing portfolios held with other lenders
+* We have no limit on the number or value of properties mortgaged with us
+* We have specific products available for those with over £5m aggregate borrowing
+
+### HMO/MUFB Landlords
+* We consider HMOs with unlimited bedrooms
+* We consider MUFBs with up to 10 units
+* We accept hybrid properties (e.g. mix of HMOs and MUFBs)
+* We accept applications with multiple flats or houses on a single freehold
+
+### Semi-Commercial Landlords
+* We don't need to see previous semi-commercial experience
+* We accept a 60% residential / 40% commercial split
+
+### Limited Company Landlords
+* We accept inter-company loans, shareholder deposits and director loans and deposits
+* We accept newly established SPVs and LLPs
+* We don't have a cap on the number of shareholders and allow up to four directors
+* We have no max age restrictions
+
+### First Time Landlords
+* We accept HMO applications for properties with up to six lettable rooms (FTL applications are not accepted on Special HMO/MUB/STL products)
+* Loans available with a 20% deposit to help aspiring landlords buy their first property
 
 ---
 
@@ -409,6 +469,41 @@ Property Plus/HMO Plus & STL Plus
 * HMO Plus for HMOs up to 6 occupants (Commercial valuation instructed)
 * Complex layouts falling outside of standard HMO criteria considered
 
+---
+
+## F1 / F2 / F3 PRODUCT RANGES (RATES, FEES, LTV)
+
+ICR: Ltd Co/Basic rate 125%, Higher rate 145%; stress tested as per criteria. ERCs and fees vary by product.
+
+### F1 Buy to Let Products
+For purchase and remortgage. For portfolio and non-portfolio landlords with an almost clean credit history.
+
+* **2 Year Fixed Special** – Rates from 3.79% to 4.49%; LTV 65–80%; Fee 4.00%; Max loan £750k–£3m/£5m by exception; ERCs 3%, 2%. Criteria exclusions on Special products – see Criteria Guide.
+* **2 Year Discount Special** – 4.64% (reversion 4.35%); 75% LTV; 4.00% fee; £2m max; None ERC.
+* **2/3/5 Year Fixed Limited Edition** – 5.50% or 5.24% (£2,995 fee); 75% LTV; 1.00% or £2,995; £1.5m max; ERCs apply.
+* **2/3/5 Year Fixed** – 5.50% or 5.24% (£2,995 fee); 75% LTV; 1.00% or £2,995; £1.5m max; ERCs apply.
+* **3 Year Fixed Special** – Rates from 3.89% to 4.59%; LTV 65–80%; Fee 4.00%; Max loan £750k–£3m/£5m by exception; ERCs 3%, 2%, 1%.
+* **5 Year Fixed Special** – Rates from 3.99% to 4.69%; LTV 65–80%; Fee 4.00%; Max loan £750k–£3m/£5m by exception; ERCs 5% down to 1%.
+
+### F2 Buy to Let Products
+For purchase and remortgage. For portfolio and non-portfolio landlords financing a more specialist property type and/or those with some historical blips on their credit rating.
+
+* **2 Year Fixed Special** – Rates from 4.19% to 4.89%; LTV 65–80%; Fee 4.00%; Max loan £750k–£3m/£5m by exception.
+* **2 Year Discount Special** – 5.04% (reversion 4.35%); 75% LTV; 4.00% fee; £2m max.
+* **2/3/5 Year Fixed Limited Edition** – 5.90% or 5.64% (£2,995 fee); 75% LTV; £1.5m max.
+* **2/3/5 Year Fixed** – 5.90% or 5.64% (£2,995 fee); 75% LTV; £1.5m max.
+* **3 Year Fixed Special** – Rates from 4.29% to 4.99%; LTV 65–80%; Fee 4.00%.
+* **5 Year Fixed Special** – Rates from 4.39% to 5.09%; LTV 65–80%; Fee 4.00%.
+
+### F3 Buy to Let Products
+For purchase and remortgage. For portfolio and non-portfolio landlords with more recent blips on their credit rating.
+
+* **2 Year Fixed Special** – Rates from 4.59% to 5.29%; LTV 65–80%; Fee 4.00%; Max loan £750k–£3m/£5m by exception.
+* **2 Year Discount Special** – 5.44% (reversion 4.35%); 75% LTV; 4.00% fee; £2m max.
+* **2/3/5 Year Fixed Limited Edition** – 6.30% or 6.04% (£2,995 fee); 75% LTV; £1.5m max.
+* **2/3/5 Year Fixed** – 6.30% or 6.04% (£2,995 fee); 75% LTV; £1.5m max.
+* **3 Year Fixed Special** – Rates from 4.69% to 5.39%; LTV 65–80%; Fee 4.00%.
+* **5 Year Fixed Special** – Rates from 4.79% to 5.49%; LTV 65–80%; Fee 4.00%.
 
 ---
 
@@ -434,17 +529,24 @@ Company Voluntary Arrangements
 Debt Management plan and Debt Payment Programme (set up under the Debt Arrangement Scheme)
 * Applicants who have entered into, or are still repaying, a debt management plan/Debt Payment Programme in the last 24 months are not considered
 
+Credit criteria by product (F1 / F2 / F3):
+* **All defaults and CCJs/Court Decree** – F1: No defaults or CCJs in last 72 months. F2: No defaults or CCJs in last 24 months. F3: Max one satisfied CCJ/default up to £2,000 in last 24 months, 0 in last 12 months.
+* **Secured loans (mortgage arrears)** – F1: Worst status 0 in last 72 months. F2: Worst status 0 in last 24 months. F3: Worst status 1 in last 24 months, 0 in last 6 months.
+* **Unsecured arrears** – F1: Worst status 0 in last 72 months. F2: Worst status 2 in last 24 months, 0 in last 12 months. F3: Worst status 2 in last 24 months; must be up to date at application.
+* **Credit Cards, Mail Order, Comms and Utilities** – F1: Worst status 2 in last 24 months, up to date. F2: Worst status 3 in last 24 months, up to date. F3: Worst status 4 in last 24 months, up to date.
+* **Bankruptcy/Sequestration/IVA/CVA/Admin Order** – None registered (all products).
+
 Defaults
-* Product dependant – please refer to product guide
+* As per credit criteria by product above (F1: none in 72 months; F2: none in 24 months; F3: max one satisfied up to £2,000 in 24 months, 0 in 12 months).
 
 Mortgage arrears
-* Product dependant – please refer to product guide
+* As per secured loans in credit criteria by product above.
 
 Mortgage conduct
 * Where we are unable to verify mortgage conduct using the applicants credit file, 12 months payment history is required
 
 Credit Cards, Mail order, mobile phone or, utility
-* Product dependant – please refer to product guide
+* As per credit criteria by product above (F1: worst status 2 in 24 months; F2: worst status 3 in 24 months; F3: worst status 4 in 24 months; all up to date).
 
 Payday loans
 * Applicants who have entered into, or are still repaying, a pay day loan in the last 24 months are not considered
@@ -456,7 +558,7 @@ Satisfied CCJs/Court Decree and Defaults
 * All CCJ's, defaults and Court Decrees must be satisfied at the time of application irrespective of when they occurred
 
 Unsecured loan arrears
-* Product dependant – please refer to product guide
+* As per unsecured arrears in credit criteria by product above.
 
 ### 4.2 Income
 
@@ -712,7 +814,7 @@ Letting to Housing Association or Local Authority
 
 8. Max loan of £3m applies
 
-* Letting to Housing Association or Local Authority NOT available on all single household products. Refer to product guide
+* Letting to Housing Association or Local Authority NOT available on Special products (see Additional Product Information below).
 
 ---
 
@@ -1171,11 +1273,77 @@ If the product is a MUFB, HMO, Multiple Properties on One Title and Mixed Use th
 
 ---
 
+## ADDITIONAL PRODUCT INFORMATION (FROM PRODUCT GUIDE)
+
+### Special Products
+* Max aggregate borrowing £5m by exception
+* First Time Landlord applications not accepted on HMO/MUB/STL products or cases above 75% LTV
+* The following criteria are also not available through Special products:
+  * Early re-mortgaging
+  * Consumer Buy to Let
+  * Letting to Housing Associations or Local Authorities
+
+### EPC Saver (Vibrant Energy Matters)
+* EPC Saver is offered in conjunction with Vibrant Energy Matters
+* Full details are available on our website
+* The Vibrant Energy Saving Audit (VESA) is not available for properties less than 10 years old
+
+### Large Portfolio
+* Products designed for landlords who wish to grow their aggregate borrowing with Foundation Home Loans above the usual £5m limit
+
+### MPOT (Multiple Properties On One Title)
+* Properties may be let on a standard AST, short-term or holiday let basis
+* Holiday Lets max 65% LTV on all products and the maximum property value is £1.5m
+
+### Mixed Use
+* For properties with Residential and Commercial components combined, where Residential Valuation and Rental Income are both in excess of 60% of total for the property
+
+### General loan criteria (summary from Product Guide)
+* Purpose: Purchase/Remortgage
+* Repayment type: Interest Only / Capital & Interest / Part & Part
+* Early remortgage: Available on all BTL products except for Specials
+* Term: 5–30 years
+* Gross monthly rental cover: Rental income calculated on lower of current rent or value estimate
+* Loan size: Minimum £50,000; Maximum £5,000,000 (may vary by product)
+* ICR: Basic rate 125%; Higher rate 145%; Limited Companies 125% (may vary by product)
+* All loans revert to BBR+4.99%.
+
+---
+
+## VALUATION FEE SCALE
+
+Fees by property value (not exceeding) – Standard Property | Small HMO/Property Plus/STL Plus | Large HMOs/MUFBs/HMO Plus:
+
+* £100k: £170 | £750 | £1,350
+* £150k: £215 | £750 | £1,350
+* £200k: £245 | £750 | £1,350
+* £250k: £275 | £750 | £1,415
+* £300k: £295 | £750 | £1,475
+* £350k: £315 | £785 | £1,565
+* £400k: £365 | £785 | £1,565
+* £450k: £390 | £925 | £1,655
+* £500k: £420 | £925 | £1,655
+* £600k: £500 | £970 | £1,775
+* £700k: £580 | £1,030 | £1,935
+* £800k: £645 | £1,115 | £2,100
+* £900k: £725 | £1,195 | £2,245
+* £1m: £840 | £1,300 | £2,415
+* £1.2m: £1,335 | £1,435 | £2,775
+* £1.25m: £1,335 | £1,600 | £2,775
+* £1.4m–£2.5m: Standard from £1,335; Small HMO/Property Plus from £1,600; Large HMOs/MUFBs by agreement
+* £3m: £2,930 | by agreement | by agreement
+
+Valuations exceeding the fee scale, MPOT and Mixed Use applications are by agreement. Small HMOs = up to 6 occupants. Scotland: physical valuation required on all cases; retypes of the home report are not accepted.
+
+---
+
 ## SECTION 16 – Contact
 
-* Telephone: 0344 770 8032
-* Website: www.buytoletbyfoundation.co.uk
+* Telephone: 0344 770 8032 (Weekdays 9am–5.30pm, 4.30pm Wednesdays)
+* Website: www.foundationforintermediaries.co.uk – register, place a case, pay application fee; View Lending Criteria; Use Buy to Let Calculator
 * Criteria (PDF): https://www.foundationforintermediaries.co.uk/media/gxfel5z1/579fh-btl-criteria-guide-v328.pdf
+
+© Foundation Home Loans is a trading style of Paratus AMC Limited. Registered office: No. 5 Arlington Square, Downshire Way, Bracknell, Berkshire, RG12 1WA. Registered in England with Company No. 03489004. Paratus AMC Limited is authorised and regulated by the Financial Conduct Authority (registration number 301128). Buy to Let mortgages are not regulated by the FCA. All applications are subject to our lending criteria. Calls may be monitored and recorded.
 
 ---
 

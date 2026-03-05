@@ -1,7 +1,5 @@
 # BUCKINGHAMSHIRE BUILDING SOCIETY – RESIDENTIAL CRITERIA
 
----
-
 **LENDER:** Buckinghamshire Building Society
 **PRODUCT:** Residential
 **DOCUMENT TYPE:** Lending Criteria
@@ -9,8 +7,6 @@
 **FOR INTERMEDIARY USE ONLY**
 
 **Source:** [https://www.bucksbs.co.uk/intermediaries/criteria/residential/](https://www.bucksbs.co.uk/intermediaries/criteria/residential/)
-
----
 
 ## SECTION 1 – ADVERSE CREDIT
 
@@ -96,8 +92,6 @@
 
 * Not acceptable.
 
----
-
 ## SECTION 2 – APPLICANT ELIGIBILITY
 
 ### Age at Application
@@ -156,8 +150,6 @@
 
 * Not accepted.
 
----
-
 ## SECTION 3 – NEW BUILD
 
 ### Builder Gifted Deposit
@@ -199,8 +191,6 @@
 ### Sales Incentives
 
 * Accepted if compliant with BSA Handbook.
-
----
 
 ## SECTION 4 – PROPERTY ELIGIBILITY
 
@@ -290,8 +280,6 @@
 
 * Minimum 35 SQM.
 
----
-
 ## SECTION 5 – RETIREMENT INTEREST ONLY (RIO)
 
 ### Minimum Age
@@ -323,8 +311,6 @@
 
 * Lifetime product.
 
----
-
 ## SECTION 6 – CREDIT COMMITMENTS
 
 ### Commitments Repaid on Completion
@@ -348,8 +334,6 @@
 
 * Everyday Residential: Maximum 1 in last 2 years.
 * Credit Revive & Restore: Underwriter discretion.
-
----
 
 ## SECTION 7 – DEPOSIT
 
@@ -390,8 +374,6 @@
 ### Vendor Gifted Deposit
 
 * Considered.
-
----
 
 ## SECTION 8 – EMPLOYMENT
 
@@ -449,8 +431,6 @@
 
 * Accepted.
 
----
-
 ## SECTION 9 – INCOME & AFFORDABILITY
 
 ### Minimum Income
@@ -499,8 +479,6 @@
 
 * Proportion may be considered.
 
----
-
 ## SECTION 10 – INTEREST ONLY
 
 ### Repayment Strategies
@@ -525,8 +503,6 @@
 ### Part & Part
 
 * Accepted.
-
----
 
 ## SECTION 11 – JBSP
 
@@ -559,8 +535,6 @@
 
 * Based on buyer's age if affordability achievable within 5 years.
 
----
-
 ## SECTION 12 – LENDING SCHEMES
 
 ### Consumer Buy to Let
@@ -582,8 +556,6 @@
 ### Voluntary Right to Buy
 
 * Not accepted.
-
----
 
 ## SECTION 13 – MORTGAGE FEATURES
 
@@ -619,8 +591,6 @@
 
 * Not offered.
 
----
-
 ## SECTION 14 – CONTACT INFORMATION
 
 Phone: 01494 879500
@@ -630,7 +600,5 @@ Hours:
 * Wednesday 9.45am–4.45pm
 * Saturday 9.15am–12.00pm
 * Sunday CLOSED
-
----
 
 *END OF DOCUMENT*

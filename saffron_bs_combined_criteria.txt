@@ -1,13 +1,15 @@
-LENDER NAME: Saffron Building Society
-PRODUCT: Combined
+# SAFFRON BUILDING SOCIETY – LENDING CRITERIA (A–Z)
 
-# Saffron Building Society - A-Z Lending Criteria
+**LENDER:** Saffron Building Society
+**PRODUCT:** Combined (Residential and Buy to Let)
+**DOCUMENT TYPE:** A–Z Lending Criteria.
+**SOURCE:** [https://www.saffronforintermediaries.co.uk/lending-criteria](https://www.saffronforintermediaries.co.uk/lending-criteria)
+**LAST UPDATED:** 2025
 
-**Last Updated:** 2025
-**Source:** Saffron For Intermediaries
-**For Intermediaries Only**
+**IMPORTANT:**
+This document covers lending criteria only. For intermediary use only; for use by authorised intermediaries and should not be relied upon by anyone else.
 
----
+**RAG convention:** Where applicable, criteria use explicit labels **Maximum:** **Minimum:** **Allowed:** **Not Acceptable:** **Condition:** so that rules are self-contained for retrieval.
 
 ## Document Information
 
@@ -16,242 +18,6 @@ This document contains comprehensive lending criteria for Saffron Building Socie
 **Note:** This site is for intermediaries only.
 
 **Website:** https://www.saffronforintermediaries.co.uk/lending-criteria
-
----
-
-## Table of Contents
-
-This guide contains 182 criteria sections organized by topic:
-
-
-### Accountants and Documentation
-
-1. Accountants
-2. Accountants Certificate/Reference
-14. Application Form
-41. Data Capture Form
-83. Identification
-84. Income
-136. Proof Of Address
-137. Proof Of Id
-138. Proof Of Income
-162. Solicitors Panel
-
-### Applicant Requirements
-
-9. Agency Workers
-13. Applicants
-39. Contractors
-53. Employment
-58. Eu / Eea Citizens
-59. Expat
-69. Foreign Nationals
-91. Joint Borrower Sole Proprietor (JBSP)
-102. Maximum Age
-106. Minimum Age
-120. Non Borrowing Occupier
-131. Probationary Period
-158. Short Term Contractors
-165. Sub-Contractors
-178. Visas
-
-### Income and Affordability
-
-4. Additional / Secondary Income
-8. Affordability Calculator
-12. Annuity Income (Retirement)
-18. Basic Pay
-19. Benefit Income
-21. Bonus
-24. BTL Minimum Income
-30. Child Benefit
-31. Child Tax Credit
-36. Commission
-50. Disability Benefit
-68. Foreign Income
-70. Foster Income
-85. Income Investments
-86. Independent Living Allowance
-97. Loan To Income (LTI)
-99. Maintenance Income
-125. Overtime
-126. Passive Income
-135. Professional Income Boost
-140. Rental Income
-148. Second Jobs
-157. Shift Allowance
-163. State Benefits
-166. Tax Credits
-181. Working Tax Credits
-
-### Self-Employed
-
-22. Bounce back loans (COVID related)
-32. CIS Workers (Construction Industry Scheme)
-63. Fixed / Short Term Contracts
-150. Self Employed
-151. Self Employed Ltd Company Director
-152. Self Employed Sole Trader
-
-### Credit History
-
-7. Adverse
-17. Bankruptcy
-29. CCJs (County Court Judgements)
-40. Credit Score
-44. Defaults
-51. DMPs (Debt Management Plans)
-89. IVAs (Individual Voluntary Arrangements)
-114. Mortgage Arrears
-175. Unsecured Arrears
-
-### Deposits and Capital
-
-5. Additional Borrowing
-25. Builders Deposits
-26. Builders Incentives
-28. Capital Raising
-46. Deposit
-73. Gifted Deposit
-74. Gifted Equity
-177. Vendor-gifted deposit
-
-### Loan Details
-
-42. Debt Consolidation
-61. Fees And Charges
-87. Interest Only
-103. Maximum Loan
-105. Maximum Term
-107. Minimum Loan
-109. Minimum Term
-124. Offers
-130. Porting
-132. Procuration Fee
-133. Product Fee's
-134. Product Transfers
-142. Repayment Vehicles
-
-### Property Types
-
-20. Block of Flats
-34. Coach Houses
-35. Commercial Property Close By
-64. Flats
-65. Flats Above Commercial
-71. Freehold Flats
-72. Freehold Houses
-78. Holiday Homes
-79. Holiday Lets
-81. House Boats
-82. House Of Multiple Occupancy (HMO)
-96. Live Work Property
-100. Maisonettes
-104. Maximum Property Value
-108. Minimum Property Value
-111. Mixed Used Properties
-112. Mobile Homes
-115. Multi Lets
-116. Multi Units
-117. New Build Flats
-118. New Build Houses
-119. New Build Warranty
-139. Property
-144. Retirement Properties
-149. Second Property
-156. Sheltered Housing
-164. Steel framed property (Older Property)
-
-### Property Construction
-
-33. Cladding
-38. Construction Types
-67. Flying Freehold
-90. Japanese Knotweed
-113. Modern Methods Of Construction
-121. Non Standard Construction
-161. Solar Panels
-170. Timber Frame Properties
-
-### Property Features
-
-3. Acreage
-11. Annexe
-54. EPC Rating
-57. Estate Rent Charges
-66. Flood Zones
-75. Ground Rent
-92. Leasehold
-110. Mining / Radon Gas Area
-143. Restrictive Covenants
-153. Service Charges
-169. Tenure
-
-### Buy-to-Let
-
-60. Exposure Limits
-95. Let To Buy
-129. Portfolio Landlords
-141. Renting Homes (Wales) Act (RHW Act)
-159. Shorthold Tenancy Agreement
-167. Tenancy / Tenants
-171. Top Slicing
-179. Wales
-
-### Special Products
-
-15. Auction Purchase
-16. Back to Back
-37. Concessionary Purchase
-47. Development Finance
-62. First Time Buyer
-77. Help To Buy
-93. Lending Into Retirement
-94. Lending Into Retirement Downsizing
-145. Right To Buy
-154. Shared Equity
-155. Shared Ownership
-172. Transfer Of Equity
-174. Undervalue Transactions
-
-### Location and Restrictions
-
-10. Agricultural ties
-48. Diplomatic Immunity
-55. Equestrian Ties
-56. Equity Share Loan Scheme
-88. Ireland
-98. Location
-122. Non Uk Taxpayers
-123. Northern Ireland
-146. Scotland
-
-### Other
-
-6. Additional Properties in background
-27. Buildings Insurance
-43. Decision In Principle
-45. Dependents
-49. Direct Debit
-52. Employer Tied Accommodation
-80. Homebuyers Report
-147. Second Charges
-160. Small Holdings
-168. Tenants In Common
-173. Trust Arrangements / Trust Deeds
-176. Valuations
-
-### Other
-
-23. Bridging Finance
-76. Guarantor Mortgages
-101. Maternity Leave
-127. Paternal Leave
-128. Paternity Leave
-180. Warranties
-182. Zero hour contracts
-
----
 
 ## Accountants
 
@@ -308,13 +74,13 @@ Accepted, no limit on additional properties.
 
 We use Experian as our credit referencing agency and apply minimum Credit Score and maximum Indebtedness Index parameters as part of our lending decision.
 
-**Missed mortgage payments**  
+**Missed mortgage payments**
 No more than one occurrence within the last 12 months and no more than two occurrences in the last 24 months.
 
-**Unsecured arrears**  
+**Unsecured arrears**
 No more than two occurrences within the last 24 months
 
-**CCJs and Defaults**  
+**CCJs and Defaults**
 Unsettled CCJs and Defaults:
 
 Unsettled CCJs are allowed up the value of £100, however if the CCJ is under £500 and still outstanding please refer to the Intermediary Support Team.
@@ -324,10 +90,10 @@ Settled CCJs and Defaults:
 * £500 if settled within last 24 months
 * £500+ if settled for more than 2 years
 
-**IVAs/Debt Management Plans**  
+**IVAs/Debt Management Plans**
 Must be settled for three years
 
-**Bankruptcies**  
+**Bankruptcies**
 Must be discharged over 5 years ago
 
 ## Affordability Calculator
@@ -444,10 +210,10 @@ We will not consider requests to capital raise for the following:
 
 ## CCJs (County Court Judgements)
 
-**Unsettled CCJs**  
+**Unsettled CCJs**
 Unsettled CCJs are allowed up the value of £100, however if the CCJ is under £500 and still outstanding please refer to the Intermediary Support Team.
 
-**Settled CCJs**  
+**Settled CCJs**
 * £500 if settled within last 24 months
 * £500+ if settled for more than 2 years
 
@@ -1055,7 +821,7 @@ Unacceptable.
 
 Applicants must have 2 years' experience within the same type of employment, a minimum of 3 months contract history backed by 3 months bank statement and invoices. Income to be calculated as Daily Rate x days worked (max 5 per week) x 48.
 
-**CIS Workers**  
+**CIS Workers**
 We require the following:
 
 * The applicant to have 2 years industry experience
@@ -1207,8 +973,6 @@ Acceptable subject to:
 * We require the latest P60 with 3 months payslips and 3 months bank statements.
 * If both applicants are zero hours contractors, we are able to consider the second applicants income at 75% providing they have 9 months experience as a zero hour contractor, subject to underwriters discretion.
 
----
-
 ## Need Help?
 
 ### Intermediary Support Team
@@ -1233,16 +997,14 @@ For forms, guides, and other important documents, please visit the [Important Do
 
 For general enquiries, visit our [Contact us](https://www.saffronforintermediaries.co.uk/contact-us/) page.
 
----
+## Main URLs and Contact Information
 
-## Main URLs
-
-- https://flood-map-for-planning.service.gov.uk/
-- https://www.saffronforintermediaries.co.uk/
-- https://www.saffronforintermediaries.co.uk/calculators/
-- https://www.saffronforintermediaries.co.uk/contact-us/
-- https://www.saffronforintermediaries.co.uk/important-documents/
-- https://www.saffronforintermediaries.co.uk/lending-criteria
-- https://www.saffronforintermediaries.co.uk/products/
-- 01799582925
-- 08000721100
+* https://flood-map-for-planning.service.gov.uk/
+* https://www.saffronforintermediaries.co.uk/
+* https://www.saffronforintermediaries.co.uk/calculators/
+* https://www.saffronforintermediaries.co.uk/contact-us/
+* https://www.saffronforintermediaries.co.uk/important-documents/
+* https://www.saffronforintermediaries.co.uk/lending-criteria
+* https://www.saffronforintermediaries.co.uk/products/
+* 01799582925
+* 08000721100

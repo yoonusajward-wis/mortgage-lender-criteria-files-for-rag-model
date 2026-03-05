@@ -1,15 +1,11 @@
 # WEST ONE – BTL LENDING CRITERIA
 
----
-
 **LENDER:** West One
 **PRODUCT:** Buy to Let
 **DOCUMENT TYPE:** Buy-to-Let Mortgages Criteria Guide
 **LAST UPDATED:** September 2025
 **SOURCE:** West One Buy-to-Let Product Guide & Website
 **FOR INTERMEDIARY USE ONLY**
-
----
 
 ## Document Information
 
@@ -26,8 +22,6 @@ This product information is for intermediary use only and its contents should no
 - Firm Reference Number: 776026
 - Company Number: 09425230
 - Certain types of loans are not regulated, for example loans for business purposes or certain buy-to-lets
-
----
 
 ## Overview
 
@@ -56,8 +50,6 @@ Applying an individual approach to underwriting, we review each case on its meri
 - MUFB, HMO applications accepted
 - CBTL products available throughout the range
 
----
-
 ## Product Ranges
 
 West One offers three main product ranges:
@@ -84,8 +76,6 @@ West One offers three main product ranges:
 - Day 1 Remortgages
 - Bespoke Products On Request
 
----
-
 ## Bespoke BTL Team
 
 ### Introducing our Bespoke BTL Team
@@ -103,8 +93,6 @@ A team of highly experienced underwriters work exclusively with broker partners 
 - Bespoke products tailored to meet the individual needs of the borrower
 
 **Contact:** bespokebtl@westoneloans.co.uk
-
----
 
 ## General Lending Criteria
 
@@ -177,8 +165,6 @@ ICR calculation is based on pay rate for 5yr fixes and higher or pay rate or 6% 
 - Stress test: 125% @ Pay rate on all 5 year for Basic rate and All Ltd Companies - including HMO and MUB
 - Stress test: 140% @ Pay rate on all 5 year for higher rate
 
----
-
 ## Credit Tiers
 
 West One uses a tiered credit system (W1, W2, W3) to assess adverse credit:
@@ -226,8 +212,6 @@ West One uses a tiered credit system (W1, W2, W3) to assess adverse credit:
 - Missed payments on public utilities and communication suppliers ignored, subject to satisfactory explanation
 
 **Note:** W3 products maximum loan £500,000, all W3 cases by referral to broker support only. Maximum 3 loans per borrower / £1.5m maximum exposure.
-
----
 
 ## Standard Range
 
@@ -309,8 +293,6 @@ West One uses a tiered credit system (W1, W2, W3) to assess adverse credit:
 - Loan size above £2m considered by referral (rate loading may apply)
 - * Gross loan amount to be used
 - **W3 products maximum loan £500,000, all W3 cases by referral to broker support only. Maximum 3 loans per borrower / £1.5m maximum exposure
-
----
 
 ## Specialist Range
 
@@ -440,8 +422,6 @@ West One uses a tiered credit system (W1, W2, W3) to assess adverse credit:
 - 5 Yr Fixed
 - 2 Yr Discount
 
----
-
 ## Complex Range
 
 ### First Time Buyer - W1
@@ -550,8 +530,6 @@ West One uses a tiered credit system (W1, W2, W3) to assess adverse credit:
 **Product Types:**
 - 5 Yr Fixed
 
----
-
 ## Property Types
 
 ### Standard Properties
@@ -591,8 +569,6 @@ West One uses a tiered credit system (W1, W2, W3) to assess adverse credit:
 ### Minimum Property Value
 - Minimum property value: £75,000 (some products may vary)
 - Property - min £90k Value (varies by product)
-
----
 
 ## Borrower Types
 
@@ -652,8 +628,6 @@ West One uses a tiered credit system (W1, W2, W3) to assess adverse credit:
 - Trading Companies Considered (by referral)
 - Offshore SPVs, Share Purchase Agreements and Trading Companies considered
 
----
-
 ## Portfolio Lending
 
 ### Portfolio Landlords (4 or more properties)
@@ -669,8 +643,6 @@ West One uses a tiered credit system (W1, W2, W3) to assess adverse credit:
 - Defined as those having 3 or less mortgaged BTLs collectively, including any pending applications
 - Where 2 applicants are applying together, the total number of their individual and joint mortgaged properties will be taken into account
 
----
-
 ## Tenancy Agreements
 
 ### Standard AST (Assured Shorthold Tenancy)
@@ -685,15 +657,11 @@ West One uses a tiered credit system (W1, W2, W3) to assess adverse credit:
 - Tenants – Corporate leases accepted with most vulnerable tenants considered
 - Tenants – Guaranteed rent schemes allowed up to 65% LTV
 
----
-
 ## Consumer Buy-to-Let (CBTL)
 
 - CBTL products available throughout the range
 - CBTL Products across all Core Ranges
 - We are comfortable with a Let to Buy where the onwards purchase happens simultaneously
-
----
 
 ## Additional Features
 
@@ -722,8 +690,6 @@ West One uses a tiered credit system (W1, W2, W3) to assess adverse credit:
 ### Repayment Methods
 - Interest Only: Available on most products
 - Capital & Interest: Not available on Limited Edition products
-
----
 
 ## Frequently Asked Questions
 
@@ -759,8 +725,6 @@ Ex-pats must have at least one existing BTL property in the UK and appoint a UK 
 
 Yes, Houses in Multiple Occupation (HMO) and Multi Unit Blocks (MUB) are accepted. However for these types of properties, if they have more than 6 beds (HMO) or 6 units (MUB) referral will be required.
 
----
-
 ## Case Submission
 
 ### Submit a Case via One of Three Ways:
@@ -770,8 +734,6 @@ Yes, Houses in Multiple Occupation (HMO) and Multi Unit Blocks (MUB) are accepte
 3. An approved mortgage network
 
 **Submit A Case:** Contact mortgagesales@westoneloans.co.uk or call 0333 1234556
-
----
 
 ## Company Information
 
@@ -797,13 +759,9 @@ All the above firms are registered with the Information Commissioner Office and 
 
 Certain types of loans are not regulated, for example loans for business purposes or certain buy-to-lets.
 
----
-
 **If in doubt, please call or email us. Our dedicated broker support team would be delighted to discuss your case.**
 
 Email: mortgagesales@westoneloans.co.uk | Tel: 0333 1234556  
 Website: [www.westoneloans.co.uk/buy-to-let-mortgages](https://www.westoneloans.co.uk/buy-to-let-mortgages)
-
----
 
 # END OF DOCUMENT

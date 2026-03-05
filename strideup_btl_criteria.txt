@@ -1,7 +1,5 @@
 # StrideUp – Buy to Let Home Purchase Plan (BTL HPP) Criteria
 
----
-
 **LENDER:** StrideUp (trading name of StrideUp Homes Limited)
 **PRODUCT:** Buy to Let Home Purchase Plan (BTL HPP) – Shariah-Compliant
 **DOCUMENT TYPE:** Lending Criteria
@@ -19,8 +17,6 @@
 
 > **Warning:** Your client's home may be repossessed if they do not keep up payments on their Home Purchase Plan.
 
----
-
 ## SECTION 1 – FINANCING PARAMETERS
 
 - Minimum financing: £50,000.
@@ -34,8 +30,6 @@
 - Minimum property value: £85,000.
 - Maximum property value: uncapped.
 - Products are not portable.
-
----
 
 ## SECTION 2 – APPLICANT ELIGIBILITY
 
@@ -91,8 +85,6 @@ Where an applicant does not have permanent rights to reside, all of the followin
 
 - Not considered.
 
----
-
 ## SECTION 3 – RENTAL INCOME AND AFFORDABILITY
 
 - The property must not be used by any applicant or a member of their immediate family.
@@ -115,8 +107,6 @@ Where an applicant does not have permanent rights to reside, all of the followin
 **Financing into Retirement (top slicing cases):**
 - Less than 10 years from retirement: latest pension statement showing forecast pension amount required.
 - More than 10 years from retirement: evidence of contributions into a pension fund (including sale of other property and/or buy to let rental income), reviewed on a proportionate basis.
-
----
 
 ## SECTION 4 – CREDIT HISTORY
 
@@ -150,8 +140,6 @@ Where an applicant does not have permanent rights to reside, all of the followin
 - Must have been satisfied at least 24 months before application.
 - Must not relate to a credit event in the previous 60 months.
 
----
-
 ## SECTION 5 – PROPERTY CRITERIA
 
 - England only.
@@ -176,8 +164,6 @@ Where an applicant does not have permanent rights to reside, all of the followin
 - FTV capped at 75%.
 - Top slicing not available for MUBs.
 
----
-
 ## SECTION 6 – DEPOSIT AND EQUITY
 
 - Proof of deposit required in all cases.
@@ -198,8 +184,6 @@ Where an applicant does not have permanent rights to reside, all of the followin
 - Sale of current home: Memorandum of Sale and redemption statement from current lender.
 - Gift: gifted deposit form from each donor.
 
----
-
 ## SECTION 7 – APPLICATION TYPES
 
 - First-time buyers: accepted.
@@ -207,8 +191,6 @@ Where an applicant does not have permanent rights to reside, all of the followin
   - Expat first-time buyers: FTV capped at 75%.
 - Refinance: accepted.
 - Capital raising remortgage/refinance: accepted.
-
----
 
 ## SECTION 8 – LIMITED COMPANY / SPV APPLICATIONS
 
@@ -258,8 +240,6 @@ Only SPVs with the following SIC codes will be accepted:
 - Standard BTL documentation (property valuation, rental assessment, application forms).
 - Top slicing documentation (if applicable).
 
----
-
 ## SECTION 9 – DOCUMENTATION REQUIREMENTS
 
 *Documentation for income only applies to cases using top-slicing/rental top-up. Standard BTL applications do not require income documentation unless top-slicing is used.*
@@ -306,8 +286,6 @@ Only SPVs with the following SIC codes will be accepted:
 
 - Latest 3 months' bank statements.
 
----
-
 ## SECTION 10 – IMPORTANT NOTES
 
 - All criteria subject to individual assessment.
@@ -315,7 +293,5 @@ Only SPVs with the following SIC codes will be accepted:
 - Product availability and rates are subject to change.
 - StrideUp does not provide tax advice; directors/investors should seek independent tax advice regarding SPV structures.
 - Always refer to the latest criteria guide or contact the broker success team for the most up-to-date information.
-
----
 
 *END OF DOCUMENT*

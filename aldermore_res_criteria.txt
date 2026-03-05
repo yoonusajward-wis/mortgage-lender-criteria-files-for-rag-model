@@ -1,7 +1,5 @@
 # ALDERMORE – RESIDENTIAL MORTGAGES CRITERIA GUIDE
 
----
-
 **LENDER:** Aldermore
 **PRODUCT:** Residential
 **DOCUMENT TYPE:** Residential lending criteria. 7 sections: 1 Loan, 2 Applicant, 3 Income and Affordability, 4 Key Lending Criteria, 5 Property, 6 Legal Fees, 7 Criteria Q&As.
@@ -16,8 +14,6 @@ For intermediary use only. Aldermore Bank PLC is authorised by the Prudential Re
 **Contact:** 0333 321 1000 | [aldermore.co.uk/intermediaries/mortgages](https://aldermore.co.uk/intermediaries/mortgages)
 
 **Note:** Our lending criteria is now searchable on our website.
-
----
 
 # SECTION 1 – LOAN
 
@@ -150,8 +146,6 @@ Following the deed of gift the person making the gift must not continue to resid
 
 **Not Acceptable:** Second charge mortgage; borrowing funds to satisfy CCJ, IVA and Bankruptcy Orders; loans for purchase under Right to Buy; remortgage of property previously purchased under Right to Buy and within the five year pre-emption period; properties purchased via the Rent to buy scheme.
 
----
-
 # SECTION 2 – APPLICANT
 
 ## Maximum applicants
@@ -190,8 +184,6 @@ All applicants must have been resident in the UK for the last 2 years; and
 ## We don't lend to applicants where
 
 **Not Acceptable:** Power of Attorney for another joint applicant; diplomatic immunity; employed on commission only basis (unless applying jointly and income not taken into consideration); seasonally based job (e.g. crop picker/holiday rep) or piece-workers (unless applying jointly and income not taken into consideration).
-
----
 
 ## Income and Affordability
 
@@ -372,8 +364,6 @@ Salary and share of net profits, subject to the following exclusions:
 
 Aldermore will only accept accounts or accountant's certificates from practitioners with accredited qualifications.
 
----
-
 # SECTION 4 – KEY LENDING CRITERIA
 
 ## Credit history criteria by level
@@ -389,8 +379,6 @@ Aldermore will only accept accounts or accountant's certificates from practition
 Where the applicant has revolving credit that is 3 or more months in arrears at any time in the last 12 months where total combined revolving credit balances are £3k or more in the same period, the maximum LTV is 80%.
 
 If an applicant falls under the FCA definition of Credit Impaired, all outstanding commitments will be included within the affordability calculation, irrespective of being repaid or not.
-
----
 
 # SECTION 5 – PROPERTY
 
@@ -602,8 +590,6 @@ We do not lend on properties:
 * Properties with a pre-exemption clause in existence / right to buy
 * Properties situated in blocks which contain restaurants, takeaways or public houses
 
----
-
 # SECTION 6 – LEGAL FEES
 
 ## For residential owner occupiers
@@ -628,8 +614,6 @@ Our agreement with our free legal partners is that a mortgage offer is required 
 
 Our process is to send the offer to our solicitors via secure email to ensure your data is safe, our solicitors will then make contact with your solicitor and securely send them the offer document.
 
----
-
 # SECTION 7 – CRITERIA Q&As
 
 ## How do you treat clients with pre-settled or settled status?
@@ -652,12 +636,9 @@ Yes, potentially if the accountant can confirm both a good rationale and sustain
 
 We use 100% of overtime or 75% of bonus income. We calculate an average for the last 3 months overtime and annualise this figure. You need to put the full figure into our calculator, and we will take 50% off in the background.
 
----
-
 **FOR INTERMEDIARY USE ONLY**
 
 Aldermore Bank PLC is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (Financial Services Register number: 204503). Registered Office: Apex Plaza, Forbury Road, Reading, RG1 1AX. Registered in England. Company No. 9411662. Invoice Finance: Commercial Mortgages. Property Development, Buy-To-Let Mortgages and Asset Finance lending to limited companies are not regulated by the Financial Conduct Authority or Prudential Regulation Authority. Asset Finance lending where an exemption within the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 applies, is exempt from regulation by the Financial Conduct Authority or Prudential Regulation Authority.
 
 **Contact:** 0333 321 1000 | [aldermore.co.uk/intermediaries/mortgages](https://aldermore.co.uk/intermediaries/mortgages)
 
----

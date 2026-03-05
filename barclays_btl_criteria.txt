@@ -1,7 +1,5 @@
 # BARCLAYS – BUY TO LET LENDING CRITERIA
 
----
-
 **LENDER:** Barclays
 **PRODUCT:** Buy to Let
 **DOCUMENT TYPE:** Buy to Let lending criteria (A–Z).
@@ -15,8 +13,6 @@
 **Contact:** [Contact us](https://intermediaries.uk.barclays/home/contact-us/) | Intermediary Mortgage Experts Centre: 0345 073 3330 (Mon–Fri 9am–5pm)
 
 Barclays Bank UK PLC. Authorised by the PRA and regulated by the FCA and the PRA (Financial Services Register number: 759676). Registered no. 9740322. Registered office: 1 Churchill Place, London E14 5HP.
-
----
 
 # SECTION 1 – BUY TO LET LENDING CRITERIA A TO Z
 
@@ -38,11 +34,7 @@ Whilst Barclays do not offer Ltd Company BTL mortgages, Kensington Mortgages, a 
 
 ## Buy to let A-Z
 
----
-
 ## **A–C**
-
----
 
 ### **Additional Borrowing – Buy to Let**
 
@@ -58,8 +50,6 @@ The applicant must always complete the appropriate application and detail the **
 * **Joint Mortgage Applications:** Where additional borrowing exceeds **£50,000** and is **wholly for the benefit of only one party** (e.g. purchase of a second Buy to Let property to be registered in one name), **Independent Legal Advice** must be obtained by all other borrower(s) not directly benefiting before any funds are released.
 
 For further information, details of products, and fees payable, please contact our **Intermediary Mortgage Experts Centre** on **0345 073 3330** (Monday to Friday, 9am – 5pm).
-
----
 
 ### **Adverse Credit History – Buy to Let**
 
@@ -79,8 +69,6 @@ Adverse credit, as detailed below, must be **declined**:
 
 Applications can be considered where the above is identified **only if** **documentary evidence of a settled dispute** has been provided by the customer.
 
----
-
 #### **Bankruptcy / Debt Relief Orders / IVAs**
 
 Lending to a customer with a history of **bankruptcy**, or who has been the subject of a **Debt Relief Order (DRO)** or an **Individual Voluntary Arrangement (IVA)**, can be considered **provided**:
@@ -90,8 +78,6 @@ Lending to a customer with a history of **bankruptcy**, or who has been the subj
 
 It is **not acceptable** to lend if any applicant is **currently bankrupt** or subject to a **DRO or IVA**.
 
----
-
 #### **Payment Arrears / Missed Payments**
 
 Adverse credit identified as below must be **declined**:
@@ -100,8 +86,6 @@ Adverse credit identified as below must be **declined**:
 
 **Payment arrangements:**
 If payment arrangements appear on the credit search and are **still active** or **ended less than 1 year** prior to application, the case must be **declined**.
-
----
 
 #### **Mortgage or Rent Arrears**
 
@@ -117,20 +101,14 @@ If this applies, please contact the **Intermediary Mortgage Experts** on **0345 
 Any applicant known to have had a **mortgaged property repossessed** should normally be **declined**.
 However, where historic, underwriters may **consider** such cases, provided a **clear rationale** supports the lending decision.
 
----
-
 #### **Bankruptcy / IVA (reiterated)**
 
 It is not acceptable to lend where any applicant is **currently bankrupt** or subject to a **Debt Relief Order (DRO)** and/or **Individual Voluntary Arrangement (IVA)**.
 However, lending can be considered **if** the bankruptcy, DRO or IVA was **registered more than 6 years ago** from application and no longer appears on the credit reference bureau record.
 
----
-
 **If your client has a more complex credit history?**
 You may wish to visit **Kensington Mortgages**, one of the UK’s leading specialist lenders and a subsidiary of **Barclays Bank UK PLC**. Kensington offers **more flexible lending criteria** to help clients who may not meet typical requirements.
 [Learn more](https://www.kensingtonmortgages.co.uk/intermediaries?utm_source=Barclays_intermediaries&utm_medium=referral&utm_content=credit_history_Res_link "Opens in a new window")
-
----
 
 ### **Affordability – Buy to Let**
 
@@ -155,8 +133,6 @@ The **tax band** should account for **gross rental income across all properties*
 For **Limited Company Directors**, use the **highest tax band payable** to ensure all income is included.
 For more information on income tax bands, visit [www.gov.uk/income-tax-rates](https://www.gov.uk/income-tax-rates).
 
----
-
 If the application does **not meet ICR eligibility**, applicants must pass a **full personal solvency and affordability assessment**.
 This includes consideration of:
 
@@ -177,8 +153,6 @@ A maximum of **four applicants** can be assessed if affordability testing is req
 
 **BTL applications in a sole name** which fail solvency may still be considered where a **joint residential mortgage** with Barclays exists and shows **no arrears history**.
 
----
-
 ### **Age / Term**
 
 **Minimum (age):** 18 years.
@@ -190,8 +164,6 @@ Where the term extends into retirement or the applicant is retired at submission
 * The principal applicant receives **income from an acceptable source** (see *Allowable Gross Income* section)
 * The **term** does not extend beyond age 80 of any applicant
 * **Maximum term:** 35 years (Interest Only) or 25 years (Repayment or Part & Part) from origination of main mortgage
-
----
 
 ### **Aggregate Borrowing / Overall Exposure**
 
@@ -205,8 +177,6 @@ Where the term extends into retirement or the applicant is retired at submission
 This includes the **subject (applied-for) property**.
 
 > Landlords with **4 or more mortgaged rental properties** (across all lenders, including the new application) are classified as **Portfolio Landlords**.
-
----
 
 ### **Allowable Gross Income**
 
@@ -231,8 +201,6 @@ For **joint applications**, the **two main applicants** must earn at least **£1
 For further guidance, refer to the [**Criteria and Packaging Guide (PDF, 757KB)**](https://intermediaries.uk.barclays/content/dam/intermediaries-uk-barclays/pdf/Criteria_and_Packaging_Guide.pdf "Opens in a new window").
 This applies to both **personal covenant** and **personal solvency assessment**.
 All applicants must declare allowable income from all sources and provide **sufficient evidence** to support the lending proposition when requested.
-
----
 
 ### Allowable income table
 
@@ -261,10 +229,7 @@ All applicants must declare allowable income from all sources and provide **suff
 * **Personal and Workplace Pensions / Annuities (currently receiving)** – 100%. Latest month’s bank statement + pension payslip/statement/annuity letter/P60 (documents ≤12 months; annuity: lump sum, monthly payment, end date). SIPP drawdown not acceptable.
 * **Pensions (not yet receiving)** – 100%. Statement from provider (projected income, retirement date) or FCA-regulated Scheme Administrator letter.
 
-
 ## **Borrower Type**
-
----
 
 ### **Acceptable Borrowers**
 
@@ -273,8 +238,6 @@ All applicants must declare allowable income from all sources and provide **suff
 * **Applicants without Permanent Rights to Reside in the UK** who have lived in the UK for **less than 2 years** (*acceptable only for joint applications where the applicant’s income is not being used*).
 * **Existing Barclays SPV (Special Purpose Vehicle) Limited Company customers**.
 * **Existing Barclays Limited Liability Partnership (LLP) customers**.
-
----
 
 ### **Unacceptable Borrowers**
 
@@ -285,16 +248,12 @@ All applicants must declare allowable income from all sources and provide **suff
 * **Trading companies**.
 * **Non-UK residents** who **do not have an existing Barclays BTL mortgage**.
 
----
-
 ### **Mortgages Held in a Mix of Borrower Types**
 
 * A client can hold a **BTL mortgage in their private name** and others in an **SPV Limited Company**.
 * A client may hold BTL mortgages **in their private name and within an LLP**.
 * Mortgages may be held **in combination of private names**, e.g. one in their sole name and another jointly with a partner.
 * Mortgages may also be held **in multiple combinations** — across private names, SPV Limited Companies, and LLPs.
-
----
 
 ### **Borrower Types Based on Mortgaged Rental Properties**
 
@@ -309,8 +268,6 @@ Borrowing types **cannot be mixed on a single mortgage**.
 
 Any new lending to **existing SPV or LLP borrowers** is **limited to further advance and transfer of equity only**.
 
----
-
 ### **Guarantors**
 
 Barclays **does not accept guarantors**.
@@ -320,11 +277,7 @@ Full supporting **Personal Guarantees** are required from all **directors/shareh
 
 Any new lending to existing SPV or LLP borrowers is **limited to further advance and transfer of equity only**.
 
----
-
 ## **Bonus, Overtime or Commission (BTL)**
-
----
 
 ### **Documentation Requirements**
 
@@ -336,8 +289,6 @@ Any new lending to existing SPV or LLP borrowers is **limited to further advance
   3 latest payslips showing at least 1 payment.
 
 A **P60** is required where **more than 50%** of the most recent **3-month average** is needed to meet affordability.
-
----
 
 ### **Monthly Bonus**
 
@@ -353,8 +304,6 @@ A **P60** is required where **more than 50%** of the most recent **3-month avera
 
 > *If pay frequency is not monthly (e.g. bi-weekly, 4-weekly, or weekly), refer to the “Weekly, 2-Weekly or 4-Weekly” section below.*
 
----
-
 ### **Annual Bonus**
 
 * Use the **gross (pre-tax) bonus figure**.
@@ -363,8 +312,6 @@ A **P60** is required where **more than 50%** of the most recent **3-month avera
 
 > **Note:** The customer is not required to have been with the same employer for 2 years, but the most recent annual bonus must have been paid by their current employer within the **last 12 months**.
 > An annual bonus can be considered if it has only been paid in the most recent year.
-
----
 
 ### **Payslip Requirements**
 
@@ -376,8 +323,6 @@ Number of payslips required depends on **bonus frequency**:
 
 > *Payslips can evidence annual bonuses over 2 years (P60s not required for validation).*
 
----
-
 ### **P60s**
 
 Where payslips cannot be provided, confirm sustainability using the **last 2 years’ P60s**.
@@ -387,8 +332,6 @@ Where payslips cannot be provided, confirm sustainability using the **last 2 yea
 * Calculate the annual bonus for both years.
 * If the latest year’s bonus is **lower**, use the latest figure.
 * If **higher**, use the average of both years.
-
----
 
 ### **Calculate Overtime or Commission**
 
@@ -403,8 +346,6 @@ Where payslips cannot be provided, confirm sustainability using the **last 2 yea
 
 > *If pay frequency is not monthly (e.g. bi-weekly / 4-weekly / weekly), see “Weekly, 2-Weekly or 4-Weekly” section below.*
 
----
-
 ### **Examples**
 
 ***Example 1 (3 consecutive most recent payslips)***
@@ -418,8 +359,6 @@ Where payslips cannot be provided, confirm sustainability using the **last 2 yea
 **Decision:**
 As the P60 monthly average (after basic salary) is **less than 50%** of the 3-month average, the figure used is **£500 per month** (50% × £1,000).
 
----
-
 ***Example 2 (bonus evidenced on at least 1 of 3 recent payslips)***
 
 * Basic annual income = £20,000
@@ -430,8 +369,6 @@ As the P60 monthly average (after basic salary) is **less than 50%** of the 3-mo
 
 **Decision:**
 As the P60 monthly average is **lower than 100%** of the 3-month average, use **£750 per month** (lower of the two averages).
-
----
 
 ***Example 3 (commission evidenced on at least 1 of 3 payslips)***
 
@@ -444,8 +381,6 @@ As the P60 monthly average is **lower than 100%** of the 3-month average, use **
 **Decision:**
 As the P60 monthly average is **higher than 100%** of the 3-month average, use **£1,000 per month** (lower of the two).
 
----
-
 ### **If Income Frequency Is Not Monthly**
 
 * **Monthly:** Use latest month’s payslip figure.
@@ -453,13 +388,9 @@ As the P60 monthly average is **higher than 100%** of the 3-month average, use *
 * **2-Weekly:** Add last 3 payslips ÷ 6 (avg weekly) × 52 ÷ 12 (monthly equivalent).
 * **Weekly:** Add last 5 payslips ÷ 5 (avg weekly) × 52 ÷ 12 (monthly equivalent).
 
----
-
 ### **Business-Related Lending**
 
 Applications from clients wishing to **purchase properties in their personal name from a Limited Company** in which they have a controlling interest are **outside Barclays’ standard lending criteria**.
-
----
 
 ### **Cladding / The Building Safety Act 2022 – Buy to Let**
 
@@ -484,8 +415,6 @@ Properties remediated by developers or housing associations (no leaseholder liab
 > Applications for properties requiring remediation will only proceed if satisfactory evidence is provided as per the above.
 > Barclays can support rate switches, permission-to-let requests, or tenure conversions (BTL ↔ residential) **without remediation evidence**.
 > For any **additional borrowing**, these rules apply.
-
----
 
 ### **Commitments – Buy to Let**
 
@@ -513,8 +442,6 @@ Commitments considered include:
 * Debts with <6 months remaining may be ignored if total ≤ £1,000.
 * Outstanding payday loans must be deducted from net income.
 * Commitments repaid by the new mortgage may be ignored (subject to offer condition).
-
----
 
 ### **Contract Workers – Buy to Let**
 
@@ -573,15 +500,11 @@ All daily-rate contractors to be recorded as **‘Employed – Fixed Term Contra
 
 Others (not meeting daily-rate criteria) must follow **self-employed income policy**.
 
----
-
 ### **Credit Reference Searches**
 
 * A full **personal credit check** will be carried out on each applicant, director, shareholder, or LLP member.
 * A **company search** will also be performed for SPV Limited Companies and LLPs to confirm structure, eligibility, and any changes (e.g. directors/shareholders).
 * If a Limited Company in which an applicant holds **>15% shareholding** has **outstanding judgments totalling over £5,000**, this must be declared.
-
----
 
 ### **Cryptoassets**
 
@@ -596,11 +519,7 @@ Cryptoassets include:
 
 Such applications are **reviewed on a case-by-case basis**.
 
----
-
 ## **D–K**
-
----
 
 ### **Ex-Local Authority Flats / Maisonettes**
 
@@ -613,14 +532,10 @@ Properties with **deck access** may also be considered, where the valuer specifi
 
 > **Note:** Applications must be declined if the surveyor is **unable to recommend** the property as suitable security for mortgage purposes.
 
----
-
 ### **Fees**
 
 * Application fees for Buy to Let mortgages may be **added**, **deducted from the advance**, or **paid up front** (as long as the product allows). Refer to the **latest rate guide** for details.
 * For **Buy to Let Rate Switches**, fees can be added to the loan; however, **fees over £2,000 must be paid up front**.
-
----
 
 ### **First-Time Landlords / Non-Owner Occupiers**
 
@@ -629,8 +544,6 @@ First-time landlords are **eligible** to purchase a Barclays **Buy to Let mortga
 * Do not currently own any type of property,
 * Do not hold an existing mortgage, and
 * Have **no prior landlord experience**.
-
----
 
 ### **Floating Charge (Debenture)**
 
@@ -645,8 +558,6 @@ If a Floating Charge already exists in favour of another lender, the acting soli
 * Confirmation that our Floating Charge can **rank equally**.
 
 All legal charges must be **registered at Companies House**.
-
----
 
 ### **Further Advances**
 
@@ -705,8 +616,6 @@ For **equity release on unencumbered properties**, a **certified copy of proof o
 
 For further information or product details, please contact the **Intermediary Mortgage Experts Centre** at **0345 073 3330** (Monday to Friday, 9am–5pm).
 
----
-
 ### **Green Home Mortgages – Buy to Let**
 
 To qualify for a **Green Home Mortgage**, the property must:
@@ -722,8 +631,6 @@ Applicants must provide one of the following:
 House builders may **verbally confirm** the rating initially to progress the application. However, Barclays must receive a valid **EPC or PEA** before completion.
 
 For further details, see the full [Lending Criteria](https://intermediaries.uk.barclays/home/lending-criteria/buy-to-let/).
-
----
 
 ### **ID and Address Verification – Buy to Let**
 
@@ -802,8 +709,6 @@ The name and address **must match** between both documents.
 > **Note:** Internet documents **cannot** be used for ID&V purposes alone.
 > A mortgage offer can only be issued once all **ID&V requirements** have been satisfied.
 
----
-
 ### **Independent Legal Advice**
 
 Independent Legal Advice must be obtained:
@@ -812,8 +717,6 @@ Independent Legal Advice must be obtained:
 * For **joint mortgage applications** where borrowing or equity release **exceeds £50,000** and benefits **only one party**, before funds are released.
 
 All costs associated with obtaining such advice must be **paid by the client**.
-
----
 
 ### **Interest-Only Mortgages – Buy to Let**
 
@@ -828,8 +731,6 @@ Buy to Let properties can be purchased using **interest-only funding**, provided
 
 > The value of these assets must be **equal to or greater than** the interest-only mortgage balance.
 > **Single-line stock** investments are **not acceptable**.
-
----
 
 ### **Internet Bank Statements – Buy to Let**
 
@@ -859,19 +760,13 @@ Barclays may still request **original statements or additional information** if 
 > **No discretion** can be applied to this policy.
 > Internet bank statements **cannot** be used for ID&V verification.
 
----
-
 ## **L–N**
-
----
 
 ### **Leasehold**
 
 The **minimum lease term** we accept is **70 years** at the point of application.
 
 Where the lease is **under 70 years**, applications will **only be considered** if the lease is being **extended within the mortgage transaction**, and the offer will include a **condition requiring the legal representatives** to ensure the lease is extended prior to completion.
-
----
 
 ### **Letting Types**
 
@@ -935,8 +830,6 @@ Where the lease is **under 70 years**, applications will **only be considered** 
 > *A “related person” means the borrower’s spouse, parents, grandparents, siblings, children, or grandchildren.
 > It also includes an unmarried partner (of any gender) with a relationship equivalent to that of spouses, and stepchildren.*
 
----
-
 ### **Limited Liability Partnerships (LLP)**
 
 An **LLP** is defined as a **UK-registered partnership** established by private individuals solely for **Buy to Let activities** — such as purchasing or remortgaging residential properties for rental.
@@ -952,8 +845,6 @@ An **LLP** is defined as a **UK-registered partnership** established by private 
 **If your customer is seeking a Limited Company BTL for purchase or remortgage:**
 You may wish to refer them to **Kensington Mortgages**, a subsidiary of Barclays Bank UK PLC, offering more flexible lending criteria for complex cases.
 [Learn more](https://www.kensingtonmortgages.co.uk/intermediaries?utm_source=Barclays_intermediaries&utm_medium=referral&utm_content=LLP_link "Opens in a new window")
-
----
 
 ### **Loan to Value (LTV) – Buy to Let**
 
@@ -980,8 +871,6 @@ The **maximum LTV** offered on BTL mortgages is:
 Kensington Mortgages may assist with more flexible lending options.
 [Learn more](https://www.kensingtonmortgages.co.uk/intermediaries?utm_source=Barclays_intermediaries&utm_medium=referral&utm_content=LTV_link "Opens in a new window")
 
----
-
 ### **Minimum Income**
 
 **Minimum (at least one applicant):** £25,000 annually (excluding rental income from background BTLs).
@@ -994,15 +883,11 @@ Income considered toward this requirement includes:
 * Sustainable allowances
 * Self-employed income
 
----
-
 ### **Mixed-Use Properties – Buy to Let**
 
 A property is classified as **“mixed-use”** if **any commercial activity** occurs within it — e.g. shop, office, surgery, or “live/work” unit.
 
 > **Mixed-use properties are not acceptable** for Buy to Let mortgages.
-
----
 
 ### **Mortgage Boost (Joint Borrower / Sole Proprietor) – Buy to Let**
 
@@ -1027,15 +912,11 @@ We will consider income from such a borrower even if they are not on the title d
 
 > All other standard lending policy criteria apply.
 
----
-
 ### **Mortgage Conditions**
 
 If a client holds **more than one Barclays Buy to Let mortgage**, please note:
 
 Our standard **Mortgage Conditions** include an **All Monies Clause**, which secures **any other debt owed** to Barclays (whether under this or other facilities) against the mortgaged property.
-
----
 
 ### **Multiple Applicants**
 
@@ -1043,8 +924,6 @@ Our standard **Mortgage Conditions** include an **All Monies Clause**, which sec
 * Only the **first two applicants’ incomes** will be considered for affordability.
 * Existing SPV Limited Company or LLP borrowers should have **no more than four directors/shareholders/members**.
 * **New lending** to existing SPV/LLP borrowers is **limited to further advances and transfer of equity only**.
-
----
 
 ### **New Build Properties – Buy to Let**
 
@@ -1112,8 +991,6 @@ Where a **PCC** is used in place of a warranty:
   * **Flat developments**.
 * If the property is incomplete at initial inspection, a **final inspection** is required before completion.
 
----
-
 ## O-Q
 
 ### Personal assessment
@@ -1174,8 +1051,6 @@ We recommend that a reputable qualified letting agent should be engaged to let a
 * Early steel frame construction - Will require an individual assessment by a valuer
 
 The above lists are not exhaustive; please call our Intermediary Mortgage Experts on 0345 073 3330 - Monday to Friday, 9am to 5pm for further details.
-
----
 
 ## R-Z
 
@@ -1336,8 +1211,6 @@ For full details of our requirements, please call our Intermediary Mortgage Expe
 
 The term of a Buy To Let Interest-only mortgage can be from 5 to 35 years and for a Buy To Let Repayment mortgage the term can be from 5 to 25 years.
 
----
-
 ### Valuations – Buy to Let
 
 To be able to lend on a property, Barclays requires a valuation to be carried out.
@@ -1361,8 +1234,6 @@ to discuss the different survey options available. More information on survey ty
 
 Please note that if your clients do instruct their own survey, this will be a separate contract between them and their chosen survey provider, and separate fees will apply. Barclays will always rely on the mortgage valuation for the purpose of agreeing the mortgage.
 
----
-
 ### Automated Valuation Model (AVM)
 
 For Buy to Let remortgages and further advances on properties:
@@ -1375,13 +1246,9 @@ Whether you apply through MAX or other online systems (e.g. MTE or Trigold), the
 
 AVMs are only suitable for further borrowing where the latest valuation was a physical one – i.e. not an AVM.
 
----
-
 ### Japanese Knotweed
 
 Japanese Knotweed is an invasive plant introduced into the UK with no natural predators. The plant is known to exploit existing weaknesses in buildings. Applications where Japanese Knotweed is identified should be assessed in accordance with the following requirements:
-
----
 
 #### Category 4
 
@@ -1396,8 +1263,6 @@ and/or
 * All recommended remedial works must be covered by an insurance-backed guarantee (minimum 10 years, property-specific, and transferable to subsequent owners and any Mortgagee in Possession).
 * An insurance-backed treatment plan must be confirmed prior to completion.
 * It is not necessary for remedial works to be completed prior to release of mortgage monies.
-
----
 
 #### Category 3
 
@@ -1414,8 +1279,6 @@ If there is minor damage to outbuildings, structures, paths, or boundary walls/f
 * An insurance-backed treatment plan must be confirmed prior to completion.
 * It is not necessary for remedial works to be completed before release of mortgage funds.
 
----
-
 #### Category 2
 
 Japanese Knotweed is not seen within the boundaries of the property but is seen on a neighbouring property or land, and is:
@@ -1426,8 +1289,6 @@ Japanese Knotweed is not seen within the boundaries of the property but is seen 
 * To be reported in the valuation report together with a valuation of the property.
 * No further investigation or action required.
 
----
-
 #### Category 1
 
 Japanese Knotweed is not seen at the property, but can be seen on neighbouring land more than 7 metres away from the curtilage of the subject property.
@@ -1435,8 +1296,6 @@ Japanese Knotweed is not seen at the property, but can be seen on neighbouring l
 **Requirements:**
 * To be reported in the valuation report together with a valuation of the property.
 * No further investigation or action required.
-
----
 
 ### Valuation and Rental Assessment Appeal
 
@@ -1453,10 +1312,6 @@ If your customer wishes to appeal in line with the above guidance, contact your 
 
 An appeals form will be issued, and you will be required to supply three comparable properties sold in the last six months.
 
----
-
 ## Important Information
 
 1. For the 0800 numbers: Calls are free if made from a UK landline or personal mobile.
-
----

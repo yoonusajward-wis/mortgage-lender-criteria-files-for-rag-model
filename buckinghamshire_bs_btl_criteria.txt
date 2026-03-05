@@ -1,7 +1,5 @@
 # BUCKINGHAMSHIRE BUILDING SOCIETY – BUY TO LET CRITERIA
 
----
-
 **LENDER:** Buckinghamshire Building Society
 **PRODUCT:** Buy to Let
 **DOCUMENT TYPE:** Lending Criteria
@@ -9,8 +7,6 @@
 **FOR INTERMEDIARY USE ONLY**
 
 **Source:** [https://www.bucksbs.co.uk/intermediaries/criteria/buy-to-let/](https://www.bucksbs.co.uk/intermediaries/criteria/buy-to-let/)
-
----
 
 ## SECTION 1 – ADVERSE CREDIT
 
@@ -71,8 +67,6 @@
 
 * Applications will not be accepted where either applicant has previously had a property repossessed.
 
----
-
 ## SECTION 2 – APPLICANT ELIGIBILITY
 
 ### Age at Application
@@ -124,8 +118,6 @@
 ### Trusts & Trustees
 
 * We do not accept applications from Trusts or Trustees.
-
----
 
 ## SECTION 3 – NEW BUILD & PROPERTY SPECIFICS
 
@@ -212,15 +204,11 @@
 
 * All flats/apartments including Studios must have a minimum SQM of 35.
 
----
-
 ## SECTION 4 – PROPERTY ELIGIBILITY
 
 * Properties must meet standard lending criteria including being habitable, readily lettable or saleable, and structurally sound.
 * All properties must be suitable for buy-to-let purposes and meet the Society's valuation requirements.
 * Note: For specific property type criteria, please refer to the New Build section and other relevant sections throughout this document.
-
----
 
 ## SECTION 5 – CREDIT COMMITMENTS
 
@@ -248,8 +236,6 @@
 ### Pay Day Loans
 
 * Everyday BTL: Maximum of 1 pay day loan in the last 2 years.
-
----
 
 ## SECTION 6 – DEPOSIT
 
@@ -286,8 +272,6 @@
 ### Vendor Gifted Deposit
 
 * We will consider a vendor gifted deposit up to 10%, please contact your Key Account Manager for more details.
-
----
 
 ## SECTION 7 – EMPLOYMENT
 
@@ -359,8 +343,6 @@
 
 * If one applicant has a full time PAYE income, we can use up to 50% of zero hours / agency income from applicant two, as verified by bank statements or tax returns over the last 12 months.
 
----
-
 ## SECTION 8 – EXPATS
 
 ### Acceptable Countries
@@ -415,8 +397,6 @@
 
 * We do not accept applications for ExPat Regulated Buy to Let mortgages.
 
----
-
 ## SECTION 9 – INCOME & AFFORDABILITY
 
 ### Rental Income Coverage
@@ -454,8 +434,6 @@
 
 * All income sources must be evidenced appropriately.
 * For details on acceptable income types and evidence requirements, please refer to the Employment section and Interest Only section.
-
----
 
 ## SECTION 10 – INTEREST ONLY & INCOME TYPES
 
@@ -513,8 +491,6 @@
 
 * Up to 100% of allowance can be considered subject to proof that it's a regular source of income.
 
----
-
 ## SECTION 11 – JBSP & REGULATED
 
 ### Consumer Buy to Let
@@ -530,8 +506,6 @@
 
 * We have a specific Regulated BTL scheme available, contact your Key Account Manager for further details.
 * These applications are based on affordability rather than standard BTL rental calculations.
-
----
 
 ## SECTION 12 – LENDING SCHEMES & FEATURES
 
@@ -564,13 +538,9 @@
 
 * We will accept new build sales incentives providing they meet the requirements as outlined in the BSA Handbook.
 
----
-
 ## SECTION 13 – PORTFOLIO LANDLORDS
 
 * We don't currently accept applications from portfolio landlords.
-
----
 
 ## SECTION 14 – OTHER
 
@@ -599,8 +569,6 @@
 
 * We use Gateway.
 
----
-
 ## SECTION 15 – CONTACT INFORMATION
 
 Phone: 01494 879500
@@ -610,7 +578,5 @@ Hours:
 * Monday - Friday 9.15am to 4.45pm (Wednesdays only 9.45am to 4.45pm)
 * Saturday 9.15am to 12.00pm
 * Sunday CLOSED
-
----
 
 *END OF DOCUMENT*

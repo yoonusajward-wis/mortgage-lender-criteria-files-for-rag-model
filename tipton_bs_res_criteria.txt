@@ -1,14 +1,10 @@
 # TIPTON BUILDING SOCIETY – RESIDENTIAL LENDING CRITERIA
 
----
-
 **LENDER:** Tipton Building Society
 **PRODUCT:** Residential
 **LAST UPDATED:** 2025
 **SOURCE:** The Tipton Building Society
 **FOR INTERMEDIARIES ONLY**
-
----
 
 # Affordability
 

@@ -1,7 +1,5 @@
 # VIRGIN MONEY – RESIDENTIAL LENDING CRITERIA
 
----
-
 **LENDER:** Virgin Money
 **PRODUCT:** Residential
 **DOCUMENT TYPE:** Residential Lending Criteria Guide
@@ -9,13 +7,9 @@
 **SOURCE:** [Virgin Money Intermediaries](https://intermediaries.virginmoney.com/lending-criteria/residential/)
 **FOR INTERMEDIARY USE ONLY**
 
----
-
 ## Links
 
 * [Residential criteria](https://intermediaries.virginmoney.com/lending-criteria/residential/) | **Phone:** 0345 601 0680 | [Intermediaries](https://intermediaries.virginmoney.com/)
-
----
 
 ## Adverse Credit
 
@@ -43,8 +37,6 @@ None of these are acceptable within the last 6 years, even where satisfied or di
 ### Repossession
 Customers must never have had a property repossessed.
 
----
-
 ## Age
 
 - The minimum age at the start of the application is 18
@@ -54,23 +46,17 @@ For Interest Only Mortgages where downsizing is being used as the repayment vehi
 
 View [lending into retirement policy](https://intermediaries.virginmoney.com/lending-criteria/residential/lending-into-retirement/)
 
----
-
 ## Applicants
 
 The maximum number of applicants is 4. We use the income of the 2 highest earners.
 
 If there are more than 2 applicants our online system can't be used and to get an illustration, a DIP or to apply, call us on 0345 601 0680.
 
----
-
 ## Assignable Contracts
 
 We do not lend on assigned contracts.
 
 This is where a vendor allows the assignment of a purchase contract from the original buyer to a new buyer before completion.
-
----
 
 ## Back to Back Transactions
 
@@ -91,8 +77,6 @@ Where a property has been gifted, we will not allow a remortgage within the firs
 ### Contact us before applying
 You need to let us know if a case is a back to back transaction before applying.
 
----
-
 ## Bank Statements
 
 We don't always need bank statements, but we do need them for certain applications.
@@ -106,8 +90,6 @@ We don't always need bank statements, but we do need them for certain applicatio
 For self employed customers we may ask for the latest months' business bank statement. We'll let you know if we need it.
 
 View [packaging requirements](https://intermediaries.virginmoney.com/packaging-requirements/)
-
----
 
 ## Bonus and Variable Income
 
@@ -129,8 +111,6 @@ Exceptionally, we may be able to use up to 75% of variable income where a 3 year
 
 View [packaging requirements](https://intermediaries.virginmoney.com/packaging-requirements/)
 
----
-
 ## Capital Raising
 
 ### Allowable Purposes
@@ -145,8 +125,6 @@ View [packaging requirements](https://intermediaries.virginmoney.com/packaging-r
 - Maximum LTV 80% for debt consolidation
 - We include the monthly payments of any debts being repaid (other than Help to Buy Equity Loans) in our affordability assessment as if they were not being paid off
 - Debt consolidation is not allowed on interest only. The amount being consolidated must be on capital and interest
-
----
 
 ## Cladding
 
@@ -183,8 +161,6 @@ For changes to an existing Virgin Money mortgage we will assess each case based 
 
 For any other questions about EWS please refer to the [FAQs](https://www.rics.org/news-insights/current-topics-campaigns/fire-safety/cladding-external-wall-system-ews-faqs) provided by RICS or visit the [Government's website](https://www.gov.uk/guidance/cladding-remediation) to view their guidance on cladding.
 
----
-
 ## Contractors
 
 ### Daily Rate Contractors
@@ -212,8 +188,6 @@ We assess CIS income using our [self employed policy](https://intermediaries.vir
 ### Evidence
 View [packaging requirements](https://intermediaries.virginmoney.com/packaging-requirements/)
 
----
-
 ## Debt Consolidation
 
 The maximum LTV for debt consolidation is 80%.
@@ -221,8 +195,6 @@ The maximum LTV for debt consolidation is 80%.
 We include the monthly payments of any debts being repaid (other than Help to Buy Equity Loans) in our affordability assessment as if they were not being paid off.
 
 Debt consolidation is not allowed on interest only. The amount being consolidated must be on capital and interest.
-
----
 
 ## Deposit
 
@@ -252,8 +224,6 @@ Deposits sourced from Rotating Savings and Credit Associations (ROSCA), such as 
 ### Evidence
 We do not usually require proof of deposit to be provided. The legal rep will confirm the deposit as part of their due diligence. If the deposit is gifted, we require a [gifted deposit form](https://intermediaries.virginmoney.com/downloads/pdf/gifted-deposit-template.pdf).
 
----
-
 ## Discounted Purchase
 
 Also known as a concessionary purchase, an undervalue purchase or use of gifted equity as deposit for a purchase is acceptable when buying from a family member. The seller cannot live in the property after it has been sold.
@@ -270,15 +240,11 @@ We will need a letter from the family member(s) gifting the equity to confirm th
 
 We do not allow a remortgage within 6 months of being gifted a property.
 
----
-
 ## Execution Only
 
 We allow execution only applications where all applicants are either High Net Worth or Mortgage Professionals, according to the MCOB definition.
 
 We allow brokers to submit their own applications. They must be submitted on an advised basis rather than execution only basis. We pay the usual procuration fee.
-
----
 
 ## Ex-Pats
 
@@ -292,15 +258,11 @@ UK and Irish nationals resident in the UK but are temporarily working abroad are
 
 UK residency is determined by the UK's Statutory Residence Test. This does not always require a minimum number of days an individual must be physically present in the UK but confirms if you've been in the UK for 183 or more days in a given tax year, you'll be a UK resident.
 
----
-
 ## First Time Buyers
 
 We define a first time buyer (FTB) as a customer who has never had a mortgage. For a joint application neither customer will have ever had a mortgage.
 
 First time buyers are acceptable up to 95% LTV.
-
----
 
 ## Flats
 
@@ -331,8 +293,6 @@ Flats must be leasehold (or in Scotland, heritable or leasehold). Share of freeh
 
 Freehold flats are only acceptable for a Tyneside flat where there are reciprocating lease/ freehold arrangements, with our security being the lease of the subject flat and the freehold of the other flat.
 
----
-
 ## Forces Help to Buy
 
 Forces HTB is a scheme open to serving members of the armed forces allowing them to borrow up to 50% of their annual salary up to £25,000 interest free. Funds can be used towards a deposit and fees for a residential purchase and are repaid in equal instalments over a 10 year period, deducted from salary with a small insurance premium.
@@ -347,8 +307,6 @@ We don't need the customer's personal information note from the MoD which confir
 
 We allow Forces HTB for Shared Ownership too, and it'll count towards the minimum 5% personal contribution we need for a Shared Ownership deposit.
 
----
-
 ## Foreign Currency
 
 We do not lend in the case of foreign currency loans. This means:
@@ -358,8 +316,6 @@ We do not lend in the case of foreign currency loans. This means:
 
 ### UK Residency
 UK residency is determined by the UK's Statutory Residence Test. This does not always require a minimum number of days an individual must be physically present in the UK but confirms if you've been in the UK for 183 or more days in a given tax year, you'll be a UK resident.
-
----
 
 ## Foreign Nationals
 
@@ -385,15 +341,11 @@ We cannot lend to nationals of a [country subject to financial sanctions](https:
 
 View [packaging requirements](https://intermediaries.virginmoney.com/packaging-requirements/)
 
----
-
 ## Foster Carers
 
 Income from foster caring is acceptable and is subject to our usual [self employed policy](https://intermediaries.virginmoney.com/lending-criteria/residential/self-employed/).
 
 Any individuals under foster care should be included as dependants within the application.
-
----
 
 ## Greener Mortgages
 
@@ -401,21 +353,15 @@ Our Greener mortgages give customers access to a range of products that are pric
 
 To qualify, customers must be purchasing a new build residential home with a certified or predicted energy rating of A or B, evidenced by an Energy Performance Certificate (EPC), a Predicted Energy Assessment (PEA) or a Standard Assessment Procedure calculation (SAP).
 
----
-
 ## Guarantors
 
 We don't offer guarantor mortgages.
-
----
 
 ## Help to Buy
 
 For customers with a Help to Buy equity loan on a property mortgaged with another lender, we only offer remortgages if the equity loan is being repaid in full.
 
 We don't offer remortgages to customers partially staircasing.
-
----
 
 ## Income
 
@@ -495,8 +441,6 @@ We accept the following benefits:
 - [Affordability calculator](https://intermediaries.virginmoney.com/affordability-calculator/)
 - [Maximum loan to income policy](https://intermediaries.virginmoney.com/lending-criteria/residential/income-multiples/)
 
----
-
 ## Income Multiples
 
 ### Purchase or Remortgage with Additional Borrowing
@@ -523,8 +467,6 @@ When applying LTI multiples we include all of the following income:
 Rental income is not included for LTI purposes.
 
 This is also how we determine whether a case meets the £50k/£75k income levels referenced above.
-
----
 
 ## Interest Only
 
@@ -578,13 +520,9 @@ We include 100% of variable income (rather than the 60% used for income multiple
 
 View [packaging requirements](https://intermediaries.virginmoney.com/packaging-requirements/).
 
----
-
 ## Joint Borrower Sole Owner
 
 Also known as JBSO or JBSP, we don't offer joint borrower sole owner mortgages through Virgin Money, but we do offer JBSO for residential mortgages through [Clydesdale Bank](https://www.clydesdalebankintermediaries.co.uk/help-support/residential-help/?page=article&id=604300000007105).
-
----
 
 ## Leasehold
 
@@ -598,8 +536,6 @@ Leases should have at least 85 years remaining at the time of application. If a 
 Leases which contain a provision for periodic increase of the ground rent are acceptable if the amount remains reasonable throughout its term. Increases should usually be linked to RPI or similar. If subject to a multiplier, any multipliers which cause a doubling of rent every period of 15 years or less are not permitted.
 
 Ground rent must not exceed £250 per annum at any point during the lease term. In Greater London it's £1,000. We don't accept indemnity policies for this matter, instead leases must be varied so that the ground rent does not rise above the threshold.
-
----
 
 ## Lending into Retirement
 
@@ -618,8 +554,6 @@ The following types of pension are all acceptable: annuities, occupational (defi
 ### Interest Only
 Lending into retirement is not allowed if downsizing is the repayment vehicle.
 
----
-
 ## Let-to-Buy
 
 For the residential purchase transaction on a LTB, our standard residential criteria and LTV limits apply.
@@ -629,8 +563,6 @@ We do not require simultaneous completion, except when both the BTL and resident
 To evidence the new background rental income and mortgage payment, view our [packaging requirements](https://intermediaries.virginmoney.com/packaging-requirements/).
 
 For our criteria on the BTL remortgage transaction in a let-to-buy, view the [let-to-buy article](https://intermediaries.virginmoney.com/lending-criteria/buy-to-let/let-to-buy/) of our BTL criteria.
-
----
 
 ## Loan Purpose
 
@@ -647,8 +579,6 @@ We allow additional borrowing as part of a remortgage application for most reaso
 - We include the monthly payments of any debts being repaid (other than Help to Buy Equity Loans) in our affordability assessment as if they were not being paid off
 - Debt consolidation is not allowed on interest only. The amount being consolidated must be on capital and interest
 
----
-
 ## Loan Size
 
 We have no minimum loan size.
@@ -656,8 +586,6 @@ We have no minimum loan size.
 Our maximum residential loan size is £1m. See our [maximum LTV criteria](https://intermediaries.virginmoney.com/lending-criteria/residential/maximum-ltv/).
 
 Some of our products will have a minimum loan size and/or a different maximum loan size.
-
----
 
 # MAXIMUM LTV
 
@@ -700,8 +628,6 @@ Notes:
 - Product fees can be added to the loan, but the total borrowing must not exceed 95% LTV
 - To check more specific LTV restrictions, view our policies on [capital raising](https://intermediaries.virginmoney.com/lending-criteria/residential/capital-raising/), [debt consolidation](https://intermediaries.virginmoney.com/lending-criteria/residential/debt-consolidation/), [flats](https://intermediaries.virginmoney.com/lending-criteria/residential/flats/), [interest only](https://intermediaries.virginmoney.com/lending-criteria/residential/interest-only/), [new build](https://intermediaries.virginmoney.com/lending-criteria/residential/new-build/), [right to buy](https://intermediaries.virginmoney.com/lending-criteria/residential/right-to-buy/) and [second residences](https://intermediaries.virginmoney.com/lending-criteria/residential/second-home/)
 
----
-
 ## New Build
 
 ### Maximum LTV
@@ -736,8 +662,6 @@ New build offers are valid for 210 days.
 
 Further offer extensions of 210 days require up to date documentation, a new on sale product to be selected and re-assessment against current criteria. We will also refer to the valuer to determine whether the original valuation report can be used, an updated valuation figure should be used or a reinspection is required. This will not result in additional product or valuation fees.
 
----
-
 ## Offers
 
 ### Validity
@@ -757,8 +681,6 @@ For new build properties we can extend offers for a further 210 days and will re
 
 We will also refer to the valuer to determine whether the original valuation report can be used, an updated valuation figure should be used or a reinspection is required. This will not result in additional product or valuation fees.
 
----
-
 ## Parental Leave
 
 When someone is on parental leave (often maternity leave or paternity leave), we'll use their return to work income subject to confirming their intended return to work date, which should be in the next 12 months. We'll also need to confirm their working hours.
@@ -769,13 +691,9 @@ Any future childcare costs should be included within the application.
 
 View [packaging requirements](https://intermediaries.virginmoney.com/packaging-requirements/)
 
----
-
 ## Probation
 
 If the customer is in probation or has not been in their current job for 6 months, this is acceptable as long as they have a permanent contract (as opposed to short term) and they've received their first payslip.
-
----
 
 ## Product Fees
 
@@ -785,15 +703,11 @@ When an application includes more than one product the overall loan amount deter
 
 All our mortgages have a funds transfer fee of £25 for us to send mortgage funds to the legal rep.
 
----
-
 ## Professional Product
 
 Our professional mortgages give customers access to a range of products that have beneficial pricing or incentives compared to the equivalent non-professional products. Please refer to the latest Product Guide for details.
 
 To qualify, one or more of the applicants must be fully qualified and employed in the following occupations: accountants, architects, barristers, chartered surveyors, engineers, financial advisers (including mortgage advisers), medical (ambulance workers, dentists, doctors, nurses, and any NHS band 3+ or non-NHS equivalent), pilots, police officers, solicitors, teachers, vets.
-
----
 
 ## Professional Sportsperson or Entertainer
 
@@ -803,13 +717,9 @@ The maximum LTV is usually 75%.
 
 Lending to these customers is subject to underwriter assessment so please check with us before applying.
 
----
-
 ## Promotion or Pay Rise
 
 If an employed applicant has a confirmed pay rise (from a pay review or promotion, for example) we may be able to use the increased income if it is due to start within a reasonable time-frame. We'll need confirmation from the employer, and you should contact us before applying.
-
----
 
 ## Property
 
@@ -861,8 +771,6 @@ We are usually able to lend with no further requirements.
 - Properties with a pre-emption clause or section 106 restriction/restrictive covenant on occupation, use or development (other than where allowed for Right To Buy & Shared Ownership) are usually not acceptable
 - Spray foam insulation is usually not acceptable. We may be able to consider certain types of installation depending on the documentation available, but please contact us before applying
 
----
-
 ## Remortgage Package
 
 We offer a range of products with a remortgage package of one free valuation and free basic legal work. The free valuation has no maximum property value or loan size. The maximum property value for free basic legal work is £2m, and there is no maximum loan size. The package also applies to capital raising on an unencumbered property.
@@ -871,8 +779,6 @@ We'll choose a firm to complete the free basic legal work under the package. Add
 
 ### Free Basic Legal Work Eligibility
 Most transactions are eligible for the free basic legal work. Customers who want to appoint their own legal rep must choose a product without free basic legal work included. Then they can appoint a legal rep at their own cost. Their chosen legal rep will act for the customer and Virgin Money and must be on our legal panel.
-
----
 
 ## Replacement Property
 
@@ -885,8 +791,6 @@ Application details can be copied over to the new application. Any product fee p
 We can usually make changes to existing offers if you need to amend things like the term, loan amount, repayment method, or purchase price. Just contact us to let us know what you need to change. Where this requires a change to product, the range used should be our current new business range.
 
 We allow a change of product using the current product range as many times as needed prior to completion. This can be pre-offer or post-offer, up until we have received the Certificate of Title from the solicitor. We can't make changes to the product after the COT has been received.
-
----
 
 ## Residency
 
@@ -902,15 +806,11 @@ UK residency is determined by the UK's Statutory Residence Test. This does not a
 
 For non-UK/Irish nationals resident in the UK, please see our [foreign nationals policy](https://intermediaries.virginmoney.com/lending-criteria/residential/foreign-nationals/).
 
----
-
 ## Retrofit Boost
 
 Our Retrofit Boost mortgage range charges a higher rate of interest in return for providing cashback to spend on eligible energy efficient home improvements.
 
 For more information, including the list of eligible improvements, please see our [Retrofit Boost page](https://intermediaries.virginmoney.com/retrofit-boost-mortgage/).
-
----
 
 ## Right to Buy
 
@@ -924,8 +824,6 @@ We can't help with any additional borrowing during the period when the customer 
 
 You might also want to check our criteria for [flats](https://intermediaries.virginmoney.com/lending-criteria/residential/flats/) and [property](https://intermediaries.virginmoney.com/lending-criteria/residential/property/).
 
----
-
 ## Second Home
 
 We can lend on a second home (second residence, holiday home, home for a dependant relative) up to 75% LTV.
@@ -933,8 +831,6 @@ We can lend on a second home (second residence, holiday home, home for a dependa
 If a customer has a second home in the background, we can lend on their primary residence up to 90% LTV.
 
 We don't apply aggregated loan to income caps but both mortgages and the costs of running two homes must be affordable so please use our [affordability calculator](https://intermediaries.virginmoney.com/affordability-calculator/).
-
----
 
 ## Self Employed
 
@@ -989,8 +885,6 @@ Where an established business has changed its trading entity (for example, the b
 
 View [packaging requirements](https://intermediaries.virginmoney.com/packaging-requirements/)
 
----
-
 ## Shared Ownership
 
 ### Availability
@@ -1014,16 +908,12 @@ Additional borrowing is usually only available for staircasing (minimum 5%), sub
 
 The housing association must give consent for a product transfer, change of term, consent to let or for additional borrowing.
 
----
-
 ## Term
 
 - The minimum term is 5 years, and must be at least 1 month longer than the initial product end date
 - The maximum term is 40 years
 
 View our [age policy](https://intermediaries.virginmoney.com/lending-criteria/residential/age/).
-
----
 
 ## Transcripts
 
@@ -1032,8 +922,6 @@ For residential purchase applications up to 95% LTV for properties in Scotland w
 Allied Surveyors Scotland, Connells, D M Hall, David Adamson & Partners, Dixon Heaney Kean Kennedy, First Surveyors Scotland, Gateway Surveyors, Graham & Sibbald, J & E Shepherd, L A Simpson Chartered Surveyors, N J Coward, S J Omand Chartered Surveyors, Sesame Bankhall, Shetland Surveyors Limited, Torrance Partnership, Walker Fraser Steele, Valunation, Whyte & Barrie.
 
 We do not charge a fee for a transcript. If the report is more than 90 days old or the firm is not one of those listed above, we will require a lender's valuation report.
-
----
 
 ## Valuation Fees
 
@@ -1063,12 +951,8 @@ Over £3,000,000: Quoted individually
 
 View [transcripts criteria](https://intermediaries.virginmoney.com/lending-criteria/residential/transcripts/).
 
----
-
 # CONTACT
 
 **Phone:** 0345 601 0680 | **Website:** https://intermediaries.virginmoney.com/
-
----
 
 # END OF DOCUMENT

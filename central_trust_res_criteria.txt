@@ -1,7 +1,5 @@
 # CENTRAL TRUST – RESIDENTIAL CRITERIA
 
----
-
 **LENDER:** Central Trust Limited
 **PRODUCT:** Residential (First Charge and Second Charge)
 **DOCUMENT TYPE:** Lending Criteria
@@ -9,8 +7,6 @@
 **FOR INTERMEDIARY USE ONLY**
 
 **Source:** [Residential mortgage](https://www.centraltrust.co.uk/residential-mortgage/)
-
----
 
 ## SECTION 1 – OVERVIEW & KEY CRITERIA
 
@@ -39,8 +35,6 @@
 
 * Minimum property value: £75,000.
 
----
-
 ## SECTION 2 – FIRST CHARGE RESIDENTIAL
 
 ### Product Characteristics
@@ -60,8 +54,6 @@
 * Homeowners resident in England, Wales, Scotland or Northern Ireland with equity in their residential property, who may have an imperfect credit history and who have a borrowing need.
 * Not designed for: non-homeowners; those with no or little equity; severely credit impaired (even if able to pay); those who do not meet lending or property criteria; those requiring interest only or part and part.
 
----
-
 ## SECTION 3 – SECOND CHARGE RESIDENTIAL
 
 ### Product Characteristics
@@ -80,8 +72,6 @@
 
 * Same target group as First Charge: homeowners with equity, imperfect credit history, borrowing need. Same exclusions (non-homeowners, no/little equity, severely credit impaired, interest only/part and part not available).
 
----
-
 ## SECTION 4 – DISTRIBUTION & APPLICATIONS
 
 ### Distribution Strategy
@@ -98,16 +88,12 @@
 * Consolidation of secured and unsecured credit into a more manageable monthly payment.
 * Loan size or term requirements that may not be available via unsecured products.
 
----
-
 ## SECTION 5 – VULNERABLE CUSTOMERS
 
 * Product may include customers with characteristics of vulnerability or those who may experience vulnerability during the lifetime of the mortgage.
 * CTL is mindful of the FCA's four key drivers: Health; Life Events; Resilience; Capability.
 * Framework includes: staff education and training; dedicated collections specialists; customer service and communications; affordability assessment at application; monitoring. Customers with certain disabilities may have reasonable adjustments but will not receive a different outcome to others within the target market.
 * Intermediaries must comply with obligations to treat customers in vulnerable circumstances fairly.
-
----
 
 ## SECTION 6 – DOWNLOADS
 
@@ -116,8 +102,6 @@
 * Second Charge Residential Mortgages – download available.
 * Consumer Duty information sheets (First Charge and Second Charge) available from Central Trust.
 * Intermediary portal: [CTIP login](https://ctip.centraltrust.co.uk/SecondMortgage/Account/Login)
-
----
 
 ## SECTION 7 – CONTACT
 
@@ -136,7 +120,5 @@ Building 2, Axis, Rhodes Way, Watford, Hertfordshire WD24 4YW
 * FCA number: 739724
 * Central Trust is a trading style of Central Trust Limited
 * Member of the Finance and Leasing Association (FLA); adheres to the FLA Lending Code
-
----
 
 *END OF DOCUMENT*

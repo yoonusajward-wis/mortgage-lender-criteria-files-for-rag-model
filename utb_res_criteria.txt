@@ -1,7 +1,5 @@
 # UTB Mortgages – Residential & Second Charge Criteria
 
----
-
 **LENDER:** UTB Mortgages
 **PRODUCT:** Residential (First Charge & Second Charge)
 **DOCUMENT TYPE:** Lending Criteria
@@ -14,8 +12,6 @@
 - Phone: 02070 311 551
 - Email: mortgage.enquiries@utbank.co.uk
 - Portal: https://www.utbankmortgages.co.uk
-
----
 
 ## SECTION 1 – RESIDENTIAL FIRST CHARGE – LOAN PARAMETERS
 
@@ -33,8 +29,6 @@
 - Lending available in England, Wales and Mainland Scotland.
 - Minimum age: 18 years old.
 
----
-
 ## SECTION 2 – SECOND CHARGE – LOAN PARAMETERS
 
 - Maximum LTV: 90%.
@@ -51,8 +45,6 @@
 - Minimum age: 18 years old.
 
 > All residential mortgage criteria apply to second charge products, with the exception of interest only, 50% DTI and £2,000,000 maximum loan.
-
----
 
 ## SECTION 3 – PROPERTY REQUIREMENTS
 
@@ -87,8 +79,6 @@
 - Purchases: minimum of two solicitors in practice required.
 - Customer may choose own solicitor for purchase, but the firm must have a minimum of 2 partners.
 - Indemnity insurance required for gifted equity.
-
----
 
 ## SECTION 4 – VALUATION REQUIREMENTS
 
@@ -136,14 +126,10 @@ Properties above £1,000,000:
 - Allowed up to maximum LTV and gross loan.
 - Specialist reports not required if property has been purchased or remortgaged in the last 5 years.
 
----
-
 ## SECTION 5 – ID AND RESIDENCY
 
 - Documentary proof of ID required for all applications (usually via UTB Chat Hub).
 - If digital ID cannot be provided, applicants must take Independent Legal Advice from a pre-approved firm with at least 2 partners.
-
----
 
 ## SECTION 6 – LOAN PURPOSE
 
@@ -152,16 +138,12 @@ Properties above £1,000,000:
 - Debt consolidation: limited to £25,000 and only for home improvements completed in the last 6 months.
 - On consolidation applications, all credit card, mail order and store card funds are sent to the client to pay rather than UTB sending cheques or electronic transfers.
 
----
-
 ## SECTION 7 – APPLICANT ELIGIBILITY
 
 - Minimum age: 18 (25 for interest only).
 - Maximum age: 85 at end of term.
 - Married and sole applications accepted.
 - Mortgage prisoners: considered.
-
----
 
 ## SECTION 8 – INCOME AND AFFORDABILITY
 
@@ -194,8 +176,6 @@ Properties above £1,000,000:
 - Assessment must be sustainable and evidenced for the entire loan term.
 - Debt consolidation (status 1 and 2) must be ≤1.5x total gross income.
 
----
-
 ## SECTION 9 – PROOF OF INCOME
 
 - Employed: last 2 payslips (computerised), or 2 manual payslips plus P60/bank statement.
@@ -204,8 +184,6 @@ Properties above £1,000,000:
 - Pension: last pension statement plus latest bank statement.
 - Maintenance, benefits, tax credits: Court order/CSA documentation or entitlement letter plus bank statement.
 - Trust income: Trust Deed plus latest bank statement.
-
----
 
 ## SECTION 10 – INTEREST ONLY
 
@@ -231,8 +209,6 @@ Multiple repayment vehicles are allowed:
 - Endowment: 75% of projected lump sum.
 - Unit Trusts, OEICs, or investment bonds: 75% of current portfolio value.
 
----
-
 ## SECTION 11 – DEPOSIT CRITERIA
 
 - Equity from an existing property.
@@ -240,8 +216,6 @@ Multiple repayment vehicles are allowed:
 - ISA in customer's name.
 - Gifted deposit from blood relatives or step-relatives.
 - Gifted equity with Stamp Duty Land Tax paid at full open market value.
-
----
 
 ## SECTION 12 – CREDIT HISTORY
 
@@ -275,7 +249,5 @@ Multiple repayment vehicles are allowed:
 **Additional notes (all plans):**
 - Mail order and communications debts are ignored.
 - Previous conduct will still affect the applicant's credit score.
-
----
 
 *END OF DOCUMENT*

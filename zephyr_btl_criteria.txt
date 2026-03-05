@@ -1,15 +1,11 @@
 # ZEPHYR HOME LOANS – BTL UNDERWRITING CRITERIA
 
----
-
 **LENDER:** Zephyr Home Loans
 **PRODUCT:** Buy to Let
 **DOCUMENT TYPE:** BTL Underwriting Guide
 **SOURCE:** [Underwriting Guide PDF](https://zephyrhomeloans.co.uk/wp-content/uploads/2025/05/Underwriting-Guide.pdf)
 **LAST UPDATED:** October 2025
 **FOR INTERMEDIARY USE ONLY**
-
----
 
 # SECTION 1 – INTRODUCTION
 
@@ -29,8 +25,6 @@ Use in conjunction with this guide:
 * Product Range
 
 All available from [www.zephyrhomeloans.co.uk/documents](https://www.zephyrhomeloans.co.uk/documents).
-
----
 
 # SECTION 2 – GENERAL LENDING CRITERIA
 
@@ -71,13 +65,9 @@ All available from [www.zephyrhomeloans.co.uk/documents](https://www.zephyrhomel
 
 **Non-EEA nationals:** Vignette/stamp certifying right of abode in valid passport; or Biometric Residence Permit certifying right of abode; or document certifying permanent residence.
 
----
-
 ## Identification
 
 **Requirement:** All applicants/directors must provide a valid National Insurance Number and UK bank account details.
-
----
 
 ## Address History
 
@@ -91,8 +81,6 @@ All available from [www.zephyrhomeloans.co.uk/documents](https://www.zephyrhomel
 
 **Power of Attorney:** Not permissible.
 
----
-
 ## Customer Segments
 
 **Standard:** Individual(s) or Limited Companies purchasing or remortgaging BTL residential properties.
@@ -100,8 +88,6 @@ All available from [www.zephyrhomeloans.co.uk/documents](https://www.zephyrhomel
 **Specialist:** Individual(s) or Limited Companies purchasing or remortgaging specialist properties: HMOs, MUFBs, Flats above commercial (FAC).
 
 **New Builds:** Standard and Specialist New Build properties considered. ICR same as equivalent non-New Build type. New Builds form part of Specialist Range with bespoke products – see Section 8 and [Product Range](https://www.zephyrhomeloans.co.uk/documents).
-
----
 
 ## Customer Types
 
@@ -113,15 +99,11 @@ All available from [www.zephyrhomeloans.co.uk/documents](https://www.zephyrhomel
 
 **Criminal record:** We will not accept applications from customers with a criminal record, or living with someone who has, unless the conviction is for a minor traffic offence or is spent under the Rehabilitation of Offenders Act 1974. Unspent criminal record (customer or someone living with them) → application declined.
 
----
-
 ## Consumer BTL
 
 **Not acceptable:** Zephyr is unable to lend on a Consumer Buy to Let basis. Where an application may be subject to Consumer BTL regulatory requirements, the application will be declined. Example: applicant or family member has previously resided in the property and applicant does not have at least one other BTL property – we will view as Consumer loan regardless of time elapsed.
 
 **Inherited properties:** We are unable to accept applications in respect of inherited properties previously occupied by relatives of any borrower; we only offer BTL mortgages on an unregulated basis.
-
----
 
 ## Applicants – Age
 
@@ -129,8 +111,6 @@ All available from [www.zephyrhomeloans.co.uk/documents](https://www.zephyrhomel
 
 * **Minimum age:** 21
 * **Maximum age:** 95 years at end of mortgage term
-
----
 
 # SECTION 3 – PORTFOLIO LANDLORDS
 
@@ -150,8 +130,6 @@ All available from [www.zephyrhomeloans.co.uk/documents](https://www.zephyrhomel
 * Any other supporting information
 
 Templates available from [Zephyr Homeloans website](https://www.zephyrhomeloans.co.uk/documents). Cash flow must demonstrate sustainability of the portfolio over previous and future 12-month periods; surplus required in the second 12-month period. Mortgage payments cross-checked with credit file/Companies Register; inconsistencies investigated. AVM rental data may validate declared rents for background portfolio; if aggregate AVM rental does not accord with declared rentals, underwriter may sample check (e.g. bank statements last 3 months and/or tenancy agreements). Cash flow must show rental income and actual/forecasted costs including voids, maintenance and property management.
-
----
 
 # SECTION 4 – SPECIAL PURPOSE VEHICLE (SPV) APPLICATIONS
 
@@ -186,8 +164,6 @@ We will lend to a Limited Company purchasing a property from a director of that 
 
 Any application where a property is transferred from an LLP to a Ltd Co must be discussed with us prior to application. Application must be accompanied by a short note describing the transaction; we will follow up with specific underwriting requirements.
 
----
-
 # SECTION 5 – CREDIT STATUS
 
 **Requirement:** All applicants and directors of Limited Companies must have a good credit history. Credit search at both DIP and Full Mortgage Application (irrespective of period between). DIP = soft footprint; FMA = hard footprint. Any applicant not meeting our credit criteria will be automatically declined. Late or missed payments may be referred to underwriting; acceptance at underwriter discretion.
@@ -215,8 +191,6 @@ Application referred where Notice of Correction on file. Suitably mandated under
 ## Unable to Trace / Thin File / Low Score
 
 Where referred due to no traceable file or paucity of credit history, underwriter will undertake manual assessment including appropriate ID verification. If satisfied explanation for lack of data is plausible, may upgrade refer to accept. Low credit score → referred for manual underwriting; full credit file considered.
-
----
 
 # SECTION 6 – INCOME
 
@@ -285,8 +259,6 @@ Loan affordable where ICR (using valuer's rental assessment and loan amount incl
 
 **Pipeline cases and stressed rates:** If stressed rate changes between application and completion we will not normally reassess unless material change (e.g. name, address, DOB, personal circumstances) or days since last credit search exceed offer validity. If stressed rate changes between DIP and applicant paying product fee and/or hard footprint, revised stressed rate will be used.
 
----
-
 # SECTION 7 – TENANCY
 
 ## Tenancy Type
@@ -314,8 +286,6 @@ Agreement must be in the name of the customer and the tenant. If a letting agent
 ## High Value Tenancy
 
 Rental exceeds £100,000 per annum from one property = Common Law Tenancy (Contractual Non-Assured Tenancy). Acceptable subject to valuer recommendation. We reserve the right to seek a copy of the agreement (AST or Common Law).
-
----
 
 # SECTION 8 – LOAN DETAILS
 
@@ -399,8 +369,6 @@ For remortgage, applicant must have owned property at least 6 months (mortgage s
 ## UK Bank Accounts
 
 All applicants must have a UK bank account for mortgage payments. Direct Debit from UK current account is a condition; account must be in the name of at least one applicant or the Limited Company.
-
----
 
 # SECTION 9 – PROPERTY DETAILS
 
@@ -526,13 +494,9 @@ Acceptability based on satisfactory valuation per construction and valuation pol
 
 All properties must be held as Joint Tenants or Tenants in Common; each borrower joint and severally liable for full mortgage debt.
 
----
-
 # SECTION 10 – SOLICITORS
 
 **Requirement:** We will instruct our solicitor to act in all cases. Our solicitor can act jointly or solely. If applicant chooses separate solicitor, applicant liable for both sets of legal costs. We will only accept instructions to cancel a case from the solicitors acting on our behalf.
-
----
 
 # SECTION 11 – FEES
 
@@ -546,18 +510,12 @@ Product fees can be added to the loan above applicable LTV limit up to 83% total
 
 Where application declined or we are advised application not proceeding, any fees paid (excluding non-refundable) refunded to the party who paid. Valuation fee refunded only if notification of not proceeding received with sufficient notice to cancel instruction. See Tariff of Charges.
 
----
-
 # CONTACT AND DOCUMENTS
 
 For case discussion, contact Regional Sales Managers or Telephone BDMs. Documents library: [www.zephyrhomeloans.co.uk/documents](https://www.zephyrhomeloans.co.uk/documents). Contact: [www.zephyrhomeloans.co.uk/contact](https://www.zephyrhomeloans.co.uk/contact).
 
----
-
 # REGULATORY INFORMATION
 
 Zephyr Homeloans is a trading name of Topaz Finance Limited. Registered in England & Wales. Company No 05946900. Registered address: The Pavilions, Bridgewater Road, Bristol BS13 8AE. Topaz Finance Limited is authorised and regulated by the Financial Conduct Authority (Firm Reference No 461671). Most buy-to-let mortgages are not regulated by the Financial Conduct Authority.
-
----
 
 # END OF DOCUMENT

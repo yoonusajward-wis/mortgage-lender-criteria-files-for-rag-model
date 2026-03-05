@@ -1,34 +1,25 @@
-# NOMO BANK – RESIDENTIAL PROPERTY FINANCE CRITERIA
+# NOMO BANK – RESIDENTIAL CRITERIA
 
-LENDER: Nomo
-PRODUCT: Residential
-DOCUMENT TYPE: Lending Criteria
-LAST UPDATED: 2025
-FOR INTERMEDIARY USE ONLY
+**LENDER:** Nomo
+**PRODUCT:** Residential
+**DOCUMENT TYPE:** Lending Criteria
+**SOURCE:** [Property finance criteria](https://intermediaries.nomobank.com/criteria/property-finance-criteria/), [Assessment of affordability](https://intermediaries.nomobank.com/criteria/assessment-of-affordability/)
+**LAST UPDATED:** 2025
 
-SOURCE:
+**IMPORTANT:** For intermediary use only.
 
-* [https://intermediaries.nomobank.com/criteria/property-finance-criteria/](https://intermediaries.nomobank.com/criteria/property-finance-criteria/)
-* [https://intermediaries.nomobank.com/criteria/assessment-of-affordability/](https://intermediaries.nomobank.com/criteria/assessment-of-affordability/)
-
----
+**RAG convention:** Criteria use explicit labels where applicable for retrieval.
 
 # SECTION 1 – APPLICANT ELIGIBILITY
-
----
 
 ## Rule: Age of Applicants
 
 Minimum age at application: 18 years
 Maximum age at end of repayment term: 75 years
 
----
-
 ## Rule: Number of Applicants
 
 Maximum applicants per application: 2
-
----
 
 ## Rule: Type of Applicants
 
@@ -36,8 +27,6 @@ Allowed:
 
 * Individual applicants
 * Limited companies
-
----
 
 ## Rule: Residency Requirements
 
@@ -50,11 +39,7 @@ Applications accepted from applicants residing in:
 * United Arab Emirates
 * Oman
 
----
-
 # SECTION 2 – CREDIT HISTORY
-
----
 
 ## Rule: Bankruptcy, IVA, Possession
 
@@ -63,8 +48,6 @@ Not acceptable:
 * Bankruptcy
 * IVA
 * Voluntary enforced possession
-
----
 
 ## Rule: CCJs
 
@@ -76,15 +59,11 @@ Previous CCJs:
 
 * Must be satisfied before application
 
----
-
 ## Rule: Mortgage Payment Conduct
 
 Not acceptable:
 
 * Any missed mortgage or property finance payments in the last 12 months
-
----
 
 ## Rule: Unsecured Missed Payments
 
@@ -96,8 +75,6 @@ Maximum allowed:
 Includes:
 
 * Mobile phone / communications arrears
-
----
 
 ## Rule: Defaults
 
@@ -112,19 +89,13 @@ Acceptable:
 * Between months 13–36
 * Must be satisfied before submission
 
----
-
 ## Rule: Credit Report
 
 Requirement:
 
 * Up-to-date UK credit report required for all applicants with an active UK footprint
 
----
-
 # SECTION 3 – FINANCE PURPOSE
-
----
 
 ## Rule: Acceptable Finance Purpose
 
@@ -135,11 +106,7 @@ Allowed:
 * Capital-raising
 * Debt consolidation
 
----
-
 # SECTION 4 – DEPOSIT
-
----
 
 ## Rule: Gifted Deposit
 
@@ -151,19 +118,13 @@ Condition:
 
 No further donor restrictions are specified in this document.
 
----
-
 # SECTION 5 – INCOME
-
----
 
 ## Rule: Income Multiples
 
 Maximum Facility-to-Income (FTI) ratio: 4.5
 
 This is applied to total combined income of all applicants.
-
----
 
 ## Rule: Sources of Income Considered
 
@@ -200,11 +161,7 @@ Income not in GBP:
 * No additional haircut applied
 * Must be received from acceptable country list
 
----
-
 # SECTION 6 – PROPERTY CRITERIA
-
----
 
 ## Rule: Property Location
 
@@ -212,8 +169,6 @@ Allowed:
 
 * England
 * Wales
-
----
 
 ## Rule: Minimum Property Value
 
@@ -225,8 +180,6 @@ Inside London (within M25):
 
 * Minimum £350,000
 
----
-
 ## Rule: Property Type – Acceptable
 
 Allowed:
@@ -236,8 +189,6 @@ Allowed:
 * Leasehold (minimum 50 years remaining at end of term)
 * Properties above commercial premises (subject to assessment of business type)
 * EPC rating A, B, C, D or E
-
----
 
 ## Rule: Property Type – Not Acceptable
 
@@ -249,11 +200,7 @@ Not acceptable:
 * Houseboats
 * Grade 1 listed buildings
 
----
-
 # SECTION 7 – AFFORDABILITY ASSESSMENT
-
----
 
 ## Rule: Affordability Methodology
 
@@ -264,8 +211,6 @@ Affordability is assessed by deducting:
 3. Committed expenditure
 
 From total allowable income to calculate disposable income.
-
----
 
 ## Rule: Basic Essential Expenditure
 
@@ -280,8 +225,6 @@ Includes:
 * Ground rent and service charge (leasehold)
 * Essential travel
 
----
-
 ## Rule: Basic Quality of Living Costs
 
 Includes:
@@ -291,8 +234,6 @@ Includes:
 * Personal goods
 * School/childcare fees
 * Maintenance payments
-
----
 
 ## Rule: Committed Expenditure
 
@@ -304,17 +245,11 @@ Includes:
 
 These commitments must continue after finance is provided.
 
----
-
 ## Rule: Bank Statement Evidence
 
 Bank statements submitted as evidence must include statements from the applicant’s country of residence and, where applicable, from the United Kingdom (UK).
 
----
-
 # SECTION 8 – STRESS TEST
-
----
 
 ## Rule: Stress Testing – Residential
 
@@ -326,4 +261,7 @@ Fixed term 5 years or more:
 
 * Profit rate
 
----
+## Main URLs and Contact Information
+
+* https://intermediaries.nomobank.com/criteria/property-finance-criteria/
+* https://intermediaries.nomobank.com/criteria/assessment-of-affordability/

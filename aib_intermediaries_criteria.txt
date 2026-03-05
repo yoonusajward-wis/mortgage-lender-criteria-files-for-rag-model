@@ -1,7 +1,5 @@
 # AIB (NI) FOR INTERMEDIARIES – RESIDENTIAL LENDING CRITERIA
 
----
-
 **LENDER:** AIB (NI)
 **PRODUCT:** Intermediaries (Residential, Northern Ireland)
 **DOCUMENT TYPE:** Residential lending criteria. 7 sections: 1 Applicant, 2 Loan, 3 Employment and Income, 4 Property, 5 Buy to Let, 6 Insurance, 7 Self Build.
@@ -16,8 +14,6 @@ For intermediary use only. This website is for use by FCA authorised mortgage in
 **Contact:** Run-by desk: 028 9047 9100 | Email: broker.mortgages@aib.ie
 
 **Note:** If you wish to send customer data or documentation by email, please send via encrypted/secure email.
-
----
 
 # SECTION 1 – APPLICANT
 
@@ -120,8 +116,6 @@ The following additional criteria will apply:
 ## Residency status
 
 Residency requirements are covered under the Address history section above. Applicants must provide three years' address history, with non-UK addresses acceptable where UK address history is not available.
-
----
 
 ## Loan
 
@@ -232,8 +226,6 @@ Download our [Porting Your Mortgage](https://aibni.co.uk/content/dam/aibni/inter
 ## Co-ownership
 
 Co-ownership schemes are available. Please refer to our [Co-Ownership products page](https://aibni.co.uk/intermediaries/products-and-rates/co-ownership) for further details.
-
----
 
 # SECTION 3 – EMPLOYMENT AND INCOME
 
@@ -381,8 +373,6 @@ Transport costs are included in the affordability assessment as part of the stan
 
 Minimum living costs are factored into the affordability assessment using Office of National Statistics market data for essential and discretionary expenditure.
 
----
-
 # SECTION 4 – PROPERTY
 
 ## Property location
@@ -452,15 +442,11 @@ A first legal mortgage/charge on the property being purchased must be obtained t
 
 **Not Acceptable:** AIB for Intermediaries do not accept applications for mortgages on mixed use properties with a residential element (e.g. Doctor's surgeries/guest houses/pubs).
 
----
-
 # SECTION 5 – BUY TO LET
 
 ## Consumer Buy to Let & Investment Property Loans
 
 **Not Acceptable:** AIB for Intermediaries do not accept applications for Consumer Buy to Let properties or Investment property loans.
-
----
 
 # SECTION 6 – INSURANCE
 
@@ -478,15 +464,11 @@ A copy of the schedule of appropriate buildings insurance will be required prior
 
 Self-Build insurance and Contractor's insurance are required for all Self-Build projects. An independent Self-Build Specialist will request these documents at the initial site review.
 
----
-
 # SECTION 7 – SELF BUILD
 
 AIB for Intermediaries is now accepting applications for Self-Build properties.
 
 For more information on our Self-Build products, please click [here](https://aibni.co.uk/intermediaries/products-and-rates/self-build).
-
----
 
 **AIB Group (UK) p.l.c. is covered by the Financial Services Compensation Scheme and the Financial Ombudsman Service.**
 
